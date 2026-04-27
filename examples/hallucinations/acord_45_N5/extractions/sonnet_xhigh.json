@@ -1,0 +1,152 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": null,
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "WGLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 54110000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property",
+      "limit": 30320000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 58954000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_basic": "unchecked",
+    "causes_of_loss_broad": "unchecked",
+    "causes_of_loss_special": "checked",
+    "valuation_actual_cash_value": "unchecked",
+    "valuation_replacement_cost": "checked",
+    "coinsurance_90_percent": "checked"
+  },
+  "additional_fields": {
+    "agency_customer_id": "AC-070005",
+    "carrier_naic_code": "24281",
+    "causes_of_loss": "Special",
+    "valuation": "Replacement Cost",
+    "coinsurance_percentage": "90%",
+    "deductible_amount": 50000,
+    "additional_interest": "Corporate Headquarters & Main Terminal",
+    "handwritten_note": "Need docs",
+    "handwritten_annotation_date": "2025-06-18",
+    "handwritten_reviewer": "Johnson",
+    "location_schedule": [
+      {
+        "loc_number": 1,
+        "location_name": "Corporate Headquarters & Main Terminal",
+        "building_value": 14800000,
+        "contents_value": 7400000,
+        "business_income_value": 14430000,
+        "tiv": 36630000
+      },
+      {
+        "loc_number": 2,
+        "location_name": "Rickenbacker Air Hub",
+        "building_value": 6650000,
+        "contents_value": 3800000,
+        "business_income_value": 7410000,
+        "tiv": 17860000
+      },
+      {
+        "loc_number": 3,
+        "location_name": "Cleveland Distribution Center",
+        "building_value": 5460000,
+        "contents_value": 3120000,
+        "business_income_value": 6084000,
+        "tiv": 14664000
+      },
+      {
+        "loc_number": 4,
+        "location_name": "Pittsburgh Regional Terminal",
+        "building_value": 4760000,
+        "contents_value": 2720000,
+        "business_income_value": 5304000,
+        "tiv": 12784000,
+        "extraction_note": "Business income value partially obscured by handwritten date annotation; value derived from TIV minus building and contents"
+      },
+      {
+        "loc_number": 5,
+        "location_name": "Philadelphia Cross-Dock",
+        "building_value": 7360000,
+        "contents_value": 3680000,
+        "business_income_value": 7176000,
+        "tiv": 18216000
+      },
+      {
+        "loc_number": 6,
+        "location_name": "Harrisburg Consolidation Hub",
+        "building_value": 3120000,
+        "contents_value": 2080000,
+        "business_income_value": 4056000,
+        "tiv": 9256000
+      },
+      {
+        "loc_number": 7,
+        "location_name": "Toledo Service Center",
+        "building_value": 1960000,
+        "contents_value": 1680000,
+        "business_income_value": 2184000,
+        "tiv": 5824000
+      },
+      {
+        "loc_number": 8,
+        "location_name": "Fleet Maintenance Center",
+        "building_value": 0,
+        "contents_value": 840000,
+        "business_income_value": 1560000,
+        "tiv": 2400000,
+        "extraction_note": "Business income value partially obscured; value derived from TIV minus building and contents"
+      },
+      {
+        "loc_number": 9,
+        "location_name": "Administrative Office",
+        "building_value": 10000000,
+        "contents_value": 5000000,
+        "business_income_value": 9750000,
+        "tiv": 24750000,
+        "extraction_note": "Row partially obscured by handwritten signature; values reconciled from schedule totals"
+      }
+    ],
+    "schedule_totals": {
+      "total_building": 54110000,
+      "total_contents": 30320000,
+      "total_business_income": 58954000,
+      "total_tiv": 142384000
+    }
+  },
+  "remarks": "Handwritten annotation 'Need docs' present on Coverage Information section. Handwritten date '6/18/2025' and reviewer name 'Johnson' overlay rows 4-5 and 8-9 of the location schedule, partially obscuring Pittsburgh Regional Terminal BI and Fleet Maintenance Center BI values; both were derived arithmetically from stated TIVs. Administrative Office (Loc 9) values partially obscured by signature but reconcile correctly against stated schedule totals. Policy number first characters partially illegible; 'WGLFS20258823' is best available reading."
+}

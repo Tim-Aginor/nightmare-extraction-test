@@ -1,0 +1,71 @@
+{
+  "document_info": {
+    "document_type": "Statement of Values (SOV)",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate - office, mercantile, and mixed-use property holdings",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property (Building, Contents, Business Interruption)",
+      "current_limit": 314979199,
+      "requested_limit": 314984000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "TIV across 8 locations including Building Value, Contents Value, and BI Value"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All locations sprinklered",
+      "Predominantly Fire Resistive and Masonry Non-Combustible construction",
+      "Relatively modern building portfolio (years built 1995-2018)",
+      "Diversified property types (office, mercantile, mixed-use, medical office)"
+    ],
+    "concerns": [
+      "All locations concentrated in Texas, exposing portfolio to single-state catastrophe risk (wind/hail/tornado)",
+      "Houston locations (LOC-002, LOC-003, LOC-006) have coastal/Gulf wind and flood exposure",
+      "Lease expiration resulted in closure of one location",
+      "TIV updated per appraisal indicating possible valuation volatility"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Portfolio of 8 commercial properties in Texas including Preston Center Tower (Dallas), Galleria Office Park Buildings A & B (Houston), Legacy Town Center Retail (Plano), Uptown Mixed-Use Development (Dallas), Energy Corridor Business Center (Houston), Fort Worth Medical Office Building, and Southlake Town Square East Wing.",
+    "safety_programs": "All 8 locations equipped with sprinkler systems.",
+    "claims_narrative": null
+  }
+}

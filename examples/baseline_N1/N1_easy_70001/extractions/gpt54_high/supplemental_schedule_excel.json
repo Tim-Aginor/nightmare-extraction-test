@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "document_type": "Carrier History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Prior Insurance History",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "2024 policy number CP-5690-6189; 1 claim; cancellation: No"
+    },
+    {
+      "coverage_type": "Prior Insurance History",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 423914.72,
+      "notes": "2023 policy number 7CP0006249; 0 claims; cancellation: No"
+    },
+    {
+      "coverage_type": "Prior Insurance History",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "American International Group",
+      "expiring_premium": 447842.42,
+      "notes": "2022 policy number CP006315-001; 1 claim; cancellation: No"
+    },
+    {
+      "coverage_type": "Prior Insurance History",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Auto-Owners Insurance",
+      "expiring_premium": 470199.5,
+      "notes": "2021 policy number 0000006024; 0 claims; cancellation: No"
+    },
+    {
+      "coverage_type": "Prior Insurance History",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Berkshire Hathaway Guard",
+      "expiring_premium": 467047.27,
+      "notes": "2020 policy number 7CP0004214; 1 claim; cancellation: No"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations reported for any policy year from 2020 through 2024",
+      "Two of the five years show zero claims"
+    ],
+    "concerns": [
+      "Claims reported in 2020, 2022, and 2024",
+      "Loss ratios not provided"
+    ],
+    "loss_history_summary": "Carrier history for 2020-2024 shows 3 total reported claims across 5 years, with claims in 2020, 2022, and 2024, and no cancellations in any year."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

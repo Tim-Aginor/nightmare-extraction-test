@@ -1,0 +1,71 @@
+{
+  "document_info": {
+    "document_type": "Submission Memo",
+    "date": "2026-03-15",
+    "prepared_by": "Sandra Villareal",
+    "recipient": "Underwriting Department, Apex Managing General Agency"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 24,
+    "annual_revenue": null,
+    "employee_count": 145
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": 403697.14,
+      "notes": "Property coverage on a blanket basis with agreed value endorsement. Wind/hail deductible applies per schedule."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Background checks and MVR reviews are conducted annually for all employees in safety-sensitive positions.",
+      "The insured maintains a formal business continuity and disaster recovery plan tested annually.",
+      "The insured carries contractual risk transfer provisions in all subcontractor and vendor agreements.",
+      "All facilities maintain current fire suppression and sprinkler systems inspected annually by certified contractors.",
+      "All locations are equipped with security camera systems and 24/7 monitoring services.",
+      "24 years of continuous operations under consistent management demonstrates operational stability.",
+      "With 145 employees and a structured HR program, the insured maintains low turnover and consistent safety training."
+    ],
+    "concerns": [
+      "The loss experience reflects a mixed trend with some large individual claims in the review period."
+    ],
+    "loss_history_summary": "The loss experience reflects a mixed trend with some large individual claims in the review period. Over the review period, the insured has incurred 3 total claims with $259,081.54 in total paid losses and $303,232.60 total incurred. Currently, 1 claim remains open and 2 have been closed. Annualized loss ratio is 25.0% (avg annual incurred $101,077.53 against current annual premium $403,697.14 over 3 loss years)."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "We are pleased to submit Lone Star Property Holdings, LP for your review and consideration. The insured is a commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas, headquartered in Dallas, with approximately 24 years of operating history.",
+    "operations_description": "commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "safety_programs": "Background checks and MVR reviews are conducted annually for all employees in safety-sensitive positions. The insured maintains a formal business continuity and disaster recovery plan tested annually. With 145 employees and a structured HR program, the insured maintains low turnover and consistent safety training.",
+    "claims_narrative": "The loss experience reflects a mixed trend with some large individual claims in the review period. Over the review period, the insured has incurred 3 total claims with $259,081.54 in total paid losses and $303,232.60 total incurred. Currently, 1 claim remains open and 2 have been closed. Annualized loss ratio is 25.0% (avg annual incurred $101,077.53 against current annual premium $403,697.14 over 3 loss years)."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "document_info": {
+    "document_type": "Schedule of Values Spreadsheet",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Ownership of office and mercantile properties",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property (Building + Contents)",
+      "current_limit": 229053199,
+      "requested_limit": 255772000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Aggregate scheduled building and contents values from prior year versus current locations schedule."
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": null,
+      "requested_limit": 59212000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Business income values appear on the current locations schedule only."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All listed locations are sprinklered.",
+      "Portfolio construction is predominantly fire resistive, masonry non-combustible, or non-combustible.",
+      "Buildings are relatively modern, with years built ranging from 1995 to 2018."
+    ],
+    "concerns": [
+      "Aggregate scheduled values increased from the prior year.",
+      "Modification log shows an added warehouse facility, a deleted location, and updated TIV per appraisal effective 2026-03-15.",
+      "Largest single-location concentration is Preston Center Tower with TIV of 86450000."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

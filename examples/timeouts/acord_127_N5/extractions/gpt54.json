@@ -1,0 +1,66 @@
+{
+  "form_info": {
+    "form_number": "ACORD 127",
+    "form_edition": "2016/03",
+    "form_title": "BUSINESS AUTO SECTION"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CAGLFS20258822",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Combined Single Limit (Ea Accident)",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Payments (Per Person)",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Uninsured Motorist",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "written_vehicle_safety_and_maintenance_programs": "No",
+    "operates_under_federal_or_state_motor_carrier_authority": "Yes",
+    "vehicles_garaged_other_than_insured_premises": "Yes",
+    "vehicles_leased_or_rented_to_others": "No",
+    "uses_subcontracted_or_independent_owner_operators": "No",
+    "all_drivers_required_to_have_valid_cdl_where_applicable": "Yes",
+    "all_vehicles_owned_by_named_insured": "No"
+  },
+  "additional_fields": {
+    "form_type": "occurrence",
+    "premium": "262046.75",
+    "driver_count_page_1": "26",
+    "vehicle_count_total": "37",
+    "reviewed_by": "L. Taylor",
+    "review_date": "2026-03-06"
+  },
+  "remarks": null
+}

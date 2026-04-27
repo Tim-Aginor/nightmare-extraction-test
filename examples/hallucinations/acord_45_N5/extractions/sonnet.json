@@ -1,0 +1,153 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": null,
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "GLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "24281",
+    "years_in_business": null,
+    "nature_of_business": "Transportation / Freight Systems"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 54110000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents",
+      "limit": 36320000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 51954000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Total Insurable Value (TIV)",
+      "limit": 142380000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_special": "checked",
+    "causes_of_loss_basic": "unchecked",
+    "causes_of_loss_broad": "unchecked",
+    "replacement_cost_valuation": "checked",
+    "coinsurance_90_percent": "checked"
+  },
+  "additional_fields": {
+    "agency_customer_id": "AC-070005",
+    "additional_interest": "Corporate Headquarters & Main Terminal",
+    "causes_of_loss": "Special",
+    "valuation": "Replacement Cost",
+    "coinsurance": "90%",
+    "deductible": "50000",
+    "building_location_schedule": [
+      {
+        "loc_number": "1",
+        "location": "Corporate Headquarters & Main Terminal",
+        "building": 10000000,
+        "contents": 5000000,
+        "business_income": 9750000,
+        "tiv": 24750000
+      },
+      {
+        "loc_number": "2",
+        "location": "Rickenbacker Air Hub",
+        "building": 14800000,
+        "contents": 7400000,
+        "business_income": 14430000,
+        "tiv": 36630000
+      },
+      {
+        "loc_number": "3",
+        "location": "Cleveland Distribution Center",
+        "building": 6650000,
+        "contents": 3800000,
+        "business_income": 7410000,
+        "tiv": 17860000
+      },
+      {
+        "loc_number": "4",
+        "location": "Pittsburgh Regional Terminal",
+        "building": 5460000,
+        "contents": 3120000,
+        "business_income": 6084000,
+        "tiv": 14664000
+      },
+      {
+        "loc_number": "5",
+        "location": "Philadelphia Cross-Dock",
+        "building": 4760000,
+        "contents": 2720000,
+        "business_income": 5304000,
+        "tiv": 12784000
+      },
+      {
+        "loc_number": "6",
+        "location": "Harrisburg Consolidation Hub",
+        "building": 7380000,
+        "contents": 3660000,
+        "business_income": 7176000,
+        "tiv": 18216000
+      },
+      {
+        "loc_number": "7",
+        "location": "Toledo Service Center",
+        "building": 3120000,
+        "contents": 2080000,
+        "business_income": 4056000,
+        "tiv": 9256000
+      },
+      {
+        "loc_number": "8",
+        "location": "Fleet Maintenance Center",
+        "building": 1960000,
+        "contents": 1680000,
+        "business_income": 2184000,
+        "tiv": 5824000
+      },
+      {
+        "loc_number": "9",
+        "location": "Administrative Office",
+        "building": 0,
+        "contents": 840000,
+        "business_income": 1560000,
+        "tiv": 2400000
+      },
+      {
+        "loc_number": "TOTAL",
+        "location": "TOTAL",
+        "building": 54110000,
+        "contents": 36320000,
+        "business_income": 51954000,
+        "tiv": 142380000
+      }
+    ],
+    "notes": "Need docs (handwritten annotation on form)"
+  },
+  "remarks": "Form dated 06/18/2025 per handwritten notation. Agency Customer ID: AC-070005. Note on form indicates supporting documents are needed."
+}

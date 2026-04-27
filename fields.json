@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "description": "Field specification for Nightmare Benchmark v1 - Multi-LOB commercial insurance extraction",
+
+  "sov": {
+    "description": "Schedule of Values / Property Schedule extraction",
+    "header_fields": {
+      "required": ["insured_name", "carrier_name"],
+      "optional": ["policy_number", "policy_period_start", "policy_period_end", "insured_address"]
+    },
+    "location_fields": {
+      "required": ["location_id", "address", "city", "state", "building_value", "contents_value", "tiv"],
+      "optional": ["name", "zip", "construction", "occupancy", "year_built", "stories", "square_feet", "sprinklered", "bi_value"],
+      "numeric": ["building_value", "contents_value", "bi_value", "tiv", "year_built", "stories", "square_feet"],
+      "boolean": ["sprinklered"]
+    },
+    "total_fields": {
+      "required": ["building_value", "contents_value", "tiv", "location_count"],
+      "optional": ["bi_value"]
+    },
+    "scoring_weights": {
+      "location_coverage": 0.40,
+      "field_accuracy": 0.35,
+      "total_accuracy": 0.15,
+      "no_catastrophic": 0.10
+    }
+  },
+
+  "loss_run": {
+    "description": "Loss run / claims history extraction",
+    "header_fields": {
+      "required": ["insured_name", "carrier_name"],
+      "optional": ["report_date", "policy_period_start", "policy_period_end"]
+    },
+    "claim_fields": {
+      "required": ["claim_number", "date_of_loss", "status", "coverage", "incurred"],
+      "optional": ["claimant", "paid", "reserved", "description"],
+      "numeric": ["paid", "reserved", "incurred"],
+      "categorical": {
+        "status": ["Open", "Closed"],
+        "coverage": ["wc", "gl", "auto", "property", "umbrella", "mtc"]
+      }
+    },
+    "subtotal_fields": {
+      "required": ["paid", "reserved", "incurred", "claim_count"],
+      "by_coverage": true
+    },
+    "total_fields": {
+      "required": ["paid", "reserved", "incurred", "claim_count"]
+    },
+    "scoring_weights": {
+      "claim_coverage": 0.35,
+      "field_accuracy": 0.30,
+      "total_accuracy": 0.20,
+      "coverage_classification": 0.15
+    }
+  },
+
+  "catastrophic_error_definitions": {
+    "sov": {
+      "location_count_mismatch": "Extracted location count differs from ground truth by >1",
+      "tiv_off_10pct": "Total TIV differs from ground truth by >10%",
+      "hallucinated_locations": "Extracted more locations than exist in document",
+      "missed_sub_buildings": "Failed to extract sub-buildings (e.g., 6-B, 6-C)",
+      "zero_locations": "Extracted zero locations from non-empty SOV"
+    },
+    "loss_run": {
+      "claim_count_off_20pct": "Extracted claim count differs from ground truth by >20%",
+      "incurred_off_15pct": "Total incurred differs from ground truth by >15%",
+      "coverage_misclassification": ">25% of claims assigned to wrong coverage type",
+      "zero_claims": "Extracted zero claims from non-empty loss run"
+    }
+  },
+
+  "difficulty_levels": {
+    "N1_easy": {
+      "description": "Clean documents, no artifacts, standard formatting",
+      "expected_accuracy": 0.95
+    },
+    "N2_normal": {
+      "description": "Minor formatting quirks, some merged cells",
+      "expected_accuracy": 0.90
+    },
+    "N3_hard": {
+      "description": "Multi-tab Excel, buried headers, some scan artifacts",
+      "expected_accuracy": 0.80
+    },
+    "N4_expert": {
+      "description": "Hidden columns, multi-building entries, tilted scans",
+      "expected_accuracy": 0.70
+    },
+    "N5_nightmare": {
+      "description": "Everything breaks: cross-doc refs, handwritten notes, encoding issues",
+      "expected_accuracy": 0.60
+    }
+  }
+}

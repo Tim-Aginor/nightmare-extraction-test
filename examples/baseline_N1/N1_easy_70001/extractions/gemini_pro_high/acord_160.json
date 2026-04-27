@@ -1,0 +1,184 @@
+{
+  "form_info": {
+    "form_number": "ACORD 160",
+    "form_edition": "2016/03",
+    "form_title": "BUSINESSOWNERS APPLICATION"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": "AG-225118",
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01"
+  },
+  "applicant_info": {
+    "entity_type": "Limited Partnership",
+    "fein": "75-4829163",
+    "sic_code": "6512",
+    "naics_code": "531120",
+    "years_in_business": 24,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 222340000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Personal Property",
+      "limit": 33432000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense",
+      "limit": 59212000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Each Occurrence",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - General Aggregate",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Products/Completed Operations",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Damage to Premises Rented to You",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Medical Expense (Any One Person)",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Extra Expense",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Valuable Papers",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Ordinance or Law \u2014 Coverage A",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Fire Department Service Charge",
+      "limit": 2500,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Advertising Injury",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Cyber Liability",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Electronic Data Processing",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Mechanical Breakdown",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Per Project General Aggregate",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Forgery or Alteration",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Waiver of Subrogation \u2014 Blanket",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "Does the applicant sell or distribute products manufactured by others?": "No",
+    "Are there any underground storage tanks on premises?": "No",
+    "Does the applicant store flammable liquids on premises?": "No",
+    "Are there any alterations or construction in progress?": "No",
+    "Are there any tenant improvements or betterments?": "No",
+    "Is the building located within a flood zone?": "No",
+    "Is the applicant the sole occupant of the building?": "No",
+    "Is the applicant the building owner or tenant?": "Yes",
+    "Are there any cooking operations on premises?": "No",
+    "Does the applicant have any off-premises property exposures?": "No",
+    "Does the applicant have a burglar alarm system?": "Yes",
+    "Are commercial cooking operations (deep fat fryers, char broilers, woks, or commercial kitchen hoods) used on premises?": "No",
+    "Is the building 100% sprinklered?": "Yes",
+    "Does the building have a backup generator?": "No"
+  },
+  "additional_fields": {
+    "annual_revenue": 67000000,
+    "full_time_employees": 145,
+    "part_time_employees": 28,
+    "website": "www.lonestarpropertyhold.com",
+    "naic_code": "68074",
+    "billing_plan": "Direct Bill \u2014 Quarterly",
+    "premium": 403697.14,
+    "deductible": 50000,
+    "valuation": "Replacement Cost",
+    "total_insured_value": 314984000,
+    "location_1": "8117 Preston Road, Dallas, TX, 75225",
+    "location_2": "5050 Westheimer Road, Houston, TX, 77056",
+    "location_3": "5060 Westheimer Road, Houston, TX, 77056",
+    "location_4": "7301 Lone Star Drive, Plano, TX, 75024",
+    "location_5": "3200 McKinney Avenue, Dallas, TX, 75204",
+    "location_6": "1400 Enclave Parkway, Houston, TX, 77077",
+    "location_7": "800 8th Avenue, Fort Worth, TX, 76104",
+    "location_8": "1256 Main Street, Southlake, TX, 76092",
+    "additional_interest_1": "Huntington National Bank (ISAOA/ATIMA)",
+    "additional_interest_2": "M&T Bank (As Their Interest May Appear)",
+    "additional_interest_3": "First National Bank (First Mortgagee)"
+  },
+  "remarks": null
+}

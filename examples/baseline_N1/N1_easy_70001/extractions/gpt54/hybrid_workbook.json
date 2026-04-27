@@ -1,0 +1,71 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate property owner/operator with office, mercantile, and mixed-use locations",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": 220453199,
+      "requested_limit": 312084000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Current values based on prior year SOV TIV total; requested values based on current Locations sheet total TIV including BI values."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Portfolio consists primarily of fire resistive and masonry non-combustible construction.",
+      "All listed locations are sprinklered.",
+      "Properties are relatively modern, with years built ranging from 1995 to 2018.",
+      "Occupancies are primarily office and mercantile."
+    ],
+    "concerns": [
+      "Portfolio values increased materially from prior year.",
+      "Modifications sheet indicates an addition of a new warehouse facility effective 2026-03-15, but no corresponding location details are provided.",
+      "Modifications sheet indicates a deletion of an old location effective 2026-03-15, but no corresponding location details are provided.",
+      "Properties are concentrated in Texas."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 312084000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Changes from Prior Year: Addition - New Location - Added warehouse facility - 2026-03-15; Deletion - Old Location - Lease expired, location closed - 2026-03-15; Update - Lone Star Property Holdings, LP - Updated TIV per appraisal - 2026-03-15",
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

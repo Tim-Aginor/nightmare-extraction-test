@@ -1,0 +1,74 @@
+{
+  "report_info": {
+    "report_type": "sprinkler_inspection",
+    "report_date": "2026-03-15",
+    "inspector_name": "D. Wilson, ARM",
+    "inspector_company": "Apex Managing General Agency",
+    "risk_grade": "Below Average",
+    "grading_scale": "Travelers Risk Assessment"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "8117 Preston Road",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75225"
+  },
+  "carrier_info": {
+    "carrier_name": null,
+    "policy_number": "CP-LSPH-2025-7801",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Lone Star Property Holdings, LP",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "construction": null,
+      "occupancy": null,
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": null,
+      "condition_rating": "Fair",
+      "findings": [
+        "System Type: Dry Pipe, 20 years old, Manufacturer: Reliable, NFPA 13 Compliant",
+        "6 control valves inspected. All found in open position.",
+        "Tamper switches: Not all connected",
+        "Water flow alarm: Tested \u2014 operational",
+        "Supervisory signal: Tested \u2014 operational",
+        "Sprinkler Heads Visual condition: Fair \u2014 minor corrosion observed",
+        "Spare heads in cabinet: Yes \u2014 adequate supply",
+        "Water Supply: Static Pressure 42 psi, Residual Pressure 49 psi, Flow 1029 GPM, Supply Adequate"
+      ],
+      "deficiencies": [
+        "[Priority] Combustible storage within 18 inches of sprinkler deflectors",
+        "[Code] Exposed wiring and missing junction box covers in main electrical room"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "High",
+      "category": "Fire Protection",
+      "description": "Remove combustible storage within 18 inches of sprinkler deflectors",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Medium",
+      "category": "Electrical",
+      "description": "Fix exposed wiring and install missing junction box covers in main electrical room",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Overall System Status: PASS",
+    "risk_level": "Below Average",
+    "insurability": "Acceptable"
+  }
+}

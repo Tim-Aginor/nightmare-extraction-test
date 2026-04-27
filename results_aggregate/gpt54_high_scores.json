@@ -1,0 +1,2386 @@
+{
+  "model": "gpt54_high",
+  "packets": {
+    "N1_easy_70001": {
+      "difficulty": "N1_easy",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": null,
+          "field_accuracy": 0.6667,
+          "composite_score": 0.7024,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 12,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.6,
+          "composite_score": 0.72,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 25,
+            "raw_fields_hit": 15,
+            "lists_scored": 1
+          }
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.5,
+          "composite_score": 0.38,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 9,
+            "lists_scored": 1
+          }
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.4815,
+          "composite_score": 0.6726,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 27,
+            "raw_fields_hit": 13,
+            "lists_scored": 1
+          }
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.3846,
+          "composite_score": 0.2738,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 26,
+            "raw_fields_hit": 10,
+            "lists_scored": 1
+          }
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.4286,
+          "composite_score": 0.4163,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 14,
+            "raw_fields_hit": 6,
+            "lists_scored": 0
+          }
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.5,
+          "composite_score": 0.38,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 9,
+            "lists_scored": 1
+          }
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.5882,
+          "composite_score": 0.7153,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 10,
+            "lists_scored": 1
+          }
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.5294,
+          "composite_score": 0.5597,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 9,
+            "lists_scored": 0
+          }
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.875,
+          "composite_score": 0.575,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 8,
+            "raw_fields_hit": 7,
+            "lists_scored": 1
+          }
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.5833,
+          "composite_score": 0.5905,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 24,
+            "raw_fields_hit": 14,
+            "lists_scored": 0
+          }
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "header_accuracy": 0.6667,
+          "list_coverage": null,
+          "field_accuracy": 0.4545,
+          "composite_score": 0.5455,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 3,
+            "raw_fields_checked": 11,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 0.8824,
+          "composite_score": 0.9328,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 15,
+            "lists_scored": 0
+          }
+        },
+        "engineering_report": {
+          "category": "engineering_report",
+          "header_accuracy": 1.0,
+          "list_coverage": 0.125,
+          "field_accuracy": 1.0,
+          "composite_score": 0.7375,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 5,
+            "raw_fields_hit": 5,
+            "lists_scored": 1
+          }
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.6765,
+          "composite_score": 0.6008,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 34,
+            "raw_fields_hit": 23,
+            "lists_scored": 0
+          }
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.5625,
+          "composite_score": 0.5357,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 16,
+            "raw_fields_hit": 9,
+            "lists_scored": 0
+          }
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 1,
+            "raw_fields_hit": 1,
+            "lists_scored": 0
+          }
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "claim_coverage": 1.0,
+          "field_accuracy": 0.8333,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 0.95,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 3,
+            "ext_claims": 3,
+            "matched": 3
+          }
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "claim_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 3,
+            "ext_claims": 3,
+            "matched": 3
+          }
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "claim_coverage": 1.0,
+          "field_accuracy": 0.6667,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 0.9162,
+          "composite_score": 0.8832,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 3,
+            "ext_claims": 3,
+            "matched": 3
+          }
+        },
+        "policy_form": {
+          "category": "narrative",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.4167,
+          "composite_score": 0.4095,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 12,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "sov": {
+          "category": "sov",
+          "location_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "tiv_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_locations": 8,
+            "ext_locations": 8,
+            "matched": 8,
+            "gt_tiv": 314984000.0,
+            "ext_tiv": 314984000.0
+          }
+        },
+        "sov_excel": {
+          "category": "sov",
+          "location_coverage": 1.0,
+          "field_accuracy": 0.875,
+          "tiv_accuracy": 1.0,
+          "composite_score": 0.9563,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_locations": 8,
+            "ext_locations": 8,
+            "matched": 8,
+            "gt_tiv": 314984000.0,
+            "ext_tiv": 314984000.0
+          }
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.381,
+          "composite_score": 0.432,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 21,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "header_accuracy": 0.0,
+          "list_coverage": null,
+          "field_accuracy": 0.0,
+          "composite_score": 0.0,
+          "catastrophic_errors": [
+            "zero_field_recall"
+          ],
+          "catastrophic_count": 1,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 16,
+            "raw_fields_hit": 0,
+            "lists_scored": 0
+          }
+        }
+      }
+    },
+    "N2_normal_70002": {
+      "difficulty": "N2_normal",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": null,
+          "field_accuracy": 0.6667,
+          "composite_score": 0.7024,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 12,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.64,
+          "composite_score": 0.436,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 25,
+            "raw_fields_hit": 16,
+            "lists_scored": 1
+          }
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.5556,
+          "composite_score": 0.7022,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 10,
+            "lists_scored": 1
+          }
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.4815,
+          "composite_score": 0.6726,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 27,
+            "raw_fields_hit": 13,
+            "lists_scored": 1
+          }
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.2692,
+          "composite_score": 0.2277,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 26,
+            "raw_fields_hit": 7,
+            "lists_scored": 1
+          }
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.5,
+          "composite_score": 0.4571,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 14,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.4737,
+          "composite_score": 0.3695,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 19,
+            "raw_fields_hit": 9,
+            "lists_scored": 1
+          }
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.5294,
+          "composite_score": 0.6918,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 9,
+            "lists_scored": 1
+          }
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.5294,
+          "composite_score": 0.5597,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 9,
+            "lists_scored": 0
+          }
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.875,
+          "composite_score": 0.575,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 8,
+            "raw_fields_hit": 7,
+            "lists_scored": 1
+          }
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.4583,
+          "composite_score": 0.519,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 24,
+            "raw_fields_hit": 11,
+            "lists_scored": 0
+          }
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "header_accuracy": 0.6667,
+          "list_coverage": null,
+          "field_accuracy": 0.4545,
+          "composite_score": 0.5455,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 3,
+            "raw_fields_checked": 11,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 0.8824,
+          "composite_score": 0.9328,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 15,
+            "lists_scored": 0
+          }
+        },
+        "engineering_report": {
+          "category": "engineering_report",
+          "header_accuracy": 1.0,
+          "list_coverage": 0.1111,
+          "field_accuracy": 0.8,
+          "composite_score": 0.6533,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 5,
+            "raw_fields_hit": 4,
+            "lists_scored": 1
+          }
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.6765,
+          "composite_score": 0.6008,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 34,
+            "raw_fields_hit": 23,
+            "lists_scored": 0
+          }
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.4375,
+          "composite_score": 0.4643,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 16,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 1,
+            "raw_fields_hit": 1,
+            "lists_scored": 0
+          }
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "claim_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 2,
+            "ext_claims": 2,
+            "matched": 2
+          }
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "claim_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 2,
+            "ext_claims": 2,
+            "matched": 2
+          }
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "claim_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 2,
+            "ext_claims": 2,
+            "matched": 2
+          }
+        },
+        "policy_form": {
+          "category": "narrative",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.4167,
+          "composite_score": 0.4095,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 12,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "sov": {
+          "category": "sov",
+          "location_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "tiv_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_locations": 9,
+            "ext_locations": 9,
+            "matched": 9,
+            "gt_tiv": 251345000.0,
+            "ext_tiv": 251345000.0
+          }
+        },
+        "sov_excel": {
+          "category": "sov",
+          "location_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "tiv_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_locations": 9,
+            "ext_locations": 9,
+            "matched": 9,
+            "gt_tiv": 251345000.0,
+            "ext_tiv": 251345000.0
+          }
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.381,
+          "composite_score": 0.432,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 21,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 0.3125,
+          "composite_score": 0.6071,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 16,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        }
+      }
+    },
+    "N3_hard_70003": {
+      "difficulty": "N3_hard",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": null,
+          "field_accuracy": 0.5,
+          "composite_score": 0.6071,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 12,
+            "raw_fields_hit": 6,
+            "lists_scored": 0
+          }
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.5556,
+          "composite_score": 0.4022,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 27,
+            "raw_fields_hit": 15,
+            "lists_scored": 1
+          }
+        },
+        "acord_126": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.35,
+          "composite_score": 0.4571,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 20,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "acord_130": {
+          "category": "narrative",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.36,
+          "composite_score": 0.4629,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 25,
+            "raw_fields_hit": 9,
+            "lists_scored": 0
+          }
+        },
+        "acord_133": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.4286,
+          "composite_score": 0.4163,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 14,
+            "raw_fields_hit": 6,
+            "lists_scored": 0
+          }
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.4444,
+          "composite_score": 0.6578,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 8,
+            "lists_scored": 1
+          }
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.3333,
+          "composite_score": 0.3133,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 30,
+            "raw_fields_hit": 10,
+            "lists_scored": 1
+          }
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "header_accuracy": 0.2,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.1154,
+          "composite_score": 0.1062,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 26,
+            "raw_fields_hit": 3,
+            "lists_scored": 1
+          }
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.3182,
+          "composite_score": 0.3532,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 22,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.2778,
+          "composite_score": 0.2311,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 5,
+            "lists_scored": 1
+          }
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.3529,
+          "composite_score": 0.2612,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 6,
+            "lists_scored": 1
+          }
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.3529,
+          "composite_score": 0.4588,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 6,
+            "lists_scored": 0
+          }
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.625,
+          "composite_score": 0.475,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 8,
+            "raw_fields_hit": 5,
+            "lists_scored": 1
+          }
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "header_accuracy": 0.2,
+          "list_coverage": null,
+          "field_accuracy": 0.125,
+          "composite_score": 0.1571,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 40,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "header_accuracy": 0.6667,
+          "list_coverage": null,
+          "field_accuracy": 0.3333,
+          "composite_score": 0.4762,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 3,
+            "raw_fields_checked": 15,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 0.3333,
+          "composite_score": 0.619,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 33,
+            "raw_fields_hit": 11,
+            "lists_scored": 0
+          }
+        },
+        "engineering_report": {
+          "category": "engineering_report",
+          "header_accuracy": 1.0,
+          "list_coverage": 0.5625,
+          "field_accuracy": 0.8,
+          "composite_score": 0.7888,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 5,
+            "raw_fields_hit": 4,
+            "lists_scored": 2
+          }
+        },
+        "experience_mod": {
+          "category": "narrative",
+          "header_accuracy": 0.2,
+          "list_coverage": null,
+          "field_accuracy": 0.1,
+          "composite_score": 0.1429,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 10,
+            "raw_fields_hit": 1,
+            "lists_scored": 0
+          }
+        },
+        "experience_mod_excel": {
+          "category": "workbook",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.5556,
+          "composite_score": 0.4889,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 9,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.5588,
+          "composite_score": 0.5336,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 34,
+            "raw_fields_hit": 19,
+            "lists_scored": 0
+          }
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.5625,
+          "composite_score": 0.5357,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 16,
+            "raw_fields_hit": 9,
+            "lists_scored": 0
+          }
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 1,
+            "raw_fields_hit": 1,
+            "lists_scored": 0
+          }
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "claim_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 38,
+            "ext_claims": 38,
+            "matched": 38
+          }
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "claim_coverage": 0.9211,
+          "field_accuracy": 1.0,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 0.9763,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 38,
+            "ext_claims": 38,
+            "matched": 35
+          }
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "claim_coverage": 0.9211,
+          "field_accuracy": 1.0,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 0.9763,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 38,
+            "ext_claims": 38,
+            "matched": 35
+          }
+        },
+        "policy_form": {
+          "category": "narrative",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.3571,
+          "composite_score": 0.3755,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 14,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "sov": {
+          "category": "sov",
+          "location_coverage": 0.5,
+          "field_accuracy": 0.8333,
+          "tiv_accuracy": 1.0,
+          "composite_score": 0.7417,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_locations": 8,
+            "ext_locations": 8,
+            "matched": 4,
+            "gt_tiv": 168230000.0,
+            "ext_tiv": 168230000.0
+          }
+        },
+        "sov_excel": {
+          "category": "sov",
+          "location_coverage": 1.0,
+          "field_accuracy": 0.8571,
+          "tiv_accuracy": 1.0,
+          "composite_score": 0.95,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_locations": 8,
+            "ext_locations": 8,
+            "matched": 8,
+            "gt_tiv": 168230000.0,
+            "ext_tiv": 168230000.0
+          }
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.3478,
+          "composite_score": 0.413,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 23,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "header_accuracy": 0.0,
+          "list_coverage": null,
+          "field_accuracy": 0.0,
+          "composite_score": 0.0,
+          "catastrophic_errors": [
+            "zero_field_recall"
+          ],
+          "catastrophic_count": 1,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 0,
+            "lists_scored": 0
+          }
+        }
+      }
+    },
+    "N4_expert_70004": {
+      "difficulty": "N4_expert",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": null,
+          "field_accuracy": 0.5833,
+          "composite_score": 0.6548,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 12,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.5,
+          "composite_score": 0.38,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 28,
+            "raw_fields_hit": 14,
+            "lists_scored": 1
+          }
+        },
+        "acord_126": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.4,
+          "composite_score": 0.4857,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 20,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "acord_127": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.35,
+          "composite_score": 0.32,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 20,
+            "raw_fields_hit": 7,
+            "lists_scored": 1
+          }
+        },
+        "acord_130": {
+          "category": "narrative",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.32,
+          "composite_score": 0.44,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 25,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "acord_133": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.5,
+          "composite_score": 0.4571,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 14,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "acord_137": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.3333,
+          "composite_score": 0.4476,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 21,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.4444,
+          "composite_score": 0.6578,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 8,
+            "lists_scored": 1
+          }
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.2647,
+          "composite_score": 0.5859,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 34,
+            "raw_fields_hit": 9,
+            "lists_scored": 1
+          }
+        },
+        "acord_23": {
+          "category": "acord_form",
+          "header_accuracy": 0.2,
+          "list_coverage": null,
+          "field_accuracy": 0.2857,
+          "composite_score": 0.249,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 14,
+            "raw_fields_hit": 4,
+            "lists_scored": 0
+          }
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.1923,
+          "composite_score": 0.1969,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 26,
+            "raw_fields_hit": 5,
+            "lists_scored": 1
+          }
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.25,
+          "composite_score": 0.3143,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 24,
+            "raw_fields_hit": 6,
+            "lists_scored": 0
+          }
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.3333,
+          "composite_score": 0.2533,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 6,
+            "lists_scored": 1
+          }
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.2353,
+          "composite_score": 0.2141,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 4,
+            "lists_scored": 1
+          }
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.4118,
+          "composite_score": 0.4924,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.875,
+          "composite_score": 0.575,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 8,
+            "raw_fields_hit": 7,
+            "lists_scored": 1
+          }
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "header_accuracy": 0.2,
+          "list_coverage": null,
+          "field_accuracy": 0.1064,
+          "composite_score": 0.1465,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 47,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "acord_823": {
+          "category": "narrative",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.75,
+          "composite_score": 0.6429,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 8,
+            "raw_fields_hit": 6,
+            "lists_scored": 0
+          }
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "header_accuracy": 0.6667,
+          "list_coverage": null,
+          "field_accuracy": 0.2941,
+          "composite_score": 0.4538,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 3,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 0.3,
+          "composite_score": 0.6,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 40,
+            "raw_fields_hit": 12,
+            "lists_scored": 0
+          }
+        },
+        "driver_schedule": {
+          "category": "driver_schedule",
+          "driver_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_drivers": 15,
+            "ext_drivers": 15,
+            "matched": 15
+          }
+        },
+        "driver_schedule_excel": {
+          "category": "driver_schedule",
+          "driver_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_drivers": 15,
+            "ext_drivers": 15,
+            "matched": 15
+          }
+        },
+        "engineering_report": {
+          "category": "engineering_report",
+          "header_accuracy": 1.0,
+          "list_coverage": 0.2,
+          "field_accuracy": 1.0,
+          "composite_score": 0.76,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 5,
+            "raw_fields_hit": 5,
+            "lists_scored": 1
+          }
+        },
+        "experience_mod": {
+          "category": "narrative",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.2,
+          "composite_score": 0.2857,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 10,
+            "raw_fields_hit": 2,
+            "lists_scored": 0
+          }
+        },
+        "experience_mod_excel": {
+          "category": "workbook",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.5556,
+          "composite_score": 0.4889,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 9,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.4706,
+          "composite_score": 0.4832,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 34,
+            "raw_fields_hit": 16,
+            "lists_scored": 0
+          }
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.5625,
+          "composite_score": 0.5357,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 16,
+            "raw_fields_hit": 9,
+            "lists_scored": 0
+          }
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 1,
+            "raw_fields_hit": 1,
+            "lists_scored": 0
+          }
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "claim_coverage": 0.9615,
+          "field_accuracy": 0.99,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 0.9855,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 52,
+            "ext_claims": 52,
+            "matched": 50
+          }
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "claim_coverage": 0.8462,
+          "field_accuracy": 0.983,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 0.9487,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 52,
+            "ext_claims": 52,
+            "matched": 44
+          }
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "claim_coverage": 0.8462,
+          "field_accuracy": 0.983,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 0.9487,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 52,
+            "ext_claims": 52,
+            "matched": 44
+          }
+        },
+        "policy_form": {
+          "category": "narrative",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.3333,
+          "composite_score": 0.3619,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 15,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "sov": {
+          "category": "sov",
+          "location_coverage": 0.4,
+          "field_accuracy": 0.9444,
+          "tiv_accuracy": 0.7177,
+          "composite_score": 0.5982,
+          "catastrophic_errors": [
+            "tiv_off_10pct"
+          ],
+          "catastrophic_count": 1,
+          "details": {
+            "gt_locations": 5,
+            "ext_locations": 5,
+            "matched": 2,
+            "gt_tiv": 39405000.0,
+            "ext_tiv": 28280000.0
+          }
+        },
+        "sov_excel": {
+          "category": "sov",
+          "location_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "tiv_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_locations": 5,
+            "ext_locations": 5,
+            "matched": 5,
+            "gt_tiv": 39405000.0,
+            "ext_tiv": 39405000.0
+          }
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.3333,
+          "composite_score": 0.4048,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 24,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "header_accuracy": 0.0,
+          "list_coverage": null,
+          "field_accuracy": 0.0,
+          "composite_score": 0.0,
+          "catastrophic_errors": [
+            "zero_field_recall"
+          ],
+          "catastrophic_count": 1,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 19,
+            "raw_fields_hit": 0,
+            "lists_scored": 0
+          }
+        }
+      }
+    },
+    "N5_nightmare_70005": {
+      "difficulty": "N5_nightmare",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": null,
+          "field_accuracy": 0.5833,
+          "composite_score": 0.6548,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 12,
+            "raw_fields_hit": 7,
+            "lists_scored": 0
+          }
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.5,
+          "composite_score": 0.38,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 32,
+            "raw_fields_hit": 16,
+            "lists_scored": 1
+          }
+        },
+        "acord_126": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.4348,
+          "composite_score": 0.5056,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 23,
+            "raw_fields_hit": 10,
+            "lists_scored": 0
+          }
+        },
+        "acord_127": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.35,
+          "composite_score": 0.32,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 20,
+            "raw_fields_hit": 7,
+            "lists_scored": 1
+          }
+        },
+        "acord_131": {
+          "category": "acord_form",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.3,
+          "composite_score": 0.3857,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 10,
+            "raw_fields_hit": 3,
+            "lists_scored": 0
+          }
+        },
+        "acord_137": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.381,
+          "composite_score": 0.4748,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 21,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.3889,
+          "composite_score": 0.6356,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 7,
+            "lists_scored": 1
+          }
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 1.0,
+          "field_accuracy": 0.3514,
+          "composite_score": 0.6205,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 37,
+            "raw_fields_hit": 13,
+            "lists_scored": 1
+          }
+        },
+        "acord_23": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.3571,
+          "composite_score": 0.3755,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 14,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.2308,
+          "composite_score": 0.2123,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 26,
+            "raw_fields_hit": 6,
+            "lists_scored": 1
+          }
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.32,
+          "composite_score": 0.3543,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 25,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.5,
+          "composite_score": 0.38,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 18,
+            "raw_fields_hit": 9,
+            "lists_scored": 1
+          }
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.5294,
+          "composite_score": 0.3918,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 9,
+            "lists_scored": 1
+          }
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.5294,
+          "composite_score": 0.5597,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 9,
+            "lists_scored": 0
+          }
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "header_accuracy": 0.75,
+          "list_coverage": 0.0,
+          "field_accuracy": 0.75,
+          "composite_score": 0.525,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 8,
+            "raw_fields_hit": 6,
+            "lists_scored": 1
+          }
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "header_accuracy": 0.6,
+          "list_coverage": null,
+          "field_accuracy": 0.2203,
+          "composite_score": 0.3831,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 59,
+            "raw_fields_hit": 13,
+            "lists_scored": 0
+          }
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "header_accuracy": 0.6667,
+          "list_coverage": null,
+          "field_accuracy": 0.2381,
+          "composite_score": 0.4218,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 3,
+            "raw_fields_checked": 21,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 0.2264,
+          "composite_score": 0.558,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 53,
+            "raw_fields_hit": 12,
+            "lists_scored": 0
+          }
+        },
+        "driver_schedule": {
+          "category": "driver_schedule",
+          "driver_coverage": 0.975,
+          "field_accuracy": 0.8205,
+          "composite_score": 0.9157,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_drivers": 40,
+            "ext_drivers": 40,
+            "matched": 39
+          }
+        },
+        "driver_schedule_excel": {
+          "category": "driver_schedule",
+          "driver_coverage": 1.0,
+          "field_accuracy": 0.8187,
+          "composite_score": 0.9275,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_drivers": 40,
+            "ext_drivers": 40,
+            "matched": 40
+          }
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.3235,
+          "composite_score": 0.3992,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 34,
+            "raw_fields_hit": 11,
+            "lists_scored": 0
+          }
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.5625,
+          "composite_score": 0.5357,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 16,
+            "raw_fields_hit": 9,
+            "lists_scored": 0
+          }
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "header_accuracy": 0.0,
+          "list_coverage": null,
+          "field_accuracy": 0.0,
+          "composite_score": 0.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 1,
+            "raw_fields_checked": 1,
+            "raw_fields_hit": 0,
+            "lists_scored": 0
+          }
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "claim_coverage": 0.0408,
+          "field_accuracy": 0.75,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 0.6372,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 49,
+            "ext_claims": 49,
+            "matched": 2
+          }
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "claim_coverage": 0.8444,
+          "field_accuracy": 0.9671,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 0.9973,
+          "composite_score": 0.9429,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 45,
+            "ext_claims": 45,
+            "matched": 38
+          }
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "claim_coverage": 0.9111,
+          "field_accuracy": 0.9573,
+          "coverage_accuracy": 1.0,
+          "incurred_accuracy": 1.0,
+          "composite_score": 0.9605,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_claims": 45,
+            "ext_claims": 45,
+            "matched": 41
+          }
+        },
+        "policy_form": {
+          "category": "narrative",
+          "header_accuracy": 0.4,
+          "list_coverage": null,
+          "field_accuracy": 0.2941,
+          "composite_score": 0.3395,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 5,
+            "raw_fields_checked": 17,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        },
+        "sov": {
+          "category": "sov",
+          "location_coverage": 0.3333,
+          "field_accuracy": 0.1481,
+          "tiv_accuracy": 0.2873,
+          "composite_score": 0.2283,
+          "catastrophic_errors": [
+            "location_count_mismatch",
+            "tiv_off_10pct"
+          ],
+          "catastrophic_count": 2,
+          "details": {
+            "gt_locations": 9,
+            "ext_locations": 4,
+            "matched": 3,
+            "gt_tiv": 142384000.0,
+            "ext_tiv": 40900000.0
+          }
+        },
+        "sov_excel": {
+          "category": "sov",
+          "location_coverage": 1.0,
+          "field_accuracy": 1.0,
+          "tiv_accuracy": 1.0,
+          "composite_score": 1.0,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "gt_locations": 11,
+            "ext_locations": 11,
+            "matched": 11,
+            "gt_tiv": 142384000.0,
+            "ext_tiv": 142384000.0
+          }
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "header_accuracy": 0.5,
+          "list_coverage": null,
+          "field_accuracy": 0.3077,
+          "composite_score": 0.3901,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 4,
+            "raw_fields_checked": 26,
+            "raw_fields_hit": 8,
+            "lists_scored": 0
+          }
+        },
+        "supplemental_app_trucking": {
+          "category": "narrative",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 0.2,
+          "composite_score": 0.5429,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 10,
+            "raw_fields_hit": 2,
+            "lists_scored": 0
+          }
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "header_accuracy": 1.0,
+          "list_coverage": null,
+          "field_accuracy": 0.2381,
+          "composite_score": 0.5646,
+          "catastrophic_errors": [],
+          "catastrophic_count": 0,
+          "details": {
+            "header_fields": 2,
+            "raw_fields_checked": 21,
+            "raw_fields_hit": 5,
+            "lists_scored": 0
+          }
+        }
+      }
+    }
+  },
+  "aggregate": {
+    "acord_form": {
+      "count": 67,
+      "scored": 67,
+      "errored": 0,
+      "avg_composite": 0.4535,
+      "avg_composite_scored": 0.4535,
+      "min_composite": 0.1062,
+      "max_composite": 0.72,
+      "total_catastrophic": 0,
+      "avg_field_accuracy": 0.4431,
+      "avg_list_coverage": 0.2973,
+      "avg_header_accuracy": 0.5493
+    },
+    "narrative": {
+      "count": 21,
+      "scored": 21,
+      "errored": 0,
+      "avg_composite": 0.4251,
+      "avg_composite_scored": 0.4251,
+      "min_composite": 0.1429,
+      "max_composite": 0.6429,
+      "total_catastrophic": 0,
+      "avg_field_accuracy": 0.3463,
+      "avg_header_accuracy": 0.5302
+    },
+    "dec_page": {
+      "count": 5,
+      "scored": 5,
+      "errored": 0,
+      "avg_composite": 0.7285,
+      "avg_composite_scored": 0.7285,
+      "min_composite": 0.558,
+      "max_composite": 0.9328,
+      "total_catastrophic": 0,
+      "avg_field_accuracy": 0.5249,
+      "avg_header_accuracy": 1.0
+    },
+    "engineering_report": {
+      "count": 4,
+      "scored": 4,
+      "errored": 0,
+      "avg_composite": 0.7349,
+      "avg_composite_scored": 0.7349,
+      "min_composite": 0.6533,
+      "max_composite": 0.7888,
+      "total_catastrophic": 0,
+      "avg_field_accuracy": 0.9,
+      "avg_list_coverage": 0.2497,
+      "avg_header_accuracy": 1.0
+    },
+    "financial_statement": {
+      "count": 10,
+      "scored": 10,
+      "errored": 0,
+      "avg_composite": 0.5225,
+      "avg_composite_scored": 0.5225,
+      "min_composite": 0.3992,
+      "max_composite": 0.6008,
+      "total_catastrophic": 0,
+      "avg_field_accuracy": 0.5393,
+      "avg_header_accuracy": 0.5
+    },
+    "workbook": {
+      "count": 12,
+      "scored": 12,
+      "errored": 0,
+      "avg_composite": 0.5125,
+      "avg_composite_scored": 0.5125,
+      "min_composite": 0.0,
+      "max_composite": 1.0,
+      "total_catastrophic": 3,
+      "avg_field_accuracy": 0.4718,
+      "avg_header_accuracy": 0.5667
+    },
+    "loss_run": {
+      "count": 15,
+      "scored": 15,
+      "errored": 0,
+      "avg_composite": 0.9473,
+      "avg_composite_scored": 0.9473,
+      "min_composite": 0.6372,
+      "max_composite": 1.0,
+      "total_catastrophic": 0,
+      "avg_field_accuracy": 0.942,
+      "avg_claim_coverage": 0.8862,
+      "avg_coverage_accuracy": 1.0,
+      "avg_incurred_accuracy": 0.9942
+    },
+    "sov": {
+      "count": 10,
+      "scored": 10,
+      "errored": 0,
+      "avg_composite": 0.8475,
+      "avg_composite_scored": 0.8475,
+      "min_composite": 0.2283,
+      "max_composite": 1.0,
+      "total_catastrophic": 3,
+      "avg_location_coverage": 0.8233,
+      "avg_field_accuracy": 0.8658,
+      "avg_tiv_accuracy": 0.9005
+    },
+    "driver_schedule": {
+      "count": 4,
+      "scored": 4,
+      "errored": 0,
+      "avg_composite": 0.9608,
+      "avg_composite_scored": 0.9608,
+      "min_composite": 0.9157,
+      "max_composite": 1.0,
+      "total_catastrophic": 0,
+      "avg_field_accuracy": 0.9098,
+      "avg_driver_coverage": 0.9938
+    },
+    "overall": {
+      "total_documents": 148,
+      "scored_documents": 148,
+      "errored_documents": 0,
+      "avg_composite": 0.5662,
+      "avg_composite_scored": 0.5662,
+      "total_catastrophic": 6
+    }
+  }
+}

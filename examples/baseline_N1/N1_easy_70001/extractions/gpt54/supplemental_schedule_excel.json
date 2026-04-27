@@ -1,0 +1,54 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations indicated in prior insurance history."
+    ],
+    "concerns": [
+      "Claims reported in 2024, 2022, and 2020."
+    ],
+    "loss_history_summary": "Prior insurance history shows 1 claim in 2024 with premium 414601.77, 0 claims in 2023 with premium 423914.72, 1 claim in 2022 with premium 447842.42, 0 claims in 2021 with premium 470199.5, and 1 claim in 2020 with premium 467047.27. No cancellations reported for any year."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "2024 - CNA Financial - Policy Number: CP-5690-6189 - Premium: 414601.77 - Claims: 1 - Cancellation: No\n2023 - Zurich Insurance Group - Policy Number: 7CP0006249 - Premium: 423914.72 - Claims: 0 - Cancellation: No\n2022 - American International Group - Policy Number: CP006315-001 - Premium: 447842.42 - Claims: 1 - Cancellation: No\n2021 - Auto-Owners Insurance - Policy Number: 0000006024 - Premium: 470199.5 - Claims: 0 - Cancellation: No\n2020 - Berkshire Hathaway Guard - Policy Number: 7CP0004214 - Premium: 467047.27 - Claims: 1 - Cancellation: No"
+  }
+}

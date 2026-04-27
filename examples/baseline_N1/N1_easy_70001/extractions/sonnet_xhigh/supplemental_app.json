@@ -1,0 +1,84 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Sandra Villareal",
+    "recipient": "Apex Managing General Agency"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 24,
+    "annual_revenue": 67000000,
+    "employee_count": 173
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "Policy number CP-LSPH-2025-7801, effective 07/01/2025. 1 claim in 2024. No cancellations. Prior carriers: Zurich Insurance Group (2023, premium 423914.72, 0 claims, no cancellation); American International Group (2022, premium 447842.42, 1 claim, no cancellation)."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations fully sprinklered per NFPA 13 or 13R",
+      "24-hour doorperson/security on premises at all locations",
+      "Fire alarms hard-wired with central station monitoring",
+      "Written contracts with indemnification required from all contractors",
+      "Written contracts maintained with all subcontractors",
+      "No OSHA citations in the past 3 years",
+      "High portfolio occupancy rate of 95%",
+      "Short-term rentals (less than 1 year) not permitted",
+      "No policy cancellations across 3 prior policy years",
+      "Recent electrical system update in 2023",
+      "Recent HVAC update in 2018",
+      "24 years in business with 18 years under current management team",
+      "No premium-bearing midterm cancellations in prior insurance history"
+    ],
+    "concerns": [
+      "No formal safety program in place",
+      "EV charging stations installed on premises \u2014 emerging fire and liability risk",
+      "Swimming pools, exercise rooms, or other amenities present \u2014 additional premises liability exposure",
+      "Plumbing last updated in 2015 \u2014 oldest mechanical system on record",
+      "LOC-006 (1400 Enclave Parkway, Houston, TX) built in 1995 \u2014 oldest building in portfolio",
+      "2 claims filed in 3 prior policy years (2022 and 2024)",
+      "Operations hours extend to Saturday, expanding premises liability window",
+      "No fleet or vehicle information provided \u2014 potential gap in submission"
+    ],
+    "loss_history_summary": "2022 (American International Group, premium $447,842.42): 1 claim, no cancellation. 2023 (Zurich Insurance Group, premium $423,914.72): 0 claims, no cancellation. 2024 (CNA Financial, premium $414,601.77): 1 claim, no cancellation. Total of 2 claims over 3 years with no policy cancellations."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. Portfolio consists of 8 locations: LOC-001 (8117 Preston Road, Dallas, TX, 285,000 sq ft, Office, built 2008, sprinklered); LOC-002 (5050 Westheimer Road, Houston, TX, 168,000 sq ft, Office, built 2001, sprinklered); LOC-003 (5060 Westheimer Road, Houston, TX, 142,000 sq ft, Office, built 2003, sprinklered); LOC-004 (7301 Lone Star Drive, Plano, TX, 95,000 sq ft, Mercantile, built 2012, sprinklered); LOC-005 (3200 McKinney Avenue, Dallas, TX, 124,000 sq ft, Mercantile, built 2018, sprinklered); LOC-006 (1400 Enclave Parkway, Houston, TX, 112,000 sq ft, Office, built 1995, sprinklered); LOC-007 (800 8th Avenue, Fort Worth, TX, 78,000 sq ft, Office, built 2015, sprinklered); LOC-008 (1256 Main Street, Southlake, TX, 52,000 sq ft, Mercantile, built 2006, sprinklered). Hours of operation: Monday\u2013Saturday, 7:00 AM\u20137:00 PM. 145 full-time employees and 28 part-time employees. Annual revenue: $67,000,000.",
+    "safety_programs": "No formal safety program in place. Written contracts with indemnification clauses required from all contractors. Written contracts maintained with all subcontractors. Fire alarms hard-wired with central station monitoring. All buildings fully sprinklered per NFPA 13 or 13R. 24-hour doorperson/security on premises. No OSHA citations in the past 3 years. Last system updates: Plumbing 2015, HVAC 2018, Electrical 2023.",
+    "claims_narrative": "2022 (American International Group, premium $447,842.42): 1 claim, no cancellation. 2023 (Zurich Insurance Group, premium $423,914.72): 0 claims, no cancellation. 2024 (CNA Financial, premium $414,601.77): 1 claim, no cancellation. No additional narrative detail on claim nature or severity provided in submission."
+  }
+}

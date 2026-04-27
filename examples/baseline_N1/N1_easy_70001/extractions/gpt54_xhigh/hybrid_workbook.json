@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Statement of Values",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Property holdings with office and mercantile occupancies",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Current schedule totals 314984000 TIV across 8 Texas locations and includes business income values. Prior year SOV total TIV is 229053199."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 listed locations are sprinklered.",
+      "Construction types shown are fire resistive, masonry non-combustible, or non-combustible."
+    ],
+    "concerns": [
+      "All listed locations are concentrated in Texas.",
+      "Modifications effective 2026-03-15 note an added warehouse facility and a deleted location due to lease expiration.",
+      "Modifications effective 2026-03-15 also note a TIV update per appraisal."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

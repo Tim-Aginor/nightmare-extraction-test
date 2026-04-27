@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Keystone Commercial Builders, Inc.",
+    "statement_type": "Combined",
+    "period_end_date": "2026-01-31",
+    "period_type": "Annual",
+    "fiscal_year": 2026,
+    "audited": null,
+    "preparer": null
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": 22187700,
+        "accounts_receivable": 28366800,
+        "inventory": null,
+        "prepaid_expenses": 2375000,
+        "other_current": 11400000,
+        "total_current_assets": 64329500
+      },
+      "fixed_assets": {
+        "property_plant_equipment": null,
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 7911100
+      },
+      "other_assets": 31096100,
+      "total_assets": 103336700
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 19502100,
+        "accrued_expenses": 14166000,
+        "current_debt": 3982600,
+        "other_current": null,
+        "total_current_liabilities": 37650700
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 25795700,
+        "other_long_term": 5517100,
+        "total_long_term": 31312800
+      },
+      "total_liabilities": 68963500
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 34373200,
+      "total_equity": 34373200
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": 102168400
+    },
+    "cost_of_goods_sold": 76594300,
+    "gross_profit": 25574100,
+    "operating_expenses": {
+      "salaries_wages": null,
+      "rent": null,
+      "utilities": null,
+      "depreciation": 6127600,
+      "insurance": null,
+      "other_operating": 8394300,
+      "total_operating_expenses": 14521900
+    },
+    "operating_income": 11052200,
+    "interest_expense": 1017400,
+    "income_before_tax": 10034800,
+    "income_tax": 3608500,
+    "net_income": 6426300
+  },
+  "ratios": {
+    "current_ratio": 1.71,
+    "debt_to_equity": 2.01,
+    "profit_margin": 6.3
+  }
+}

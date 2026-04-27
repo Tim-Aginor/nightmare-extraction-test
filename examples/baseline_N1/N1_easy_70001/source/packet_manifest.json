@@ -1,0 +1,392 @@
+{
+  "seed": 70001,
+  "template_id": "apex_managing_general_agency_mga",
+  "presets": {
+    "default": "moderate"
+  },
+  "coverages": [
+    "property"
+  ],
+  "claims_per_coverage": 0,
+  "total_documents": 25,
+  "total_pages": 59,
+  "elapsed_seconds": 3.61,
+  "packet_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_truth.json",
+  "documents": [
+    {
+      "doc_type": "acord_125",
+      "description": "ACORD 125 \u2014 Commercial Insurance Application",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_125_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_125.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_125.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_125.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_45",
+      "description": "ACORD 45 \u2014 Commercial Property Application",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_45_70001.pdf",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_45.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_45.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_45.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "supplemental_app",
+      "description": "Supplemental Application",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/supplemental_app_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 3,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_supplemental_app.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_supplemental_app.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_supplemental_app.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "broker_narrative",
+      "description": "Broker Submission Narrative",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/broker_narrative_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 3,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_broker_narrative.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_broker_narrative.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_broker_narrative.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "dec_page",
+      "description": "Declarations Page",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/dec_page_70001.pdf",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_dec_page.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_dec_page.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_dec_page.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "policy_form",
+      "description": "Policy Contract Document",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/policy_form_70001.pdf",
+      "pages": 13,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 3,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_policy_form.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_policy_form.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_policy_form.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "sov",
+      "description": "Schedule of Values",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/sov_70001.pdf",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 7,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_sov.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_sov.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_sov.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_140",
+      "description": "ACORD 140 \u2014 Property Section / Blanket",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_140_70001.pdf",
+      "pages": 8,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_140.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_140.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_140.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run",
+      "description": "Loss Run Report",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/loss_run_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 9,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_loss_run.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_loss_run.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "financial_statement",
+      "description": "Financial Statement",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/financial_statement_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 6,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_financial_statement.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_financial_statement.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_financial_statement.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_25",
+      "description": "ACORD 25 \u2014 Certificate of Insurance",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_25_70001.pdf",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_25.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_25.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_25.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_28",
+      "description": "ACORD 28 \u2014 Property Certificate",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_28_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_28.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_28.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_28.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_27",
+      "description": "ACORD 27 \u2014 Evidence of Property Insurance",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_27_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_27.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_27.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_27.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_24",
+      "description": "ACORD 24 \u2014 Certificate of Property Insurance",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_24_70001.pdf",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_24.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_24.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_24.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_75",
+      "description": "ACORD 75 \u2014 Insurance Binder",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_75_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_75.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_75.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_75.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_101",
+      "description": "ACORD 101 \u2014 Additional Remarks",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_101_70001.pdf",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_101.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_101.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_101.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_35",
+      "description": "ACORD 35 \u2014 Cancellation / Policy Release",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_35_70001.pdf",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_35.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_35.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_35.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_160",
+      "description": "ACORD 160 \u2014 BOP Application",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/acord_160_70001.pdf",
+      "pages": 7,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_160.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_160.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_160.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "engineering_report",
+      "description": "Engineering / Loss Control Report",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/engineering_report_70001.pdf",
+      "pages": 2,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 3,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_engineering_report.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_engineering_report.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_engineering_report.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run_excel",
+      "description": "Loss Run (Excel)",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/loss_run_excel_70001.xlsx",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_loss_run_excel.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_loss_run_excel.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run_csv",
+      "description": "Loss Run (CSV)",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/loss_run_csv_70001.csv",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 4,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_loss_run_csv.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_loss_run_csv.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run_csv.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "sov_excel",
+      "description": "Schedule of Values (Excel)",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/sov_excel_70001.xlsx",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 3,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_sov_excel.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_sov_excel.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_sov_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "financial_statement_excel",
+      "description": "Financial Statement (Excel)",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/financial_statement_excel_70001.xlsx",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 3,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_financial_statement_excel.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_financial_statement_excel.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_financial_statement_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "supplemental_schedule_excel",
+      "description": "Supplemental Schedules (Excel)",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/supplemental_schedule_excel_70001.xlsx",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 2,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_supplemental_schedule_excel.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_supplemental_schedule_excel.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_supplemental_schedule_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "hybrid_workbook",
+      "description": "Hybrid Submission Workbook",
+      "preset": "mild",
+      "output_path": "output/nightmare/N1_easy/doc_70001/documents/hybrid_workbook_70001.xlsx",
+      "pages": 1,
+      "template": "apex_managing_general_agency_mga",
+      "patterns_applied": 3,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_hybrid_workbook.json",
+        "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_hybrid_workbook.json",
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_hybrid_workbook.json"
+      },
+      "status": "ok"
+    }
+  ]
+}

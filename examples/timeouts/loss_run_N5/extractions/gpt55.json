@@ -1,0 +1,602 @@
+{
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "carrier_name": "Standard Insurance Company",
+    "policy_numbers": {
+      "wc": "WC GLFS 2025 BB20",
+      "gl": "CGLGLFS2025 BB11",
+      "auto": "CAGLFS2025 A322",
+      "property": "CPGLFS2025 D902",
+      "umbrella": "CUPGLFS2025 1",
+      "mtc": "SICMTC2022T88"
+    },
+    "report_date": "2026-03-06",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "claims": [
+    {
+      "claim_number": "BWC-2021-04920",
+      "date_of_loss": "2021-06-19",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 17481.16,
+      "reserved": 0.0,
+      "incurred": 17481.16,
+      "description": "Strain/Sprain; upper back; overexertion"
+    },
+    {
+      "claim_number": "BWC-2021-04614",
+      "date_of_loss": "2021-10-14",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 25450.76,
+      "reserved": 0.0,
+      "incurred": 25450.76,
+      "description": "Strain/Sprain; right ankle; slip and fall"
+    },
+    {
+      "claim_number": "BWC-2022-05044",
+      "date_of_loss": "2022-02-26",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 90342.44,
+      "reserved": 0.0,
+      "incurred": 90342.44,
+      "description": "Strain/Sprain; cervical; motor vehicle"
+    },
+    {
+      "claim_number": "BWC-2022-04966",
+      "date_of_loss": "2022-05-07",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 15618.14,
+      "reserved": 0.0,
+      "incurred": 15618.14,
+      "description": "Strain/Sprain; cervical spine; motor vehicle"
+    },
+    {
+      "claim_number": "BWC-2022-04795",
+      "date_of_loss": "2022-05-30",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 17607.0,
+      "reserved": 0.0,
+      "incurred": 17607.0,
+      "description": "Strain/Sprain; lower back; overexertion"
+    },
+    {
+      "claim_number": "BWC-2022-04362",
+      "date_of_loss": "2022-06-21",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 53718.84,
+      "reserved": 0.0,
+      "incurred": 53718.84,
+      "description": "Fracture; left hand; caught in/between"
+    },
+    {
+      "claim_number": "BWC-2022-04385",
+      "date_of_loss": "2022-06-26",
+      "claimant": "Donald Green",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 16614.39,
+      "reserved": 0.0,
+      "incurred": 16614.39,
+      "description": "Contusion; right knee; struck by object"
+    },
+    {
+      "claim_number": "BWC-2022-04704",
+      "date_of_loss": "2022-07-08",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 26988.54,
+      "reserved": 4080.48,
+      "incurred": 31069.02,
+      "description": "Contusion; head; struck by object; subrogation"
+    },
+    {
+      "claim_number": "BWC-2022-04503",
+      "date_of_loss": "2022-10-01",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 18482.93,
+      "reserved": 0.0,
+      "incurred": 18482.93,
+      "description": "Strain/Sprain; left shoulder; overexertion"
+    },
+    {
+      "claim_number": "BWC-2022-04545",
+      "date_of_loss": "2022-11-09",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Herniated disc; lower back; repetitive motion; denied"
+    },
+    {
+      "claim_number": "BWC-2023-04883",
+      "date_of_loss": "2023-06-01",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 49438.42,
+      "reserved": 12429.14,
+      "incurred": 61867.56,
+      "description": "Fracture; lower arm; caught in/between"
+    },
+    {
+      "claim_number": "BWC-2023-04450",
+      "date_of_loss": "2023-09-27",
+      "claimant": "Carol Ross",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 5398.87,
+      "reserved": 1303.85,
+      "incurred": 6702.72,
+      "description": "Dislocation; shoulder; struck by object; subrogation"
+    },
+    {
+      "claim_number": "BWC-2023-04877",
+      "date_of_loss": "2023-12-31",
+      "claimant": "Justin Morales",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 27898.1,
+      "reserved": 6882.17,
+      "incurred": 34780.27,
+      "description": "Strain/Sprain; lower back; overexertion; subrogation"
+    },
+    {
+      "claim_number": "BWC-2024-04666",
+      "date_of_loss": "2024-01-20",
+      "claimant": "Edward Philips",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 102651.31,
+      "reserved": 0.0,
+      "incurred": 102651.31,
+      "description": "Crush injury; right hand; caught in/between"
+    },
+    {
+      "claim_number": "BWC-2024-04460",
+      "date_of_loss": "2024-03-05",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 47302.93,
+      "reserved": 0.0,
+      "incurred": 47302.93,
+      "description": "Fracture; left ankle; fall from height"
+    },
+    {
+      "claim_number": "BWC-2024-04913",
+      "date_of_loss": "2024-03-11",
+      "claimant": "Eric Collins",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 30000.56,
+      "reserved": 0.0,
+      "incurred": 30000.56,
+      "description": "Herniated disc; cervical spine; motor vehicle"
+    },
+    {
+      "claim_number": "BWC-2024-04938",
+      "date_of_loss": "2024-05-06",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 12629.13,
+      "reserved": 0.0,
+      "incurred": 12629.13,
+      "description": "Strain; upper back; overexertion"
+    },
+    {
+      "claim_number": "BWC-2024-04507",
+      "date_of_loss": "2024-05-25",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 30108.61,
+      "reserved": 8564.62,
+      "incurred": 38673.23,
+      "description": "Strain/Sprain; lower back; overexertion; subrogation"
+    },
+    {
+      "claim_number": "BWC-2024-04836",
+      "date_of_loss": "2024-06-06",
+      "claimant": "Gary Cruz",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 40371.61,
+      "reserved": 0.0,
+      "incurred": 40371.61,
+      "description": "Fracture; right wrist; fall from height"
+    },
+    {
+      "claim_number": "BWC-2024-04772",
+      "date_of_loss": "2024-09-01",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 32988.39,
+      "reserved": 0.0,
+      "incurred": 32988.39,
+      "description": "Laceration; left forearm; struck by object"
+    },
+    {
+      "claim_number": "BWC-2024-04659",
+      "date_of_loss": "2024-10-16",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 65773.56,
+      "reserved": 35594.94,
+      "incurred": 101368.5,
+      "description": "Burn; left hand; burn"
+    },
+    {
+      "claim_number": "BWC-2025-04182",
+      "date_of_loss": "2025-07-10",
+      "claimant": "Jason Evans",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 30483.35,
+      "reserved": 8200.51,
+      "incurred": 38683.86,
+      "description": "Contusion; left hip; slip and fall; subrogation"
+    },
+    {
+      "claim_number": "BWC-2025-04520",
+      "date_of_loss": "2025-11-17",
+      "claimant": "Paul Nelson",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 47748.06,
+      "reserved": 0.0,
+      "incurred": 47748.06,
+      "description": "Laceration; right hand; caught in/between; reopened"
+    },
+    {
+      "claim_number": "BWC-2025-04991",
+      "date_of_loss": "2025-11-25",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 13982.98,
+      "reserved": 1000.0,
+      "incurred": 14982.98,
+      "description": "Strain/Sprain; right shoulder; overexertion"
+    },
+    {
+      "claim_number": "BWC-2026-04162",
+      "date_of_loss": "2026-01-04",
+      "claimant": "Recent Claimant 51",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 24175.76,
+      "reserved": 1765.55,
+      "incurred": 25941.31,
+      "description": "Strain/Sprain; right shoulder; overexertion"
+    },
+    {
+      "claim_number": "CNA-2021-04381",
+      "date_of_loss": "2021-05-31",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 7977.31,
+      "reserved": 0.0,
+      "incurred": 7977.31,
+      "description": "Bodily injury"
+    },
+    {
+      "claim_number": "HRG-2024-04362",
+      "date_of_loss": "2024-08-19",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 14568.83,
+      "reserved": 0.0,
+      "incurred": 14568.83,
+      "description": "Slip and fall"
+    },
+    {
+      "claim_number": "HRG-2022-04460",
+      "date_of_loss": "2022-05-31",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 7006.73,
+      "reserved": 0.0,
+      "incurred": 7006.73,
+      "description": "Property damage"
+    },
+    {
+      "claim_number": "HTF-2023-04505",
+      "date_of_loss": "2023-10-12",
+      "claimant": "Paul Moore",
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 9026.9,
+      "reserved": 0.0,
+      "incurred": 9026.9,
+      "description": "Product defect"
+    },
+    {
+      "claim_number": "CNA-2021-04867",
+      "date_of_loss": "2021-01-02",
+      "claimant": "Melissa Kelly",
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 15546.74,
+      "reserved": 0.0,
+      "incurred": 15546.74,
+      "description": "Slip and fall"
+    },
+    {
+      "claim_number": "LM-2023-040815",
+      "date_of_loss": "2023-03-28",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 6021.62,
+      "reserved": 1000.0,
+      "incurred": 7021.62,
+      "description": "Commercial auto; bodily injury"
+    },
+    {
+      "claim_number": "TRV-2024-060509",
+      "date_of_loss": "2024-07-11",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 161033.31,
+      "reserved": 0.0,
+      "incurred": 161033.31,
+      "description": "Commercial auto; bodily injury"
+    },
+    {
+      "claim_number": "LMF-2024-053509",
+      "date_of_loss": "2024-11-14",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 30301.07,
+      "reserved": 0.0,
+      "incurred": 30301.07,
+      "description": "Commercial auto; bodily injury"
+    },
+    {
+      "claim_number": "TRV-2025-048804",
+      "date_of_loss": "2025-04-28",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 7142.51,
+      "reserved": 2500.0,
+      "incurred": 9642.51,
+      "description": "Commercial auto; bodily injury"
+    },
+    {
+      "claim_number": "TRV-2025-046142",
+      "date_of_loss": "2025-01-28",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 7582.09,
+      "reserved": 2000.0,
+      "incurred": 9582.09,
+      "description": "Commercial auto; bodily injury; subrogation"
+    },
+    {
+      "claim_number": "AON-2022-046956",
+      "date_of_loss": "2022-11-01",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 16198.64,
+      "reserved": 0.0,
+      "incurred": 16198.64,
+      "description": "Commercial auto; collision"
+    },
+    {
+      "claim_number": "LM-2023-047267",
+      "date_of_loss": "2023-06-30",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 11755.98,
+      "reserved": 3000.0,
+      "incurred": 14755.98,
+      "description": "Commercial auto; collision; subrogation"
+    },
+    {
+      "claim_number": "LM-2021-047724",
+      "date_of_loss": "2021-01-10",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 11105.96,
+      "reserved": 0.0,
+      "incurred": 11105.96,
+      "description": "Commercial auto; collision"
+    },
+    {
+      "claim_number": "AON-2022-053107",
+      "date_of_loss": "2022-07-30",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 44930.67,
+      "reserved": 0.0,
+      "incurred": 44930.67,
+      "description": "Commercial auto; collision"
+    },
+    {
+      "claim_number": "LM-2022-051824",
+      "date_of_loss": "2022-03-23",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 63012.32,
+      "reserved": 0.0,
+      "incurred": 63012.32,
+      "description": "Commercial auto; collision"
+    },
+    {
+      "claim_number": "LM-2023-054720",
+      "date_of_loss": "2023-10-17",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 11439.94,
+      "reserved": 5000.0,
+      "incurred": 16439.94,
+      "description": "Commercial auto; collision; reopened"
+    },
+    {
+      "claim_number": "TRV-2025-05536",
+      "date_of_loss": "2025-05-26",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 16852.35,
+      "reserved": 48673.56,
+      "incurred": 65525.91,
+      "description": "Commercial auto; collision"
+    },
+    {
+      "claim_number": "MRK-2021-04855",
+      "date_of_loss": "2021-08-18",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Commercial auto; bodily injury"
+    },
+    {
+      "claim_number": "MRK-2021-04930",
+      "date_of_loss": "2021-07-15",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Commercial auto; parking lot; denied"
+    },
+    {
+      "claim_number": "SIC-2025-04977",
+      "date_of_loss": "2025-07-28",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Commercial auto; comprehensive; closed without payment"
+    },
+    {
+      "claim_number": "LM-2025-06153",
+      "date_of_loss": "2025-12-26",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Commercial auto; collision; denied"
+    },
+    {
+      "claim_number": "MRK-2021-04529",
+      "date_of_loss": "2021-07-12",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "property",
+      "paid": 54191.29,
+      "reserved": 0.0,
+      "incurred": 54191.29,
+      "description": "Commercial property loss"
+    },
+    {
+      "claim_number": "AON-2022-047542",
+      "date_of_loss": "2022-07-10",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "property",
+      "paid": 52500.07,
+      "reserved": 0.0,
+      "incurred": 52500.07,
+      "description": "Commercial property loss"
+    },
+    {
+      "claim_number": "AIG-2022-044220",
+      "date_of_loss": "2022-10-18",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "mtc",
+      "paid": 3916.24,
+      "reserved": 0.0,
+      "incurred": 3916.24,
+      "description": "Motor truck cargo; vandalism"
+    }
+  ],
+  "subtotals_by_coverage": {
+    "wc": {
+      "paid": 843255.84,
+      "reserved": 79821.26,
+      "incurred": 923077.1,
+      "claim_count": 25
+    },
+    "gl": {
+      "paid": 54126.51,
+      "reserved": 0.0,
+      "incurred": 54126.51,
+      "claim_count": 5
+    },
+    "auto": {
+      "paid": 387376.46,
+      "reserved": 62173.56,
+      "incurred": 449550.02,
+      "claim_count": 16
+    },
+    "property": {
+      "paid": 106691.36,
+      "reserved": 0.0,
+      "incurred": 106691.36,
+      "claim_count": 2
+    },
+    "umbrella": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "mtc": {
+      "paid": 3916.24,
+      "reserved": 0.0,
+      "incurred": 3916.24,
+      "claim_count": 1
+    }
+  },
+  "grand_totals": {
+    "paid": 1395366.41,
+    "reserved": 141994.82,
+    "incurred": 1537361.23,
+    "claim_count": 49
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": null,
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "GLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Special",
+      "limit": null,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "agency_customer_id": "AC-070005",
+    "carrier_naic_code": "24281",
+    "additional_interest": "Corporate Headquarters & Main Terminal",
+    "causes_of_loss": "Special",
+    "valuation": "Replacement Cost",
+    "coinsurance": 80,
+    "building_location_schedule": [
+      {
+        "loc_no": 1,
+        "location": "Corporate Headquarters & Main Terminal",
+        "building": 10400000,
+        "contents": 5000000,
+        "business_income": 9350000,
+        "tiv": 24750000
+      },
+      {
+        "loc_no": 2,
+        "location": "Rickenbacker Air Hub",
+        "building": 14000000,
+        "contents": 7400000,
+        "business_income": 14450000,
+        "tiv": 35850000
+      },
+      {
+        "loc_no": 3,
+        "location": "Cleveland Distribution Center",
+        "building": 6450000,
+        "contents": 3900000,
+        "business_income": 7450000,
+        "tiv": 17800000
+      },
+      {
+        "loc_no": 4,
+        "location": "Pittsburgh Regional Terminal",
+        "building": null,
+        "contents": null,
+        "business_income": null,
+        "tiv": null
+      },
+      {
+        "loc_no": 5,
+        "location": "Philadelphia Cross-Dock",
+        "building": null,
+        "contents": null,
+        "business_income": null,
+        "tiv": null
+      },
+      {
+        "loc_no": 6,
+        "location": "Hamburg Consolidation Hub",
+        "building": null,
+        "contents": null,
+        "business_income": null,
+        "tiv": null
+      },
+      {
+        "loc_no": 7,
+        "location": "Toledo Service Center",
+        "building": null,
+        "contents": null,
+        "business_income": null,
+        "tiv": null
+      },
+      {
+        "loc_no": 8,
+        "location": "Fleet Maintenance Center",
+        "building": null,
+        "contents": null,
+        "business_income": null,
+        "tiv": null
+      },
+      {
+        "loc_no": 9,
+        "location": "Administrative Office",
+        "building": 0,
+        "contents": null,
+        "business_income": null,
+        "tiv": null
+      }
+    ]
+  },
+  "remarks": "Need dec"
+}

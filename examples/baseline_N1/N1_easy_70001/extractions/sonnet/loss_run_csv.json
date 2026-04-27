@@ -1,0 +1,96 @@
+{
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "carrier_name": "Multiple (CNA, AIG, BHG)",
+    "policy_numbers": {
+      "wc": null,
+      "gl": null,
+      "auto": null,
+      "property": null,
+      "umbrella": null,
+      "mtc": null
+    },
+    "report_date": null,
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "claims": [
+    {
+      "claim_number": "CNA-2025-033500",
+      "date_of_loss": "2025-06-13",
+      "claimant": "Lone Star Property Holdings, LP",
+      "status": "Open",
+      "coverage": "property",
+      "paid": 137976.38,
+      "reserved": 44151.06,
+      "incurred": 197782.57,
+      "description": "Fire - 8117 Preston Road, Dallas, TX"
+    },
+    {
+      "claim_number": "AIG-2023-033710",
+      "date_of_loss": "2023-06-09",
+      "claimant": "Lone Star Property Holdings, LP",
+      "status": "Closed",
+      "coverage": "property",
+      "paid": 95695.8,
+      "reserved": 0.0,
+      "incurred": 105450.03,
+      "description": "Lightning - 800 8th Avenue, Fort Worth, TX"
+    },
+    {
+      "claim_number": "BHG-2021-033637",
+      "date_of_loss": "2021-06-30",
+      "claimant": "Lone Star Property Holdings, LP",
+      "status": "Closed",
+      "coverage": "property",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Vandalism - 5060 Westheimer Road, Houston, TX - Denied"
+    }
+  ],
+  "subtotals_by_coverage": {
+    "wc": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "gl": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "auto": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "property": {
+      "paid": 233672.18,
+      "reserved": 44151.06,
+      "incurred": 303232.6,
+      "claim_count": 3
+    },
+    "umbrella": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "mtc": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    }
+  },
+  "grand_totals": {
+    "paid": 233672.18,
+    "reserved": 44151.06,
+    "incurred": 303232.6,
+    "claim_count": 3
+  }
+}

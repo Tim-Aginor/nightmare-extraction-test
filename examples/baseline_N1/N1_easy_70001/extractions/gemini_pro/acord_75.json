@@ -1,0 +1,69 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "INSURANCE BINDER"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": null,
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "BND-35364-6419",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 222340000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Personal Property",
+      "limit": 33432000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 59212000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_special": "checked"
+  },
+  "additional_fields": {
+    "agency_contact_name": "Sandra Villareal",
+    "agency_phone": "(214) 555-0918",
+    "agency_fax": "(214) 273-7259",
+    "agency_email": "svillareal@txcip.com",
+    "naic_code": "68074",
+    "binder_date": "2025-07-01",
+    "expiring_carrier": "CNA Financial",
+    "expiring_policy_number": "CP-5690-6189",
+    "property_coinsurance": "90%",
+    "mortgagee_1_name": "M&T Bank Corporation",
+    "mortgagee_1_address": "P.O. Box 40172, Philadelphia, PA 19101",
+    "mortgagee_2_name": "Stearns Bank, N.A.",
+    "mortgagee_2_address": "P.O. Box 92568, El Paso, TX 79901",
+    "authorized_representative": "Richard Thornton",
+    "authorized_representative_title": "Managing Partner"
+  },
+  "remarks": null
+}

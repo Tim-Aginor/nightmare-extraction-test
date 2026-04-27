@@ -1,0 +1,139 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": null,
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CPLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 55580000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents",
+      "limit": 33810000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 45766000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "agency_customer_id": "AC-070005",
+    "carrier_naic_code": "24281",
+    "additional_interest": "Corporate Headquarters & Main Terminal",
+    "causes_of_loss": "Special",
+    "valuation": "Replacement Cost",
+    "coinsurance": "80%",
+    "total_insured_value": 135156000,
+    "building_location_schedule": [
+      {
+        "loc_number": 1,
+        "location": "Corporate Headquarters & Main Terminal",
+        "building": 10000000,
+        "contents": 5000000,
+        "business_income": 9750000,
+        "tiv": 24750000
+      },
+      {
+        "loc_number": 2,
+        "location": "Riverfront Air Hub",
+        "building": 14800000,
+        "contents": 7400000,
+        "business_income": 8400000,
+        "tiv": 30600000
+      },
+      {
+        "loc_number": 3,
+        "location": "Cleveland Distribution Center",
+        "building": 6800000,
+        "contents": 3400000,
+        "business_income": 7650000,
+        "tiv": 17850000
+      },
+      {
+        "loc_number": 4,
+        "location": "Pittsburgh Regional Terminal",
+        "building": 6400000,
+        "contents": 5120000,
+        "business_income": 3840000,
+        "tiv": 15360000
+      },
+      {
+        "loc_number": 5,
+        "location": "Philadelphia Cross Dock",
+        "building": 4700000,
+        "contents": 2350000,
+        "business_income": 7050000,
+        "tiv": 14100000
+      },
+      {
+        "loc_number": 6,
+        "location": "Harrisburg Consolidation Hub",
+        "building": 7300000,
+        "contents": 5840000,
+        "business_income": 1460000,
+        "tiv": 14600000
+      },
+      {
+        "loc_number": 7,
+        "location": "Toledo Service Center",
+        "building": 3720000,
+        "contents": 2300000,
+        "business_income": 3276000,
+        "tiv": 9296000
+      },
+      {
+        "loc_number": 8,
+        "location": "Fleet Maintenance Center",
+        "building": 1860000,
+        "contents": 1550000,
+        "business_income": 2790000,
+        "tiv": 6200000
+      },
+      {
+        "loc_number": 9,
+        "location": "Administrative Office",
+        "building": 0,
+        "contents": 850000,
+        "business_income": 1550000,
+        "tiv": 2400000
+      }
+    ],
+    "schedule_totals": {
+      "building": 55580000,
+      "contents": 33810000,
+      "business_income": 45766000,
+      "tiv": 135156000
+    }
+  },
+  "remarks": "Need docs"
+}

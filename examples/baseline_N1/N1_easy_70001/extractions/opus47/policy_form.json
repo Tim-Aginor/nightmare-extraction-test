@@ -1,0 +1,109 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": null,
+    "prepared_by": "Apex Managing General Agency",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Building",
+      "current_limit": 222340000,
+      "requested_limit": 222340000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Coinsurance 90%; Deductible $50,000"
+    },
+    {
+      "coverage_type": "Contents (Business Personal Property)",
+      "current_limit": 33432000,
+      "requested_limit": 33432000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 59212000,
+      "requested_limit": 59212000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Commercial Property (CP 00 10 10 12)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": 403697.14,
+      "notes": "Total premium for Commercial Property coverage part"
+    },
+    {
+      "coverage_type": "Ordinance Or Law Coverage (CP 04 05)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Endorsement effective 03/15/2026; Coverage A \u2014 Loss to Undamaged Portion of Building"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage (CP 04 09)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Endorsement effective 03/15/2026; covers mechanical, electrical, or pressure equipment"
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Direct Damage (CP 04 17)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Endorsement effective 03/15/2026; covers water, communication, and power supply"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": "2026-07-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "document_info": {
+    "document_type": "Carrier History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Package/Property (inferred from policy number prefix)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "Policy Year 2024 | Policy No. CP-5690-6189 | Claims: 1 | Loss Ratio: not provided | Cancellation: No"
+    },
+    {
+      "coverage_type": "Commercial Package/Property (inferred from policy number prefix)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 423914.72,
+      "notes": "Policy Year 2023 | Policy No. 7CP0006249 | Claims: 0 | Loss Ratio: not provided | Cancellation: No"
+    },
+    {
+      "coverage_type": "Commercial Package/Property (inferred from policy number prefix)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "American International Group",
+      "expiring_premium": 447842.42,
+      "notes": "Policy Year 2022 | Policy No. CP006315-001 | Claims: 1 | Loss Ratio: not provided | Cancellation: No"
+    },
+    {
+      "coverage_type": "Commercial (policy number prefix non-standard)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Auto-Owners Insurance",
+      "expiring_premium": 470199.5,
+      "notes": "Policy Year 2021 | Policy No. 0000006024 | Claims: 0 | Loss Ratio: not provided | Cancellation: No"
+    },
+    {
+      "coverage_type": "Commercial Package/Property (inferred from policy number prefix)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Berkshire Hathaway Guard",
+      "expiring_premium": 467047.27,
+      "notes": "Policy Year 2020 | Policy No. 7CP0004214 | Claims: 1 | Loss Ratio: not provided | Cancellation: No"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Zero policy cancellations or non-renewals across the entire 5-year history (2020\u20132024)",
+      "Two consecutive or alternating claim-free years: 2021 and 2023",
+      "Continuous coverage maintained with nationally recognized, A-rated carriers throughout the period",
+      "No pattern of increasing claim frequency year-over-year"
+    ],
+    "concerns": [
+      "Claims reported in 3 of 5 policy years (2020, 2022, 2024), representing a 60% claim-frequency rate",
+      "Loss ratios not provided for any policy year, limiting full underwriting assessment",
+      "Premium declining trend from peak of $470,199.50 (2021) to $414,601.77 (2024); may indicate reduced insured values, coverage scope changes, or market competition \u2014 warrants clarification",
+      "Alternating claim pattern (claim, no claim, claim, no claim, claim) with claim in most recent year (2024)"
+    ],
+    "loss_history_summary": "5-year prior insurance history (2020\u20132024) reflects 3 claim occurrences across 5 policy periods: 1 claim each in 2020 (Berkshire Hathaway Guard), 2022 (AIG), and 2024 (CNA Financial); claim-free years in 2021 (Auto-Owners) and 2023 (Zurich). No cancellations or non-renewals reported in any year. Loss ratios were not provided. Annual premiums ranged from $414,601.77 to $470,199.50, with a general declining trend from 2021 onward. Total 5-year premium spend: $2,223,605.68."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

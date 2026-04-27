@@ -1,0 +1,92 @@
+{
+  "document_info": {
+    "document_type": "Statement of Values / Property Schedule",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial property schedule with office and mercantile occupancies.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Total Insured Value",
+      "current_limit": 229053199,
+      "requested_limit": 314984000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Prior Year SOV total includes building and contents values. Current Locations schedule includes building, contents, and BI values."
+    },
+    {
+      "coverage_type": "Building",
+      "current_limit": 199124688,
+      "requested_limit": 222340000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Building values summarized across 8 scheduled locations."
+    },
+    {
+      "coverage_type": "Contents",
+      "current_limit": 29928511,
+      "requested_limit": 33432000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Contents values summarized across 8 scheduled locations."
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": null,
+      "requested_limit": 59212000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "BI values are included in the current Locations schedule; no prior-year BI values provided."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 scheduled locations are sprinklered.",
+      "Construction types listed are Fire Resistive, Masonry Non-Combustible, or Non-Combustible.",
+      "Scheduled properties are office and mercantile occupancies.",
+      "Locations are in Texas cities including Dallas, Houston, Plano, Fort Worth, and Southlake."
+    ],
+    "concerns": [
+      "Modification sheet references an added warehouse facility and a deleted old location, but detailed location data for those changes is not shown in the provided Locations sheet."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

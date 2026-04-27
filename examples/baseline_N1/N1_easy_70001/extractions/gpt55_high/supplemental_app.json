@@ -1,0 +1,78 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Sandra Villareal",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 24,
+    "annual_revenue": 67000000,
+    "employee_count": 173
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Policy Number CP-LSPH-2025-7801; Effective Date 07/01/2025."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "24 years in business and 18 years with current management.",
+      "Written contracts are in place with all subcontractors.",
+      "Written contracts with indemnification are required from all contractors.",
+      "All listed premises are sprinklered.",
+      "Building is fully sprinklered per NFPA 13 or 13R.",
+      "24-hour doorperson or security is present on premises.",
+      "Short-term rentals of less than 1 year are not permitted.",
+      "Fire alarms are hard-wired with central station monitoring.",
+      "No OSHA citations in the past 3 years.",
+      "95% of units are regularly occupied."
+    ],
+    "concerns": [
+      "No formal safety program.",
+      "Commercial occupancy exists within the building.",
+      "EV charging stations are installed on the premises.",
+      "Swimming pools, exercise rooms, or other amenities are present.",
+      "Prior insurance history shows 2 claims over the 2022-2024 period."
+    ],
+    "loss_history_summary": "Prior insurance history: 2024 CNA Financial premium 414601.77 with 1 claim and no cancellations; 2023 Zurich Insurance Group premium 423914.72 with 0 claims and no cancellations; 2022 American International Group premium 447842.42 with 1 claim and no cancellations."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "safety_programs": "Do you have a formal safety program? No. Do you have written contracts with all subcontractors? Yes. Are written contracts with indemnification required from all contractors? Yes. Is there 24-hour doorperson or security on premises? Yes. Are fire alarms hard-wired with central station monitoring? Yes. Have there been any OSHA citations in the past 3 years? No.",
+    "claims_narrative": "Year Carrier Premium Claims Cancellations: 2024 CNA Financial 414601.77 1 No; 2023 Zurich Insurance Group 423914.72 0 No; 2022 American International Group 447842.42 1 No."
+  }
+}

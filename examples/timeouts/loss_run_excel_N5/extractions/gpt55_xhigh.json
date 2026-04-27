@@ -1,0 +1,558 @@
+{
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "carrier_name": "Standard Insurance Company",
+    "policy_numbers": {
+      "wc": "WC GLFS 2025 8820",
+      "gl": "gl GLFS 2025 8821",
+      "auto": "CAGLFS20258822",
+      "property": "cpGLFS20258823",
+      "umbrella": "SIC CU025454",
+      "mtc": "SICMT032788"
+    },
+    "report_date": "2026-03-15",
+    "policy_period_start": "2025-06-01",
+    "policy_period_end": "2026-06-01"
+  },
+  "claims": [
+    {
+      "claim_number": "BWC-2021-049200",
+      "date_of_loss": "2021-06-19",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 17461.16,
+      "reserved": 0,
+      "incurred": 17461.16,
+      "description": "Upper Back; WC Class 7219; Nature 73"
+    },
+    {
+      "claim_number": "BWC-2021-046142",
+      "date_of_loss": "2021-10-14",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 25450.76,
+      "reserved": 0,
+      "incurred": 25450.76,
+      "description": "Right Ankle; WC Class 7219; Nature 72"
+    },
+    {
+      "claim_number": "BWC-2022-050407",
+      "date_of_loss": "2022-02-24",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 90342.44,
+      "reserved": 0,
+      "incurred": 90342.44,
+      "description": "Cervical Spine; WC Class 7219; Nature 74"
+    },
+    {
+      "claim_number": "BWC-2022-049655",
+      "date_of_loss": "2022-05-07",
+      "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 15618.14,
+      "reserved": 0,
+      "incurred": 15618.14,
+      "description": "Cervical Spine; WC Class 7219; Nature 74"
+    },
+    {
+      "claim_number": "BWC-2022-047955",
+      "date_of_loss": "2022-06-07",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 17497,
+      "reserved": 0,
+      "incurred": 17497,
+      "description": "Lower Back; WC Class 8292; Nature 73"
+    },
+    {
+      "claim_number": "BWC-2022-043842",
+      "date_of_loss": "2022-06-21",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 53718.84,
+      "reserved": 0,
+      "incurred": 53718.84,
+      "description": "Left Hand; WC Class 8292; Nature 70"
+    },
+    {
+      "claim_number": "BWC-2022-043815",
+      "date_of_loss": "2022-06-26",
+      "claimant": "Donald Green",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 16614.39,
+      "reserved": 0,
+      "incurred": 16614.39,
+      "description": "Right Knee; WC Class 8292; Nature 72"
+    },
+    {
+      "claim_number": "BWC-2022-047267",
+      "date_of_loss": "2022-07-08",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 28999.29,
+      "reserved": 2069.73,
+      "incurred": 31069.02,
+      "description": "Head; WC Class 7219; Nature 69"
+    },
+    {
+      "claim_number": "BWC-2022-045032",
+      "date_of_loss": "2022-10-01",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 18482.93,
+      "reserved": 0,
+      "incurred": 18482.93,
+      "description": "Left Shoulder; WC Class 8292; Nature 73"
+    },
+    {
+      "claim_number": "BWC-2022-045459",
+      "date_of_loss": "2022-11-05",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 0,
+      "reserved": 0,
+      "incurred": 0,
+      "description": "Lower Back; WC Class 7219; Nature 09"
+    },
+    {
+      "claim_number": "BWC-2023-048838",
+      "date_of_loss": "2023-05-07",
+      "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 51867.56,
+      "reserved": 0,
+      "incurred": 51867.56,
+      "description": "Upper Back; WC Class 7219; Nature 73"
+    },
+    {
+      "claim_number": "BWC-2023-045269",
+      "date_of_loss": "2023-06-24",
+      "claimant": "Carol Ross",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 6553.27,
+      "reserved": 149.45,
+      "incurred": 6702.72,
+      "description": "Right Shoulder; WC Class 8292; Nature 69"
+    },
+    {
+      "claim_number": "BWC-2023-049778",
+      "date_of_loss": "2023-12-31",
+      "claimant": "Justin Morales",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 31498.4,
+      "reserved": 3281.87,
+      "incurred": 34780.27,
+      "description": "Lower Back; WC Class 7219; Nature 73"
+    },
+    {
+      "claim_number": "BWC-2024-046807",
+      "date_of_loss": "2024-01-20",
+      "claimant": "Edward Phillips",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 102651.36,
+      "reserved": 0,
+      "incurred": 102651.36,
+      "description": "Right Hand; WC Class 8292; Nature 70"
+    },
+    {
+      "claim_number": "BWC-2024-044605",
+      "date_of_loss": "2024-03-05",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 47302.93,
+      "reserved": 0,
+      "incurred": 47302.93,
+      "description": "Left Ankle; WC Class 7219; Nature 71"
+    },
+    {
+      "claim_number": "BWC-2024-049130",
+      "date_of_loss": "2024-03-11",
+      "claimant": "Eric Collins",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 30000.56,
+      "reserved": 0,
+      "incurred": 30000.56,
+      "description": "Cervical Spine; WC Class 7219; Nature 74"
+    },
+    {
+      "claim_number": "BWC-2024-049381",
+      "date_of_loss": "2024-05-06",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 12629.13,
+      "reserved": 0,
+      "incurred": 12629.13,
+      "description": "Upper Back; WC Class 7219; Nature 73"
+    },
+    {
+      "claim_number": "BWC-2024-045079",
+      "date_of_loss": "2024-05-25",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 34927.29,
+      "reserved": 3745.94,
+      "incurred": 38673.23,
+      "description": "Lower Back; WC Class 7380; Nature 73"
+    },
+    {
+      "claim_number": "BWC-2024-048369",
+      "date_of_loss": "2024-08-06",
+      "claimant": "Gary Cruz",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 40371.61,
+      "reserved": 0,
+      "incurred": 40371.61,
+      "description": "Right Wrist; WC Class 7219; Nature 71"
+    },
+    {
+      "claim_number": "BWC-2024-047724",
+      "date_of_loss": "2024-09-01",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 32988.2,
+      "reserved": 0,
+      "incurred": 32988.2,
+      "description": "Left Forearm; WC Class 7380; Nature 69"
+    },
+    {
+      "claim_number": "BWC-2024-046595",
+      "date_of_loss": "2024-10-16",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 67913,
+      "reserved": 33956.5,
+      "incurred": 101869.5,
+      "description": "Left Hand; WC Class 7219; Nature 08"
+    },
+    {
+      "claim_number": "SIC-2025-047182",
+      "date_of_loss": "2025-07-10",
+      "claimant": "Jason Evans",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 35274.32,
+      "reserved": 408.74,
+      "incurred": 35683.06,
+      "description": "Left Hip; WC Class 7219; Nature 72"
+    },
+    {
+      "claim_number": "SIC-2025-044220",
+      "date_of_loss": "2025-11-17",
+      "claimant": "Paul Nelson",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 31826.7,
+      "reserved": 15913.35,
+      "incurred": 47740.05,
+      "description": "Right Hand; WC Class 7219; Nature 70"
+    },
+    {
+      "claim_number": "SIC-2025-045770",
+      "date_of_loss": "2025-11-25",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 16633.28,
+      "reserved": 10147.84,
+      "incurred": 26781.12,
+      "description": "Right Shoulder; WC Class 7219; Nature 73"
+    },
+    {
+      "claim_number": "CNA-2021-046595",
+      "date_of_loss": "2021-01-22",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 15406.74,
+      "reserved": 0,
+      "incurred": 15406.74,
+      "description": "Nature 01"
+    },
+    {
+      "claim_number": "CNA-2021-043815",
+      "date_of_loss": "2021-05-31",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 7917.31,
+      "reserved": 0,
+      "incurred": 7917.31,
+      "description": "Nature 13"
+    },
+    {
+      "claim_number": "HTF-2023-045032",
+      "date_of_loss": "2023-10-12",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 9626.9,
+      "reserved": 0,
+      "incurred": 9626.9,
+      "description": "Nature 12"
+    },
+    {
+      "claim_number": "HIG-2024-043842",
+      "date_of_loss": "2024-08-19",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 14168.83,
+      "reserved": 0,
+      "incurred": 14168.83,
+      "description": "Nature 01"
+    },
+    {
+      "claim_number": "CNA-2021-047724",
+      "date_of_loss": "2021-01-10",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 11376.14,
+      "reserved": 0,
+      "incurred": 11376.14,
+      "description": "Nature 20"
+    },
+    {
+      "claim_number": "MRK-2021-049381",
+      "date_of_loss": "2021-07-03",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 0,
+      "reserved": 0,
+      "incurred": 0,
+      "description": "Nature 25"
+    },
+    {
+      "claim_number": "MRK-2021-045459",
+      "date_of_loss": "2021-08-10",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 0,
+      "reserved": 0,
+      "incurred": 0,
+      "description": "Nature 13"
+    },
+    {
+      "claim_number": "MRK-2022-053912",
+      "date_of_loss": "2022-03-23",
+      "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 63692.15,
+      "reserved": 0,
+      "incurred": 63692.15,
+      "description": "Nature 20"
+    },
+    {
+      "claim_number": "AOI-2022-053107",
+      "date_of_loss": "2022-07-30",
+      "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 63826.19,
+      "reserved": 0,
+      "incurred": 63826.19,
+      "description": "Nature 20"
+    },
+    {
+      "claim_number": "AOI-2022-046595",
+      "date_of_loss": "2022-11-01",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 16196.84,
+      "reserved": 0,
+      "incurred": 16196.84,
+      "description": "Nature 20"
+    },
+    {
+      "claim_number": "LMI-2023-047267",
+      "date_of_loss": "2023-06-30",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 14638.48,
+      "reserved": 117.45,
+      "incurred": 14755.93,
+      "description": "Nature 20"
+    },
+    {
+      "claim_number": "LMI-2023-054720",
+      "date_of_loss": "2023-10-17",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 12503.55,
+      "reserved": 3992.45,
+      "incurred": 16496,
+      "description": "Nature 20"
+    },
+    {
+      "claim_number": "LMI-2023-043815",
+      "date_of_loss": "2023-11-29",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 7021.62,
+      "reserved": 0,
+      "incurred": 7021.62,
+      "description": "Nature 13"
+    },
+    {
+      "claim_number": "LMI-2023-051804",
+      "date_of_loss": "2023-12-25",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 0,
+      "reserved": 0,
+      "incurred": 0,
+      "description": "Nature 20"
+    },
+    {
+      "claim_number": "LMI-2024-045032",
+      "date_of_loss": "2024-02-11",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 10341.04,
+      "reserved": 0,
+      "incurred": 10341.04,
+      "description": "Nature 13"
+    },
+    {
+      "claim_number": "TRV-2024-044220",
+      "date_of_loss": "2024-07-18",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Closed",
+      "coverage": "auto",
+      "paid": 161093,
+      "reserved": 0,
+      "incurred": 161093,
+      "description": "Nature 13"
+    },
+    {
+      "claim_number": "TRV-2025-046142",
+      "date_of_loss": "2025-01-28",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 9472.97,
+      "reserved": 109.12,
+      "incurred": 9582.09,
+      "description": "Nature 13"
+    },
+    {
+      "claim_number": "TRV-2025-045269",
+      "date_of_loss": "2025-04-06",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 7228.91,
+      "reserved": 2413.6,
+      "incurred": 9642.51,
+      "description": "Nature 13"
+    },
+    {
+      "claim_number": "TRV-2025-055365",
+      "date_of_loss": "2025-05-29",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "status": "Open",
+      "coverage": "auto",
+      "paid": 10879.51,
+      "reserved": 54647,
+      "incurred": 65526.51,
+      "description": "Nature 20"
+    },
+    {
+      "claim_number": "MRK-2021-048284",
+      "date_of_loss": "2021-02-17",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "property",
+      "paid": 54191.29,
+      "reserved": 0,
+      "incurred": 54191.29,
+      "description": "Water Damage"
+    },
+    {
+      "claim_number": "AIG-2022-044220",
+      "date_of_loss": "2022-10-18",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "status": "Closed",
+      "coverage": "mtc",
+      "paid": 3916.24,
+      "reserved": 0,
+      "incurred": 3916.24,
+      "description": "Nature 34"
+    }
+  ],
+  "subtotals_by_coverage": {
+    "wc": {
+      "paid": 826622.56,
+      "reserved": 69673.42,
+      "incurred": 896295.98,
+      "claim_count": 24
+    },
+    "gl": {
+      "paid": 47119.78,
+      "reserved": 0,
+      "incurred": 47119.78,
+      "claim_count": 4
+    },
+    "auto": {
+      "paid": 388270.4,
+      "reserved": 61279.62,
+      "incurred": 449550.02,
+      "claim_count": 15
+    },
+    "property": {
+      "paid": 54191.29,
+      "reserved": 0,
+      "incurred": 54191.29,
+      "claim_count": 1
+    },
+    "umbrella": {
+      "paid": 0,
+      "reserved": 0,
+      "incurred": 0,
+      "claim_count": 0
+    },
+    "mtc": {
+      "paid": 3916.24,
+      "reserved": 0,
+      "incurred": 3916.24,
+      "claim_count": 1
+    }
+  },
+  "grand_totals": {
+    "paid": 1320120.27,
+    "reserved": 130953.04,
+    "incurred": 1451073.31,
+    "claim_count": 45
+  }
+}

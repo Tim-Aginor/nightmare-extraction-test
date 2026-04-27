@@ -1,0 +1,75 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": null,
+    "form_title": "COMMERCIAL PROPERTY APPLICATION"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "GLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 54110000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents",
+      "limit": 33320000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 57954000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "agency_customer_id": "AC-070005",
+    "carrier_naic_code": "24281",
+    "additional_interest": "Corporate Headquarters & Main Terminal",
+    "causes_of_loss": "Special",
+    "valuation": "Replacement Cost",
+    "coinsurance": "90%",
+    "location_schedule_totals": {
+      "building": 54110000,
+      "contents": 33320000,
+      "business_income": 57954000,
+      "tiv": 145384000
+    },
+    "building_location_schedule": [
+      "Corporate Headquarters & Main Terminal",
+      "Rickenbacker Air Hub",
+      "Cleveland Distribution Center",
+      "Pittsburgh Regional Terminal",
+      "Philadelphia Cross-Dock",
+      "Hamburg Consolidation Hub",
+      "Toledo Service Center",
+      "Fleet Maintenance Center",
+      "Administrative Office"
+    ]
+  },
+  "remarks": null
+}

@@ -1,0 +1,987 @@
+{
+  "gpt55": {
+    "model": "gpt55",
+    "arithmetic_errors_by_kind": {
+      "tiv_sum_mismatch": 1
+    },
+    "arith_error_docs_by_difficulty": {
+      "N5": 1
+    },
+    "arith_error_docs_by_category": {
+      "sov_excel": 1
+    },
+    "overcount_excess_by_difficulty": {
+      "N1": 6,
+      "N2": 8,
+      "N3": 6,
+      "N4": 7,
+      "N5": 6
+    },
+    "overcount_excess_by_category": {
+      "dec_page": 23,
+      "engineering_report": 10
+    },
+    "overcount_docs_by_difficulty": {
+      "N1": 2,
+      "N2": 2,
+      "N3": 1,
+      "N4": 2,
+      "N5": 1
+    },
+    "overcount_docs_by_category": {
+      "dec_page": 5,
+      "engineering_report": 3
+    },
+    "docs_by_difficulty": {
+      "N1": 25,
+      "N2": 25,
+      "N3": 30,
+      "N4": 36,
+      "N5": 32
+    },
+    "docs_by_category": {
+      "acord_101": 5,
+      "acord_125": 5,
+      "acord_140": 5,
+      "acord_160": 5,
+      "acord_24": 5,
+      "acord_25": 5,
+      "acord_27": 5,
+      "acord_28": 5,
+      "acord_35": 5,
+      "acord_45": 5,
+      "acord_75": 5,
+      "broker_narrative": 5,
+      "dec_page": 5,
+      "engineering_report": 4,
+      "financial_statement": 5,
+      "financial_statement_excel": 5,
+      "hybrid_workbook": 5,
+      "loss_run": 5,
+      "loss_run_csv": 5,
+      "loss_run_excel": 5,
+      "policy_form": 5,
+      "sov": 5,
+      "sov_excel": 5,
+      "supplemental_app": 5,
+      "supplemental_schedule_excel": 5,
+      "acord_126": 3,
+      "acord_130": 2,
+      "acord_133": 2,
+      "experience_mod": 2,
+      "experience_mod_excel": 2,
+      "acord_127": 2,
+      "acord_137": 2,
+      "acord_23": 2,
+      "acord_823": 1,
+      "driver_schedule": 2,
+      "driver_schedule_excel": 2,
+      "acord_131": 1,
+      "supplemental_app_trucking": 1
+    },
+    "examples": {
+      "arithmetic_errors": [
+        {
+          "doc": "N5_nightmare_70005/sov_excel",
+          "kind": "tiv_sum_mismatch",
+          "reported": 142384000.0,
+          "computed": 158803817.0
+        }
+      ],
+      "overcount": [
+        {
+          "doc": "N1_easy_70001/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 4,
+              "excess": 4
+            }
+          }
+        },
+        {
+          "doc": "N1_easy_70001/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 2,
+              "excess": 2
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 5,
+              "excess": 5
+            }
+          }
+        },
+        {
+          "doc": "N3_hard_70003/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 6,
+              "excess": 6
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 4,
+              "excess": 4
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N5_nightmare_70005/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 6,
+              "excess": 6
+            }
+          }
+        }
+      ]
+    }
+  },
+  "gpt54": {
+    "model": "gpt54",
+    "arithmetic_errors_by_kind": {
+      "tiv_sum_mismatch": 4,
+      "incurred_sum_mismatch": 2
+    },
+    "arith_error_docs_by_difficulty": {
+      "N3": 2,
+      "N4": 1,
+      "N5": 3
+    },
+    "arith_error_docs_by_category": {
+      "sov": 2,
+      "sov_excel": 2,
+      "loss_run": 2
+    },
+    "overcount_excess_by_difficulty": {
+      "N1": 5,
+      "N2": 14,
+      "N3": 14,
+      "N4": 20,
+      "N5": 6
+    },
+    "overcount_excess_by_category": {
+      "dec_page": 44,
+      "engineering_report": 14,
+      "sov_excel": 1
+    },
+    "overcount_docs_by_difficulty": {
+      "N1": 2,
+      "N2": 2,
+      "N3": 2,
+      "N4": 2,
+      "N5": 1
+    },
+    "overcount_docs_by_category": {
+      "dec_page": 5,
+      "engineering_report": 3,
+      "sov_excel": 1
+    },
+    "docs_by_difficulty": {
+      "N1": 25,
+      "N2": 25,
+      "N3": 30,
+      "N4": 36,
+      "N5": 32
+    },
+    "docs_by_category": {
+      "acord_101": 5,
+      "acord_125": 5,
+      "acord_140": 5,
+      "acord_160": 5,
+      "acord_24": 5,
+      "acord_25": 5,
+      "acord_27": 5,
+      "acord_28": 5,
+      "acord_35": 5,
+      "acord_45": 5,
+      "acord_75": 5,
+      "broker_narrative": 5,
+      "dec_page": 5,
+      "engineering_report": 4,
+      "financial_statement": 5,
+      "financial_statement_excel": 5,
+      "hybrid_workbook": 5,
+      "loss_run": 5,
+      "loss_run_csv": 5,
+      "loss_run_excel": 5,
+      "policy_form": 5,
+      "sov": 5,
+      "sov_excel": 5,
+      "supplemental_app": 5,
+      "supplemental_schedule_excel": 5,
+      "acord_126": 3,
+      "acord_130": 2,
+      "acord_133": 2,
+      "experience_mod": 2,
+      "experience_mod_excel": 2,
+      "acord_127": 2,
+      "acord_137": 2,
+      "acord_23": 2,
+      "acord_823": 1,
+      "driver_schedule": 2,
+      "driver_schedule_excel": 2,
+      "acord_131": 1,
+      "supplemental_app_trucking": 1
+    },
+    "examples": {
+      "arithmetic_errors": [
+        {
+          "doc": "N3_hard_70003/sov",
+          "kind": "tiv_sum_mismatch",
+          "reported": 168230000.0,
+          "computed": 25490000.0
+        },
+        {
+          "doc": "N3_hard_70003/sov_excel",
+          "kind": "tiv_sum_mismatch",
+          "reported": 168230000.0,
+          "computed": 336460000.0
+        },
+        {
+          "doc": "N4_expert_70004/loss_run",
+          "kind": "incurred_sum_mismatch",
+          "reported": 1485203.85,
+          "computed": 942287.4400000003
+        },
+        {
+          "doc": "N5_nightmare_70005/loss_run",
+          "kind": "incurred_sum_mismatch",
+          "reported": 1537361.23,
+          "computed": 1865657.7800000005
+        },
+        {
+          "doc": "N5_nightmare_70005/sov",
+          "kind": "tiv_sum_mismatch",
+          "reported": 40555000.0,
+          "computed": 39555000.0
+        },
+        {
+          "doc": "N5_nightmare_70005/sov_excel",
+          "kind": "tiv_sum_mismatch",
+          "reported": 142384000.0,
+          "computed": 158803817.0
+        }
+      ],
+      "overcount": [
+        {
+          "doc": "N1_easy_70001/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N1_easy_70001/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 2,
+              "excess": 2
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 5,
+              "excess": 5
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 9,
+              "excess": 9
+            }
+          }
+        },
+        {
+          "doc": "N3_hard_70003/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 13,
+              "excess": 13
+            }
+          }
+        },
+        {
+          "doc": "N3_hard_70003/sov_excel",
+          "lists": {
+            "locations": {
+              "gt_count": 8,
+              "ext_count": 9,
+              "excess": 1
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 17,
+              "excess": 17
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N5_nightmare_70005/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 6,
+              "excess": 6
+            }
+          }
+        }
+      ]
+    }
+  },
+  "opus47": {
+    "model": "opus47",
+    "arithmetic_errors_by_kind": {
+      "tiv_sum_mismatch": 2,
+      "incurred_sum_mismatch": 1
+    },
+    "arith_error_docs_by_difficulty": {
+      "N3": 1,
+      "N5": 2
+    },
+    "arith_error_docs_by_category": {
+      "sov_excel": 2,
+      "loss_run": 1
+    },
+    "overcount_excess_by_difficulty": {
+      "N1": 6,
+      "N2": 13,
+      "N3": 15,
+      "N4": 19,
+      "N5": 10
+    },
+    "overcount_excess_by_category": {
+      "dec_page": 47,
+      "engineering_report": 15,
+      "sov_excel": 1
+    },
+    "overcount_docs_by_difficulty": {
+      "N1": 2,
+      "N2": 2,
+      "N3": 2,
+      "N4": 2,
+      "N5": 1
+    },
+    "overcount_docs_by_category": {
+      "dec_page": 5,
+      "engineering_report": 3,
+      "sov_excel": 1
+    },
+    "docs_by_difficulty": {
+      "N1": 25,
+      "N2": 25,
+      "N3": 30,
+      "N4": 36,
+      "N5": 32
+    },
+    "docs_by_category": {
+      "acord_101": 5,
+      "acord_125": 5,
+      "acord_140": 5,
+      "acord_160": 5,
+      "acord_24": 5,
+      "acord_25": 5,
+      "acord_27": 5,
+      "acord_28": 5,
+      "acord_35": 5,
+      "acord_45": 5,
+      "acord_75": 5,
+      "broker_narrative": 5,
+      "dec_page": 5,
+      "engineering_report": 4,
+      "financial_statement": 5,
+      "financial_statement_excel": 5,
+      "hybrid_workbook": 5,
+      "loss_run": 5,
+      "loss_run_csv": 5,
+      "loss_run_excel": 5,
+      "policy_form": 5,
+      "sov": 5,
+      "sov_excel": 5,
+      "supplemental_app": 5,
+      "supplemental_schedule_excel": 5,
+      "acord_126": 3,
+      "acord_130": 2,
+      "acord_133": 2,
+      "experience_mod": 2,
+      "experience_mod_excel": 2,
+      "acord_127": 2,
+      "acord_137": 2,
+      "acord_23": 2,
+      "acord_823": 1,
+      "driver_schedule": 2,
+      "driver_schedule_excel": 2,
+      "acord_131": 1,
+      "supplemental_app_trucking": 1
+    },
+    "examples": {
+      "arithmetic_errors": [
+        {
+          "doc": "N3_hard_70003/sov_excel",
+          "kind": "tiv_sum_mismatch",
+          "reported": 168230000.0,
+          "computed": 336460000.0
+        },
+        {
+          "doc": "N5_nightmare_70005/loss_run",
+          "kind": "incurred_sum_mismatch",
+          "reported": 1537361.23,
+          "computed": 1409010.4200000002
+        },
+        {
+          "doc": "N5_nightmare_70005/sov_excel",
+          "kind": "tiv_sum_mismatch",
+          "reported": 142384000.0,
+          "computed": 158803817.0
+        }
+      ],
+      "overcount": [
+        {
+          "doc": "N1_easy_70001/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N1_easy_70001/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 10,
+              "excess": 10
+            }
+          }
+        },
+        {
+          "doc": "N3_hard_70003/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 14,
+              "excess": 14
+            }
+          }
+        },
+        {
+          "doc": "N3_hard_70003/sov_excel",
+          "lists": {
+            "locations": {
+              "gt_count": 8,
+              "ext_count": 9,
+              "excess": 1
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/dec_page",
+          "lists": {
+            "locations": {
+              "gt_count": 0,
+              "ext_count": 1,
+              "excess": 1
+            },
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 16,
+              "excess": 16
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 2,
+              "excess": 2
+            }
+          }
+        },
+        {
+          "doc": "N5_nightmare_70005/dec_page",
+          "lists": {
+            "locations": {
+              "gt_count": 0,
+              "ext_count": 1,
+              "excess": 1
+            },
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 9,
+              "excess": 9
+            }
+          }
+        }
+      ]
+    }
+  },
+  "sonnet": {
+    "model": "sonnet",
+    "arithmetic_errors_by_kind": {
+      "incurred_sum_mismatch": 1,
+      "tiv_sum_mismatch": 1
+    },
+    "arith_error_docs_by_difficulty": {
+      "N5": 2
+    },
+    "arith_error_docs_by_category": {
+      "loss_run": 1,
+      "sov_excel": 1
+    },
+    "overcount_excess_by_difficulty": {
+      "N1": 7,
+      "N2": 7,
+      "N3": 14,
+      "N4": 21,
+      "N5": 23
+    },
+    "overcount_excess_by_category": {
+      "dec_page": 63,
+      "engineering_report": 9
+    },
+    "overcount_docs_by_difficulty": {
+      "N1": 2,
+      "N2": 2,
+      "N3": 1,
+      "N4": 2,
+      "N5": 1
+    },
+    "overcount_docs_by_category": {
+      "dec_page": 5,
+      "engineering_report": 3
+    },
+    "docs_by_difficulty": {
+      "N1": 25,
+      "N2": 25,
+      "N3": 30,
+      "N4": 36,
+      "N5": 32
+    },
+    "docs_by_category": {
+      "acord_101": 5,
+      "acord_125": 5,
+      "acord_140": 5,
+      "acord_160": 5,
+      "acord_24": 5,
+      "acord_25": 5,
+      "acord_27": 5,
+      "acord_28": 5,
+      "acord_35": 5,
+      "acord_45": 5,
+      "acord_75": 5,
+      "broker_narrative": 5,
+      "dec_page": 5,
+      "engineering_report": 4,
+      "financial_statement": 5,
+      "financial_statement_excel": 5,
+      "hybrid_workbook": 5,
+      "loss_run": 5,
+      "loss_run_csv": 5,
+      "loss_run_excel": 5,
+      "policy_form": 5,
+      "sov": 5,
+      "sov_excel": 5,
+      "supplemental_app": 5,
+      "supplemental_schedule_excel": 5,
+      "acord_126": 3,
+      "acord_130": 2,
+      "acord_133": 2,
+      "experience_mod": 2,
+      "experience_mod_excel": 2,
+      "acord_127": 2,
+      "acord_137": 2,
+      "acord_23": 2,
+      "acord_823": 1,
+      "driver_schedule": 2,
+      "driver_schedule_excel": 2,
+      "acord_131": 1,
+      "supplemental_app_trucking": 1
+    },
+    "examples": {
+      "arithmetic_errors": [
+        {
+          "doc": "N5_nightmare_70005/loss_run",
+          "kind": "incurred_sum_mismatch",
+          "reported": 1537361.23,
+          "computed": 1415732.2100000002
+        },
+        {
+          "doc": "N5_nightmare_70005/sov_excel",
+          "kind": "tiv_sum_mismatch",
+          "reported": 142384000.0,
+          "computed": 158803817.0
+        }
+      ],
+      "overcount": [
+        {
+          "doc": "N1_easy_70001/dec_page",
+          "lists": {
+            "locations": {
+              "gt_count": 0,
+              "ext_count": 1,
+              "excess": 1
+            },
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N1_easy_70001/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 4,
+              "excess": 4
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N3_hard_70003/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 14,
+              "excess": 14
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/dec_page",
+          "lists": {
+            "locations": {
+              "gt_count": 0,
+              "ext_count": 1,
+              "excess": 1
+            },
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 17,
+              "excess": 17
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N5_nightmare_70005/dec_page",
+          "lists": {
+            "locations": {
+              "gt_count": 0,
+              "ext_count": 1,
+              "excess": 1
+            },
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 22,
+              "excess": 22
+            }
+          }
+        }
+      ]
+    }
+  },
+  "gemini_pro": {
+    "model": "gemini_pro",
+    "arithmetic_errors_by_kind": {
+      "incurred_sum_mismatch": 1,
+      "tiv_sum_mismatch": 1
+    },
+    "arith_error_docs_by_difficulty": {
+      "N5": 2
+    },
+    "arith_error_docs_by_category": {
+      "loss_run": 1,
+      "sov_excel": 1
+    },
+    "overcount_excess_by_difficulty": {
+      "N1": 5,
+      "N2": 6,
+      "N3": 5,
+      "N4": 7,
+      "N5": 7
+    },
+    "overcount_excess_by_category": {
+      "dec_page": 22,
+      "engineering_report": 8
+    },
+    "overcount_docs_by_difficulty": {
+      "N1": 2,
+      "N2": 2,
+      "N3": 1,
+      "N4": 2,
+      "N5": 1
+    },
+    "overcount_docs_by_category": {
+      "dec_page": 5,
+      "engineering_report": 3
+    },
+    "docs_by_difficulty": {
+      "N1": 25,
+      "N2": 25,
+      "N3": 30,
+      "N4": 36,
+      "N5": 32
+    },
+    "docs_by_category": {
+      "acord_101": 5,
+      "acord_125": 5,
+      "acord_140": 5,
+      "acord_160": 5,
+      "acord_24": 5,
+      "acord_25": 5,
+      "acord_27": 5,
+      "acord_28": 5,
+      "acord_35": 5,
+      "acord_45": 5,
+      "acord_75": 5,
+      "broker_narrative": 5,
+      "dec_page": 5,
+      "engineering_report": 4,
+      "financial_statement": 5,
+      "financial_statement_excel": 5,
+      "hybrid_workbook": 5,
+      "loss_run": 5,
+      "loss_run_csv": 5,
+      "loss_run_excel": 5,
+      "policy_form": 5,
+      "sov": 5,
+      "sov_excel": 5,
+      "supplemental_app": 5,
+      "supplemental_schedule_excel": 5,
+      "acord_126": 3,
+      "acord_130": 2,
+      "acord_133": 2,
+      "experience_mod": 2,
+      "experience_mod_excel": 2,
+      "acord_127": 2,
+      "acord_137": 2,
+      "acord_23": 2,
+      "acord_823": 1,
+      "driver_schedule": 2,
+      "driver_schedule_excel": 2,
+      "acord_131": 1,
+      "supplemental_app_trucking": 1
+    },
+    "examples": {
+      "arithmetic_errors": [
+        {
+          "doc": "N5_nightmare_70005/loss_run",
+          "kind": "incurred_sum_mismatch",
+          "reported": 1537361.23,
+          "computed": 1412149.4000000006
+        },
+        {
+          "doc": "N5_nightmare_70005/sov_excel",
+          "kind": "tiv_sum_mismatch",
+          "reported": 142384000.0,
+          "computed": 158803817.0
+        }
+      ],
+      "overcount": [
+        {
+          "doc": "N1_easy_70001/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N1_easy_70001/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 2,
+              "excess": 2
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N2_normal_70002/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N3_hard_70003/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 5,
+              "excess": 5
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/dec_page",
+          "lists": {
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 4,
+              "excess": 4
+            }
+          }
+        },
+        {
+          "doc": "N4_expert_70004/engineering_report",
+          "lists": {
+            "recommendations": {
+              "gt_count": 0,
+              "ext_count": 3,
+              "excess": 3
+            }
+          }
+        },
+        {
+          "doc": "N5_nightmare_70005/dec_page",
+          "lists": {
+            "locations": {
+              "gt_count": 0,
+              "ext_count": 1,
+              "excess": 1
+            },
+            "coverages": {
+              "gt_count": 0,
+              "ext_count": 6,
+              "excess": 6
+            }
+          }
+        }
+      ]
+    }
+  }
+}

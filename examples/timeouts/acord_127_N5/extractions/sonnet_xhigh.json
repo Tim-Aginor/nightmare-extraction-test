@@ -1,0 +1,5 @@
+{
+  "error": "Request timed out or interrupted. This could be due to a network timeout, dropped connection, or request cancellation. See https://docs.anthropic.com/en/api/errors#long-requests for more details.",
+  "packet_id": "N5_nightmare_70005",
+  "doc_type": "acord_127"
+}

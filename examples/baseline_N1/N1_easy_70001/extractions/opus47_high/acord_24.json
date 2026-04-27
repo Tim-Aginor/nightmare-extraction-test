@@ -1,0 +1,78 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": "AG-7703921",
+    "carrier_name": "Apex Managing General Agency Insurance Company",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01"
+  },
+  "applicant_info": {
+    "entity_type": "Partnership",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Office"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 222340000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property",
+      "limit": 33432000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 59212000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_basic": "unchecked",
+    "causes_of_loss_broad": "unchecked",
+    "causes_of_loss_special": "checked",
+    "earthquake": "unchecked",
+    "wind": "unchecked",
+    "flood": "unchecked",
+    "inland_marine": "unchecked",
+    "crime": "unchecked",
+    "boiler_machinery_equipment_breakdown": "unchecked"
+  },
+  "additional_fields": {
+    "certificate_date": "2026-03-16",
+    "certificate_number": "CERT-264850",
+    "revision_number": "1",
+    "naic_number": "22682",
+    "producer_address": "1700 Pacific Avenue, Suite 3200, Dallas, TX 75201",
+    "contact_name": "Sandra Villareal",
+    "contact_phone": "(214) 555-0918",
+    "contact_fax": "(214) 273-7259",
+    "contact_email": "svillareal@txcip.com",
+    "location_of_premises": "8117 Preston Road, Dallas, TX 75225",
+    "property_description": "Fire Resistive, Office",
+    "building_deductible": 50000,
+    "contents_deductible": 50000,
+    "certificate_holder_name": "Summit Properties LLC",
+    "certificate_holder_address": "1919 Adams Street, Olathe, KS 66061",
+    "authorized_representative": "Richard Thornton"
+  },
+  "remarks": null
+}

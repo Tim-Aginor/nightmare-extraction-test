@@ -1,0 +1,83 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Sandra Villareal",
+    "recipient": "Apex Managing General Agency"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 24,
+    "annual_revenue": 67000000,
+    "employee_count": 173
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "Policy Number CP-LSPH-2025-7801, effective 07/01/2025. Prior carriers include Zurich Insurance Group (2023, $423,914.72) and American International Group (2022, $447,842.42)."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations are fully sprinklered per NFPA 13 or 13R",
+      "Fire alarms are hard-wired with central station monitoring",
+      "24-hour doorperson or security on premises",
+      "Written contracts with indemnification required from all contractors",
+      "No short-term rentals (less than 1 year) permitted",
+      "High occupancy rate at 95%",
+      "No OSHA citations in the past 3 years",
+      "No policy cancellations in prior 3 years",
+      "Recent electrical system update in 2023",
+      "24 years in business with 18 years under current management",
+      "EV charging stations installed on premises",
+      "No claims in 2023"
+    ],
+    "concerns": [
+      "No formal safety program in place",
+      "Plumbing last updated in 2015 \u2014 over 10 years ago",
+      "HVAC last updated in 2018",
+      "EV charging stations present \u2014 elevated fire/electrical risk",
+      "Swimming pools, exercise rooms, or other amenities present \u2014 potential liability exposure",
+      "LOC-006 (1400 Enclave Parkway, Houston) built in 1995 \u2014 oldest building in portfolio",
+      "Claims filed in 2022 and 2024 (1 claim each year)",
+      "Operations span multiple metropolitan areas (DFW and Houston) across TX"
+    ],
+    "loss_history_summary": "2 claims over 3 years: 1 claim in 2024 (CNA Financial, premium $414,601.77), 0 claims in 2023 (Zurich Insurance Group, premium $423,914.72), 1 claim in 2022 (American International Group, premium $447,842.42). No cancellations in any year."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. 24 years in business, 18 years with current management. 145 full-time and 28 part-time employees. Annual revenue of $67,000,000. Hours of operation: Mon-Sat 7:00 AM - 7:00 PM.",
+    "safety_programs": "No formal safety program. Written contracts with all subcontractors: Yes. Written contracts with indemnification required from all contractors: Yes. No OSHA citations in the past 3 years. Fire alarms hard-wired with central station monitoring. All buildings fully sprinklered per NFPA 13 or 13R. 24-hour doorperson or security on premises.",
+    "claims_narrative": "2024: 1 claim with CNA Financial (premium $414,601.77, no cancellation). 2023: 0 claims with Zurich Insurance Group (premium $423,914.72, no cancellation). 2022: 1 claim with American International Group (premium $447,842.42, no cancellation)."
+  }
+}

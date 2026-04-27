@@ -1,0 +1,266 @@
+# Model configurations for Nightmare Extraction Test
+#
+# Five models selected for blog comparison (April 2026):
+# - GPT-5.4: OpenAI flagship (released March 2026)
+# - GPT-5.5: OpenAI flagship update (released April 23, 2026)
+# - Claude Opus 4.7: Anthropic flagship (released April 2026)
+# - Claude Sonnet 4.6: Anthropic best value
+# - Gemini 3.1 Pro: Google flagship (released Feb 2026)
+
+pricing:
+  # Per-million-token pricing (input / output) - April 2026
+  # Baseline rates (≤context-tier); some models have surcharges past a threshold.
+  gpt-5.4:             { input:  2.50, output: 15.00 }  # doubles past 272K input
+  gpt-5.4-mini:        { input:  0.75, output:  4.50 }
+  gpt-5.4-nano:        { input:  0.20, output:  1.25 }
+  gpt-5.5:             { input:  5.00, output: 30.00 }
+  claude-opus-4-7:     { input:  5.00, output: 25.00 }
+  claude-sonnet-4-6:   { input:  3.00, output: 15.00 }
+  claude-haiku-4-5:    { input:  1.00, output:  5.00 }
+  gemini-3.1-pro:      { input:  2.00, output: 12.00 }  # ≤200K; $4/$18 above
+  gemini-3-flash:      { input:  0.50, output:  3.00 }
+
+models:
+  # --- Primary benchmark models (4 for blog) ---
+
+  - name: gpt54
+    provider: openai
+    model: gpt-5.4
+    pricing_key: gpt-5.4
+    description: "OpenAI flagship (March 2026) - best reasoning + computer use"
+    blog_order: 1
+
+  - name: sonnet
+    provider: anthropic
+    model: claude-sonnet-4-6
+    pricing_key: claude-sonnet-4-6
+    description: "Claude Sonnet 4.6 via Anthropic API (base64 PDF)"
+    blog_order: 3
+
+  - name: gemini_pro
+    provider: google
+    model: gemini-3.1-pro-preview
+    pricing_key: gemini-3.1-pro
+    description: "Google flagship (Feb 2026) - 1M context, computer use"
+    blog_order: 4
+
+  - name: opus47
+    provider: anthropic
+    model: claude-opus-4-7
+    pricing_key: claude-opus-4-7
+    description: "Claude Opus 4.7 via Anthropic API - flagship (April 2026)"
+    blog_order: 5
+
+  # --- Optional extended models (for deeper analysis) ---
+
+  - name: gpt54_mini
+    provider: openai
+    model: gpt-5.4-mini
+    pricing_key: gpt-5.4-mini
+    description: "OpenAI budget - shows cost of going cheap"
+    extended: true
+
+  - name: gemini_flash
+    provider: google
+    model: gemini-3-flash-preview
+    pricing_key: gemini-3-flash
+    description: "Google balanced speed/capability"
+    extended: true
+
+  - name: gpt54_nano
+    provider: openai
+    model: gpt-5.4-nano
+    pricing_key: gpt-5.4-nano
+    description: "OpenAI cheapest - floor for quality"
+    extended: true
+
+  - name: haiku
+    provider: claude-code
+    model: haiku
+    pricing_key: claude-haiku-4-5
+    description: "Claude Haiku 4.5 via Claude Code CLI (free on Max)"
+    extended: true
+
+  # --- Reasoning-enabled variants (v2 rerun - see PLAN_V2_REASONING.md) ---
+  # Verified against live APIs 2026-04-21. Mapping:
+  #   HIGH  = GPT reasoning_effort=high  / Claude effort=high  / Gemini thinking_budget=16000
+  #   XHIGH = GPT reasoning_effort=xhigh / Claude effort=xhigh / Gemini thinking_budget=32000
+  # OpenAI + Anthropic now share the same "effort" vocabulary (low/medium/high/xhigh/max).
+  # Gemini still uses a numeric token budget - 16k/32k chosen to roughly match.
+  # Excluded from `--model all` / `--model blog`; run via `--model reasoning` or by name.
+
+  - name: gpt54_low
+    provider: openai
+    model: gpt-5.4
+    pricing_key: gpt-5.4
+    description: "GPT-5.4 with reasoning_effort=low"
+    reasoning: { effort: low }
+    reasoning_level: LOW
+    gpt_sweep: true
+    extended: true
+
+  - name: gpt54_medium
+    provider: openai
+    model: gpt-5.4
+    pricing_key: gpt-5.4
+    description: "GPT-5.4 with reasoning_effort=medium"
+    reasoning: { effort: medium }
+    reasoning_level: MEDIUM
+    gpt_sweep: true
+    extended: true
+
+  - name: gpt54_high
+    provider: openai
+    model: gpt-5.4
+    pricing_key: gpt-5.4
+    description: "GPT-5.4 with reasoning_effort=high"
+    reasoning: { effort: high }
+    reasoning_level: HIGH
+    gpt_sweep: true
+    extended: true
+
+  - name: gpt54_xhigh
+    provider: openai
+    model: gpt-5.4
+    pricing_key: gpt-5.4
+    description: "GPT-5.4 with reasoning_effort=xhigh"
+    reasoning: { effort: xhigh }
+    reasoning_level: XHIGH
+    gpt_sweep: true
+    extended: true
+
+  - name: gpt55
+    provider: openai
+    model: gpt-5.5
+    pricing_key: gpt-5.5
+    description: "OpenAI GPT-5.5 default (released April 23, 2026)"
+    blog_order: 2
+
+  - name: gpt55_high
+    provider: openai
+    model: gpt-5.5
+    pricing_key: gpt-5.5
+    description: "GPT-5.5 with reasoning_effort=high"
+    reasoning: { effort: high }
+    reasoning_level: HIGH
+    gpt55_sweep: true
+    extended: true
+
+  - name: gpt55_xhigh
+    provider: openai
+    model: gpt-5.5
+    pricing_key: gpt-5.5
+    description: "GPT-5.5 with reasoning_effort=xhigh"
+    reasoning: { effort: xhigh }
+    reasoning_level: XHIGH
+    gpt55_sweep: true
+    extended: true
+
+  - name: opus47_high
+    provider: anthropic
+    model: claude-opus-4-7
+    pricing_key: claude-opus-4-7
+    description: "Opus 4.7 with adaptive thinking, effort=high"
+    reasoning: { effort: high }
+    reasoning_level: HIGH
+    extended: true
+
+  - name: opus47_xhigh
+    provider: anthropic
+    model: claude-opus-4-7
+    pricing_key: claude-opus-4-7
+    description: "Opus 4.7 with adaptive thinking, effort=xhigh"
+    reasoning: { effort: xhigh }
+    reasoning_level: XHIGH
+    extended: true
+
+  - name: sonnet_high
+    provider: anthropic
+    model: claude-sonnet-4-6
+    pricing_key: claude-sonnet-4-6
+    description: "Sonnet 4.6 with adaptive thinking, effort=high"
+    reasoning: { effort: high }
+    reasoning_level: HIGH
+    extended: true
+
+  - name: sonnet_xhigh
+    provider: anthropic
+    model: claude-sonnet-4-6
+    pricing_key: claude-sonnet-4-6
+    description: "Sonnet 4.6 with adaptive thinking, effort=max (Sonnet ceiling; xhigh is Opus-only)"
+    reasoning: { effort: max }
+    reasoning_level: XHIGH
+    extended: true
+
+  - name: gemini_pro_high
+    provider: google
+    model: gemini-3.1-pro-preview
+    pricing_key: gemini-3.1-pro
+    description: "Gemini 3.1 Pro with thinking_level=HIGH (matches other providers' 'high')"
+    reasoning: { thinking_level: HIGH }
+    reasoning_level: HIGH
+    extended: true
+
+  - name: gemini_pro_xhigh
+    provider: google
+    model: gemini-3.1-pro-preview
+    pricing_key: gemini-3.1-pro
+    description: "Gemini 3.1 Pro with thinking_budget=32000 (Gemini has no native XHIGH level)"
+    reasoning: { thinking_budget: 32000 }
+    reasoning_level: XHIGH
+    extended: true
+
+prompts:
+  sov: prompts/sov_extraction.md
+  loss_run: prompts/loss_run_extraction.md
+  acord_form: prompts/acord_form_extraction.md
+  engineering_report: prompts/engineering_report_extraction.md
+  dec_page: prompts/dec_page_extraction.md
+  driver_schedule: prompts/driver_schedule_extraction.md
+  financial_statement: prompts/financial_statement_extraction.md
+  narrative: prompts/narrative_extraction.md
+
+# Document categories for extraction
+doc_categories:
+  sov:
+    - sov
+    - sov_excel
+  loss_run:
+    - loss_run
+    - loss_run_excel
+    - loss_run_csv
+  acord_form:
+    - acord_101
+    - acord_125
+    - acord_126
+    - acord_127
+    - acord_131
+    - acord_133
+    - acord_137
+    - acord_140
+    - acord_160
+    - acord_23
+    - acord_24
+    - acord_25
+    - acord_27
+    - acord_28
+    - acord_35
+    - acord_45
+    - acord_75
+  engineering_report:
+    - engineering_report
+  dec_page:
+    - dec_page
+  driver_schedule:
+    - driver_schedule
+    - driver_schedule_excel
+  financial_statement:
+    - financial_statement
+    - financial_statement_excel
+  narrative:
+    - broker_narrative
+    - supplemental_app
+    - supplemental_app_trucking
+    - policy_form
+    - hybrid_workbook
+    - supplemental_schedule_excel

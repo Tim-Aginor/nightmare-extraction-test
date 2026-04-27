@@ -1,0 +1,118 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-07-01",
+    "prepared_by": "Apex Managing General Agency",
+    "recipient": "Lone Star Property Holdings, LP"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property \u2014 Building",
+      "current_limit": 222340000,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Form CP 00 10 10 12; total policy premium $403,697.14; valuation at Actual Cash Value unless Replacement Cost optional coverage elected; subject to 90% coinsurance and $50,000 deductible"
+    },
+    {
+      "coverage_type": "Commercial Property \u2014 Contents",
+      "current_limit": 33432000,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Subject to 90% coinsurance and $50,000 deductible; stock valued at selling price minus applicable discounts and charges"
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 59212000,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Subject to 90% coinsurance"
+    },
+    {
+      "coverage_type": "Ordinance or Law Coverage \u2014 CP 04 05 (10 12)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Endorsement effective 03/15/2026; Coverage A pays for loss in value of undamaged portion of building when a Covered Cause of Loss triggers enforcement of ordinance or law requiring demolition in whole or in part"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage \u2014 CP 04 09 (10 12)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Endorsement effective 03/15/2026; covers direct physical loss to Covered Property caused by Equipment Breakdown accident to mechanical, electrical, or pressure equipment objects listed in Schedule"
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Direct Damage \u2014 CP 04 17 (10 12)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Endorsement effective 03/15/2026; covers direct physical loss to Covered Property caused by interruption of water supply, communication supply, and power supply services to described premises"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Coinsurance set at 90%, satisfying the threshold that activates all Coverage Extensions (Newly Acquired or Constructed Property up to $250,000/building, Personal Effects and Property of Others up to $2,500/premises, Valuable Papers and Records up to $2,500/premises, Property Off-Premises up to $10,000, Outdoor Property up to $1,000/occurrence, Non-Owned Detached Trailers up to $5,000)",
+      "Broad endorsement package adds Ordinance or Law, Equipment Breakdown, and Utility Services Direct Damage coverages effective mid-policy (03/15/2026)",
+      "Multiple Additional Coverages included: Debris Removal (25% of loss plus deductible, with $25,000 supplemental), Preservation of Property (30-day window), Fire Department Service Charge ($1,000, no deductible), Pollutant Clean Up and Removal ($10,000/premises/12-month period), Increased Cost of Construction ($10,000), and Electronic Data ($2,500/year minimum)",
+      "Payments under Fire Department Service Charge, Pollutant Clean Up and Removal, Increased Cost of Construction, and Electronic Data Additional Coverages are in addition to applicable Limits of Insurance",
+      "Mortgageholder protections included; insurer must provide 10-day notice of cancellation for nonpayment and 30-day notice for all other reasons",
+      "Appraisal mechanism available for dispute resolution on value or loss amount"
+    ],
+    "concerns": [
+      "Default valuation is Actual Cash Value (with depreciation deduction); Replacement Cost coverage is an Optional Coverage that must be shown in Declarations and requires property to be actually repaired or replaced before payment on that basis",
+      "Vacancy provision: if building vacant more than 60 consecutive days prior to loss, coverage is excluded entirely for vandalism, sprinkler leakage, building glass breakage, water damage, theft, and attempted theft; all other covered causes of loss subject to a 15% reduction in otherwise payable loss",
+      "Coinsurance penalty applies at each loss occurrence if property is underinsured relative to required percentage of total value at time of loss",
+      "Increased Cost of Construction Additional Coverage capped at $10,000 or actual loss, whichever is less \u2014 potentially inadequate for large commercial structures",
+      "Electronic Data Additional Coverage limited to $2,500 per policy year unless a higher limit is shown in Declarations",
+      "Outdoor signs attached to buildings subject to sublimit of $2,500 per sign per occurrence",
+      "Numerous property categories explicitly excluded from Covered Property (currency, accounts, land, foundations below grade, personal property while airborne or waterborne, etc.)",
+      "No loss history, safety program information, or financial data present in document",
+      "Three endorsements share a single mid-term effective date (03/15/2026), indicating coverage gaps during the initial 8.5 months of the policy period for those coverages"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 255772000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": "2026-07-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. SIC Code 6512. Producer: Texas Commercial Insurance Partners.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

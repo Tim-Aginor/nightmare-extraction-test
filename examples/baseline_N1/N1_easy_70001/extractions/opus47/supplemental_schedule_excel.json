@@ -1,0 +1,98 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": null,
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "2024 policy CP-5690-6189; 1 claim; no cancellation"
+    },
+    {
+      "coverage_type": null,
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 423914.72,
+      "notes": "2023 policy 7CP0006249; 0 claims; no cancellation"
+    },
+    {
+      "coverage_type": null,
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "American International Group",
+      "expiring_premium": 447842.42,
+      "notes": "2022 policy CP006315-001; 1 claim; no cancellation"
+    },
+    {
+      "coverage_type": null,
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Auto-Owners Insurance",
+      "expiring_premium": 470199.5,
+      "notes": "2021 policy 0000006024; 0 claims; no cancellation"
+    },
+    {
+      "coverage_type": null,
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Berkshire Hathaway Guard",
+      "expiring_premium": 467047.27,
+      "notes": "2020 policy 7CP0004214; 1 claim; no cancellation"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations in prior 5 years",
+      "Continuous coverage from 2020 through 2024",
+      "Low claim frequency (3 claims over 5 years)"
+    ],
+    "concerns": [
+      "Carrier changed each year over the 5-year period, indicating market instability or shopping",
+      "Premium has trended downward from 467047.27 (2020) to 414601.77 (2024) despite claim activity"
+    ],
+    "loss_history_summary": "3 claims reported over 5-year period (2020-2024): 1 claim in 2024, 0 in 2023, 1 in 2022, 0 in 2021, 1 in 2020. Loss ratio not provided."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Prior insurance history shows 3 claims across 5 policy years (2020-2024) with no cancellations. Carriers: CNA Financial (2024), Zurich Insurance Group (2023), American International Group (2022), Auto-Owners Insurance (2021), Berkshire Hathaway Guard (2020)."
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "form_info": {
+    "form_number": "ACORD 140",
+    "form_edition": "2016/03",
+    "form_title": "PROPERTY SECTION"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": null,
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01"
+  },
+  "applicant_info": {
+    "entity_type": "Limited Partnership",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 222340000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property",
+      "limit": 33432000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense",
+      "limit": 59212000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "document_date": "2026-03-14",
+    "agency_customer_id": "ACT-302919",
+    "contact_name": "Sandra Villareal",
+    "carrier_naic_code": "68074",
+    "valuation": "Replacement Cost",
+    "policy_deductible": 50000,
+    "schedule_of_locations": [
+      {
+        "building_number": 1,
+        "premises_number": "LOC-001",
+        "location_address": "8117 Preston Road",
+        "location_city": "Dallas",
+        "location_state": "TX",
+        "location_zip": "75225",
+        "location_description": "Preston Center Tower",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Shingle",
+        "protection_class": 4,
+        "year_built": 2008,
+        "number_of_stories": 18,
+        "total_area_sq_ft": 285000,
+        "occupancy": "Office",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2018,
+          "plumbing_year_updated": 2020,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2026
+        },
+        "fire_protection": {
+          "distance_to_fire_station_miles": 4,
+          "distance_to_hydrant_ft": 1227,
+          "fire_district": "District 6",
+          "sprinkler_system": "Wet Pipe",
+          "sprinkler_coverage_percent": 85,
+          "protection_class": 4
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Central Station Monitored"
+        },
+        "covered_values": {
+          "building": 62700000,
+          "contents_business_personal_property": 8550000,
+          "business_income_with_extra_expense": 15200000,
+          "total_insured_value": 86450000
+        }
+      },
+      {
+        "building_number": 2,
+        "premises_number": "LOC-002",
+        "location_address": "5050 Westheimer Road",
+        "location_city": "Houston",
+        "location_state": "TX",
+        "location_zip": "77056",
+        "location_description": "Galleria Office Park - Building A",
+        "construction_type": "Fire Resistive",
+        "roof_type": "TPO",
+        "protection_class": 2,
+        "year_built": 2001,
+        "number_of_stories": 12,
+        "total_area_sq_ft": 168000,
+        "occupancy": "Office",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2016,
+          "plumbing_year_updated": 2021,
+          "roofing_year_updated": 2016,
+          "wiring_year_updated": 2012
+        },
+        "fire_protection": {
+          "distance_to_fire_station_miles": 1,
+          "distance_to_hydrant_ft": 2487,
+          "fire_district": "District 1",
+          "sprinkler_system": "Deluge",
+          "sprinkler_coverage_percent": 90,
+          "protection_class": 2
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "No",
+          "fire_alarm_type": "None"
+        },
+        "covered_values": {
+          "building": 33600000,
+          "contents_business_personal_property": 5040000,
+          "business_income_with_extra_expense": 8400000,
+          "total_insured_value": 47040000
+        }
+      },
+      {
+        "building_number": 3,
+        "premises_number": "LOC-003",
+        "location_address": "5060 Westheimer Road",
+        "location_city": "Houston",
+        "location_state": "TX",
+        "location_zip": "77056",
+        "location_description": "Galleria Office Park - Building B",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Single-Ply Membrane",
+        "protection_class": 1,
+        "year_built": 2003,
+        "number_of_stories": 10,
+        "total_area_sq_ft": 142000,
+        "occupancy": "Office",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2024,
+          "plumbing_year_updated": 2011,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2024
+        },
+        "fire_protection": {
+          "distance_to_fire_station_miles": 5,
+          "distance_to_hydrant_ft": 716,
+          "fire_district": "District 11",
+          "sprinkler_system": "Dry Pipe",
+          "sprinkler_coverage_percent": 85,
+          "protection_class": 1
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "No",
+          "fire_alarm_type": "None"
+        },
+        "covered_values": {
+          "building": 28400000,
+          "contents_business_personal_property": 4260000,
+          "business_income_with_extra_expense": 7100000,
+          "total_insured_value": 39760000
+        }
+      },
+      {
+        "building_number": 4,
+        "premises_number": "LOC-004",
+        "location_address": "7301 Lone Star Drive",
+        "location_city": "Plano",
+        "location_state": "TX",
+        "location_zip": "75024",
+        "location_description": "Legacy Town Center Retail",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": 2,
+        "year_built": 2012,
+        "number_of_stories": 2,
+        "total_area_sq_ft": 95000,
+        "occupancy": "Mercantile",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2026,
+          "plumbing_year_updated": 2026,
+          "roofing_year_updated": 2025,
+          "wiring_year_updated": 2026
+        },
+        "fire_protection": {
+          "distance_to_fire_station_miles": 8,
+          "distance_to_hydrant_ft": 1738,
+          "fire_district": "District 18",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_percent": 90,
+          "protection_class": 2
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Central Station Monitored"
+        },
+        "covered_values": {
+          "building": 19000000,
+          "contents_business_personal_property": 2850000,
+          "business_income_with_extra_expense": 5700000,
+          "total_insured_value": 27550000
+        }
+      },
+      {
+        "building_number": 5,
+        "premises_number": "LOC-005",
+        "location_address": "3200 McKinney Avenue",
+        "location_city": "Dallas",
+        "location_state": "TX",
+        "location_zip": "75204",
+        "location_description": "Uptown Mixed-Use Development",
+        "construction_type": "Fire Resistive",
+        "roof_type": "TPO",
+        "protection_class": 5,
+        "year_built": 2018,
+        "number_of_stories": 6,
+        "total_area_sq_ft": 124000,
+        "occupancy": "Mercantile",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2026,
+          "plumbing_year_updated": 2026,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2025
+        },
+        "fire_protection": {
+          "distance_to_fire_station_miles": 6,
+          "distance_to_hydrant_ft": 828,
+          "fire_district": "District 13",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_percent": 90,
+          "protection_class": 5
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Central Station Monitored"
+        },
+        "covered_values": {
+          "building": 31000000,
+          "contents_business_personal_property": 4650000,
+          "business_income_with_extra_expense": 9300000,
+          "total_insured_value": 44950000
+        }
+      },
+      {
+        "building_number": 6,
+        "premises_number": "LOC-006",
+        "location_address": "1400 Enclave Parkway",
+        "location_city": "Houston",
+        "location_state": "TX",
+        "location_zip": "77077",
+        "location_description": "Energy Corridor Business Center",
+        "construction_type": "Non-Combustible",
+        "roof_type": "EPDM",
+        "protection_class": 4,
+        "year_built": 1995,
+        "number_of_stories": 8,
+        "total_area_sq_ft": 112000,
+        "occupancy": "Office",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2014,
+          "plumbing_year_updated": 2014,
+          "roofing_year_updated": 2019,
+          "wiring_year_updated": 2010
+        },
+        "fire_protection": {
+          "distance_to_fire_station_miles": 5,
+          "distance_to_hydrant_ft": 1680,
+          "fire_district": "District 9",
+          "sprinkler_system": "Wet Pipe",
+          "sprinkler_coverage_percent": 100,
+          "protection_class": 4
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Central Station Monitored"
+        },
+        "covered_values": {
+          "building": 19040000,
+          "contents_business_personal_property": 2856000,
+          "business_income_with_extra_expense": 5712000,
+          "total_insured_value": 27608000
+        }
+      },
+      {
+        "building_number": 7,
+        "premises_number": "LOC-007",
+        "location_address": "800 8th Avenue",
+        "location_city": "Fort Worth",
+        "location_state": "TX",
+        "location_zip": "76104",
+        "location_description": "Fort Worth Medical Office Building",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Shingle",
+        "protection_class": 3,
+        "year_built": 2015,
+        "number_of_stories": 5,
+        "total_area_sq_ft": 78000,
+        "occupancy": "Office",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2022,
+          "plumbing_year_updated": 2026,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2026
+        },
+        "fire_protection": {
+          "distance_to_fire_station_miles": 1,
+          "distance_to_hydrant_ft": 2177,
+          "fire_district": "District 6",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_percent": 75,
+          "protection_class": 3
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "No",
+          "fire_alarm_type": "None"
+        },
+        "covered_values": {
+          "building": 17160000,
+          "contents_business_personal_property": 3510000,
+          "business_income_with_extra_expense": 4680000,
+          "total_insured_value": 25350000
+        }
+      },
+      {
+        "building_number": 8,
+        "premises_number": "LOC-008",
+        "location_address": "1256 Main Street",
+        "location_city": "Southlake",
+        "location_state": "TX",
+        "location_zip": "76092",
+        "location_description": "Southlake Town Square - East Wing",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "TPO",
+        "protection_class": 2,
+        "year_built": 2006,
+        "number_of_stories": 3,
+        "total_area_sq_ft": 52000,
+        "occupancy": "Mercantile",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2022,
+          "plumbing_year_updated": 2026,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2026
+        },
+        "fire_protection": {
+          "distance_to_fire_station_miles": 1,
+          "distance_to_hydrant_ft": 559,
+          "fire_district": "District 15",
+          "sprinkler_system": "Wet Pipe",
+          "sprinkler_coverage_percent": 90,
+          "protection_class": 2
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "No",
+          "fire_alarm_type": "None"
+        },
+        "covered_values": {
+          "building": 11440000,
+          "contents_business_personal_property": 1716000,
+          "business_income_with_extra_expense": 3120000,
+          "total_insured_value": 16276000
+        }
+      }
+    ],
+    "blanket_summary": {
+      "blanket_number": "BLK-1878",
+      "blanket_type": "Building & Contents",
+      "number_of_locations": 8,
+      "total_insured_value": 314984000,
+      "value_categories": {
+        "building": 222340000,
+        "contents_business_personal_property": 33432000,
+        "business_income_with_extra_expense": 59212000,
+        "total_insured_value": 314984000
+      }
+    },
+    "interests": [
+      {
+        "type": "ISAOA/ATIMA",
+        "name": "M&T Bank Corporation",
+        "address": "P.O. Box 40172, Philadelphia, PA 19101",
+        "loan_reference_number": "L-878545464"
+      },
+      {
+        "type": "Loss Payee",
+        "name": "Stearns Bank, N.A.",
+        "address": "P.O. Box 92568, El Paso, TX 79901",
+        "loan_reference_number": "L-547393167"
+      }
+    ]
+  },
+  "remarks": null
+}

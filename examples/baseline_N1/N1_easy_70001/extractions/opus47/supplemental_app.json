@@ -1,0 +1,94 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Sandra Villareal",
+    "recipient": "Apex Managing General Agency"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 24,
+    "annual_revenue": 67000000,
+    "employee_count": 173
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property (Prior Year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "2024 policy year; 1 claim; no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property (Prior Year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 423914.72,
+      "notes": "2023 policy year; 0 claims; no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property (Prior Year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "American International Group",
+      "expiring_premium": 447842.42,
+      "notes": "2022 policy year; 1 claim; no cancellations"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations fully sprinklered",
+      "24-hour doorperson/security on premises",
+      "Fire alarms hard-wired with central station monitoring",
+      "Written contracts with indemnification required from all contractors and subcontractors",
+      "No OSHA citations in the past 3 years",
+      "No short-term rentals permitted",
+      "95% occupancy rate",
+      "18 years with current management; 24 years in business",
+      "Recent electrical system update (2023)"
+    ],
+    "concerns": [
+      "No formal safety program in place",
+      "Plumbing systems last updated in 2015 (aging)",
+      "One location (LOC-006) built in 1995 \u2014 older construction",
+      "EV charging stations on premises (emerging fire risk exposure)",
+      "Amenities including swimming pools/exercise rooms increase liability exposure",
+      "Two claims in the last three policy years (2024 and 2022)"
+    ],
+    "loss_history_summary": "Two claims over the past three years: 1 claim in 2024 (CNA), 0 claims in 2023 (Zurich), 1 claim in 2022 (AIG). No cancellations during the period."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. Hours of operation Mon-Sat 7:00 AM - 7:00 PM. 145 full-time and 28 part-time employees.",
+    "safety_programs": "No formal safety program. Written contracts with indemnification required from all contractors and subcontractors. 24-hour doorperson/security on premises. All buildings fully sprinklered per NFPA 13 or 13R. Fire alarms hard-wired with central station monitoring. Plumbing last updated 2015, HVAC 2018, Electrical 2023.",
+    "claims_narrative": "Prior insurance history: 2024 CNA Financial - $414,601.77 premium, 1 claim; 2023 Zurich Insurance Group - $423,914.72 premium, 0 claims; 2022 American International Group - $447,842.42 premium, 1 claim. No cancellations across the three-year period."
+  }
+}

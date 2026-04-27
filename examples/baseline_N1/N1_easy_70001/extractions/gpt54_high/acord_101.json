@@ -1,0 +1,74 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2016/03",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": null,
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Limited Partnership",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas."
+  },
+  "coverages_requested": [],
+  "checkboxes": {},
+  "additional_fields": {
+    "agency_customer_id": "AC-818728",
+    "carrier_naic_code": "68074",
+    "form_date": "2026-03-15",
+    "attached_to_form_number": "ACORD 140",
+    "attached_form_title": "Property Section",
+    "additional_insured": "Summit Properties LLC is included as Additional Insured per written contract, agreement, or permit as respects General Liability.",
+    "special_conditions": "30 days advance written notice of cancellation will be provided to the certificate holder. Waiver of Subrogation applies in favor of the certificate holder as required by written contract.",
+    "location_descriptions": [
+      {
+        "location_id": "LOC-001",
+        "description": "Preston Center Tower",
+        "address": "8117 Preston Road, Dallas, TX 75225",
+        "occupancy": "Office"
+      },
+      {
+        "location_id": "LOC-002",
+        "description": "Galleria Office Park - Building A",
+        "address": "5050 Westheimer Road, Houston, TX 77056",
+        "occupancy": "Office"
+      },
+      {
+        "location_id": "LOC-003",
+        "description": "Galleria Office Park - Building B",
+        "address": "5060 Westheimer Road, Houston, TX 77056",
+        "occupancy": "Office"
+      },
+      {
+        "location_id": "LOC-004",
+        "description": "Legacy Town Center Retail",
+        "address": "7301 Lone Star Drive, Plano, TX 75024",
+        "occupancy": "Mercantile"
+      }
+    ],
+    "endorsement_schedule": [
+      "CG 21 39 10 93 \u2014 Contractual Liability Limitation",
+      "CG 20 37 04 13 \u2014 Additional Insured - Owners, Lessees or Contractors - Completed Operations",
+      "WC 00 01 00 \u2014 Workers Compensation and Employers Liability Insurance Policy",
+      "CP 12 18 06 07 \u2014 Loss Payable Provisions",
+      "IM 99 01 09 09 \u2014 Inland Marine Equipment Floater",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions"
+    ]
+  },
+  "remarks": "ENDORSEMENT SCHEDULE:\n1. CG 21 39 10 93 \u2014 Contractual Liability Limitation\n2. CG 20 37 04 13 \u2014 Additional Insured - Owners, Lessees or Contractors - Completed Operations\n3. WC 00 01 00 \u2014 Workers Compensation and Employers Liability Insurance Policy\n4. CP 12 18 06 07 \u2014 Loss Payable Provisions\n5. IM 99 01 09 09 \u2014 Inland Marine Equipment Floater\n6. IL 00 17 11 98 \u2014 Common Policy Conditions\n\nADDITIONAL INSURED:\nSummit Properties LLC is included as Additional Insured per written contract, agreement, or permit as respects General Liability.\n\nSPECIAL CONDITIONS:\n- 30 days advance written notice of cancellation will be provided to the certificate holder.\n- Waiver of Subrogation applies in favor of the certificate holder as required by written contract.\n\nLOCATION DESCRIPTIONS:\nLOC-001: Preston Center Tower \u2014 8117 Preston Road, Dallas, TX 75225 (Occupancy: Office)\nLOC-002: Galleria Office Park - Building A \u2014 5050 Westheimer Road, Houston, TX 77056 (Occupancy: Office)\nLOC-003: Galleria Office Park - Building B \u2014 5060 Westheimer Road, Houston, TX 77056 (Occupancy: Office)\nLOC-004: Legacy Town Center Retail \u2014 7301 Lone Star Drive, Plano, TX 75024 (Occupancy: Mercantile)\n\nNATURE OF OPERATIONS:\nThe insured's principal operations consist of: Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. Entity type: Limited Partnership."
+}

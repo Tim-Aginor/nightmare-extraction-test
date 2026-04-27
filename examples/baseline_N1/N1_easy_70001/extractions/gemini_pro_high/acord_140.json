@@ -1,0 +1,92 @@
+{
+  "form_info": {
+    "form_number": "ACORD 140",
+    "form_edition": "2016/03",
+    "form_title": "PROPERTY SECTION"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": null,
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01"
+  },
+  "applicant_info": {
+    "entity_type": "Partnership",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 222340000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property",
+      "limit": 33432000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense",
+      "limit": 59212000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "loc1_sprinklered": "Yes",
+    "loc1_burglar_alarm": "Yes",
+    "loc1_fire_alarm": "Yes",
+    "loc2_sprinklered": "Yes",
+    "loc2_burglar_alarm": "No",
+    "loc2_fire_alarm": "No",
+    "loc3_sprinklered": "Yes",
+    "loc3_burglar_alarm": "Yes",
+    "loc3_fire_alarm": "No",
+    "loc4_sprinklered": "Yes",
+    "loc4_burglar_alarm": "No",
+    "loc4_fire_alarm": "Yes",
+    "loc5_sprinklered": "Yes",
+    "loc5_burglar_alarm": "No",
+    "loc5_fire_alarm": "Yes",
+    "loc6_sprinklered": "Yes",
+    "loc6_burglar_alarm": "No",
+    "loc6_fire_alarm": "Yes",
+    "loc7_sprinklered": "Yes",
+    "loc7_burglar_alarm": "Yes",
+    "loc7_fire_alarm": "No",
+    "loc8_sprinklered": "Yes",
+    "loc8_burglar_alarm": "Yes",
+    "loc8_fire_alarm": "No"
+  },
+  "additional_fields": {
+    "agency_customer_id": "ACT-302919",
+    "naic_code": "68074",
+    "valuation": "Replacement Cost",
+    "total_locations": "8",
+    "blanket_number": "BLK-1878",
+    "blanket_type": "Building & Contents",
+    "total_insured_value": "314984000",
+    "interest_1_type": "ISAOA/ATIMA",
+    "interest_1_name": "M&T Bank Corporation",
+    "interest_1_address": "P.O. Box 40172, Philadelphia, PA 19101",
+    "interest_1_loan_number": "L-878545464",
+    "interest_2_type": "Loss Payee",
+    "interest_2_name": "Stearns Bank, N.A.",
+    "interest_2_address": "P.O. Box 92568, El Paso, TX 79901",
+    "interest_2_loan_number": "L-547393167"
+  },
+  "remarks": null
+}

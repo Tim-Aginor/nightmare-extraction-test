@@ -1,0 +1,64 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Not Specified",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "Prior policy CP-5690-6189 (2024). 1 claim reported. No cancellation."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No policy cancellations in the past 5 years",
+      "Zero claims reported in 2021 and 2023"
+    ],
+    "concerns": [
+      "Claims reported in 2024, 2022, and 2020 (1 claim each year)"
+    ],
+    "loss_history_summary": "5-year premium and claim history provided. 3 total claims across 5 years (2020-2024). Premium has gradually decreased from 470,199.50 in 2021 to 414,601.77 in 2024. No prior policies were cancelled."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

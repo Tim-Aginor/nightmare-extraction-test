@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Property Schedule of Values",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate/property holdings with office and mercantile occupancies.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Building, Contents, Business Income",
+      "current_limit": 229053199,
+      "requested_limit": 314984000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Current SOV totals: Building Value 222340000; Contents Value 33432000; BI Value 59212000; TIV 314984000. Prior Year SOV TIV totals 229053199. Modifications effective 2026-03-15 include addition of a warehouse facility, deletion of an old location due to lease expiration, and updated TIV per appraisal."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 scheduled locations are sprinklered.",
+      "Scheduled construction types are Fire Resistive, Masonry Non-Combustible, or Non-Combustible.",
+      "TIV updated per appraisal effective 2026-03-15."
+    ],
+    "concerns": [
+      "Geographic concentration: all scheduled locations are in Texas.",
+      "Modifications sheet references an added warehouse facility effective 2026-03-15, but no detailed warehouse location or values are shown in the provided Locations sheet."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

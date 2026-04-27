@@ -1,0 +1,919 @@
+{
+  "models": {
+    "gpt55": {
+      "model": "gpt55",
+      "flagged_strings_total": 352,
+      "buckets": {
+        "composed_string": 0,
+        "format_variance": 0,
+        "partial_overlap": 208,
+        "true_fabrication": 144,
+        "non_meaningful": 0
+      },
+      "composed_fraction": 0.0,
+      "reclassify_fraction": 0.5909090909090909,
+      "true_fabrication_fraction": 0.4090909090909091,
+      "sample_examples": {
+        "composed_string": [],
+        "format_variance": [],
+        "partial_overlap": [
+          {
+            "doc": "N1_easy_70001/acord_160",
+            "path": "additional_fields.additional_coverages.[0].deductible_text",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "deadbeef"
+            ]
+          },
+          {
+            "doc": "N1_easy_70001/acord_160",
+            "path": "additional_fields.additional_coverages.[2].deductible_text",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "deadbeef"
+            ]
+          },
+          {
+            "doc": "N1_easy_70001/acord_160",
+            "path": "additional_fields.additional_coverages.[3].deductible_text",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "deadbeef"
+            ]
+          },
+          {
+            "doc": "N1_easy_70001/acord_160",
+            "path": "additional_fields.additional_coverages.[4].deductible_text",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "deadbeef"
+            ]
+          },
+          {
+            "doc": "N1_easy_70001/acord_160",
+            "path": "additional_fields.additional_coverages.[8].deductible_text",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "deadbeef"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_24",
+            "path": "additional_fields.contact_phone",
+            "value": "614-555-8742",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "8742"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_28",
+            "path": "additional_fields.producer_fax",
+            "value": "614-837-8818",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "8818"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/engineering_report",
+            "path": "locations_inspected.[0].findings.[19]",
+            "value": "GFCI protection is present.",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "present"
+            ]
+          }
+        ],
+        "true_fabrication": [
+          {
+            "doc": "N2_normal_70002/acord_160",
+            "path": "additional_fields.additional_coverages.[1].deductible",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "deadbeef",
+              "missing"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_160",
+            "path": "additional_fields.additional_coverages.[3].deductible",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "deadbeef",
+              "missing"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_160",
+            "path": "additional_fields.additional_coverages.[7].deductible",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "deadbeef",
+              "missing"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_160",
+            "path": "additional_fields.additional_coverages.[9].deductible",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "deadbeef",
+              "missing"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_160",
+            "path": "additional_fields.additional_coverages.[11].deductible",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "deadbeef",
+              "missing"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_25",
+            "path": "additional_fields.producer_email",
+            "value": "kweissman@mpwcg.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "kweissman@mpwcg.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.website",
+            "value": "www.hillcountryhospitalityp.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hillcountryhospitalityp.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.expiring_coverages.[0].expiring_policy_number",
+            "value": "GL000024",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "gl000024"
+            ]
+          }
+        ],
+        "non_meaningful": []
+      }
+    },
+    "gpt54": {
+      "model": "gpt54",
+      "flagged_strings_total": 312,
+      "buckets": {
+        "composed_string": 5,
+        "format_variance": 0,
+        "partial_overlap": 190,
+        "true_fabrication": 117,
+        "non_meaningful": 0
+      },
+      "composed_fraction": 0.016025641025641024,
+      "reclassify_fraction": 0.625,
+      "true_fabrication_fraction": 0.375,
+      "sample_examples": {
+        "composed_string": [
+          {
+            "doc": "N2_normal_70002/acord_125",
+            "path": "additional_fields.loss_history_totals",
+            "value": "{\"claims\":2,\"total_paid\":202875,\"total_reserved\":35679,\"total_incurred\":238554}",
+            "ratio": 0.9090909090909091,
+            "unmatched_tokens": [
+              "35679"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.interest_1_type",
+            "value": "B/A/O/A/TIMA",
+            "ratio": 0.8,
+            "unmatched_tokens": [
+              "tima"
+            ]
+          },
+          {
+            "doc": "N5_nightmare_70005/driver_schedule",
+            "path": "drivers.[28].assigned_vehicle",
+            "value": "2022 Utility 4000D-X Composite",
+            "ratio": 0.8,
+            "unmatched_tokens": [
+              "4000d"
+            ]
+          },
+          {
+            "doc": "N5_nightmare_70005/driver_schedule_excel",
+            "path": "drivers.[28].assigned_vehicle",
+            "value": "2022 Utility 4000D-X Composite",
+            "ratio": 0.8,
+            "unmatched_tokens": [
+              "4000d"
+            ]
+          },
+          {
+            "doc": "N5_nightmare_70005/driver_schedule_excel",
+            "path": "drivers.[29].assigned_vehicle",
+            "value": "2023 Utility 4000D-X Composite",
+            "ratio": 0.8,
+            "unmatched_tokens": [
+              "4000d"
+            ]
+          }
+        ],
+        "format_variance": [],
+        "partial_overlap": [
+          {
+            "doc": "N2_normal_70002/acord_24",
+            "path": "additional_fields.contact_name",
+            "value": "Karen Weismann",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "weismann"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_24",
+            "path": "additional_fields.certificate_number",
+            "value": "CRT-738762",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "crt"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_28",
+            "path": "additional_fields.producer_fax",
+            "value": "(614) 837-8818",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "8818"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/engineering_report",
+            "path": "locations_inspected.[0].findings.[8]",
+            "value": "Building Envelope Integrity: Deteriorating.",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "integrity"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_101",
+            "path": "header.policy_number",
+            "value": "GL-HCHP-2025-3551",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "3551"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_101",
+            "path": "additional_fields.agency_customer_id",
+            "value": "AC-25845",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "25845"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_101",
+            "path": "additional_fields.location_2",
+            "value": "LOC-002: Riverside Suites San Marcos - 1100 Cheyenne Street, San Marcos, TX 78666 (Occupancy: Hotel)",
+            "ratio": 0.5333333333333333,
+            "unmatched_tokens": [
+              "riverside",
+              "suites",
+              "marcos",
+              "1100",
+              "cheyenne",
+              "marcos",
+              "78666"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.audit",
+            "value": "As per billing plan",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "billing"
+            ]
+          }
+        ],
+        "true_fabrication": [
+          {
+            "doc": "N2_normal_70002/acord_24",
+            "path": "additional_fields.contact_email",
+            "value": "kweissman@mvpcg.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "kweissman@mvpcg.com"
+            ]
+          },
+          {
+            "doc": "N2_normal_70002/acord_28",
+            "path": "additional_fields.producer_email",
+            "value": "kweissman@mvpcg.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "kweissman@mvpcg.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.website",
+            "value": "www.hchospitality.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hchospitality.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.prior_policy_number_workers_compensation",
+            "value": "WC 6098-883",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "6098",
+              "883"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_126",
+            "path": "additional_fields.classification_1_premium_basis",
+            "value": "Receipts",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "receipts"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_information.[0].policy_number",
+            "value": "WZL 673 8843",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "wzl",
+              "673",
+              "8843"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_information.[1].policy_number",
+            "value": "PKWC009182",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "pkwc009182"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_information.[2].policy_number",
+            "value": "WCX098333",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "wcx098333"
+            ]
+          }
+        ],
+        "non_meaningful": []
+      }
+    },
+    "opus47": {
+      "model": "opus47",
+      "flagged_strings_total": 162,
+      "buckets": {
+        "composed_string": 0,
+        "format_variance": 0,
+        "partial_overlap": 59,
+        "true_fabrication": 103,
+        "non_meaningful": 0
+      },
+      "composed_fraction": 0.0,
+      "reclassify_fraction": 0.36419753086419754,
+      "true_fabrication_fraction": 0.6358024691358025,
+      "sample_examples": {
+        "composed_string": [],
+        "format_variance": [],
+        "partial_overlap": [
+          {
+            "doc": "N2_normal_70002/engineering_report",
+            "path": "locations_inspected.[0].deficiencies.[0]",
+            "value": "Building Envelope Integrity: Deteriorating",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "integrity"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.payment_plan",
+            "value": "As per billing plan",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "billing"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.individuals_included_excluded.[1].name",
+            "value": "Jonathan White",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "jonathan"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_133",
+            "path": "additional_fields.assigned_risk_plan",
+            "value": "NCCI Assigned Risk Plan",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "ncci"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.locations.[7].fire_protection.distance_to_hydrant",
+            "value": "2580 ft",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "2580"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.interests.[2].loan_reference_number",
+            "value": "L-041498258",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "041498258"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_27",
+            "path": "additional_fields.agency_contact",
+            "value": "Marcos Jennings",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "marcos"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_28",
+            "path": "additional_fields.producer_contact",
+            "value": "Marcos Jennings",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "marcos"
+            ]
+          }
+        ],
+        "true_fabrication": [
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.website",
+            "value": "www.hicountryhospitalityp.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hicountryhospitalityp.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.expiring_policy_wc",
+            "value": "WC-8099-9663",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "8099",
+              "9663"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_information.[0].policy_number",
+            "value": "WC-4098-9883",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "4098",
+              "9883"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_information.[1].policy_number",
+            "value": "78C0040622",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "78c0040622"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_133",
+            "path": "additional_fields.rating_bureau",
+            "value": "MWCIA (MN)",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "mwcia",
+              "mn"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.website",
+            "value": "www.hicountryhospitalityp.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hicountryhospitalityp.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.agency_license_number",
+            "value": "AG-224177",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "ag",
+              "224177"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.data_quality_issues.exterior_glass_deductible",
+            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "deadbeef",
+              "missing"
+            ]
+          }
+        ],
+        "non_meaningful": []
+      }
+    },
+    "sonnet": {
+      "model": "sonnet",
+      "flagged_strings_total": 215,
+      "buckets": {
+        "composed_string": 0,
+        "format_variance": 0,
+        "partial_overlap": 82,
+        "true_fabrication": 133,
+        "non_meaningful": 0
+      },
+      "composed_fraction": 0.0,
+      "reclassify_fraction": 0.3813953488372093,
+      "true_fabrication_fraction": 0.6186046511627907,
+      "sample_examples": {
+        "composed_string": [],
+        "format_variance": [],
+        "partial_overlap": [
+          {
+            "doc": "N1_easy_70001/loss_run_csv",
+            "path": "header.carrier_name",
+            "value": "Multiple (CNA, AIG, BHG)",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "multiple"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_101",
+            "path": "header.policy_number",
+            "value": "GE-HCHP-2025-3351",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "ge"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.payment_plan",
+            "value": "As per billing plan",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "billing"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.individuals_included_excluded.[1].name",
+            "value": "Jonathan White",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "jonathan"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_133",
+            "path": "additional_fields.assigned_risk_plan",
+            "value": "NCCI Assigned Risk Plan",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "ncci"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.interests.[2].loan_reference_number",
+            "value": "L-041498258",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "041498258"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.business_type",
+            "value": "Hotel / Motel",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "motel"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_24",
+            "path": "additional_fields.policy_type",
+            "value": "CP-BLDG-2023-3392",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "bldg",
+              "3392"
+            ]
+          }
+        ],
+        "true_fabrication": [
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.website",
+            "value": "www.hicountryhospitalityp.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hicountryhospitalityp.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_information.[0].policy_number",
+            "value": "WC-4098-9863",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "4098",
+              "9863"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_information.[1].policy_number",
+            "value": "7MC89069522",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "7mc89069522"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_information.[2].policy_number",
+            "value": "ZZZ0008808",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "zzz0008808"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_133",
+            "path": "additional_fields.experience_modification.rating_bureau",
+            "value": "MWCIA (MN)",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "mwcia",
+              "mn"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.website",
+            "value": "www.hicountryhospitalityp.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hicountryhospitalityp.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.agent_license_number",
+            "value": "AG-224177",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "ag",
+              "224177"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_24",
+            "path": "header.policy_number",
+            "value": "CHRT-489720",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "chrt",
+              "489720"
+            ]
+          }
+        ],
+        "non_meaningful": []
+      }
+    },
+    "gemini_pro": {
+      "model": "gemini_pro",
+      "flagged_strings_total": 75,
+      "buckets": {
+        "composed_string": 0,
+        "format_variance": 0,
+        "partial_overlap": 37,
+        "true_fabrication": 38,
+        "non_meaningful": 0
+      },
+      "composed_fraction": 0.0,
+      "reclassify_fraction": 0.49333333333333335,
+      "true_fabrication_fraction": 0.5066666666666667,
+      "sample_examples": {
+        "composed_string": [],
+        "format_variance": [],
+        "partial_overlap": [
+          {
+            "doc": "N3_hard_70003/acord_101",
+            "path": "additional_fields.agency_customer_id",
+            "value": "AC-156475",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "156475"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.payment_plan",
+            "value": "As per billing plan",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "billing"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.individual_included_1_dob",
+            "value": "02/02/1984",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "1984"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.individual_included_2_name",
+            "value": "Jonathan White",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "jonathan"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_133",
+            "path": "additional_fields.assigned_risk_plan",
+            "value": "NCCI Assigned Risk Plan",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "ncci"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.locations.[7].fire_protection.distance_to_hydrant",
+            "value": "2500 ft",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "2500"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.interests.[2].loan_reference_number",
+            "value": "L-041498258",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "041498258"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.business_type",
+            "value": "Hotel / Motel",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "motel"
+            ]
+          }
+        ],
+        "true_fabrication": [
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.website",
+            "value": "www.hcountryhospitalityp.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hcountryhospitalityp.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.expiring_policy_no_workers_compensation",
+            "value": "WC-8099-9663",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "8099",
+              "9663"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_1_policy_number",
+            "value": "WC-4098-9883",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "4098",
+              "9883"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.prior_carrier_2_policy_number",
+            "value": "796C0006522",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "796c0006522"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_133",
+            "path": "additional_fields.rating_bureau",
+            "value": "MWCIA (MN)",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "mwcia",
+              "mn"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.interests.[2].address",
+            "value": "P.O. Box 55868, Elk Grove, CA 95624",
+            "ratio": 0.14285714285714285,
+            "unmatched_tokens": [
+              "box",
+              "55868",
+              "elk",
+              "grove",
+              "ca",
+              "95624"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.website",
+            "value": "www.hcountryhospitalityp.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hcountryhospitalityp.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_24",
+            "path": "additional_fields.producer_contact_fax",
+            "value": "(512) 895-7265",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "512",
+              "895",
+              "7265"
+            ]
+          }
+        ],
+        "non_meaningful": []
+      }
+    }
+  }
+}

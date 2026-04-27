@@ -1,0 +1,126 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": null,
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "GLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Special Causes of Loss",
+      "limit": 126984000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "agency_customer_id": "AC-070005",
+    "carrier_naic_code": "24281",
+    "additional_interest": "Corporate Headquarters & Main Terminal",
+    "causes_of_loss": "Special",
+    "valuation": "Replacement Cost",
+    "coinsurance": "90%",
+    "building_location_schedule": [
+      {
+        "loc_number": 1,
+        "location": "Corporate Headquarters & Main Terminal",
+        "building": 10000000,
+        "contents": 5000000,
+        "business_income": 9750000,
+        "tiv": 24750000
+      },
+      {
+        "loc_number": 2,
+        "location": "Rickenbacker Air Hub",
+        "building": 14800000,
+        "contents": 7400000,
+        "business_income": 9480000,
+        "tiv": 31680000
+      },
+      {
+        "loc_number": 3,
+        "location": "Cleveland Distribution Center",
+        "building": 9600000,
+        "contents": 4800000,
+        "business_income": 3490000,
+        "tiv": 17890000
+      },
+      {
+        "loc_number": 4,
+        "location": "Pittsburgh Regional Terminal",
+        "building": 4480000,
+        "contents": 3920000,
+        "business_income": 6284000,
+        "tiv": 14684000
+      },
+      {
+        "loc_number": 5,
+        "location": "Philadelphia Cross-Dock",
+        "building": 6400000,
+        "contents": 3840000,
+        "business_income": 2544000,
+        "tiv": 12784000
+      },
+      {
+        "loc_number": 6,
+        "location": "Harrisburg Consolidation Hub",
+        "building": 2300000,
+        "contents": 2650000,
+        "business_income": 4345000,
+        "tiv": 9295000
+      },
+      {
+        "loc_number": 7,
+        "location": "Toledo Service Center",
+        "building": 3720000,
+        "contents": 1860000,
+        "business_income": 1384000,
+        "tiv": 6964000
+      },
+      {
+        "loc_number": 8,
+        "location": "Fleet Maintenance Center",
+        "building": 1860000,
+        "contents": 1860000,
+        "business_income": 1680000,
+        "tiv": 5400000
+      },
+      {
+        "loc_number": 9,
+        "location": "Administrative Office",
+        "building": 950000,
+        "contents": 990000,
+        "business_income": 1597000,
+        "tiv": 3537000
+      }
+    ],
+    "schedule_totals": {
+      "building": 54110000,
+      "contents": 32320000,
+      "business_income": 40554000,
+      "tiv": 126984000
+    }
+  },
+  "remarks": "Handwritten note: Need docs."
+}

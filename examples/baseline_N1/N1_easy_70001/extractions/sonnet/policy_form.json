@@ -1,0 +1,114 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-07-01",
+    "prepared_by": "Texas Commercial Insurance Partners",
+    "recipient": "Lone Star Property Holdings, LP"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Building",
+      "current_limit": 222340000,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Policy Number CP-LSPH-2025-7801; Coinsurance 90%; Deductible $50,000"
+    },
+    {
+      "coverage_type": "Contents",
+      "current_limit": 33432000,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 59212000,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Ordinance Or Law Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 (10 12); Effective Date 03/15/2026; Coverage A for loss to undamaged portion of building due to ordinance or law requiring demolition"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12); Effective Date 03/15/2026; Covers mechanical, electrical, or pressure equipment breakdown accidents"
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Apex Managing General Agency",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12); Effective Date 03/15/2026; Covers direct physical loss caused by interruption of water, communication, and power supply services"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Coverage extensions apply as coinsurance is 90% (above 80% threshold), enabling newly acquired property, personal effects, valuable papers, property off-premises, outdoor property, and non-owned detached trailer coverages",
+      "Multiple endorsements in place including Ordinance or Law, Equipment Breakdown, and Utility Services Direct Damage",
+      "Debris removal additional coverage available at 25% of paid loss plus deductible, with an additional $25,000 if inadequate",
+      "Preservation of Property coverage for up to 30 days during relocation",
+      "Buildings under construction or renovation are not considered vacant under vacancy clause"
+    ],
+    "concerns": [
+      "Vacancy clause excludes vandalism, sprinkler leakage, building glass breakage, water damage, theft or attempted theft if building vacant more than 60 consecutive days; other covered causes reduced by 15%",
+      "Coinsurance condition at 90% \u2014 penalty applies if covered property value exceeds required insurance amount at time of loss",
+      "Deductible of $50,000 per occurrence",
+      "Valuation on actual cash value basis (not replacement cost) unless Replacement Cost optional coverage is elected",
+      "Proof of loss must be submitted within 60 days after loss",
+      "Policy rights and duties may not be transferred without written consent"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 255772000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": "2026-07-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. SIC Code 6512.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "packet_id": "N4_expert_70004",
+  "difficulty": "N4_expert",
+  "seed": "70004",
+  "document": "financial_statement",
+  "ground_truth": {
+    "doc_type": "financial_statement",
+    "category": "financial_statement",
+    "prompt_file": "financial_statement_extraction.md",
+    "source_file": "field_truth_financial_statement.json",
+    "raw_ground_truth": {
+      "fields": {
+        "insured_name": {
+          "value": "Keystone Commercial Builders, Inc.",
+          "locations": [
+            {
+              "page": 1,
+              "x": 232.8,
+              "y": 83.0,
+              "width": 146.4,
+              "height": 10.0
+            },
+            {
+              "page": 1,
+              "x": 48.8,
+              "y": 160.8,
+              "width": 131.7,
+              "height": 9.0
+            }
+          ]
+        },
+        "insured_address": {
+          "value": "300 Liberty Avenue, Suite 1200"
+        },
+        "insured_city": {
+          "value": "Pittsburgh"
+        },
+        "insured_state": {
+          "value": "PA"
+        },
+        "insured_zip": {
+          "value": "15222"
+        },
+        "annual_revenue": {
+          "value": 95000000,
+          "rendered_as": "$95,000,000.00"
+        },
+        "num_employees_ft": {
+          "value": 425
+        },
+        "entity_type": {
+          "value": "Corporation",
+          "locations": [
+            {
+              "page": 1,
+              "x": 48.8,
+              "y": 190.8,
+              "width": 43.5,
+              "height": 9.0
+            }
+          ]
+        },
+        "nature_of_business": {
+          "value": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+          "locations": [
+            {
+              "page": 1,
+              "x": 48.8,
+              "y": 220.8,
+              "width": 481.9,
+              "height": 21.0
+            }
+          ]
+        },
+        "bs_cash": {
+          "value": 22187700.0,
+          "rendered_as": "$22,187,700.00"
+        },
+        "bs_accounts_receivable": {
+          "value": 28366800.0,
+          "rendered_as": "$28,366,800.00"
+        },
+        "bs_inventory": {
+          "value": 11400000.0,
+          "rendered_as": "$11,400,000.00"
+        },
+        "bs_prepaid_expenses": {
+          "value": 2375000.0,
+          "rendered_as": "$2,375,000.00"
+        },
+        "bs_ppe_net": {
+          "value": 7911100.0,
+          "rendered_as": "$7,911,100.00"
+        },
+        "bs_other_assets": {
+          "value": 31096100.0,
+          "rendered_as": "$31,096,100.00"
+        },
+        "bs_total_assets": {
+          "value": 103336700.0,
+          "rendered_as": "$103,336,700.00"
+        },
+        "bs_accounts_payable": {
+          "value": 19502100.0,
+          "rendered_as": "$19,502,100.00"
+        },
+        "bs_accrued_expenses": {
+          "value": 14166000.0,
+          "rendered_as": "$14,166,000.00"
+        },
+        "bs_current_lt_debt": {
+          "value": 3982600.0,
+          "rendered_as": "$3,982,600.00"
+        },
+        "bs_long_term_debt": {
+          "value": 25795700.0,
+          "rendered_as": "$25,795,700.00"
+        },
+        "bs_other_liabilities": {
+          "value": 5517100.0,
+          "rendered_as": "$5,517,100.00"
+        },
+        "bs_total_liabilities": {
+          "value": 68963500.0,
+          "rendered_as": "$68,963,500.00"
+        },
+        "bs_equity": {
+          "value": 34373200.0,
+          "rendered_as": "$34,373,200.00"
+        },
+        "is_revenue": {
+          "value": 95000000,
+          "rendered_as": "$95,000,000.00"
+        },
+        "is_cogs": {
+          "value": 69425900.0,
+          "rendered_as": "$69,425,900.00"
+        },
+        "is_gross_profit": {
+          "value": 25574100.0,
+          "rendered_as": "$25,574,100.00"
+        },
+        "is_operating_expenses": {
+          "value": 8394300.0,
+          "rendered_as": "$8,394,300.00"
+        },
+        "is_depreciation": {
+          "value": 6127600.0,
+          "rendered_as": "$6,127,600.00"
+        },
+        "is_ebit": {
+          "value": 11052200.0,
+          "rendered_as": "$11,052,200.00"
+        },
+        "is_interest_expense": {
+          "value": 3019600.0,
+          "rendered_as": "$3,019,600.00"
+        },
+        "is_ebt": {
+          "value": 8032600.0,
+          "rendered_as": "$8,032,600.00"
+        },
+        "is_tax_provision": {
+          "value": 2035200.0,
+          "rendered_as": "$2,035,200.00"
+        },
+        "is_net_income": {
+          "value": 5997400.0,
+          "rendered_as": "$5,997,400.00"
+        },
+        "is_tax_rate": {
+          "value": 0.2534,
+          "rendered_as": "25.3%"
+        }
+      },
+      "doc_type": "financial_statement",
+      "financial_ratios": {
+        "current_ratio": {
+          "value": 1.7086,
+          "rendered_as": "1.71"
+        },
+        "debt_to_equity": {
+          "value": 2.0063,
+          "rendered_as": "2.01"
+        },
+        "profit_margin": {
+          "value": 0.0631,
+          "rendered_as": "6.31%"
+        },
+        "return_on_assets": {
+          "value": 0.058,
+          "rendered_as": "5.80%"
+        }
+      }
+    },
+    "header": {
+      "insured_name": "Keystone Commercial Builders, Inc.",
+      "insured_address": "300 Liberty Avenue, Suite 1200",
+      "insured_city": "Pittsburgh",
+      "insured_state": "PA",
+      "insured_zip": "15222",
+      "carrier_name": null,
+      "policy_period_start": null,
+      "policy_period_end": null
+    },
+    "balance_sheet": {},
+    "income_statement": {},
+    "ratios": {},
+    "document_path": "/home/test/Desktop/villify/output/nightmare/N4_expert/doc_70004/documents/financial_statement_70004.pdf"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "CANCELLATION REQUEST / POLICY RELEASE"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": "AG-7703921",
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01"
+  },
+  "applicant_info": {
+    "entity_type": "Limited Partnership",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "policy_type_cgl": "unchecked",
+    "policy_type_auto": "unchecked",
+    "policy_type_wc": "unchecked",
+    "policy_type_property": "checked",
+    "policy_type_umbrella": "unchecked",
+    "reason_insureds_request": "unchecked",
+    "reason_non_payment_of_premium": "unchecked",
+    "reason_underwriting": "checked",
+    "reason_non_renewal": "unchecked",
+    "reason_other": "unchecked"
+  },
+  "additional_fields": {
+    "agency_phone": "(214) 555-0918",
+    "agency_fax": "(214) 273-7259",
+    "carrier_naic_code": "68074",
+    "cancellation_date": "2026-06-07",
+    "cancellation_time": "02:49 PM",
+    "agent_broker_signature": "Sandra Villareal",
+    "signature_date": "2026-03-15",
+    "return_premium_basis": "pro-rata"
+  },
+  "remarks": "The above-named insured/agent requests cancellation of the policy described above. Any return premium due is to be calculated on a pro-rata basis unless otherwise indicated."
+}

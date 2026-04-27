@@ -1,0 +1,81 @@
+{
+  "report_info": {
+    "report_type": "sprinkler_inspection",
+    "report_date": "2026-03-15",
+    "inspector_name": "D. Wilson, ARM",
+    "inspector_company": "Apex Managing General Agency",
+    "risk_grade": "Below Average",
+    "grading_scale": "Travelers Risk Assessment"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "8117 Preston Road",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75225"
+  },
+  "carrier_info": {
+    "carrier_name": null,
+    "policy_number": "CP-LSPH-2025-7801",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Lone Star Property Holdings, LP",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "construction": null,
+      "occupancy": "SIC 6512",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": null,
+      "condition_rating": "Fair",
+      "findings": [
+        "Dry pipe fire protection system",
+        "System age: 20 years",
+        "Manufacturer: Reliable",
+        "NFPA 13 compliant: Yes",
+        "6 control valves inspected; all found in open position",
+        "Tamper switches not all connected",
+        "Water flow alarm tested and operational",
+        "Supervisory signal tested and operational",
+        "Sprinkler heads in fair visual condition with minor corrosion observed",
+        "Spare heads in cabinet with adequate supply",
+        "Water supply static pressure: 42 psi",
+        "Water supply residual pressure: 49 psi",
+        "Flow: 1029 GPM",
+        "Water supply adequate: Yes",
+        "Overall system status: PASS"
+      ],
+      "deficiencies": [
+        "Combustible storage within 18 inches of sprinkler deflectors",
+        "Exposed wiring and missing junction box covers in main electrical room"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "High",
+      "category": "Fire Protection",
+      "description": "Correct combustible storage within 18 inches of sprinkler deflectors.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Medium",
+      "category": "Electrical",
+      "description": "Repair exposed wiring and replace missing junction box covers in the main electrical room.",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Fire protection system inspection report indicates a dry pipe sprinkler system that is NFPA 13 compliant with adequate water supply and operational alarm devices. Minor corrosion was observed on sprinkler heads, and some tamper switches are not connected. Overall system status passed, with noted fire protection and electrical deficiencies requiring correction.",
+    "risk_level": "Below Average",
+    "insurability": "Acceptable"
+  }
+}
