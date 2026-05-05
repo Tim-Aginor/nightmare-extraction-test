@@ -36,30 +36,9 @@
           "value": "2026-06-01",
           "rendered_as": "06/01/2026"
         },
-        "report_id": {
-          "value": "LR-2026-31424"
-        },
         "report_date": {
           "value": "2026-03-15",
           "rendered_as": "03/15/2026"
-        },
-        "policy_number_wc": {
-          "value": "WC GLFS 2025 8820"
-        },
-        "policy_number_gl": {
-          "value": "gl GLFS 2025 8821"
-        },
-        "policy_number_auto": {
-          "value": "CAGLFS20258822"
-        },
-        "policy_number_property": {
-          "value": "cpGLFS20258823"
-        },
-        "policy_number_umbrella": {
-          "value": "SIC CU025454"
-        },
-        "policy_number_mtc": {
-          "value": "SICMT032788"
         }
       },
       "doc_type": "loss_run_excel",
@@ -71,7 +50,7 @@
             "value": "BWC-2021-049200"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2021-06-19",
@@ -100,14 +79,14 @@
             "rendered_as": "06/28/2021"
           },
           "description": {
-            "value": "Employee sustained a\u2019thoracic strain to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b upper back while pushing a\u2019loaded hand truck up a\u2019ramp. The injury required a\u2019splint and modified work duties for 4 weeks."
+            "value": "Employee sustained a’thoracic strain to the​​​​​​​​​​​​​​​​​​​​​​​​​​ upper back while pushing a’loaded hand truck up a’ramp. The injury required a’splint and modified work duties for 4 weeks."
           },
           "close_date": {
             "value": "2022-11-23",
             "rendered_as": "11/23/2022"
           },
           "examiner": {
-            "value": "J. Sullivan"
+            "value": "P. Hendricks"
           },
           "cause_code": {
             "value": "73"
@@ -160,7 +139,7 @@
             "value": "BWC-2021-046142"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2021-10-14",
@@ -189,14 +168,14 @@
             "rendered_as": "10/18/2021"
           },
           "description": {
-            "value": "Employee sustained a sprain\u2026"
+            "value": "Employee sustained a sprain…"
           },
           "close_date": {
             "value": "2022-03-25",
             "rendered_as": "03/25/2022"
           },
           "examiner": {
-            "value": "A. Fitzgerald"
+            "value": "M. Kowalski"
           },
           "cause_code": {
             "value": "72"
@@ -249,7 +228,7 @@
             "value": "BWC-2022-050407"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2022-02-24",
@@ -285,7 +264,7 @@
             "rendered_as": "05/29/2023"
           },
           "examiner": {
-            "value": "J. Sullivan"
+            "value": "P. Hendricks"
           },
           "cause_code": {
             "value": "74"
@@ -338,7 +317,7 @@
             "value": "BWC-2022-049655"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2022-05-07",
@@ -367,14 +346,14 @@
             "rendered_as": "05/09/2022"
           },
           "description": {
-            "value": "Employee sustained a\u2019neck sprain with radiating pain to the cervical spine while involved in a\u2019rear-end collision while driving a\u2019company vehicle."
+            "value": "Employee sustained a’neck sprain with radiating pain to the cervical spine while involved in a’rear-end collision while driving a’company vehicle."
           },
           "close_date": {
             "value": "2022-12-06",
             "rendered_as": "12/06/2022"
           },
           "examiner": {
-            "value": "A. Fitzgerald"
+            "value": "M. Kowalski"
           },
           "recovery_amount": {
             "value": 2217.41,
@@ -428,10 +407,10 @@
         },
         {
           "claim_number": {
-            "value": "BWC-2022-047955\u2020"
+            "value": "BWC-2022-047955†"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2022-06-07",
@@ -460,14 +439,14 @@
             "rendered_as": "06/19/2022"
           },
           "description": {
-            "value": "Employee suffered a\u2019lumbar strain to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while operating a\u2019pallet jack to move freight at the loading dock. The employee was prescribed rest, ice, and a\u2019follow-up with a\u2019specialist."
+            "value": "Employee suffered a’lumbar strain to the​​​​​​​​​​​​​​​​​​ lower back while operating a’pallet jack to move freight at the loading dock. The employee was prescribed rest, ice, and a’follow-up with a’specialist."
           },
           "close_date": {
             "value": "2023-02-25",
             "rendered_as": "02/25/2023"
           },
           "examiner": {
-            "value": "P. Hendricks"
+            "value": "K. Dominguez"
           },
           "cause_code": {
             "value": "73"
@@ -520,7 +499,7 @@
             "value": "BWC-2022-043842"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2022-06-21",
@@ -549,14 +528,14 @@
             "rendered_as": "06/22/2022"
           },
           "description": {
-            "value": "Employee sustained a fracture\u2026"
+            "value": "Employee sustained a fracture…"
           },
           "close_date": {
             "value": "2023-12-04",
             "rendered_as": "12/04/2023"
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "70"
@@ -638,18 +617,14 @@
             "rendered_as": "07/08/2022"
           },
           "description": {
-            "value": "Employee sustained a\u2019contusion to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b right knee after\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 slipping on the truck step while\u2014entering the cab during wet weather conditions. The employee was prescribed rest, ice, and a\u2019follow-up with a\u2019specialist."
+            "value": "Employee sustained a’contusion to the​​​​​​​​ right knee after–––––––––––––––––– slipping on the truck step while—entering the cab during wet weather conditions. The employee was prescribed rest, ice, and a’follow-up with a’specialist."
           },
           "close_date": {
             "value": "2023-05-07",
             "rendered_as": "05/07/2023"
           },
           "examiner": {
-            "value": "M. Kowalski"
-          },
-          "recovery_amount": {
-            "value": 4414.25,
-            "rendered_as": "$4,414.25"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "72"
@@ -702,7 +677,7 @@
             "value": "BWC-2022-047267"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2022-07-08",
@@ -731,13 +706,13 @@
             "rendered_as": "07/22/2022"
           },
           "description": {
-            "value": "Employee\u2019s suffered a contusion to the\u00a0head when struck by the\u00a0raised trailer door while\u2014standing in the\u00a0loading area. The employee was evaluated in the\u00a0emergency department and placed on restricted duty."
+            "value": "Employee’s suffered a contusion to the head when struck by the raised trailer door while—standing in the loading area. The employee was evaluated in the emergency department and placed on restricted duty."
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "recovery_amount": {
             "value": 7399.86,
@@ -794,7 +769,7 @@
             "value": "BWC-2022-045032"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2022-10-01",
@@ -823,14 +798,14 @@
             "rendered_as": "10/13/2022"
           },
           "description": {
-            "value": "Employee sustained a\u2019strain to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left shoulder while\u2014cranking the trailer landing gear during an uncoupling operation. Occupational therapy was recommended for a\u2019period of 12 weeks."
+            "value": "Employee sustained a’strain to the​​​​​​​​ left shoulder while—cranking the trailer landing gear during an uncoupling operation. Occupational therapy was recommended for a’period of 12 weeks."
           },
           "close_date": {
             "value": "2024-03-22",
             "rendered_as": "03/22/2024"
           },
           "examiner": {
-            "value": "A. Fitzgerald"
+            "value": "M. Kowalski"
           },
           "cause_code": {
             "value": "73"
@@ -883,7 +858,7 @@
             "value": "BWC-2022-045459"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2022-11-05",
@@ -912,14 +887,14 @@
             "rendered_as": "11/06/2022"
           },
           "description": {
-            "value": "Employee\u2019s suffered a herniated disc at L4-L5 to the\u00a0lower back attributed to prolonged whole-body vibration from extended driving shifts. The employee underwent a 12-week course of physical therapy and pain management."
+            "value": "Employee’s suffered a herniated disc at L4-L5 to the lower back attributed to prolonged whole-body vibration from extended driving shifts. The employee underwent a 12-week course of physical therapy and pain management."
           },
           "close_date": {
             "value": "2023-02-21",
             "rendered_as": "02/21/2023"
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "09"
@@ -972,7 +947,7 @@
             "value": "BWC-2023-048838"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2023-05-07",
@@ -1001,14 +976,14 @@
             "rendered_as": "05/10/2023"
           },
           "description": {
-            "value": "Employee\u2019s experienced a vertebral compression fracture to the upper back while pushing a loaded hand truck up a ramp. Employee\u2019s was transported to the ER and treated with immobilization and pain management."
+            "value": "Employee’s experienced a vertebral compression fracture to the upper back while pushing a loaded hand truck up a ramp. Employee’s was transported to the ER and treated with immobilization and pain management."
           },
           "close_date": {
             "value": "2024-02-19",
             "rendered_as": "02/19/2024"
           },
           "examiner": {
-            "value": "A. Fitzgerald"
+            "value": "M. Kowalski"
           },
           "cause_code": {
             "value": "73"
@@ -1090,13 +1065,13 @@
             "rendered_as": "06/28/2023"
           },
           "description": {
-            "value": "Employee suffered a\u2019contusion to the right shoulder after\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 being struck by shifting cargo that broke free during transit. Emergency medical treatment was administered on-site before transport to the hospital."
+            "value": "Employee suffered a’contusion to the right shoulder after–––––––– being struck by shifting cargo that broke free during transit. Emergency medical treatment was administered on-site before transport to the hospital."
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "P. Hendricks"
+            "value": "K. Dominguez"
           },
           "recovery_amount": {
             "value": 248.2,
@@ -1160,7 +1135,7 @@
             "rendered_as": "12/31/2023"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -1170,29 +1145,26 @@
             "rendered_as": "$31,498.40"
           },
           "total_reserved": {
-            "value": 3281.87,
-            "rendered_as": "$3,281.87"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 34780.27,
-            "rendered_as": "$34,780.27"
+            "value": 31498.4,
+            "rendered_as": "$31,498.40"
           },
           "date_reported": {
             "value": "2024-01-01",
             "rendered_as": "01/01/2024"
           },
           "description": {
-            "value": "Employee experienced a\u2019lumbar......"
+            "value": "Employee experienced a’lumbar......"
           },
           "close_date": {
-            "value": null
+            "value": "2026-02-24",
+            "rendered_as": "02/24/2026"
           },
           "examiner": {
-            "value": "A. Fitzgerald"
-          },
-          "recovery_amount": {
-            "value": 8380.09,
-            "rendered_as": "$8,380.09"
+            "value": "M. Kowalski"
           },
           "cause_code": {
             "value": "73"
@@ -1230,8 +1202,8 @@
             "rendered_as": "$539.61"
           },
           "reserve": {
-            "value": 3281.87,
-            "rendered_as": "$3,281.87"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "7219"
@@ -1274,14 +1246,14 @@
             "rendered_as": "01/31/2024"
           },
           "description": {
-            "value": "Employee sustained a\u2019crush injury to the index finger of the right hand while\u2014operating the trailer door latch mechanism. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
+            "value": "Employee sustained a’crush injury to the index finger of the right hand while—operating the trailer door latch mechanism. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
           },
           "close_date": {
             "value": "2025-03-19",
             "rendered_as": "03/19/2025"
           },
           "examiner": {
-            "value": "P. Hendricks"
+            "value": "K. Dominguez"
           },
           "cause_code": {
             "value": "70"
@@ -1334,7 +1306,7 @@
             "value": "BWC-2024-044605"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2024-03-05",
@@ -1363,18 +1335,14 @@
             "rendered_as": "03/11/2024"
           },
           "description": {
-            "value": "Employee\u2019s suffered a\u2019fracture of the lateral malleolus to the left ankle while climbing down from the truck cab and missing the bottom step. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
+            "value": "Employee’s suffered a’fracture of the lateral malleolus to the left ankle while climbing down from the truck cab and missing the bottom step. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
           },
           "close_date": {
             "value": "2025-02-02",
             "rendered_as": "02/02/2025"
           },
           "examiner": {
-            "value": "A. Fitzgerald"
-          },
-          "recovery_amount": {
-            "value": 23677.34,
-            "rendered_as": "$23,677.34"
+            "value": "M. Kowalski"
           },
           "cause_code": {
             "value": "71"
@@ -1456,14 +1424,14 @@
             "rendered_as": "03/14/2024"
           },
           "description": {
-            "value": "Employee sustained a herniated disc at C5-C6 to the cervical spine while\u2014involved in a rear-end collision while\u2014driving a company vehicle. The employee was prescribed rest, ice, and a follow-up with a specialist."
+            "value": "Employee sustained a herniated disc at C5-C6 to the cervical spine while—involved in a rear-end collision while—driving a company vehicle. The employee was prescribed rest, ice, and a follow-up with a specialist."
           },
           "close_date": {
             "value": "2024-09-17",
             "rendered_as": "09/17/2024"
           },
           "examiner": {
-            "value": "J. Sullivan"
+            "value": "P. Hendricks"
           },
           "cause_code": {
             "value": "74"
@@ -1516,7 +1484,7 @@
             "value": "BWC-2024-049381"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2024-05-06",
@@ -1545,14 +1513,14 @@
             "rendered_as": "05/12/2024"
           },
           "description": {
-            "value": "Employee\u2019s suffered a muscle spasm to the upper back while pushing a loaded hand truck up a ramp."
+            "value": "Employee’s suffered a muscle spasm to the upper back while pushing a loaded hand truck up a ramp."
           },
           "close_date": {
             "value": "2024-10-19",
             "rendered_as": "10/19/2024"
           },
           "examiner": {
-            "value": "M. Kowalski"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "73"
@@ -1605,14 +1573,14 @@
             "value": "BWC-2024-045079"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2024-05-25",
             "rendered_as": "05/25/2024"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -1622,29 +1590,26 @@
             "rendered_as": "$34,927.29"
           },
           "total_reserved": {
-            "value": 3745.94,
-            "rendered_as": "$3,745.94"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 38673.23,
-            "rendered_as": "$38,673.23"
+            "value": 34927.29,
+            "rendered_as": "$34,927.29"
           },
           "date_reported": {
             "value": "2024-05-29",
             "rendered_as": "05/29/2024"
           },
           "description": {
-            "value": "Employee suffered a strain to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while changing a tire on the roadside using a manual tire iron. Imaging confirmed the injury\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 and the employee was placed on restricted duty pending specialist evaluation."
+            "value": "Employee suffered a strain to the​​​​​​​​ lower back while changing a tire on the roadside using a manual tire iron. Imaging confirmed the injury……………………………………………… and the employee was placed on restricted duty pending specialist evaluation."
           },
           "close_date": {
-            "value": null
+            "value": "2024-10-26",
+            "rendered_as": "10/26/2024"
           },
           "examiner": {
-            "value": "A. Fitzgerald"
-          },
-          "recovery_amount": {
-            "value": 3745.94,
-            "rendered_as": "$3,745.94"
+            "value": "M. Kowalski"
           },
           "cause_code": {
             "value": "73"
@@ -1682,8 +1647,8 @@
             "rendered_as": "$1,384.91"
           },
           "reserve": {
-            "value": 3745.94,
-            "rendered_as": "$3,745.94"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "7380"
@@ -1726,14 +1691,14 @@
             "rendered_as": "08/17/2024"
           },
           "description": {
-            "value": "Employee\u2019s sustained a fracture of the right wrist after falling from a portable ladder while\u2014performing a DOT-required vehicle inspection. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
+            "value": "Employee’s sustained a fracture of the right wrist after falling from a portable ladder while—performing a DOT-required vehicle inspection. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
           },
           "close_date": {
             "value": "2025-10-27",
             "rendered_as": "10/27/2025"
           },
           "examiner": {
-            "value": "M. Kowalski"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "71"
@@ -1786,7 +1751,7 @@
             "value": "BWC-2024-047724"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2024-09-01",
@@ -1815,14 +1780,14 @@
             "rendered_as": "09/14/2024"
           },
           "description": {
-            "value": "Employee\u2019s suffered a laceration to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left forearm while securing cargo straps and a frayed strap end snapped back. Emergency wound closure and suturing were performed, with a follow-up course of antibiotics."
+            "value": "Employee’s suffered a laceration to the​​​​​​​​​​​​​​​​​​ left forearm while securing cargo straps and a frayed strap end snapped back. Emergency wound closure and suturing were performed, with a follow-up course of antibiotics."
           },
           "close_date": {
             "value": "2025-04-23",
             "rendered_as": "04/23/2025"
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "69"
@@ -1875,7 +1840,7 @@
             "value": "BWC-2024-046595"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2024-10-16",
@@ -1904,13 +1869,13 @@
             "rendered_as": "10/19/2024"
           },
           "description": {
-            "value": "Employee\u2019s sustained a burn to the left hand while checking the radiator cap on a hot engine during a roadside breakdown. Burn care including debridement and topical treatment was provided at the regional burn center."
+            "value": "Employee’s sustained a burn to the left hand while checking the radiator cap on a hot engine during a roadside breakdown. Burn care including debridement and topical treatment was provided at the regional burn center."
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "08"
@@ -1970,7 +1935,7 @@
             "rendered_as": "07/10/2025"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -1980,29 +1945,26 @@
             "rendered_as": "$35,274.32"
           },
           "total_reserved": {
-            "value": 408.74,
-            "rendered_as": "$408.74"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 35683.06,
-            "rendered_as": "$35,683.06"
+            "value": 35274.32,
+            "rendered_as": "$35,274.32"
           },
           "date_reported": {
             "value": "2025-07-24",
             "rendered_as": "07/24/2025"
           },
           "description": {
-            "value": "Employee suffered a\u2019contusion to the left hip after slipping on diesel fuel at the fueling island while\u2014refueling the tractor. Treatment included physical therapy and a\u2019course of anti-inflammatory medication."
+            "value": "Employee suffered a’contusion to the left hip after slipping on diesel fuel at the fueling island while—refueling the tractor. Treatment included physical therapy and a’course of anti-inflammatory medication."
           },
           "close_date": {
-            "value": null
+            "value": "2025-09-21",
+            "rendered_as": "09/21/2025"
           },
           "examiner": {
-            "value": "M. Kowalski"
-          },
-          "recovery_amount": {
-            "value": 12750.11,
-            "rendered_as": "$12,750.11"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "72"
@@ -2040,8 +2002,8 @@
             "rendered_as": "$1,339.98"
           },
           "reserve": {
-            "value": 408.74,
-            "rendered_as": "$408.74"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "7219"
@@ -2084,13 +2046,13 @@
             "rendered_as": "11/19/2025"
           },
           "description": {
-            "value": "Employee sustained a\u2019laceration............"
+            "value": "Employee sustained a’laceration............"
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "70"
@@ -2143,7 +2105,7 @@
             "value": "SIC-2025-045770"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2025-11-25",
@@ -2160,25 +2122,25 @@
             "rendered_as": "$16,633.28"
           },
           "total_reserved": {
-            "value": 10147.84,
-            "rendered_as": "$10,147.84"
+            "value": 10073.47,
+            "rendered_as": "$10,073.47"
           },
           "total_incurred": {
-            "value": 26781.12,
-            "rendered_as": "$26,781.12"
+            "value": 26706.75,
+            "rendered_as": "$26,706.75"
           },
           "date_reported": {
             "value": "2025-12-04",
             "rendered_as": "12/04/2025"
           },
           "description": {
-            "value": "Employee suffered a\u2019strain to the right shoulder while\u2014coupling the fifth wheel connection during a\u2019trailer hookup. MRI confirmed the injury and the employee was referred for physical therapy."
+            "value": "Employee suffered a’strain to the right shoulder while—coupling the fifth wheel connection during a’trailer hookup. MRI confirmed the injury and the employee was referred for physical therapy."
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "P. Hendricks"
+            "value": "K. Dominguez"
           },
           "litigation_flag": {
             "value": true,
@@ -2226,8 +2188,8 @@
             "rendered_as": "$60.29"
           },
           "reserve": {
-            "value": 10147.84,
-            "rendered_as": "$10,147.84"
+            "value": 10073.47,
+            "rendered_as": "$10,073.47"
           },
           "class_code": {
             "value": "7219"
@@ -2238,10 +2200,10 @@
         },
         {
           "claim_number": {
-            "value": "CNA-2021-046595\u00b2"
+            "value": "CNA-2021-046595²"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2021-01-22",
@@ -2277,7 +2239,7 @@
             "rendered_as": "2022-03-13"
           },
           "examiner": {
-            "value": "M. Kowalski"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "01"
@@ -2329,7 +2291,7 @@
             "value": "CNA-2021-043815"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2021-05-31",
@@ -2358,14 +2320,14 @@
             "rendered_as": "2021-06-11"
           },
           "description": {
-            "value": "A window washer was struck by a piece of exterior signage that came loose from the\u00a0building facade."
+            "value": "A window washer was struck by a piece of exterior signage that came loose from the building facade."
           },
           "close_date": {
             "value": "2021-11-25",
             "rendered_as": "2021-11-25"
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "13"
@@ -2417,7 +2379,7 @@
             "value": "HTF-2023-045032"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2023-10-12",
@@ -2446,14 +2408,14 @@
             "rendered_as": "2023-11-08"
           },
           "description": {
-            "value": "A vendor's vehicle was damaged by a falling cargo strap from one of the\u00a0insured's parked trailers."
+            "value": "A vendor's vehicle was damaged by a falling cargo strap from one of the insured's parked trailers."
           },
           "close_date": {
             "value": "2023-12-05",
             "rendered_as": "2023-12-05"
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "12"
@@ -2505,7 +2467,7 @@
             "value": "HIG-2024-043842"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2024-08-19",
@@ -2534,14 +2496,14 @@
             "rendered_as": "2024-09-03"
           },
           "description": {
-            "value": "A visitor tripped over a raised carpet edge in the\u00a0main aisle of the\u00a0facility and dislocated their shoulder."
+            "value": "A visitor tripped over a raised carpet edge in the main aisle of the facility and dislocated their shoulder."
           },
           "close_date": {
             "value": "2025-12-24",
             "rendered_as": "2025-12-24"
           },
           "examiner": {
-            "value": "M. Kowalski"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "01"
@@ -2593,7 +2555,7 @@
             "value": "CNA-2021-047724"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2021-01-10",
@@ -2622,14 +2584,14 @@
             "rendered_as": "Jan 20, 2021"
           },
           "description": {
-            "value": "Company vehicle T-boned a\u2019tractor near a\u2019construction zone, causing front grille and headlight damage."
+            "value": "Company vehicle T-boned a’tractor near a’construction zone, causing front grille and headlight damage."
           },
           "close_date": {
             "value": "2021-02-14",
             "rendered_as": "Feb 14, 2021"
           },
           "examiner": {
-            "value": "A. Fitzgerald"
+            "value": "M. Kowalski"
           },
           "cause_code": {
             "value": "20"
@@ -2709,14 +2671,14 @@
             "rendered_as": "Jul 09, 2021"
           },
           "description": {
-            "value": "Company service tractor was struck by a\u2026"
+            "value": "Company service tractor was struck by a…"
           },
           "close_date": {
             "value": "2021-12-19",
             "rendered_as": "Dec 19, 2021"
           },
           "examiner": {
-            "value": "M. Kowalski"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "25"
@@ -2764,10 +2726,10 @@
         },
         {
           "claim_number": {
-            "value": "MRK-2021-045459\u00b3"
+            "value": "MRK-2021-045459³"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2021-08-10",
@@ -2796,14 +2758,14 @@
             "rendered_as": "Aug 11, 2021"
           },
           "description": {
-            "value": "A tractor failed to brake in time at\u2026"
+            "value": "A tractor failed to brake in time at…"
           },
           "close_date": {
             "value": "2021-12-21",
             "rendered_as": "Dec 21, 2021"
           },
           "examiner": {
-            "value": "P. Hendricks"
+            "value": "K. Dominguez"
           },
           "cause_code": {
             "value": "13"
@@ -2854,7 +2816,7 @@
             "value": "MRK-2022-053912"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2022-03-23",
@@ -2890,7 +2852,7 @@
             "rendered_as": "Sep 03, 2022"
           },
           "examiner": {
-            "value": "J. Sullivan"
+            "value": "P. Hendricks"
           },
           "cause_code": {
             "value": "20"
@@ -2941,7 +2903,7 @@
             "value": "AOI-2022-053107"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2022-07-30",
@@ -2977,7 +2939,7 @@
             "rendered_as": "Dec 21, 2023"
           },
           "examiner": {
-            "value": "M. Kowalski"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "20"
@@ -3028,7 +2990,7 @@
             "value": "AOI-2022-046595"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2022-11-01",
@@ -3057,14 +3019,14 @@
             "rendered_as": "Nov 07, 2022"
           },
           "description": {
-            "value": "Company courier vehicle T-boned a\u2019tractor on a\u2019residential street, causing front bumper and hood damage."
+            "value": "Company courier vehicle T-boned a’tractor on a’residential street, causing front bumper and hood damage."
           },
           "close_date": {
             "value": "2023-04-11",
             "rendered_as": "Apr 11, 2023"
           },
           "examiner": {
-            "value": "J. Sullivan"
+            "value": "P. Hendricks"
           },
           "cause_code": {
             "value": "20"
@@ -3115,7 +3077,7 @@
             "value": "LMI-2023-047267"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2023-06-30",
@@ -3144,13 +3106,13 @@
             "rendered_as": "Jul 01, 2023"
           },
           "description": {
-            "value": "A fleet box truck reversed\u2026"
+            "value": "A fleet box truck reversed…"
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "A. Fitzgerald"
+            "value": "M. Kowalski"
           },
           "recovery_amount": {
             "value": 170197.78,
@@ -3240,7 +3202,7 @@
             "value": null
           },
           "examiner": {
-            "value": "A. Fitzgerald"
+            "value": "M. Kowalski"
           },
           "cause_code": {
             "value": "20"
@@ -3291,7 +3253,7 @@
             "value": "LMI-2023-043815"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2023-11-29",
@@ -3327,7 +3289,7 @@
             "rendered_as": "Mar 29, 2024"
           },
           "examiner": {
-            "value": "J. Sullivan"
+            "value": "P. Hendricks"
           },
           "cause_code": {
             "value": "13"
@@ -3407,14 +3369,14 @@
             "rendered_as": "Dec 29, 2023"
           },
           "description": {
-            "value": "The company's tractor was\u2026"
+            "value": "The company's tractor was…"
           },
           "close_date": {
             "value": "2024-03-21",
             "rendered_as": "Mar 21, 2024"
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "20"
@@ -3465,7 +3427,7 @@
             "value": "LMI-2024-045032"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2024-02-11",
@@ -3494,14 +3456,14 @@
             "rendered_as": "Feb 24, 2024"
           },
           "description": {
-            "value": "A tractor underestimated a\u2026"
+            "value": "A tractor underestimated a…"
           },
           "close_date": {
             "value": "2024-07-04",
             "rendered_as": "Jul 04, 2024"
           },
           "examiner": {
-            "value": "P. Hendricks"
+            "value": "K. Dominguez"
           },
           "recovery_amount": {
             "value": 28621.95,
@@ -3556,7 +3518,7 @@
             "value": "TRV-2024-044220"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2024-07-18",
@@ -3585,14 +3547,14 @@
             "rendered_as": "Jul 19, 2024"
           },
           "description": {
-            "value": "A tractor jackknifed on a\u2019wet highway, causing a\u2019multi-vehicle pileup involving four cars. Seven individuals reported injuries ranging from whiplash to spinal compression fractures. Combined bodily injury claims were filed across multiple parties."
+            "value": "A tractor jackknifed on a’wet highway, causing a’multi-vehicle pileup involving four cars. Seven individuals reported injuries ranging from whiplash to spinal compression fractures. Combined bodily injury claims were filed across multiple parties."
           },
           "close_date": {
             "value": "2024-10-23",
             "rendered_as": "Oct 23, 2024"
           },
           "examiner": {
-            "value": "K. Dominguez"
+            "value": "A. Fitzgerald"
           },
           "cause_code": {
             "value": "13"
@@ -3643,7 +3605,7 @@
             "value": "TRV-2025-046142"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2025-01-28",
@@ -3672,13 +3634,13 @@
             "rendered_as": "Jan 30, 2025"
           },
           "description": {
-            "value": "A tractor driver lost control\u2026"
+            "value": "A tractor driver lost control…"
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "P. Hendricks"
+            "value": "K. Dominguez"
           },
           "recovery_amount": {
             "value": 87324.61,
@@ -3733,7 +3695,7 @@
             "value": "TRV-2025-045269"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2025-04-06",
@@ -3762,13 +3724,13 @@
             "rendered_as": "Apr 14, 2025"
           },
           "description": {
-            "value": "A box truck carrying unsecured\u2026\u2026\u2026\u2026\u2026......"
+            "value": "A box truck carrying unsecured……………......"
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "P. Hendricks"
+            "value": "K. Dominguez"
           },
           "cause_code": {
             "value": "13"
@@ -3819,7 +3781,7 @@
             "value": "TRV-2025-055365"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2025-05-29",
@@ -3854,7 +3816,7 @@
             "value": null
           },
           "examiner": {
-            "value": "M. Kowalski"
+            "value": "J. Sullivan"
           },
           "litigation_flag": {
             "value": true,
@@ -3933,7 +3895,7 @@
           },
           "total_reserved": {
             "value": 0.0,
-            "rendered_as": "\u2014"
+            "rendered_as": "—"
           },
           "total_incurred": {
             "value": 54191.29,
@@ -3944,7 +3906,7 @@
             "rendered_as": "19-Feb-2021"
           },
           "description": {
-            "value": "A failed sump pump during\u2026"
+            "value": "A failed sump pump during…"
           },
           "close_date": {
             "value": "2021-04-14",
@@ -3981,12 +3943,12 @@
           },
           "reserve": {
             "value": 0.0,
-            "rendered_as": "\u2014"
+            "rendered_as": "—"
           }
         },
         {
           "claim_number": {
-            "value": "AIG-2022-044220\u00b9"
+            "value": "AIG-2022-044220¹"
           },
           "claimant": {
             "value": "Great Lakes Freight Systems, Inc."
@@ -4018,14 +3980,14 @@
             "rendered_as": "10/26/2022"
           },
           "description": {
-            "value": "Vandals breached trailer at\u2026"
+            "value": "Vandals breached trailer at…"
           },
           "close_date": {
             "value": "2023-02-05",
             "rendered_as": "02/05/2023"
           },
           "examiner": {
-            "value": "M. Kowalski"
+            "value": "J. Sullivan"
           },
           "cause_code": {
             "value": "34"
@@ -4071,12 +4033,12 @@
             "rendered_as": "$826,622.56"
           },
           "total_reserved": {
-            "value": 69673.42,
-            "rendered_as": "$69,673.42"
+            "value": 62162.5,
+            "rendered_as": "$62,162.50"
           },
           "total_incurred": {
-            "value": 896295.98,
-            "rendered_as": "$896,295.98"
+            "value": 888785.06,
+            "rendered_as": "$888,785.06"
           }
         },
         {
@@ -4117,7 +4079,7 @@
           },
           "total_reserved": {
             "value": 0.0,
-            "rendered_as": "\u2014"
+            "rendered_as": "—"
           },
           "total_incurred": {
             "value": 54191.29,
@@ -4161,12 +4123,12 @@
           "rendered_as": "$1,319,226.33"
         },
         "total_reserved": {
-          "value": 131846.98,
-          "rendered_as": "$131,846.98"
+          "value": 124336.06,
+          "rendered_as": "$124,336.06"
         },
         "total_incurred": {
-          "value": 1451073.31,
-          "rendered_as": "$1,451,073.31"
+          "value": 1443562.39,
+          "rendered_as": "$1,443,562.39"
         }
       },
       "excel_metadata": {
@@ -4217,27 +4179,27 @@
           },
           {
             "range": "A12:P12",
-            "value": "WC \u2014 Policy WC GLFS 2025 8820 \u2014 06/01/2025 to 06/01/2026"
+            "value": "WC — Policy WC GLFS 2025 8820 — 06/01/2025 to 06/01/2026"
           },
           {
             "range": "A39:P39",
-            "value": "GENERAL LIABILITY \u2014 Policy gl GLFS 2025 8821 \u2014 06/01/2025 to 06/01/2026"
+            "value": "GENERAL LIABILITY — Policy gl GLFS 2025 8821 — 06/01/2025 to 06/01/2026"
           },
           {
             "range": "A46:P46",
-            "value": "BUSINESS AUTO \u2014 Policy CAGLFS20258822 \u2014 06/01/2025 to 06/01/2026"
+            "value": "BUSINESS AUTO — Policy CAGLFS20258822 — 06/01/2025 to 06/01/2026"
           },
           {
             "range": "A64:P64",
-            "value": "COMMERCIAL PROPERTY \u2014 Policy cpGLFS20258823 \u2014 06/01/2025 to 06/01/2026"
+            "value": "COMMERCIAL PROPERTY — Policy cpGLFS20258823 — 06/01/2025 to 06/01/2026"
           },
           {
             "range": "A68:P68",
-            "value": "EXCESS LIABILITY \u2014 Policy SIC CU025454 \u2014 06/01/2025 to 06/01/2026"
+            "value": "EXCESS LIABILITY — Policy SIC CU025454 — 06/01/2025 to 06/01/2026"
           },
           {
             "range": "A70:P70",
-            "value": "MTC \u2014 Policy SICMT032788 \u2014 06/01/2025 to 06/01/2026"
+            "value": "MTC — Policy SICMT032788 — 06/01/2025 to 06/01/2026"
           },
           {
             "range": "A75:P75",
@@ -4426,43 +4388,35 @@
       "insured_zip": "43215",
       "carrier_name": "Standard Insurance Company",
       "policy_period_start": "2025-06-01",
-      "policy_period_end": "2026-06-01",
-      "policy_numbers": {
-        "wc": "WC GLFS 2025 8820",
-        "gl": "gl GLFS 2025 8821",
-        "auto": "CAGLFS20258822",
-        "property": "cpGLFS20258823",
-        "umbrella": "SIC CU025454",
-        "mtc": "SICMT032788"
-      }
+      "policy_period_end": "2026-06-01"
     },
     "claims": [
       {
         "claim_number": "BWC-2021-049200",
         "date_of_loss": "2021-06-19",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "wc",
         "paid": 17461.16,
         "reserved": 0.0,
         "incurred": 17461.16,
-        "description": "Employee sustained a\u2019thoracic strain to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b upper back while pushing a\u2019loaded hand truck up a\u2019ramp. The injury required a\u2019splint and modified work duties for 4 weeks."
+        "description": "Employee sustained a’thoracic strain to the​​​​​​​​​​​​​​​​​​​​​​​​​​ upper back while pushing a’loaded hand truck up a’ramp. The injury required a’splint and modified work duties for 4 weeks."
       },
       {
         "claim_number": "BWC-2021-046142",
         "date_of_loss": "2021-10-14",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "wc",
         "paid": 25450.76,
         "reserved": 0.0,
         "incurred": 25450.76,
-        "description": "Employee sustained a sprain\u2026"
+        "description": "Employee sustained a sprain…"
       },
       {
         "claim_number": "BWC-2022-050407",
         "date_of_loss": "2022-02-24",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "wc",
         "paid": 90342.44,
@@ -4473,35 +4427,35 @@
       {
         "claim_number": "BWC-2022-049655",
         "date_of_loss": "2022-05-07",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Closed",
         "coverage": "wc",
         "paid": 15618.14,
         "reserved": 0.0,
         "incurred": 15618.14,
-        "description": "Employee sustained a\u2019neck sprain with radiating pain to the cervical spine while involved in a\u2019rear-end collision while driving a\u2019company vehicle."
+        "description": "Employee sustained a’neck sprain with radiating pain to the cervical spine while involved in a’rear-end collision while driving a’company vehicle."
       },
       {
-        "claim_number": "BWC-2022-047955\u2020",
+        "claim_number": "BWC-2022-047955†",
         "date_of_loss": "2022-06-07",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "wc",
         "paid": 17497.0,
         "reserved": 0.0,
         "incurred": 17497.0,
-        "description": "Employee suffered a\u2019lumbar strain to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while operating a\u2019pallet jack to move freight at the loading dock. The employee was prescribed rest, ice, and a\u2019follow-up with a\u2019specialist."
+        "description": "Employee suffered a’lumbar strain to the​​​​​​​​​​​​​​​​​​ lower back while operating a’pallet jack to move freight at the loading dock. The employee was prescribed rest, ice, and a’follow-up with a’specialist."
       },
       {
         "claim_number": "BWC-2022-043842",
         "date_of_loss": "2022-06-21",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "wc",
         "paid": 53718.84,
         "reserved": 0.0,
         "incurred": 53718.84,
-        "description": "Employee sustained a fracture\u2026"
+        "description": "Employee sustained a fracture…"
       },
       {
         "claim_number": "BWC-2022-043815",
@@ -4512,51 +4466,51 @@
         "paid": 16614.39,
         "reserved": 0.0,
         "incurred": 16614.39,
-        "description": "Employee sustained a\u2019contusion to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b right knee after\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 slipping on the truck step while\u2014entering the cab during wet weather conditions. The employee was prescribed rest, ice, and a\u2019follow-up with a\u2019specialist."
+        "description": "Employee sustained a’contusion to the​​​​​​​​ right knee after–––––––––––––––––– slipping on the truck step while—entering the cab during wet weather conditions. The employee was prescribed rest, ice, and a’follow-up with a’specialist."
       },
       {
         "claim_number": "BWC-2022-047267",
         "date_of_loss": "2022-07-08",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Subrogation",
         "coverage": "wc",
         "paid": 28999.29,
         "reserved": 2069.73,
         "incurred": 31069.02,
-        "description": "Employee\u2019s suffered a contusion to the\u00a0head when struck by the\u00a0raised trailer door while\u2014standing in the\u00a0loading area. The employee was evaluated in the\u00a0emergency department and placed on restricted duty."
+        "description": "Employee’s suffered a contusion to the head when struck by the raised trailer door while—standing in the loading area. The employee was evaluated in the emergency department and placed on restricted duty."
       },
       {
         "claim_number": "BWC-2022-045032",
         "date_of_loss": "2022-10-01",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "wc",
         "paid": 18482.93,
         "reserved": 0.0,
         "incurred": 18482.93,
-        "description": "Employee sustained a\u2019strain to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left shoulder while\u2014cranking the trailer landing gear during an uncoupling operation. Occupational therapy was recommended for a\u2019period of 12 weeks."
+        "description": "Employee sustained a’strain to the​​​​​​​​ left shoulder while—cranking the trailer landing gear during an uncoupling operation. Occupational therapy was recommended for a’period of 12 weeks."
       },
       {
         "claim_number": "BWC-2022-045459",
         "date_of_loss": "2022-11-05",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Denied",
         "coverage": "wc",
         "paid": 0.0,
         "reserved": 0.0,
         "incurred": 0.0,
-        "description": "Employee\u2019s suffered a herniated disc at L4-L5 to the\u00a0lower back attributed to prolonged whole-body vibration from extended driving shifts. The employee underwent a 12-week course of physical therapy and pain management."
+        "description": "Employee’s suffered a herniated disc at L4-L5 to the lower back attributed to prolonged whole-body vibration from extended driving shifts. The employee underwent a 12-week course of physical therapy and pain management."
       },
       {
         "claim_number": "BWC-2023-048838",
         "date_of_loss": "2023-05-07",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Closed",
         "coverage": "wc",
         "paid": 51867.56,
         "reserved": 0.0,
         "incurred": 51867.56,
-        "description": "Employee\u2019s experienced a vertebral compression fracture to the upper back while pushing a loaded hand truck up a ramp. Employee\u2019s was transported to the ER and treated with immobilization and pain management."
+        "description": "Employee’s experienced a vertebral compression fracture to the upper back while pushing a loaded hand truck up a ramp. Employee’s was transported to the ER and treated with immobilization and pain management."
       },
       {
         "claim_number": "BWC-2023-045269",
@@ -4567,18 +4521,18 @@
         "paid": 6553.27,
         "reserved": 149.45,
         "incurred": 6702.72,
-        "description": "Employee suffered a\u2019contusion to the right shoulder after\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 being struck by shifting cargo that broke free during transit. Emergency medical treatment was administered on-site before transport to the hospital."
+        "description": "Employee suffered a’contusion to the right shoulder after–––––––– being struck by shifting cargo that broke free during transit. Emergency medical treatment was administered on-site before transport to the hospital."
       },
       {
         "claim_number": "BWC-2023-049778",
         "date_of_loss": "2023-12-31",
         "claimant": "Justin Morales",
-        "status": "Subrogation",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 31498.4,
-        "reserved": 3281.87,
-        "incurred": 34780.27,
-        "description": "Employee experienced a\u2019lumbar......"
+        "reserved": 0.0,
+        "incurred": 31498.4,
+        "description": "Employee experienced a’lumbar......"
       },
       {
         "claim_number": "BWC-2024-046807",
@@ -4589,18 +4543,18 @@
         "paid": 102651.36,
         "reserved": 0.0,
         "incurred": 102651.36,
-        "description": "Employee sustained a\u2019crush injury to the index finger of the right hand while\u2014operating the trailer door latch mechanism. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
+        "description": "Employee sustained a’crush injury to the index finger of the right hand while—operating the trailer door latch mechanism. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
       },
       {
         "claim_number": "BWC-2024-044605",
         "date_of_loss": "2024-03-05",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "wc",
         "paid": 47302.93,
         "reserved": 0.0,
         "incurred": 47302.93,
-        "description": "Employee\u2019s suffered a\u2019fracture of the lateral malleolus to the left ankle while climbing down from the truck cab and missing the bottom step. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
+        "description": "Employee’s suffered a’fracture of the lateral malleolus to the left ankle while climbing down from the truck cab and missing the bottom step. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
       },
       {
         "claim_number": "BWC-2024-049130",
@@ -4611,29 +4565,29 @@
         "paid": 30000.56,
         "reserved": 0.0,
         "incurred": 30000.56,
-        "description": "Employee sustained a herniated disc at C5-C6 to the cervical spine while\u2014involved in a rear-end collision while\u2014driving a company vehicle. The employee was prescribed rest, ice, and a follow-up with a specialist."
+        "description": "Employee sustained a herniated disc at C5-C6 to the cervical spine while—involved in a rear-end collision while—driving a company vehicle. The employee was prescribed rest, ice, and a follow-up with a specialist."
       },
       {
         "claim_number": "BWC-2024-049381",
         "date_of_loss": "2024-05-06",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "wc",
         "paid": 12629.13,
         "reserved": 0.0,
         "incurred": 12629.13,
-        "description": "Employee\u2019s suffered a muscle spasm to the upper back while pushing a loaded hand truck up a ramp."
+        "description": "Employee’s suffered a muscle spasm to the upper back while pushing a loaded hand truck up a ramp."
       },
       {
         "claim_number": "BWC-2024-045079",
         "date_of_loss": "2024-05-25",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
-        "status": "Subrogation",
+        "claimant": "محمد العربي",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 34927.29,
-        "reserved": 3745.94,
-        "incurred": 38673.23,
-        "description": "Employee suffered a strain to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while changing a tire on the roadside using a manual tire iron. Imaging confirmed the injury\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 and the employee was placed on restricted duty pending specialist evaluation."
+        "reserved": 0.0,
+        "incurred": 34927.29,
+        "description": "Employee suffered a strain to the​​​​​​​​ lower back while changing a tire on the roadside using a manual tire iron. Imaging confirmed the injury……………………………………………… and the employee was placed on restricted duty pending specialist evaluation."
       },
       {
         "claim_number": "BWC-2024-048369",
@@ -4644,40 +4598,40 @@
         "paid": 40371.61,
         "reserved": 0.0,
         "incurred": 40371.61,
-        "description": "Employee\u2019s sustained a fracture of the right wrist after falling from a portable ladder while\u2014performing a DOT-required vehicle inspection. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
+        "description": "Employee’s sustained a fracture of the right wrist after falling from a portable ladder while—performing a DOT-required vehicle inspection. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
       },
       {
         "claim_number": "BWC-2024-047724",
         "date_of_loss": "2024-09-01",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "wc",
         "paid": 32988.2,
         "reserved": 0.0,
         "incurred": 32988.2,
-        "description": "Employee\u2019s suffered a laceration to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left forearm while securing cargo straps and a frayed strap end snapped back. Emergency wound closure and suturing were performed, with a follow-up course of antibiotics."
+        "description": "Employee’s suffered a laceration to the​​​​​​​​​​​​​​​​​​ left forearm while securing cargo straps and a frayed strap end snapped back. Emergency wound closure and suturing were performed, with a follow-up course of antibiotics."
       },
       {
         "claim_number": "BWC-2024-046595",
         "date_of_loss": "2024-10-16",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Open",
         "coverage": "wc",
         "paid": 67913.0,
         "reserved": 33956.5,
         "incurred": 101869.5,
-        "description": "Employee\u2019s sustained a burn to the left hand while checking the radiator cap on a hot engine during a roadside breakdown. Burn care including debridement and topical treatment was provided at the regional burn center."
+        "description": "Employee’s sustained a burn to the left hand while checking the radiator cap on a hot engine during a roadside breakdown. Burn care including debridement and topical treatment was provided at the regional burn center."
       },
       {
         "claim_number": "SIC-2025-047182",
         "date_of_loss": "2025-07-10",
         "claimant": "Jason Evans",
-        "status": "Subrogation",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 35274.32,
-        "reserved": 408.74,
-        "incurred": 35683.06,
-        "description": "Employee suffered a\u2019contusion to the left hip after slipping on diesel fuel at the fueling island while\u2014refueling the tractor. Treatment included physical therapy and a\u2019course of anti-inflammatory medication."
+        "reserved": 0.0,
+        "incurred": 35274.32,
+        "description": "Employee suffered a’contusion to the left hip after slipping on diesel fuel at the fueling island while—refueling the tractor. Treatment included physical therapy and a’course of anti-inflammatory medication."
       },
       {
         "claim_number": "SIC-2025-044220",
@@ -4688,23 +4642,23 @@
         "paid": 31826.7,
         "reserved": 15913.35,
         "incurred": 47740.05,
-        "description": "Employee sustained a\u2019laceration............"
+        "description": "Employee sustained a’laceration............"
       },
       {
         "claim_number": "SIC-2025-045770",
         "date_of_loss": "2025-11-25",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Open",
         "coverage": "wc",
         "paid": 16633.28,
-        "reserved": 10147.84,
-        "incurred": 26781.12,
-        "description": "Employee suffered a\u2019strain to the right shoulder while\u2014coupling the fifth wheel connection during a\u2019trailer hookup. MRI confirmed the injury and the employee was referred for physical therapy."
+        "reserved": 10073.47,
+        "incurred": 26706.75,
+        "description": "Employee suffered a’strain to the right shoulder while—coupling the fifth wheel connection during a’trailer hookup. MRI confirmed the injury and the employee was referred for physical therapy."
       },
       {
-        "claim_number": "CNA-2021-046595\u00b2",
+        "claim_number": "CNA-2021-046595²",
         "date_of_loss": "2021-01-22",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "gl",
         "paid": 15406.74,
@@ -4715,46 +4669,46 @@
       {
         "claim_number": "CNA-2021-043815",
         "date_of_loss": "2021-05-31",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "gl",
         "paid": 7917.31,
         "reserved": 0.0,
         "incurred": 7917.31,
-        "description": "A window washer was struck by a piece of exterior signage that came loose from the\u00a0building facade."
+        "description": "A window washer was struck by a piece of exterior signage that came loose from the building facade."
       },
       {
         "claim_number": "HTF-2023-045032",
         "date_of_loss": "2023-10-12",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "gl",
         "paid": 9626.9,
         "reserved": 0.0,
         "incurred": 9626.9,
-        "description": "A vendor's vehicle was damaged by a falling cargo strap from one of the\u00a0insured's parked trailers."
+        "description": "A vendor's vehicle was damaged by a falling cargo strap from one of the insured's parked trailers."
       },
       {
         "claim_number": "HIG-2024-043842",
         "date_of_loss": "2024-08-19",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "gl",
         "paid": 14168.83,
         "reserved": 0.0,
         "incurred": 14168.83,
-        "description": "A visitor tripped over a raised carpet edge in the\u00a0main aisle of the\u00a0facility and dislocated their shoulder."
+        "description": "A visitor tripped over a raised carpet edge in the main aisle of the facility and dislocated their shoulder."
       },
       {
         "claim_number": "CNA-2021-047724",
         "date_of_loss": "2021-01-10",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "auto",
         "paid": 11376.14,
         "reserved": 0.0,
         "incurred": 11376.14,
-        "description": "Company vehicle T-boned a\u2019tractor near a\u2019construction zone, causing front grille and headlight damage."
+        "description": "Company vehicle T-boned a’tractor near a’construction zone, causing front grille and headlight damage."
       },
       {
         "claim_number": "MRK-2021-049381",
@@ -4765,23 +4719,23 @@
         "paid": 0.0,
         "reserved": 0.0,
         "incurred": 0.0,
-        "description": "Company service tractor was struck by a\u2026"
+        "description": "Company service tractor was struck by a…"
       },
       {
-        "claim_number": "MRK-2021-045459\u00b3",
+        "claim_number": "MRK-2021-045459³",
         "date_of_loss": "2021-08-10",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Denied",
         "coverage": "auto",
         "paid": 0.0,
         "reserved": 0.0,
         "incurred": 0.0,
-        "description": "A tractor failed to brake in time at\u2026"
+        "description": "A tractor failed to brake in time at…"
       },
       {
         "claim_number": "MRK-2022-053912",
         "date_of_loss": "2022-03-23",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Closed",
         "coverage": "auto",
         "paid": 63692.15,
@@ -4792,7 +4746,7 @@
       {
         "claim_number": "AOI-2022-053107",
         "date_of_loss": "2022-07-30",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Closed",
         "coverage": "auto",
         "paid": 63826.19,
@@ -4803,24 +4757,24 @@
       {
         "claim_number": "AOI-2022-046595",
         "date_of_loss": "2022-11-01",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "auto",
         "paid": 16196.84,
         "reserved": 0.0,
         "incurred": 16196.84,
-        "description": "Company courier vehicle T-boned a\u2019tractor on a\u2019residential street, causing front bumper and hood damage."
+        "description": "Company courier vehicle T-boned a’tractor on a’residential street, causing front bumper and hood damage."
       },
       {
         "claim_number": "LMI-2023-047267",
         "date_of_loss": "2023-06-30",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Subrogation",
         "coverage": "auto",
         "paid": 14620.62,
         "reserved": 135.31,
         "incurred": 14755.93,
-        "description": "A fleet box truck reversed\u2026"
+        "description": "A fleet box truck reversed…"
       },
       {
         "claim_number": "LMI-2023-054720",
@@ -4836,7 +4790,7 @@
       {
         "claim_number": "LMI-2023-043815",
         "date_of_loss": "2023-11-29",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "auto",
         "paid": 7021.62,
@@ -4853,56 +4807,56 @@
         "paid": 0.0,
         "reserved": 0.0,
         "incurred": 0.0,
-        "description": "The company's tractor was\u2026"
+        "description": "The company's tractor was…"
       },
       {
         "claim_number": "LMI-2024-045032",
         "date_of_loss": "2024-02-11",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "auto",
         "paid": 10341.04,
         "reserved": 0.0,
         "incurred": 10341.04,
-        "description": "A tractor underestimated a\u2026"
+        "description": "A tractor underestimated a…"
       },
       {
         "claim_number": "TRV-2024-044220",
         "date_of_loss": "2024-07-18",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "auto",
         "paid": 161093.25,
         "reserved": 0.0,
         "incurred": 161093.25,
-        "description": "A tractor jackknifed on a\u2019wet highway, causing a\u2019multi-vehicle pileup involving four cars. Seven individuals reported injuries ranging from whiplash to spinal compression fractures. Combined bodily injury claims were filed across multiple parties."
+        "description": "A tractor jackknifed on a’wet highway, causing a’multi-vehicle pileup involving four cars. Seven individuals reported injuries ranging from whiplash to spinal compression fractures. Combined bodily injury claims were filed across multiple parties."
       },
       {
         "claim_number": "TRV-2025-046142",
         "date_of_loss": "2025-01-28",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Subrogation",
         "coverage": "auto",
         "paid": 9466.56,
         "reserved": 115.53,
         "incurred": 9582.09,
-        "description": "A tractor driver lost control\u2026"
+        "description": "A tractor driver lost control…"
       },
       {
         "claim_number": "TRV-2025-045269",
         "date_of_loss": "2025-04-06",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Open",
         "coverage": "auto",
         "paid": 6941.54,
         "reserved": 2700.97,
         "incurred": 9642.51,
-        "description": "A box truck carrying unsecured\u2026\u2026\u2026\u2026\u2026......"
+        "description": "A box truck carrying unsecured……………......"
       },
       {
         "claim_number": "TRV-2025-055365",
         "date_of_loss": "2025-05-29",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Open",
         "coverage": "auto",
         "paid": 10744.11,
@@ -4919,10 +4873,10 @@
         "paid": 54191.29,
         "reserved": 0.0,
         "incurred": 54191.29,
-        "description": "A failed sump pump during\u2026"
+        "description": "A failed sump pump during…"
       },
       {
-        "claim_number": "AIG-2022-044220\u00b9",
+        "claim_number": "AIG-2022-044220¹",
         "date_of_loss": "2022-10-18",
         "claimant": "Great Lakes Freight Systems, Inc.",
         "status": "Closed",
@@ -4930,14 +4884,14 @@
         "paid": 3916.24,
         "reserved": 0.0,
         "incurred": 3916.24,
-        "description": "Vandals breached trailer at\u2026"
+        "description": "Vandals breached trailer at…"
       }
     ],
     "subtotals_by_coverage": {
       "wc": {
         "paid": 826622.5599999999,
-        "reserved": 69673.42,
-        "incurred": 896295.98,
+        "reserved": 62162.5,
+        "incurred": 888785.06,
         "claim_count": 24
       },
       "gl": {
@@ -4967,8 +4921,8 @@
     },
     "grand_totals": {
       "paid": 1319226.33,
-      "reserved": 131846.98,
-      "incurred": 1451073.31,
+      "reserved": 124336.06,
+      "incurred": 1443562.39,
       "claim_count": 45
     },
     "metadata": {

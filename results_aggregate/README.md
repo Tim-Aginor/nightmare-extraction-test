@@ -1,7 +1,7 @@
 # Aggregate Results - 148-document run
 
 Cross-model aggregate outputs from the full 148-document run. These back
-the aggregate tables in the blog post (https://www.aginor.ai/benchmark/)
+the aggregate tables in the blog post (https://www.aginor.ai/extraction-test/)
 without releasing per-doc model extractions for the held-back packets
 (N2-N5).
 
@@ -25,7 +25,7 @@ without releasing per-doc model extractions for the held-back packets
 - **By-category / by-difficulty rate tables**: re-run
   `scripts/hallucination_analysis.py` grouping by the `category` /
   `difficulty` keys already in `hallucination_report.json`.
-- **"Worse than all three on 45 docs"**: direct from
+- **"Worse than all three on 23 docs"**: direct from
   `paired_stats.json → cross_model_agreement_total`.
 - **Paired-comparison counts** (GPT-5.4 worse / better / tied per
   comparator): direct from `paired_stats.json →

@@ -41,22 +41,22 @@ Gemini 3.1 Pro is excluded from default-effort tables - its API default is HIGH 
 
 | Model      | Docs | Numbers Checked | Hallucinated | Rate |
 |------------|------|-----------------|--------------|------|
-| GPT-5.5    | 148  | 5279            | 193          | 3.7% |
-| GPT-5.4    | 148  | 4697            | 184          | 3.9% |
-| Opus 4.7   | 148  | 5629            | 36           | 0.6% |
-| Sonnet 4.6 | 148  | 5972            | 82           | 1.4% |
+| GPT-5.5    | 148  | 5279            | 150          | 2.8% |
+| GPT-5.4    | 148  | 4697            | 152          | 3.2% |
+| Opus 4.7   | 148  | 5629            | 24           | 0.4% |
+| Sonnet 4.6 | 148  | 5972            | 56           | 0.9% |
 
 ### By reasoning effort
 
-GPT-5.4 is the only model whose numeric hallucination rate drops with thinking effort, and even at XHIGH it remains 3-4× the Anthropic/Google baseline. GPT-5.5 (released April 23, 2026) does not reproduce that gradient — its rate is essentially flat across effort levels and at HIGH/XHIGH actually exceeds GPT-5.4. Opus, Sonnet, and Gemini show essentially flat behavior across effort levels.
+GPT-5.4 is the only model whose numeric hallucination rate drops with thinking effort, and even at XHIGH it remains 3-4× the Anthropic/Google baseline. GPT-5.5 (released April 23, 2026) does not reproduce that gradient - its rate is essentially flat across effort levels and at HIGH/XHIGH actually exceeds GPT-5.4. Opus, Sonnet, and Gemini show essentially flat behavior across effort levels.
 
 | Model          | Default | HIGH  | XHIGH |
 |----------------|---------|-------|-------|
-| GPT-5.5        | 3.7%    | 4.2%  | 3.9%  |
-| GPT-5.4        | 3.9%    | 2.5%  | 3.1%* |
-| Opus 4.7       | 0.6%    | 0.7%  | 1.0%  |
-| Sonnet 4.6     | 1.4%    | 1.5%* | 1.4%* |
-| Gemini 3.1 Pro | 0.8%    | 1.2%  | 0.9%  |
+| GPT-5.5        | 2.8%    | 3.3%  | 2.9%  |
+| GPT-5.4        | 3.2%    | 1.6%  | 2.1%* |
+| Opus 4.7       | 0.4%    | 0.5%  | 0.6%  |
+| Sonnet 4.6     | 0.9%    | 1.0%* | 0.9%* |
+| Gemini 3.1 Pro | 0.5%    | 0.9%  | 0.5%  |
 
 \* GPT-5.4 XHIGH: n=146 (excluded 2 timed-out docs)
 \* Sonnet 4.6 HIGH: n=147 (excluded 1 timed-out doc)
@@ -66,11 +66,11 @@ GPT-5.4 is the only model whose numeric hallucination rate drops with thinking e
 
 | Category            | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 |
 |---------------------|------|---------|---------|----------|------------|
-| Narrative           | 21   | 8.9%    | 8.1%    | 1.9%     | 1.8%       |
-| ACORD Form          | 67   | 4.9%    | 6.1%    | 0.9%     | 1.8%       |
+| Narrative           | 21   | 7.2%    | 5.4%    | 1.4%     | 0.4%       |
+| ACORD Form          | 67   | 3.6%    | 4.9%    | 0.4%     | 1.1%       |
 | Financial Statement | 10   | 4.8%    | 4.7%    | 0.0%     | 1.0%       |
-| SOV                 | 10   | 5.0%    | 2.8%    | 0.8%     | 2.0%       |
-| Loss Run            | 15   | 0.8%    | 1.7%    | 0.2%     | 0.5%       |
+| SOV                 | 10   | 4.9%    | 2.6%    | 0.8%     | 1.8%       |
+| Loss Run            | 15   | 0.3%    | 1.5%    | 0.3%     | 0.6%       |
 | Driver Schedule     | 4    | 0.0%    | 0.0%    | 0.0%     | 0.0%       |
 | Dec Page            | 5    | 0.0%    | 0.0%    | 0.0%     | 0.0%       |
 | Engineering Report  | 4    | 0.0%    | 0.0%    | 0.0%     | 0.0%       |
@@ -81,20 +81,20 @@ _By difficulty:_
 | Difficulty     | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 |
 |----------------|------|---------|---------|----------|------------|
 | N1 (easy)      | 25   | 0.2%    | 0.2%    | 0.0%     | 0.0%       |
-| N2 (normal)    | 25   | 3.0%    | 2.4%    | 1.5%     | 1.9%       |
-| N3 (hard)      | 30   | 4.9%    | 4.2%    | 0.7%     | 1.5%       |
-| N4 (expert)    | 36   | 6.0%    | 6.5%    | 0.8%     | 2.3%       |
-| N5 (nightmare) | 32   | 2.6%    | 3.8%    | 0.3%     | 0.9%       |
+| N2 (normal)    | 25   | 0.0%    | 0.8%    | 0.1%     | 0.1%       |
+| N3 (hard)      | 30   | 4.3%    | 3.7%    | 0.6%     | 1.4%       |
+| N4 (expert)    | 36   | 5.6%    | 6.1%    | 0.8%     | 2.1%       |
+| N5 (nightmare) | 32   | 1.9%    | 3.0%    | 0.3%     | 0.5%       |
 
 ### By category / difficulty - HIGH effort
 
 | Category            | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 | Gemini 3.1 Pro |
 |---------------------|------|---------|---------|----------|------------|----------------|
-| Narrative           | 21   | 15.4%   | 5.8%    | 1.8%     | 1.4%       | 2.7%           |
-| ACORD Form          | 67   | 5.3%    | 3.6%    | 0.9%     | 2.3%       | 2.1%           |
+| Narrative           | 21   | 12.3%   | 4.7%    | 1.3%     | 0.9%       | 1.6%           |
+| ACORD Form          | 67   | 3.8%    | 1.9%    | 0.5%     | 1.3%       | 1.2%           |
 | Financial Statement | 10   | 4.7%    | 2.1%    | 0.0%     | 3.4%       | 2.9%           |
-| SOV                 | 10   | 5.5%    | 2.4%    | 0.7%     | 0.7%       | 1.2%           |
-| Loss Run            | 15   | 0.8%    | 0.8%    | 0.6%     | 0.0%       | 0.3%           |
+| SOV                 | 10   | 5.2%    | 2.4%    | 0.7%     | 0.6%       | 1.2%           |
+| Loss Run            | 15   | 0.6%    | 0.6%    | 0.6%     | 0.2%       | 0.4%           |
 | Driver Schedule     | 4    | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
 | Dec Page            | 5    | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
 | Engineering Report  | 4    | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
@@ -105,20 +105,20 @@ _By difficulty:_
 | Difficulty     | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 | Gemini 3.1 Pro |
 |----------------|------|---------|---------|----------|------------|----------------|
 | N1 (easy)      | 25   | 0.5%    | 0.5%    | 0.0%     | 0.0%       | 0.0%           |
-| N2 (normal)    | 25   | 4.1%    | 3.0%    | 1.5%     | 2.2%       | 2.0%           |
-| N3 (hard)      | 30   | 5.6%    | 3.6%    | 0.5%     | 2.7%       | 1.0%           |
-| N4 (expert)    | 36   | 7.0%    | 3.3%    | 1.2%     | 1.6%       | 1.2%           |
-| N5 (nightmare) | 32   | 2.6%    | 1.7%    | 0.4%     | 0.8%       | 1.5%           |
+| N2 (normal)    | 25   | 0.0%    | 0.0%    | 0.1%     | 0.4%       | 0.0%           |
+| N3 (hard)      | 30   | 4.8%    | 2.4%    | 0.4%     | 2.1%       | 0.9%           |
+| N4 (expert)    | 36   | 6.7%    | 3.2%    | 1.1%     | 1.4%       | 1.2%           |
+| N5 (nightmare) | 32   | 2.1%    | 1.2%    | 0.4%     | 0.4%       | 1.4%           |
 
 ### By category / difficulty - XHIGH effort
 
 | Category            | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 | Gemini 3.1 Pro |
 |---------------------|------|---------|---------|----------|------------|----------------|
-| Narrative           | 21   | 11.3%   | 9.4%    | 2.0%     | 1.3%       | 2.1%           |
-| ACORD Form          | 67   | 5.0%    | 3.9%    | 1.3%     | 2.0%       | 1.8%           |
-| Financial Statement | 10   | 5.2%    | 4.6%    | 0.0%     | 1.0%       | 0.5%           |
-| SOV                 | 10   | 6.3%    | 4.7%    | 2.0%     | 1.1%       | 0.8%           |
-| Loss Run            | 15   | 0.3%    | 0.0%    | 0.2%     | 0.0%       | 0.2%           |
+| Narrative           | 21   | 9.3%    | 6.7%    | 1.5%     | 0.9%       | 1.1%           |
+| ACORD Form          | 67   | 3.3%    | 2.1%    | 0.5%     | 1.1%       | 0.7%           |
+| Financial Statement | 10   | 4.7%    | 4.1%    | 0.0%     | 1.0%       | 0.5%           |
+| SOV                 | 10   | 5.5%    | 4.5%    | 1.8%     | 0.9%       | 0.7%           |
+| Loss Run            | 15   | 0.2%    | 0.2%    | 0.4%     | 0.0%       | 0.3%           |
 | Driver Schedule     | 4    | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
 | Dec Page            | 5    | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
 | Engineering Report  | 4    | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
@@ -129,10 +129,10 @@ _By difficulty:_
 | Difficulty     | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 | Gemini 3.1 Pro |
 |----------------|------|---------|---------|----------|------------|----------------|
 | N1 (easy)      | 25   | 0.2%    | 0.0%    | 0.3%     | 0.0%       | 0.0%           |
-| N2 (normal)    | 25   | 3.9%    | 4.0%    | 2.7%     | 1.7%       | 2.0%           |
-| N3 (hard)      | 30   | 5.0%    | 3.9%    | 0.9%     | 2.2%       | 1.2%           |
-| N4 (expert)    | 36   | 6.4%    | 4.8%    | 1.2%     | 1.6%       | 0.8%           |
-| N5 (nightmare) | 32   | 2.7%    | 1.6%    | 0.5%     | 1.2%       | 0.6%           |
+| N2 (normal)    | 25   | 0.1%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
+| N3 (hard)      | 30   | 3.8%    | 3.4%    | 0.7%     | 1.7%       | 0.9%           |
+| N4 (expert)    | 36   | 5.7%    | 4.2%    | 1.2%     | 1.4%       | 0.8%           |
+| N5 (nightmare) | 32   | 2.2%    | 1.2%    | 0.5%     | 0.6%       | 0.4%           |
 
 ## String hallucination (supplementary)
 
@@ -144,22 +144,22 @@ Gemini 3.1 Pro is excluded from default-effort tables - see the note at the top 
 
 | Model      | Docs | Strings Checked | Hallucinated | Rate |
 |------------|------|-----------------|--------------|------|
-| GPT-5.5    | 148  | 5470            | 385          | 7.0% |
-| GPT-5.4    | 148  | 4836            | 332          | 6.9% |
-| Opus 4.7   | 148  | 5509            | 186          | 3.4% |
-| Sonnet 4.6 | 148  | 5606            | 242          | 4.3% |
+| GPT-5.5    | 148  | 5470            | 281          | 5.1% |
+| GPT-5.4    | 148  | 4836            | 245          | 5.1% |
+| Opus 4.7   | 148  | 5509            | 111          | 2.0% |
+| Sonnet 4.6 | 148  | 5606            | 153          | 2.7% |
 
 ### By reasoning effort
 
-String hallucination drops monotonically with thinking effort on GPT-5.4. GPT-5.5 does not reproduce that gradient — its rate barely moves across effort levels and starts higher than GPT-5.4 at every level. Opus, Sonnet, and Gemini remain roughly flat.
+String hallucination drops monotonically with thinking effort on GPT-5.4. GPT-5.5 does not reproduce that gradient - its rate barely moves across effort levels and starts higher than GPT-5.4 at every level. Opus, Sonnet, and Gemini remain roughly flat.
 
 | Model          | Default | HIGH  | XHIGH |
 |----------------|---------|-------|-------|
-| GPT-5.5        | 7.0%    | 6.3%  | 6.3%  |
-| GPT-5.4        | 6.9%    | 4.7%  | 2.7%* |
-| Opus 4.7       | 3.4%    | 3.0%  | 4.3%  |
-| Sonnet 4.6     | 4.3%    | 3.9%* | 4.6%* |
-| Gemini 3.1 Pro | 2.6%    | 2.1%  | 2.4%  |
+| GPT-5.5        | 5.1%    | 4.4%  | 4.3%  |
+| GPT-5.4        | 5.1%    | 3.3%  | 2.1%* |
+| Opus 4.7       | 2.0%    | 2.0%  | 2.7%  |
+| Sonnet 4.6     | 2.7%    | 2.2%* | 2.3%* |
+| Gemini 3.1 Pro | 1.1%    | 1.1%  | 0.9%  |
 
 \* GPT-5.4 XHIGH: n=146 (excluded 2 timed-out docs)
 \* Sonnet 4.6 HIGH: n=147 (excluded 1 timed-out doc)
@@ -169,13 +169,13 @@ String hallucination drops monotonically with thinking effort on GPT-5.4. GPT-5.
 
 | Category            | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 |
 |---------------------|------|---------|---------|----------|------------|
-| Driver Schedule     | 4    | 5.9%    | 9.8%    | 4.3%     | 5.1%       |
-| ACORD Form          | 67   | 9.6%    | 9.6%    | 4.8%     | 5.9%       |
-| Narrative           | 21   | 4.9%    | 6.7%    | 3.3%     | 4.5%       |
-| Loss Run            | 15   | 4.8%    | 4.4%    | 0.6%     | 1.0%       |
-| SOV                 | 10   | 2.3%    | 3.6%    | 1.3%     | 2.9%       |
-| Engineering Report  | 4    | 8.5%    | 2.5%    | 3.8%     | 6.2%       |
-| Dec Page            | 5    | 1.1%    | 1.6%    | 2.0%     | 1.9%       |
+| ACORD Form          | 67   | 6.7%    | 7.4%    | 2.9%     | 3.8%       |
+| Narrative           | 21   | 6.2%    | 6.3%    | 2.4%     | 3.0%       |
+| Driver Schedule     | 4    | 2.0%    | 4.1%    | 1.5%     | 2.6%       |
+| Loss Run            | 15   | 4.5%    | 3.7%    | 0.6%     | 0.9%       |
+| SOV                 | 10   | 2.0%    | 3.0%    | 1.0%     | 2.0%       |
+| Engineering Report  | 4    | 5.1%    | 1.6%    | 1.9%     | 0.8%       |
+| Dec Page            | 5    | 1.1%    | 1.0%    | 2.0%     | 1.9%       |
 | Financial Statement | 10   | 0.0%    | 0.0%    | 0.0%     | 0.0%       |
 | Workbook            | 12   | 0.0%    | 0.0%    | 0.0%     | 0.0%       |
 
@@ -183,23 +183,23 @@ _By difficulty:_
 
 | Difficulty     | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 |
 |----------------|------|---------|---------|----------|------------|
-| N1 (easy)      | 25   | 1.0%    | 0.0%    | 0.0%     | 0.2%       |
-| N2 (normal)    | 25   | 1.7%    | 1.0%    | 0.2%     | 0.2%       |
-| N3 (hard)      | 30   | 8.0%    | 7.8%    | 2.8%     | 3.4%       |
-| N4 (expert)    | 36   | 10.1%   | 8.8%    | 4.9%     | 7.2%       |
-| N5 (nightmare) | 32   | 8.1%    | 9.8%    | 4.5%     | 5.1%       |
+| N1 (easy)      | 25   | 0.0%    | 0.0%    | 0.0%     | 0.0%       |
+| N2 (normal)    | 25   | 0.8%    | 0.8%    | 0.0%     | 0.0%       |
+| N3 (hard)      | 30   | 7.1%    | 6.9%    | 1.8%     | 1.9%       |
+| N4 (expert)    | 36   | 6.7%    | 6.3%    | 2.5%     | 4.5%       |
+| N5 (nightmare) | 32   | 6.1%    | 6.5%    | 3.0%     | 3.5%       |
 
 ### By category / difficulty - HIGH effort
 
 | Category            | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 | Gemini 3.1 Pro |
 |---------------------|------|---------|---------|----------|------------|----------------|
-| Driver Schedule     | 4    | 2.5%    | 4.5%    | 2.6%     | 6.2%       | 3.4%           |
-| ACORD Form          | 67   | 8.8%    | 5.1%    | 4.4%     | 5.4%       | 3.4%           |
-| Narrative           | 21   | 4.3%    | 2.6%    | 2.9%     | 4.8%       | 2.5%           |
-| Loss Run            | 15   | 3.9%    | 5.0%    | 0.9%     | 0.0%       | 0.7%           |
-| SOV                 | 10   | 3.3%    | 2.7%    | 1.3%     | 2.0%       | 1.0%           |
-| Engineering Report  | 4    | 8.3%    | 13.0%   | 2.7%     | 5.2%       | 1.0%           |
-| Dec Page            | 5    | 2.1%    | 1.3%    | 1.5%     | 1.4%       | 1.4%           |
+| ACORD Form          | 67   | 5.7%    | 3.4%    | 2.8%     | 3.3%       | 1.2%           |
+| Narrative           | 21   | 5.3%    | 2.6%    | 2.9%     | 1.6%       | 2.5%           |
+| Driver Schedule     | 4    | 2.1%    | 2.2%    | 1.7%     | 2.3%       | 1.5%           |
+| Loss Run            | 15   | 3.5%    | 4.4%    | 0.9%     | 0.0%       | 0.7%           |
+| SOV                 | 10   | 2.9%    | 1.7%    | 1.0%     | 1.3%       | 0.3%           |
+| Engineering Report  | 4    | 1.8%    | 3.7%    | 0.0%     | 0.9%       | 0.0%           |
+| Dec Page            | 5    | 1.2%    | 1.3%    | 1.5%     | 1.4%       | 1.4%           |
 | Financial Statement | 10   | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
 | Workbook            | 12   | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
 
@@ -207,23 +207,23 @@ _By difficulty:_
 
 | Difficulty     | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 | Gemini 3.1 Pro |
 |----------------|------|---------|---------|----------|------------|----------------|
-| N1 (easy)      | 25   | 1.0%    | 0.0%    | 0.2%     | 0.0%       | 0.0%           |
-| N2 (normal)    | 25   | 1.7%    | 0.7%    | 0.3%     | 0.0%       | 0.0%           |
-| N3 (hard)      | 30   | 8.9%    | 6.6%    | 2.7%     | 2.8%       | 2.2%           |
-| N4 (expert)    | 36   | 7.5%    | 5.1%    | 2.1%     | 7.4%       | 2.2%           |
-| N5 (nightmare) | 32   | 7.3%    | 6.8%    | 5.5%     | 4.3%       | 3.7%           |
+| N1 (easy)      | 25   | 0.0%    | 0.0%    | 0.2%     | 0.0%       | 0.0%           |
+| N2 (normal)    | 25   | 0.5%    | 0.7%    | 0.0%     | 0.0%       | 0.0%           |
+| N3 (hard)      | 30   | 6.5%    | 4.5%    | 1.5%     | 1.6%       | 1.2%           |
+| N4 (expert)    | 36   | 5.8%    | 2.9%    | 1.5%     | 4.3%       | 0.6%           |
+| N5 (nightmare) | 32   | 5.0%    | 5.2%    | 4.0%     | 2.3%       | 2.3%           |
 
 ### By category / difficulty - XHIGH effort
 
 | Category            | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 | Gemini 3.1 Pro |
 |---------------------|------|---------|---------|----------|------------|----------------|
-| Driver Schedule     | 4    | 3.9%    | 0.6%    | 3.9%     | 4.5%       | 4.0%           |
-| ACORD Form          | 67   | 8.2%    | 4.3%    | 5.7%     | 6.0%       | 3.7%           |
-| Narrative           | 21   | 3.1%    | 2.5%    | 4.3%     | 3.4%       | 3.2%           |
-| Loss Run            | 15   | 4.6%    | 0.3%    | 2.5%     | 0.0%       | 0.7%           |
-| SOV                 | 10   | 2.9%    | 3.3%    | 1.0%     | 0.7%       | 0.7%           |
-| Engineering Report  | 4    | 13.3%   | 6.7%    | 7.2%     | 13.8%      | 3.1%           |
-| Dec Page            | 5    | 2.1%    | 0.9%    | 1.8%     | 1.6%       | 1.4%           |
+| ACORD Form          | 67   | 5.1%    | 3.1%    | 3.5%     | 3.4%       | 0.9%           |
+| Narrative           | 21   | 4.0%    | 2.5%    | 3.0%     | 1.7%       | 1.8%           |
+| Driver Schedule     | 4    | 2.4%    | 0.6%    | 1.7%     | 0.0%       | 1.1%           |
+| Loss Run            | 15   | 4.2%    | 0.3%    | 2.3%     | 0.0%       | 0.6%           |
+| SOV                 | 10   | 2.3%    | 2.6%    | 0.6%     | 0.7%       | 0.7%           |
+| Engineering Report  | 4    | 3.1%    | 5.6%    | 0.0%     | 0.9%       | 0.0%           |
+| Dec Page            | 5    | 2.1%    | 1.8%    | 1.3%     | 1.6%       | 1.4%           |
 | Financial Statement | 10   | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
 | Workbook            | 12   | 0.0%    | 0.0%    | 0.0%     | 0.0%       | 0.0%           |
 
@@ -231,8 +231,8 @@ _By difficulty:_
 
 | Difficulty     | Docs | GPT-5.5 | GPT-5.4 | Opus 4.7 | Sonnet 4.6 | Gemini 3.1 Pro |
 |----------------|------|---------|---------|----------|------------|----------------|
-| N1 (easy)      | 25   | 1.0%    | 0.2%    | 0.2%     | 0.0%       | 0.0%           |
-| N2 (normal)    | 25   | 1.8%    | 1.0%    | 1.0%     | 0.0%       | 0.0%           |
-| N3 (hard)      | 30   | 9.1%    | 4.5%    | 3.7%     | 4.3%       | 2.0%           |
-| N4 (expert)    | 36   | 8.1%    | 4.1%    | 4.2%     | 8.3%       | 2.6%           |
-| N5 (nightmare) | 32   | 6.9%    | 2.1%    | 7.0%     | 5.8%       | 4.4%           |
+| N1 (easy)      | 25   | 0.0%    | 0.2%    | 0.2%     | 0.0%       | 0.0%           |
+| N2 (normal)    | 25   | 0.4%    | 0.7%    | 0.0%     | 0.0%       | 0.0%           |
+| N3 (hard)      | 30   | 7.3%    | 3.8%    | 1.5%     | 2.1%       | 1.2%           |
+| N4 (expert)    | 36   | 5.1%    | 3.4%    | 3.4%     | 4.3%       | 0.4%           |
+| N5 (nightmare) | 32   | 4.8%    | 1.2%    | 4.4%     | 2.8%       | 1.8%           |

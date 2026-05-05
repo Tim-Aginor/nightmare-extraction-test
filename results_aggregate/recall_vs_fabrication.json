@@ -6,9 +6,9 @@
       "numbers_checked_total": 5279,
       "strings_per_doc": 36.95945945945946,
       "numbers_per_doc": 35.66891891891892,
-      "string_hallucination_rate": 0.07038391224862889,
-      "number_hallucination_rate": 0.0365599545368441,
-      "fabricated_per_doc": 3.9054054054054053
+      "string_hallucination_rate": 0.05137111517367459,
+      "number_hallucination_rate": 0.028414472437961736,
+      "fabricated_per_doc": 2.9121621621621623
     },
     "gpt54": {
       "docs": 148,
@@ -16,9 +16,9 @@
       "numbers_checked_total": 4697,
       "strings_per_doc": 32.67567567567568,
       "numbers_per_doc": 31.736486486486488,
-      "string_hallucination_rate": 0.0663771712158809,
-      "number_hallucination_rate": 0.039173940813285076,
-      "fabricated_per_doc": 3.4121621621621623
+      "string_hallucination_rate": 0.05066170388751034,
+      "number_hallucination_rate": 0.03236108154140941,
+      "fabricated_per_doc": 2.6824324324324325
     },
     "opus47": {
       "docs": 148,
@@ -26,9 +26,9 @@
       "numbers_checked_total": 5629,
       "strings_per_doc": 37.222972972972975,
       "numbers_per_doc": 38.03378378378378,
-      "string_hallucination_rate": 0.02940642584861136,
-      "number_hallucination_rate": 0.006395452122934802,
-      "fabricated_per_doc": 1.337837837837838
+      "string_hallucination_rate": 0.020148847340715193,
+      "number_hallucination_rate": 0.004263634748623201,
+      "fabricated_per_doc": 0.9121621621621622
     },
     "sonnet": {
       "docs": 148,
@@ -36,9 +36,9 @@
       "numbers_checked_total": 5972,
       "strings_per_doc": 37.87837837837838,
       "numbers_per_doc": 40.351351351351354,
-      "string_hallucination_rate": 0.03888690688547984,
-      "number_hallucination_rate": 0.013730743469524447,
-      "fabricated_per_doc": 2.027027027027027
+      "string_hallucination_rate": 0.027292186942561542,
+      "number_hallucination_rate": 0.009377093101138647,
+      "fabricated_per_doc": 1.412162162162162
     },
     "gemini_pro": {
       "docs": 148,
@@ -46,9 +46,9 @@
       "numbers_checked_total": 3953,
       "strings_per_doc": 27.56756756756757,
       "numbers_per_doc": 26.70945945945946,
-      "string_hallucination_rate": 0.027941176470588237,
-      "number_hallucination_rate": 0.007842145206172527,
-      "fabricated_per_doc": 0.9797297297297297
+      "string_hallucination_rate": 0.01053921568627451,
+      "number_hallucination_rate": 0.005312420946116873,
+      "fabricated_per_doc": 0.43243243243243246
     }
   },
   "per_category": {
@@ -57,36 +57,36 @@
         "docs": 67,
         "strings_per_doc": 41.701492537313435,
         "numbers_per_doc": 38.582089552238806,
-        "string_rate": 0.09591982820329277,
-        "number_rate": 0.04912959381044488
+        "string_rate": 0.06692913385826772,
+        "number_rate": 0.03636363636363636
       },
       "gpt54": {
         "docs": 67,
         "strings_per_doc": 30.53731343283582,
         "numbers_per_doc": 29.925373134328357,
-        "string_rate": 0.0913978494623656,
-        "number_rate": 0.06084788029925187
+        "string_rate": 0.07380254154447703,
+        "number_rate": 0.04937655860349127
       },
       "opus47": {
         "docs": 67,
         "strings_per_doc": 42.88059701492537,
         "numbers_per_doc": 43.44776119402985,
-        "string_rate": 0.044204664114166375,
-        "number_rate": 0.008588114050154586
+        "string_rate": 0.02854159415245388,
+        "number_rate": 0.004122294744074201
       },
       "sonnet": {
         "docs": 67,
         "strings_per_doc": 43.417910447761194,
         "numbers_per_doc": 48.149253731343286,
-        "string_rate": 0.055001718803712615,
-        "number_rate": 0.01828890266584005
+        "string_rate": 0.03815744242007563,
+        "number_rate": 0.010849349039057656
       },
       "gemini_pro": {
         "docs": 67,
         "strings_per_doc": 22.80597014925373,
         "numbers_per_doc": 18.865671641791046,
-        "string_rate": 0.041884816753926704,
-        "number_rate": 0.012658227848101266
+        "string_rate": 0.0137434554973822,
+        "number_rate": 0.003955696202531646
       }
     },
     "dec_page": {
@@ -101,7 +101,7 @@
         "docs": 5,
         "strings_per_doc": 77.0,
         "numbers_per_doc": 18.4,
-        "string_rate": 0.015584415584415584,
+        "string_rate": 0.01038961038961039,
         "number_rate": 0.0
       },
       "opus47": {
@@ -122,7 +122,7 @@
         "docs": 5,
         "strings_per_doc": 45.2,
         "numbers_per_doc": 10.4,
-        "string_rate": 0.022123893805309734,
+        "string_rate": 0.01327433628318584,
         "number_rate": 0.0
       }
     },
@@ -131,35 +131,35 @@
         "docs": 4,
         "strings_per_doc": 115.25,
         "numbers_per_doc": 82.5,
-        "string_rate": 0.05856832971800434,
+        "string_rate": 0.019522776572668113,
         "number_rate": 0.0
       },
       "gpt54": {
         "docs": 4,
         "strings_per_doc": 117.0,
         "numbers_per_doc": 83.5,
-        "string_rate": 0.07692307692307693,
+        "string_rate": 0.0405982905982906,
         "number_rate": 0.0
       },
       "opus47": {
         "docs": 4,
         "strings_per_doc": 117.25,
         "numbers_per_doc": 82.5,
-        "string_rate": 0.023454157782515993,
+        "string_rate": 0.014925373134328358,
         "number_rate": 0.0
       },
       "sonnet": {
         "docs": 4,
         "strings_per_doc": 117.25,
         "numbers_per_doc": 82.5,
-        "string_rate": 0.03411513859275053,
+        "string_rate": 0.0255863539445629,
         "number_rate": 0.0
       },
       "gemini_pro": {
         "docs": 4,
         "strings_per_doc": 108.5,
         "numbers_per_doc": 91.5,
-        "string_rate": 0.03686635944700461,
+        "string_rate": 0.009216589861751152,
         "number_rate": 0.0
       }
     },
@@ -168,35 +168,35 @@
         "docs": 4,
         "strings_per_doc": 29.25,
         "numbers_per_doc": 1.25,
-        "string_rate": 0.08547008547008547,
+        "string_rate": 0.05128205128205128,
         "number_rate": 0.0
       },
       "gpt54": {
         "docs": 4,
         "strings_per_doc": 30.5,
         "numbers_per_doc": 1.25,
-        "string_rate": 0.09016393442622951,
+        "string_rate": 0.01639344262295082,
         "number_rate": 0.0
       },
       "opus47": {
         "docs": 4,
         "strings_per_doc": 26.5,
         "numbers_per_doc": 1.25,
-        "string_rate": 0.02830188679245283,
+        "string_rate": 0.018867924528301886,
         "number_rate": 0.0
       },
       "sonnet": {
         "docs": 4,
         "strings_per_doc": 32.25,
         "numbers_per_doc": 1.25,
-        "string_rate": 0.05426356589147287,
+        "string_rate": 0.007751937984496124,
         "number_rate": 0.0
       },
       "gemini_pro": {
         "docs": 4,
         "strings_per_doc": 24.75,
         "numbers_per_doc": 1.25,
-        "string_rate": 0.12121212121212122,
+        "string_rate": 0.0,
         "number_rate": 0.0
       }
     },
@@ -242,36 +242,36 @@
         "docs": 15,
         "strings_per_doc": 82.66666666666667,
         "numbers_per_doc": 84.8,
-        "string_rate": 0.04758064516129032,
-        "number_rate": 0.007861635220125786
+        "string_rate": 0.04516129032258064,
+        "number_rate": 0.0031446540880503146
       },
       "gpt54": {
         "docs": 15,
         "strings_per_doc": 82.33333333333333,
         "numbers_per_doc": 84.8,
-        "string_rate": 0.0437246963562753,
-        "number_rate": 0.01729559748427673
+        "string_rate": 0.03724696356275304,
+        "number_rate": 0.014937106918238994
       },
       "opus47": {
         "docs": 15,
         "strings_per_doc": 82.66666666666667,
         "numbers_per_doc": 82.4,
         "string_rate": 0.00564516129032258,
-        "number_rate": 0.0016181229773462784
+        "number_rate": 0.003236245954692557
       },
       "sonnet": {
         "docs": 15,
         "strings_per_doc": 82.73333333333333,
         "numbers_per_doc": 84.8,
-        "string_rate": 0.009669621273166801,
-        "number_rate": 0.0047169811320754715
+        "string_rate": 0.008863819500402902,
+        "number_rate": 0.006289308176100629
       },
       "gemini_pro": {
         "docs": 15,
         "strings_per_doc": 82.46666666666667,
         "numbers_per_doc": 84.93333333333334,
         "string_rate": 0.005658852061438965,
-        "number_rate": 0.0031397174254317113
+        "number_rate": 0.005494505494505495
       }
     },
     "narrative": {
@@ -279,36 +279,36 @@
         "docs": 21,
         "strings_per_doc": 10.714285714285714,
         "numbers_per_doc": 8.571428571428571,
-        "string_rate": 0.04888888888888889,
-        "number_rate": 0.08888888888888889
+        "string_rate": 0.06222222222222222,
+        "number_rate": 0.07222222222222222
       },
       "gpt54": {
         "docs": 21,
         "strings_per_doc": 10.619047619047619,
         "numbers_per_doc": 8.857142857142858,
-        "string_rate": 0.06726457399103139,
-        "number_rate": 0.08064516129032258
+        "string_rate": 0.06278026905829596,
+        "number_rate": 0.053763440860215055
       },
       "opus47": {
         "docs": 21,
         "strings_per_doc": 11.714285714285714,
         "numbers_per_doc": 10.285714285714286,
         "string_rate": 0.024390243902439025,
-        "number_rate": 0.018518518518518517
+        "number_rate": 0.013888888888888888
       },
       "sonnet": {
         "docs": 21,
         "strings_per_doc": 12.666666666666666,
         "numbers_per_doc": 10.666666666666666,
-        "string_rate": 0.03759398496240601,
-        "number_rate": 0.017857142857142856
+        "string_rate": 0.03007518796992481,
+        "number_rate": 0.004464285714285714
       },
       "gemini_pro": {
         "docs": 21,
         "strings_per_doc": 9.571428571428571,
         "numbers_per_doc": 7.619047619047619,
-        "string_rate": 0.03980099502487562,
-        "number_rate": 0.025
+        "string_rate": 0.03482587064676617,
+        "number_rate": 0.01875
       }
     },
     "sov": {
@@ -316,36 +316,36 @@
         "docs": 10,
         "strings_per_doc": 30.6,
         "numbers_per_doc": 59.5,
-        "string_rate": 0.02287581699346405,
-        "number_rate": 0.05042016806722689
+        "string_rate": 0.0196078431372549,
+        "number_rate": 0.04873949579831933
       },
       "gpt54": {
         "docs": 10,
         "strings_per_doc": 30.4,
         "numbers_per_doc": 57.8,
-        "string_rate": 0.039473684210526314,
-        "number_rate": 0.02768166089965398
+        "string_rate": 0.029605263157894735,
+        "number_rate": 0.025951557093425604
       },
       "opus47": {
         "docs": 10,
         "strings_per_doc": 30.9,
         "numbers_per_doc": 59.8,
-        "string_rate": 0.012944983818770227,
+        "string_rate": 0.009708737864077669,
         "number_rate": 0.008361204013377926
       },
       "sonnet": {
         "docs": 10,
         "strings_per_doc": 30.6,
         "numbers_per_doc": 56.0,
-        "string_rate": 0.029411764705882353,
-        "number_rate": 0.019642857142857142
+        "string_rate": 0.0196078431372549,
+        "number_rate": 0.017857142857142856
       },
       "gemini_pro": {
         "docs": 10,
         "strings_per_doc": 30.6,
         "numbers_per_doc": 59.5,
-        "string_rate": 0.006535947712418301,
-        "number_rate": 0.0067226890756302525
+        "string_rate": 0.0032679738562091504,
+        "number_rate": 0.005042016806722689
       }
     },
     "workbook": {
@@ -424,7 +424,7 @@
       "difficulty": "N1",
       "strings_checked": 82,
       "numbers_checked": 90,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -645,7 +645,7 @@
       "strings_checked": 42,
       "numbers_checked": 8,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 2
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt55",
@@ -674,8 +674,8 @@
       "difficulty": "N2",
       "strings_checked": 89,
       "numbers_checked": 99,
-      "strings_hallucinated": 6,
-      "numbers_hallucinated": 18
+      "strings_hallucinated": 0,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt55",
@@ -875,7 +875,7 @@
       "strings_checked": 6,
       "numbers_checked": 5,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 1
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt55",
@@ -894,8 +894,8 @@
       "difficulty": "N3",
       "strings_checked": 31,
       "numbers_checked": 2,
-      "strings_hallucinated": 4,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 2,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt55",
@@ -904,7 +904,7 @@
       "difficulty": "N3",
       "strings_checked": 49,
       "numbers_checked": 38,
-      "strings_hallucinated": 8,
+      "strings_hallucinated": 6,
       "numbers_hallucinated": 2
     },
     {
@@ -924,8 +924,8 @@
       "difficulty": "N3",
       "strings_checked": 35,
       "numbers_checked": 43,
-      "strings_hallucinated": 3,
-      "numbers_hallucinated": 6
+      "strings_hallucinated": 4,
+      "numbers_hallucinated": 4
     },
     {
       "model": "gpt55",
@@ -934,7 +934,7 @@
       "difficulty": "N3",
       "strings_checked": 15,
       "numbers_checked": 25,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 5
     },
     {
@@ -944,7 +944,7 @@
       "difficulty": "N3",
       "strings_checked": 101,
       "numbers_checked": 117,
-      "strings_hallucinated": 14,
+      "strings_hallucinated": 13,
       "numbers_hallucinated": 1
     },
     {
@@ -994,7 +994,7 @@
       "difficulty": "N3",
       "strings_checked": 47,
       "numbers_checked": 36,
-      "strings_hallucinated": 8,
+      "strings_hallucinated": 6,
       "numbers_hallucinated": 2
     },
     {
@@ -1014,8 +1014,8 @@
       "difficulty": "N3",
       "strings_checked": 12,
       "numbers_checked": 9,
-      "strings_hallucinated": 2,
-      "numbers_hallucinated": 5
+      "strings_hallucinated": 1,
+      "numbers_hallucinated": 4
     },
     {
       "model": "gpt55",
@@ -1024,8 +1024,8 @@
       "difficulty": "N3",
       "strings_checked": 55,
       "numbers_checked": 16,
-      "strings_hallucinated": 15,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 14,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt55",
@@ -1204,7 +1204,7 @@
       "difficulty": "N4",
       "strings_checked": 35,
       "numbers_checked": 59,
-      "strings_hallucinated": 7,
+      "strings_hallucinated": 5,
       "numbers_hallucinated": 3
     },
     {
@@ -1224,8 +1224,8 @@
       "difficulty": "N4",
       "strings_checked": 82,
       "numbers_checked": 63,
-      "strings_hallucinated": 13,
-      "numbers_hallucinated": 4
+      "strings_hallucinated": 10,
+      "numbers_hallucinated": 3
     },
     {
       "model": "gpt55",
@@ -1234,7 +1234,7 @@
       "difficulty": "N4",
       "strings_checked": 37,
       "numbers_checked": 49,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 7,
       "numbers_hallucinated": 3
     },
     {
@@ -1244,7 +1244,7 @@
       "difficulty": "N4",
       "strings_checked": 16,
       "numbers_checked": 42,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 9
     },
     {
@@ -1254,7 +1254,7 @@
       "difficulty": "N4",
       "strings_checked": 37,
       "numbers_checked": 83,
-      "strings_hallucinated": 15,
+      "strings_hallucinated": 4,
       "numbers_hallucinated": 3
     },
     {
@@ -1264,7 +1264,7 @@
       "difficulty": "N4",
       "strings_checked": 76,
       "numbers_checked": 78,
-      "strings_hallucinated": 9,
+      "strings_hallucinated": 5,
       "numbers_hallucinated": 8
     },
     {
@@ -1274,8 +1274,8 @@
       "difficulty": "N4",
       "strings_checked": 68,
       "numbers_checked": 88,
-      "strings_hallucinated": 9,
-      "numbers_hallucinated": 9
+      "strings_hallucinated": 8,
+      "numbers_hallucinated": 6
     },
     {
       "model": "gpt55",
@@ -1284,8 +1284,8 @@
       "difficulty": "N4",
       "strings_checked": 64,
       "numbers_checked": 38,
-      "strings_hallucinated": 19,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 13,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt55",
@@ -1304,7 +1304,7 @@
       "difficulty": "N4",
       "strings_checked": 30,
       "numbers_checked": 12,
-      "strings_hallucinated": 7,
+      "strings_hallucinated": 6,
       "numbers_hallucinated": 0
     },
     {
@@ -1314,7 +1314,7 @@
       "difficulty": "N4",
       "strings_checked": 18,
       "numbers_checked": 7,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 5,
       "numbers_hallucinated": 2
     },
     {
@@ -1324,7 +1324,7 @@
       "difficulty": "N4",
       "strings_checked": 26,
       "numbers_checked": 37,
-      "strings_hallucinated": 7,
+      "strings_hallucinated": 6,
       "numbers_hallucinated": 2
     },
     {
@@ -1344,7 +1344,7 @@
       "difficulty": "N4",
       "strings_checked": 16,
       "numbers_checked": 34,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 14
     },
     {
@@ -1354,7 +1354,7 @@
       "difficulty": "N4",
       "strings_checked": 33,
       "numbers_checked": 21,
-      "strings_hallucinated": 11,
+      "strings_hallucinated": 9,
       "numbers_hallucinated": 2
     },
     {
@@ -1364,7 +1364,7 @@
       "difficulty": "N4",
       "strings_checked": 10,
       "numbers_checked": 21,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 6
     },
     {
@@ -1394,7 +1394,7 @@
       "difficulty": "N4",
       "strings_checked": 79,
       "numbers_checked": 49,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -1404,7 +1404,7 @@
       "difficulty": "N4",
       "strings_checked": 79,
       "numbers_checked": 49,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -1414,7 +1414,7 @@
       "difficulty": "N4",
       "strings_checked": 26,
       "numbers_checked": 1,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -1554,7 +1554,7 @@
       "difficulty": "N5",
       "strings_checked": 27,
       "numbers_checked": 2,
-      "strings_hallucinated": 5,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -1574,7 +1574,7 @@
       "difficulty": "N5",
       "strings_checked": 14,
       "numbers_checked": 19,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -1584,7 +1584,7 @@
       "difficulty": "N5",
       "strings_checked": 195,
       "numbers_checked": 70,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 5,
       "numbers_hallucinated": 0
     },
     {
@@ -1594,7 +1594,7 @@
       "difficulty": "N5",
       "strings_checked": 19,
       "numbers_checked": 23,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -1604,7 +1604,7 @@
       "difficulty": "N5",
       "strings_checked": 30,
       "numbers_checked": 49,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -1625,7 +1625,7 @@
       "strings_checked": 76,
       "numbers_checked": 108,
       "strings_hallucinated": 3,
-      "numbers_hallucinated": 3
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt55",
@@ -1634,7 +1634,7 @@
       "difficulty": "N5",
       "strings_checked": 157,
       "numbers_checked": 87,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -1644,7 +1644,7 @@
       "difficulty": "N5",
       "strings_checked": 21,
       "numbers_checked": 7,
-      "strings_hallucinated": 10,
+      "strings_hallucinated": 8,
       "numbers_hallucinated": 3
     },
     {
@@ -1654,7 +1654,7 @@
       "difficulty": "N5",
       "strings_checked": 31,
       "numbers_checked": 12,
-      "strings_hallucinated": 4,
+      "strings_hallucinated": 3,
       "numbers_hallucinated": 0
     },
     {
@@ -1664,7 +1664,7 @@
       "difficulty": "N5",
       "strings_checked": 20,
       "numbers_checked": 8,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -1674,7 +1674,7 @@
       "difficulty": "N5",
       "strings_checked": 51,
       "numbers_checked": 75,
-      "strings_hallucinated": 4,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -1684,7 +1684,7 @@
       "difficulty": "N5",
       "strings_checked": 17,
       "numbers_checked": 2,
-      "strings_hallucinated": 4,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -1695,7 +1695,7 @@
       "strings_checked": 19,
       "numbers_checked": 54,
       "strings_hallucinated": 1,
-      "numbers_hallucinated": 14
+      "numbers_hallucinated": 12
     },
     {
       "model": "gpt55",
@@ -1704,7 +1704,7 @@
       "difficulty": "N5",
       "strings_checked": 43,
       "numbers_checked": 25,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -1734,7 +1734,7 @@
       "difficulty": "N5",
       "strings_checked": 148,
       "numbers_checked": 111,
-      "strings_hallucinated": 15,
+      "strings_hallucinated": 9,
       "numbers_hallucinated": 0
     },
     {
@@ -1784,8 +1784,8 @@
       "difficulty": "N5",
       "strings_checked": 123,
       "numbers_checked": 147,
-      "strings_hallucinated": 57,
-      "numbers_hallucinated": 9
+      "strings_hallucinated": 54,
+      "numbers_hallucinated": 1
     },
     {
       "model": "gpt55",
@@ -1795,7 +1795,7 @@
       "strings_checked": 113,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "gpt55",
@@ -1805,7 +1805,7 @@
       "strings_checked": 145,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "gpt55",
@@ -1824,8 +1824,8 @@
       "difficulty": "N5",
       "strings_checked": 19,
       "numbers_checked": 28,
-      "strings_hallucinated": 3,
-      "numbers_hallucinated": 6
+      "strings_hallucinated": 2,
+      "numbers_hallucinated": 5
     },
     {
       "model": "gpt55",
@@ -2134,7 +2134,7 @@
       "difficulty": "N2",
       "strings_checked": 22,
       "numbers_checked": 9,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -2155,7 +2155,7 @@
       "strings_checked": 81,
       "numbers_checked": 87,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 9
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt54",
@@ -2254,7 +2254,7 @@
       "difficulty": "N2",
       "strings_checked": 43,
       "numbers_checked": 1,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -2355,7 +2355,7 @@
       "strings_checked": 6,
       "numbers_checked": 5,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 1
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt54",
@@ -2394,7 +2394,7 @@
       "difficulty": "N3",
       "strings_checked": 12,
       "numbers_checked": 28,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 4
     },
     {
@@ -2404,8 +2404,8 @@
       "difficulty": "N3",
       "strings_checked": 31,
       "numbers_checked": 41,
-      "strings_hallucinated": 6,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 5,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt54",
@@ -2414,7 +2414,7 @@
       "difficulty": "N3",
       "strings_checked": 18,
       "numbers_checked": 20,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -2424,7 +2424,7 @@
       "difficulty": "N3",
       "strings_checked": 117,
       "numbers_checked": 119,
-      "strings_hallucinated": 10,
+      "strings_hallucinated": 9,
       "numbers_hallucinated": 6
     },
     {
@@ -2435,7 +2435,7 @@
       "strings_checked": 54,
       "numbers_checked": 94,
       "strings_hallucinated": 6,
-      "numbers_hallucinated": 12
+      "numbers_hallucinated": 11
     },
     {
       "model": "gpt54",
@@ -2455,7 +2455,7 @@
       "strings_checked": 19,
       "numbers_checked": 12,
       "strings_hallucinated": 6,
-      "numbers_hallucinated": 2
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt54",
@@ -2464,8 +2464,8 @@
       "difficulty": "N3",
       "strings_checked": 16,
       "numbers_checked": 8,
-      "strings_hallucinated": 4,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 3,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt54",
@@ -2474,7 +2474,7 @@
       "difficulty": "N3",
       "strings_checked": 17,
       "numbers_checked": 7,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 5,
       "numbers_hallucinated": 1
     },
     {
@@ -2534,7 +2534,7 @@
       "difficulty": "N3",
       "strings_checked": 26,
       "numbers_checked": 2,
-      "strings_hallucinated": 7,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -2634,7 +2634,7 @@
       "difficulty": "N3",
       "strings_checked": 31,
       "numbers_checked": 45,
-      "strings_hallucinated": 7,
+      "strings_hallucinated": 4,
       "numbers_hallucinated": 1
     },
     {
@@ -2684,8 +2684,8 @@
       "difficulty": "N4",
       "strings_checked": 29,
       "numbers_checked": 15,
-      "strings_hallucinated": 7,
-      "numbers_hallucinated": 0
+      "strings_hallucinated": 6,
+      "numbers_hallucinated": 1
     },
     {
       "model": "gpt54",
@@ -2715,7 +2715,7 @@
       "strings_checked": 36,
       "numbers_checked": 60,
       "strings_hallucinated": 7,
-      "numbers_hallucinated": 6
+      "numbers_hallucinated": 3
     },
     {
       "model": "gpt54",
@@ -2724,7 +2724,7 @@
       "difficulty": "N4",
       "strings_checked": 16,
       "numbers_checked": 46,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 5
     },
     {
@@ -2734,7 +2734,7 @@
       "difficulty": "N4",
       "strings_checked": 10,
       "numbers_checked": 8,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -2744,7 +2744,7 @@
       "difficulty": "N4",
       "strings_checked": 80,
       "numbers_checked": 78,
-      "strings_hallucinated": 9,
+      "strings_hallucinated": 7,
       "numbers_hallucinated": 10
     },
     {
@@ -2764,7 +2764,7 @@
       "difficulty": "N4",
       "strings_checked": 16,
       "numbers_checked": 6,
-      "strings_hallucinated": 8,
+      "strings_hallucinated": 7,
       "numbers_hallucinated": 0
     },
     {
@@ -2774,8 +2774,8 @@
       "difficulty": "N4",
       "strings_checked": 17,
       "numbers_checked": 12,
-      "strings_hallucinated": 7,
-      "numbers_hallucinated": 3
+      "strings_hallucinated": 6,
+      "numbers_hallucinated": 2
     },
     {
       "model": "gpt54",
@@ -2784,7 +2784,7 @@
       "difficulty": "N4",
       "strings_checked": 23,
       "numbers_checked": 11,
-      "strings_hallucinated": 8,
+      "strings_hallucinated": 7,
       "numbers_hallucinated": 0
     },
     {
@@ -2794,8 +2794,8 @@
       "difficulty": "N4",
       "strings_checked": 17,
       "numbers_checked": 6,
-      "strings_hallucinated": 5,
-      "numbers_hallucinated": 2
+      "strings_hallucinated": 4,
+      "numbers_hallucinated": 1
     },
     {
       "model": "gpt54",
@@ -2805,7 +2805,7 @@
       "strings_checked": 19,
       "numbers_checked": 29,
       "strings_hallucinated": 6,
-      "numbers_hallucinated": 14
+      "numbers_hallucinated": 13
     },
     {
       "model": "gpt54",
@@ -2824,7 +2824,7 @@
       "difficulty": "N4",
       "strings_checked": 9,
       "numbers_checked": 4,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 1
     },
     {
@@ -2834,7 +2834,7 @@
       "difficulty": "N4",
       "strings_checked": 34,
       "numbers_checked": 18,
-      "strings_hallucinated": 13,
+      "strings_hallucinated": 11,
       "numbers_hallucinated": 1
     },
     {
@@ -2894,7 +2894,7 @@
       "difficulty": "N4",
       "strings_checked": 26,
       "numbers_checked": 1,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -3034,7 +3034,7 @@
       "difficulty": "N5",
       "strings_checked": 20,
       "numbers_checked": 1,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -3044,8 +3044,8 @@
       "difficulty": "N5",
       "strings_checked": 39,
       "numbers_checked": 19,
-      "strings_hallucinated": 2,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 0,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt54",
@@ -3054,7 +3054,7 @@
       "difficulty": "N5",
       "strings_checked": 15,
       "numbers_checked": 25,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -3064,7 +3064,7 @@
       "difficulty": "N5",
       "strings_checked": 9,
       "numbers_checked": 7,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -3074,8 +3074,8 @@
       "difficulty": "N5",
       "strings_checked": 17,
       "numbers_checked": 34,
-      "strings_hallucinated": 1,
-      "numbers_hallucinated": 2
+      "strings_hallucinated": 0,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt54",
@@ -3094,8 +3094,8 @@
       "difficulty": "N5",
       "strings_checked": 112,
       "numbers_checked": 159,
-      "strings_hallucinated": 6,
-      "numbers_hallucinated": 5
+      "strings_hallucinated": 4,
+      "numbers_hallucinated": 4
     },
     {
       "model": "gpt54",
@@ -3104,8 +3104,8 @@
       "difficulty": "N5",
       "strings_checked": 67,
       "numbers_checked": 93,
-      "strings_hallucinated": 2,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 1,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gpt54",
@@ -3114,7 +3114,7 @@
       "difficulty": "N5",
       "strings_checked": 21,
       "numbers_checked": 10,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -3124,8 +3124,8 @@
       "difficulty": "N5",
       "strings_checked": 20,
       "numbers_checked": 11,
-      "strings_hallucinated": 7,
-      "numbers_hallucinated": 4
+      "strings_hallucinated": 5,
+      "numbers_hallucinated": 3
     },
     {
       "model": "gpt54",
@@ -3154,7 +3154,7 @@
       "difficulty": "N5",
       "strings_checked": 36,
       "numbers_checked": 77,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -3164,7 +3164,7 @@
       "difficulty": "N5",
       "strings_checked": 14,
       "numbers_checked": 2,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -3175,7 +3175,7 @@
       "strings_checked": 18,
       "numbers_checked": 39,
       "strings_hallucinated": 3,
-      "numbers_hallucinated": 20
+      "numbers_hallucinated": 18
     },
     {
       "model": "gpt54",
@@ -3184,7 +3184,7 @@
       "difficulty": "N5",
       "strings_checked": 37,
       "numbers_checked": 24,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -3204,7 +3204,7 @@
       "difficulty": "N5",
       "strings_checked": 71,
       "numbers_checked": 14,
-      "strings_hallucinated": 4,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -3214,7 +3214,7 @@
       "difficulty": "N5",
       "strings_checked": 155,
       "numbers_checked": 113,
-      "strings_hallucinated": 32,
+      "strings_hallucinated": 18,
       "numbers_hallucinated": 0
     },
     {
@@ -3224,7 +3224,7 @@
       "difficulty": "N5",
       "strings_checked": 155,
       "numbers_checked": 123,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -3264,8 +3264,8 @@
       "difficulty": "N5",
       "strings_checked": 123,
       "numbers_checked": 147,
-      "strings_hallucinated": 53,
-      "numbers_hallucinated": 14
+      "strings_hallucinated": 45,
+      "numbers_hallucinated": 9
     },
     {
       "model": "gpt54",
@@ -3275,7 +3275,7 @@
       "strings_checked": 112,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "gpt54",
@@ -3285,7 +3285,7 @@
       "strings_checked": 145,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "gpt54",
@@ -3305,7 +3305,7 @@
       "strings_checked": 18,
       "numbers_checked": 27,
       "strings_hallucinated": 2,
-      "numbers_hallucinated": 6
+      "numbers_hallucinated": 5
     },
     {
       "model": "gpt54",
@@ -3635,7 +3635,7 @@
       "strings_checked": 65,
       "numbers_checked": 90,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 9
+      "numbers_hallucinated": 0
     },
     {
       "model": "opus47",
@@ -3734,7 +3734,7 @@
       "difficulty": "N2",
       "strings_checked": 34,
       "numbers_checked": 1,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -3835,7 +3835,7 @@
       "strings_checked": 10,
       "numbers_checked": 8,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 1
+      "numbers_hallucinated": 0
     },
     {
       "model": "opus47",
@@ -3864,7 +3864,7 @@
       "difficulty": "N3",
       "strings_checked": 38,
       "numbers_checked": 57,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -3894,7 +3894,7 @@
       "difficulty": "N3",
       "strings_checked": 16,
       "numbers_checked": 25,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -3914,7 +3914,7 @@
       "difficulty": "N3",
       "strings_checked": 57,
       "numbers_checked": 87,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -3944,7 +3944,7 @@
       "difficulty": "N3",
       "strings_checked": 18,
       "numbers_checked": 9,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -3954,7 +3954,7 @@
       "difficulty": "N3",
       "strings_checked": 38,
       "numbers_checked": 68,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 1
     },
     {
@@ -3975,7 +3975,7 @@
       "strings_checked": 20,
       "numbers_checked": 51,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 3
+      "numbers_hallucinated": 2
     },
     {
       "model": "opus47",
@@ -3984,7 +3984,7 @@
       "difficulty": "N3",
       "strings_checked": 36,
       "numbers_checked": 20,
-      "strings_hallucinated": 4,
+      "strings_hallucinated": 3,
       "numbers_hallucinated": 0
     },
     {
@@ -4014,7 +4014,7 @@
       "difficulty": "N3",
       "strings_checked": 28,
       "numbers_checked": 2,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -4164,7 +4164,7 @@
       "difficulty": "N4",
       "strings_checked": 34,
       "numbers_checked": 59,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4204,7 +4204,7 @@
       "difficulty": "N4",
       "strings_checked": 17,
       "numbers_checked": 46,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4214,7 +4214,7 @@
       "difficulty": "N4",
       "strings_checked": 46,
       "numbers_checked": 84,
-      "strings_hallucinated": 17,
+      "strings_hallucinated": 15,
       "numbers_hallucinated": 0
     },
     {
@@ -4225,7 +4225,7 @@
       "strings_checked": 70,
       "numbers_checked": 86,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 1
+      "numbers_hallucinated": 0
     },
     {
       "model": "opus47",
@@ -4234,7 +4234,7 @@
       "difficulty": "N4",
       "strings_checked": 49,
       "numbers_checked": 71,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -4254,7 +4254,7 @@
       "difficulty": "N4",
       "strings_checked": 21,
       "numbers_checked": 10,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 2
     },
     {
@@ -4264,7 +4264,7 @@
       "difficulty": "N4",
       "strings_checked": 29,
       "numbers_checked": 15,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4274,7 +4274,7 @@
       "difficulty": "N4",
       "strings_checked": 20,
       "numbers_checked": 8,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4314,7 +4314,7 @@
       "difficulty": "N4",
       "strings_checked": 35,
       "numbers_checked": 23,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4374,7 +4374,7 @@
       "difficulty": "N4",
       "strings_checked": 23,
       "numbers_checked": 1,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4524,7 +4524,7 @@
       "difficulty": "N5",
       "strings_checked": 47,
       "numbers_checked": 78,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4534,7 +4534,7 @@
       "difficulty": "N5",
       "strings_checked": 16,
       "numbers_checked": 18,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -4544,8 +4544,8 @@
       "difficulty": "N5",
       "strings_checked": 336,
       "numbers_checked": 182,
-      "strings_hallucinated": 19,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 15,
+      "numbers_hallucinated": 0
     },
     {
       "model": "opus47",
@@ -4554,7 +4554,7 @@
       "difficulty": "N5",
       "strings_checked": 18,
       "numbers_checked": 18,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4564,7 +4564,7 @@
       "difficulty": "N5",
       "strings_checked": 69,
       "numbers_checked": 185,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 5,
       "numbers_hallucinated": 0
     },
     {
@@ -4574,7 +4574,7 @@
       "difficulty": "N5",
       "strings_checked": 111,
       "numbers_checked": 167,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -4584,8 +4584,8 @@
       "difficulty": "N5",
       "strings_checked": 71,
       "numbers_checked": 88,
-      "strings_hallucinated": 2,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 1,
+      "numbers_hallucinated": 0
     },
     {
       "model": "opus47",
@@ -4594,7 +4594,7 @@
       "difficulty": "N5",
       "strings_checked": 166,
       "numbers_checked": 77,
-      "strings_hallucinated": 12,
+      "strings_hallucinated": 9,
       "numbers_hallucinated": 0
     },
     {
@@ -4604,7 +4604,7 @@
       "difficulty": "N5",
       "strings_checked": 21,
       "numbers_checked": 6,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 1
     },
     {
@@ -4624,7 +4624,7 @@
       "difficulty": "N5",
       "strings_checked": 21,
       "numbers_checked": 9,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4644,7 +4644,7 @@
       "difficulty": "N5",
       "strings_checked": 16,
       "numbers_checked": 3,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4654,7 +4654,7 @@
       "difficulty": "N5",
       "strings_checked": 22,
       "numbers_checked": 48,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -4664,7 +4664,7 @@
       "difficulty": "N5",
       "strings_checked": 39,
       "numbers_checked": 23,
-      "strings_hallucinated": 4,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -4694,7 +4694,7 @@
       "difficulty": "N5",
       "strings_checked": 157,
       "numbers_checked": 111,
-      "strings_hallucinated": 11,
+      "strings_hallucinated": 7,
       "numbers_hallucinated": 0
     },
     {
@@ -4755,7 +4755,7 @@
       "strings_checked": 112,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "opus47",
@@ -4765,7 +4765,7 @@
       "strings_checked": 145,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "opus47",
@@ -4784,7 +4784,7 @@
       "difficulty": "N5",
       "strings_checked": 19,
       "numbers_checked": 31,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 2
     },
     {
@@ -5014,7 +5014,7 @@
       "difficulty": "N1",
       "strings_checked": 11,
       "numbers_checked": 9,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -5085,7 +5085,7 @@
       "strings_checked": 34,
       "numbers_checked": 14,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 2
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -5115,7 +5115,7 @@
       "strings_checked": 75,
       "numbers_checked": 89,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 9
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -5214,7 +5214,7 @@
       "difficulty": "N2",
       "strings_checked": 43,
       "numbers_checked": 1,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -5285,7 +5285,7 @@
       "strings_checked": 29,
       "numbers_checked": 14,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 2
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -5315,7 +5315,7 @@
       "strings_checked": 9,
       "numbers_checked": 8,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 1
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -5344,7 +5344,7 @@
       "difficulty": "N3",
       "strings_checked": 38,
       "numbers_checked": 60,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -5374,7 +5374,7 @@
       "difficulty": "N3",
       "strings_checked": 16,
       "numbers_checked": 28,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -5394,7 +5394,7 @@
       "difficulty": "N3",
       "strings_checked": 63,
       "numbers_checked": 86,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -5434,7 +5434,7 @@
       "difficulty": "N3",
       "strings_checked": 35,
       "numbers_checked": 64,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 4
     },
     {
@@ -5444,7 +5444,7 @@
       "difficulty": "N3",
       "strings_checked": 14,
       "numbers_checked": 2,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -5455,7 +5455,7 @@
       "strings_checked": 18,
       "numbers_checked": 48,
       "strings_hallucinated": 1,
-      "numbers_hallucinated": 8
+      "numbers_hallucinated": 7
     },
     {
       "model": "sonnet",
@@ -5464,7 +5464,7 @@
       "difficulty": "N3",
       "strings_checked": 36,
       "numbers_checked": 19,
-      "strings_hallucinated": 5,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -5494,7 +5494,7 @@
       "difficulty": "N3",
       "strings_checked": 36,
       "numbers_checked": 2,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -5504,7 +5504,7 @@
       "difficulty": "N3",
       "strings_checked": 7,
       "numbers_checked": 0,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -5594,7 +5594,7 @@
       "difficulty": "N3",
       "strings_checked": 35,
       "numbers_checked": 28,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -5644,7 +5644,7 @@
       "difficulty": "N4",
       "strings_checked": 35,
       "numbers_checked": 62,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -5684,7 +5684,7 @@
       "difficulty": "N4",
       "strings_checked": 16,
       "numbers_checked": 46,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 3
     },
     {
@@ -5694,7 +5694,7 @@
       "difficulty": "N4",
       "strings_checked": 43,
       "numbers_checked": 84,
-      "strings_hallucinated": 18,
+      "strings_hallucinated": 17,
       "numbers_hallucinated": 0
     },
     {
@@ -5705,7 +5705,7 @@
       "strings_checked": 64,
       "numbers_checked": 91,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 1
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -5714,7 +5714,7 @@
       "difficulty": "N4",
       "strings_checked": 53,
       "numbers_checked": 71,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -5724,7 +5724,7 @@
       "difficulty": "N4",
       "strings_checked": 78,
       "numbers_checked": 40,
-      "strings_hallucinated": 20,
+      "strings_hallucinated": 18,
       "numbers_hallucinated": 0
     },
     {
@@ -5774,7 +5774,7 @@
       "difficulty": "N4",
       "strings_checked": 15,
       "numbers_checked": 2,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -5784,7 +5784,7 @@
       "difficulty": "N4",
       "strings_checked": 17,
       "numbers_checked": 33,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 7
     },
     {
@@ -5794,8 +5794,8 @@
       "difficulty": "N4",
       "strings_checked": 43,
       "numbers_checked": 21,
-      "strings_hallucinated": 5,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 1,
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -5854,7 +5854,7 @@
       "difficulty": "N4",
       "strings_checked": 26,
       "numbers_checked": 1,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -5864,7 +5864,7 @@
       "difficulty": "N4",
       "strings_checked": 6,
       "numbers_checked": 0,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -5954,7 +5954,7 @@
       "difficulty": "N4",
       "strings_checked": 23,
       "numbers_checked": 40,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 9
     },
     {
@@ -5994,7 +5994,7 @@
       "difficulty": "N5",
       "strings_checked": 28,
       "numbers_checked": 2,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -6004,7 +6004,7 @@
       "difficulty": "N5",
       "strings_checked": 47,
       "numbers_checked": 83,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -6014,7 +6014,7 @@
       "difficulty": "N5",
       "strings_checked": 15,
       "numbers_checked": 21,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -6024,7 +6024,7 @@
       "difficulty": "N5",
       "strings_checked": 326,
       "numbers_checked": 178,
-      "strings_hallucinated": 8,
+      "strings_hallucinated": 5,
       "numbers_hallucinated": 0
     },
     {
@@ -6034,8 +6034,8 @@
       "difficulty": "N5",
       "strings_checked": 19,
       "numbers_checked": 36,
-      "strings_hallucinated": 2,
-      "numbers_hallucinated": 3
+      "strings_hallucinated": 0,
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -6044,7 +6044,7 @@
       "difficulty": "N5",
       "strings_checked": 73,
       "numbers_checked": 183,
-      "strings_hallucinated": 15,
+      "strings_hallucinated": 14,
       "numbers_hallucinated": 0
     },
     {
@@ -6054,8 +6054,8 @@
       "difficulty": "N5",
       "strings_checked": 96,
       "numbers_checked": 188,
-      "strings_hallucinated": 1,
-      "numbers_hallucinated": 6
+      "strings_hallucinated": 0,
+      "numbers_hallucinated": 2
     },
     {
       "model": "sonnet",
@@ -6064,8 +6064,8 @@
       "difficulty": "N5",
       "strings_checked": 71,
       "numbers_checked": 87,
-      "strings_hallucinated": 2,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 1,
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -6074,7 +6074,7 @@
       "difficulty": "N5",
       "strings_checked": 166,
       "numbers_checked": 85,
-      "strings_hallucinated": 10,
+      "strings_hallucinated": 8,
       "numbers_hallucinated": 0
     },
     {
@@ -6084,7 +6084,7 @@
       "difficulty": "N5",
       "strings_checked": 25,
       "numbers_checked": 13,
-      "strings_hallucinated": 5,
+      "strings_hallucinated": 3,
       "numbers_hallucinated": 0
     },
     {
@@ -6094,7 +6094,7 @@
       "difficulty": "N5",
       "strings_checked": 39,
       "numbers_checked": 14,
-      "strings_hallucinated": 4,
+      "strings_hallucinated": 3,
       "numbers_hallucinated": 0
     },
     {
@@ -6104,7 +6104,7 @@
       "difficulty": "N5",
       "strings_checked": 24,
       "numbers_checked": 9,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -6124,7 +6124,7 @@
       "difficulty": "N5",
       "strings_checked": 16,
       "numbers_checked": 2,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -6135,7 +6135,7 @@
       "strings_checked": 21,
       "numbers_checked": 61,
       "strings_hallucinated": 1,
-      "numbers_hallucinated": 2
+      "numbers_hallucinated": 0
     },
     {
       "model": "sonnet",
@@ -6144,7 +6144,7 @@
       "difficulty": "N5",
       "strings_checked": 45,
       "numbers_checked": 23,
-      "strings_hallucinated": 5,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -6174,7 +6174,7 @@
       "difficulty": "N5",
       "strings_checked": 156,
       "numbers_checked": 111,
-      "strings_hallucinated": 15,
+      "strings_hallucinated": 11,
       "numbers_hallucinated": 0
     },
     {
@@ -6235,7 +6235,7 @@
       "strings_checked": 112,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "sonnet",
@@ -6245,7 +6245,7 @@
       "strings_checked": 145,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "sonnet",
@@ -6264,8 +6264,8 @@
       "difficulty": "N5",
       "strings_checked": 19,
       "numbers_checked": 29,
-      "strings_hallucinated": 3,
-      "numbers_hallucinated": 2
+      "strings_hallucinated": 2,
+      "numbers_hallucinated": 1
     },
     {
       "model": "sonnet",
@@ -6595,7 +6595,7 @@
       "strings_checked": 20,
       "numbers_checked": 23,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 9
+      "numbers_hallucinated": 0
     },
     {
       "model": "gemini_pro",
@@ -6694,7 +6694,7 @@
       "difficulty": "N2",
       "strings_checked": 34,
       "numbers_checked": 1,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -6795,7 +6795,7 @@
       "strings_checked": 7,
       "numbers_checked": 6,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 1
+      "numbers_hallucinated": 0
     },
     {
       "model": "gemini_pro",
@@ -6814,7 +6814,7 @@
       "difficulty": "N3",
       "strings_checked": 9,
       "numbers_checked": 2,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -6844,7 +6844,7 @@
       "difficulty": "N3",
       "strings_checked": 33,
       "numbers_checked": 39,
-      "strings_hallucinated": 5,
+      "strings_hallucinated": 4,
       "numbers_hallucinated": 2
     },
     {
@@ -6854,7 +6854,7 @@
       "difficulty": "N3",
       "strings_checked": 12,
       "numbers_checked": 25,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -6864,7 +6864,7 @@
       "difficulty": "N3",
       "strings_checked": 98,
       "numbers_checked": 105,
-      "strings_hallucinated": 4,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -6874,7 +6874,7 @@
       "difficulty": "N3",
       "strings_checked": 22,
       "numbers_checked": 29,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -6884,7 +6884,7 @@
       "difficulty": "N3",
       "strings_checked": 20,
       "numbers_checked": 10,
-      "strings_hallucinated": 5,
+      "strings_hallucinated": 4,
       "numbers_hallucinated": 1
     },
     {
@@ -6904,7 +6904,7 @@
       "difficulty": "N3",
       "strings_checked": 18,
       "numbers_checked": 8,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -6914,7 +6914,7 @@
       "difficulty": "N3",
       "strings_checked": 17,
       "numbers_checked": 9,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -6934,7 +6934,7 @@
       "difficulty": "N3",
       "strings_checked": 18,
       "numbers_checked": 41,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 1
     },
     {
@@ -6974,7 +6974,7 @@
       "difficulty": "N3",
       "strings_checked": 24,
       "numbers_checked": 2,
-      "strings_hallucinated": 6,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7124,7 +7124,7 @@
       "difficulty": "N4",
       "strings_checked": 15,
       "numbers_checked": 10,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 1
     },
     {
@@ -7164,7 +7164,7 @@
       "difficulty": "N4",
       "strings_checked": 22,
       "numbers_checked": 33,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7174,7 +7174,7 @@
       "difficulty": "N4",
       "strings_checked": 14,
       "numbers_checked": 9,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7184,7 +7184,7 @@
       "difficulty": "N4",
       "strings_checked": 74,
       "numbers_checked": 73,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7194,7 +7194,7 @@
       "difficulty": "N4",
       "strings_checked": 34,
       "numbers_checked": 40,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7204,7 +7204,7 @@
       "difficulty": "N4",
       "strings_checked": 17,
       "numbers_checked": 8,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -7244,7 +7244,7 @@
       "difficulty": "N4",
       "strings_checked": 21,
       "numbers_checked": 11,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 1
     },
     {
@@ -7264,7 +7264,7 @@
       "difficulty": "N4",
       "strings_checked": 15,
       "numbers_checked": 25,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7274,7 +7274,7 @@
       "difficulty": "N4",
       "strings_checked": 23,
       "numbers_checked": 18,
-      "strings_hallucinated": 7,
+      "strings_hallucinated": 2,
       "numbers_hallucinated": 0
     },
     {
@@ -7314,7 +7314,7 @@
       "difficulty": "N4",
       "strings_checked": 79,
       "numbers_checked": 49,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7324,7 +7324,7 @@
       "difficulty": "N4",
       "strings_checked": 79,
       "numbers_checked": 49,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7334,7 +7334,7 @@
       "difficulty": "N4",
       "strings_checked": 21,
       "numbers_checked": 1,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7434,7 +7434,7 @@
       "difficulty": "N4",
       "strings_checked": 23,
       "numbers_checked": 40,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7484,7 +7484,7 @@
       "difficulty": "N5",
       "strings_checked": 29,
       "numbers_checked": 16,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7494,7 +7494,7 @@
       "difficulty": "N5",
       "strings_checked": 15,
       "numbers_checked": 16,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7504,7 +7504,7 @@
       "difficulty": "N5",
       "strings_checked": 9,
       "numbers_checked": 4,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7514,8 +7514,8 @@
       "difficulty": "N5",
       "strings_checked": 14,
       "numbers_checked": 13,
-      "strings_hallucinated": 1,
-      "numbers_hallucinated": 1
+      "strings_hallucinated": 0,
+      "numbers_hallucinated": 0
     },
     {
       "model": "gemini_pro",
@@ -7524,7 +7524,7 @@
       "difficulty": "N5",
       "strings_checked": 15,
       "numbers_checked": 5,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7534,7 +7534,7 @@
       "difficulty": "N5",
       "strings_checked": 69,
       "numbers_checked": 68,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7545,7 +7545,7 @@
       "strings_checked": 12,
       "numbers_checked": 25,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 1
+      "numbers_hallucinated": 0
     },
     {
       "model": "gemini_pro",
@@ -7554,7 +7554,7 @@
       "difficulty": "N5",
       "strings_checked": 17,
       "numbers_checked": 8,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7564,7 +7564,7 @@
       "difficulty": "N5",
       "strings_checked": 19,
       "numbers_checked": 10,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -7574,7 +7574,7 @@
       "difficulty": "N5",
       "strings_checked": 20,
       "numbers_checked": 4,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -7594,7 +7594,7 @@
       "difficulty": "N5",
       "strings_checked": 21,
       "numbers_checked": 5,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7604,7 +7604,7 @@
       "difficulty": "N5",
       "strings_checked": 15,
       "numbers_checked": 2,
-      "strings_hallucinated": 1,
+      "strings_hallucinated": 0,
       "numbers_hallucinated": 0
     },
     {
@@ -7624,7 +7624,7 @@
       "difficulty": "N5",
       "strings_checked": 22,
       "numbers_checked": 16,
-      "strings_hallucinated": 2,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -7644,7 +7644,7 @@
       "difficulty": "N5",
       "strings_checked": 68,
       "numbers_checked": 16,
-      "strings_hallucinated": 3,
+      "strings_hallucinated": 1,
       "numbers_hallucinated": 0
     },
     {
@@ -7654,7 +7654,7 @@
       "difficulty": "N5",
       "strings_checked": 157,
       "numbers_checked": 109,
-      "strings_hallucinated": 10,
+      "strings_hallucinated": 4,
       "numbers_hallucinated": 0
     },
     {
@@ -7705,7 +7705,7 @@
       "strings_checked": 120,
       "numbers_checked": 149,
       "strings_hallucinated": 7,
-      "numbers_hallucinated": 4
+      "numbers_hallucinated": 5
     },
     {
       "model": "gemini_pro",
@@ -7715,7 +7715,7 @@
       "strings_checked": 112,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "gemini_pro",
@@ -7725,7 +7725,7 @@
       "strings_checked": 145,
       "numbers_checked": 135,
       "strings_hallucinated": 0,
-      "numbers_hallucinated": 0
+      "numbers_hallucinated": 1
     },
     {
       "model": "gemini_pro",
@@ -7745,7 +7745,7 @@
       "strings_checked": 19,
       "numbers_checked": 28,
       "strings_hallucinated": 1,
-      "numbers_hallucinated": 4
+      "numbers_hallucinated": 3
     },
     {
       "model": "gemini_pro",

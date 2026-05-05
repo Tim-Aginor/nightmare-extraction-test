@@ -36,24 +36,9 @@
           "value": "2026-08-01",
           "rendered_as": "08/01/2026"
         },
-        "report_id": {
-          "value": "LR-2026-53671"
-        },
         "report_date": {
           "value": "2026-03-15",
           "rendered_as": "03/15/2026"
-        },
-        "policy_number_wc": {
-          "value": "WC-KCB-2025-5580"
-        },
-        "policy_number_gl": {
-          "value": "GL-KCB-2025-5581"
-        },
-        "policy_number_auto": {
-          "value": "CA-KCB-2025-5582"
-        },
-        "policy_number_property": {
-          "value": "CP-KCB-2025-5583"
         }
       },
       "doc_type": "loss_run_excel",
@@ -65,7 +50,7 @@
             "value": "HMK-2025-039474"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2025-11-24",
@@ -82,25 +67,25 @@
             "rendered_as": "$6,299.43"
           },
           "total_reserved": {
-            "value": 8987.7,
-            "rendered_as": "$8,987.70"
+            "value": 8945.11,
+            "rendered_as": "$8,945.11"
           },
           "total_incurred": {
-            "value": 15287.13,
-            "rendered_as": "$15,287.13"
+            "value": 15244.54,
+            "rendered_as": "$15,244.54"
           },
           "date_reported": {
             "value": "2025-11-30",
             "rendered_as": "11/30/2025"
           },
           "description": {
-            "value": "Employee experienced a frozen shoulder to the left shoulder while\u2014reaching overhead to install sprinkler heads. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
+            "value": "Employee experienced a frozen shoulder to the left shoulder while—reaching overhead to install sprinkler heads. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "73"
@@ -138,8 +123,8 @@
             "rendered_as": "$349.33"
           },
           "reserve": {
-            "value": 8987.7,
-            "rendered_as": "$8,987.70"
+            "value": 8945.11,
+            "rendered_as": "$8,945.11"
           },
           "class_code": {
             "value": "5403"
@@ -160,7 +145,7 @@
             "rendered_as": "02/24/2023"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -170,29 +155,26 @@
             "rendered_as": "$30,839.01"
           },
           "total_reserved": {
-            "value": 1211.82,
-            "rendered_as": "$1,211.82"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 32050.83,
-            "rendered_as": "$32,050.83"
+            "value": 30839.01,
+            "rendered_as": "$30,839.01"
           },
           "date_reported": {
             "value": "2023-03-02",
             "rendered_as": "03/02/2023"
           },
           "description": {
-            "value": "Employee sustained a fracture of the greater trochanter to the right hip while landing on the hip after\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 falling from scaffolding."
+            "value": "Employee sustained a fracture of the greater trochanter to the right hip while landing on the hip after–––––––––––––––––––––––––––––––––––––––––––––––––––––––––– falling from scaffolding."
           },
           "close_date": {
-            "value": null
+            "value": "2025-09-27",
+            "rendered_as": "09/27/2025"
           },
           "examiner": {
-            "value": "J. Kowalski"
-          },
-          "recovery_amount": {
-            "value": 5834.07,
-            "rendered_as": "$5,834.07"
+            "value": "A. Marchetti"
           },
           "cause_code": {
             "value": "71"
@@ -230,8 +212,8 @@
             "rendered_as": "$578.56"
           },
           "reserve": {
-            "value": 1211.82,
-            "rendered_as": "$1,211.82"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "5606"
@@ -245,7 +227,7 @@
             "value": "NWI-2025-039582"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2025-02-10",
@@ -281,7 +263,7 @@
             "rendered_as": "07/25/2025"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "71"
@@ -334,7 +316,7 @@
             "value": "NWI-2022-039790"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2022-07-01",
@@ -363,14 +345,14 @@
             "rendered_as": "07/12/2022"
           },
           "description": {
-            "value": "Employee suffered a labral tear to the\u00a0right hip while landing on the\u00a0hip after falling from scaffolding. Occupational therapy was recommended for a period of 12 weeks."
+            "value": "Employee suffered a labral tear to the right hip while landing on the hip after falling from scaffolding. Occupational therapy was recommended for a period of 12 weeks."
           },
           "close_date": {
             "value": "2023-09-22",
             "rendered_as": "09/22/2023"
           },
           "examiner": {
-            "value": "J. Kowalski"
+            "value": "A. Marchetti"
           },
           "cause_code": {
             "value": "72"
@@ -423,7 +405,7 @@
             "value": "NWI-2021-040109"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2021-08-11",
@@ -452,14 +434,14 @@
             "rendered_as": "08/25/2021"
           },
           "description": {
-            "value": "Employee sustained a contusion and deep bruising to the right hip while\u2014landing on the hip after falling from scaffolding. The employee was prescribed rest, ice, and a follow-up with a specialist."
+            "value": "Employee sustained a contusion and deep bruising to the right hip while—landing on the hip after falling from scaffolding. The employee was prescribed rest, ice, and a follow-up with a specialist."
           },
           "close_date": {
             "value": "2022-07-04",
             "rendered_as": "07/04/2022"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "69"
@@ -541,14 +523,14 @@
             "rendered_as": "02/02/2023"
           },
           "description": {
-            "value": "Employee sustained a\u2019hip flexor strain to the left hip while slipping on a\u2019rain-soaked sidewalk outside the facility. MRI confirmed the injury and the employee underwent arthroscopic surgery."
+            "value": "Employee sustained a’hip flexor strain to the left hip while slipping on a’rain-soaked sidewalk outside the facility. MRI confirmed the injury and the employee underwent arthroscopic surgery."
           },
           "close_date": {
             "value": "2024-06-23",
             "rendered_as": "06/23/2024"
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "72"
@@ -630,14 +612,14 @@
             "rendered_as": "08/25/2021"
           },
           "description": {
-            "value": "Employee suffered a tibial plateau fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left knee while stepping into a pothole in the parking lot. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
+            "value": "Employee suffered a tibial plateau fracture to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ left knee while stepping into a pothole in the parking lot. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
           },
           "close_date": {
             "value": "2022-06-09",
             "rendered_as": "06/09/2022"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "72"
@@ -690,7 +672,7 @@
             "value": "NWI-2021-040971"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2021-12-16",
@@ -719,14 +701,14 @@
             "rendered_as": "12/23/2021"
           },
           "description": {
-            "value": "Employee suffered a sternum\u2026"
+            "value": "Employee suffered a sternum…"
           },
           "close_date": {
             "value": "2022-08-27",
             "rendered_as": "08/27/2022"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "70"
@@ -808,18 +790,14 @@
             "rendered_as": "07/14/2024"
           },
           "description": {
-            "value": "Employee sustained a dislocated shoulder to the right shoulder while\u2014reaching overhead to install ductwork. Emergency reduction and immobilization were performed, followed by physical therapy for range of motion recovery."
+            "value": "Employee sustained a dislocated shoulder to the right shoulder while—reaching overhead to install ductwork. Emergency reduction and immobilization were performed, followed by physical therapy for range of motion recovery."
           },
           "close_date": {
             "value": "2025-03-12",
             "rendered_as": "03/12/2025"
           },
           "examiner": {
-            "value": "J. Kowalski"
-          },
-          "recovery_amount": {
-            "value": 4912.45,
-            "rendered_as": "$4,912.45"
+            "value": "A. Marchetti"
           },
           "cause_code": {
             "value": "73"
@@ -879,7 +857,7 @@
             "rendered_as": "07/13/2021"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -889,29 +867,26 @@
             "rendered_as": "$74,593.95"
           },
           "total_reserved": {
-            "value": 406.05,
-            "rendered_as": "$406.05"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 75000.0,
-            "rendered_as": "$75,000.00"
+            "value": 74593.95,
+            "rendered_as": "$74,593.95"
           },
           "date_reported": {
             "value": "2021-07-16",
             "rendered_as": "07/16/2021"
           },
           "description": {
-            "value": "Employee suffered a crush injury to the right foot while\u2014stepping on a protruding nail at the construction site. Emergency medical treatment was administered on-site before transport to the hospital."
+            "value": "Employee suffered a crush injury to the right foot while—stepping on a protruding nail at the construction site. Emergency medical treatment was administered on-site before transport to the hospital."
           },
           "close_date": {
-            "value": null
+            "value": "2023-05-17",
+            "rendered_as": "05/17/2023"
           },
           "examiner": {
-            "value": "A. Marchetti"
-          },
-          "recovery_amount": {
-            "value": 2024.11,
-            "rendered_as": "$2,024.11"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "64"
@@ -949,8 +924,8 @@
             "rendered_as": "$748.90"
           },
           "reserve": {
-            "value": 406.05,
-            "rendered_as": "$406.05"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "5183"
@@ -1000,7 +975,7 @@
             "rendered_as": "06/24/2022"
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "73"
@@ -1082,14 +1057,14 @@
             "rendered_as": "11/26/2023"
           },
           "description": {
-            "value": "Employee suffered a\u2019meniscus tear to the right knee while climbing a\u20198-foot ladder while carrying tools. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
+            "value": "Employee suffered a’meniscus tear to the right knee while climbing a’8-foot ladder while carrying tools. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
           },
           "close_date": {
             "value": "2024-12-06",
             "rendered_as": "12/06/2024"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "71"
@@ -1171,14 +1146,14 @@
             "rendered_as": "06/20/2021"
           },
           "description": {
-            "value": "Employee suffered a fracture of\u2026"
+            "value": "Employee suffered a fracture of…"
           },
           "close_date": {
             "value": "2022-04-06",
             "rendered_as": "04/06/2022"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "72"
@@ -1238,7 +1213,7 @@
             "rendered_as": "03/21/2021"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -1248,29 +1223,26 @@
             "rendered_as": "$60,415.16"
           },
           "total_reserved": {
-            "value": 2589.4,
-            "rendered_as": "$2,589.40"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 63004.56,
-            "rendered_as": "$63,004.56"
+            "value": 60415.16,
+            "rendered_as": "$60,415.16"
           },
           "date_reported": {
             "value": "2021-03-26",
             "rendered_as": "03/26/2021"
           },
           "description": {
-            "value": "Employee sustained a rib fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
+            "value": "Employee sustained a rib fracture to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ chest while falling against a steel railing during a slip. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
           },
           "close_date": {
-            "value": null
+            "value": "2025-06-13",
+            "rendered_as": "06/13/2025"
           },
           "examiner": {
-            "value": "A. Marchetti"
-          },
-          "recovery_amount": {
-            "value": 4957.61,
-            "rendered_as": "$4,957.61"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "72"
@@ -1308,8 +1280,8 @@
             "rendered_as": "$1,555.30"
           },
           "reserve": {
-            "value": 2589.4,
-            "rendered_as": "$2,589.40"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "5606"
@@ -1352,13 +1324,13 @@
             "rendered_as": "08/23/2025"
           },
           "description": {
-            "value": "Employee\u2019s suffered a compression fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while shoveling debris at the job site. Treatment included physical therapy and a course of anti-inflammatory medication."
+            "value": "Employee’s suffered a compression fracture to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ lower back while shoveling debris at the job site. Treatment included physical therapy and a course of anti-inflammatory medication."
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "73"
@@ -1447,7 +1419,7 @@
             "rendered_as": "09/14/2021"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "70"
@@ -1529,18 +1501,14 @@
             "rendered_as": "01/16/2024"
           },
           "description": {
-            "value": "Employee sustained multiple rib contusions to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
+            "value": "Employee sustained multiple rib contusions to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
           },
           "close_date": {
             "value": "2024-10-08",
             "rendered_as": "10/08/2024"
           },
           "examiner": {
-            "value": "S. Petrosky"
-          },
-          "recovery_amount": {
-            "value": 305.61,
-            "rendered_as": "$305.61"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "72"
@@ -1600,7 +1568,7 @@
             "rendered_as": "03/29/2024"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -1610,12 +1578,12 @@
             "rendered_as": "$29,748.17"
           },
           "total_reserved": {
-            "value": 251.83,
-            "rendered_as": "$251.83"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 30000.0,
-            "rendered_as": "$30,000.00"
+            "value": 29748.17,
+            "rendered_as": "$29,748.17"
           },
           "date_reported": {
             "value": "2024-04-01",
@@ -1625,14 +1593,11 @@
             "value": "Employee sustained a herniated............."
           },
           "close_date": {
-            "value": null
+            "value": "2024-07-07",
+            "rendered_as": "07/07/2024"
           },
           "examiner": {
-            "value": "A. Marchetti"
-          },
-          "recovery_amount": {
-            "value": 4273.52,
-            "rendered_as": "$4,273.52"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "73"
@@ -1641,7 +1606,7 @@
             "value": "Overexertion"
           },
           "original_reserve": {
-            "value": 31500.43
+            "value": 31500.29
           },
           "body_part": {
             "value": "Cervical Spine"
@@ -1670,8 +1635,8 @@
             "rendered_as": "$1,184.29"
           },
           "reserve": {
-            "value": 251.83,
-            "rendered_as": "$251.83"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "5190"
@@ -1682,7 +1647,7 @@
         },
         {
           "claim_number": {
-            "value": "NWI-2021-043761\u00b2"
+            "value": "NWI-2021-043761²"
           },
           "claimant": {
             "value": "Andrew Jackson"
@@ -1721,7 +1686,7 @@
             "rendered_as": "07/07/2022"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "73"
@@ -1803,13 +1768,13 @@
             "rendered_as": "10/02/2024"
           },
           "description": {
-            "value": "Employee\u2019s experienced an..."
+            "value": "Employee’s experienced an..."
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "J. Kowalski"
+            "value": "A. Marchetti"
           },
           "cause_code": {
             "value": "72"
@@ -1859,7 +1824,7 @@
         },
         {
           "claim_number": {
-            "value": "MRK-2021-044382\u2021"
+            "value": "MRK-2021-044382‡"
           },
           "claimant": {
             "value": "Kenneth Lee"
@@ -1891,14 +1856,14 @@
             "rendered_as": "04/30/2021"
           },
           "description": {
-            "value": "Employee\u2019s suffered a\u2026"
+            "value": "Employee’s suffered a…"
           },
           "close_date": {
             "value": "2022-01-08",
             "rendered_as": "01/08/2022"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "73"
@@ -1958,7 +1923,7 @@
             "rendered_as": "08/23/2024"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -1968,29 +1933,26 @@
             "rendered_as": "$36,235.37"
           },
           "total_reserved": {
-            "value": 556.27,
-            "rendered_as": "$556.27"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 36791.64,
-            "rendered_as": "$36,791.64"
+            "value": 36235.37,
+            "rendered_as": "$36,235.37"
           },
           "date_reported": {
             "value": "2024-08-28",
             "rendered_as": "08/28/2024"
           },
           "description": {
-            "value": "Employee\u2019s suffered a\u2019labral tear to the right hip while landing on the hip after falling from scaffolding."
+            "value": "Employee’s suffered a’labral tear to the right hip while landing on the hip after falling from scaffolding."
           },
           "close_date": {
-            "value": null
+            "value": "2025-08-23",
+            "rendered_as": "08/23/2025"
           },
           "examiner": {
-            "value": "M. Yablonski"
-          },
-          "recovery_amount": {
-            "value": 5669.5,
-            "rendered_as": "$5,669.50"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "72"
@@ -2028,8 +1990,8 @@
             "rendered_as": "$966.98"
           },
           "reserve": {
-            "value": 556.27,
-            "rendered_as": "$556.27"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "5474"
@@ -2043,7 +2005,7 @@
             "value": "NWI-2021-044922"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2021-11-01",
@@ -2072,14 +2034,14 @@
             "rendered_as": "11/11/2021"
           },
           "description": {
-            "value": "Employee sustained a fracture of the greater trochanter to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b right hip while\u2014landing on the hip after falling from scaffolding. The injury required a splint and modified work duties for 4 weeks."
+            "value": "Employee sustained a fracture of the greater trochanter to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ right hip while—landing on the hip after falling from scaffolding. The injury required a splint and modified work duties for 4 weeks."
           },
           "close_date": {
             "value": "2022-08-24",
             "rendered_as": "08/24/2022"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "71"
@@ -2132,7 +2094,7 @@
             "value": "NWI-2022-044980"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2022-06-24",
@@ -2161,14 +2123,14 @@
             "rendered_as": "06/29/2022"
           },
           "description": {
-            "value": "Employee experienced a patellar fracture to the right knee while\u2014descending a staircase in the facility while\u2014carrying equipment. The employee was prescribed rest, ice, and a follow-up with a specialist."
+            "value": "Employee experienced a patellar fracture to the right knee while—descending a staircase in the facility while—carrying equipment. The employee was prescribed rest, ice, and a follow-up with a specialist."
           },
           "close_date": {
             "value": "2023-03-14",
             "rendered_as": "03/14/2023"
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "72"
@@ -2218,7 +2180,7 @@
         },
         {
           "claim_number": {
-            "value": "NWI-2024-045138\u00b9"
+            "value": "NWI-2024-045138¹"
           },
           "claimant": {
             "value": "Timothy Harris"
@@ -2234,30 +2196,30 @@
             "value": "wc"
           },
           "total_paid": {
-            "value": 1000.82,
-            "rendered_as": "$1,000.82"
+            "value": 1000.75,
+            "rendered_as": "$1,000.75"
           },
           "total_reserved": {
             "value": 0.0,
             "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 1000.82,
-            "rendered_as": "$1,000.82"
+            "value": 1000.75,
+            "rendered_as": "$1,000.75"
           },
           "date_reported": {
             "value": "2024-11-14",
             "rendered_as": "11/14/2024"
           },
           "description": {
-            "value": "Employee sustained multiple rib contusions to the\u00a0chest while\u2014falling against a steel railing during a slip."
+            "value": "Employee sustained multiple rib contusions to the chest while—falling against a steel railing during a slip."
           },
           "close_date": {
             "value": "2025-02-19",
             "rendered_as": "02/19/2025"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "72"
@@ -2275,12 +2237,12 @@
             "value": "Contusion"
           },
           "paid_indemnity": {
-            "value": 400.17,
-            "rendered_as": "$400.17"
+            "value": 400.42,
+            "rendered_as": "$400.42"
           },
           "paid_medical": {
-            "value": 500.65,
-            "rendered_as": "$500.65"
+            "value": 500.33,
+            "rendered_as": "$500.33"
           },
           "paid_expense": {
             "value": 100.0,
@@ -2310,7 +2272,7 @@
             "value": "NWI-2025-045458"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2025-07-15",
@@ -2327,25 +2289,25 @@
             "rendered_as": "$10,174.81"
           },
           "total_reserved": {
-            "value": 7527.86,
-            "rendered_as": "$7,527.86"
+            "value": 7492.2,
+            "rendered_as": "$7,492.20"
           },
           "total_incurred": {
-            "value": 17702.67,
-            "rendered_as": "$17,702.67"
+            "value": 17667.01,
+            "rendered_as": "$17,667.01"
           },
           "date_reported": {
             "value": "2025-07-24",
             "rendered_as": "07/24/2025"
           },
           "description": {
-            "value": "Employee\u2019s sustained a..."
+            "value": "Employee’s sustained a..."
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "73"
@@ -2383,8 +2345,8 @@
             "rendered_as": "$1,065.72"
           },
           "reserve": {
-            "value": 7527.86,
-            "rendered_as": "$7,527.86"
+            "value": 7492.2,
+            "rendered_as": "$7,492.20"
           },
           "class_code": {
             "value": "5022"
@@ -2427,14 +2389,14 @@
             "rendered_as": "07/17/2022"
           },
           "description": {
-            "value": "Employee suffered a\u2019labral tear to the..."
+            "value": "Employee suffered a’labral tear to the..."
           },
           "close_date": {
             "value": "2023-07-05",
             "rendered_as": "07/05/2023"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "72"
@@ -2484,10 +2446,10 @@
         },
         {
           "claim_number": {
-            "value": "ZIG-2023-045941\u00b3"
+            "value": "ZIG-2023-045941³"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2023-06-15",
@@ -2523,11 +2485,7 @@
             "rendered_as": "11/28/2023"
           },
           "examiner": {
-            "value": "A. Marchetti"
-          },
-          "recovery_amount": {
-            "value": 4955.24,
-            "rendered_as": "$4,955.24"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "71"
@@ -2609,14 +2567,14 @@
             "rendered_as": "03/14/2024"
           },
           "description": {
-            "value": "Employee\u2019s experienced a..."
+            "value": "Employee’s experienced a..."
           },
           "close_date": {
             "value": "2025-08-24",
             "rendered_as": "08/24/2025"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "73"
@@ -2676,7 +2634,7 @@
             "rendered_as": "08/15/2024"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Open"
           },
           "coverage": {
             "value": "wc"
@@ -2686,29 +2644,25 @@
             "rendered_as": "$199,806.09"
           },
           "total_reserved": {
-            "value": 193.91,
-            "rendered_as": "$193.91"
+            "value": 9990.3,
+            "rendered_as": "$9,990.30"
           },
           "total_incurred": {
-            "value": 200000.0,
-            "rendered_as": "$200,000.00"
+            "value": 209796.39,
+            "rendered_as": "$209,796.39"
           },
           "date_reported": {
             "value": "2024-08-27",
             "rendered_as": "08/27/2024"
           },
           "description": {
-            "value": "Employee suffered a\u2019partial\u2026"
+            "value": "Employee suffered a’partial…"
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "M. Yablonski"
-          },
-          "recovery_amount": {
-            "value": 2442.19,
-            "rendered_as": "$2,442.19"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "64"
@@ -2746,8 +2700,8 @@
             "rendered_as": "$3,276.68"
           },
           "reserve": {
-            "value": 193.91,
-            "rendered_as": "$193.91"
+            "value": 9990.3,
+            "rendered_as": "$9,990.30"
           },
           "class_code": {
             "value": "5403"
@@ -2761,7 +2715,7 @@
             "value": "NWI-2021-046889"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2021-10-10",
@@ -2797,7 +2751,7 @@
             "rendered_as": "05/20/2022"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "70"
@@ -2879,13 +2833,13 @@
             "rendered_as": "07/10/2025"
           },
           "description": {
-            "value": "Employee suffered a\u2019chemical\u2026"
+            "value": "Employee suffered a’chemical…"
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "08"
@@ -2894,7 +2848,7 @@
             "value": "Burn"
           },
           "original_reserve": {
-            "value": 31500.89
+            "value": 31500.05
           },
           "body_part": {
             "value": "Eye"
@@ -2974,7 +2928,7 @@
             "rendered_as": "07/18/2024"
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "72"
@@ -3056,14 +3010,14 @@
             "rendered_as": "04/18/2025"
           },
           "description": {
-            "value": "Employee experienced a\u2019stress.............."
+            "value": "Employee experienced a’stress.............."
           },
           "close_date": {
             "value": "2026-02-02",
             "rendered_as": "02/02/2026"
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "72"
@@ -3116,14 +3070,14 @@
             "value": "HTF-2024-048031"
           },
           "claimant": {
-            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+            "value": "فاطمة الزهراء"
           },
           "date_of_loss": {
             "value": "2024-07-30",
             "rendered_as": "07/30/2024"
           },
           "status": {
-            "value": "Subrogation"
+            "value": "Closed"
           },
           "coverage": {
             "value": "wc"
@@ -3133,29 +3087,26 @@
             "rendered_as": "$29,790.62"
           },
           "total_reserved": {
-            "value": 209.38,
-            "rendered_as": "$209.38"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "total_incurred": {
-            "value": 30000.0,
-            "rendered_as": "$30,000.00"
+            "value": 29790.62,
+            "rendered_as": "$29,790.62"
           },
           "date_reported": {
             "value": "2024-07-31",
             "rendered_as": "07/31/2024"
           },
           "description": {
-            "value": "Employee suffered a herniated disc at L4-L5 to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while shoveling debris at the job site. Occupational therapy was recommended for a period of 12 weeks."
+            "value": "Employee suffered a herniated disc at L4-L5 to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ lower back while shoveling debris at the job site. Occupational therapy was recommended for a period of 12 weeks."
           },
           "close_date": {
-            "value": null
+            "value": "2025-06-09",
+            "rendered_as": "06/09/2025"
           },
           "examiner": {
-            "value": "A. Marchetti"
-          },
-          "recovery_amount": {
-            "value": 17821.92,
-            "rendered_as": "$17,821.92"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "73"
@@ -3164,7 +3115,7 @@
             "value": "Overexertion"
           },
           "original_reserve": {
-            "value": 31500.23
+            "value": 31500.26
           },
           "body_part": {
             "value": "Lower Back"
@@ -3193,8 +3144,8 @@
             "rendered_as": "$1,256.40"
           },
           "reserve": {
-            "value": 209.38,
-            "rendered_as": "$209.38"
+            "value": 0.0,
+            "rendered_as": "$0.00"
           },
           "class_code": {
             "value": "5022"
@@ -3208,7 +3159,7 @@
             "value": "ZIG-2023-039474"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2023-01-25",
@@ -3237,14 +3188,14 @@
             "rendered_as": "2023-02-06"
           },
           "description": {
-            "value": "Customer at the\u00a0facility was\u2026"
+            "value": "Customer at the facility was…"
           },
           "close_date": {
             "value": "2023-07-06",
             "rendered_as": "2023-07-06"
           },
           "examiner": {
-            "value": "J. Kowalski"
+            "value": "A. Marchetti"
           },
           "cause_code": {
             "value": "02"
@@ -3325,14 +3276,14 @@
             "rendered_as": "2022-08-16"
           },
           "description": {
-            "value": "Customer at the\u00a0facility was cut by a jagged product packaging edge that gave way when the\u00a0customer leaned on it, requiring 8 stitches."
+            "value": "Customer at the facility was cut by a jagged product packaging edge that gave way when the customer leaned on it, requiring 8 stitches."
           },
           "close_date": {
             "value": "2024-01-08",
             "rendered_as": "2024-01-08"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "02"
@@ -3384,7 +3335,7 @@
             "value": "MRK-2025-040109"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2025-06-14",
@@ -3413,13 +3364,13 @@
             "rendered_as": "2025-07-01"
           },
           "description": {
-            "value": "A neighboring tenant alleged\u2026"
+            "value": "A neighboring tenant alleged…"
           },
           "close_date": {
             "value": null
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "litigation_flag": {
             "value": true,
@@ -3517,7 +3468,7 @@
             "rendered_as": "2022-02-06"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "12"
@@ -3604,7 +3555,7 @@
             "value": null
           },
           "examiner": {
-            "value": "J. Kowalski"
+            "value": "A. Marchetti"
           },
           "recovery_amount": {
             "value": 2132.2,
@@ -3657,10 +3608,10 @@
         },
         {
           "claim_number": {
-            "value": "MRK-2024-042434\u2021"
+            "value": "MRK-2024-042434‡"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2024-10-17",
@@ -3695,7 +3646,7 @@
             "value": null
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "01"
@@ -3744,7 +3695,7 @@
         },
         {
           "claim_number": {
-            "value": "HMK-2025-043002\u00b9"
+            "value": "HMK-2025-043002¹"
           },
           "claimant": {
             "value": "Christopher Scott"
@@ -3783,7 +3734,7 @@
             "rendered_as": "2026-01-20"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "recovery_amount": {
             "value": 5087.43,
@@ -3875,7 +3826,7 @@
             "rendered_as": "2022-10-22"
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "01"
@@ -3963,7 +3914,7 @@
             "rendered_as": "Feb 12, 2025"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "13"
@@ -4011,10 +3962,10 @@
         },
         {
           "claim_number": {
-            "value": "HMK-2025-040159\u00b3"
+            "value": "HMK-2025-040159³"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2025-11-18",
@@ -4049,7 +4000,7 @@
             "value": null
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "25"
@@ -4135,7 +4086,7 @@
             "value": null
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "20"
@@ -4186,7 +4137,7 @@
             "value": "TRV-2024-046889"
           },
           "claimant": {
-            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+            "value": "أحمد بن سعيد"
           },
           "date_of_loss": {
             "value": "2024-09-28",
@@ -4221,7 +4172,7 @@
             "value": null
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "25"
@@ -4272,7 +4223,7 @@
             "value": "BHG-2024-039790"
           },
           "claimant": {
-            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+            "value": "محمد العربي"
           },
           "date_of_loss": {
             "value": "2024-04-15",
@@ -4301,14 +4252,14 @@
             "rendered_as": "Apr 24, 2024"
           },
           "description": {
-            "value": "Fleet utility vehicle was\u2026"
+            "value": "Fleet utility vehicle was…"
           },
           "close_date": {
             "value": "2024-08-10",
             "rendered_as": "Aug 10, 2024"
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "20"
@@ -4395,7 +4346,7 @@
             "rendered_as": "Apr 15, 2022"
           },
           "examiner": {
-            "value": "S. Petrosky"
+            "value": "M. Yablonski"
           },
           "cause_code": {
             "value": "20"
@@ -4404,7 +4355,7 @@
             "value": "Collision"
           },
           "original_reserve": {
-            "value": 3276.78
+            "value": 3280.91
           },
           "driver": {
             "value": "Kevin Zielinski"
@@ -4443,7 +4394,7 @@
         },
         {
           "claim_number": {
-            "value": "BHG-2023-039582\u00b9"
+            "value": "BHG-2023-039582¹"
           },
           "claimant": {
             "value": "Keystone Commercial Builders, Inc."
@@ -4475,14 +4426,14 @@
             "rendered_as": "Aug 28, 2023"
           },
           "description": {
-            "value": "The company's pickup truck\u2026"
+            "value": "The company's pickup truck…"
           },
           "close_date": {
             "value": "2024-03-06",
             "rendered_as": "Mar 06, 2024"
           },
           "examiner": {
-            "value": "A. Marchetti"
+            "value": "S. Petrosky"
           },
           "cause_code": {
             "value": "20"
@@ -4491,7 +4442,7 @@
             "value": "Collision"
           },
           "original_reserve": {
-            "value": 3304.15
+            "value": 3308.44
           },
           "driver": {
             "value": "James Yurkovich"
@@ -4569,7 +4520,7 @@
             "rendered_as": "Jan 28, 2025"
           },
           "examiner": {
-            "value": "M. Yablonski"
+            "value": "J. Kowalski"
           },
           "cause_code": {
             "value": "21"
@@ -4578,7 +4529,7 @@
             "value": "Comprehensive"
           },
           "original_reserve": {
-            "value": 3305.9
+            "value": 3304.91
           },
           "driver": {
             "value": "Paul Staniszewski"
@@ -4638,7 +4589,7 @@
           },
           "total_reserved": {
             "value": 0.0,
-            "rendered_as": "\u2014"
+            "rendered_as": "—"
           },
           "total_incurred": {
             "value": 36750.0,
@@ -4686,7 +4637,7 @@
           },
           "reserve": {
             "value": 0.0,
-            "rendered_as": "\u2014"
+            "rendered_as": "—"
           }
         }
       ],
@@ -4694,16 +4645,16 @@
         {
           "coverage": "wc",
           "total_paid": {
-            "value": 1126509.26,
-            "rendered_as": "$1,126,509.26"
+            "value": 1126509.19,
+            "rendered_as": "$1,126,509.19"
           },
           "total_reserved": {
-            "value": 45097.83,
-            "rendered_as": "$45,097.83"
+            "value": 49591.22,
+            "rendered_as": "$49,591.22"
           },
           "total_incurred": {
-            "value": 1171607.09,
-            "rendered_as": "$1,171,607.09"
+            "value": 1176100.41,
+            "rendered_as": "$1,176,100.41"
           }
         },
         {
@@ -4744,7 +4695,7 @@
           },
           "total_reserved": {
             "value": 0.0,
-            "rendered_as": "\u2014"
+            "rendered_as": "—"
           },
           "total_incurred": {
             "value": 36750.0,
@@ -4754,16 +4705,16 @@
       ],
       "grand_totals": {
         "total_paid": {
-          "value": 1315756.34,
-          "rendered_as": "$1,315,756.34"
+          "value": 1315756.27,
+          "rendered_as": "$1,315,756.27"
         },
         "total_reserved": {
-          "value": 169447.4,
-          "rendered_as": "$169,447.40"
+          "value": 173940.79,
+          "rendered_as": "$173,940.79"
         },
         "total_incurred": {
-          "value": 1485203.74,
-          "rendered_as": "$1,485,203.74"
+          "value": 1489697.06,
+          "rendered_as": "$1,489,697.06"
         }
       },
       "excel_metadata": {
@@ -4814,19 +4765,19 @@
           },
           {
             "range": "A12:P12",
-            "value": "WORKERS COMP \u2014 Policy WC-KCB-2025-5580 \u2014 08/01/2025 to 08/01/2026"
+            "value": "WORKERS COMP — Policy WC-KCB-2025-5580 — 08/01/2025 to 08/01/2026"
           },
           {
             "range": "A50:P50",
-            "value": "GL \u2014 Policy GL-KCB-2025-5581 \u2014 08/01/2025 to 08/01/2026"
+            "value": "GL — Policy GL-KCB-2025-5581 — 08/01/2025 to 08/01/2026"
           },
           {
             "range": "A61:P61",
-            "value": "BUSINESS AUTO \u2014 Policy CA-KCB-2025-5582 \u2014 08/01/2025 to 08/01/2026"
+            "value": "BUSINESS AUTO — Policy CA-KCB-2025-5582 — 08/01/2025 to 08/01/2026"
           },
           {
             "range": "A72:P72",
-            "value": "COMMERCIAL PROPERTY \u2014 Policy CP-KCB-2025-5583 \u2014 08/01/2025 to 08/01/2026"
+            "value": "COMMERCIAL PROPERTY — Policy CP-KCB-2025-5583 — 08/01/2025 to 08/01/2026"
           },
           {
             "range": "A77:P77",
@@ -4942,41 +4893,35 @@
       "insured_zip": "15222",
       "carrier_name": "Hallmark Insurance Group",
       "policy_period_start": "2025-08-01",
-      "policy_period_end": "2026-08-01",
-      "policy_numbers": {
-        "wc": "WC-KCB-2025-5580",
-        "gl": "GL-KCB-2025-5581",
-        "auto": "CA-KCB-2025-5582",
-        "property": "CP-KCB-2025-5583"
-      }
+      "policy_period_end": "2026-08-01"
     },
     "claims": [
       {
         "claim_number": "HMK-2025-039474",
         "date_of_loss": "2025-11-24",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Open",
         "coverage": "wc",
         "paid": 6299.43,
-        "reserved": 8987.7,
-        "incurred": 15287.13,
-        "description": "Employee experienced a frozen shoulder to the left shoulder while\u2014reaching overhead to install sprinkler heads. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
+        "reserved": 8945.11,
+        "incurred": 15244.54,
+        "description": "Employee experienced a frozen shoulder to the left shoulder while—reaching overhead to install sprinkler heads. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
       },
       {
         "claim_number": "ZIG-2023-039485",
         "date_of_loss": "2023-02-24",
         "claimant": "John Johnson",
-        "status": "Subrogation",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 30839.01,
-        "reserved": 1211.82,
-        "incurred": 32050.83,
-        "description": "Employee sustained a fracture of the greater trochanter to the right hip while landing on the hip after\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 falling from scaffolding."
+        "reserved": 0.0,
+        "incurred": 30839.01,
+        "description": "Employee sustained a fracture of the greater trochanter to the right hip while landing on the hip after–––––––––––––––––––––––––––––––––––––––––––––––––––––––––– falling from scaffolding."
       },
       {
         "claim_number": "NWI-2025-039582",
         "date_of_loss": "2025-02-10",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Denied",
         "coverage": "wc",
         "paid": 0.0,
@@ -4987,24 +4932,24 @@
       {
         "claim_number": "NWI-2022-039790",
         "date_of_loss": "2022-07-01",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "wc",
         "paid": 44026.57,
         "reserved": 0.0,
         "incurred": 44026.57,
-        "description": "Employee suffered a labral tear to the\u00a0right hip while landing on the\u00a0hip after falling from scaffolding. Occupational therapy was recommended for a period of 12 weeks."
+        "description": "Employee suffered a labral tear to the right hip while landing on the hip after falling from scaffolding. Occupational therapy was recommended for a period of 12 weeks."
       },
       {
         "claim_number": "NWI-2021-040109",
         "date_of_loss": "2021-08-11",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Closed",
         "coverage": "wc",
         "paid": 11643.04,
         "reserved": 0.0,
         "incurred": 11643.04,
-        "description": "Employee sustained a contusion and deep bruising to the right hip while\u2014landing on the hip after falling from scaffolding. The employee was prescribed rest, ice, and a follow-up with a specialist."
+        "description": "Employee sustained a contusion and deep bruising to the right hip while—landing on the hip after falling from scaffolding. The employee was prescribed rest, ice, and a follow-up with a specialist."
       },
       {
         "claim_number": "ZIG-2023-040159",
@@ -5015,7 +4960,7 @@
         "paid": 58869.06,
         "reserved": 0.0,
         "incurred": 58869.06,
-        "description": "Employee sustained a\u2019hip flexor strain to the left hip while slipping on a\u2019rain-soaked sidewalk outside the facility. MRI confirmed the injury and the employee underwent arthroscopic surgery."
+        "description": "Employee sustained a’hip flexor strain to the left hip while slipping on a’rain-soaked sidewalk outside the facility. MRI confirmed the injury and the employee underwent arthroscopic surgery."
       },
       {
         "claim_number": "NWI-2021-040485",
@@ -5026,18 +4971,18 @@
         "paid": 24087.67,
         "reserved": 0.0,
         "incurred": 24087.67,
-        "description": "Employee suffered a tibial plateau fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left knee while stepping into a pothole in the parking lot. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
+        "description": "Employee suffered a tibial plateau fracture to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ left knee while stepping into a pothole in the parking lot. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
       },
       {
         "claim_number": "NWI-2021-040971",
         "date_of_loss": "2021-12-16",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Closed",
         "coverage": "wc",
         "paid": 3675.78,
         "reserved": 0.0,
         "incurred": 3675.78,
-        "description": "Employee suffered a sternum\u2026"
+        "description": "Employee suffered a sternum…"
       },
       {
         "claim_number": "HTF-2024-041287",
@@ -5048,18 +4993,18 @@
         "paid": 25381.42,
         "reserved": 0.0,
         "incurred": 25381.42,
-        "description": "Employee sustained a dislocated shoulder to the right shoulder while\u2014reaching overhead to install ductwork. Emergency reduction and immobilization were performed, followed by physical therapy for range of motion recovery."
+        "description": "Employee sustained a dislocated shoulder to the right shoulder while—reaching overhead to install ductwork. Emergency reduction and immobilization were performed, followed by physical therapy for range of motion recovery."
       },
       {
         "claim_number": "MRK-2021-041602",
         "date_of_loss": "2021-07-13",
         "claimant": "Charles Martinez",
-        "status": "Subrogation",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 74593.95,
-        "reserved": 406.05,
-        "incurred": 75000.0,
-        "description": "Employee suffered a crush injury to the right foot while\u2014stepping on a protruding nail at the construction site. Emergency medical treatment was administered on-site before transport to the hospital."
+        "reserved": 0.0,
+        "incurred": 74593.95,
+        "description": "Employee suffered a crush injury to the right foot while—stepping on a protruding nail at the construction site. Emergency medical treatment was administered on-site before transport to the hospital."
       },
       {
         "claim_number": "NWI-2021-041762",
@@ -5081,7 +5026,7 @@
         "paid": 40169.6,
         "reserved": 0.0,
         "incurred": 40169.6,
-        "description": "Employee suffered a\u2019meniscus tear to the right knee while climbing a\u20198-foot ladder while carrying tools. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
+        "description": "Employee suffered a’meniscus tear to the right knee while climbing a’8-foot ladder while carrying tools. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
       },
       {
         "claim_number": "MRK-2021-042434",
@@ -5092,18 +5037,18 @@
         "paid": 34593.93,
         "reserved": 0.0,
         "incurred": 34593.93,
-        "description": "Employee suffered a fracture of\u2026"
+        "description": "Employee suffered a fracture of…"
       },
       {
         "claim_number": "MRK-2021-042709",
         "date_of_loss": "2021-03-21",
         "claimant": "Anthony Wilson",
-        "status": "Subrogation",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 60415.16,
-        "reserved": 2589.4,
-        "incurred": 63004.56,
-        "description": "Employee sustained a rib fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
+        "reserved": 0.0,
+        "incurred": 60415.16,
+        "description": "Employee sustained a rib fracture to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ chest while falling against a steel railing during a slip. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
       },
       {
         "claim_number": "HMK-2025-042857",
@@ -5114,7 +5059,7 @@
         "paid": 23136.19,
         "reserved": 11568.09,
         "incurred": 34704.28,
-        "description": "Employee\u2019s suffered a compression fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while shoveling debris at the job site. Treatment included physical therapy and a course of anti-inflammatory medication."
+        "description": "Employee’s suffered a compression fracture to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ lower back while shoveling debris at the job site. Treatment included physical therapy and a course of anti-inflammatory medication."
       },
       {
         "claim_number": "MRK-2021-043002",
@@ -5136,21 +5081,21 @@
         "paid": 3455.01,
         "reserved": 0.0,
         "incurred": 3455.01,
-        "description": "Employee sustained multiple rib contusions to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
+        "description": "Employee sustained multiple rib contusions to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
       },
       {
         "claim_number": "HTF-2024-043705",
         "date_of_loss": "2024-03-29",
         "claimant": "Paul Moore",
-        "status": "Subrogation",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 29748.17,
-        "reserved": 251.83,
-        "incurred": 30000.0,
+        "reserved": 0.0,
+        "incurred": 29748.17,
         "description": "Employee sustained a herniated............."
       },
       {
-        "claim_number": "NWI-2021-043761\u00b2",
+        "claim_number": "NWI-2021-043761²",
         "date_of_loss": "2021-08-01",
         "claimant": "Andrew Jackson",
         "status": "Closed",
@@ -5169,10 +5114,10 @@
         "paid": 20001.45,
         "reserved": 10000.73,
         "incurred": 30002.18,
-        "description": "Employee\u2019s experienced an..."
+        "description": "Employee’s experienced an..."
       },
       {
-        "claim_number": "MRK-2021-044382\u2021",
+        "claim_number": "MRK-2021-044382‡",
         "date_of_loss": "2021-04-29",
         "claimant": "Kenneth Lee",
         "status": "Closed",
@@ -5180,62 +5125,62 @@
         "paid": 22804.31,
         "reserved": 0.0,
         "incurred": 22804.31,
-        "description": "Employee\u2019s suffered a\u2026"
+        "description": "Employee’s suffered a…"
       },
       {
         "claim_number": "NWI-2024-044745",
         "date_of_loss": "2024-08-23",
         "claimant": "Kevin Perez",
-        "status": "Subrogation",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 36235.37,
-        "reserved": 556.27,
-        "incurred": 36791.64,
-        "description": "Employee\u2019s suffered a\u2019labral tear to the right hip while landing on the hip after falling from scaffolding."
+        "reserved": 0.0,
+        "incurred": 36235.37,
+        "description": "Employee’s suffered a’labral tear to the right hip while landing on the hip after falling from scaffolding."
       },
       {
         "claim_number": "NWI-2021-044922",
         "date_of_loss": "2021-11-01",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Closed",
         "coverage": "wc",
         "paid": 27815.6,
         "reserved": 0.0,
         "incurred": 27815.6,
-        "description": "Employee sustained a fracture of the greater trochanter to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b right hip while\u2014landing on the hip after falling from scaffolding. The injury required a splint and modified work duties for 4 weeks."
+        "description": "Employee sustained a fracture of the greater trochanter to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ right hip while—landing on the hip after falling from scaffolding. The injury required a splint and modified work duties for 4 weeks."
       },
       {
         "claim_number": "NWI-2022-044980",
         "date_of_loss": "2022-06-24",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "wc",
         "paid": 28478.9,
         "reserved": 0.0,
         "incurred": 28478.9,
-        "description": "Employee experienced a patellar fracture to the right knee while\u2014descending a staircase in the facility while\u2014carrying equipment. The employee was prescribed rest, ice, and a follow-up with a specialist."
+        "description": "Employee experienced a patellar fracture to the right knee while—descending a staircase in the facility while—carrying equipment. The employee was prescribed rest, ice, and a follow-up with a specialist."
       },
       {
-        "claim_number": "NWI-2024-045138\u00b9",
+        "claim_number": "NWI-2024-045138¹",
         "date_of_loss": "2024-11-12",
         "claimant": "Timothy Harris",
         "status": "Closed",
         "coverage": "wc",
-        "paid": 1000.82,
+        "paid": 1000.75,
         "reserved": 0.0,
-        "incurred": 1000.82,
-        "description": "Employee sustained multiple rib contusions to the\u00a0chest while\u2014falling against a steel railing during a slip."
+        "incurred": 1000.75,
+        "description": "Employee sustained multiple rib contusions to the chest while—falling against a steel railing during a slip."
       },
       {
         "claim_number": "NWI-2025-045458",
         "date_of_loss": "2025-07-15",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Open",
         "coverage": "wc",
         "paid": 10174.81,
-        "reserved": 7527.86,
-        "incurred": 17702.67,
-        "description": "Employee\u2019s sustained a..."
+        "reserved": 7492.2,
+        "incurred": 17667.01,
+        "description": "Employee’s sustained a..."
       },
       {
         "claim_number": "NWI-2022-045916",
@@ -5246,12 +5191,12 @@
         "paid": 23630.91,
         "reserved": 0.0,
         "incurred": 23630.91,
-        "description": "Employee suffered a\u2019labral tear to the..."
+        "description": "Employee suffered a’labral tear to the..."
       },
       {
-        "claim_number": "ZIG-2023-045941\u00b3",
+        "claim_number": "ZIG-2023-045941³",
         "date_of_loss": "2023-06-15",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "wc",
         "paid": 25558.69,
@@ -5268,23 +5213,23 @@
         "paid": 36189.96,
         "reserved": 0.0,
         "incurred": 36189.96,
-        "description": "Employee\u2019s experienced a..."
+        "description": "Employee’s experienced a..."
       },
       {
         "claim_number": "NWI-2024-046450",
         "date_of_loss": "2024-08-15",
         "claimant": "Ryan Robinson",
-        "status": "Subrogation",
+        "status": "Open",
         "coverage": "wc",
         "paid": 199806.09,
-        "reserved": 193.91,
-        "incurred": 200000.0,
-        "description": "Employee suffered a\u2019partial\u2026"
+        "reserved": 9990.3,
+        "incurred": 209796.39,
+        "description": "Employee suffered a’partial…"
       },
       {
         "claim_number": "NWI-2021-046889",
         "date_of_loss": "2021-10-10",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+        "claimant": "فاطمة الزهراء",
         "status": "Closed",
         "coverage": "wc",
         "paid": 4897.23,
@@ -5301,7 +5246,7 @@
         "paid": 31895.87,
         "reserved": 1594.79,
         "incurred": 33490.66,
-        "description": "Employee suffered a\u2019chemical\u2026"
+        "description": "Employee suffered a’chemical…"
       },
       {
         "claim_number": "HTF-2024-047429",
@@ -5323,29 +5268,29 @@
         "paid": 28764.4,
         "reserved": 0.0,
         "incurred": 28764.4,
-        "description": "Employee experienced a\u2019stress.............."
+        "description": "Employee experienced a’stress.............."
       },
       {
         "claim_number": "HTF-2024-048031",
         "date_of_loss": "2024-07-30",
-        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
-        "status": "Subrogation",
+        "claimant": "فاطمة الزهراء",
+        "status": "Closed",
         "coverage": "wc",
         "paid": 29790.62,
-        "reserved": 209.38,
-        "incurred": 30000.0,
-        "description": "Employee suffered a herniated disc at L4-L5 to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while shoveling debris at the job site. Occupational therapy was recommended for a period of 12 weeks."
+        "reserved": 0.0,
+        "incurred": 29790.62,
+        "description": "Employee suffered a herniated disc at L4-L5 to the​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ lower back while shoveling debris at the job site. Occupational therapy was recommended for a period of 12 weeks."
       },
       {
         "claim_number": "ZIG-2023-039474",
         "date_of_loss": "2023-01-25",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "gl",
         "paid": 12196.48,
         "reserved": 0.0,
         "incurred": 12196.48,
-        "description": "Customer at the\u00a0facility was\u2026"
+        "description": "Customer at the facility was…"
       },
       {
         "claim_number": "NWI-2022-039582",
@@ -5356,18 +5301,18 @@
         "paid": 11608.95,
         "reserved": 0.0,
         "incurred": 11608.95,
-        "description": "Customer at the\u00a0facility was cut by a jagged product packaging edge that gave way when the\u00a0customer leaned on it, requiring 8 stitches."
+        "description": "Customer at the facility was cut by a jagged product packaging edge that gave way when the customer leaned on it, requiring 8 stitches."
       },
       {
         "claim_number": "MRK-2025-040109",
         "date_of_loss": "2025-06-14",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Open",
         "coverage": "gl",
         "paid": 11669.57,
         "reserved": 29914.59,
         "incurred": 41584.16,
-        "description": "A neighboring tenant alleged\u2026"
+        "description": "A neighboring tenant alleged…"
       },
       {
         "claim_number": "CNA-2021-040159",
@@ -5392,9 +5337,9 @@
         "description": "A neighboring property owner's vehicle was damaged by concrete dust and overspray from the insured's exterior painting operations."
       },
       {
-        "claim_number": "MRK-2024-042434\u2021",
+        "claim_number": "MRK-2024-042434‡",
         "date_of_loss": "2024-10-17",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Open",
         "coverage": "gl",
         "paid": 18394.16,
@@ -5403,7 +5348,7 @@
         "description": "A building inspector fell through an unprotected..."
       },
       {
-        "claim_number": "HMK-2025-043002\u00b9",
+        "claim_number": "HMK-2025-043002¹",
         "date_of_loss": "2025-08-12",
         "claimant": "Christopher Scott",
         "status": "Closed",
@@ -5436,9 +5381,9 @@
         "description": "Company pickup truck merged..."
       },
       {
-        "claim_number": "HMK-2025-040159\u00b3",
+        "claim_number": "HMK-2025-040159³",
         "date_of_loss": "2025-11-18",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Open",
         "coverage": "auto",
         "paid": 1103.36,
@@ -5460,7 +5405,7 @@
       {
         "claim_number": "TRV-2024-046889",
         "date_of_loss": "2024-09-28",
-        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+        "claimant": "أحمد بن سعيد",
         "status": "Open",
         "coverage": "auto",
         "paid": 1034.52,
@@ -5471,13 +5416,13 @@
       {
         "claim_number": "BHG-2024-039790",
         "date_of_loss": "2024-04-15",
-        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+        "claimant": "محمد العربي",
         "status": "Closed",
         "coverage": "auto",
         "paid": 2616.15,
         "reserved": 0.0,
         "incurred": 2616.15,
-        "description": "Fleet utility vehicle was\u2026"
+        "description": "Fleet utility vehicle was…"
       },
       {
         "claim_number": "AIG-2021-044980",
@@ -5491,7 +5436,7 @@
         "description": "Driver of the company flatbed......"
       },
       {
-        "claim_number": "BHG-2023-039582\u00b9",
+        "claim_number": "BHG-2023-039582¹",
         "date_of_loss": "2023-08-22",
         "claimant": "Keystone Commercial Builders, Inc.",
         "status": "Closed",
@@ -5499,7 +5444,7 @@
         "paid": 2616.15,
         "reserved": 0.0,
         "incurred": 2616.15,
-        "description": "The company's pickup truck\u2026"
+        "description": "The company's pickup truck…"
       },
       {
         "claim_number": "BHG-2024-043761",
@@ -5526,9 +5471,9 @@
     ],
     "subtotals_by_coverage": {
       "wc": {
-        "paid": 1126509.26,
-        "reserved": 45097.83,
-        "incurred": 1171607.09,
+        "paid": 1126509.19,
+        "reserved": 49591.22,
+        "incurred": 1176100.41,
         "claim_count": 35
       },
       "gl": {
@@ -5551,9 +5496,9 @@
       }
     },
     "grand_totals": {
-      "paid": 1315756.34,
-      "reserved": 169447.4,
-      "incurred": 1485203.74,
+      "paid": 1315756.27,
+      "reserved": 173940.79,
+      "incurred": 1489697.06,
       "claim_count": 52
     },
     "metadata": {

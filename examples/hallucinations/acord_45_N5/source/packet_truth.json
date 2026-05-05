@@ -146,10 +146,10 @@
       "mtc"
     ],
     "total_paid": 1270766.35,
-    "total_reserved": 105785.79,
-    "total_incurred": 1376552.14,
-    "open_claims": 11,
-    "closed_claims": 32
+    "total_reserved": 98349.24,
+    "total_incurred": 1369115.59,
+    "open_claims": 8,
+    "closed_claims": 35
   },
   "experience_mod": 0.91,
   "drivers": [
@@ -1960,7 +1960,9 @@
   ],
   "endorsements": {
     "wc": [
-      "BWC U-153 \u2014 Ohio Workers' Compensation Application"
+      "BWC U-153 \u2014 Ohio Workers' Compensation Application",
+      "WC 00 03 01A \u2014 Alternate Employer Endorsement",
+      "BWC C-5 \u2014 Ohio Employer Application for Coverage"
     ],
     "gl": [
       "CG 00 01 04 13 \u2014 Commercial General Liability Coverage Form",
@@ -1968,8 +1970,9 @@
       "IL 00 17 11 98 \u2014 Common Policy Conditions",
       "CG 04 42 \u2014 Stop Gap Employers' Liability Coverage Endorsement (OH)",
       "CG 20 10 04 13 \u2014 Additional Insured \u2014 Owners, Lessees or Contractors",
-      "CG 20 11 04 13 \u2014 Additional Insured - Managers or Lessors of Premises",
+      "CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
       "CG 20 37 04 13 \u2014 Additional Insured \u2014 Owners, Lessees or Contractors (Completed Ops)",
+      "CG 20 26 04 13 \u2014 Additional Insured - Designated Person or Organization",
       "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
       "CG 21 49 09 99 \u2014 Total Pollution Exclusion With a Hostile Fire Exception"
     ],
@@ -1980,6 +1983,7 @@
       "MCS-90 (12 92) \u2014 Endorsement for Motor Carrier Policies of Insurance for Public Liability",
       "CA 99 10 10 13 \u2014 Drive Other Car Coverage - Broadened Coverage for Named Individuals",
       "CA 99 54 03 15 \u2014 Hired Auto Physical Damage Coverage",
+      "CA 04 44 10 13 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
       "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
       "CA 99 48 03 06 \u2014 Pollution Liability \u2014 Broadened Coverage for Covered Autos",
       "CA 20 48 02 99 \u2014 Designated Insured"
@@ -1990,6 +1994,7 @@
       "CP 10 30 10 12 \u2014 Causes of Loss \u2014 Special Form",
       "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
       "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CP 01 40 07 06 \u2014 Ordinance or Law Coverage",
       "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act"
     ],
     "umbrella": [
@@ -1997,6 +2002,7 @@
       "CU 21 19 01 15 \u2014 Underlying Insurance Schedule",
       "CU 21 22 04 13 \u2014 Nuclear Energy Liability Exclusion",
       "CU 24 01 04 13 \u2014 Designated Underlying Insurance Endorsement",
+      "CU 21 28 04 13 \u2014 Exclusion of Specific Accidents, Products, Work or Locations",
       "CU 21 34 04 13 \u2014 Following Form Endorsement \u2014 GL, Auto, EL",
       "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act"
     ],

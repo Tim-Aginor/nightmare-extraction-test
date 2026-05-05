@@ -5,7 +5,7 @@ This release contains **one sample packet (N1 Easy, ~25 docs)** plus the
 full scoring pipeline and prompts. The remaining four packets (N2 Normal
 through N5 Nightmare) are held privately; see "Full test set" below.
 
-Across 148 documents, **GPT-5.5 fabricates numbers at 3.7% (default), 4.2% (HIGH), 3.9% (XHIGH)** - worse than its predecessor GPT-5.4 (3.9% / 2.5% / 3.1%) at HIGH and XHIGH, and 3-6x the Anthropic and Google flagship rates: Opus 4.7 (0.6% / 0.7% / 1.0%), Sonnet 4.6 (1.4% / 1.5% / 1.4%), Gemini 3.1 Pro (0.8% / 1.2% / 0.9%). Full breakdown by reasoning effort, category, and difficulty in [`report.md`](report.md).
+Across 148 documents, **GPT-5.5 fabricates numbers at 2.8% (default), 3.3% (HIGH), 2.9% (XHIGH)** - worse than its predecessor GPT-5.4 (3.2% / 1.6% / 2.1%) at HIGH and XHIGH, and 3-7x the Anthropic and Google flagship rates: Opus 4.7 (0.4% / 0.5% / 0.6%), Sonnet 4.6 (0.9% / 1.0% / 0.9%), Gemini 3.1 Pro (0.5% / 0.9% / 0.5%). Full breakdown by reasoning effort, category, and difficulty in [`report.md`](report.md).
 
 **Jump to:** [Repo layout](#repo-layout) · [Reproduce](#reproducing-the-findings) · [What's measured](#whats-measured) · [Methodology](#methodology-notes) · [Full test set](#full-test-set) · [Acknowledgements](#acknowledgements)
 
