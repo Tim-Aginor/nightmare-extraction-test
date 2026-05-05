@@ -234,3 +234,5 @@ Thanks to our reviewer (who wishes to remain anonymous) for pointing out
 the thinking-default gap in the original version of the test. The
 matched-effort framing (HIGH/XHIGH tables, with Gemini included) was
 added in response.
+
+Thanks to Apurv Gandhi at Reducto for catching ghost data in the Excel ground-truth files that were inflating the hallucination rates. The numbers in this repo reflect the cleaned data.
