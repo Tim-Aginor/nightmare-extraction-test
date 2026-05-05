@@ -475,15 +475,6 @@
                 "height": 9.0
               }
             ]
-          },
-          "producer_phone": {
-            "value": "(214) 555-0918"
-          },
-          "producer_email": {
-            "value": "svillareal@txcip.com"
-          },
-          "policy_number_property": {
-            "value": "CP-LSPH-2025-7801"
           }
         },
         "doc_type": "acord_125",
@@ -640,10 +631,7 @@
         "insured_zip": "75201",
         "carrier_name": "Apex Managing General Agency",
         "policy_period_start": "2025-07-01",
-        "policy_period_end": "2026-07-01",
-        "policy_numbers": {
-          "property": "CP-LSPH-2025-7801"
-        }
+        "policy_period_end": "2026-07-01"
       },
       "form_info": {
         "form_number": "ACORD 125",
@@ -671,10 +659,7 @@
         "contact_name": "Richard Thornton",
         "contact_title": "Managing Partner",
         "producer_name": "Texas Commercial Insurance Partners",
-        "producer_contact": "Sandra Villareal",
-        "producer_phone": "(214) 555-0918",
-        "producer_email": "svillareal@txcip.com",
-        "policy_number_property": "CP-LSPH-2025-7801"
+        "producer_contact": "Sandra Villareal"
       },
       "locations": [
         {
@@ -863,18 +848,6 @@
                 "height": 9.0
               }
             ]
-          },
-          "property_premium": {
-            "value": 403697.14,
-            "rendered_as": "$403,697.14"
-          },
-          "property_base_premium": {
-            "value": 385000,
-            "rendered_as": "$385,000.00"
-          },
-          "property_tria_surcharge": {
-            "value": 18697.14,
-            "rendered_as": "$18,697.14"
           },
           "property_deductible": {
             "value": 50000,
@@ -1664,9 +1637,6 @@
         "policy_period_start": "2025-07-01",
         "policy_period_end": "2026-07-01",
         "policy_number_property": "CP-LSPH-2025-7801",
-        "property_premium": 403697.14,
-        "property_base_premium": 385000,
-        "property_tria_surcharge": 18697.14,
         "property_deductible": 50000,
         "valuation_method": "Replacement Cost",
         "coinsurance_property": 90.0,
@@ -2602,7 +2572,16 @@
             ]
           },
           "interest_holder_1_name": {
-            "value": "M&T Bank"
+            "value": "M&T Bank",
+            "locations": [
+              {
+                "page": 7,
+                "x": 144.1,
+                "y": 302.4,
+                "width": 35.0,
+                "height": 7.5
+              }
+            ]
           },
           "interest_holder_1_loan_number": {
             "value": "L-620925734",
@@ -3378,10 +3357,6 @@
           "policy_form_type": {
             "value": "special"
           },
-          "property_premium": {
-            "value": 403697.14,
-            "rendered_as": "$403,697.14"
-          },
           "property_deductible": {
             "value": 50000,
             "rendered_as": "$50,000.00"
@@ -3398,16 +3373,8 @@
             "value": 59212000,
             "rendered_as": "$59,212,000.00"
           },
-          "property_limit_coinsurance": {
-            "value": 90.0,
-            "rendered_as": "90%"
-          },
           "location_count": {
             "value": 8
-          },
-          "total_tiv": {
-            "value": 314984000.0,
-            "rendered_as": "$314,984,000.00"
           }
         },
         "doc_type": "acord_24",
@@ -3601,14 +3568,11 @@
         "producer_license_number": "AG-7703921",
         "policy_number_property": "CP-LSPH-2025-7801",
         "policy_form_type": "special",
-        "property_premium": 403697.14,
         "property_deductible": 50000,
         "property_limit_building": 222340000,
         "property_limit_contents": 33432000,
         "property_limit_business_income": 59212000,
-        "property_limit_coinsurance": 90.0,
-        "location_count": 8,
-        "total_tiv": 314984000.0
+        "location_count": 8
       },
       "locations": [
         {
@@ -3777,9 +3741,6 @@
               }
             ]
           },
-          "carrier_name": {
-            "value": "Apex Managing General Agency"
-          },
           "insured_address": {
             "value": "2200 Ross Avenue, Suite 4500",
             "locations": [
@@ -3800,14 +3761,6 @@
           },
           "insured_zip": {
             "value": "75201"
-          },
-          "policy_period_start": {
-            "value": "2025-07-01",
-            "rendered_as": "07/01/2025"
-          },
-          "policy_period_end": {
-            "value": "2026-07-01",
-            "rendered_as": "07/01/2026"
           },
           "document_date": {
             "value": "2026-03-16",
@@ -3915,9 +3868,9 @@
         "insured_city": "Dallas",
         "insured_state": "TX",
         "insured_zip": "75201",
-        "carrier_name": "Apex Managing General Agency",
-        "policy_period_start": "2025-07-01",
-        "policy_period_end": "2026-07-01"
+        "carrier_name": null,
+        "policy_period_start": null,
+        "policy_period_end": null
       },
       "form_info": {
         "form_number": "ACORD 25",
@@ -3925,13 +3878,10 @@
       },
       "all_fields": {
         "insured_name": "Lone Star Property Holdings, LP",
-        "carrier_name": "Apex Managing General Agency",
         "insured_address": "2200 Ross Avenue, Suite 4500",
         "insured_city": "Dallas",
         "insured_state": "TX",
         "insured_zip": "75201",
-        "policy_period_start": "2025-07-01",
-        "policy_period_end": "2026-07-01",
         "document_date": "2026-03-16",
         "producer_name": "Texas Commercial Insurance Partners",
         "producer_contact": "Sandra Villareal",
@@ -4057,22 +4007,6 @@
           "property_deductible": {
             "value": 50000,
             "rendered_as": "$50,000.00"
-          },
-          "property_limit_building": {
-            "value": 222340000,
-            "rendered_as": "$222,340,000.00"
-          },
-          "property_limit_contents": {
-            "value": 33432000,
-            "rendered_as": "$33,432,000.00"
-          },
-          "property_limit_business_income": {
-            "value": 59212000,
-            "rendered_as": "$59,212,000.00"
-          },
-          "property_limit_coinsurance": {
-            "value": 90.0,
-            "rendered_as": "90%"
           },
           "mortgagee_name": {
             "value": "U.S. Bank National Association",
@@ -4231,10 +4165,6 @@
         "policy_number_property": "CP-LSPH-2025-7801",
         "policy_form_type": "special",
         "property_deductible": 50000,
-        "property_limit_building": 222340000,
-        "property_limit_contents": 33432000,
-        "property_limit_business_income": 59212000,
-        "property_limit_coinsurance": 90.0,
         "mortgagee_name": "U.S. Bank National Association",
         "mortgagee_address": "5519 Cedar Lane"
       },
@@ -5872,7 +5802,7 @@
               {
                 "page": 2,
                 "x": 48.8,
-                "y": 378.0,
+                "y": 364.0,
                 "width": 51.9,
                 "height": 9.0
               }
@@ -5903,7 +5833,7 @@
               {
                 "page": 2,
                 "x": 308.0,
-                "y": 378.0,
+                "y": 364.0,
                 "width": 71.1,
                 "height": 9.0
               }
@@ -6053,11 +5983,6 @@
           },
           {
             "coverage": "Commercial Property",
-            "form_code": "CP 12 18 06 07",
-            "description": "Loss Payable Provisions"
-          },
-          {
-            "coverage": "Commercial Property",
             "form_code": "CP 01 40 07 06",
             "description": "Ordinance or Law Coverage"
           },
@@ -6186,9 +6111,6 @@
               }
             ]
           },
-          "policy_number_property": {
-            "value": "CP-LSPH-2025-7801"
-          },
           "premium_property": {
             "value": 403697.14,
             "rendered_as": "$403,697.14"
@@ -6231,10 +6153,7 @@
         "insured_zip": "75201",
         "carrier_name": "Apex Managing General Agency",
         "policy_period_start": null,
-        "policy_period_end": null,
-        "policy_numbers": {
-          "property": "CP-LSPH-2025-7801"
-        }
+        "policy_period_end": null
       },
       "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/broker_narrative_70001.pdf"
     },
@@ -6341,7 +6260,6 @@
             "CP 10 30 10 12 \u2014 Causes of Loss \u2014 Special Form",
             "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
             "IL 00 17 11 98 \u2014 Common Policy Conditions",
-            "CP 12 18 06 07 \u2014 Loss Payable Provisions",
             "CP 01 40 07 06 \u2014 Ordinance or Law Coverage",
             "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
             "CP 03 21 06 07 \u2014 Windstorm or Hail Percentage Deductible"
@@ -6374,7 +6292,6 @@
           "CP 10 30 10 12 \u2014 Causes of Loss \u2014 Special Form",
           "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
           "IL 00 17 11 98 \u2014 Common Policy Conditions",
-          "CP 12 18 06 07 \u2014 Loss Payable Provisions",
           "CP 01 40 07 06 \u2014 Ordinance or Law Coverage",
           "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
           "CP 03 21 06 07 \u2014 Windstorm or Hail Percentage Deductible"
@@ -6400,9 +6317,6 @@
                 "height": 9.0
               }
             ]
-          },
-          "report_type": {
-            "value": "sprinkler_inspection"
           },
           "risk_grade": {
             "value": "Below Average"
@@ -6592,7 +6506,7 @@
         "policy_period_end": null
       },
       "report_info": {
-        "report_type": "sprinkler_inspection",
+        "report_type": null,
         "risk_grade": "Below Average",
         "grading_scale": "Travelers Risk Assessment"
       },
@@ -6743,9 +6657,6 @@
                 "height": 8.0
               }
             ]
-          },
-          "num_employees_ft": {
-            "value": 145
           },
           "entity_type": {
             "value": "Limited Partnership",
@@ -7152,19 +7063,6 @@
           "insured_zip": {
             "value": "75201"
           },
-          "annual_revenue": {
-            "value": 67000000,
-            "rendered_as": "$67,000,000.00"
-          },
-          "num_employees_ft": {
-            "value": 145
-          },
-          "entity_type": {
-            "value": "Limited Partnership"
-          },
-          "nature_of_business": {
-            "value": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas"
-          },
           "bs_cash": {
             "value": 11751200.0,
             "rendered_as": "$11,751,200.00"
@@ -7268,6 +7166,11 @@
             "alternating_rows": true,
             "spreading_tab": false
           },
+          "degradation": {
+            "scan_empty_rows": {
+              "rows_inserted": 3
+            }
+          },
           "merged_regions": [
             {
               "range": "A1:B1",
@@ -7282,11 +7185,11 @@
               "value": "BALANCE SHEET"
             },
             {
-              "range": "A31:B31",
+              "range": "A33:B33",
               "value": "INCOME STATEMENT"
             },
             {
-              "range": "A44:B44",
+              "range": "A47:B47",
               "value": "KEY FINANCIAL RATIOS"
             }
           ],
@@ -7296,11 +7199,6 @@
           "comments": [],
           "named_ranges": [],
           "formatting_semantics": {},
-          "degradation": {
-            "scan_empty_rows": {
-              "rows_inserted": 3
-            }
-          },
           "post_processing": {
             "revisions": {
               "track_changes": true,
@@ -7647,35 +7545,12 @@
               }
             ]
           },
-          "insured_address": {
-            "value": "2200 Ross Avenue, Suite 4500"
-          },
-          "insured_city": {
-            "value": "Dallas"
-          },
-          "insured_state": {
-            "value": "TX"
-          },
-          "insured_zip": {
-            "value": "75201"
-          },
-          "policy_period_start": {
-            "value": "2025-07-01",
-            "rendered_as": "07/01/2025"
-          },
-          "policy_period_end": {
-            "value": "2026-07-01",
-            "rendered_as": "07/01/2026"
-          },
           "report_id": {
             "value": "LR-2026-12781"
           },
           "report_date": {
             "value": "2026-03-15",
             "rendered_as": "03/15/2026"
-          },
-          "policy_number_property": {
-            "value": "CP-LSPH-2025-7801"
           }
         },
         "doc_type": "loss_run",
@@ -8049,16 +7924,13 @@
       },
       "header": {
         "insured_name": "Lone Star Property Holdings, LP",
-        "insured_address": "2200 Ross Avenue, Suite 4500",
-        "insured_city": "Dallas",
-        "insured_state": "TX",
-        "insured_zip": "75201",
+        "insured_address": null,
+        "insured_city": null,
+        "insured_state": null,
+        "insured_zip": null,
         "carrier_name": "Apex Managing General Agency",
-        "policy_period_start": "2025-07-01",
-        "policy_period_end": "2026-07-01",
-        "policy_numbers": {
-          "property": "CP-LSPH-2025-7801"
-        }
+        "policy_period_start": null,
+        "policy_period_end": null
       },
       "claims": [
         {
@@ -8123,15 +7995,9 @@
       "source_file": "field_truth_loss_run_csv.json",
       "raw_ground_truth": {
         "fields": {
-          "report_id": {
-            "value": "LR-2026-12781"
-          },
           "report_date": {
             "value": "2026-03-15",
             "rendered_as": "03/15/2026"
-          },
-          "policy_number_property": {
-            "value": "CP-LSPH-2025-7801"
           }
         },
         "doc_type": "loss_run_csv",
@@ -8401,10 +8267,7 @@
         "insured_zip": null,
         "carrier_name": null,
         "policy_period_start": null,
-        "policy_period_end": null,
-        "policy_numbers": {
-          "property": "CP-LSPH-2025-7801"
-        }
+        "policy_period_end": null
       },
       "claims": [
         {
@@ -8495,15 +8358,9 @@
             "value": "2026-07-01",
             "rendered_as": "07/01/2026"
           },
-          "report_id": {
-            "value": "LR-2026-12781"
-          },
           "report_date": {
             "value": "2026-03-15",
             "rendered_as": "03/15/2026"
-          },
-          "policy_number_property": {
-            "value": "CP-LSPH-2025-7801"
           }
         },
         "doc_type": "loss_run_excel",
@@ -8922,10 +8779,7 @@
         "insured_zip": "75201",
         "carrier_name": "Apex Managing General Agency",
         "policy_period_start": "2025-07-01",
-        "policy_period_end": "2026-07-01",
-        "policy_numbers": {
-          "property": "CP-LSPH-2025-7801"
-        }
+        "policy_period_end": "2026-07-01"
       },
       "claims": [
         {
@@ -9459,9 +9313,6 @@
                 "height": 14.0
               }
             ]
-          },
-          "policy_number_property": {
-            "value": "CP-LSPH-2025-7801"
           }
         },
         "doc_type": "sov",
@@ -9494,45 +9345,45 @@
               "name": [
                 {
                   "page": 1,
-                  "x": 76.7,
-                  "y": 154.4,
-                  "width": 70.6,
-                  "height": 6.5
+                  "x": 73.6,
+                  "y": 162.4,
+                  "width": 48.6,
+                  "height": 14.5
                 }
               ],
               "construction": [
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 154.4,
+                  "x": 244.2,
+                  "y": 162.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 182.4,
+                  "x": 244.2,
+                  "y": 190.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 210.4,
+                  "x": 244.2,
+                  "y": 218.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 266.4,
+                  "x": 244.2,
+                  "y": 274.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 322.4,
+                  "x": 244.2,
+                  "y": 330.4,
                   "width": 43.6,
                   "height": 6.5
                 }
@@ -9567,36 +9418,36 @@
               "construction": [
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 154.4,
+                  "x": 244.2,
+                  "y": 162.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 182.4,
+                  "x": 244.2,
+                  "y": 190.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 210.4,
+                  "x": 244.2,
+                  "y": 218.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 266.4,
+                  "x": 244.2,
+                  "y": 274.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 322.4,
+                  "x": 244.2,
+                  "y": 330.4,
                   "width": 43.6,
                   "height": 6.5
                 }
@@ -9631,36 +9482,36 @@
               "construction": [
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 154.4,
+                  "x": 244.2,
+                  "y": 162.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 182.4,
+                  "x": 244.2,
+                  "y": 190.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 210.4,
+                  "x": 244.2,
+                  "y": 218.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 266.4,
+                  "x": 244.2,
+                  "y": 274.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 322.4,
+                  "x": 244.2,
+                  "y": 330.4,
                   "width": 43.6,
                   "height": 6.5
                 }
@@ -9692,19 +9543,12 @@
               "tiv": "$27,550,000.00"
             },
             "locations": {
-              "construction": [
+              "name": [
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 238.4,
-                  "width": 56.1,
-                  "height": 14.5
-                },
-                {
-                  "page": 1,
-                  "x": 269.2,
-                  "y": 350.4,
-                  "width": 56.1,
+                  "x": 73.6,
+                  "y": 246.4,
+                  "width": 42.6,
                   "height": 14.5
                 }
               ]
@@ -9735,48 +9579,39 @@
               "tiv": "$44,950,000.00"
             },
             "locations": {
-              "name": [
-                {
-                  "page": 1,
-                  "x": 76.7,
-                  "y": 266.4,
-                  "width": 60.8,
-                  "height": 14.5
-                }
-              ],
               "construction": [
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 154.4,
+                  "x": 244.2,
+                  "y": 162.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 182.4,
+                  "x": 244.2,
+                  "y": 190.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 210.4,
+                  "x": 244.2,
+                  "y": 218.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 266.4,
+                  "x": 244.2,
+                  "y": 274.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 322.4,
+                  "x": 244.2,
+                  "y": 330.4,
                   "width": 43.6,
                   "height": 6.5
                 }
@@ -9811,33 +9646,10 @@
               "name": [
                 {
                   "page": 1,
-                  "x": 76.7,
-                  "y": 294.4,
+                  "x": 73.6,
+                  "y": 302.4,
                   "width": 52.6,
                   "height": 14.5
-                }
-              ],
-              "construction": [
-                {
-                  "page": 1,
-                  "x": 269.2,
-                  "y": 246.4,
-                  "width": 56.1,
-                  "height": 6.5
-                },
-                {
-                  "page": 1,
-                  "x": 269.2,
-                  "y": 294.4,
-                  "width": 56.1,
-                  "height": 6.5
-                },
-                {
-                  "page": 1,
-                  "x": 269.2,
-                  "y": 358.4,
-                  "width": 56.1,
-                  "height": 6.5
                 }
               ]
             }
@@ -9867,48 +9679,39 @@
               "tiv": "$25,350,000.00"
             },
             "locations": {
-              "name": [
-                {
-                  "page": 1,
-                  "x": 76.7,
-                  "y": 322.4,
-                  "width": 61.7,
-                  "height": 14.5
-                }
-              ],
               "construction": [
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 154.4,
+                  "x": 244.2,
+                  "y": 162.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 182.4,
+                  "x": 244.2,
+                  "y": 190.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 210.4,
+                  "x": 244.2,
+                  "y": 218.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 266.4,
+                  "x": 244.2,
+                  "y": 274.4,
                   "width": 43.6,
                   "height": 6.5
                 },
                 {
                   "page": 1,
-                  "x": 269.2,
-                  "y": 322.4,
+                  "x": 244.2,
+                  "y": 330.4,
                   "width": 43.6,
                   "height": 6.5
                 }
@@ -9943,25 +9746,9 @@
               "name": [
                 {
                   "page": 1,
-                  "x": 76.7,
-                  "y": 350.4,
+                  "x": 73.6,
+                  "y": 358.4,
                   "width": 62.1,
-                  "height": 14.5
-                }
-              ],
-              "construction": [
-                {
-                  "page": 1,
-                  "x": 269.2,
-                  "y": 238.4,
-                  "width": 56.1,
-                  "height": 14.5
-                },
-                {
-                  "page": 1,
-                  "x": 269.2,
-                  "y": 350.4,
-                  "width": 56.1,
                   "height": 14.5
                 }
               ]
@@ -9977,10 +9764,7 @@
         "insured_zip": null,
         "carrier_name": "Apex Managing General Agency",
         "policy_period_start": null,
-        "policy_period_end": null,
-        "policy_numbers": {
-          "property": "CP-LSPH-2025-7801"
-        }
+        "policy_period_end": null
       },
       "locations": [
         {
@@ -10181,9 +9965,6 @@
           "policy_period_end": {
             "value": "2026-07-01",
             "rendered_as": "07/01/2026"
-          },
-          "policy_number_property": {
-            "value": "CP-LSPH-2025-7801"
           }
         },
         "doc_type": "sov_excel",
@@ -10623,10 +10404,7 @@
         "insured_zip": "75201",
         "carrier_name": "Apex Managing General Agency",
         "policy_period_start": "2025-07-01",
-        "policy_period_end": "2026-07-01",
-        "policy_numbers": {
-          "property": "CP-LSPH-2025-7801"
-        }
+        "policy_period_end": "2026-07-01"
       },
       "locations": [
         {
@@ -10919,18 +10697,6 @@
                 "height": 9.0
               }
             ]
-          },
-          "entity_type": {
-            "value": "Limited Partnership"
-          },
-          "fein": {
-            "value": "75-4829163"
-          },
-          "sic_code": {
-            "value": "6512"
-          },
-          "naics_code": {
-            "value": "531120"
           },
           "nature_of_business": {
             "value": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
@@ -11414,204 +11180,8 @@
       "prompt_file": "narrative_extraction.md",
       "source_file": "field_truth_supplemental_schedule_excel.json",
       "raw_ground_truth": {
-        "fields": {
-          "insured_name": {
-            "value": "Lone Star Property Holdings, LP"
-          },
-          "insured_address": {
-            "value": "2200 Ross Avenue, Suite 4500"
-          },
-          "insured_city": {
-            "value": "Dallas"
-          },
-          "insured_state": {
-            "value": "TX"
-          },
-          "insured_zip": {
-            "value": "75201"
-          },
-          "policy_number_property": {
-            "value": "CP-LSPH-2025-7801"
-          },
-          "entity_type": {
-            "value": "Limited Partnership"
-          },
-          "fein": {
-            "value": "75-4829163"
-          },
-          "sic_code": {
-            "value": "6512"
-          },
-          "naics_code": {
-            "value": "531120"
-          },
-          "nature_of_business": {
-            "value": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas"
-          },
-          "years_in_business": {
-            "value": 24
-          },
-          "years_current_mgmt": {
-            "value": 18
-          },
-          "num_employees_ft": {
-            "value": 145
-          },
-          "num_employees_pt": {
-            "value": 28
-          },
-          "annual_revenue": {
-            "value": 67000000,
-            "rendered_as": "$67,000,000.00"
-          }
-        },
+        "fields": {},
         "doc_type": "supplemental_schedule_excel",
-        "premises": [
-          {
-            "schedule_id": "LOC-001",
-            "address": "8117 Preston Road",
-            "city": "Dallas",
-            "state": "TX",
-            "zip_code": "75225",
-            "construction": "Fire Resistive",
-            "stories": 18,
-            "square_feet": 285000,
-            "occupancy": "Office",
-            "year_built": 2008,
-            "protection_class": 4,
-            "sprinklered": true,
-            "building_value": 62700000,
-            "contents_value": 8550000,
-            "bi_value": 15200000,
-            "tiv": 86450000
-          },
-          {
-            "schedule_id": "LOC-002",
-            "address": "5050 Westheimer Road",
-            "city": "Houston",
-            "state": "TX",
-            "zip_code": "77056",
-            "construction": "Fire Resistive",
-            "stories": 12,
-            "square_feet": 168000,
-            "occupancy": "Office",
-            "year_built": 2001,
-            "protection_class": 2,
-            "sprinklered": true,
-            "building_value": 33600000,
-            "contents_value": 5040000,
-            "bi_value": 8400000,
-            "tiv": 47040000
-          },
-          {
-            "schedule_id": "LOC-003",
-            "address": "5060 Westheimer Road",
-            "city": "Houston",
-            "state": "TX",
-            "zip_code": "77056",
-            "construction": "Fire Resistive",
-            "stories": 10,
-            "square_feet": 142000,
-            "occupancy": "Office",
-            "year_built": 2003,
-            "protection_class": 1,
-            "sprinklered": true,
-            "building_value": 28400000,
-            "contents_value": 4260000,
-            "bi_value": 7100000,
-            "tiv": 39760000
-          },
-          {
-            "schedule_id": "LOC-004",
-            "address": "7301 Lone Star Drive",
-            "city": "Plano",
-            "state": "TX",
-            "zip_code": "75024",
-            "construction": "Masonry Non-Combustible",
-            "stories": 2,
-            "square_feet": 95000,
-            "occupancy": "Mercantile",
-            "year_built": 2012,
-            "protection_class": 2,
-            "sprinklered": true,
-            "building_value": 19000000,
-            "contents_value": 2850000,
-            "bi_value": 5700000,
-            "tiv": 27550000
-          },
-          {
-            "schedule_id": "LOC-005",
-            "address": "3200 McKinney Avenue",
-            "city": "Dallas",
-            "state": "TX",
-            "zip_code": "75204",
-            "construction": "Fire Resistive",
-            "stories": 6,
-            "square_feet": 124000,
-            "occupancy": "Mercantile",
-            "year_built": 2018,
-            "protection_class": 5,
-            "sprinklered": true,
-            "building_value": 31000000,
-            "contents_value": 4650000,
-            "bi_value": 9300000,
-            "tiv": 44950000
-          },
-          {
-            "schedule_id": "LOC-006",
-            "address": "1400 Enclave Parkway",
-            "city": "Houston",
-            "state": "TX",
-            "zip_code": "77077",
-            "construction": "Non-Combustible",
-            "stories": 8,
-            "square_feet": 112000,
-            "occupancy": "Office",
-            "year_built": 1995,
-            "protection_class": 4,
-            "sprinklered": true,
-            "building_value": 19040000,
-            "contents_value": 2856000,
-            "bi_value": 5712000,
-            "tiv": 27608000
-          },
-          {
-            "schedule_id": "LOC-007",
-            "address": "800 8th Avenue",
-            "city": "Fort Worth",
-            "state": "TX",
-            "zip_code": "76104",
-            "construction": "Fire Resistive",
-            "stories": 5,
-            "square_feet": 78000,
-            "occupancy": "Office",
-            "year_built": 2015,
-            "protection_class": 3,
-            "sprinklered": true,
-            "building_value": 17160000,
-            "contents_value": 3510000,
-            "bi_value": 4680000,
-            "tiv": 25350000
-          },
-          {
-            "schedule_id": "LOC-008",
-            "address": "1256 Main Street",
-            "city": "Southlake",
-            "state": "TX",
-            "zip_code": "76092",
-            "construction": "Masonry Non-Combustible",
-            "stories": 3,
-            "square_feet": 52000,
-            "occupancy": "Mercantile",
-            "year_built": 2006,
-            "protection_class": 2,
-            "sprinklered": true,
-            "building_value": 11440000,
-            "contents_value": 1716000,
-            "bi_value": 3120000,
-            "tiv": 16276000
-          }
-        ],
         "excel_metadata": {
           "tab_order": [
             "Carrier History"
@@ -11694,17 +11264,14 @@
         "format": "xlsx"
       },
       "header": {
-        "insured_name": "Lone Star Property Holdings, LP",
-        "insured_address": "2200 Ross Avenue, Suite 4500",
-        "insured_city": "Dallas",
-        "insured_state": "TX",
-        "insured_zip": "75201",
+        "insured_name": null,
+        "insured_address": null,
+        "insured_city": null,
+        "insured_state": null,
+        "insured_zip": null,
         "carrier_name": null,
         "policy_period_start": null,
-        "policy_period_end": null,
-        "policy_numbers": {
-          "property": "CP-LSPH-2025-7801"
-        }
+        "policy_period_end": null
       },
       "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/supplemental_schedule_excel_70001.xlsx"
     }

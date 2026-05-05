@@ -11,23 +11,7 @@
     "raw_ground_truth": {
       "fields": {
         "insured_name": {
-          "value": "Keystone Commercial Builders, Inc.",
-          "locations": [
-            {
-              "page": 1,
-              "x": 232.8,
-              "y": 83.0,
-              "width": 146.4,
-              "height": 10.0
-            },
-            {
-              "page": 1,
-              "x": 48.8,
-              "y": 160.8,
-              "width": 131.7,
-              "height": 9.0
-            }
-          ]
+          "value": "Keystone Commercial Builders, Inc."
         },
         "insured_address": {
           "value": "300 Liberty Avenue, Suite 1200"
@@ -45,32 +29,11 @@
           "value": 95000000,
           "rendered_as": "$95,000,000.00"
         },
-        "num_employees_ft": {
-          "value": 425
-        },
         "entity_type": {
-          "value": "Corporation",
-          "locations": [
-            {
-              "page": 1,
-              "x": 48.8,
-              "y": 190.8,
-              "width": 43.5,
-              "height": 9.0
-            }
-          ]
+          "value": "Corporation"
         },
         "nature_of_business": {
-          "value": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
-          "locations": [
-            {
-              "page": 1,
-              "x": 48.8,
-              "y": 220.8,
-              "width": 481.9,
-              "height": 21.0
-            }
-          ]
+          "value": "General contracting for commercial and institutional construction — healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
         },
         "bs_cash": {
           "value": 22187700.0,

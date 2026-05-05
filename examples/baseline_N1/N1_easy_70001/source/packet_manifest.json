@@ -10,7 +10,7 @@
   "claims_per_coverage": 0,
   "total_documents": 25,
   "total_pages": 59,
-  "elapsed_seconds": 3.61,
+  "elapsed_seconds": 4.37,
   "packet_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_truth.json",
   "documents": [
     {
@@ -24,7 +24,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_125.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_125.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_125.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_125.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_125.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -39,7 +41,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_45.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_45.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_45.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_45.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_45.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -54,7 +58,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_supplemental_app.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_supplemental_app.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_supplemental_app.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_supplemental_app.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_supplemental_app.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -69,7 +75,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_broker_narrative.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_broker_narrative.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_broker_narrative.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_broker_narrative.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_broker_narrative.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -84,7 +92,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_dec_page.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_dec_page.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_dec_page.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_dec_page.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_dec_page.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -99,7 +109,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_policy_form.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_policy_form.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_policy_form.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_policy_form.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_policy_form.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -114,7 +126,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_sov.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_sov.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_sov.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_sov.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_sov.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -129,7 +143,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_140.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_140.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_140.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_140.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_140.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -144,7 +160,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_loss_run.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_loss_run.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_loss_run.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -159,7 +177,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_financial_statement.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_financial_statement.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_financial_statement.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_financial_statement.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_financial_statement.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -174,7 +194,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_25.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_25.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_25.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_25.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_25.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -189,7 +211,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_28.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_28.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_28.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_28.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_28.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -204,7 +228,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_27.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_27.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_27.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_27.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_27.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -219,7 +245,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_24.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_24.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_24.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_24.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_24.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -234,7 +262,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_75.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_75.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_75.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_75.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_75.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -249,7 +279,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_101.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_101.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_101.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_101.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_101.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -264,7 +296,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_35.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_35.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_35.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_35.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_35.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -279,7 +313,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_acord_160.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_acord_160.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_160.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_acord_160.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_acord_160.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -294,7 +330,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_engineering_report.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_engineering_report.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_engineering_report.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_engineering_report.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_engineering_report.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -309,7 +347,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_loss_run_excel.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_loss_run_excel.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run_excel.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run_excel.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_loss_run_excel.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -324,7 +364,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_loss_run_csv.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_loss_run_csv.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run_csv.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_loss_run_csv.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_loss_run_csv.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -339,7 +381,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_sov_excel.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_sov_excel.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_sov_excel.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_sov_excel.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_sov_excel.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -354,7 +398,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_financial_statement_excel.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_financial_statement_excel.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_financial_statement_excel.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_financial_statement_excel.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_financial_statement_excel.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -369,7 +415,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_supplemental_schedule_excel.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_supplemental_schedule_excel.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_supplemental_schedule_excel.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_supplemental_schedule_excel.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_supplemental_schedule_excel.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     },
@@ -384,7 +432,9 @@
       "ground_truth": {
         "document_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/document_truth_hybrid_workbook.json",
         "field_truth": "output/nightmare/N1_easy/doc_70001/ground_truth/field_truth_hybrid_workbook.json",
-        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_hybrid_workbook.json"
+        "manifest": "output/nightmare/N1_easy/doc_70001/ground_truth/manifest_hybrid_workbook.json",
+        "rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/rendered_universe_hybrid_workbook.json",
+        "packet_rendered_universe": "output/nightmare/N1_easy/doc_70001/ground_truth/packet_rendered_universe.json"
       },
       "status": "ok"
     }

@@ -2,66 +2,35 @@
   "models": {
     "gpt55": {
       "model": "gpt55",
-      "flagged_strings_total": 352,
+      "flagged_strings_total": 281,
       "buckets": {
-        "composed_string": 0,
+        "composed_string": 1,
         "format_variance": 0,
-        "partial_overlap": 208,
-        "true_fabrication": 144,
+        "partial_overlap": 206,
+        "true_fabrication": 74,
         "non_meaningful": 0
       },
-      "composed_fraction": 0.0,
-      "reclassify_fraction": 0.5909090909090909,
-      "true_fabrication_fraction": 0.4090909090909091,
+      "composed_fraction": 0.0035587188612099642,
+      "reclassify_fraction": 0.7366548042704626,
+      "true_fabrication_fraction": 0.26334519572953735,
       "sample_examples": {
-        "composed_string": [],
+        "composed_string": [
+          {
+            "doc": "N5_nightmare_70005/acord_137",
+            "path": "additional_fields.physical_damage_schedule_note",
+            "value": "Page 2 contains vehicles 1 through 31, but the provided page image is too blurred to reliably extract complete vehicle details, VINs, deductibles, and stated am",
+            "ratio": 0.8076923076923077,
+            "unmatched_tokens": [
+              "image",
+              "blurred",
+              "reliably",
+              "complete",
+              "vins"
+            ]
+          }
+        ],
         "format_variance": [],
         "partial_overlap": [
-          {
-            "doc": "N1_easy_70001/acord_160",
-            "path": "additional_fields.additional_coverages.[0].deductible_text",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.6666666666666666,
-            "unmatched_tokens": [
-              "deadbeef"
-            ]
-          },
-          {
-            "doc": "N1_easy_70001/acord_160",
-            "path": "additional_fields.additional_coverages.[2].deductible_text",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.6666666666666666,
-            "unmatched_tokens": [
-              "deadbeef"
-            ]
-          },
-          {
-            "doc": "N1_easy_70001/acord_160",
-            "path": "additional_fields.additional_coverages.[3].deductible_text",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.6666666666666666,
-            "unmatched_tokens": [
-              "deadbeef"
-            ]
-          },
-          {
-            "doc": "N1_easy_70001/acord_160",
-            "path": "additional_fields.additional_coverages.[4].deductible_text",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.6666666666666666,
-            "unmatched_tokens": [
-              "deadbeef"
-            ]
-          },
-          {
-            "doc": "N1_easy_70001/acord_160",
-            "path": "additional_fields.additional_coverages.[8].deductible_text",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.6666666666666666,
-            "unmatched_tokens": [
-              "deadbeef"
-            ]
-          },
           {
             "doc": "N2_normal_70002/acord_24",
             "path": "additional_fields.contact_phone",
@@ -88,59 +57,55 @@
             "unmatched_tokens": [
               "present"
             ]
+          },
+          {
+            "doc": "N2_normal_70002/loss_run",
+            "path": "claims.[0].claim_number",
+            "value": "MTF-2021-013149",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "mtf"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_101",
+            "path": "header.policy_number",
+            "value": "GL-HCHP-2025-8351",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "8351"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_101",
+            "path": "additional_fields.location_descriptions.[1].name",
+            "value": "Raymond James San Antonio",
+            "ratio": 0.5,
+            "unmatched_tokens": [
+              "raymond",
+              "james"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "header.carrier_name",
+            "value": "Halimark Insurance Group",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "halimark"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.expiring_coverages.[0].expiring_carrier",
+            "value": "Zenith Insurance Group",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "zenith"
+            ]
           }
         ],
         "true_fabrication": [
-          {
-            "doc": "N2_normal_70002/acord_160",
-            "path": "additional_fields.additional_coverages.[1].deductible",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.3333333333333333,
-            "unmatched_tokens": [
-              "deadbeef",
-              "missing"
-            ]
-          },
-          {
-            "doc": "N2_normal_70002/acord_160",
-            "path": "additional_fields.additional_coverages.[3].deductible",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.3333333333333333,
-            "unmatched_tokens": [
-              "deadbeef",
-              "missing"
-            ]
-          },
-          {
-            "doc": "N2_normal_70002/acord_160",
-            "path": "additional_fields.additional_coverages.[7].deductible",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.3333333333333333,
-            "unmatched_tokens": [
-              "deadbeef",
-              "missing"
-            ]
-          },
-          {
-            "doc": "N2_normal_70002/acord_160",
-            "path": "additional_fields.additional_coverages.[9].deductible",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.3333333333333333,
-            "unmatched_tokens": [
-              "deadbeef",
-              "missing"
-            ]
-          },
-          {
-            "doc": "N2_normal_70002/acord_160",
-            "path": "additional_fields.additional_coverages.[11].deductible",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.3333333333333333,
-            "unmatched_tokens": [
-              "deadbeef",
-              "missing"
-            ]
-          },
           {
             "doc": "N2_normal_70002/acord_25",
             "path": "additional_fields.producer_email",
@@ -167,6 +132,56 @@
             "unmatched_tokens": [
               "gl000024"
             ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.expiring_coverages.[2].expiring_policy_number",
+            "value": "WC-808-4903",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "808",
+              "4903"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_130",
+            "path": "additional_fields.applicant_phone",
+            "value": "214-819-8832",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "819",
+              "8832"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.interests.[1].address",
+            "value": "P.O. Box 20055, Ewing, NJ 08628",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "20055",
+              "ewing",
+              "nj",
+              "08628"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_140",
+            "path": "additional_fields.interests.[2].loan_reference_number",
+            "value": "L041492558",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "l041492558"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_160",
+            "path": "additional_fields.website",
+            "value": "www.hbcountryhospitality.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "www.hbcountryhospitality.com"
+            ]
           }
         ],
         "non_meaningful": []
@@ -174,27 +189,25 @@
     },
     "gpt54": {
       "model": "gpt54",
-      "flagged_strings_total": 312,
+      "flagged_strings_total": 246,
       "buckets": {
-        "composed_string": 5,
+        "composed_string": 2,
         "format_variance": 0,
-        "partial_overlap": 190,
-        "true_fabrication": 117,
+        "partial_overlap": 170,
+        "true_fabrication": 74,
         "non_meaningful": 0
       },
-      "composed_fraction": 0.016025641025641024,
-      "reclassify_fraction": 0.625,
-      "true_fabrication_fraction": 0.375,
+      "composed_fraction": 0.008130081300813009,
+      "reclassify_fraction": 0.6991869918699187,
+      "true_fabrication_fraction": 0.3008130081300813,
       "sample_examples": {
         "composed_string": [
           {
             "doc": "N2_normal_70002/acord_125",
             "path": "additional_fields.loss_history_totals",
             "value": "{\"claims\":2,\"total_paid\":202875,\"total_reserved\":35679,\"total_incurred\":238554}",
-            "ratio": 0.9090909090909091,
-            "unmatched_tokens": [
-              "35679"
-            ]
+            "ratio": 1.0,
+            "unmatched_tokens": []
           },
           {
             "doc": "N3_hard_70003/acord_140",
@@ -203,33 +216,6 @@
             "ratio": 0.8,
             "unmatched_tokens": [
               "tima"
-            ]
-          },
-          {
-            "doc": "N5_nightmare_70005/driver_schedule",
-            "path": "drivers.[28].assigned_vehicle",
-            "value": "2022 Utility 4000D-X Composite",
-            "ratio": 0.8,
-            "unmatched_tokens": [
-              "4000d"
-            ]
-          },
-          {
-            "doc": "N5_nightmare_70005/driver_schedule_excel",
-            "path": "drivers.[28].assigned_vehicle",
-            "value": "2022 Utility 4000D-X Composite",
-            "ratio": 0.8,
-            "unmatched_tokens": [
-              "4000d"
-            ]
-          },
-          {
-            "doc": "N5_nightmare_70005/driver_schedule_excel",
-            "path": "drivers.[29].assigned_vehicle",
-            "value": "2023 Utility 4000D-X Composite",
-            "ratio": 0.8,
-            "unmatched_tokens": [
-              "4000d"
             ]
           }
         ],
@@ -263,15 +249,6 @@
             ]
           },
           {
-            "doc": "N2_normal_70002/engineering_report",
-            "path": "locations_inspected.[0].findings.[8]",
-            "value": "Building Envelope Integrity: Deteriorating.",
-            "ratio": 0.75,
-            "unmatched_tokens": [
-              "integrity"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_101",
             "path": "header.policy_number",
             "value": "GL-HCHP-2025-3551",
@@ -293,10 +270,9 @@
             "doc": "N3_hard_70003/acord_101",
             "path": "additional_fields.location_2",
             "value": "LOC-002: Riverside Suites San Marcos - 1100 Cheyenne Street, San Marcos, TX 78666 (Occupancy: Hotel)",
-            "ratio": 0.5333333333333333,
+            "ratio": 0.6,
             "unmatched_tokens": [
               "riverside",
-              "suites",
               "marcos",
               "1100",
               "cheyenne",
@@ -306,11 +282,21 @@
           },
           {
             "doc": "N3_hard_70003/acord_125",
-            "path": "additional_fields.audit",
-            "value": "As per billing plan",
-            "ratio": 0.75,
+            "path": "additional_fields.prior_policy_number_commercial_property",
+            "value": "CP00120-001",
+            "ratio": 0.5,
             "unmatched_tokens": [
-              "billing"
+              "cp00120"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_125",
+            "path": "additional_fields.premises.[5].address",
+            "value": "6900 Composite Trail, Austin, TX 78759",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "composite",
+              "78759"
             ]
           }
         ],
@@ -353,15 +339,6 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_126",
-            "path": "additional_fields.classification_1_premium_basis",
-            "value": "Receipts",
-            "ratio": 0.0,
-            "unmatched_tokens": [
-              "receipts"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_130",
             "path": "additional_fields.prior_carrier_information.[0].policy_number",
             "value": "WZL 673 8843",
@@ -389,6 +366,16 @@
             "unmatched_tokens": [
               "wcx098333"
             ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_133",
+            "path": "additional_fields.rating_bureau",
+            "value": "MEXCIA (AR)",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "mexcia",
+              "ar"
+            ]
           }
         ],
         "non_meaningful": []
@@ -396,37 +383,28 @@
     },
     "opus47": {
       "model": "opus47",
-      "flagged_strings_total": 162,
+      "flagged_strings_total": 110,
       "buckets": {
         "composed_string": 0,
         "format_variance": 0,
-        "partial_overlap": 59,
-        "true_fabrication": 103,
+        "partial_overlap": 42,
+        "true_fabrication": 68,
         "non_meaningful": 0
       },
       "composed_fraction": 0.0,
-      "reclassify_fraction": 0.36419753086419754,
-      "true_fabrication_fraction": 0.6358024691358025,
+      "reclassify_fraction": 0.38181818181818183,
+      "true_fabrication_fraction": 0.6181818181818182,
       "sample_examples": {
         "composed_string": [],
         "format_variance": [],
         "partial_overlap": [
           {
-            "doc": "N2_normal_70002/engineering_report",
-            "path": "locations_inspected.[0].deficiencies.[0]",
-            "value": "Building Envelope Integrity: Deteriorating",
-            "ratio": 0.75,
-            "unmatched_tokens": [
-              "integrity"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_125",
-            "path": "additional_fields.payment_plan",
-            "value": "As per billing plan",
-            "ratio": 0.75,
+            "path": "additional_fields.expiring_policy_wc",
+            "value": "WC-8099-9663",
+            "ratio": 0.6666666666666666,
             "unmatched_tokens": [
-              "billing"
+              "8099"
             ]
           },
           {
@@ -436,15 +414,6 @@
             "ratio": 0.5,
             "unmatched_tokens": [
               "jonathan"
-            ]
-          },
-          {
-            "doc": "N3_hard_70003/acord_133",
-            "path": "additional_fields.assigned_risk_plan",
-            "value": "NCCI Assigned Risk Plan",
-            "ratio": 0.75,
-            "unmatched_tokens": [
-              "ncci"
             ]
           },
           {
@@ -466,6 +435,15 @@
             ]
           },
           {
+            "doc": "N3_hard_70003/acord_24",
+            "path": "additional_fields.producer_fax",
+            "value": "(512) 695-7363",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "7363"
+            ]
+          },
+          {
             "doc": "N3_hard_70003/acord_27",
             "path": "additional_fields.agency_contact",
             "value": "Marcos Jennings",
@@ -482,6 +460,15 @@
             "unmatched_tokens": [
               "marcos"
             ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_75",
+            "path": "additional_fields.agency_fax",
+            "value": "(512) 695-7765",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "7765"
+            ]
           }
         ],
         "true_fabrication": [
@@ -492,16 +479,6 @@
             "ratio": 0.0,
             "unmatched_tokens": [
               "www.hicountryhospitalityp.com"
-            ]
-          },
-          {
-            "doc": "N3_hard_70003/acord_125",
-            "path": "additional_fields.expiring_policy_wc",
-            "value": "WC-8099-9663",
-            "ratio": 0.3333333333333333,
-            "unmatched_tokens": [
-              "8099",
-              "9663"
             ]
           },
           {
@@ -524,16 +501,6 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_133",
-            "path": "additional_fields.rating_bureau",
-            "value": "MWCIA (MN)",
-            "ratio": 0.0,
-            "unmatched_tokens": [
-              "mwcia",
-              "mn"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_160",
             "path": "additional_fields.website",
             "value": "www.hicountryhospitalityp.com",
@@ -543,23 +510,40 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_160",
-            "path": "additional_fields.agency_license_number",
-            "value": "AG-224177",
+            "doc": "N3_hard_70003/acord_24",
+            "path": "additional_fields.certificate_number",
+            "value": "CERT-869720",
             "ratio": 0.0,
             "unmatched_tokens": [
-              "ag",
-              "224177"
+              "cert",
+              "869720"
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_160",
-            "path": "additional_fields.data_quality_issues.exterior_glass_deductible",
-            "value": "DEADBEEF_MISSING_DEDUCTIBLE",
-            "ratio": 0.3333333333333333,
+            "doc": "N4_expert_70004/acord_127",
+            "path": "additional_fields.vehicles.[0].vin",
+            "value": "1FT35E7C8PHDLL4K8",
+            "ratio": 0.0,
             "unmatched_tokens": [
-              "deadbeef",
-              "missing"
+              "1ft35e7c8phdll4k8"
+            ]
+          },
+          {
+            "doc": "N4_expert_70004/acord_127",
+            "path": "additional_fields.vehicles.[1].vin",
+            "value": "1FDKV2RM6RSDL10FS",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "1fdkv2rm6rsdl10fs"
+            ]
+          },
+          {
+            "doc": "N4_expert_70004/acord_127",
+            "path": "additional_fields.vehicles.[7].vin",
+            "value": "1FT6S62RXPS878YFF",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "1ft6s62rxps878yff"
             ]
           }
         ],
@@ -568,17 +552,17 @@
     },
     "sonnet": {
       "model": "sonnet",
-      "flagged_strings_total": 215,
+      "flagged_strings_total": 153,
       "buckets": {
         "composed_string": 0,
         "format_variance": 0,
-        "partial_overlap": 82,
-        "true_fabrication": 133,
+        "partial_overlap": 59,
+        "true_fabrication": 94,
         "non_meaningful": 0
       },
       "composed_fraction": 0.0,
-      "reclassify_fraction": 0.3813953488372093,
-      "true_fabrication_fraction": 0.6186046511627907,
+      "reclassify_fraction": 0.38562091503267976,
+      "true_fabrication_fraction": 0.6143790849673203,
       "sample_examples": {
         "composed_string": [],
         "format_variance": [],
@@ -602,30 +586,12 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_125",
-            "path": "additional_fields.payment_plan",
-            "value": "As per billing plan",
-            "ratio": 0.75,
-            "unmatched_tokens": [
-              "billing"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_130",
             "path": "additional_fields.individuals_included_excluded.[1].name",
             "value": "Jonathan White",
             "ratio": 0.5,
             "unmatched_tokens": [
               "jonathan"
-            ]
-          },
-          {
-            "doc": "N3_hard_70003/acord_133",
-            "path": "additional_fields.assigned_risk_plan",
-            "value": "NCCI Assigned Risk Plan",
-            "ratio": 0.75,
-            "unmatched_tokens": [
-              "ncci"
             ]
           },
           {
@@ -638,22 +604,39 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_160",
-            "path": "additional_fields.business_type",
-            "value": "Hotel / Motel",
-            "ratio": 0.5,
+            "doc": "N3_hard_70003/acord_24",
+            "path": "additional_fields.policy_type",
+            "value": "CP-BLDG-2023-3392",
+            "ratio": 0.75,
             "unmatched_tokens": [
-              "motel"
+              "3392"
             ]
           },
           {
             "doc": "N3_hard_70003/acord_24",
-            "path": "additional_fields.policy_type",
-            "value": "CP-BLDG-2023-3392",
+            "path": "additional_fields.certificate_holder_name",
+            "value": "Bask Realty Management Inc.",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "bask"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_45",
+            "path": "additional_fields.agency_customer_id",
+            "value": "AC-070063",
             "ratio": 0.5,
             "unmatched_tokens": [
-              "bldg",
-              "3392"
+              "070063"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_75",
+            "path": "additional_fields.expiring_workers_compensation_policy",
+            "value": "WC-8398-9663",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "8398"
             ]
           }
         ],
@@ -696,32 +679,12 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_133",
-            "path": "additional_fields.experience_modification.rating_bureau",
-            "value": "MWCIA (MN)",
-            "ratio": 0.0,
-            "unmatched_tokens": [
-              "mwcia",
-              "mn"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_160",
             "path": "additional_fields.website",
             "value": "www.hicountryhospitalityp.com",
             "ratio": 0.0,
             "unmatched_tokens": [
               "www.hicountryhospitalityp.com"
-            ]
-          },
-          {
-            "doc": "N3_hard_70003/acord_160",
-            "path": "additional_fields.agent_license_number",
-            "value": "AG-224177",
-            "ratio": 0.0,
-            "unmatched_tokens": [
-              "ag",
-              "224177"
             ]
           },
           {
@@ -733,6 +696,25 @@
               "chrt",
               "489720"
             ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_24",
+            "path": "additional_fields.producer_fax",
+            "value": "(512) 895-7363",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "895",
+              "7363"
+            ]
+          },
+          {
+            "doc": "N4_expert_70004/acord_125",
+            "path": "additional_fields.expiring_carriers.General Liability.policy_number",
+            "value": "7GL0009577",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "7gl0009577"
+            ]
           }
         ],
         "non_meaningful": []
@@ -740,37 +722,47 @@
     },
     "gemini_pro": {
       "model": "gemini_pro",
-      "flagged_strings_total": 75,
+      "flagged_strings_total": 42,
       "buckets": {
-        "composed_string": 0,
+        "composed_string": 1,
         "format_variance": 0,
-        "partial_overlap": 37,
-        "true_fabrication": 38,
+        "partial_overlap": 24,
+        "true_fabrication": 17,
         "non_meaningful": 0
       },
-      "composed_fraction": 0.0,
-      "reclassify_fraction": 0.49333333333333335,
-      "true_fabrication_fraction": 0.5066666666666667,
+      "composed_fraction": 0.023809523809523808,
+      "reclassify_fraction": 0.5952380952380952,
+      "true_fabrication_fraction": 0.40476190476190477,
       "sample_examples": {
-        "composed_string": [],
+        "composed_string": [
+          {
+            "doc": "N4_expert_70004/acord_28",
+            "path": "additional_fields.schedule_of_locations_values",
+            "value": "[{\"loc\": \"LOC 001\", \"building\": null, \"contents\": 1200000, \"business_income\": 2400000, \"total_insured_value\": 3600000}, {\"loc\": \"LOC 002\", \"building\": 9500000, ",
+            "ratio": 0.8428571428571429,
+            "unmatched_tokens": [
+              "null",
+              "1200000",
+              "2400000",
+              "9500000",
+              "4450000",
+              "17850000",
+              "2160000",
+              "1950000",
+              "450000",
+              "4600000"
+            ]
+          }
+        ],
         "format_variance": [],
         "partial_overlap": [
           {
-            "doc": "N3_hard_70003/acord_101",
-            "path": "additional_fields.agency_customer_id",
-            "value": "AC-156475",
-            "ratio": 0.5,
-            "unmatched_tokens": [
-              "156475"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_125",
-            "path": "additional_fields.payment_plan",
-            "value": "As per billing plan",
-            "ratio": 0.75,
+            "path": "additional_fields.expiring_policy_no_workers_compensation",
+            "value": "WC-8099-9663",
+            "ratio": 0.6666666666666666,
             "unmatched_tokens": [
-              "billing"
+              "8099"
             ]
           },
           {
@@ -792,15 +784,6 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_133",
-            "path": "additional_fields.assigned_risk_plan",
-            "value": "NCCI Assigned Risk Plan",
-            "ratio": 0.75,
-            "unmatched_tokens": [
-              "ncci"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_140",
             "path": "additional_fields.locations.[7].fire_protection.distance_to_hydrant",
             "value": "2500 ft",
@@ -819,12 +802,30 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_160",
-            "path": "additional_fields.business_type",
-            "value": "Hotel / Motel",
-            "ratio": 0.5,
+            "doc": "N3_hard_70003/acord_24",
+            "path": "header.policy_number",
+            "value": "CP-HCHP-2025-5552",
+            "ratio": 0.75,
             "unmatched_tokens": [
-              "motel"
+              "5552"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_24",
+            "path": "additional_fields.certificate_holder_name",
+            "value": "Desk Realty Management Inc.",
+            "ratio": 0.75,
+            "unmatched_tokens": [
+              "desk"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_75",
+            "path": "additional_fields.expiring_policy_wc_number",
+            "value": "WC-1098-9663",
+            "ratio": 0.6666666666666666,
+            "unmatched_tokens": [
+              "1098"
             ]
           }
         ],
@@ -836,16 +837,6 @@
             "ratio": 0.0,
             "unmatched_tokens": [
               "www.hcountryhospitalityp.com"
-            ]
-          },
-          {
-            "doc": "N3_hard_70003/acord_125",
-            "path": "additional_fields.expiring_policy_no_workers_compensation",
-            "value": "WC-8099-9663",
-            "ratio": 0.3333333333333333,
-            "unmatched_tokens": [
-              "8099",
-              "9663"
             ]
           },
           {
@@ -868,30 +859,6 @@
             ]
           },
           {
-            "doc": "N3_hard_70003/acord_133",
-            "path": "additional_fields.rating_bureau",
-            "value": "MWCIA (MN)",
-            "ratio": 0.0,
-            "unmatched_tokens": [
-              "mwcia",
-              "mn"
-            ]
-          },
-          {
-            "doc": "N3_hard_70003/acord_140",
-            "path": "additional_fields.interests.[2].address",
-            "value": "P.O. Box 55868, Elk Grove, CA 95624",
-            "ratio": 0.14285714285714285,
-            "unmatched_tokens": [
-              "box",
-              "55868",
-              "elk",
-              "grove",
-              "ca",
-              "95624"
-            ]
-          },
-          {
             "doc": "N3_hard_70003/acord_160",
             "path": "additional_fields.website",
             "value": "www.hcountryhospitalityp.com",
@@ -904,11 +871,39 @@
             "doc": "N3_hard_70003/acord_24",
             "path": "additional_fields.producer_contact_fax",
             "value": "(512) 895-7265",
-            "ratio": 0.0,
+            "ratio": 0.3333333333333333,
             "unmatched_tokens": [
-              "512",
               "895",
               "7265"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_24",
+            "path": "additional_fields.producer_contact_email",
+            "value": "mjennings@capitalia.com",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "mjennings@capitalia.com"
+            ]
+          },
+          {
+            "doc": "N3_hard_70003/acord_75",
+            "path": "header.policy_number",
+            "value": "BND-22679-1805",
+            "ratio": 0.3333333333333333,
+            "unmatched_tokens": [
+              "bnd",
+              "1805"
+            ]
+          },
+          {
+            "doc": "N4_expert_70004/acord_130",
+            "path": "additional_fields.individual_excluded_2_name",
+            "value": "Jonathan Ramirez",
+            "ratio": 0.0,
+            "unmatched_tokens": [
+              "jonathan",
+              "ramirez"
             ]
           }
         ],
