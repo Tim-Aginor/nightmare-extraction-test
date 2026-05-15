@@ -1,0 +1,96 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "producer_name": {
+      "value": "Steel City Insurance Group"
+    },
+    "producer_contact": {
+      "value": "Patricia Nowak"
+    },
+    "premium_wc": {
+      "value": 1158173.43,
+      "rendered_as": "$1,158,173.43"
+    },
+    "premium_gl": {
+      "value": 297027.73,
+      "rendered_as": "297,027.73"
+    },
+    "premium_auto": {
+      "value": 57889.77,
+      "rendered_as": "$57,889.77"
+    },
+    "premium_property": {
+      "value": 76073.77,
+      "rendered_as": "$76,073.77"
+    },
+    "account_type": {
+      "value": "Transfer"
+    }
+  },
+  "doc_type": "broker_narrative",
+  "sections_rendered": [
+    "account_summary",
+    "coverage_overview",
+    "loss_history",
+    "risk_highlights",
+    "recommendation"
+  ],
+  "loss_summary": {
+    "total_claims": 52,
+    "total_paid": 1315756.27,
+    "total_incurred": 1489697.06,
+    "open_claims": 12,
+    "closed_claims": 40,
+    "per_coverage": [
+      {
+        "coverage": "wc",
+        "claims": 35,
+        "paid": 1126509.19,
+        "incurred": 1176100.41,
+        "open": 6,
+        "closed": 29
+      },
+      {
+        "coverage": "gl",
+        "claims": 8,
+        "paid": 105420.7,
+        "incurred": 176946.61,
+        "open": 3,
+        "closed": 5
+      },
+      {
+        "coverage": "auto",
+        "claims": 8,
+        "paid": 47076.38,
+        "incurred": 99900.04,
+        "open": 3,
+        "closed": 5
+      },
+      {
+        "coverage": "property",
+        "claims": 1,
+        "paid": 36750.0,
+        "incurred": 36750.0,
+        "open": 0,
+        "closed": 1
+      }
+    ]
+  }
+}

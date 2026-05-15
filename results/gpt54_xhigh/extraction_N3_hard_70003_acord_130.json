@@ -1,0 +1,81 @@
+{
+  "form_info": {
+    "form_number": "ACORD 130",
+    "form_edition": "2016/03",
+    "form_title": "WORKERS COMPENSATION APPLICATION"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-HCHP-2026-3350",
+    "effective_date": "2026-05-01",
+    "expiration_date": "2027-05-01",
+    "producer_name": "Marcus Jennings",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "74-3195832",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and events operations across Central and South Texas",
+    "entity_type": "LLC"
+  },
+  "wc_class_codes": [
+    {
+      "class_code": "9052",
+      "description": "Hotel -- All Other Employees",
+      "state": "TX",
+      "payroll": 9207271,
+      "rate": 2.85,
+      "premium": 262407
+    },
+    {
+      "class_code": "9050",
+      "description": "Hotel -- Bellhops, Doorpersons",
+      "state": "TX",
+      "payroll": 1454400,
+      "rate": 2.45,
+      "premium": 35633
+    },
+    {
+      "class_code": "9082",
+      "description": "Restaurant -- NOC",
+      "state": "TX",
+      "payroll": 3678800,
+      "rate": 2.12,
+      "premium": 77991
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees -- NOC",
+      "state": "TX",
+      "payroll": 2304000,
+      "rate": 0.15,
+      "premium": 3456
+    }
+  ],
+  "individuals": [
+    {
+      "name": "Christina Montoya",
+      "title": "Chief Executive Officer",
+      "status": "Included"
+    },
+    {
+      "name": "Amanda Garcia",
+      "title": "General Manager",
+      "status": "Included"
+    }
+  ],
+  "experience_mod": 0.94,
+  "wc_premium": {
+    "base_premium": 379487,
+    "total_premium": 286528
+  },
+  "checkboxes": [],
+  "remarks": null
+}

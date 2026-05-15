@@ -1,0 +1,109 @@
+{
+  "document_info": {
+    "document_type": "Submission Package",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction and building operations; facilities include corporate office, equipment yard and warehouse, fabrication shop, branch office, and equipment storage. Additional named insured: Keystone Commercial Builders, Inc. dba Operations.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 95000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": 39405000,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "5 scheduled locations; total TIV $39,405,000 across building ($10,820,000), contents ($18,455,000), and BI ($10,130,000) values; 4 of 5 locations sprinklered; LOC-005 (Equipment Storage, Cranberry Township) has no sprinkler system; construction types include Fire Resistive, Non-Combustible, and Masonry Non-Combustible; 1 property claim in loss summary period totaling $36,750 incurred"
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "35 claims; $1,126,509 paid; $1,171,607 total incurred; dominant loss line by both frequency and severity"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "8 claims; $105,421 paid; $176,947 total incurred"
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "8 claims; $47,076 paid; $99,900 total incurred; 15 scheduled drivers, all PA-licensed; experience ranges from 5 to 28 years"
+    },
+    {
+      "coverage_type": "All Lines Combined (Account Total)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "2024 total account premium; 13 claims reported in policy year 2024; premium not broken out by individual line of coverage in submission data"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "4 of 5 locations equipped with automatic sprinkler systems",
+      "Majority of locations feature Fire Resistive or Masonry Non-Combustible construction",
+      "Strong annual revenue of $95,000,000 with positive net income of $5,997,400",
+      "Equity position of $34,373,200 on total assets of $103,336,700",
+      "Driver roster demonstrates strong tenure; 9 of 15 drivers have 12 or more years of experience; top drivers carry 22-28 years experience",
+      "Low property claim frequency: 1 claim in loss summary period with modest severity ($36,750 incurred)",
+      "Relatively low auto loss severity: $99,900 total incurred across 8 claims"
+    ],
+    "concerns": [
+      "LOC-005 (Equipment Storage - Cranberry Township, 100 Dutilh Road, 28,000 sq ft) has no sprinkler system",
+      "Elevated WC claim frequency: 35 claims representing the largest loss line at $1,171,607 incurred",
+      "Rising account premium trend: $1,369,246 (2022) to $1,476,850 (2023) to $1,634,722 (2024), a 19.4% increase over two years",
+      "2021 recorded 15 annual claims, highest single-year count in 5-year history",
+      "Total account liabilities ($68,963,500) exceed equity ($34,373,200); debt-to-equity ratio exceeds 2:1",
+      "Four different carriers in five years (CNA 2020, Nationwide 2021, Zurich 2022, Berkshire Hathaway Guard 2023, Nationwide 2024) may indicate adverse market experience or pricing instability",
+      "GL total incurred ($176,947) is 67.8% higher than total paid ($105,421), indicating meaningful open/developing reserves"
+    ],
+    "loss_history_summary": "5-year insurance history (2020-2024) across 4 carriers. Annual claim counts: 6 (2020), 15 (2021), 4 (2022), 10 (2023), 13 (2024) totaling 48 reported claims. 2024 expiring premium is $1,634,721.63 with Nationwide Insurance. Loss summary across all lines totals 52 claims, $1,315,756 paid, and $1,485,204 total incurred. WC is the dominant loss driver (35 claims, $1,171,607 incurred, 78.9% of total incurred)."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 15,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Keystone Commercial Builders, Inc. operates 5 locations across Pennsylvania totaling approximately 151,500 square feet. LOC-001: Corporate Headquarters, 300 Liberty Avenue Suite 1200, Pittsburgh PA 15222 \u2014 18,000 sq ft fire resistive office, built 2002, sprinklered, EPDM roof, TIV $3,600,000. LOC-002: Main Equipment Yard and Warehouse, 4500 Butler Street, Pittsburgh PA 15201 \u2014 65,000 sq ft non-combustible warehouse, built 1995, sprinklered, EPDM roof, TIV $17,550,000. LOC-003: Fabrication Shop, 4520 Butler Street, Pittsburgh PA 15201 \u2014 32,000 sq ft masonry non-combustible manufacturing, built 1988, sprinklered, TPO roof, TIV $8,000,000. LOC-004: South Hills Branch Office, 3000 Village Run Road, Wexford PA 15090 \u2014 8,500 sq ft, 2-story masonry non-combustible office, built 2010, sprinklered, shingle roof, TIV $2,975,000. LOC-005: Equipment Storage - Cranberry, 100 Dutilh Road, Cranberry Township PA 16066 \u2014 28,000 sq ft non-combustible warehouse, built 2005, NO SPRINKLER, concrete roof, TIV $7,280,000.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

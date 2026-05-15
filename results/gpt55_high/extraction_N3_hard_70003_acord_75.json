@@ -1,0 +1,188 @@
+{
+  "binder_date": "2025-02-16",
+  "binder_number": "BND-2025-1888",
+  "checkboxes": [
+    {
+      "field": "Property Coverage - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Property Coverage - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Property Coverage - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "General Liability - Occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "General Liability - Claims-Made",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - Per Statute",
+      "value": "Yes"
+    }
+  ],
+  "coinsurance_property": 90,
+  "endorsements": [
+    {
+      "coverage": "Workers' Compensation",
+      "form_number": "WC 00 00 00",
+      "title": "Workers Compensation and Employers Liability Insurance Policy"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_number": "WC 00 04 03",
+      "title": "Experience Rating Modification Factor Endorsement"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_number": "WC 42 03 03",
+      "title": "Texas Notice of Material Change Endorsement"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_number": "WC 42 06 01",
+      "title": "Texas Cancellation by the Insured Endorsement"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_number": "WC 00 03 13",
+      "title": "Waiver of Our Right to Recover From Others Endorsement"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 00 01 04 13",
+      "title": "Commercial General Liability Coverage Form"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors - Completed Operations"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": null,
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 24 04 05 09",
+      "title": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": null,
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 03 21 06 07",
+      "title": "Windstorm or Hail Percentage Deductible"
+    }
+  ],
+  "expiring_carriers": [
+    {
+      "carrier": "Travelers Companies",
+      "lob": "Workers' Compensation",
+      "policy_number": "WC-TRV-1965"
+    },
+    {
+      "carrier": "Zurich Insurance Group",
+      "lob": "General Liability",
+      "policy_number": null
+    },
+    {
+      "carrier": "Auto-Owners Insurance",
+      "lob": "Commercial Property",
+      "policy_number": "CPH2025-001"
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 75",
+    "form_title": "INSURANCE BINDER"
+  },
+  "form_type_property": "Special",
+  "header": {
+    "carrier_name": "The Hanover Insurance Group",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "insured_address": "401 Congress Avenue, Suite 2000",
+    "insured_city": "Austin",
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Capstone Insurance Advisors"
+  },
+  "limit_property_building": null,
+  "limit_property_business_income": null,
+  "limit_property_coinsurance": 90,
+  "limit_property_contents": null,
+  "mortgagees": [
+    {
+      "address": "P.O. Box 38199, Cleveland, TN 37404",
+      "loan_number": null,
+      "name": "KeyBank National Association"
+    },
+    {
+      "address": "P.O. Box 25349, Fargo, ND 58102",
+      "loan_number": null,
+      "name": "Bremer Bank, N.A."
+    },
+    {
+      "address": "P.O. Box 53569, Los Gatos, CA 95031",
+      "loan_number": null,
+      "name": "Pinnacle Investors Group, Inc."
+    }
+  ],
+  "property_deductible": 25000,
+  "property_premium": null,
+  "remarks": "Boutique hotel ownership and management with delegated restaurant and event operations across Central and South Texas."
+}

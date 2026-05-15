@@ -1,0 +1,74 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application - Commercial Lines",
+    "date": "2025-03-15",
+    "prepared_by": "Ryan Reinhardt",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": 78000000,
+    "employee_count": 485
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Auto / Transportation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2396117.84,
+      "notes": "Supplemental application focuses on trucking/fleet operations, CSA/DOT compliance, and transportation-related risk management. Prior insurance history shows no cancellations."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "No active lawsuits, liens, or judgments indicated",
+      "No DOT violations or out-of-service orders reported in the past 3 years",
+      "Fleet reported compliant with FMCSA Hours-of-Service regulations",
+      "GPS tracking or ELD devices installed in all vehicles",
+      "Annual MVR checks performed on all drivers",
+      "Valid DOT number and MC authority maintained",
+      "CDL licenses verified for all drivers at time of hire",
+      "Premises are largely sprinklered"
+    ],
+    "concerns": [
+      "CSA BASIC crash indicator is above intervention threshold and is currently being addressed"
+    ],
+    "loss_history_summary": "Prior insurance history lists Hanover Insurance Group (2024), Hartford Financial Services (2023), and Auto-Owners Insurance (2022). Claims counts shown are 10, 13, and 12 respectively, with no cancellations."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 26,
+    "radius_of_operation": "Regional - Midwest and Mid-Atlantic corridors"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2025-06-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Years in business: 38. Number of employees full-time: 485. Annual revenue / gross receipts: $78,000,000. Hours of operation: Mon-Fri 6:00 AM - 4:30 PM.",
+    "safety_programs": "Formal safety program: Yes. GPS tracking or ELD devices installed in all vehicles: Yes. MVR checks performed on all drivers at least annually: Yes. Fleet is compliant with FMCSA Hours-of-Service (HOS) regulations: Yes. Valid DOT number and MC authority maintained: Yes. CDL licenses verified for all drivers at time of hire: Yes.",
+    "claims_narrative": "Prior insurance history shows Hanover Insurance Group in 2024, Hartford Financial Services in 2023, and Auto-Owners Insurance in 2022. Claims counts are listed as 10, 13, and 12, with no cancellations."
+  }
+}

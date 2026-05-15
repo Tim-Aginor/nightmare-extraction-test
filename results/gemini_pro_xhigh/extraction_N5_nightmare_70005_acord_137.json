@@ -1,0 +1,164 @@
+{
+  "form_info": {
+    "form_number": "ACORD 137",
+    "form_edition": "2016/03",
+    "form_title": "COMMERCIAL AUTO SUPPLEMENT"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CAGLFS20258822",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 122185.0
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2023,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 119441.0
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2023,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 121494.0
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2024,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 117657.0
+    },
+    {
+      "vehicle_id": "26",
+      "year": null,
+      "make": "Translead",
+      "model": "Dry Van",
+      "vin": "5TULXRPT3NSTFND18",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "27",
+      "year": null,
+      "make": "Fontaine",
+      "model": "Revolution 51",
+      "vin": "4LFD18RR7R9R8JSSM",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "28",
+      "year": null,
+      "make": "Fontaine",
+      "model": "Infinity 48",
+      "vin": "13NCE49D0P7644DAM",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "29",
+      "year": 2017,
+      "make": "Fontaine",
+      "model": "Genesis",
+      "vin": "4LF72T447HVHUPLAH",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "30",
+      "year": 2024,
+      "make": "Great Dane",
+      "model": "Everest TL",
+      "vin": "1GRK0MHCXR6BYB582",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "31",
+      "year": 2023,
+      "make": "Utility",
+      "model": "3000R",
+      "vin": "1UYM1SR57PCYWR3X9",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": null
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 5000000.0,
+    "uninsured_motorist": 50000.0,
+    "medical_payments": 10000.0
+  },
+  "auto_premium": {
+    "base_premium": null,
+    "tria_surcharge": null,
+    "total_premium": 262046.75,
+    "deductible": null,
+    "form_type": "occurrence"
+  },
+  "checkboxes": [
+    {
+      "field": "Are any vehicles used for snow removal or similar seasonal operations?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any drivers under age 21?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured transport passengers for a fee?",
+      "value": "No"
+    },
+    {
+      "field": "Are dashcams or telematics installed in any vehicles?",
+      "value": "No"
+    },
+    {
+      "field": "Has the insured had any DOT violations in the past 3 years?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

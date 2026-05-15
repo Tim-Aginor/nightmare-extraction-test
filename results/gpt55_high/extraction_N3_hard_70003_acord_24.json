@@ -1,0 +1,91 @@
+{
+  "checkboxes": [
+    {
+      "field": "Basic Cause of Loss",
+      "value": "No"
+    },
+    {
+      "field": "Broad Cause of Loss",
+      "value": "No"
+    },
+    {
+      "field": "Special Cause of Loss",
+      "value": "Yes"
+    },
+    {
+      "field": "Earthquake",
+      "value": "No"
+    },
+    {
+      "field": "Wind",
+      "value": "No"
+    },
+    {
+      "field": "Flood",
+      "value": "No"
+    }
+  ],
+  "document_date": "2024-05-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "Redrock Insurance Company",
+    "effective_date": "2024-05-15",
+    "expiration_date": "2025-05-15",
+    "insured_address": "101 Congress Avenue, Suite 2500",
+    "insured_city": "Austin",
+    "insured_name": "Lone Star Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Capitol Insurance Advisors"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "Redrock Insurance Company",
+      "naic": null
+    },
+    {
+      "carrier": "Midwestern Indemnity Company",
+      "naic": null
+    },
+    {
+      "carrier": "Hillcrest Casualty Company",
+      "naic": null
+    }
+  ],
+  "locations": [
+    {
+      "address": null,
+      "bi_value": 4500000,
+      "building_value": 10575000,
+      "city": "Austin",
+      "construction": null,
+      "contents_value": 2150000,
+      "fire_alarm_type": null,
+      "location_number": "1",
+      "occupancy": "Hotel",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "TX",
+      "stories": null,
+      "tiv": 17225000,
+      "year_built": null,
+      "zip": null
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": null,
+  "property_limits": {
+    "building": 10575000,
+    "business_income": 4500000,
+    "contents": 2150000
+  },
+  "remarks": null
+}

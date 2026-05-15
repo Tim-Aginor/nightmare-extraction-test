@@ -1,0 +1,24 @@
+{
+  "checkboxes": [],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 823",
+    "form_title": "Commercial Lines Supplement"
+  },
+  "header": {
+    "carrier_name": "Keystone Insurance Group",
+    "effective_date": "2025-08-01",
+    "expiration_date": null,
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "WC-KCB-2025-5580",
+    "producer_code": null,
+    "producer_name": "Steel City Insurance Group"
+  },
+  "policy_number": "WC-KCB-2025-5580",
+  "remarks": "Page 1 premises information lists four locations: 1) 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222 \u2014 Corporate Headquarters, Fire Resistive, year built 2002. 2) 4200 Butler Street, Pittsburgh, PA 15201 \u2014 Main Equipment Yard & Warehouse, Non-Combustible, year built 1995. 3) 4530 Butler Street, Pittsburgh, PA 15201 \u2014 Fabrication Shop, Masonry Non-Combustible, year built 1998. 4) 3009 Village Run Road, Wexford, PA 15090 \u2014 North Hills Branch Office, Masonry Non-Combustible, year built 2010.",
+  "start_date": "2025-08-01"
+}

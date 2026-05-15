@@ -1,0 +1,84 @@
+{
+  "form_info": {
+    "form_number": "ACORD 133",
+    "form_edition": "2013/08",
+    "form_title": "WORKERS COMPENSATION ASSIGNED RISK"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "25-7194638",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "entity_type": "Corporation"
+  },
+  "state": "PA",
+  "class_codes": [
+    {
+      "class_code": "5403",
+      "description": "Carpentry - NOC",
+      "payroll": 5915000.0,
+      "rate": 8.24,
+      "premium": 487396.0
+    },
+    {
+      "class_code": "5190",
+      "description": "Electrical Wiring",
+      "payroll": 4544000.0,
+      "rate": 4.86,
+      "premium": 220838.0
+    },
+    {
+      "class_code": "5183",
+      "description": "Plumbing - NOC",
+      "payroll": 3075000.0,
+      "rate": 4.52,
+      "premium": 138990.0
+    },
+    {
+      "class_code": "5022",
+      "description": "Masonry - NOC",
+      "payroll": 6635850.0,
+      "rate": 9.15,
+      "premium": 607180.0
+    },
+    {
+      "class_code": "5474",
+      "description": "Painting - Interior",
+      "payroll": 1639000.0,
+      "rate": 6.92,
+      "premium": 113419.0
+    },
+    {
+      "class_code": "5606",
+      "description": "Contractors - Project Manager, Superintendent",
+      "payroll": 4776000.0,
+      "rate": 2.45,
+      "premium": 117012.0
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees - NOC",
+      "payroll": 5010000.0,
+      "rate": 0.19,
+      "premium": 9519.0
+    }
+  ],
+  "experience_mod": 0.91,
+  "total_premium": 1694354.0,
+  "checkboxes": [],
+  "remarks": "SIC: 1521. General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+}

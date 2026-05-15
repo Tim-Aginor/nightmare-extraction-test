@@ -1,0 +1,90 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Inferred from WC-prefix policy numbers. 2024: WC-8098-9663 (carrier unknown); 2023: 7WC0009522 (Markel Corporation); 2022: see bundled GL/CP record (Zurich, cancelled); 2021: 0000008163 (Chubb Limited); 2020: WC008082-001 (EMPLOYERS Insurance Group). Premiums reported as bundled totals across all lines."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Inferred from GL-prefix policy numbers. 2024: 0000005824 (carrier unknown); 2023: 0000002291 (Markel Corporation); 2022: GL-0002700 (Zurich Insurance Group, cancelled); 2021: GL-8167-3439 (Chubb Limited); 2020: GL-4906-7512 (EMPLOYERS Insurance Group). Premiums reported as bundled totals across all lines."
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Inferred from CP-prefix policy numbers. 2024: CP003220-001 (carrier unknown); 2023: CP-1970-9645 (Markel Corporation); 2022: 7CP0001066 (Zurich Insurance Group, cancelled); 2021: CP-0009781 (Chubb Limited); 2020: CP00007431 (EMPLOYERS Insurance Group). Premiums reported as bundled totals across all lines."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Five consecutive years of documented prior insurance history (2020\u20132024)",
+      "Premium base is relatively stable across available years, ranging approximately $580,805 to $630,843",
+      "Low claim frequency in 2020 (2 claims) and 2023 (3 claims)",
+      "No cancellations recorded in 2020, 2021, 2023, or 2024",
+      "Maintained coverage with recognized national carriers (Markel, Zurich, Chubb, EMPLOYERS)"
+    ],
+    "concerns": [
+      "Policy was cancelled by Zurich Insurance Group in 2022",
+      "Claim frequency is volatile and elevated: 9 claims (2021), 6 claims (2022), 11 claims (2024)",
+      "2024 shows highest claim count in the 5-year window (11 claims) with no corresponding premium or carrier identified",
+      "No carrier identified for 2024, suggesting possible mid-term placement, binder-only status, or data gap",
+      "No premium data available for 2024 policy year",
+      "Loss ratios not disclosed for any policy year despite column existing in record",
+      "Total of 31 claims across 5 years with no reserve or paid loss dollar amounts provided",
+      "Carrier turnover every year across all 5 years may indicate difficulty placing or retaining coverage"
+    ],
+    "loss_history_summary": "Five-year prior insurance history (2020\u20132024) across three lines of coverage (WC, GL, CP). Bundled premiums and claim counts by year: 2020 \u2014 EMPLOYERS Insurance Group, $580,805.53, 2 claims, no cancellation; 2021 \u2014 Chubb Limited, $630,843.20, 9 claims, no cancellation; 2022 \u2014 Zurich Insurance Group, $607,294.45, 6 claims, CANCELLED; 2023 \u2014 Markel Corporation, $619,820.26, 3 claims, no cancellation; 2024 \u2014 carrier unknown, premium unknown, 11 claims, no cancellation. Total reported claims: 31. No loss dollar amounts, reserves, or loss ratios provided. Cancellation by Zurich in 2022 is a material underwriting flag."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Claim counts reported by year without dollar loss data: 2020: 2 claims; 2021: 9 claims; 2022: 6 claims (policy cancelled by Zurich Insurance Group); 2023: 3 claims; 2024: 11 claims (carrier not identified). Aggregate claim count over 5 years: 31. No paid losses, incurred reserves, or per-claim detail provided. Frequency spike in 2024 (11 claims) warrants further loss runs and carrier explanation."
+  }
+}

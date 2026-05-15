@@ -1,0 +1,99 @@
+{
+  "applicant_info": {
+    "fein": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "checkboxes": [
+    {
+      "field": "General Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Professional Liability",
+      "value": "No"
+    },
+    {
+      "field": "Aviation",
+      "value": "No"
+    },
+    {
+      "field": "Foreign Liability",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Railroad Protective",
+      "value": "No"
+    },
+    {
+      "field": "Pollution Liability",
+      "value": "No"
+    },
+    {
+      "field": "Employers' Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Marine",
+      "value": "No"
+    },
+    {
+      "field": "Liquor Liability",
+      "value": "No"
+    },
+    {
+      "field": "Products Liability",
+      "value": "No"
+    }
+  ],
+  "form_info": {
+    "form_edition": null,
+    "form_number": "ACORD 131",
+    "form_title": "Umbrella / Excess Liability"
+  },
+  "header": {
+    "carrier_name": "Standard Insurance Company",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "insured_address": null,
+    "insured_city": null,
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_state": null,
+    "insured_zip": null,
+    "policy_number": "CUC025454",
+    "producer_code": null,
+    "producer_name": null
+  },
+  "remarks": "Self-insured retention applies to all coverages unless otherwise stated. Page 2 note: \"Need docs\". Signed by M. Johnston dated 2025-06-18. Loss history summary shown on page 2 totals: 51 claims, total paid 1548428, total reserved 178523, total incurred 1746951.",
+  "umbrella_form_type": "Occurrence",
+  "umbrella_limits": {
+    "aggregate": 10000000,
+    "per_occurrence": 10000000,
+    "retention": 50000
+  },
+  "umbrella_premium": 492351,
+  "underlying_policies": [
+    {
+      "carrier": "Standard Insurance Company",
+      "coverage_type": "GL",
+      "limit": 2000000,
+      "policy_number": null
+    },
+    {
+      "carrier": "Standard Insurance Company",
+      "coverage_type": "Auto",
+      "limit": 5000000,
+      "policy_number": null
+    }
+  ]
+}

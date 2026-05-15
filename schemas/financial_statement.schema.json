@@ -1,0 +1,470 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "financial_statement",
+  "type": "object",
+  "properties": {
+    "header": {
+      "type": "object",
+      "properties": {
+        "company_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "statement_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "period_end_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "period_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "fiscal_year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "audited": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "preparer": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "company_name",
+        "statement_type",
+        "period_end_date",
+        "period_type",
+        "fiscal_year",
+        "audited",
+        "preparer"
+      ],
+      "additionalProperties": false
+    },
+    "balance_sheet": {
+      "type": "object",
+      "properties": {
+        "assets": {
+          "type": "object",
+          "properties": {
+            "current_assets": {
+              "type": "object",
+              "properties": {
+                "cash": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "accounts_receivable": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "inventory": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "prepaid_expenses": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "other_current": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "total_current_assets": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "cash",
+                "accounts_receivable",
+                "inventory",
+                "prepaid_expenses",
+                "other_current",
+                "total_current_assets"
+              ],
+              "additionalProperties": false
+            },
+            "fixed_assets": {
+              "type": "object",
+              "properties": {
+                "property_plant_equipment": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "accumulated_depreciation": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "net_fixed_assets": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "property_plant_equipment",
+                "accumulated_depreciation",
+                "net_fixed_assets"
+              ],
+              "additionalProperties": false
+            },
+            "other_assets": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "total_assets": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "current_assets",
+            "fixed_assets",
+            "other_assets",
+            "total_assets"
+          ],
+          "additionalProperties": false
+        },
+        "liabilities": {
+          "type": "object",
+          "properties": {
+            "current_liabilities": {
+              "type": "object",
+              "properties": {
+                "accounts_payable": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "accrued_expenses": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "current_debt": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "other_current": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "total_current_liabilities": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "accounts_payable",
+                "accrued_expenses",
+                "current_debt",
+                "other_current",
+                "total_current_liabilities"
+              ],
+              "additionalProperties": false
+            },
+            "long_term_liabilities": {
+              "type": "object",
+              "properties": {
+                "long_term_debt": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "other_long_term": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "total_long_term": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "long_term_debt",
+                "other_long_term",
+                "total_long_term"
+              ],
+              "additionalProperties": false
+            },
+            "total_liabilities": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "current_liabilities",
+            "long_term_liabilities",
+            "total_liabilities"
+          ],
+          "additionalProperties": false
+        },
+        "equity": {
+          "type": "object",
+          "properties": {
+            "common_stock": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "retained_earnings": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "total_equity": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "common_stock",
+            "retained_earnings",
+            "total_equity"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "assets",
+        "liabilities",
+        "equity"
+      ],
+      "additionalProperties": false
+    },
+    "income_statement": {
+      "type": "object",
+      "properties": {
+        "revenue": {
+          "type": "object",
+          "properties": {
+            "gross_revenue": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "net_revenue": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "gross_revenue",
+            "net_revenue"
+          ],
+          "additionalProperties": false
+        },
+        "cost_of_goods_sold": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "gross_profit": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "operating_expenses": {
+          "type": "object",
+          "properties": {
+            "salaries_wages": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "rent": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "utilities": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "depreciation": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "insurance": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "other_operating": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "total_operating_expenses": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "salaries_wages",
+            "rent",
+            "utilities",
+            "depreciation",
+            "insurance",
+            "other_operating",
+            "total_operating_expenses"
+          ],
+          "additionalProperties": false
+        },
+        "operating_income": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "interest_expense": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "income_before_tax": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "income_tax": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "net_income": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "revenue",
+        "cost_of_goods_sold",
+        "gross_profit",
+        "operating_expenses",
+        "operating_income",
+        "interest_expense",
+        "income_before_tax",
+        "income_tax",
+        "net_income"
+      ],
+      "additionalProperties": false
+    },
+    "ratios": {
+      "type": "object",
+      "properties": {
+        "current_ratio": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "debt_to_equity": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "profit_margin": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "current_ratio",
+        "debt_to_equity",
+        "profit_margin"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "header",
+    "balance_sheet",
+    "income_statement",
+    "ratios"
+  ],
+  "additionalProperties": false
+}

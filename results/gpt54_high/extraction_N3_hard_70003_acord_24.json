@@ -1,0 +1,79 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "HB Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2620",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Builders Insurance Company",
+    "policy_number": null,
+    "effective_date": "2024-08-15",
+    "expiration_date": "2025-08-15",
+    "producer_name": "Capital Insurance Advisors",
+    "producer_code": null
+  },
+  "document_date": "2024-08-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "401 River Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 45175000,
+      "contents_value": 4500000,
+      "bi_value": 500000,
+      "tiv": 50175000
+    }
+  ],
+  "property_limits": {
+    "building": 45175000,
+    "contents": 4500000,
+    "business_income": 500000
+  },
+  "property_deductible": null,
+  "insurer_panel": [
+    {
+      "carrier": "Builders Insurance Company",
+      "naic": null
+    },
+    {
+      "carrier": "Builders Mutual Insurance Company",
+      "naic": null
+    },
+    {
+      "carrier": "Builders Casualty Company",
+      "naic": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "causes_of_loss_basic",
+      "value": "No"
+    },
+    {
+      "field": "causes_of_loss_broad",
+      "value": "No"
+    },
+    {
+      "field": "causes_of_loss_special",
+      "value": "Yes"
+    }
+  ],
+  "remarks": null
+}

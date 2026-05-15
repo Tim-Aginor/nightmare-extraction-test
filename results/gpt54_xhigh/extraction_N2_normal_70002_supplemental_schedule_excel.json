@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Insurance schedules workbook",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Warehouse, manufacturing, and office occupancies across scheduled premises",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": null,
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "2024 insurance history shows policy CP00007001 with 0 claims; the workbook does not specify coverage type or limits. Prior carriers listed are Hartford Financial Services in 2023 and 2021, and Chubb Limited in 2022."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No policy cancellations reported in the 2021-2024 insurance history.",
+      "No claims reported in 2022, 2023, or 2024."
+    ],
+    "concerns": [
+      "One claim is reported in 2021.",
+      "Manufacturing occupancy is present at two scheduled locations.",
+      "Most locations are leased; only one is shown as owned and one has no ownership status listed."
+    ],
+    "loss_history_summary": "Premiums were 392002.31 in 2024, 419914.35 in 2023, 456514.1 in 2022, and 458666.38 in 2021. Claims were 0, 0, 0, and 1 respectively, with no cancellations reported. Loss ratio fields were blank."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Workbook contains a named/additional insured schedule, prior insurance history for 2021-2024, and a premises schedule covering 9 Ohio locations for Buckeye Industrial Properties, LLC.",
+    "operations_description": "Premises schedule lists 9 Ohio locations totaling 1948500 square feet: 6 warehouse locations, 2 manufacturing locations, and 1 office.",
+    "safety_programs": null,
+    "claims_narrative": "Prior insurance history reflects 0 claims in 2024, 2023, and 2022, and 1 claim in 2021. No cancellations are shown for any listed year."
+  }
+}

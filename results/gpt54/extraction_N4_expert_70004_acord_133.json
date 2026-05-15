@@ -1,0 +1,84 @@
+{
+  "form_info": {
+    "form_number": "ACORD 133",
+    "form_edition": "09/2004",
+    "form_title": "Workers Compensation Assigned Risk"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "25-7194638",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null,
+    "entity_type": "Corporation"
+  },
+  "state": "PA",
+  "class_codes": [
+    {
+      "class_code": "5403",
+      "description": "Carpentry - NOC",
+      "payroll": 6805000,
+      "rate": 8.24,
+      "premium": 487306
+    },
+    {
+      "class_code": "5190",
+      "description": "Electrical Wiring",
+      "payroll": 12600000,
+      "rate": 4.88,
+      "premium": 623238
+    },
+    {
+      "class_code": "5183",
+      "description": "Plumbing - NOC",
+      "payroll": 3705000,
+      "rate": 4.92,
+      "premium": 182286
+    },
+    {
+      "class_code": "5022",
+      "description": "Masonry - NOC",
+      "payroll": 6836450,
+      "rate": 8.15,
+      "premium": 607150
+    },
+    {
+      "class_code": "5474",
+      "description": "Painting - Interior",
+      "payroll": 1830000,
+      "rate": 6.48,
+      "premium": 113419
+    },
+    {
+      "class_code": "5606",
+      "description": "Contractors - Project Manager, Supervisor",
+      "payroll": 4770000,
+      "rate": 2.45,
+      "premium": 117012
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees - NOC",
+      "payroll": 2610000,
+      "rate": 0.19,
+      "premium": 5519
+    }
+  ],
+  "experience_mod": 0.91,
+  "total_premium": 2145930,
+  "checkboxes": [],
+  "remarks": "SIC: 1521. General contracting for commercial and institutional projects \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+}

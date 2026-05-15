@@ -1,0 +1,76 @@
+{
+  "business_description": {
+    "annual_revenue": 78000000,
+    "employee_count": 485,
+    "naics_code": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "sic_code": null,
+    "years_in_business": 38
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Supplemental application lists policy number WC GLFS 2025 8820. No coverage limits or requested limits are shown in the document.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Brett Reinhardt",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history lists 2024 Hanover Insurance Group with 10 claims, 2023 Hartford Financial Services with 13 claims, and 2022 Auto-Owners Insurance with 12 claims. Cancellations are marked No for each listed year. Premium amounts are shown but are not legible enough to extract reliably.",
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Hours of operation: Mon-Fri 6:00 AM - 4:30 PM. Primary commodities hauled: Dry van: general freight, packaged goods. Flatbed: steel, lumber, machinery. ICC operating authority: Interstate (FMCSA) only.",
+    "safety_programs": "Formal safety program: Yes. DOT violations or out-of-service orders in the past 3 years: No. Drivers are reported compliant with FMCSA Hours-of-Service regulations. GPS tracking or ELD devices are installed in all vehicles. MVR checks are performed on all drivers at least annually. Applicant maintains a valid DOT number and MC authority. CDL licenses are verified for all drivers at initial hire. Most recent CSA BASIC Crash Indicator score is above intervention threshold and currently being addressed."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors; interstate (FMCSA) only",
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Most recent CSA BASIC Crash Indicator score is above intervention threshold and is being addressed.",
+      "Interstate trucking operation with dry van, flatbed, sleeper-cab, reefer/perishable cargo, and hired/non-owned auto exposures.",
+      "Prior insurance history lists 10 claims in 2024, 13 claims in 2023, and 12 claims in 2022, with no detailed claim narrative provided."
+    ],
+    "loss_history_summary": "Prior insurance history shows 10 claims in 2024, 13 claims in 2023, and 12 claims in 2022; cancellations are marked No for all listed years.",
+    "positives": [
+      "38 years in business.",
+      "Annual revenue of 78000000 and 485 full-time employees indicate an established operation.",
+      "Formal safety program in place.",
+      "No DOT violations or out-of-service orders in the past 3 years.",
+      "Drivers reported compliant with FMCSA Hours-of-Service regulations.",
+      "GPS tracking or ELD devices installed in all vehicles.",
+      "MVR checks performed at least annually and CDL licenses verified at initial hire.",
+      "Valid DOT number and MC authority maintained.",
+      "Prior insurance history indicates no cancellations."
+    ]
+  }
+}

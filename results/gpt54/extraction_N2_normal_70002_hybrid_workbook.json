@@ -1,0 +1,73 @@
+{
+  "document_info": {
+    "document_type": "Excel submission summary",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": null,
+    "city": null,
+    "state": "OH",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property portfolio including warehouses, manufacturing facilities, cross-dock terminal, flex space, and corporate office.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Loss summary provided for Property coverage; 2 claims with total paid 202875 and total incurred 238554."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Nine Ohio locations with a diversified industrial real estate portfolio.",
+      "Most locations are non-combustible, masonry non-combustible, or fire resistive construction.",
+      "Majority of locations are sprinklered.",
+      "Several properties are newer construction, including 2014, 2016, and 2019 builds.",
+      "Prior insurance history shows multiple recent years with zero claims reported in the prior insurance table."
+    ],
+    "concerns": [
+      "Two property claims reported in the loss summary with total incurred of 238554.",
+      "One location is unsprinklered: Toledo Industrial Park - Building 2.",
+      "Portfolio includes manufacturing occupancy at certain locations, which may present higher hazard than warehouse or office occupancies.",
+      "One manufacturing location is joisted masonry construction.",
+      "Concentration of operations is entirely within Ohio."
+    ],
+    "loss_history_summary": "Property coverage reflects 2 claims, with total paid of 202875 and total incurred of 238554. Prior insurance table shows 0 claims in 2022, 2023, and 2024, and 1 claim in 2021."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251325000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

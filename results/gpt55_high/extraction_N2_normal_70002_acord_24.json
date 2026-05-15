@@ -1,0 +1,83 @@
+{
+  "checkboxes": [
+    {
+      "field": "Causes of Loss - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "Earthquake",
+      "value": "No"
+    },
+    {
+      "field": "Wind",
+      "value": "No"
+    },
+    {
+      "field": "Flood",
+      "value": "No"
+    }
+  ],
+  "document_date": "2026-03-16",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "Maine Employers Mutual Insurance Company",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": "CP-BIP-2025-4420",
+    "producer_code": "AG-6645310",
+    "producer_name": "Midwest Property & Casualty Group"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "Maine Employers Mutual Insurance Company",
+      "naic": "49182"
+    }
+  ],
+  "locations": [
+    {
+      "address": "6500 Alum Creek Drive",
+      "bi_value": 62590000,
+      "building_value": 146260000,
+      "city": "Columbus",
+      "construction": "Non-Combustible",
+      "contents_value": 42495000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "OH",
+      "stories": null,
+      "tiv": 251345000,
+      "year_built": null,
+      "zip": "43217"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 75000,
+  "property_limits": {
+    "building": 146260000,
+    "business_income": 62590000,
+    "contents": 42495000
+  },
+  "remarks": null
+}

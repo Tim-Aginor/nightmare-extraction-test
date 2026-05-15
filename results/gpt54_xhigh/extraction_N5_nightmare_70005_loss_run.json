@@ -1,0 +1,62 @@
+{
+  "header": {
+    "insured_name": null,
+    "carrier_name": null,
+    "policy_numbers": {
+      "wc": null,
+      "gl": null,
+      "auto": null,
+      "property": null,
+      "umbrella": null,
+      "mtc": null
+    },
+    "report_date": null,
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "claims": [],
+  "subtotals_by_coverage": {
+    "wc": {
+      "paid": null,
+      "reserved": null,
+      "incurred": null,
+      "claim_count": null
+    },
+    "gl": {
+      "paid": null,
+      "reserved": null,
+      "incurred": null,
+      "claim_count": null
+    },
+    "auto": {
+      "paid": null,
+      "reserved": null,
+      "incurred": null,
+      "claim_count": null
+    },
+    "property": {
+      "paid": null,
+      "reserved": null,
+      "incurred": null,
+      "claim_count": null
+    },
+    "umbrella": {
+      "paid": null,
+      "reserved": null,
+      "incurred": null,
+      "claim_count": null
+    },
+    "mtc": {
+      "paid": null,
+      "reserved": null,
+      "incurred": null,
+      "claim_count": null
+    }
+  },
+  "grand_totals": {
+    "paid": null,
+    "reserved": null,
+    "incurred": null,
+    "claim_count": null
+  }
+}

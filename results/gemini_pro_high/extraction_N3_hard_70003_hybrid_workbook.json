@@ -1,0 +1,65 @@
+{
+  "document_info": {
+    "document_type": "Excel Extract / Schedule",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality (Hotels and Restaurants)",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 42000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Package / All Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "2024 carrier with 11 claims reported."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 scheduled locations are 100% sprinklered."
+    ],
+    "concerns": [
+      "High frequency of Workers Compensation claims (28 claims)."
+    ],
+    "loss_history_summary": "Historical claims include 28 Workers Compensation claims ($415,934 incurred), 8 General Liability claims ($82,656 incurred), and 2 Property claims ($215,927 incurred)."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Insured operates multiple hospitality venues across Texas, including hotels (The Driskill, Riverwalk Suites, etc.) and restaurants (Blanco River Steakhouse, Oasis at Lake Travis), managed from a corporate headquarters in Austin.",
+    "safety_programs": null,
+    "claims_narrative": "Loss summary indicates majority of claims activity originates from Workers Compensation (28 claims) with minor General Liability (8 claims) and Property (2 claims) frequency."
+  }
+}

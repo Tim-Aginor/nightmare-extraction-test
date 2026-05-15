@@ -1,0 +1,99 @@
+{
+  "checkboxes": [
+    {
+      "field": "Basic Causes of Loss",
+      "value": "No"
+    },
+    {
+      "field": "Broad Causes of Loss",
+      "value": "No"
+    },
+    {
+      "field": "Special Causes of Loss",
+      "value": "Yes"
+    },
+    {
+      "field": "Earthquake",
+      "value": "No"
+    },
+    {
+      "field": "Flood",
+      "value": "No"
+    },
+    {
+      "field": "Inland Marine",
+      "value": "No"
+    },
+    {
+      "field": "Crime",
+      "value": "No"
+    },
+    {
+      "field": "Boiler and Machinery / Equipment Breakdown",
+      "value": "No"
+    }
+  ],
+  "document_date": "2024-09-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "Reliant Insurance Company",
+    "effective_date": "2024-04-01",
+    "expiration_date": "2025-04-01",
+    "insured_address": "401 Congress Avenue, Suite 2500",
+    "insured_city": "Austin",
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": "CP 42 134 896",
+    "producer_code": null,
+    "producer_name": "Capell Insurance Advisors"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "Reliant Insurance Company",
+      "naic": "24379"
+    },
+    {
+      "carrier": "Landmark Indemnity Company",
+      "naic": null
+    },
+    {
+      "carrier": "Redrock Casualty Company",
+      "naic": null
+    }
+  ],
+  "locations": [
+    {
+      "address": "Main Business Location",
+      "bi_value": 6500000,
+      "building_value": 20175000,
+      "city": "Austin",
+      "construction": null,
+      "contents_value": 4100000,
+      "fire_alarm_type": null,
+      "location_number": "1",
+      "occupancy": "Hotel",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "TX",
+      "stories": null,
+      "tiv": 30775000,
+      "year_built": null,
+      "zip": "78704"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 25000,
+  "property_limits": {
+    "building": 20175000,
+    "business_income": 6500000,
+    "contents": 4100000
+  },
+  "remarks": null
+}

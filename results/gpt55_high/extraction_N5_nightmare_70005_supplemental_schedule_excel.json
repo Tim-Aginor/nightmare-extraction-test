@@ -1,0 +1,102 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Warehouse, service/repair, and office operations based on the location schedule.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Prior insurance package - 2024",
+      "current_carrier": "Hanover Insurance Group",
+      "current_limit": null,
+      "expiring_premium": 2088513.96,
+      "notes": "Policy numbers: BWC-7853-4607, GL-0007119, CA-4481-4597, CP-9793-9090, CU00005026, MT-0006135. Claims: 10. Cancellation: No.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior insurance package - 2023",
+      "current_carrier": "Hartford Financial Services",
+      "current_limit": null,
+      "expiring_premium": 2074475.35,
+      "notes": "Policy numbers: BWC-1879-5462, GL-0008063, CA-9059-7564, CP007509-001, CU-0006463, 7MT0008387. Claims: 13. Cancellation: No.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior insurance package - 2022",
+      "current_carrier": "Auto-Owners Insurance",
+      "current_limit": null,
+      "expiring_premium": 2014565.01,
+      "notes": "Policy numbers: BWC-6082-7301, 0000003334, CA00003272, CP001105-001, CU00005651, 0000009568. Claims: 12. Cancellation: No.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior insurance package - 2021",
+      "current_carrier": "Markel Corporation",
+      "current_limit": null,
+      "expiring_premium": 2019439.11,
+      "notes": "Policy numbers: BWC-8729-1826, 0000001612, CA004074-001, CP-0002302, CU-5016-4404, MT00006769. Claims: 7. Cancellation: No.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior insurance package - 2020",
+      "current_carrier": "CNA Financial",
+      "current_limit": null,
+      "expiring_premium": 2066794.82,
+      "notes": "Policy numbers: BWC-2661-3820, 0000006691, CA001347-001, CP-3821-6899, 7CU0008415, MT-0008150. Claims: 4. Cancellation: No.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel workbook with additional insured, insurance history, and insured location schedules",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history lists 46 total claims from 2020 through 2024: 4 in 2020, 7 in 2021, 12 in 2022, 13 in 2023, and 10 in 2024. Loss ratios were not provided. No cancellations were indicated for any listed year.",
+    "executive_summary": null,
+    "operations_description": "The location schedule lists warehouse operations at seven locations, one service/repair location, and one office location across Ohio and Pennsylvania.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "1200 Nationwide Blvd.",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "46 total claims reported across the 2020-2024 prior insurance history period.",
+      "Loss ratios are not provided in the insurance history schedule.",
+      "Own/lease status is blank for several scheduled locations."
+    ],
+    "loss_history_summary": "Prior insurance history lists 46 total claims from 2020-2024: 4 in 2020, 7 in 2021, 12 in 2022, 13 in 2023, and 10 in 2024. No cancellations are indicated for any listed year; loss ratios are not provided.",
+    "positives": [
+      "No cancellations indicated for any year from 2020 through 2024.",
+      "Nine scheduled locations identified with operations and addresses provided.",
+      "Operations are concentrated in Ohio and Pennsylvania."
+    ]
+  }
+}

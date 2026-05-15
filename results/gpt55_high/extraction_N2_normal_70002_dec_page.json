@@ -1,0 +1,122 @@
+{
+  "coverages": [
+    {
+      "coverage_code": "CP 00 10",
+      "coverage_type": "Building",
+      "deductible": 75000,
+      "form_numbers": [
+        "CP 00 10 10 12"
+      ],
+      "limit": "146260000",
+      "premium": null
+    },
+    {
+      "coverage_code": "CP 00 10",
+      "coverage_type": "Business Personal Property",
+      "deductible": 75000,
+      "form_numbers": [
+        "CP 00 10 10 12"
+      ],
+      "limit": "42495000",
+      "premium": null
+    },
+    {
+      "coverage_code": "CP 00 30",
+      "coverage_type": "Business Income with Extra Expense",
+      "deductible": 75000,
+      "form_numbers": [
+        "CP 00 30 10 12"
+      ],
+      "limit": "62590000",
+      "premium": null
+    },
+    {
+      "coverage_code": null,
+      "coverage_type": "Coinsurance",
+      "deductible": null,
+      "form_numbers": [],
+      "limit": "80%",
+      "premium": null
+    },
+    {
+      "coverage_code": null,
+      "coverage_type": "Commercial Property",
+      "deductible": 75000,
+      "form_numbers": [
+        "CP 00 10 10 12",
+        "CP 00 30 10 12",
+        "CP 10 30 10 12",
+        "CP 04 09"
+      ],
+      "limit": null,
+      "premium": 424883
+    }
+  ],
+  "endorsements": [
+    {
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "form_number": "CP 04 09",
+      "title": "Equipment Breakdown Coverage"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    }
+  ],
+  "forms_attached": [
+    "CP 00 10 10 12",
+    "CP 00 30 10 12",
+    "CP 10 30 10 12",
+    "IL 00 21 09 08",
+    "IL 00 17 11 98",
+    "CP 04 09",
+    "IL 09 85 01 15"
+  ],
+  "insured": {
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "dba": null,
+    "entity_type": "LLC",
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "locations": [],
+  "policy_info": {
+    "carrier_naic": "44251",
+    "carrier_name": "Maine Employers Mutual",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "policy_number": "CP-BIP-2025-4420",
+    "policy_type": "Commercial Property"
+  },
+  "premium_summary": {
+    "taxes_fees": 19133,
+    "total_due": 424883,
+    "total_premium": 424883
+  },
+  "producer": {
+    "address": null,
+    "code": null,
+    "name": null
+  }
+}

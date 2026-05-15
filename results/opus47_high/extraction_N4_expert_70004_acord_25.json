@@ -1,0 +1,109 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": null,
+    "form_title": "Certificate of Liability Insurance"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction -- healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null,
+      "policy_number": "GL-KCB-2025-5581",
+      "effective_date": "2025-08-01",
+      "expiration_date": "2026-08-01",
+      "sub_limits": {
+        "each_occurrence": 2000000,
+        "damage_to_rented_premises": 300000,
+        "med_exp_any_one_person": 15000,
+        "personal_and_adv_injury": 2000000,
+        "general_aggregate": 4000000,
+        "products_comp_op_agg": 4000000
+      },
+      "insurer": "Hallmark Insurance Group (NAIC 41883)"
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": null,
+      "policy_number": "CA-KCB-2025-5582",
+      "effective_date": "2025-08-01",
+      "expiration_date": "2026-08-01",
+      "sub_limits": {
+        "combined_single_limit": 5000000
+      },
+      "insurer": "Hallmark Insurance Group (NAIC 41845)"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers' Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null,
+      "policy_number": "WC-KCB-2025-5580",
+      "effective_date": "2025-08-01",
+      "expiration_date": "2026-08-01",
+      "sub_limits": {
+        "el_each_accident": 1000000,
+        "el_disease_ea_employee": 1000000,
+        "el_disease_policy_limit": 1000000
+      },
+      "insurer": "Hallmark Insurance Group (NAIC 41837)"
+    }
+  ],
+  "checkboxes": {
+    "cgl_claims_made": "unchecked",
+    "cgl_occur": "checked",
+    "gen_aggregate_limit_applies_per_policy": "checked",
+    "gen_aggregate_limit_applies_per_project": "unchecked",
+    "gen_aggregate_limit_applies_per_loc": "unchecked",
+    "auto_any_auto": "checked",
+    "auto_owned_autos_only": "unchecked",
+    "auto_scheduled_autos": "unchecked",
+    "auto_hired_autos_only": "unchecked",
+    "auto_non_owned_autos_only": "unchecked",
+    "umbrella_liab": "unchecked",
+    "wc_officer_member_excluded": "N/A",
+    "subrogation_waived": "Yes",
+    "additional_insured": "Yes"
+  },
+  "additional_fields": {
+    "certificate_date": "2026-03-16",
+    "producer_contact": "Patricia Nowak",
+    "producer_phone": "(412) 555-0287",
+    "producer_fax": "(412) 580-2110",
+    "producer_email": "pnowak@steelcityins.com",
+    "producer_address": "One PPG Place, Suite 3100, Pittsburgh, PA 15222",
+    "insurer_a": "Hallmark Insurance Group (NAIC 41837)",
+    "insurer_b": "Hallmark Insurance Group (NAIC 41883)",
+    "insurer_c": "Hallmark Insurance Group (NAIC 41845)",
+    "certificate_holder_name": "Woodbridge Realty Management Inc.",
+    "certificate_holder_address": "4715 Maple Avenue, Unit 129, Birmingham, AL 35201",
+    "authorized_representative": "Joseph Kowalczyk",
+    "locations": "Corporate Headquarters - 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222; Main Equipment Yard & Warehouse - 4500 Butler Street, Pittsburgh, PA 15201; Fabrication Shop - 4520 Butler Street, Pittsburgh, PA 15201",
+    "notice_of_cancellation": "30 days"
+  },
+  "remarks": "RE: General contracting for commercial and institutional construction -- healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Locations: Corporate Headquarters - 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222; Main Equipment Yard & Warehouse - 4500 Butler Street, Pittsburgh, PA 15201; Fabrication Shop - 4520 Butler Street, Pittsburgh, PA 15201. Woodbridge Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

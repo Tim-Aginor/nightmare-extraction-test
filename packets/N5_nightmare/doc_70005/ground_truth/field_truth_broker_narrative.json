@@ -1,0 +1,120 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc."
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Boulevard"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "producer_name": {
+      "value": "Transportation Insurance Specialists"
+    },
+    "producer_contact": {
+      "value": "David Reinhardt"
+    },
+    "premium_wc": {
+      "value": 1170824.99,
+      "rendered_as": "$1,170,824.99"
+    },
+    "premium_gl": {
+      "value": 153014.13,
+      "rendered_as": "153,014.13"
+    },
+    "premium_auto": {
+      "value": 262046.75,
+      "rendered_as": "$262,046.75"
+    },
+    "premium_property": {
+      "value": 235710.77,
+      "rendered_as": "$235,710.77"
+    },
+    "premium_umbrella": {
+      "value": 492350.69,
+      "rendered_as": "$492,350.69"
+    },
+    "premium_mtc": {
+      "value": 20000.0,
+      "rendered_as": "$20,000.00"
+    },
+    "account_type": {
+      "value": "Transfer"
+    }
+  },
+  "doc_type": "broker_narrative",
+  "sections_rendered": [
+    "account_summary",
+    "coverage_overview",
+    "loss_history",
+    "risk_highlights",
+    "recommendation"
+  ],
+  "loss_summary": {
+    "total_claims": 48,
+    "total_paid": 1378733.13,
+    "total_incurred": 1503069.19,
+    "open_claims": 10,
+    "closed_claims": 38,
+    "per_coverage": [
+      {
+        "coverage": "wc",
+        "claims": 24,
+        "paid": 826622.56,
+        "incurred": 888785.06,
+        "open": 5,
+        "closed": 19
+      },
+      {
+        "coverage": "gl",
+        "claims": 5,
+        "paid": 54126.51,
+        "incurred": 54126.51,
+        "open": 0,
+        "closed": 5
+      },
+      {
+        "coverage": "auto",
+        "claims": 16,
+        "paid": 387376.46,
+        "incurred": 449550.02,
+        "open": 5,
+        "closed": 11
+      },
+      {
+        "coverage": "property",
+        "claims": 2,
+        "paid": 106691.36,
+        "incurred": 106691.36,
+        "open": 0,
+        "closed": 2
+      },
+      {
+        "coverage": "umbrella",
+        "claims": 0,
+        "paid": 0,
+        "incurred": 0,
+        "open": 0,
+        "closed": 0
+      },
+      {
+        "coverage": "mtc",
+        "claims": 1,
+        "paid": 3916.24,
+        "incurred": 3916.24,
+        "open": 0,
+        "closed": 1
+      }
+    ]
+  }
+}

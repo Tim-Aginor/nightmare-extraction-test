@@ -1,0 +1,85 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "Cancellation Request / Policy Release"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AG-4419703",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "WC GLFS 2025 8820",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "24281",
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "CGL",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "WC",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "policy_type_cgl": "checked",
+    "policy_type_auto": "checked",
+    "policy_type_wc": "checked",
+    "policy_type_property": "checked",
+    "policy_type_umbrella": "checked",
+    "reason_insureds_request": "unchecked",
+    "reason_non_payment_of_premium": "unchecked",
+    "reason_underwriting": "unchecked",
+    "reason_non_renewal": "checked",
+    "reason_other": "unchecked"
+  },
+  "additional_fields": {
+    "agency_phone": "(614) 555-0493",
+    "agency_fax": "(614) 267-6839",
+    "naic_code": "24281",
+    "cancellation_date": "2026-05-07",
+    "cancellation_time": "10:19 PM",
+    "signature_name": "David Reinhardt",
+    "signature_date": "2026-03-16",
+    "handwritten_note": "Need docs",
+    "handwritten_date": "6/18/2025",
+    "handwritten_signature": "M. Johnson"
+  },
+  "remarks": "The above-named insured/agent requests cancellation of the policy described above. Any return premium due is to be calculated on a pro-rata basis unless otherwise indicated. Handwritten notation 'Need docs' with date 6/18/2025 and signature M. Johnson present on page 2."
+}

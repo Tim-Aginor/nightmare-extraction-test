@@ -1,0 +1,77 @@
+{
+  "business_description": {
+    "annual_revenue": 48000000,
+    "employee_count": 113,
+    "naics_code": null,
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "years_in_business": 31
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Policy number CP-BIP-2025-4420. Prior insurance history lists Liberty Mutual Insurance in 2024 with premium 392002.31, Hartford Financial Services in 2023 with premium 419914.35, and Chubb Limited in 2022 with premium 456514.1; each year shows 0 claims and no cancellations.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Karen Weissman",
+    "recipient": "Maine Employers Mutual"
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior Insurance History: 2024 Liberty Mutual Insurance, premium 392002.31, claims 0, cancellations No; 2023 Hartford Financial Services, premium 419914.35, claims 0, cancellations No; 2022 Chubb Limited, premium 456514.1, claims 0, cancellations No.",
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio. Years in Business: 31. Years with Current Management: 22. Number of Employees Full-Time: 95. Number of Employees Part-Time: 18. Annual Revenue / Gross Receipts: 48000000. Hours of Operation: Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 1:00 PM.",
+    "safety_programs": "Formal safety program: Yes. Written contracts with all subcontractors: No. Risk management responses: 90% of units regularly occupied vs. vacant; building fully sprinklered per NFPA 13 or 13R: No; EV charging stations: No; swimming pools, exercise rooms, or other amenities: No; short-term rentals permitted: Yes; 24-hour doorperson/security: Yes; last updates: Plumbing 2015, HVAC 2018, Electrical 2023; fire alarms hard-wired with central station monitoring: Yes; commercial occupancy within building: Yes; written contracts with indemnification required from all contractors: Yes; MSDS maintained: No; lockout/tagout procedures in place: No."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Written contracts with all subcontractors indicated as No.",
+      "Building not fully sprinklered per NFPA 13 or 13R; premises table shows LOC-007 is not sprinklered.",
+      "Short-term rentals of less than 1 year are permitted.",
+      "Commercial occupancy within building is indicated as Yes.",
+      "Material Safety Data Sheets (MSDS) are not maintained.",
+      "Lockout/tagout procedures are not in place."
+    ],
+    "loss_history_summary": "Prior insurance history for 2022 through 2024 shows 0 claims each year and no cancellations. Premiums listed were 392002.31 in 2024, 419914.35 in 2023, and 456514.1 in 2022.",
+    "positives": [
+      "31 years in business and 22 years with current management.",
+      "Formal safety program is in place.",
+      "90% of units are regularly occupied.",
+      "Fire alarms are hard-wired with central station monitoring.",
+      "24-hour doorperson/security is present.",
+      "Written contracts with indemnification are required from contractors.",
+      "No EV charging stations, swimming pools, exercise rooms, or similar amenities are reported.",
+      "Prior insurance history shows 0 claims and no cancellations for 2022, 2023, and 2024."
+    ]
+  }
+}

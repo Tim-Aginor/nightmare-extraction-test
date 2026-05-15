@@ -1,0 +1,77 @@
+{
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "accounts_receivable": 13376400,
+        "cash": 8274300,
+        "inventory": 1560000,
+        "other_current": null,
+        "prepaid_expenses": 1950000,
+        "total_current_assets": 25160700
+      },
+      "fixed_assets": {
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 66300000,
+        "property_plant_equipment": null
+      },
+      "other_assets": 21934300,
+      "total_assets": 113395000
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": null,
+      "total_equity": 56411300
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 9410500,
+        "accrued_expenses": 11238800,
+        "current_debt": 8463700,
+        "other_current": null,
+        "total_current_liabilities": 29113000
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 25224200,
+        "other_long_term": 2646500,
+        "total_long_term": 27870700
+      },
+      "total_liabilities": 56983700
+    }
+  },
+  "header": {
+    "audited": null,
+    "company_name": "Great Lakes Freight Systems, Inc.",
+    "fiscal_year": 2026,
+    "period_end_date": "2026-02-28",
+    "period_type": null,
+    "preparer": "Margaret Sullivan",
+    "statement_type": "Financial Statements"
+  },
+  "income_statement": {
+    "cost_of_goods_sold": 62939200,
+    "gross_profit": 15060800,
+    "income_before_tax": 3194800,
+    "income_tax": 854800,
+    "interest_expense": 2139600,
+    "net_income": 2340000,
+    "operating_expenses": {
+      "depreciation": 3579900,
+      "insurance": null,
+      "other_operating": null,
+      "rent": null,
+      "salaries_wages": null,
+      "total_operating_expenses": 6146500,
+      "utilities": null
+    },
+    "operating_income": 5334400,
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": 78000000
+    }
+  },
+  "ratios": {
+    "current_ratio": 0.86,
+    "debt_to_equity": 1.01,
+    "profit_margin": 0.03
+  }
+}

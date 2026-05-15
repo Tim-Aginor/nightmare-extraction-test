@@ -1,0 +1,297 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "Insurance Binder"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43210",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "BND-32017-7912",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property",
+      "limit": 54110000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Personal Property",
+      "limit": 30320000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 57954000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Each Occurrence",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Products/Comp Op Agg",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Personal & Adv Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Damage to Rented Premises",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Med Exp (Any one person)",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Automobile Liability - Combined Single Limit",
+      "limit": 5000000,
+      "deductible": 5000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - E.L. Each Accident",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - E.L. Disease Each Employee",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - E.L. Disease Policy Limit",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella / Excess Liability - Each Occurrence",
+      "limit": 10000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella / Excess Liability - Aggregate",
+      "limit": 10000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella / Excess Liability - Self-Insured Retention",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "property_causes_of_loss_basic": "unchecked",
+    "property_causes_of_loss_broad": "unchecked",
+    "property_causes_of_loss_special": "checked",
+    "cgl_occurrence": "checked",
+    "cgl_claims_made": "unchecked",
+    "wc_per_statute": "checked",
+    "umbrella_occurrence": "checked",
+    "umbrella_claims_made": "unchecked"
+  },
+  "additional_fields": {
+    "binder_number": "BND-32017-7912",
+    "binder_date": "2025-06-01",
+    "naic_code": "24281",
+    "agency_contact": "David Reinhardt",
+    "agency_address": "41 South High Street, Suite 2800, Columbus, OH 43210",
+    "agency_phone": "(614) 555-0493",
+    "agency_fax": "(614) 267-6839",
+    "agency_email": "dreinhardt@tisgroup.com",
+    "property_coinsurance": "80%",
+    "gl_policy_number": "GLFS 2025 8821",
+    "auto_policy_number": "CAGLFS20258822",
+    "wc_policy_number": "WC GLFS 2025 8820",
+    "umbrella_policy_number": "SIC CU025454",
+    "expiring_wc_carrier": "Ohio Bureau of Workers' Compensation",
+    "expiring_wc_policy": "BWC-7853-4607",
+    "expiring_gl_carrier": "Hanover Insurance Group",
+    "expiring_gl_policy": "GL-0007119",
+    "expiring_auto_carrier": "Travelers Companies",
+    "expiring_auto_policy": "CA-4481-4597",
+    "expiring_property_carrier": "Zurich Insurance Group",
+    "expiring_property_policy": "CP-9793-9090",
+    "expiring_umbrella_carrier": "Hanover Insurance Group",
+    "expiring_umbrella_policy": "CU00005026",
+    "expiring_mtc_carrier": "Zurich Insurance Group",
+    "expiring_mtc_policy": "MT-0006135",
+    "mortgagee_name": "Commerce Bank",
+    "mortgagee_address": "P.O. Box 79566, Elk Grove, CA 95624",
+    "authorized_representative": "Margaret Sullivan",
+    "authorized_representative_title": "Vice President of Risk Management",
+    "authorized_representative_date": "2026-03-11",
+    "forms_and_endorsements": [
+      {
+        "coverage": "Workers' Compensation",
+        "form_code": "BWC U-153",
+        "description": "Ohio Workers' Compensation Application"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 00 01 04 13",
+        "description": "Commercial General Liability Coverage Form"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "IL 00 21 09 08",
+        "description": "Nuclear Energy Liability Exclusion"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "IL 00 17 11 98",
+        "description": "Common Policy Conditions"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 04 42",
+        "description": "Stop Gap Employers' Liability Coverage Endorsement (OH)"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 20 10 04 13",
+        "description": "Additional Insured - Owners, Lessees or Contractors"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 20 37 04 13",
+        "description": "Additional Insured - Owners, Lessees or Contractors (Completed Ops)"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "IL 09 85 01 15",
+        "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 21 40 09 98",
+        "description": "Total Pollution Exclusion With a Hostile Fire Exception"
+      },
+      {
+        "coverage": "Business Auto",
+        "form_code": "CA 34 01 10 13",
+        "description": "Motor Carrier Coverage Form"
+      },
+      {
+        "coverage": "Business Auto",
+        "form_code": "MCS-90 (12/92)",
+        "description": "Endorsement for Motor Carrier Policies of Insurance for Public Liability"
+      },
+      {
+        "coverage": "Business Auto",
+        "form_code": "CA 99 48 03 06",
+        "description": "Pollution Liability - Broadened Coverage for Covered Autos"
+      },
+      {
+        "coverage": "Business Auto",
+        "form_code": "CA 20 48 02 99",
+        "description": "Designated Insured"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 00 10 10 12",
+        "description": "Building and Personal Property Coverage Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 00 30 10 12",
+        "description": "Business Income (and Extra Expense) Coverage Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 10 30 10 12",
+        "description": "Causes of Loss - Special Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 12 18 06 07",
+        "description": "Loss Payable Provisions"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 01 40 07 06",
+        "description": "Ordinance or Law Coverage"
+      },
+      {
+        "coverage": "Umbrella / Excess",
+        "form_code": "CU 00 01 04 13",
+        "description": "Commercial Umbrella Liability Coverage Form"
+      },
+      {
+        "coverage": "Umbrella / Excess",
+        "form_code": "CU 21 19 01 15",
+        "description": "Underlying Insurance Schedule"
+      },
+      {
+        "coverage": "Umbrella / Excess",
+        "form_code": "CU 21 22 04 13",
+        "description": "Nuclear Energy Liability Exclusion"
+      },
+      {
+        "coverage": "Umbrella / Excess",
+        "form_code": "CU 24 01 04 13",
+        "description": "Designated Underlying Insurance Endorsement"
+      },
+      {
+        "coverage": "MTC",
+        "form_code": "CC 70 02 04 13",
+        "description": "Earned Freight Coverage Endorsement"
+      },
+      {
+        "coverage": "MTC",
+        "form_code": "CC 70 06 04 13",
+        "description": "Refrigeration Breakdown Coverage Endorsement"
+      },
+      {
+        "coverage": "MTC",
+        "form_code": "CC 00 01 12 11",
+        "description": "Motor Truck Cargo Coverage Form"
+      }
+    ],
+    "handwritten_notes": "Need docs; signed M. Johnson 6/18/2025"
+  },
+  "remarks": "Handwritten annotations on page 4: 'Need docs' and signature 'M. Johnson' dated 6/18/2025. Form date on page 1 is 03/11/2026 but effective period is 06/01/2025 to 06/01/2026."
+}

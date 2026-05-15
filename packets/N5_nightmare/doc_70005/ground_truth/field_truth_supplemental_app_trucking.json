@@ -1,0 +1,35 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Incorporated"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "report_id": {
+      "value": "LR-2026-31424"
+    },
+    "report_date": {
+      "value": "03/14/2026"
+    },
+    "policy_number_wc": {
+      "value": "WC GLFS 2025 8820"
+    },
+    "policy_number_gl": {
+      "value": "gl GLFS 2025 8821"
+    },
+    "policy_number_auto": {
+      "value": "CAGLFS20258822"
+    },
+    "policy_number_property": {
+      "value": "cpGLFS20258823"
+    },
+    "policy_number_umbrella": {
+      "value": "SIC CU025454"
+    },
+    "policy_number_mtc": {
+      "value": "SICMT032788"
+    }
+  },
+  "doc_type": "supplemental_app_trucking"
+}

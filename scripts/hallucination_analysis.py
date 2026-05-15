@@ -9,6 +9,15 @@ land anywhere in that universe even after normalization.
 No LLMs. No source-document parsing. Just JSON walking + string/number
 matching.
 
+Universe construction reads packet GT + every JSON in the packet's
+generator-side ground_truth/ directory (document_truth_*.json,
+field_truth_*.json, manifest_*.json, packet_truth.json). The legacy
+PDF/xlsx/csv ingest path was dropped 2026-05-08 (plan §4-O): the four-
+bucket generator regen ships richer JSON artifacts that already cover
+every value the parsed-doc path produced, and dropping the parser
+removes poppler / easyocr / pdf2image / numpy / scipy from the public-
+release dependency footprint.
+
 Usage:
     python scripts/hallucination_analysis.py \\
         --ground-truth ground_truth/ \\
@@ -19,10 +28,9 @@ Usage:
 import argparse
 import json
 import re
-import subprocess
 from collections import defaultdict
 from pathlib import Path
-from typing import Any
+from typing import Any, NamedTuple
 
 
 # ── value normalization ────────────────────────────────────────────────
@@ -73,6 +81,28 @@ def looks_meaningful_string(s: str) -> bool:
 # ── Universe builder ──────────────────────────────────────────────────
 
 
+# Plumbing keys whose values are filesystem paths, layout metadata, or
+# template-only fields that should NOT enter the universe. Without this
+# skip, maintainer paths, prompt-file names, and PDF layout coordinates
+# (x/y/bbox/page) land as universe entries — a model fabricating any
+# matching value gets credit. 2026-05-14 audit: 34–64% of the
+# pre-skip universe number-set was layout coords; 14/25,969 model-emitted
+# numerics across 5 cohorts × 148 docs were coordinate-rescued
+# (0.054%) — material to the methodology claim, immaterial to published
+# rates (well under rounding).
+_UNIVERSE_SKIP_KEYS = {
+    # paths / template metadata
+    "document_path", "source_file", "prompt_file", "schema_file",
+    "ocr_path", "render_path",
+    # layout scalars
+    "x", "y", "width", "height", "font_size", "baseline",
+    "page_no", "page_number", "csv_row", "csv_col",
+    # layout containers (whole subtree skipped)
+    "bbox", "bboxes", "locations", "positions", "rects",
+    "pages_affected",
+}
+
+
 def collect_universe(gt_doc: dict) -> tuple[set, list]:
     """Walk ground truth for a single doc; return (string_set, number_list)."""
     strings: set[str] = set()
@@ -80,7 +110,9 @@ def collect_universe(gt_doc: dict) -> tuple[set, list]:
 
     def walk(obj: Any):
         if isinstance(obj, dict):
-            for v in obj.values():
+            for k, v in obj.items():
+                if isinstance(k, str) and k in _UNIVERSE_SKIP_KEYS:
+                    continue
                 walk(v)
         elif isinstance(obj, list):
             for v in obj:
@@ -107,11 +139,11 @@ def collect_universe(gt_doc: dict) -> tuple[set, list]:
 # The benchmark GT JSON only models a subset of the fields that appear on
 # the rendered document. Anything the model extracts that IS on the page
 # but NOT in the GT would get flagged as a hallucination. To avoid these
-# false positives, we also ingest:
-#   - Every generator *_truth*.json next to the packet (richer than GT)
-#   - pdftotext of every source PDF
-#   - All cell values from every xlsx
-#   - Raw text of every csv
+# false positives, we also ingest every generator *_truth*.json next to
+# the packet (document_truth_*.json, field_truth_*.json, manifest_*.json,
+# packet_truth.json) — these carry every value the rendered page derives
+# from. Live PDF/xlsx/csv parsing was retired 2026-05-08 (plan §4-O); see
+# build_packet_universe docstring + memory/project_universe_cross_check.md.
 
 
 def _is_content_key(k: str) -> bool:
@@ -130,6 +162,8 @@ def _is_content_key(k: str) -> bool:
 def _ingest_value(obj: Any, strings: set[str], numbers: list[float]) -> None:
     if isinstance(obj, dict):
         for k, v in obj.items():
+            if isinstance(k, str) and k in _UNIVERSE_SKIP_KEYS:
+                continue
             if _is_content_key(k):
                 ns = norm_string(k)
                 if ns:
@@ -150,175 +184,27 @@ def _ingest_value(obj: Any, strings: set[str], numbers: list[float]) -> None:
             numbers.append(f)
 
 
-_OCR_READER = None  # lazy-init easyocr to avoid startup cost when not needed
-
-
-def _ocr_pdf(path: Path) -> str:
-    """OCR a PDF that has no text layer (N2 scanned docs)."""
-    global _OCR_READER
-    cache = path.with_suffix(path.suffix + ".ocr.txt")
-    if cache.exists():
-        try:
-            return cache.read_text()
-        except Exception:
-            pass
-    # No cache → need live OCR. pdf2image + easyocr are required here;
-    # silently returning "" on ImportError was a real footgun (2026-04-18:
-    # a venv missing easyocr produced N2-N5 universes with no text layer,
-    # inflating fabrication rates by several points across all models and
-    # masquerading as an analyzer drift for hours before we caught it).
-    try:
-        import pdf2image
-        import numpy as np
-        import easyocr
-    except ImportError as e:
-        raise RuntimeError(
-            f"OCR fallback needed for {path.name} (no text layer, no cache), "
-            f"but a dependency is missing: {e}. Install easyocr + pdf2image "
-            f"(see requirements.txt). Rates are environment-dependent without OCR."
-        )
-    if _OCR_READER is None:
-        _OCR_READER = easyocr.Reader(["en"], gpu=False, verbose=False)
-    try:
-        pages = pdf2image.convert_from_path(str(path), dpi=150)
-    except Exception:
-        return ""
-    chunks = []
-    for page in pages:
-        try:
-            result = _OCR_READER.readtext(np.array(page), detail=0, paragraph=False)
-            chunks.extend(result)
-        except Exception:
-            continue
-    text = "\n".join(chunks)
-    try:
-        cache.write_text(text)
-    except Exception:
-        pass
-    return text
-
-
-def _ingest_text(text: str, strings: set[str], numbers: list[float]) -> None:
-    # Token-level ingestion only. Line-level ingestion was dropped in the
-    # 2026-04-17 audit: combined with substring matching (also removed) it
-    # inflated the universe so much that almost any fabricated value could
-    # be cleared as "found in source." With exact/compact matching, a line
-    # like "Total premium: $1,234,567" contributes little beyond its tokens
-    # ("total", "premium", "1234567") - which we already add below.
-    for tok in text.split():
-        tok = tok.strip(".,;:$%()[]{}'\"")
-        ns = norm_string(tok)
-        if ns:
-            strings.add(ns)
-            # Also index each sub-word. norm_string collapses internal
-            # punctuation to whitespace, so a raw token like "273-7259" or
-            # "Lender's" produces a multi-word normed form. Without this,
-            # the composed-string matcher can never find the sub-word
-            # components ("273", "7259", "lender"), and the analyzer
-            # false-flags real identifier/compound values as fabrications.
-            # Gated at len>=2 to match the matcher's single-char filter.
-            if " " in ns:
-                for sub in ns.split():
-                    if len(sub) >= 2:
-                        strings.add(sub)
-        f = as_float(tok)
-        if f is not None:
-            numbers.append(f)
-
-
-def _ingest_pdf(path: Path, strings: set[str], numbers: list[float]) -> None:
-    pdftotext_failed = False
-    try:
-        out = subprocess.run(
-            ["pdftotext", "-layout", str(path), "-"],
-            capture_output=True, text=True, timeout=20,
-        ).stdout
-    except FileNotFoundError:
-        # pdftotext not installed. This is environment-critical - without it,
-        # the universe is limited to GT JSON + generator source-of-truth only,
-        # which dramatically deflates or inflates hallucination rates
-        # depending on what's missing. Crash loudly so this is caught at
-        # CI/launch time, not discovered from weird numbers after publish.
-        raise RuntimeError(
-            "pdftotext binary is required for hallucination analysis "
-            "(install poppler-utils). Aborting rather than silently "
-            "producing environment-dependent numbers."
-        )
-    except Exception:
-        pdftotext_failed = True
-        out = ""
-    if not out.strip():
-        # No text layer - fall back to OCR. Necessary for N2 scanned docs
-        # and some N3/N4 PDFs with invisible or corrupted text layers.
-        ocr_out = _ocr_pdf(path)
-        if not ocr_out.strip():
-            _PDF_INGEST_FAILURES.append(str(path))
-        out = ocr_out
-    elif pdftotext_failed:
-        _PDF_INGEST_FAILURES.append(str(path))
-    _ingest_text(out, strings, numbers)
-
-
-_PDF_INGEST_FAILURES: list[str] = []
-
-
-def _ingest_xlsx(path: Path, strings: set[str], numbers: list[float]) -> None:
-    try:
-        import openpyxl
-    except ImportError:
-        return
-    try:
-        wb = openpyxl.load_workbook(path, data_only=True, read_only=True)
-    except Exception:
-        return
-    for sh in wb.sheetnames:
-        try:
-            ws = wb[sh]
-            for row in ws.iter_rows(values_only=True):
-                for v in row:
-                    if v is None:
-                        continue
-                    if isinstance(v, (int, float)) and not isinstance(v, bool):
-                        numbers.append(float(v))
-                        strings.add(norm_string(v))
-                    else:
-                        ns = norm_string(v)
-                        if ns:
-                            strings.add(ns)
-                        f = as_float(v)
-                        if f is not None:
-                            numbers.append(f)
-        except Exception:
-            continue
-
-
-def _ingest_csv(path: Path, strings: set[str], numbers: list[float]) -> None:
-    try:
-        text = path.read_text(errors="ignore")
-    except Exception:
-        return
-    for line in text.splitlines():
-        for cell in line.split(","):
-            cell = cell.strip().strip('"').strip("'")
-            ns = norm_string(cell)
-            if ns:
-                strings.add(ns)
-            f = as_float(cell)
-            if f is not None:
-                numbers.append(f)
-
-
 def _derive_packet_dir(gt_data: dict, gt_file: Path | None = None) -> Path | None:
     """Given a loaded packet GT dict, find the generator packet dir.
 
-    document_path looks like
-      /...generator.../output/nightmare/N1_easy/doc_70001/documents/acord_140_70001.pdf
-    (maintainer workspace, absolute) or
-      documents/acord_140_70001.pdf
-    (public repo, relative to gt_file). The packet dir is the
-    grandparent of the PDF path either way.
+    Tries layouts in order:
+      (a) document_path = .../packets/<difficulty>/doc_<seed>/documents/
+          <file>.pdf  →  packet dir = .../packets/<difficulty>/
+          doc_<seed>. This is the canonical v1 layout; document_path
+          in the shipped GT is relative to the GT file's parent, so a
+          fresh clone resolves correctly without any anchor walk.
+      (b) packet_id + difficulty walk-up. Used when document_path is
+          missing or unresolvable (e.g. a user wired a GT file into a
+          custom workspace). Looks for `packets/<difficulty>/doc_<seed>`
+          ascending from the GT file's parent so it works whether the
+          user CD'd into `public/` or one level above.
+      (c) Self-contained release layout: tier-2 artifacts live directly
+          under `<gt_file_parent>/ground_truth/`. Used by the curated
+          slices in `examples/*/source/` where there's no `packets/`
+          tree at all.
     """
     docs = gt_data.get("documents", {}) or {}
+    # (a) original generator layout via document_path
     for doc_gt in docs.values():
         p = doc_gt.get("document_path")
         if not p:
@@ -328,12 +214,86 @@ def _derive_packet_dir(gt_data: dict, gt_file: Path | None = None) -> Path | Non
             pp = gt_file.resolve().parent / pp
         # .../doc_70001/documents/acord_140_70001.pdf -> .../doc_70001
         if pp.parent.name == "documents":
-            return pp.parent.parent
+            cand = pp.parent.parent
+            if cand.is_dir():
+                return cand
+
+    # (b) packet_id + difficulty walk-up
+    packet_id = gt_data.get("packet_id")
+    difficulty = gt_data.get("difficulty")
+    if packet_id and difficulty and gt_file is not None:
+        seed = packet_id.rsplit("_", 1)[-1]
+        if seed.isdigit():
+            rel = Path("packets") / difficulty / f"doc_{seed}"
+            anchor = gt_file.resolve().parent
+            for _ in range(6):  # bounded ascent
+                cand = anchor / rel
+                if cand.is_dir():
+                    return cand
+                if anchor == anchor.parent:
+                    break
+                anchor = anchor.parent
+
+    # (c) self-contained release layout: tier-2 artifacts adjacent to gt_file
+    if gt_file is not None:
+        cand = gt_file.resolve().parent
+        if (cand / "ground_truth").is_dir():
+            return cand
+
     return None
 
 
-def build_packet_universe(gt_data: dict, gt_file: Path | None = None) -> tuple[set[str], list[float]]:
-    """Rich packet universe: packet GT + generator GT JSONs + rendered docs."""
+def _compact(s: str) -> str:
+    """Strip all non-alphanumerics for identifier-style comparisons."""
+    return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
+class PacketUniverse(NamedTuple):
+    """Precomputed universe artifacts for one packet.
+
+    Every form string_in_universe needs (raw strings, compact form, token
+    set) is computed once when the universe is built, so matching is a
+    pure function with no module-level cache. The prior design memoized
+    compact/token sets keyed by id(universe), correct only while caches
+    were manually cleared between packets AND GC didn't recycle a freed
+    universe's id — a 2026-05-11 audit caught that invariant being broken
+    (token cache was never cleared) and producing 0-3.3pp string-rate
+    noise across runs. Precompute-at-build-time removes the discipline
+    requirement entirely.
+    """
+    strings: set[str]
+    numbers: list[float]
+    compact: set[str]
+    tokens: set[str]
+
+
+def make_universe(strings: set[str], numbers: list[float]) -> PacketUniverse:
+    """Bundle raw universe + the two derived forms string_in_universe needs."""
+    compact = {_compact(u) for u in strings}
+    compact.discard("")
+    tokens: set[str] = set()
+    for entry in strings:
+        for t in entry.split():
+            if len(t) >= 3:
+                tokens.add(t)
+    return PacketUniverse(strings=strings, numbers=numbers,
+                          compact=compact, tokens=tokens)
+
+
+def build_packet_universe(gt_data: dict, gt_file: Path | None = None) -> PacketUniverse:
+    """Packet universe: packet GT + generator-side rendered_universe artifacts.
+
+    Section (3) of the v1 universe build (live PDF/xlsx/csv parsing via
+    poppler + easyocr + openpyxl) was dropped 2026-05-08 (plan §4-O). The
+    generator's per-document JSON artifacts (document_truth_*.json,
+    field_truth_*.json, manifest_*.json, packet_truth.json under
+    <packet>/doc_<id>/ground_truth/) carry every value the parsed-doc path
+    produced. Cross-check on the v1 corpus showed with-docs and no-docs
+    universes agreed on 712/740 doc verdicts, and the 24 disagreements
+    were exactly the matcher false-negatives the §4-O matcher tightening
+    fixes — so the two paths converge after that fix lands. Documented
+    in memory/project_universe_cross_check.md.
+    """
     strings: set[str] = set()
     numbers: list[float] = []
 
@@ -343,93 +303,49 @@ def build_packet_universe(gt_data: dict, gt_file: Path | None = None) -> tuple[s
         strings |= s
         numbers.extend(n)
 
-    # (2) Generator source-of-truth artifacts
+    # (2) Generator source-of-truth artifacts. sorted() for determinism even
+    # though ingest is into order-independent collections - costs nothing.
     vdir = _derive_packet_dir(gt_data, gt_file)
     if vdir is not None and vdir.is_dir():
         gdir = vdir / "ground_truth"
         if gdir.is_dir():
-            for jf in gdir.glob("*.json"):
+            for jf in sorted(gdir.glob("*.json")):
                 try:
                     _ingest_value(json.loads(jf.read_text()), strings, numbers)
                 except Exception:
                     continue
 
-        # (3) Rendered documents (PDF / xlsx / csv)
-        ddir = vdir / "documents"
-        if ddir.is_dir():
-            for f in ddir.iterdir():
-                suf = f.suffix.lower()
-                if suf == ".pdf":
-                    _ingest_pdf(f, strings, numbers)
-                elif suf in (".xlsx", ".xlsm"):
-                    _ingest_xlsx(f, strings, numbers)
-                elif suf == ".csv":
-                    _ingest_csv(f, strings, numbers)
-
-    return strings, numbers
+    return make_universe(strings, numbers)
 
 
-def _compact(s: str) -> str:
-    """Strip all non-alphanumerics for identifier-style comparisons."""
-    return re.sub(r"[^a-z0-9]", "", s.lower())
-
-
-_UNIVERSE_COMPACT_CACHE: dict[int, set[str]] = {}
-_UNIVERSE_TOKEN_CACHE: dict[int, set[str]] = {}
-
-
-def _universe_compact_set(universe: set[str]) -> set[str]:
-    """Memoized compact form of the universe for identifier-style matches."""
-    key = id(universe)
-    cached = _UNIVERSE_COMPACT_CACHE.get(key)
-    if cached is not None:
-        return cached
-    compacted = {_compact(u) for u in universe}
-    compacted.discard("")
-    _UNIVERSE_COMPACT_CACHE[key] = compacted
-    return compacted
-
-
-def _universe_token_set(universe: set[str]) -> set[str]:
-    """Memoized set of whitespace-separated tokens from universe entries,
-    filtering out tokens shorter than 3 chars to avoid matching on "f",
-    "x", etc. Used by composed-string acceptance so that a value like
-    "Ford F-350" matches when the universe stores {make: "Ford",
-    model: "F-350"} - "350" appears as a token of the universe entry
-    "f 350" (the normalized form of "F-350").
-    """
-    key = id(universe)
-    cached = _UNIVERSE_TOKEN_CACHE.get(key)
-    if cached is not None:
-        return cached
-    tokens: set[str] = set()
-    for entry in universe:
-        for t in entry.split():
-            if len(t) >= 3:
-                tokens.add(t)
-    _UNIVERSE_TOKEN_CACHE[key] = tokens
-    return tokens
-
-
-def string_in_universe(val: str, universe: set[str]) -> bool:
+def string_in_universe(val: str, universe) -> bool:
     """Match the normalized value against the universe.
+
+    `universe` is either a PacketUniverse (preferred — has compact/tokens
+    precomputed) or a bare set[str] (back-compat for callers like
+    alias_audit.py that pass `pu.strings` directly). In the bare-set case
+    we wrap on the fly via make_universe(); cheap enough at call sites
+    that don't hit it in a hot loop.
 
     Strategy (three tiers, cheapest first):
       1. Exact normalized match.
       2. Compact-form exact match (so "CL-2023-12345" matches
          "CL202312345" after punctuation/whitespace collapse). Requires
          ≥4 compact chars to avoid rubber-stamping trivially short values.
-      3. Composed-string acceptance: for values with ≥2 meaningful tokens,
-         if ≥80% of tokens individually appear in the universe, treat as
-         real. Catches cases where the model concatenates real source
-         values into one field (e.g., "LOC-001: Preston Center Tower -
-         8117 Preston Road, Dallas, TX 75225 (Occupancy: Office)") - the
-         components are all in the source, the combined form isn't.
-         Also catches short 2-word source phrases like "Wet Pipe" or
-         "District 6" that don't show up as a combined universe entry.
-         For 2-token values the 80% threshold rounds to 2/2 - both
-         tokens must match - which is the right conservatism at that
-         length.
+      3. All-tokens-match composition: for values with ≥2 tokens, accept
+         only when EVERY token is in universe.strings (or is purely
+         numeric). Catches legitimate concatenations like "LOC-001:
+         Preston Center Tower - 8117 Preston Road, Dallas, TX 75225"
+         where every component is in the source but the combined form
+         isn't. A single non-source token is enough to fail.
+
+    The earlier 80%-of-tokens fuzzy tier was dropped 2026-05-12 after an
+    audit showed it admitting real hallucinations like "9900 state road
+    philadelphia pa 19136" against a rendered "8717 ..." — same failure
+    mode as the dropped numeric tolerance, one-sided against the
+    over-emitting (typically OpenAI) cohorts. The 3-char floor that
+    accompanied it was an OCR-pipeline workaround; OCR ingest was retired
+    2026-05-08 so the floor is no longer needed.
 
     Substring matching was removed in the 2026-04-17 audit: it was
     rubber-stamping fabricated values as "not hallucinated" whenever they
@@ -438,62 +354,49 @@ def string_in_universe(val: str, universe: set[str]) -> bool:
     """
     if not val:
         return False
-    if val in universe:
+    if not isinstance(universe, PacketUniverse):
+        universe = make_universe(universe, [])
+    if val in universe.strings:
         return True
     val_c = _compact(val)
-    if len(val_c) >= 4 and val_c in _universe_compact_set(universe):
+    if len(val_c) >= 4 and val_c in universe.compact:
         return True
     # Composed-string acceptance. `val` is already norm_string'd (punctuation
-    # collapsed to spaces), so split() is the correct tokenizer here.
+    # collapsed to spaces), so split() is the correct tokenizer here. Accept
+    # only when EVERY token appears in the universe (as a whole string, as a
+    # compact form of a longer string, or as a split-token of one). The prior
+    # 80%-of-tokens fuzzy tier was admitting real hallucinations like "9900
+    # state road philadelphia pa 19136" against rendered "8717 ..." — same
+    # failure mode as the dropped numeric tolerance. The earlier 3-char floor
+    # on alpha tokens was a workaround for OCR-junk universe entries; OCR
+    # ingest was retired 2026-05-08 so the floor is no longer needed and was
+    # over-blocking legitimate state codes (PA/TX/OH) and ACORD form prefixes
+    # (CA/CP/CG/WC/IL).
     toks_all = val.split()
-    # Strict pass: for short phrases like "4 miles" or "District 6", the
-    # len>=2 filter drops the single-char token below the min-count. Accept
-    # when every raw token (single chars included) is in the universe.
-    if len(toks_all) >= 2 and all(t in universe for t in toks_all):
-        return True
-    toks = [t for t in toks_all if len(t) >= 2]
-    if len(toks) < 2:
+    if len(toks_all) < 2:
         return False
-    compact_universe = _universe_compact_set(universe)
-    token_universe = _universe_token_set(universe)
-    matched = 0
-    for t in toks:
-        if t in universe:
-            matched += 1
-        elif len(t) >= 4 and t in compact_universe:
-            matched += 1
-        elif len(t) >= 3 and t in token_universe:
-            # Token appears as a whitespace-separated piece of some
-            # universe entry (e.g. "350" from "f 350"). Required for
-            # values like "Ford F-350" where the generator stores make and
-            # model as separate fields but the model emits them
-            # concatenated.
-            matched += 1
-    return (matched / len(toks)) >= 0.80
 
+    def _tok_ok(t: str) -> bool:
+        if t in universe.strings:
+            return True
+        if len(t) >= 4 and t in universe.compact:
+            return True
+        return t in universe.tokens
 
-_SMALL_NUMBER_ABS_TOL = 0.5  # counts / single-digit integers → require exact match
+    return all(_tok_ok(t) for t in toks_all)
 
 
 def number_in_universe(val: float, numbers: list[float]) -> bool:
-    """Allow 1% tolerance for large values; require exact match for small.
+    """Exact match after as_float() normalization.
 
-    The 1% tolerance was designed for dollar amounts where ±1% is within
-    rounding noise. For small integers (counts, IDs, percentages, years)
-    the 1% band collapses to effectively zero, but 1% of a large universe
-    value can still swallow a small-integer hallucination. Floor it: for
-    |val| < 50 (audit 2026-04-17), require an exact numeric match.
+    The prior 1% relative tolerance was hiding real model errors: extracted
+    $24.3M against rendered $24.5M, cents-truncated $153,631 against
+    $153,631.51, year off-by-one (2009 against 2010). Villify renders exact
+    numeric values and GT mirrors them, so any post-normalization mismatch
+    is a model error. as_float() handles the legitimate normalization cases
+    ("$1,500,000" → 1500000.0, "1500000" → 1500000.0).
     """
-    if val == 0:
-        return any(n == 0 for n in numbers)
-    if abs(val) < 50:
-        return any(abs(val - n) < _SMALL_NUMBER_ABS_TOL for n in numbers)
-    for n in numbers:
-        if n == 0:
-            continue
-        if abs(val - n) / abs(n) <= 0.01:
-            return True
-    return False
+    return any(val == n for n in numbers)
 
 
 # ── Extraction walker ─────────────────────────────────────────────────
@@ -530,11 +433,24 @@ SKIP_PATH_FRAGMENTS = {
     "extracted_text_sections", "overall_assessment",
     "recommendations",  # recommendation text is narrative, not structured value
     "risk_highlights",  # free-text positive/concern lists
+    # narrative.schema.json coverage-summary block. `current_limit` /
+    # `requested_limit` are typed as strings here because the model is
+    # paraphrasing/aggregating across SOV rows or prior-year tabs, not
+    # quoting a single literal cell. Computed aggregates (e.g. Prior Year
+    # SOV TIV column sum) get false-flagged otherwise.
+    "coverages_discussed",
     # Aggregates - models compute these from line items, GT doesn't
     # necessarily store them. Scored separately by check_arithmetic.
     "grand_totals", "subtotals_by_coverage", "totals",
     "premium_summary", "premium_info",
     "ratios",  # financial ratios are model-computed
+    # ACORD checkboxes: schema is {field: free-string, value: enum Yes/No}.
+    # `field` is the model's paraphrase of the form's question label, not a
+    # literal token from the page; `value` is already covered by the
+    # checked/unchecked filler set. Treating `checkboxes[].field` as a leaf
+    # to verify against the source universe penalizes models for inventing
+    # an identifier where the schema asked them to.
+    "checkboxes",
 }
 
 
@@ -576,20 +492,19 @@ def walk_extraction(obj: Any, path: tuple = ()):
 # ── Per-doc analysis ──────────────────────────────────────────────────
 
 
-def analyze_doc(extraction: dict, gt_doc: dict, packet_universe: tuple = None) -> dict:
+def analyze_doc(extraction: dict, gt_doc: dict, packet_universe: PacketUniverse = None) -> dict:
     """Return a hallucination report for one extraction.
 
-    packet_universe: optional (strings_set, numbers_list) pre-computed from
-    the entire packet. Shared customer info (insured, producer, preparer,
-    carrier) repeats across docs, so matching against the packet-wide
-    universe avoids false positives where the model extracts a real
-    customer-level value that happens not to be modeled in that specific
-    doc's ground truth.
+    packet_universe: optional PacketUniverse pre-computed from the entire
+    packet. Shared customer info (insured, producer, preparer, carrier)
+    repeats across docs, so matching against the packet-wide universe
+    avoids false positives where the model extracts a real customer-level
+    value that happens not to be modeled in that specific doc's ground
+    truth.
     """
-    if packet_universe is not None:
-        strings, numbers = packet_universe
-    else:
-        strings, numbers = collect_universe(gt_doc)
+    if packet_universe is None:
+        s, n = collect_universe(gt_doc)
+        packet_universe = make_universe(s, n)
 
     # Walk extraction, score each leaf
     checked_strings = 0
@@ -622,7 +537,7 @@ def analyze_doc(extraction: dict, gt_doc: dict, packet_universe: tuple = None) -
         is_numeric_field = isinstance(value, (int, float)) and not isinstance(value, bool)
         if num_val is not None and (is_numeric_field or (isinstance(value, str) and _is_mostly_numeric(value))):
             checked_numbers += 1
-            if not number_in_universe(num_val, numbers):
+            if not number_in_universe(num_val, packet_universe.numbers):
                 hallucinated_numbers += 1
                 examples.append({
                     "kind": "number",
@@ -642,7 +557,7 @@ def analyze_doc(extraction: dict, gt_doc: dict, packet_universe: tuple = None) -
             if ns.startswith("see "):
                 continue
             checked_strings += 1
-            if not string_in_universe(ns, strings):
+            if not string_in_universe(ns, packet_universe):
                 hallucinated_strings += 1
                 # Flag high-value identifiers as high-severity
                 severity = "high" if leaf_bare in {
@@ -730,7 +645,11 @@ def check_arithmetic(extraction: dict) -> list[dict]:
                     ok = False
                     break
         if ok and reported_tiv is not None and reported_tiv > 0 and computed > 0:
-            if abs(computed - reported_tiv) / reported_tiv > 0.02:
+            # Cents-level exact match. Doc-rendered numbers are exact and
+            # the model should reproduce both per-loc and total faithfully;
+            # rounding to cents absorbs float-summation noise without
+            # admitting real model arithmetic errors.
+            if round(computed, 2) != round(reported_tiv, 2):
                 errors.append({
                     "kind": "tiv_sum_mismatch",
                     "reported": reported_tiv,
@@ -759,27 +678,86 @@ def check_arithmetic(extraction: dict) -> list[dict]:
             else:
                 computed += inc
         if ok and reported is not None and reported > 0 and computed > 0:
-            if abs(computed - reported) / reported > 0.02:
+            if round(computed, 2) != round(reported, 2):
                 errors.append({
                     "kind": "incurred_sum_mismatch",
                     "reported": reported,
                     "computed": computed,
                 })
 
+    # Financial statement: at any dict containing a `total_*` numeric, the
+    # same-level non-total siblings should sum to that total. Mirrors the SOV
+    # tiv_sum_mismatch check but generalized for balance-sheet/income-statement
+    # shapes (e.g. operating_expenses.{depreciation, other_operating,
+    # total_operating_expenses}). Only fires when every sibling is either a
+    # direct numeric or a sibling dict that itself declares a total_* — that
+    # way an opaque/partial sub-dict bails the check instead of producing a
+    # spurious mismatch. Without this, `_is_aggregate_leaf` hides
+    # `total_revenue` / `total_assets` / etc. from the hallucination universe
+    # check and nothing else validates them.
+    if "income_statement" in extraction or "balance_sheet" in extraction:
+        _walk_financial_totals(extraction, "", errors)
+
     return errors
+
+
+def _is_total_key(k: Any) -> bool:
+    return isinstance(k, str) and (k.startswith("total_") or k.startswith("subtotal_") or k in {"total", "subtotal", "grand_total"})
+
+
+def _walk_financial_totals(obj: Any, path: str, errors: list) -> None:
+    if isinstance(obj, dict):
+        for tk, tv_raw in obj.items():
+            if not _is_total_key(tk):
+                continue
+            tv = as_float(tv_raw)
+            if tv is None or tv == 0:
+                continue
+            parts: list[tuple[str, float]] | None = []
+            for k, v in obj.items():
+                if k == tk or _is_total_key(k):
+                    continue
+                if isinstance(v, bool):
+                    continue
+                nv = as_float(v)
+                if nv is not None and isinstance(v, (int, float)):
+                    parts.append((str(k), nv))
+                elif isinstance(v, dict):
+                    child_total: float | None = None
+                    for ck, cv in v.items():
+                        if _is_total_key(ck):
+                            ct = as_float(cv)
+                            if ct is not None:
+                                child_total = ct
+                                break
+                    if child_total is None:
+                        parts = None
+                        break
+                    parts.append((str(k), child_total))
+                else:
+                    parts = None
+                    break
+            if parts and len(parts) >= 1:
+                computed = sum(p[1] for p in parts)
+                if round(computed, 2) != round(tv, 2):
+                    errors.append({
+                        "kind": "financial_total_mismatch",
+                        "location": f"{path}.{tk}" if path else tk,
+                        "reported": tv,
+                        "computed": computed,
+                        "components": {p[0]: p[1] for p in parts},
+                    })
+        for k, v in obj.items():
+            _walk_financial_totals(v, f"{path}.{k}" if path else str(k), errors)
+    elif isinstance(obj, list):
+        for i, v in enumerate(obj):
+            _walk_financial_totals(v, f"{path}[{i}]", errors)
 
 
 # ── Aggregation ───────────────────────────────────────────────────────
 
 
 def run_model(model_dir: Path, gt_dir: Path) -> dict:
-    # Clear the compact-set memoization cache before each model run. The
-    # cache keys on id(universe); Python reuses object ids after GC, so a
-    # universe set from a prior packet can collide with the id of a fresh
-    # universe set and return a stale compact form. We also clear per-packet
-    # below - model-level clear catches any leak across model runs.
-    _UNIVERSE_COMPACT_CACHE.clear()
-
     model_report = {
         "model": model_dir.name,
         "docs": {},
@@ -817,10 +795,6 @@ def run_model(model_dir: Path, gt_dir: Path) -> dict:
         # + rendered document content. Shared customer info and fields the
         # packet GT schema doesn't model (agency_customer_id, distances,
         # fire district, etc.) would otherwise register as hallucinations.
-        # Clear the compact-form cache before building the new universe so
-        # an id() collision with the just-freed universe can't return stale
-        # data (see _universe_compact_set).
-        _UNIVERSE_COMPACT_CACHE.clear()
         packet_universe = build_packet_universe(gt_data, gt_file)
 
         for doc_key, doc_gt in gt_data.get("documents", {}).items():
@@ -963,13 +937,6 @@ def main():
 
     args.output.write_text(json.dumps(all_reports, indent=2))
     print(f"\nReport written: {args.output}")
-
-    if _PDF_INGEST_FAILURES:
-        print(f"\n⚠  {len(_PDF_INGEST_FAILURES)} PDFs produced no text via pdftotext or OCR.")
-        print("   Hallucination rates for these docs depend on a reduced universe.")
-        print("   First 5:")
-        for p in _PDF_INGEST_FAILURES[:5]:
-            print(f"     - {p}")
 
     # Printable summary
     print("\n" + "=" * 80)

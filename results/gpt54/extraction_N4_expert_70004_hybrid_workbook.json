@@ -1,0 +1,96 @@
+{
+  "document_info": {
+    "document_type": "Supplemental spreadsheet submission",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 95000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Schedule of values provided for 5 locations with combined total insured value of 39405000."
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 35 claims, total paid 1126509, total incurred 1176100."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 8 claims, total paid 105421, total incurred 176947."
+    },
+    {
+      "coverage_type": "Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 8 claims, total paid 47076, total incurred 99900. Driver schedule includes 15 drivers."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Five scheduled locations all in Pennsylvania.",
+      "Most locations are sprinklered; 4 of 5 locations indicate sprinklers.",
+      "Property portfolio includes fire resistive, non-combustible, and masonry non-combustible construction.",
+      "Strong financial profile with revenue of 95000000 and net income of 5997400.",
+      "Driver schedule reflects experienced drivers, generally 5 to 28 years of experience."
+    ],
+    "concerns": [
+      "One location (Equipment Storage - Cranberry) is not sprinklered.",
+      "Loss activity is notable in workers compensation with 35 claims and 1176100 total incurred.",
+      "Insurance history shows elevated annual premium levels and claim counts varying from 4 to 15 by year.",
+      "Manufacturing/fabrication and warehouse occupancies may present higher hazard than office exposures."
+    ],
+    "loss_history_summary": "Loss Summary indicates Wc: 35 claims, total paid 1126509, total incurred 1176100; Gl: 8 claims, total paid 105421, total incurred 176947; Auto: 8 claims, total paid 47076, total incurred 99900; Property: 1 claim, total paid 36750, total incurred 36750. Insurance History shows claims by year of 13 in 2024, 10 in 2023, 4 in 2022, 15 in 2021, and 6 in 2020."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 15,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Insurance History: 2024 Nationwide Insurance premium 1634721.63 with 13 claims; 2023 Berkshire Hathaway Guard premium 1476849.96 with 10 claims; 2022 Zurich Insurance Group premium 1369245.71 with 4 claims; 2021 Nationwide Insurance premium 1487006.51 with 15 claims; 2020 CNA Financial premium 1581292.51 with 6 claims. Loss Summary: Wc 35 claims, total paid 1126509, total incurred 1176100; Gl 8 claims, total paid 105421, total incurred 176947; Auto 8 claims, total paid 47076, total incurred 99900; Property 1 claim, total paid 36750, total incurred 36750."
+  }
+}

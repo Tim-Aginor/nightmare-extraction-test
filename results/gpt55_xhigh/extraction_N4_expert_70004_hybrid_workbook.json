@@ -1,0 +1,103 @@
+{
+  "business_description": {
+    "annual_revenue": 95000000,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Commercial builders/contractor with corporate office, equipment yard/warehouse, fabrication shop, branch office, and equipment storage operations.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Statement of values lists 5 Pennsylvania locations with total insured value of 39405000.",
+      "requested_limit": "TIV 39405000"
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss Summary: 35 claims, total paid 1126509, total incurred 1176100.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss Summary: 8 claims, total paid 105421, total incurred 176947.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Driver schedule lists 15 drivers. Loss Summary: 8 auto claims, total paid 47076, total incurred 99900.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Current/Expiring Insurance Program",
+      "current_carrier": "Nationwide Insurance",
+      "current_limit": null,
+      "expiring_premium": 1634721.63,
+      "notes": "2024 insurance history shows Nationwide Insurance premium of 1634721.63 and 13 claims. Prior carriers shown: Berkshire Hathaway Guard, Zurich Insurance Group, Nationwide Insurance, and CNA Financial.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Insurance submission supplemental schedules",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 15,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "name": "Keystone Commercial Builders, Inc.",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "One scheduled equipment storage location is not sprinklered.",
+      "Workers compensation loss summary shows 35 claims with 1176100 total incurred.",
+      "Insurance history shows 48 claims across 2020-2024.",
+      "Significant property values include total TIV of 39405000 and largest single location TIV of 17550000."
+    ],
+    "loss_history_summary": "Insurance history shows: 2024 Nationwide Insurance premium 1634721.63 with 13 claims; 2023 Berkshire Hathaway Guard premium 1476849.96 with 10 claims; 2022 Zurich Insurance Group premium 1369245.71 with 4 claims; 2021 Nationwide Insurance premium 1487006.51 with 15 claims; 2020 CNA Financial premium 1581292.51 with 6 claims. Loss Summary totals: WC 35 claims, 1126509 paid, 1176100 incurred; GL 8 claims, 105421 paid, 176947 incurred; Auto 8 claims, 47076 paid, 99900 incurred; Property 1 claim, 36750 paid and incurred.",
+    "positives": [
+      "Annual revenue reported as 95000000 with net income of 5997400 and equity of 34373200.",
+      "All 15 scheduled drivers have at least 5 years of experience.",
+      "Four of five scheduled property locations are sprinklered.",
+      "Scheduled construction types are primarily fire resistive, non-combustible, or masonry non-combustible."
+    ]
+  }
+}

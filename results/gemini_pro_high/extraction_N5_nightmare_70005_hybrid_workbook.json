@@ -1,0 +1,58 @@
+{
+  "document_info": {
+    "document_type": null,
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [
+      "Scott Murphy and Jack Reed have Major Violations and multiple accidents on their motor vehicle reports.",
+      "Multiple drivers have minor violations and at least one accident on record."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH",
+      "PA",
+      "IL",
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": 40,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": null,
+    "form_title": "ADDITIONAL REMARKS SCHEDULE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "GL/TS 2025 8821",
+    "effective_date": "2025-01-01",
+    "expiration_date": null,
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "24281"
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "entity_type": "Corporation"
+  },
+  "additional_remarks": [
+    {
+      "section_reference": "Attached to/from schedule",
+      "remark": "ACORD 126 Commercial General Liability Section"
+    },
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "1. IL 09 85 07 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act; 2. CG 20 26 04 13 \u2014 Additional Insured - Designated Person or Organization; 3. WC 00 03 13 \u2014 Waiver of Our Right to Recover From Others Endorsement; 4. CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us; 5. IM 99 01 09 08 \u2014 Inland Marine Equipment Floater; 6. CP 10 30 06 07 \u2014 Causes of Loss - Special Form"
+    },
+    {
+      "section_reference": "ADDITIONAL INSURED",
+      "remark": "Quantum Realty Management Inc. is included as additional insured per written contract, agreement, or permit as respects General Liability."
+    },
+    {
+      "section_reference": "SPECIAL CONDITIONS",
+      "remark": "Primary and Non-Contributory wording applies per policy endorsement. Per Project Aggregate Limit applies as indicated on the endorsement schedule."
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-001: Corporate Headquarters & Main Terminal \u2014 1200 Nationwide Boulevard, Columbus, OH 43215 (Occupancy: Warehouse); LOC-002: Rickenbacker Air Hub \u2014 2500 Norton Road, Columbus, OH 43217 (Occupancy: Warehouse); LOC-003: Cleveland Distribution Center \u2014 6000 Rockside Woods Boulevard, Independence, OH 44131 (Occupancy: Warehouse); LOC-004: Pittsburgh Regional Terminal \u2014 500 Technology Drive, Canonsburg, PA 15317 (Occupancy: Warehouse)"
+    },
+    {
+      "section_reference": "NATURE OF OPERATIONS",
+      "remark": "The insured's principal operations consist of: Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Entity type: Corporation."
+    }
+  ],
+  "checkboxes": [],
+  "remarks": "ENDORSEMENT SCHEDULE; ADDITIONAL INSURED: Quantum Realty Management Inc. is included as additional insured per written contract, agreement, or permit as respects General Liability. SPECIAL CONDITIONS: Primary and Non-Contributory wording applies per policy endorsement. Per Project Aggregate Limit applies as indicated on the endorsement schedule. LOCATION DESCRIPTIONS include four warehouse locations in Columbus, OH; Independence, OH; and Canonsburg, PA. NATURE OF OPERATIONS: Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors."
+}

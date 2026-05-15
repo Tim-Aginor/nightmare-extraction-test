@@ -1,0 +1,89 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": null,
+    "prepared_by": "Hallmark Insurance Group",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": "Statutory",
+      "requested_limit": "Statutory",
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Premium $1,158,173.43; Experience Modification Factor: 0.86"
+    },
+    {
+      "coverage_type": "Employers Liability - Each Accident",
+      "current_limit": 1000000,
+      "requested_limit": 1000000,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Policy",
+      "current_limit": 1000000,
+      "requested_limit": 1000000,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Each Employee",
+      "current_limit": 1000000,
+      "requested_limit": 1000000,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience Modification Factor of 0.86 (below 1.00, indicating better than average loss experience)"
+    ],
+    "concerns": [
+      "Construction-related classifications including carpentry, electrical wiring, plumbing, masonry, and painting which are higher-hazard exposures"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Classification schedule includes: Carpentry NOC (Code 5403, $5,915,000 remuneration), Electrical Wiring (Code 5190, $4,544,000), Plumbing NOC (Code 5183, $3,075,000), Masonry NOC (Code 5022, $6,635,850), Painting Interior (Code 5474, $1,639,000), Contractors Project Manager/Superintendent (Code 5606, $4,776,000), and Clerical Office Employees NOC (Code 8810, $5,010,000).",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

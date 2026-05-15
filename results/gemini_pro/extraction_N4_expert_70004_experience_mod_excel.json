@@ -1,0 +1,63 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Joan Ortiz, Claims Processing Center",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy Number WC-KCB-2025-5580. Final Experience Modification Factor is 0.86. Total payroll is 31594850."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Calculated Experience Modification Factor is a credit mod of 0.86"
+    ],
+    "concerns": [],
+    "loss_history_summary": "Policy years 2021-2024 show a total of 20 claims with 546731 in total paid and total incurred losses."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

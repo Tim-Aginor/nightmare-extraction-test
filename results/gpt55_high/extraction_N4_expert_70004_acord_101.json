@@ -1,0 +1,56 @@
+{
+  "additional_remarks": [
+    {
+      "remark": "1. CG 24 26 04 13 \u2014 Amendment of Aggregate Limits of Insurance - Per Project\n2. IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion Endorsement\n3. CG 25 03 05 09 \u2014 Designated Construction Projects General Aggregate Limit\n4. WC 00 01 06 \u2014 Workers' Compensation and Employers Liability Insurance Policy\n5. CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us\n6. WC 00 03 13A \u2014 Alternate Employer Endorsement",
+      "section_reference": "ENDORSEMENT SCHEDULE"
+    },
+    {
+      "remark": "Additional Insured status is extended to Westbridge Realty Management Inc. as required by written contract. Coverage is primary and non-contributory.",
+      "section_reference": "ADDITIONAL INSURED"
+    },
+    {
+      "remark": "Primary and Non-Contributory wording applies per policy endorsement.",
+      "section_reference": "SPECIAL CONDITIONS"
+    },
+    {
+      "remark": "LOC-001: Corporate Headquarters \u2014 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222 (Occupancy: Offices)\nLOC-002: Main Equipment Yard & Warehouse \u2014 4500 Butler Street, Pittsburgh, PA 15201 (Occupancy: Warehouse)\nLOC-003: Fabrication Shop \u2014 6290 Bakerstown Road, Pittsburgh, PA 15205 (Occupancy: Manufacturing)\nLOC-004: South Hills Branch Office \u2014 800 Village Run Road, Wexford, PA 15090 (Occupancy: Office)",
+      "section_reference": "LOCATION DESCRIPTIONS"
+    },
+    {
+      "remark": "Evidence of Workers' Compensation coverage is required from all subcontractors prior to commencing work on the project.",
+      "section_reference": "SUBCONTRACTOR REQUIREMENTS"
+    },
+    {
+      "remark": "The insured's principal operations consist of General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Entity type: Corporation.",
+      "section_reference": "NATURE OF OPERATIONS"
+    }
+  ],
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "naics_code": null,
+    "nature_of_business": "The insured's principal operations consist of General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "checkboxes": [],
+  "form_info": {
+    "form_edition": "2008/01",
+    "form_number": "ACORD 101",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-02-01",
+    "expiration_date": null,
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "Z4 KCB-2025-5551",
+    "producer_code": null,
+    "producer_name": "Steel City Insurance Group"
+  },
+  "remarks": "Attached to Form Number: ACORD 130; Form Title: Workers Compensation Application. Endorsement schedule, additional insured wording, special conditions, location descriptions, subcontractor requirements, and nature of operations are listed in additional remarks."
+}

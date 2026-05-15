@@ -1,0 +1,558 @@
+{
+  "claims": [
+    {
+      "claim_number": "BWC-2021-049200",
+      "claimant": "????? ???????",
+      "coverage": "wc",
+      "date_of_loss": "2021-06-19",
+      "description": "Body Part: Upper Back; Cause of Loss: 73; Code: 7219",
+      "incurred": 17461.16,
+      "paid": 17461.16,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2021-046142",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2021-10-14",
+      "description": "Body Part: Right Ankle; Cause of Loss: 72; Code: 7219",
+      "incurred": 25450.76,
+      "paid": 25450.76,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2022-050407",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2022-02-24",
+      "description": "Body Part: Cervical Spine; Cause of Loss: 74; Code: 7219",
+      "incurred": 90342.44,
+      "paid": 90342.44,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2022-049655",
+      "claimant": "???? ?? ????",
+      "coverage": "wc",
+      "date_of_loss": "2022-05-07",
+      "description": "Body Part: Cervical Spine; Cause of Loss: 74; Code: 7219",
+      "incurred": 15618.14,
+      "paid": 15618.14,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2022-047955",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2022-06-07",
+      "description": "Body Part: Lower Back; Cause of Loss: 73; Code: 8292",
+      "incurred": 17497,
+      "paid": 17497,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2022-043842",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2022-06-21",
+      "description": "Body Part: Left Hand; Cause of Loss: 70; Code: 8292",
+      "incurred": 53718.84,
+      "paid": 53718.84,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2022-043815",
+      "claimant": "Donald Green",
+      "coverage": "wc",
+      "date_of_loss": "2022-06-26",
+      "description": "Body Part: Right Knee; Cause of Loss: 72; Code: 8292",
+      "incurred": 16614.39,
+      "paid": 16614.39,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2022-047267",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2022-07-08",
+      "description": "Body Part: Head; Cause of Loss: 69; Code: 7219",
+      "incurred": 31069.02,
+      "paid": 28999.29,
+      "reserved": 2069.73,
+      "status": "Subrogation"
+    },
+    {
+      "claim_number": "BWC-2022-045032",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2022-10-01",
+      "description": "Body Part: Left Shoulder; Cause of Loss: 73; Code: 8292",
+      "incurred": 18482.93,
+      "paid": 18482.93,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2022-045459",
+      "claimant": "????? ???????",
+      "coverage": "wc",
+      "date_of_loss": "2022-11-05",
+      "description": "Body Part: Lower Back; Cause of Loss: 09; Code: 7219",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Denied"
+    },
+    {
+      "claim_number": "BWC-2023-048838",
+      "claimant": "???? ?? ????",
+      "coverage": "wc",
+      "date_of_loss": "2023-05-07",
+      "description": "Body Part: Upper Back; Cause of Loss: 73; Code: 7219",
+      "incurred": 51867.56,
+      "paid": 51867.56,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2023-045269",
+      "claimant": "Carol Ross",
+      "coverage": "wc",
+      "date_of_loss": "2023-06-24",
+      "description": "Body Part: Right Shoulder; Cause of Loss: 69; Code: 8292",
+      "incurred": 6702.72,
+      "paid": 6553.27,
+      "reserved": 149.45,
+      "status": "Subrogation"
+    },
+    {
+      "claim_number": "BWC-2023-049778",
+      "claimant": "Justin Morales",
+      "coverage": "wc",
+      "date_of_loss": "2023-12-31",
+      "description": "Body Part: Lower Back; Cause of Loss: 73; Code: 7219",
+      "incurred": 31498.4,
+      "paid": 31498.4,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2024-046807",
+      "claimant": "Edward Phillips",
+      "coverage": "wc",
+      "date_of_loss": "2024-01-20",
+      "description": "Body Part: Right Hand; Cause of Loss: 70; Code: 8292",
+      "incurred": 102651.36,
+      "paid": 102651.36,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2024-044605",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2024-03-05",
+      "description": "Body Part: Left Ankle; Cause of Loss: 71; Code: 7219",
+      "incurred": 47302.93,
+      "paid": 47302.93,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2024-049130",
+      "claimant": "Eric Collins",
+      "coverage": "wc",
+      "date_of_loss": "2024-03-11",
+      "description": "Body Part: Cervical Spine; Cause of Loss: 74; Code: 7219",
+      "incurred": 30000.56,
+      "paid": 30000.56,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2024-049381",
+      "claimant": "????? ???????",
+      "coverage": "wc",
+      "date_of_loss": "2024-05-06",
+      "description": "Body Part: Upper Back; Cause of Loss: 73; Code: 7219",
+      "incurred": 12629.13,
+      "paid": 12629.13,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2024-045079",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2024-05-25",
+      "description": "Body Part: Lower Back; Cause of Loss: 73; Code: 7380",
+      "incurred": 34927.29,
+      "paid": 34927.29,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2024-048369",
+      "claimant": "Gary Cruz",
+      "coverage": "wc",
+      "date_of_loss": "2024-08-06",
+      "description": "Body Part: Right Wrist; Cause of Loss: 71; Code: 7219",
+      "incurred": 40371.61,
+      "paid": 40371.61,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2024-047724",
+      "claimant": "????? ???????",
+      "coverage": "wc",
+      "date_of_loss": "2024-09-01",
+      "description": "Body Part: Left Forearm; Cause of Loss: 69; Code: 7380",
+      "incurred": 32988.2,
+      "paid": 32988.2,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BWC-2024-046595",
+      "claimant": "????? ???????",
+      "coverage": "wc",
+      "date_of_loss": "2024-10-16",
+      "description": "Body Part: Left Hand; Cause of Loss: 08; Code: 7219",
+      "incurred": 101869.5,
+      "paid": 67913,
+      "reserved": 33956.5,
+      "status": "Open"
+    },
+    {
+      "claim_number": "SIC-2025-047182",
+      "claimant": "Jason Evans",
+      "coverage": "wc",
+      "date_of_loss": "2025-07-10",
+      "description": "Body Part: Left Hip; Cause of Loss: 72; Code: 7219",
+      "incurred": 35274.32,
+      "paid": 35274.32,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "SIC-2025-044220",
+      "claimant": "Paul Nelson",
+      "coverage": "wc",
+      "date_of_loss": "2025-11-17",
+      "description": "Body Part: Right Hand; Cause of Loss: 70; Code: 7219",
+      "incurred": 47740.05,
+      "paid": 31826.7,
+      "reserved": 15913.35,
+      "status": "Re-opened"
+    },
+    {
+      "claim_number": "SIC-2025-045770",
+      "claimant": "???? ??????",
+      "coverage": "wc",
+      "date_of_loss": "2025-11-25",
+      "description": "Body Part: Right Shoulder; Cause of Loss: 73; Code: 7219",
+      "incurred": 26706.75,
+      "paid": 16633.28,
+      "reserved": 10073.47,
+      "status": "Open"
+    },
+    {
+      "claim_number": "CNA-2021-046595",
+      "claimant": "???? ??????",
+      "coverage": "gl",
+      "date_of_loss": "2021-01-22",
+      "description": "Cause of Loss: 01",
+      "incurred": 15406.74,
+      "paid": 15406.74,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "CNA-2021-043815",
+      "claimant": "???? ??????",
+      "coverage": "gl",
+      "date_of_loss": "2021-05-31",
+      "description": "Cause of Loss: 13",
+      "incurred": 7917.31,
+      "paid": 7917.31,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HTF-2023-045032",
+      "claimant": "????? ???????",
+      "coverage": "gl",
+      "date_of_loss": "2023-10-12",
+      "description": "Cause of Loss: 12",
+      "incurred": 9626.9,
+      "paid": 9626.9,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HIG-2024-043842",
+      "claimant": "???? ??????",
+      "coverage": "gl",
+      "date_of_loss": "2024-08-19",
+      "description": "Cause of Loss: 01",
+      "incurred": 14168.83,
+      "paid": 14168.83,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "CNA-2021-047724",
+      "claimant": "????? ???????",
+      "coverage": "auto",
+      "date_of_loss": "2021-01-10",
+      "description": "Cause of Loss: 20",
+      "incurred": 11376.14,
+      "paid": 11376.14,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "MRK-2021-049381",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2021-07-03",
+      "description": "Cause of Loss: 25",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Denied"
+    },
+    {
+      "claim_number": "MRK-2021-045459",
+      "claimant": "????? ???????",
+      "coverage": "auto",
+      "date_of_loss": "2021-08-10",
+      "description": "Cause of Loss: 13",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Denied"
+    },
+    {
+      "claim_number": "MRK-2022-053912",
+      "claimant": "???? ?? ????",
+      "coverage": "auto",
+      "date_of_loss": "2022-03-23",
+      "description": "Cause of Loss: 20",
+      "incurred": 63692.15,
+      "paid": 63692.15,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "AOI-2022-053107",
+      "claimant": "???? ?? ????",
+      "coverage": "auto",
+      "date_of_loss": "2022-07-30",
+      "description": "Cause of Loss: 20",
+      "incurred": 63826.19,
+      "paid": 63826.19,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "AOI-2022-046595",
+      "claimant": "????? ???????",
+      "coverage": "auto",
+      "date_of_loss": "2022-11-01",
+      "description": "Cause of Loss: 20",
+      "incurred": 16196.84,
+      "paid": 16196.84,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "LMI-2023-047267",
+      "claimant": "????? ???????",
+      "coverage": "auto",
+      "date_of_loss": "2023-06-30",
+      "description": "Cause of Loss: 20",
+      "incurred": 14755.93,
+      "paid": 14638.48,
+      "reserved": 117.45,
+      "status": "Subrogation"
+    },
+    {
+      "claim_number": "LMI-2023-054720",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2023-10-17",
+      "description": "Cause of Loss: 20",
+      "incurred": 16496.35,
+      "paid": 12503.55,
+      "reserved": 3992.8,
+      "status": "Re-opened"
+    },
+    {
+      "claim_number": "LMI-2023-043815",
+      "claimant": "????? ???????",
+      "coverage": "auto",
+      "date_of_loss": "2023-11-29",
+      "description": "Cause of Loss: 13",
+      "incurred": 7021.62,
+      "paid": 7021.62,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "LMI-2023-051804",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2023-12-25",
+      "description": "Cause of Loss: 20",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Denied"
+    },
+    {
+      "claim_number": "LMI-2024-045032",
+      "claimant": "???? ??????",
+      "coverage": "auto",
+      "date_of_loss": "2024-02-11",
+      "description": "Cause of Loss: 13",
+      "incurred": 10341.04,
+      "paid": 10341.04,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "TRV-2024-044220",
+      "claimant": "????? ???????",
+      "coverage": "auto",
+      "date_of_loss": "2024-07-18",
+      "description": "Cause of Loss: 13",
+      "incurred": 161093.25,
+      "paid": 161093.25,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "TRV-2025-046142",
+      "claimant": "????? ???????",
+      "coverage": "auto",
+      "date_of_loss": "2025-01-28",
+      "description": "Cause of Loss: 13",
+      "incurred": 9582.09,
+      "paid": 9472.97,
+      "reserved": 109.12,
+      "status": "Subrogation"
+    },
+    {
+      "claim_number": "TRV-2025-045269",
+      "claimant": "???? ??????",
+      "coverage": "auto",
+      "date_of_loss": "2025-04-06",
+      "description": "Cause of Loss: 13",
+      "incurred": 9642.51,
+      "paid": 7228.91,
+      "reserved": 2413.6,
+      "status": "Open"
+    },
+    {
+      "claim_number": "TRV-2025-055365",
+      "claimant": "???? ??????",
+      "coverage": "auto",
+      "date_of_loss": "2025-05-29",
+      "description": "Cause of Loss: 20",
+      "incurred": 65525.91,
+      "paid": 10879.26,
+      "reserved": 54646.65,
+      "status": "Open"
+    },
+    {
+      "claim_number": "MRK-2021-048284",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "property",
+      "date_of_loss": "2021-02-17",
+      "description": "Water Damage",
+      "incurred": 54191.29,
+      "paid": 54191.29,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "AIG-2022-044220",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "mtc",
+      "date_of_loss": "2022-10-18",
+      "description": "Cause of Loss: 34",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    }
+  ],
+  "grand_totals": {
+    "claim_count": 45,
+    "incurred": 1439646.15,
+    "paid": 1316204.03,
+    "reserved": 123442.12
+  },
+  "header": {
+    "carrier_name": null,
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "policy_numbers": {
+      "auto": "CAGLFS20258822",
+      "gl": "gl GLFS 2025 8821",
+      "mtc": "SICMT032788",
+      "property": "cpGLFS20258823",
+      "umbrella": "SIC CU025454",
+      "wc": "WC GLFS 2025 8820"
+    },
+    "policy_period_end": "2026-06-01",
+    "policy_period_start": "2025-06-01",
+    "report_date": null
+  },
+  "subtotals_by_coverage": {
+    "auto": {
+      "claim_count": 15,
+      "incurred": 449550.02,
+      "paid": 388270.4,
+      "reserved": 61279.62
+    },
+    "gl": {
+      "claim_count": 4,
+      "incurred": 47119.78,
+      "paid": 47119.78,
+      "reserved": 0
+    },
+    "mtc": {
+      "claim_count": 1,
+      "incurred": null,
+      "paid": null,
+      "reserved": null
+    },
+    "property": {
+      "claim_count": 1,
+      "incurred": 54191.29,
+      "paid": 54191.29,
+      "reserved": 0
+    },
+    "umbrella": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "wc": {
+      "claim_count": 24,
+      "incurred": 888785.06,
+      "paid": 826622.56,
+      "reserved": 62162.5
+    }
+  }
+}

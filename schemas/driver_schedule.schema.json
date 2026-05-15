@@ -1,0 +1,286 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "driver_schedule",
+  "type": "object",
+  "properties": {
+    "header": {
+      "type": "object",
+      "properties": {
+        "insured_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "effective_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "as_of_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "insured_name",
+        "policy_number",
+        "effective_date",
+        "as_of_date"
+      ],
+      "additionalProperties": false
+    },
+    "drivers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "date_of_birth": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "sex": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "M",
+              "F",
+              null
+            ]
+          },
+          "license_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "license_state": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "AL",
+              "AK",
+              "AZ",
+              "AR",
+              "CA",
+              "CO",
+              "CT",
+              "DE",
+              "FL",
+              "GA",
+              "HI",
+              "ID",
+              "IL",
+              "IN",
+              "IA",
+              "KS",
+              "KY",
+              "LA",
+              "ME",
+              "MD",
+              "MA",
+              "MI",
+              "MN",
+              "MS",
+              "MO",
+              "MT",
+              "NE",
+              "NV",
+              "NH",
+              "NJ",
+              "NM",
+              "NY",
+              "NC",
+              "ND",
+              "OH",
+              "OK",
+              "OR",
+              "PA",
+              "RI",
+              "SC",
+              "SD",
+              "TN",
+              "TX",
+              "UT",
+              "VT",
+              "VA",
+              "WA",
+              "WV",
+              "WI",
+              "WY",
+              "DC",
+              "PR",
+              "GU",
+              "VI",
+              "AS",
+              "MP",
+              null
+            ]
+          },
+          "license_class": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "license_expiration": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "hire_date": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "years_experience": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "mvr_status": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "Clear",
+              "Minor Violations",
+              "Major Violations",
+              "Accident",
+              null
+            ]
+          },
+          "violations_count": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "accidents_count": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "endorsements": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "assigned_vehicle": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "excluded": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "name",
+          "date_of_birth",
+          "sex",
+          "license_number",
+          "license_state",
+          "license_class",
+          "license_expiration",
+          "hire_date",
+          "years_experience",
+          "mvr_status",
+          "violations_count",
+          "accidents_count",
+          "endorsements",
+          "assigned_vehicle",
+          "excluded"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "total_drivers": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "cdl_drivers": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "clear_mvr_count": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "drivers_with_violations": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "drivers_with_accidents": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "excluded_drivers": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "total_drivers",
+        "cdl_drivers",
+        "clear_mvr_count",
+        "drivers_with_violations",
+        "drivers_with_accidents",
+        "excluded_drivers"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "header",
+    "drivers",
+    "summary"
+  ],
+  "additionalProperties": false
+}

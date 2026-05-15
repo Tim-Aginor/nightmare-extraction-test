@@ -1,0 +1,63 @@
+{
+  "document_info": {
+    "document_type": "Workers Compensation Policy",
+    "date": null,
+    "prepared_by": "Steel City Insurance Group",
+    "recipient": "Keystone Commercial Builders, Inc."
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation and Employers Liability",
+      "current_limit": "1000000",
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Premium: $1,158,173.43. Schedule of Limits: $1,000,000 Each Accident, $1,000,000 Disease Policy, $1,000,000 Disease Each."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience Modification Factor of 0.86"
+    ],
+    "concerns": [],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

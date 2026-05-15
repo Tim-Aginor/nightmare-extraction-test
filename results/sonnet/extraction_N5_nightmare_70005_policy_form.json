@@ -1,0 +1,160 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-06-18",
+    "prepared_by": "M. Johnson",
+    "recipient": "Great Lakes Freight Systems, Inc."
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Building",
+      "current_limit": 54110000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Commercial Property coverage under form CP 00 10 10 12"
+    },
+    {
+      "coverage_type": "Contents",
+      "current_limit": 30320000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 57954000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Business Income and Extra Expense Coverage Form CP 15 08 (10 12); covers actual loss of Business Income during period of restoration"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12); effective 03/15/2026; covers direct physical loss to Covered Property caused by Equipment Breakdown accident to mechanical, electrical, or pressure equipment"
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 (07 88); effective 03/15/2026; Coinsurance Additional Condition suspended for specified property during Declarations period"
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12); effective 03/15/2026; covers direct physical loss caused by interruption of utility services including water supply, communication supply, and power supply; annotation 'Need docs' noted on page"
+    },
+    {
+      "coverage_type": "Debris Removal",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Additional Coverage; pays 25% of direct physical loss amount plus deductible; additional $25,000 available if that amount is inadequate"
+    },
+    {
+      "coverage_type": "Preservation of Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Additional Coverage; covers direct physical loss during move or temporary storage up to 30 days"
+    },
+    {
+      "coverage_type": "Fire Department Service Charge",
+      "current_limit": 1000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Additional Coverage; no deductible applies"
+    },
+    {
+      "coverage_type": "Pollutant Clean Up And Removal",
+      "current_limit": 10000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Additional Coverage; $10,000 per described premises per 12-month period"
+    },
+    {
+      "coverage_type": "Increased Cost Of Construction",
+      "current_limit": 10000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Additional Coverage; $10,000 or actual loss amount, whichever is less"
+    },
+    {
+      "coverage_type": "Electronic Data",
+      "current_limit": 2500,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Additional Coverage; $2,500 or limit shown in Declarations, whichever is greater, per policy year"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Agreed Value endorsement in place, suspending coinsurance penalty",
+      "Coinsurance at 80% meeting threshold for Coverage Extensions",
+      "Broad endorsement package including Equipment Breakdown and Utility Services Direct Damage",
+      "Business Income and Extra Expense coverage in place"
+    ],
+    "concerns": [
+      "Annotation on Utility Services endorsement page states 'Need docs', suggesting documentation may be outstanding",
+      "Several endorsement pages are low-resolution/partially illegible",
+      "Deductible of $50,000 per occurrence"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH",
+      "Midwest",
+      "Mid-Atlantic"
+    ],
+    "total_insured_value": 142384000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": "2026-06-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. SIC Code: 4215.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

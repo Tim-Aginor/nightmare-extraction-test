@@ -1,0 +1,212 @@
+{
+  "carrier_info": {
+    "carrier_name": null,
+    "policy_number": "CP-HCHP-2025-3352",
+    "policy_period_end": null,
+    "policy_period_start": null
+  },
+  "insured": {
+    "address": "604 Brazos Street",
+    "city": "Austin",
+    "name": "Hill Country Hospitality Partners, LLC",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "locations_inspected": [
+    {
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "condition_rating": "Severe",
+      "construction": "Fire Resistive",
+      "deficiencies": [
+        "Multiple areas of ponding water observed on flat roof sections.",
+        "Visible roof deck sagging and water damage indicating potential structural deterioration."
+      ],
+      "findings": [
+        "Roof type: TPO.",
+        "Roof age: 16 years.",
+        "Overall roof condition: Excellent.",
+        "Estimated remaining useful life: 7 years.",
+        "Roof components assessment: decking poor; flashings good; penetrations good; drainage adequate; parapet walls cracking.",
+        "Wind mitigation features: roof deck attachment B - Nails (6 in. o.c.); roof-to-wall connection single wraps; roof geometry gable; secondary water resistance no; opening protection impact-rated."
+      ],
+      "name": "The Driskill Austin",
+      "occupancy": null,
+      "protection_class": 5,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 8,
+      "year_built": 2010
+    },
+    {
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Riverwalk Suites San Antonio",
+      "occupancy": null,
+      "protection_class": 2,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 12,
+      "year_built": 2006
+    },
+    {
+      "address": "245 East Main Street",
+      "city": "Fredericksburg",
+      "condition_rating": null,
+      "construction": "Masonry Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Fredericksburg Inn & Spa",
+      "occupancy": null,
+      "protection_class": 1,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 3,
+      "year_built": 1998
+    },
+    {
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "condition_rating": null,
+      "construction": "Masonry Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "South Congress Motor Hotel",
+      "occupancy": null,
+      "protection_class": 2,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 4,
+      "year_built": 2015
+    },
+    {
+      "address": "608 Brazos Street",
+      "city": "Austin",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Blanco River Steakhouse",
+      "occupancy": null,
+      "protection_class": 2,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 1,
+      "year_built": 2010
+    },
+    {
+      "address": "6550 Comanche Trail",
+      "city": "Austin",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "The Oasis at Lake Travis",
+      "occupancy": null,
+      "protection_class": 5,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 2,
+      "year_built": 2012
+    },
+    {
+      "address": "303 Pearl Parkway",
+      "city": "San Antonio",
+      "condition_rating": null,
+      "construction": "Joisted Masonry",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Mission Cantina - Pearl District",
+      "occupancy": null,
+      "protection_class": 4,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 1,
+      "year_built": 2014
+    },
+    {
+      "address": "401 Congress Avenue, Suite 2200",
+      "city": "Austin",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Corporate Headquarters",
+      "occupancy": null,
+      "protection_class": 5,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 1,
+      "year_built": 2008
+    }
+  ],
+  "overall_assessment": {
+    "insurability": null,
+    "risk_level": "PPC 5",
+    "summary": "Roof Condition Certification Report for Hill Country Hospitality Partners, LLC. Overall risk grade is PPC 5 using the ISO Public Protection Class scale. The primary property roof is listed as TPO with a severe condition rating, ponding water on flat roof sections, poor decking, parapet wall cracking, and recommendations including immediate structural engineering assessment."
+  },
+  "recommendations": [
+    {
+      "category": "structural",
+      "deadline": null,
+      "description": "Visible roof deck sagging and water damage indicating potential structural deterioration. Engage structural engineer for immediate assessment and restrict access to areas near ponding sections. Time frame: Immediate.",
+      "estimated_cost": null,
+      "priority": "Severe"
+    },
+    {
+      "category": "electrical",
+      "deadline": null,
+      "description": "Electrical panel clearance obstructed by stored materials. Maintain minimum 36-inch clearance in front of all electrical panels per NEC Article 110.26. Time frame: 30 days.",
+      "estimated_cost": null,
+      "priority": "Necessary"
+    },
+    {
+      "category": "fire_protection",
+      "deadline": null,
+      "description": "Hood suppression system in kitchen area has expired inspection tags. Schedule semi-annual inspection of kitchen hood suppression system per NFPA 96 Section 11.2. Time frame: 30 days.",
+      "estimated_cost": null,
+      "priority": "Necessary"
+    },
+    {
+      "category": "security",
+      "deadline": null,
+      "description": "Exterior lighting inadequate in parking areas and loading dock. Install additional lighting to maintain minimum 1 foot-candle at ground level.",
+      "estimated_cost": null,
+      "priority": "Advisable"
+    },
+    {
+      "category": "maintenance",
+      "deadline": null,
+      "description": "HVAC rooftop units show signs of deferred maintenance. Establish quarterly preventive maintenance program for all mechanical equipment.",
+      "estimated_cost": null,
+      "priority": "Advisable"
+    },
+    {
+      "category": "documentation",
+      "deadline": null,
+      "description": "Hot work permit program not formally documented. Implement written hot work permit program per NFPA 51B; train all affected personnel.",
+      "estimated_cost": null,
+      "priority": "Advisable"
+    }
+  ],
+  "report_info": {
+    "grading_scale": "ISO Public Protection Class",
+    "inspector_company": null,
+    "inspector_name": "L. Thompson, CSP",
+    "report_date": "2026-03-15",
+    "report_type": "Roof Condition Certification Report",
+    "risk_grade": "PPC 5"
+  }
+}

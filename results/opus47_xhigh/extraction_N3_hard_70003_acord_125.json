@@ -1,0 +1,252 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Insurance Application"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "sic_code": "7011",
+    "naics_code": "721110",
+    "years_in_business": 16,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": 111274
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 280824
+    },
+    {
+      "coverage_type": "Workers' Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": 294138
+    }
+  ],
+  "checkboxes": {
+    "general_liability": "Yes",
+    "commercial_property": "Yes",
+    "business_auto": "No",
+    "workers_compensation": "Yes",
+    "umbrella_excess": "No",
+    "professional_liability_eo": "No",
+    "product_recall_past_5_years": "No",
+    "foreign_operations_or_exposures": "No",
+    "daycare_or_childcare_operations": "No",
+    "products_manufactured_sold_distributed": "No",
+    "losses_or_claims_past_5_years": "Yes",
+    "operates_as_franchisor_or_sells_franchise_rights": "No",
+    "pending_litigation_or_regulatory_actions": "No",
+    "involved_in_joint_ventures": "No",
+    "prepares_handles_or_serves_food": "No",
+    "owns_or_operates_uas_drones": "No"
+  },
+  "additional_fields": {
+    "date": "2026-03-14",
+    "agency": "Capitol Insurance Advisors",
+    "contact": "Marcus Jennings",
+    "website": "www.hlcountryhospitalityp.com",
+    "annual_revenue": 42000000,
+    "employees_full_time": 285,
+    "employees_part_time": 185,
+    "years_with_current_mgmt": 16,
+    "billing_plan": "Direct Bill - Quarterly",
+    "payment_plan": "As per billing plan",
+    "prior_carrier_general_liability": "Zurich Insurance Group",
+    "prior_policy_no_general_liability": "0000005824",
+    "prior_carrier_commercial_property": "Auto-Owners Insurance",
+    "prior_policy_no_commercial_property": "CP003220-001",
+    "prior_carrier_workers_compensation": "Travelers Companies",
+    "prior_policy_no_workers_compensation": "WC-8099-9663",
+    "loss_history": [
+      {
+        "coverage": "Workers Compensation",
+        "year": 2025,
+        "claims": 7,
+        "total_paid": 191379,
+        "total_reserved": 80209,
+        "total_incurred": 271587
+      },
+      {
+        "coverage": "Workers Compensation",
+        "year": 2024,
+        "claims": 4,
+        "total_paid": 38192,
+        "total_reserved": 11081,
+        "total_incurred": 49273
+      },
+      {
+        "coverage": "Workers Compensation",
+        "year": 2023,
+        "claims": 4,
+        "total_paid": 16569,
+        "total_reserved": 0,
+        "total_incurred": 16569
+      },
+      {
+        "coverage": "Workers Compensation",
+        "year": 2022,
+        "claims": 6,
+        "total_paid": 41658,
+        "total_reserved": 0,
+        "total_incurred": 41658
+      },
+      {
+        "coverage": "Workers Compensation",
+        "year": 2021,
+        "claims": 7,
+        "total_paid": 36748,
+        "total_reserved": 99,
+        "total_incurred": 36847
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2025,
+        "claims": 2,
+        "total_paid": 1210,
+        "total_reserved": 73876,
+        "total_incurred": 75086
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2024,
+        "claims": 3,
+        "total_paid": 3357,
+        "total_reserved": 0,
+        "total_incurred": 3357
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2023,
+        "claims": 1,
+        "total_paid": 2087,
+        "total_reserved": 0,
+        "total_incurred": 2087
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2021,
+        "claims": 2,
+        "total_paid": 2126,
+        "total_reserved": 0,
+        "total_incurred": 2126
+      },
+      {
+        "coverage": "Commercial Property",
+        "year": 2025,
+        "claims": 2,
+        "total_paid": 178566,
+        "total_reserved": 37361,
+        "total_incurred": 215927
+      }
+    ],
+    "loss_totals": {
+      "claims": 38,
+      "total_paid": 511891,
+      "total_reserved": 202627,
+      "total_incurred": 714518
+    },
+    "premises": [
+      {
+        "loc": "LOC-001",
+        "address": "604 Brazos Street, Austin, TX, 78701",
+        "occupancy": "Hotel",
+        "construction": "Fire Resistive",
+        "year_built": 2010,
+        "sq_ft": 95000,
+        "stories": 6
+      },
+      {
+        "loc": "LOC-002",
+        "address": "112 College Street, San Antonio, TX, 78205",
+        "occupancy": "Hotel",
+        "construction": "Fire Resistive",
+        "year_built": 2008,
+        "sq_ft": 142000,
+        "stories": 12
+      },
+      {
+        "loc": "LOC-003",
+        "address": "245 East Main Street, Fredericksburg, TX, 78624",
+        "occupancy": "Hotel",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 1998,
+        "sq_ft": 48000,
+        "stories": 3
+      },
+      {
+        "loc": "LOC-004",
+        "address": "1220 South Congress Avenue, Austin, TX, 78704",
+        "occupancy": "Hotel",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 2015,
+        "sq_ft": 62000,
+        "stories": 4
+      },
+      {
+        "loc": "LOC-005",
+        "address": "608 Brazos Street, Austin, TX, 78701",
+        "occupancy": "Restaurant",
+        "construction": "Fire Resistive",
+        "year_built": 2010,
+        "sq_ft": 8500,
+        "stories": 1
+      },
+      {
+        "loc": "LOC-006",
+        "address": "6550 Comanche Trail, Austin, TX, 78732",
+        "occupancy": "Restaurant",
+        "construction": "Non-Combustible",
+        "year_built": 2012,
+        "sq_ft": 12000,
+        "stories": 2
+      },
+      {
+        "loc": "LOC-007",
+        "address": "303 Pearl Parkway, San Antonio, TX, 78215",
+        "occupancy": "Restaurant",
+        "construction": "Jointed Masonry",
+        "year_built": 2014,
+        "sq_ft": 6800,
+        "stories": 1
+      },
+      {
+        "loc": "LOC-008",
+        "address": "401 Congress Avenue, Suite 2800, Austin, TX, 78701",
+        "occupancy": "Office",
+        "construction": "Fire Resistive",
+        "year_built": 2008,
+        "sq_ft": 6200,
+        "stories": 1
+      }
+    ],
+    "applicant_signature": "Christina Montoya",
+    "applicant_signature_date": "2026-03-14",
+    "applicant_title": "Chief Executive Officer",
+    "producer_signature": "Marcus Jennings",
+    "producer_signature_date": "2026-03-14"
+  },
+  "remarks": null
+}

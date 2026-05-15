@@ -1,0 +1,111 @@
+{
+  "document_info": {
+    "document_type": "Structured Submission Data (Excel Workbook)",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction, fabrication, equipment warehousing and storage",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 95000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "35 claims over loss summary period; total incurred $1,171,607; total paid $1,126,509"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "8 claims over loss summary period; total incurred $176,947; total paid $105,421"
+    },
+    {
+      "coverage_type": "Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "8 claims over loss summary period; total incurred $99,900; total paid $47,076; 15 scheduled drivers"
+    },
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "1 claim over loss summary period; total incurred $36,750; total paid $36,750; TIV across 5 locations is $39,405,000"
+    },
+    {
+      "coverage_type": "Package / Commercial Lines (All)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "2024 policy year; 13 claims reported in 2024; prior carriers include Berkshire Hathaway Guard (2023), Zurich Insurance Group (2022), Nationwide Insurance (2021), CNA Financial (2020)"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 5 locations are sprinklered except LOC-005 (Equipment Storage - Cranberry); 4 of 5 have sprinkler systems",
+      "Mix of fire resistive, non-combustible, and masonry non-combustible construction across portfolio",
+      "Driver roster shows experienced drivers; average years of experience approximately 15.5 years; senior drivers include Thomas Babich (25 yrs), Richard Jankowski (28 yrs), Michael Petroski (22 yrs), Gregory Kozlowski (21 yrs)",
+      "All drivers hold PA licenses with in-state credentials",
+      "Property claim count is very low (1 claim) with full closure (paid equals incurred)",
+      "Strong equity position of $34,373,200 relative to net income of $5,997,400",
+      "Revenue of $95,000,000 reflects substantial commercial operation"
+    ],
+    "concerns": [
+      "LOC-005 (Equipment Storage - Cranberry) has no sprinkler system and concrete roof",
+      "Workers Compensation is the largest loss line with 35 claims and $1,171,607 total incurred; indicative of elevated frequency in a construction/manufacturing environment",
+      "Claim count spiked in 2021 (15 claims) and 2024 (13 claims) suggesting volatility in loss frequency",
+      "Five-year carrier turnover: 4 different carriers in 5 years (CNA, Nationwide, Zurich, Berkshire Hathaway Guard, Nationwide), suggesting prior market instability or adverse underwriting results",
+      "Total liabilities of $68,963,500 exceed equity of $34,373,200, indicating leveraged balance sheet",
+      "LOC-002 (Main Equipment Yard & Warehouse) has a high TIV of $17,550,000 with $8,450,000 in contents, representing significant concentration risk",
+      "GL total incurred ($176,947) is notably higher than total paid ($105,421), suggesting open or developing claims",
+      "Auto total incurred ($99,900) is more than double total paid ($47,076), indicating open or developing claims",
+      "Two youngest/least experienced drivers \u2014 Kevin Zielinski (5 yrs) and Steven Novak (7 yrs) \u2014 may warrant monitoring"
+    ],
+    "loss_history_summary": "Five-year combined premium totals $7,549,115.32 across all carriers. Total claims across all lines from the loss summary: 52 claims, $1,315,756 total paid, $1,485,204 total incurred. WC dominates frequency and severity. Annual claim counts by year: 2020 (6), 2021 (15), 2022 (4), 2023 (10), 2024 (13). Premium trend increased from $1,369,245.71 in 2022 to $1,634,721.63 in 2024."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 15,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Keystone Commercial Builders, Inc. operates a commercial construction business headquartered in Pittsburgh, PA. Operations span 5 locations totaling approximately 151,500 square feet, including a corporate office, main equipment yard and warehouse, fabrication shop, a branch office in Wexford, and equipment storage in Cranberry Township. The company reports annual revenue of $95,000,000 and total assets of $103,336,700.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

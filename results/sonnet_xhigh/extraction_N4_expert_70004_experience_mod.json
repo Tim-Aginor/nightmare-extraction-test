@@ -1,0 +1,73 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Modification Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Pennsylvania Compensation Rating Bureau (PCRB), Analyst ID RA-9405",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": null,
+    "city": null,
+    "state": "PA",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Multi-trade commercial construction contractor \u2014 operations include carpentry (NOC), electrical wiring, plumbing (NOC), masonry (NOC), interior painting, project management/superintendency, and clerical support; classified under seven PCRB construction and office codes",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "PCRB Large Risk rating plan; Risk ID 609402-1243; Pennsylvania only (Interstate Rating: No); Experience Modification Factor 0.86 effective 08/01/2025; total subject payroll approximately $31,094,800 across seven classifications; Expected Losses (E) $1,095,520; Ballast Value (B) $13,748; Weighting Value (W) 0.574; rating formula Mod = (Ap + W x Ae + (1-W) x Ee + B) / (E + B); computed numerator $953,971, denominator $1,109,268"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final Experience Modification Factor of 0.86 \u2014 14% credit below unity, reflecting favorable loss performance",
+      "Total actual incurred losses ($548,404) represent approximately 50% of expected losses ($1,095,520)",
+      "Actual Primary Losses (Ap) of $335,671 indicate well-controlled claim frequency relative to expected",
+      "Actual Excess Losses (Ae) of $212,733 are approximately 19% of Expected Excess Losses ($1,132,496), indicating no catastrophic large-loss events",
+      "Qualifies for Large Risk rating plan, reflecting significant premium base and full credibility weighting (W = 0.574)",
+      "Two of three experience years (2022-2023 and 2023-2024) showed reduced claim counts (3 and approximately 7, respectively) compared to 2021-2022"
+    ],
+    "concerns": [
+      "20 total claims across three policy years indicates ongoing loss frequency in a hazardous workforce",
+      "High-hazard classification mix: PA 5022 Masonry-NOC (ELR 4.8000), PA 5474 Painting-Interior (ELR 3.2000), PA 5190 Electrical Wiring (ELR 2.6000), PA 5183 Plumbing-NOC (ELR 2.4000), PA 5403 Carpentry-NOC (ELR 2.3000+)",
+      "2021-2022 policy year experienced a frequency spike \u2014 10 claims totaling $240,694 incurred, the highest of the three experience years",
+      "Payroll heavily concentrated in high-ELR construction trades, maintaining structural loss exposure"
+    ],
+    "loss_history_summary": "Three-year experience period (policy years 2021-2022, 2022-2023, 2023-2024): 20 total claims; approximately $546,031 total paid; $548,404 total incurred; primary losses $335,671 (Ap); excess losses $212,733 (Ae). Year detail \u2014 2021-2022: 10 claims, $240,694 incurred ($156,716 primary, $83,978 excess); 2022-2023: 3 claims, approximately $116,409 incurred; 2023-2024: approximately 7 claims, $191,231 incurred. Computed modification factor 0.86."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "PCRB Experience Rating Worksheet for Keystone Commercial Builders, Inc., issued to carrier Hallmark Insurance Group, dated 03/15/2026. Final Experience Modification Factor: 0.86, effective 08/01/2025 through 08/01/2026. Reviewed and approved by Pennsylvania Compensation Rating Bureau Analyst RA-9405 on 03/15/2026 in accordance with applicable state rating laws and regulations. Insured may request a review or appeal of this rating within 90 days of the effective date.",
+    "operations_description": "Multi-trade commercial construction contractor operating exclusively in Pennsylvania under PCRB Large Risk rating plan (Risk ID 609402-1243). Seven active workforce classifications: PA 5403 Carpentry-NOC; PA 5190 Electrical Wiring; PA 5183 Plumbing-NOC; PA 5022 Masonry-NOC; PA 5474 Painting-Interior; PA 5606 Contractors Project Manager/Superintendent; PA 8810 Clerical Office Employees-NOC. Total subject payroll approximately $31,094,800. Expected loss rates range from 0.1950 per $100 payroll (clerical) to 4.8000 per $100 payroll (masonry). D-ratios range from 0.170 (clerical) to 0.430 (carpentry), reflecting the primary/excess loss split by hazard class.",
+    "safety_programs": null,
+    "claims_narrative": "Experience period spans three policy years. Policy year 2021-2022: 10 claims, $240,694 total paid and incurred ($156,716 primary losses, $83,978 excess losses). Policy year 2022-2023: 3 claims, approximately $116,260 total paid, approximately $116,409 total incurred. Policy year 2023-2024: approximately 7 claims, approximately $190,000 total paid, $191,231 total incurred. Three-year aggregate: 20 claims, approximately $546,031 total paid, $548,404 total incurred, $335,671 primary losses (Ap), $212,733 excess losses (Ae). Rating formula applied: Mod = (Ap + W x Ae + (1-W) x Ee + B) / (E + B) = ($335,671 + 0.574 x $212,733 + 0.426 x $1,132,496 + $13,748) / ($1,095,520 + $13,748) = $953,971 / $1,109,268 = 0.8600."
+  }
+}

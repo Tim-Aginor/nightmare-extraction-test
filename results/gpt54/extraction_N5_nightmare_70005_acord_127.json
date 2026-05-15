@@ -1,0 +1,698 @@
+{
+  "form_info": {
+    "form_number": "ACORD 127",
+    "form_edition": "2016/03",
+    "form_title": "BUSINESS AUTO SECTION"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CAGLFS20258822",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": null,
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 192460
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2023,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 188340
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2023,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 195600
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2024,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 198800
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2022,
+      "make": "Peterbilt",
+      "model": "579",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 182600
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2023,
+      "make": "Peterbilt",
+      "model": "579",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 191480
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2021,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 145920
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2024,
+      "make": "Volvo",
+      "model": "VNL 860",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 205620
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2022,
+      "make": "International",
+      "model": "LT",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 169840
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2023,
+      "make": "Mack",
+      "model": "Anthem",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 202540
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia Day Cab",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 176980
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2023,
+      "make": "Kenworth",
+      "model": "T880 Day Cab",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 195760
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "M2 112",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 88720
+    },
+    {
+      "vehicle_id": "14",
+      "year": 2023,
+      "make": "International",
+      "model": "MV607",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 86480
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Hino",
+      "model": "338",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 81440
+    },
+    {
+      "vehicle_id": "16",
+      "year": 2024,
+      "make": "Isuzu",
+      "model": "NPR-HD",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 64460
+    },
+    {
+      "vehicle_id": "17",
+      "year": 2023,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 53180
+    },
+    {
+      "vehicle_id": "18",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Transit 350",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 46520
+    },
+    {
+      "vehicle_id": "19",
+      "year": 2023,
+      "make": "Ram",
+      "model": "ProMaster 2500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 48460
+    },
+    {
+      "vehicle_id": "20",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 50260
+    },
+    {
+      "vehicle_id": "21",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 38080
+    },
+    {
+      "vehicle_id": "22",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 27790
+    },
+    {
+      "vehicle_id": "23",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Camry",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": 41016
+    },
+    {
+      "vehicle_id": "24",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "25",
+      "year": 2024,
+      "make": "Great Dane",
+      "model": "Champion SE",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 30112
+    },
+    {
+      "vehicle_id": "26",
+      "year": 2023,
+      "make": "Great Dane",
+      "model": "Champion SE",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 22962
+    },
+    {
+      "vehicle_id": "27",
+      "year": 2024,
+      "make": "Wabash",
+      "model": "DuraPlate HD",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 22080
+    },
+    {
+      "vehicle_id": "28",
+      "year": 2024,
+      "make": "Wabash",
+      "model": "DuraPlate HD",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 23917
+    },
+    {
+      "vehicle_id": "29",
+      "year": 2022,
+      "make": "Utility",
+      "model": "4000-D-X Composite",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 23053
+    },
+    {
+      "vehicle_id": "30",
+      "year": 2023,
+      "make": "Utility",
+      "model": "4000-D-X Composite",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 23125
+    },
+    {
+      "vehicle_id": "31",
+      "year": 2019,
+      "make": "Hyundai Translead",
+      "model": "Dry Van",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 19000
+    },
+    {
+      "vehicle_id": "32",
+      "year": 2022,
+      "make": "Hyundai Translead",
+      "model": "Dry Van",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 18196
+    },
+    {
+      "vehicle_id": "33",
+      "year": 2024,
+      "make": "Fontaine",
+      "model": "Revolution 55",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 30895
+    },
+    {
+      "vehicle_id": "34",
+      "year": 2023,
+      "make": "Fontaine",
+      "model": "Infinity 48",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 28980
+    },
+    {
+      "vehicle_id": "35",
+      "year": 2017,
+      "make": "Fontaine",
+      "model": "Genesis",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 13027
+    },
+    {
+      "vehicle_id": "36",
+      "year": 2024,
+      "make": "Great Dane",
+      "model": "Everest II",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 25040
+    },
+    {
+      "vehicle_id": "37",
+      "year": 2023,
+      "make": "Utility",
+      "model": "3000R",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 23210
+    }
+  ],
+  "drivers": [
+    {
+      "name": "William Kowalski",
+      "date_of_birth": "1976-03-14",
+      "sex": "M",
+      "license_number": "OH-AK482719",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "James Patterson",
+      "date_of_birth": "1980-08-22",
+      "sex": "M",
+      "license_number": "OH-BL593820",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Robert Stevens",
+      "date_of_birth": "1984-12-08",
+      "sex": "M",
+      "license_number": "OH-CM604931",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Michael Turner",
+      "date_of_birth": "1978-05-17",
+      "sex": "M",
+      "license_number": "OH-DN716042",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "David Rodriguez",
+      "date_of_birth": "1988-07-25",
+      "sex": "M",
+      "license_number": "OH-EO827153",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Anthony Martinez",
+      "date_of_birth": "1982-11-03",
+      "sex": "M",
+      "license_number": "OH-FP938264",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Steven Wilson",
+      "date_of_birth": "1986-04-19",
+      "sex": "M",
+      "license_number": "PA-28371945",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Mark Thompson",
+      "date_of_birth": "1975-08-30",
+      "sex": "M",
+      "license_number": "PA-39482756",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Brian Jackson",
+      "date_of_birth": "1983-01-12",
+      "sex": "M",
+      "license_number": "PA-47593867",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Kevin Anderson",
+      "date_of_birth": "1990-06-28",
+      "sex": "M",
+      "license_number": "PA-58604978",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Clear"
+    },
+    {
+      "name": "Christopher Lee",
+      "date_of_birth": "1991-10-05",
+      "sex": "M",
+      "license_number": "OH-GQ049375",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Daniel White",
+      "date_of_birth": "1987-03-17",
+      "sex": "M",
+      "license_number": "OH-HR150486",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Eric Moore",
+      "date_of_birth": "1979-07-22",
+      "sex": "M",
+      "license_number": "OH-IS261597",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Jason Taylor",
+      "date_of_birth": "1989-12-14",
+      "sex": "M",
+      "license_number": "OH-JT372608",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Ryan Clark",
+      "date_of_birth": "1993-05-09",
+      "sex": "M",
+      "license_number": "PA-69716089",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Maria Santos",
+      "date_of_birth": "1992-08-20",
+      "sex": "F",
+      "license_number": "OH-KU483719",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Lisa Johnson",
+      "date_of_birth": "1985-11-11",
+      "sex": "F",
+      "license_number": "OH-LV594820",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Nicole Davis",
+      "date_of_birth": "1994-02-03",
+      "sex": "F",
+      "license_number": "PA-70827190",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Andre Mitchell",
+      "date_of_birth": "1981-09-28",
+      "sex": "M",
+      "license_number": "OH-MW605931",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Accident"
+    },
+    {
+      "name": "Patrick Murphy",
+      "date_of_birth": "1977-04-16",
+      "sex": "M",
+      "license_number": "OH-NX717042",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Sean O'Brien",
+      "date_of_birth": "1988-06-25",
+      "sex": "M",
+      "license_number": "PA-81938201",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Clear"
+    },
+    {
+      "name": "Carlos Ramirez",
+      "date_of_birth": "1983-10-12",
+      "sex": "M",
+      "license_number": "OH-OY828153",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Derek Williams",
+      "date_of_birth": "1986-01-30",
+      "sex": "M",
+      "license_number": "OH-PZ939264",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Frank Nowak",
+      "date_of_birth": "1980-07-08",
+      "sex": "M",
+      "license_number": "PA-92049312",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "George Adams",
+      "date_of_birth": "1974-03-22",
+      "sex": "M",
+      "license_number": "OH-QA040375",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Justin Morales",
+      "date_of_birth": "1963-05-27",
+      "sex": "M",
+      "license_number": "HI493037",
+      "license_state": "OH",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 5000000,
+    "uninsured_motorist": 500000,
+    "medical_payments": 10000
+  },
+  "auto_premium": {
+    "base_premium": 262046.75,
+    "tria_surcharge": null,
+    "total_premium": 262046.75,
+    "deductible": null,
+    "form_type": "occurrence"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Combined Single Limit (Ea Accident)",
+      "limit": "5000000",
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Payments (Per Person)",
+      "limit": "10000",
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Uninsured Motorist",
+      "limit": "500000",
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Does the insured maintain written safety and loss prevention programs?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured operate under any federal or state motor carrier authority?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any vehicles garaged at locations other than the mailing premises?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any vehicles leased or rented to others?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured use any subcontracted or independent owner operators?",
+      "value": "No"
+    },
+    {
+      "field": "Are all drivers required to have valid CDL licenses where required?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are all vehicles owned by the named insured?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

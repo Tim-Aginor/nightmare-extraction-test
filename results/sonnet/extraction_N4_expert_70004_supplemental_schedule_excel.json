@@ -1,0 +1,101 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation, General Liability, Commercial Auto, Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "Policy Numbers: 0000004484, 7GL0009677, CA002528-001, CP00001358; Year: 2024; Claims: 13; Cancellation: No"
+    },
+    {
+      "coverage_type": "Workers Compensation, General Liability, Commercial Auto, Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Berkshire Hathaway Guard",
+      "expiring_premium": 1476849.96,
+      "notes": "Policy Numbers: 7WC0009156, GL00007868, 7CA0002407, CP-4153-9932; Year: 2023; Claims: 10; Cancellation: No"
+    },
+    {
+      "coverage_type": "Workers Compensation, General Liability, Commercial Auto, Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 1369245.71,
+      "notes": "Policy Numbers: WC00004453, GL00005151, 7CA0007230, CP-2415-5091; Year: 2022; Claims: 4; Cancellation: Yes"
+    },
+    {
+      "coverage_type": "Workers Compensation, General Liability, Commercial Auto, Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1487006.51,
+      "notes": "Policy Numbers: WC-0005600, GL002774-001, CA008547-001, CP00004044; Year: 2021; Claims: 15; Cancellation: No"
+    },
+    {
+      "coverage_type": "Workers Compensation, General Liability, Commercial Auto, Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 1581292.51,
+      "notes": "Policy Numbers: WC002734-001, GL-0002491, 7CA0001189, CP006087-001; Year: 2020; Claims: 6; Cancellation: No"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations in 4 of 5 policy years (2020, 2021, 2023, 2024)",
+      "Lowest claim count in 2022 (4 claims)",
+      "Consistent insured with 5-year documented history"
+    ],
+    "concerns": [
+      "Policy cancellation occurred in 2022 with Zurich Insurance Group",
+      "High claim count in 2021 (15 claims)",
+      "Elevated claim count in 2024 (13 claims)",
+      "Premiums exceed $1.3 million annually across all years, indicating large account complexity",
+      "Loss ratios not provided for any year"
+    ],
+    "loss_history_summary": "Over the 5-year period (2020-2024), the insured reported a total of 48 claims. Claim counts by year: 2020: 6, 2021: 15, 2022: 4, 2023: 10, 2024: 13. Total premiums paid over 5 years: $7,549,116.32. One cancellation occurred in 2022 (Zurich Insurance Group). Loss ratios were not provided for any policy year."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "48 total claims reported over 5 years (2020-2024). Peak claim year was 2021 with 15 claims. Lowest claim year was 2022 with 4 claims, coinciding with a policy cancellation by Zurich Insurance Group. No loss ratios were provided."
+  }
+}

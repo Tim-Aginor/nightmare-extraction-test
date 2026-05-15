@@ -1,0 +1,80 @@
+{
+  "business_description": {
+    "annual_revenue": 67000000,
+    "employee_count": 173,
+    "naics_code": null,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "years_in_business": 24
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_carrier": "CNA Financial",
+      "current_limit": null,
+      "expiring_premium": 414601.77,
+      "notes": "Policy Number CP-LSPH-2025-7801. Prior insurance history lists CNA Financial in 2024 with 1 claim and no cancellations; Zurich Insurance Group in 2023 with 0 claims and no cancellations; American International Group in 2022 with 1 claim and no cancellations.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Sandra Villareal",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior Insurance History: 2024 CNA Financial premium $414,601.77, 1 claim, no cancellations; 2023 Zurich Insurance Group premium $423,914.72, 0 claims, no cancellations; 2022 American International Group premium $447,842.42, 1 claim, no cancellations.",
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "safety_programs": "Do you have a formal safety program? No. Do you have written contracts with all subcontractors? Yes. Written contracts with indemnification required from all contractors: Yes. 24-hour doorperson or security on premises: Yes. Fire alarms hard-wired with central station monitoring: Yes. OSHA citations in the past 3 years: No."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "name": "Lone Star Property Holdings, LP",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "No formal safety program",
+      "Commercial occupancy within the buildings",
+      "EV charging stations installed on the premises",
+      "Amenities present, including swimming pools, exercise rooms, or other amenities",
+      "Two claims reported across the 2022-2024 prior insurance history"
+    ],
+    "loss_history_summary": "Prior insurance history shows 1 claim in 2024, 0 claims in 2023, and 1 claim in 2022, with no cancellations in any listed year.",
+    "positives": [
+      "24 years in business",
+      "18 years with current management",
+      "Written contracts with all subcontractors",
+      "Written contracts with indemnification required from all contractors",
+      "All 8 listed premises are sprinklered",
+      "24-hour doorperson or security on premises",
+      "Short-term rentals less than 1 year are not permitted",
+      "Buildings reported as fully sprinklered per NFPA 13 or 13R",
+      "Fire alarms are hard-wired with central station monitoring",
+      "No OSHA citations in the past 3 years",
+      "95% occupancy reported",
+      "Recent electrical system update in 2023"
+    ]
+  }
+}

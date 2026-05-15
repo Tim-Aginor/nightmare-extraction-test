@@ -1,0 +1,102 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Policy WC-8098-9663; 11 claims in 2024; no cancellation"
+    },
+    {
+      "coverage_type": "General Liability / Commercial Package",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Markel Corporation",
+      "expiring_premium": 619820.26,
+      "notes": "2023 policies 7WC0009522, 0000002291, CP-1970-9645; 3 claims; no cancellation"
+    },
+    {
+      "coverage_type": "General Liability / Commercial Package",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 607294.45,
+      "notes": "2022 policies 0000004808, GL-0002700, 7CP0001066; 6 claims; cancellation occurred"
+    },
+    {
+      "coverage_type": "General Liability / Commercial Package",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Chubb Limited",
+      "expiring_premium": 630843.2,
+      "notes": "2021 policies 0000008163, GL-8167-3439, CP-0009781; 9 claims; no cancellation"
+    },
+    {
+      "coverage_type": "General Liability / Commercial Package",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "EMPLOYERS Insurance Group",
+      "expiring_premium": 580805.53,
+      "notes": "2020 policies WC008082-001, GL-4906-7512, CP00007431; 2 claims; no cancellation"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Continuous coverage from 2020 through 2024 with established carriers",
+      "Only one cancellation across five-year history (2022)",
+      "Low claim years in 2020 (2 claims) and 2023 (3 claims)"
+    ],
+    "concerns": [
+      "Elevated claim count in 2024 (11 claims) - highest in the five-year period",
+      "9 claims reported in 2021",
+      "Policy was cancelled in 2022 with Zurich Insurance Group",
+      "Frequent carrier changes year over year",
+      "Loss ratio data not provided",
+      "2024 premium data missing"
+    ],
+    "loss_history_summary": "Five-year loss history shows claim counts of 2 (2020), 9 (2021), 6 (2022), 3 (2023), and 11 (2024), with a cancellation in 2022. Total premiums from 2020-2023 ranged approximately $580K-$631K annually."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Prior insurance history spans 2020-2024 with five different carriers: EMPLOYERS Insurance Group (2020, 2 claims), Chubb Limited (2021, 9 claims), Zurich Insurance Group (2022, 6 claims - cancelled), Markel Corporation (2023, 3 claims), and unnamed carrier (2024, 11 claims). Premiums ranged from $580,805.53 to $630,843.20."
+  }
+}

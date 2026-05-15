@@ -1,0 +1,1562 @@
+{
+  "gpt55": {
+    "overall": {
+      "fields_scored": 5632,
+      "fields_correct": 4143,
+      "fields_wrong": 396,
+      "fields_omitted": 1093,
+      "correctness_rate_micro": 0.7356,
+      "wrong_value_rate_micro": 0.0703,
+      "omission_rate_micro": 0.1941,
+      "any_error_rate_micro": 0.2644
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 782,
+        "fields_wrong": 135,
+        "fields_omitted": 697,
+        "correctness_rate_micro": 0.4845,
+        "wrong_value_rate_micro": 0.0836,
+        "omission_rate_micro": 0.4318,
+        "any_error_rate_micro": 0.5155
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 155,
+        "fields_wrong": 18,
+        "fields_omitted": 226,
+        "correctness_rate_micro": 0.3885,
+        "wrong_value_rate_micro": 0.0451,
+        "omission_rate_micro": 0.5664,
+        "any_error_rate_micro": 0.6115
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 83,
+        "fields_wrong": 45,
+        "fields_omitted": 57,
+        "correctness_rate_micro": 0.4486,
+        "wrong_value_rate_micro": 0.2432,
+        "omission_rate_micro": 0.3081,
+        "any_error_rate_micro": 0.5514
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 126,
+        "fields_wrong": 31,
+        "fields_omitted": 88,
+        "correctness_rate_micro": 0.5143,
+        "wrong_value_rate_micro": 0.1265,
+        "omission_rate_micro": 0.3592,
+        "any_error_rate_micro": 0.4857
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2046,
+        "fields_correct": 1994,
+        "fields_wrong": 52,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.9746,
+        "wrong_value_rate_micro": 0.0254,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0254
+      },
+      "sov": {
+        "fields_scored": 633,
+        "fields_correct": 559,
+        "fields_wrong": 74,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.8831,
+        "wrong_value_rate_micro": 0.1169,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.1169
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 388,
+        "fields_wrong": 41,
+        "fields_omitted": 11,
+        "correctness_rate_micro": 0.8818,
+        "wrong_value_rate_micro": 0.0932,
+        "omission_rate_micro": 0.025,
+        "any_error_rate_micro": 0.1182
+      }
+    }
+  },
+  "gpt55_high": {
+    "overall": {
+      "fields_scored": 5674,
+      "fields_correct": 4199,
+      "fields_wrong": 375,
+      "fields_omitted": 1100,
+      "correctness_rate_micro": 0.74,
+      "wrong_value_rate_micro": 0.0661,
+      "omission_rate_micro": 0.1939,
+      "any_error_rate_micro": 0.26
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 773,
+        "fields_wrong": 141,
+        "fields_omitted": 700,
+        "correctness_rate_micro": 0.4789,
+        "wrong_value_rate_micro": 0.0874,
+        "omission_rate_micro": 0.4337,
+        "any_error_rate_micro": 0.5211
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 158,
+        "fields_wrong": 13,
+        "fields_omitted": 228,
+        "correctness_rate_micro": 0.396,
+        "wrong_value_rate_micro": 0.0326,
+        "omission_rate_micro": 0.5714,
+        "any_error_rate_micro": 0.604
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 83,
+        "fields_wrong": 46,
+        "fields_omitted": 56,
+        "correctness_rate_micro": 0.4486,
+        "wrong_value_rate_micro": 0.2486,
+        "omission_rate_micro": 0.3027,
+        "any_error_rate_micro": 0.5514
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 126,
+        "fields_wrong": 28,
+        "fields_omitted": 91,
+        "correctness_rate_micro": 0.5143,
+        "wrong_value_rate_micro": 0.1143,
+        "omission_rate_micro": 0.3714,
+        "any_error_rate_micro": 0.4857
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2106,
+        "fields_correct": 2054,
+        "fields_wrong": 52,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.9753,
+        "wrong_value_rate_micro": 0.0247,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0247
+      },
+      "sov": {
+        "fields_scored": 615,
+        "fields_correct": 551,
+        "fields_wrong": 64,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.8959,
+        "wrong_value_rate_micro": 0.1041,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.1041
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 398,
+        "fields_wrong": 31,
+        "fields_omitted": 11,
+        "correctness_rate_micro": 0.9045,
+        "wrong_value_rate_micro": 0.0705,
+        "omission_rate_micro": 0.025,
+        "any_error_rate_micro": 0.0955
+      }
+    }
+  },
+  "gpt55_xhigh": {
+    "overall": {
+      "fields_scored": 5662,
+      "fields_correct": 4159,
+      "fields_wrong": 414,
+      "fields_omitted": 1089,
+      "correctness_rate_micro": 0.7345,
+      "wrong_value_rate_micro": 0.0731,
+      "omission_rate_micro": 0.1923,
+      "any_error_rate_micro": 0.2655
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 770,
+        "fields_wrong": 151,
+        "fields_omitted": 693,
+        "correctness_rate_micro": 0.4771,
+        "wrong_value_rate_micro": 0.0936,
+        "omission_rate_micro": 0.4294,
+        "any_error_rate_micro": 0.5229
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 159,
+        "fields_wrong": 12,
+        "fields_omitted": 228,
+        "correctness_rate_micro": 0.3985,
+        "wrong_value_rate_micro": 0.0301,
+        "omission_rate_micro": 0.5714,
+        "any_error_rate_micro": 0.6015
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 83,
+        "fields_wrong": 40,
+        "fields_omitted": 62,
+        "correctness_rate_micro": 0.4486,
+        "wrong_value_rate_micro": 0.2162,
+        "omission_rate_micro": 0.3351,
+        "any_error_rate_micro": 0.5514
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 126,
+        "fields_wrong": 34,
+        "fields_omitted": 85,
+        "correctness_rate_micro": 0.5143,
+        "wrong_value_rate_micro": 0.1388,
+        "omission_rate_micro": 0.3469,
+        "any_error_rate_micro": 0.4857
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2058,
+        "fields_correct": 2001,
+        "fields_wrong": 50,
+        "fields_omitted": 7,
+        "correctness_rate_micro": 0.9723,
+        "wrong_value_rate_micro": 0.0243,
+        "omission_rate_micro": 0.0034,
+        "any_error_rate_micro": 0.0277
+      },
+      "sov": {
+        "fields_scored": 651,
+        "fields_correct": 565,
+        "fields_wrong": 86,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.8679,
+        "wrong_value_rate_micro": 0.1321,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.1321
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 399,
+        "fields_wrong": 41,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.9068,
+        "wrong_value_rate_micro": 0.0932,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0932
+      }
+    }
+  },
+  "gpt54": {
+    "overall": {
+      "fields_scored": 5710,
+      "fields_correct": 4105,
+      "fields_wrong": 510,
+      "fields_omitted": 1095,
+      "correctness_rate_micro": 0.7189,
+      "wrong_value_rate_micro": 0.0893,
+      "omission_rate_micro": 0.1918,
+      "any_error_rate_micro": 0.2811
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 775,
+        "fields_wrong": 151,
+        "fields_omitted": 688,
+        "correctness_rate_micro": 0.4802,
+        "wrong_value_rate_micro": 0.0936,
+        "omission_rate_micro": 0.4263,
+        "any_error_rate_micro": 0.5198
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 162,
+        "fields_wrong": 11,
+        "fields_omitted": 226,
+        "correctness_rate_micro": 0.406,
+        "wrong_value_rate_micro": 0.0276,
+        "omission_rate_micro": 0.5664,
+        "any_error_rate_micro": 0.594
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 91,
+        "fields_wrong": 43,
+        "fields_omitted": 51,
+        "correctness_rate_micro": 0.4919,
+        "wrong_value_rate_micro": 0.2324,
+        "omission_rate_micro": 0.2757,
+        "any_error_rate_micro": 0.5081
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 121,
+        "fields_wrong": 30,
+        "fields_omitted": 94,
+        "correctness_rate_micro": 0.4939,
+        "wrong_value_rate_micro": 0.1224,
+        "omission_rate_micro": 0.3837,
+        "any_error_rate_micro": 0.5061
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2142,
+        "fields_correct": 1960,
+        "fields_wrong": 182,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.915,
+        "wrong_value_rate_micro": 0.085,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.085
+      },
+      "sov": {
+        "fields_scored": 615,
+        "fields_correct": 542,
+        "fields_wrong": 58,
+        "fields_omitted": 15,
+        "correctness_rate_micro": 0.8813,
+        "wrong_value_rate_micro": 0.0943,
+        "omission_rate_micro": 0.0244,
+        "any_error_rate_micro": 0.1187
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 398,
+        "fields_wrong": 35,
+        "fields_omitted": 7,
+        "correctness_rate_micro": 0.9045,
+        "wrong_value_rate_micro": 0.0795,
+        "omission_rate_micro": 0.0159,
+        "any_error_rate_micro": 0.0955
+      }
+    }
+  },
+  "gpt54_high": {
+    "overall": {
+      "fields_scored": 5611,
+      "fields_correct": 4123,
+      "fields_wrong": 304,
+      "fields_omitted": 1184,
+      "correctness_rate_micro": 0.7348,
+      "wrong_value_rate_micro": 0.0542,
+      "omission_rate_micro": 0.211,
+      "any_error_rate_micro": 0.2652
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 751,
+        "fields_wrong": 124,
+        "fields_omitted": 739,
+        "correctness_rate_micro": 0.4653,
+        "wrong_value_rate_micro": 0.0768,
+        "omission_rate_micro": 0.4579,
+        "any_error_rate_micro": 0.5347
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 159,
+        "fields_wrong": 12,
+        "fields_omitted": 228,
+        "correctness_rate_micro": 0.3985,
+        "wrong_value_rate_micro": 0.0301,
+        "omission_rate_micro": 0.5714,
+        "any_error_rate_micro": 0.6015
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 83,
+        "fields_wrong": 38,
+        "fields_omitted": 64,
+        "correctness_rate_micro": 0.4486,
+        "wrong_value_rate_micro": 0.2054,
+        "omission_rate_micro": 0.3459,
+        "any_error_rate_micro": 0.5514
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 126,
+        "fields_wrong": 25,
+        "fields_omitted": 94,
+        "correctness_rate_micro": 0.5143,
+        "wrong_value_rate_micro": 0.102,
+        "omission_rate_micro": 0.3837,
+        "any_error_rate_micro": 0.4857
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2070,
+        "fields_correct": 2017,
+        "fields_wrong": 52,
+        "fields_omitted": 1,
+        "correctness_rate_micro": 0.9744,
+        "wrong_value_rate_micro": 0.0251,
+        "omission_rate_micro": 0.0005,
+        "any_error_rate_micro": 0.0256
+      },
+      "sov": {
+        "fields_scored": 588,
+        "fields_correct": 535,
+        "fields_wrong": 22,
+        "fields_omitted": 31,
+        "correctness_rate_micro": 0.9099,
+        "wrong_value_rate_micro": 0.0374,
+        "omission_rate_micro": 0.0527,
+        "any_error_rate_micro": 0.0901
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 396,
+        "fields_wrong": 31,
+        "fields_omitted": 13,
+        "correctness_rate_micro": 0.9,
+        "wrong_value_rate_micro": 0.0705,
+        "omission_rate_micro": 0.0295,
+        "any_error_rate_micro": 0.1
+      }
+    }
+  },
+  "gpt54_xhigh": {
+    "overall": {
+      "fields_scored": 5538,
+      "fields_correct": 4072,
+      "fields_wrong": 310,
+      "fields_omitted": 1156,
+      "correctness_rate_micro": 0.7353,
+      "wrong_value_rate_micro": 0.056,
+      "omission_rate_micro": 0.2087,
+      "any_error_rate_micro": 0.2647
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 776,
+        "fields_wrong": 107,
+        "fields_omitted": 731,
+        "correctness_rate_micro": 0.4808,
+        "wrong_value_rate_micro": 0.0663,
+        "omission_rate_micro": 0.4529,
+        "any_error_rate_micro": 0.5192
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 155,
+        "fields_wrong": 14,
+        "fields_omitted": 230,
+        "correctness_rate_micro": 0.3885,
+        "wrong_value_rate_micro": 0.0351,
+        "omission_rate_micro": 0.5764,
+        "any_error_rate_micro": 0.6115
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 83,
+        "fields_wrong": 42,
+        "fields_omitted": 60,
+        "correctness_rate_micro": 0.4486,
+        "wrong_value_rate_micro": 0.227,
+        "omission_rate_micro": 0.3243,
+        "any_error_rate_micro": 0.5514
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 126,
+        "fields_wrong": 25,
+        "fields_omitted": 94,
+        "correctness_rate_micro": 0.5143,
+        "wrong_value_rate_micro": 0.102,
+        "omission_rate_micro": 0.3837,
+        "any_error_rate_micro": 0.4857
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2028,
+        "fields_correct": 1974,
+        "fields_wrong": 54,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.9734,
+        "wrong_value_rate_micro": 0.0266,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0266
+      },
+      "sov": {
+        "fields_scored": 561,
+        "fields_correct": 507,
+        "fields_wrong": 37,
+        "fields_omitted": 17,
+        "correctness_rate_micro": 0.9037,
+        "wrong_value_rate_micro": 0.066,
+        "omission_rate_micro": 0.0303,
+        "any_error_rate_micro": 0.0963
+      },
+      "driver_schedule": {
+        "fields_scored": 436,
+        "fields_correct": 395,
+        "fields_wrong": 31,
+        "fields_omitted": 10,
+        "correctness_rate_micro": 0.906,
+        "wrong_value_rate_micro": 0.0711,
+        "omission_rate_micro": 0.0229,
+        "any_error_rate_micro": 0.094
+      }
+    }
+  },
+  "opus47": {
+    "overall": {
+      "fields_scored": 5898,
+      "fields_correct": 4242,
+      "fields_wrong": 511,
+      "fields_omitted": 1145,
+      "correctness_rate_micro": 0.7192,
+      "wrong_value_rate_micro": 0.0866,
+      "omission_rate_micro": 0.1941,
+      "any_error_rate_micro": 0.2808
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 822,
+        "fields_wrong": 54,
+        "fields_omitted": 738,
+        "correctness_rate_micro": 0.5093,
+        "wrong_value_rate_micro": 0.0335,
+        "omission_rate_micro": 0.4572,
+        "any_error_rate_micro": 0.4907
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 166,
+        "fields_wrong": 11,
+        "fields_omitted": 222,
+        "correctness_rate_micro": 0.416,
+        "wrong_value_rate_micro": 0.0276,
+        "omission_rate_micro": 0.5564,
+        "any_error_rate_micro": 0.584
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 97,
+        "fields_wrong": 48,
+        "fields_omitted": 40,
+        "correctness_rate_micro": 0.5243,
+        "wrong_value_rate_micro": 0.2595,
+        "omission_rate_micro": 0.2162,
+        "any_error_rate_micro": 0.4757
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 132,
+        "fields_wrong": 11,
+        "fields_omitted": 102,
+        "correctness_rate_micro": 0.5388,
+        "wrong_value_rate_micro": 0.0449,
+        "omission_rate_micro": 0.4163,
+        "any_error_rate_micro": 0.4612
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 34,
+        "fields_wrong": 0,
+        "fields_omitted": 16,
+        "correctness_rate_micro": 0.68,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.32,
+        "any_error_rate_micro": 0.32
+      },
+      "loss_run": {
+        "fields_scored": 2298,
+        "fields_correct": 1954,
+        "fields_wrong": 319,
+        "fields_omitted": 25,
+        "correctness_rate_micro": 0.8503,
+        "wrong_value_rate_micro": 0.1388,
+        "omission_rate_micro": 0.0109,
+        "any_error_rate_micro": 0.1497
+      },
+      "sov": {
+        "fields_scored": 651,
+        "fields_correct": 613,
+        "fields_wrong": 37,
+        "fields_omitted": 1,
+        "correctness_rate_micro": 0.9416,
+        "wrong_value_rate_micro": 0.0568,
+        "omission_rate_micro": 0.0015,
+        "any_error_rate_micro": 0.0584
+      },
+      "driver_schedule": {
+        "fields_scored": 436,
+        "fields_correct": 404,
+        "fields_wrong": 31,
+        "fields_omitted": 1,
+        "correctness_rate_micro": 0.9266,
+        "wrong_value_rate_micro": 0.0711,
+        "omission_rate_micro": 0.0023,
+        "any_error_rate_micro": 0.0734
+      }
+    }
+  },
+  "opus47_high": {
+    "overall": {
+      "fields_scored": 5878,
+      "fields_correct": 4251,
+      "fields_wrong": 524,
+      "fields_omitted": 1103,
+      "correctness_rate_micro": 0.7232,
+      "wrong_value_rate_micro": 0.0891,
+      "omission_rate_micro": 0.1876,
+      "any_error_rate_micro": 0.2768
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 816,
+        "fields_wrong": 68,
+        "fields_omitted": 730,
+        "correctness_rate_micro": 0.5056,
+        "wrong_value_rate_micro": 0.0421,
+        "omission_rate_micro": 0.4523,
+        "any_error_rate_micro": 0.4944
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 166,
+        "fields_wrong": 11,
+        "fields_omitted": 222,
+        "correctness_rate_micro": 0.416,
+        "wrong_value_rate_micro": 0.0276,
+        "omission_rate_micro": 0.5564,
+        "any_error_rate_micro": 0.584
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 106,
+        "fields_wrong": 47,
+        "fields_omitted": 32,
+        "correctness_rate_micro": 0.573,
+        "wrong_value_rate_micro": 0.2541,
+        "omission_rate_micro": 0.173,
+        "any_error_rate_micro": 0.427
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 134,
+        "fields_wrong": 10,
+        "fields_omitted": 101,
+        "correctness_rate_micro": 0.5469,
+        "wrong_value_rate_micro": 0.0408,
+        "omission_rate_micro": 0.4122,
+        "any_error_rate_micro": 0.4531
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2274,
+        "fields_correct": 1957,
+        "fields_wrong": 317,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.8606,
+        "wrong_value_rate_micro": 0.1394,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.1394
+      },
+      "sov": {
+        "fields_scored": 651,
+        "fields_correct": 613,
+        "fields_wrong": 37,
+        "fields_omitted": 1,
+        "correctness_rate_micro": 0.9416,
+        "wrong_value_rate_micro": 0.0568,
+        "omission_rate_micro": 0.0015,
+        "any_error_rate_micro": 0.0584
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 403,
+        "fields_wrong": 34,
+        "fields_omitted": 3,
+        "correctness_rate_micro": 0.9159,
+        "wrong_value_rate_micro": 0.0773,
+        "omission_rate_micro": 0.0068,
+        "any_error_rate_micro": 0.0841
+      }
+    }
+  },
+  "opus47_xhigh": {
+    "overall": {
+      "fields_scored": 5764,
+      "fields_correct": 4203,
+      "fields_wrong": 424,
+      "fields_omitted": 1137,
+      "correctness_rate_micro": 0.7292,
+      "wrong_value_rate_micro": 0.0736,
+      "omission_rate_micro": 0.1973,
+      "any_error_rate_micro": 0.2708
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 823,
+        "fields_wrong": 55,
+        "fields_omitted": 736,
+        "correctness_rate_micro": 0.5099,
+        "wrong_value_rate_micro": 0.0341,
+        "omission_rate_micro": 0.456,
+        "any_error_rate_micro": 0.4901
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 167,
+        "fields_wrong": 10,
+        "fields_omitted": 222,
+        "correctness_rate_micro": 0.4185,
+        "wrong_value_rate_micro": 0.0251,
+        "omission_rate_micro": 0.5564,
+        "any_error_rate_micro": 0.5815
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 97,
+        "fields_wrong": 44,
+        "fields_omitted": 44,
+        "correctness_rate_micro": 0.5243,
+        "wrong_value_rate_micro": 0.2378,
+        "omission_rate_micro": 0.2378,
+        "any_error_rate_micro": 0.4757
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 139,
+        "fields_wrong": 11,
+        "fields_omitted": 95,
+        "correctness_rate_micro": 0.5673,
+        "wrong_value_rate_micro": 0.0449,
+        "omission_rate_micro": 0.3878,
+        "any_error_rate_micro": 0.4327
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2160,
+        "fields_correct": 1920,
+        "fields_wrong": 231,
+        "fields_omitted": 9,
+        "correctness_rate_micro": 0.8889,
+        "wrong_value_rate_micro": 0.1069,
+        "omission_rate_micro": 0.0042,
+        "any_error_rate_micro": 0.1111
+      },
+      "sov": {
+        "fields_scored": 651,
+        "fields_correct": 607,
+        "fields_wrong": 43,
+        "fields_omitted": 1,
+        "correctness_rate_micro": 0.9324,
+        "wrong_value_rate_micro": 0.0661,
+        "omission_rate_micro": 0.0015,
+        "any_error_rate_micro": 0.0676
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 394,
+        "fields_wrong": 30,
+        "fields_omitted": 16,
+        "correctness_rate_micro": 0.8955,
+        "wrong_value_rate_micro": 0.0682,
+        "omission_rate_micro": 0.0364,
+        "any_error_rate_micro": 0.1045
+      }
+    }
+  },
+  "sonnet": {
+    "overall": {
+      "fields_scored": 5866,
+      "fields_correct": 4155,
+      "fields_wrong": 579,
+      "fields_omitted": 1132,
+      "correctness_rate_micro": 0.7083,
+      "wrong_value_rate_micro": 0.0987,
+      "omission_rate_micro": 0.193,
+      "any_error_rate_micro": 0.2917
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 807,
+        "fields_wrong": 75,
+        "fields_omitted": 732,
+        "correctness_rate_micro": 0.5,
+        "wrong_value_rate_micro": 0.0465,
+        "omission_rate_micro": 0.4535,
+        "any_error_rate_micro": 0.5
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 167,
+        "fields_wrong": 10,
+        "fields_omitted": 222,
+        "correctness_rate_micro": 0.4185,
+        "wrong_value_rate_micro": 0.0251,
+        "omission_rate_micro": 0.5564,
+        "any_error_rate_micro": 0.5815
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 106,
+        "fields_wrong": 54,
+        "fields_omitted": 25,
+        "correctness_rate_micro": 0.573,
+        "wrong_value_rate_micro": 0.2919,
+        "omission_rate_micro": 0.1351,
+        "any_error_rate_micro": 0.427
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 125,
+        "fields_wrong": 16,
+        "fields_omitted": 104,
+        "correctness_rate_micro": 0.5102,
+        "wrong_value_rate_micro": 0.0653,
+        "omission_rate_micro": 0.4245,
+        "any_error_rate_micro": 0.4898
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2280,
+        "fields_correct": 1942,
+        "fields_wrong": 338,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.8518,
+        "wrong_value_rate_micro": 0.1482,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.1482
+      },
+      "sov": {
+        "fields_scored": 633,
+        "fields_correct": 551,
+        "fields_wrong": 54,
+        "fields_omitted": 28,
+        "correctness_rate_micro": 0.8705,
+        "wrong_value_rate_micro": 0.0853,
+        "omission_rate_micro": 0.0442,
+        "any_error_rate_micro": 0.1295
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 401,
+        "fields_wrong": 32,
+        "fields_omitted": 7,
+        "correctness_rate_micro": 0.9114,
+        "wrong_value_rate_micro": 0.0727,
+        "omission_rate_micro": 0.0159,
+        "any_error_rate_micro": 0.0886
+      }
+    }
+  },
+  "sonnet_high": {
+    "overall": {
+      "fields_scored": 5671,
+      "fields_correct": 4103,
+      "fields_wrong": 456,
+      "fields_omitted": 1112,
+      "correctness_rate_micro": 0.7235,
+      "wrong_value_rate_micro": 0.0804,
+      "omission_rate_micro": 0.1961,
+      "any_error_rate_micro": 0.2765
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 820,
+        "fields_wrong": 76,
+        "fields_omitted": 718,
+        "correctness_rate_micro": 0.5081,
+        "wrong_value_rate_micro": 0.0471,
+        "omission_rate_micro": 0.4449,
+        "any_error_rate_micro": 0.4919
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 167,
+        "fields_wrong": 10,
+        "fields_omitted": 222,
+        "correctness_rate_micro": 0.4185,
+        "wrong_value_rate_micro": 0.0251,
+        "omission_rate_micro": 0.5564,
+        "any_error_rate_micro": 0.5815
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 103,
+        "fields_wrong": 47,
+        "fields_omitted": 35,
+        "correctness_rate_micro": 0.5568,
+        "wrong_value_rate_micro": 0.2541,
+        "omission_rate_micro": 0.1892,
+        "any_error_rate_micro": 0.4432
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 129,
+        "fields_wrong": 17,
+        "fields_omitted": 99,
+        "correctness_rate_micro": 0.5265,
+        "wrong_value_rate_micro": 0.0694,
+        "omission_rate_micro": 0.4041,
+        "any_error_rate_micro": 0.4735
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2112,
+        "fields_correct": 1873,
+        "fields_wrong": 239,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.8868,
+        "wrong_value_rate_micro": 0.1132,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.1132
+      },
+      "sov": {
+        "fields_scored": 606,
+        "fields_correct": 553,
+        "fields_wrong": 35,
+        "fields_omitted": 18,
+        "correctness_rate_micro": 0.9125,
+        "wrong_value_rate_micro": 0.0578,
+        "omission_rate_micro": 0.0297,
+        "any_error_rate_micro": 0.0875
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 402,
+        "fields_wrong": 32,
+        "fields_omitted": 6,
+        "correctness_rate_micro": 0.9136,
+        "wrong_value_rate_micro": 0.0727,
+        "omission_rate_micro": 0.0136,
+        "any_error_rate_micro": 0.0864
+      }
+    }
+  },
+  "sonnet_xhigh": {
+    "overall": {
+      "fields_scored": 4998,
+      "fields_correct": 3621,
+      "fields_wrong": 275,
+      "fields_omitted": 1102,
+      "correctness_rate_micro": 0.7245,
+      "wrong_value_rate_micro": 0.055,
+      "omission_rate_micro": 0.2205,
+      "any_error_rate_micro": 0.2755
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 812,
+        "fields_wrong": 75,
+        "fields_omitted": 727,
+        "correctness_rate_micro": 0.5031,
+        "wrong_value_rate_micro": 0.0465,
+        "omission_rate_micro": 0.4504,
+        "any_error_rate_micro": 0.4969
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 167,
+        "fields_wrong": 10,
+        "fields_omitted": 222,
+        "correctness_rate_micro": 0.4185,
+        "wrong_value_rate_micro": 0.0251,
+        "omission_rate_micro": 0.5564,
+        "any_error_rate_micro": 0.5815
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 102,
+        "fields_wrong": 53,
+        "fields_omitted": 30,
+        "correctness_rate_micro": 0.5514,
+        "wrong_value_rate_micro": 0.2865,
+        "omission_rate_micro": 0.1622,
+        "any_error_rate_micro": 0.4486
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 129,
+        "fields_wrong": 14,
+        "fields_omitted": 102,
+        "correctness_rate_micro": 0.5265,
+        "wrong_value_rate_micro": 0.0571,
+        "omission_rate_micro": 0.4163,
+        "any_error_rate_micro": 0.4735
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 1626,
+        "fields_correct": 1559,
+        "fields_wrong": 67,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.9588,
+        "wrong_value_rate_micro": 0.0412,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0412
+      },
+      "sov": {
+        "fields_scored": 579,
+        "fields_correct": 546,
+        "fields_wrong": 33,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.943,
+        "wrong_value_rate_micro": 0.057,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.057
+      },
+      "driver_schedule": {
+        "fields_scored": 280,
+        "fields_correct": 250,
+        "fields_wrong": 23,
+        "fields_omitted": 7,
+        "correctness_rate_micro": 0.8929,
+        "wrong_value_rate_micro": 0.0821,
+        "omission_rate_micro": 0.025,
+        "any_error_rate_micro": 0.1071
+      }
+    }
+  },
+  "gemini_pro": {
+    "overall": {
+      "fields_scored": 5867,
+      "fields_correct": 4513,
+      "fields_wrong": 230,
+      "fields_omitted": 1124,
+      "correctness_rate_micro": 0.7692,
+      "wrong_value_rate_micro": 0.0392,
+      "omission_rate_micro": 0.1916,
+      "any_error_rate_micro": 0.2308
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 856,
+        "fields_wrong": 56,
+        "fields_omitted": 702,
+        "correctness_rate_micro": 0.5304,
+        "wrong_value_rate_micro": 0.0347,
+        "omission_rate_micro": 0.4349,
+        "any_error_rate_micro": 0.4696
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 163,
+        "fields_wrong": 10,
+        "fields_omitted": 226,
+        "correctness_rate_micro": 0.4085,
+        "wrong_value_rate_micro": 0.0251,
+        "omission_rate_micro": 0.5664,
+        "any_error_rate_micro": 0.5915
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 91,
+        "fields_wrong": 30,
+        "fields_omitted": 64,
+        "correctness_rate_micro": 0.4919,
+        "wrong_value_rate_micro": 0.1622,
+        "omission_rate_micro": 0.3459,
+        "any_error_rate_micro": 0.5081
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 146,
+        "fields_wrong": 8,
+        "fields_omitted": 91,
+        "correctness_rate_micro": 0.5959,
+        "wrong_value_rate_micro": 0.0327,
+        "omission_rate_micro": 0.3714,
+        "any_error_rate_micro": 0.4041
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2250,
+        "fields_correct": 2183,
+        "fields_wrong": 59,
+        "fields_omitted": 8,
+        "correctness_rate_micro": 0.9702,
+        "wrong_value_rate_micro": 0.0262,
+        "omission_rate_micro": 0.0036,
+        "any_error_rate_micro": 0.0298
+      },
+      "sov": {
+        "fields_scored": 696,
+        "fields_correct": 647,
+        "fields_wrong": 41,
+        "fields_omitted": 8,
+        "correctness_rate_micro": 0.9296,
+        "wrong_value_rate_micro": 0.0589,
+        "omission_rate_micro": 0.0115,
+        "any_error_rate_micro": 0.0704
+      },
+      "driver_schedule": {
+        "fields_scored": 408,
+        "fields_correct": 371,
+        "fields_wrong": 26,
+        "fields_omitted": 11,
+        "correctness_rate_micro": 0.9093,
+        "wrong_value_rate_micro": 0.0637,
+        "omission_rate_micro": 0.027,
+        "any_error_rate_micro": 0.0907
+      }
+    }
+  },
+  "gemini_pro_high": {
+    "overall": {
+      "fields_scored": 5875,
+      "fields_correct": 4451,
+      "fields_wrong": 309,
+      "fields_omitted": 1115,
+      "correctness_rate_micro": 0.7576,
+      "wrong_value_rate_micro": 0.0526,
+      "omission_rate_micro": 0.1898,
+      "any_error_rate_micro": 0.2424
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 857,
+        "fields_wrong": 57,
+        "fields_omitted": 700,
+        "correctness_rate_micro": 0.531,
+        "wrong_value_rate_micro": 0.0353,
+        "omission_rate_micro": 0.4337,
+        "any_error_rate_micro": 0.469
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 164,
+        "fields_wrong": 9,
+        "fields_omitted": 226,
+        "correctness_rate_micro": 0.411,
+        "wrong_value_rate_micro": 0.0226,
+        "omission_rate_micro": 0.5664,
+        "any_error_rate_micro": 0.589
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 87,
+        "fields_wrong": 32,
+        "fields_omitted": 66,
+        "correctness_rate_micro": 0.4703,
+        "wrong_value_rate_micro": 0.173,
+        "omission_rate_micro": 0.3568,
+        "any_error_rate_micro": 0.5297
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 142,
+        "fields_wrong": 12,
+        "fields_omitted": 91,
+        "correctness_rate_micro": 0.5796,
+        "wrong_value_rate_micro": 0.049,
+        "omission_rate_micro": 0.3714,
+        "any_error_rate_micro": 0.4204
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2226,
+        "fields_correct": 2104,
+        "fields_wrong": 122,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.9452,
+        "wrong_value_rate_micro": 0.0548,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0548
+      },
+      "sov": {
+        "fields_scored": 696,
+        "fields_correct": 647,
+        "fields_wrong": 49,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.9296,
+        "wrong_value_rate_micro": 0.0704,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0704
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 394,
+        "fields_wrong": 28,
+        "fields_omitted": 18,
+        "correctness_rate_micro": 0.8955,
+        "wrong_value_rate_micro": 0.0636,
+        "omission_rate_micro": 0.0409,
+        "any_error_rate_micro": 0.1045
+      }
+    }
+  },
+  "gemini_pro_xhigh": {
+    "overall": {
+      "fields_scored": 5815,
+      "fields_correct": 4373,
+      "fields_wrong": 315,
+      "fields_omitted": 1127,
+      "correctness_rate_micro": 0.752,
+      "wrong_value_rate_micro": 0.0542,
+      "omission_rate_micro": 0.1938,
+      "any_error_rate_micro": 0.248
+    },
+    "by_category": {
+      "acord_form": {
+        "fields_scored": 1614,
+        "fields_correct": 860,
+        "fields_wrong": 60,
+        "fields_omitted": 694,
+        "correctness_rate_micro": 0.5328,
+        "wrong_value_rate_micro": 0.0372,
+        "omission_rate_micro": 0.43,
+        "any_error_rate_micro": 0.4672
+      },
+      "narrative": {
+        "fields_scored": 399,
+        "fields_correct": 163,
+        "fields_wrong": 10,
+        "fields_omitted": 226,
+        "correctness_rate_micro": 0.4085,
+        "wrong_value_rate_micro": 0.0251,
+        "omission_rate_micro": 0.5664,
+        "any_error_rate_micro": 0.5915
+      },
+      "dec_page": {
+        "fields_scored": 185,
+        "fields_correct": 87,
+        "fields_wrong": 33,
+        "fields_omitted": 65,
+        "correctness_rate_micro": 0.4703,
+        "wrong_value_rate_micro": 0.1784,
+        "omission_rate_micro": 0.3514,
+        "any_error_rate_micro": 0.5297
+      },
+      "engineering_report": {
+        "fields_scored": 20,
+        "fields_correct": 20,
+        "fields_wrong": 0,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 1.0,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0
+      },
+      "financial_statement": {
+        "fields_scored": 245,
+        "fields_correct": 147,
+        "fields_wrong": 4,
+        "fields_omitted": 94,
+        "correctness_rate_micro": 0.6,
+        "wrong_value_rate_micro": 0.0163,
+        "omission_rate_micro": 0.3837,
+        "any_error_rate_micro": 0.4
+      },
+      "workbook": {
+        "fields_scored": 50,
+        "fields_correct": 36,
+        "fields_wrong": 0,
+        "fields_omitted": 14,
+        "correctness_rate_micro": 0.72,
+        "wrong_value_rate_micro": 0.0,
+        "omission_rate_micro": 0.28,
+        "any_error_rate_micro": 0.28
+      },
+      "loss_run": {
+        "fields_scored": 2166,
+        "fields_correct": 2028,
+        "fields_wrong": 116,
+        "fields_omitted": 22,
+        "correctness_rate_micro": 0.9363,
+        "wrong_value_rate_micro": 0.0536,
+        "omission_rate_micro": 0.0102,
+        "any_error_rate_micro": 0.0637
+      },
+      "sov": {
+        "fields_scored": 696,
+        "fields_correct": 643,
+        "fields_wrong": 53,
+        "fields_omitted": 0,
+        "correctness_rate_micro": 0.9239,
+        "wrong_value_rate_micro": 0.0761,
+        "omission_rate_micro": 0.0,
+        "any_error_rate_micro": 0.0761
+      },
+      "driver_schedule": {
+        "fields_scored": 440,
+        "fields_correct": 389,
+        "fields_wrong": 39,
+        "fields_omitted": 12,
+        "correctness_rate_micro": 0.8841,
+        "wrong_value_rate_micro": 0.0886,
+        "omission_rate_micro": 0.0273,
+        "any_error_rate_micro": 0.1159
+      }
+    }
+  }
+}

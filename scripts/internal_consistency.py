@@ -5,7 +5,7 @@ The hallucination analyzer already runs `check_arithmetic` on every doc:
 - SOV: sum of per-location TIVs vs reported `totals.tiv`
 - Loss run: sum of claim incurred vs reported `grand_totals.incurred`
 
-When these mismatch by >2% the doc is flagged with an arithmetic_error.
+When these mismatch at cents precision the doc is flagged with an arithmetic_error.
 This is purely an internal-consistency check: both numbers come from the
 extraction itself. Ground truth doesn't enter. So this signal survives
 the "your GT is synthetic / your generator is biased" critique entirely.

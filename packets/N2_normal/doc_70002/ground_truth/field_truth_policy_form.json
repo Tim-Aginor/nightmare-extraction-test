@@ -1,0 +1,171 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "policy_number_property": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "form_number": {
+      "value": "CP 00 10 10 12"
+    },
+    "edition": {
+      "value": "10 12"
+    },
+    "lob": {
+      "value": "property"
+    }
+  },
+  "doc_type": "policy_form",
+  "section_titles": [
+    "A. COVERAGE",
+    "A.2. PROPERTY NOT COVERED",
+    "A.4. ADDITIONAL COVERAGES",
+    "A.5. COVERAGE EXTENSIONS",
+    "B. EXCLUSIONS AND LIMITATIONS",
+    "C. LIMITS OF INSURANCE",
+    "D. DEDUCTIBLE",
+    "E. LOSS CONDITIONS",
+    "F. ADDITIONAL CONDITIONS",
+    "G. OPTIONAL COVERAGES",
+    "H. DEFINITIONS"
+  ],
+  "definition_terms": [
+    "Electronic Data",
+    "Fungus",
+    "Pollutants",
+    "Specified Causes Of Loss",
+    "Stock"
+  ],
+  "endorsement_schedule": [
+    {
+      "form_number": "CP 15 08",
+      "edition": "10 12",
+      "title": "Business Income And Extra Expense Coverage Form"
+    },
+    {
+      "form_number": "CP 04 05",
+      "edition": "10 12",
+      "title": "Ordinance Or Law Coverage"
+    },
+    {
+      "form_number": "CP 04 17",
+      "edition": "10 12",
+      "title": "Utility Services \u2014 Direct Damage"
+    },
+    {
+      "form_number": "CP 99 30",
+      "edition": "07 88",
+      "title": "Agreed Value"
+    },
+    {
+      "form_number": "CP 04 09",
+      "edition": "10 12",
+      "title": "Equipment Breakdown Coverage"
+    }
+  ],
+  "endorsement_details": [
+    {
+      "form_number": "CP 15 08",
+      "edition": "10 12",
+      "title": "Business Income And Extra Expense Coverage Form",
+      "named_insured": "Buckeye Industrial Properties, LLC",
+      "policy_number": "CP-BIP-2025-4420"
+    },
+    {
+      "form_number": "CP 04 05",
+      "edition": "10 12",
+      "title": "Ordinance Or Law Coverage",
+      "named_insured": "Buckeye Industrial Properties, LLC",
+      "policy_number": "CP-BIP-2025-4420"
+    },
+    {
+      "form_number": "CP 04 17",
+      "edition": "10 12",
+      "title": "Utility Services \u2014 Direct Damage",
+      "named_insured": "Buckeye Industrial Properties, LLC",
+      "policy_number": "CP-BIP-2025-4420"
+    },
+    {
+      "form_number": "CP 99 30",
+      "edition": "07 88",
+      "title": "Agreed Value",
+      "named_insured": "Buckeye Industrial Properties, LLC",
+      "policy_number": "CP-BIP-2025-4420"
+    },
+    {
+      "form_number": "CP 04 09",
+      "edition": "10 12",
+      "title": "Equipment Breakdown Coverage",
+      "named_insured": "Buckeye Industrial Properties, LLC",
+      "policy_number": "CP-BIP-2025-4420"
+    }
+  ],
+  "table_of_contents": [
+    {
+      "title": "COMMON POLICY DECLARATIONS"
+    },
+    {
+      "title": "COMMON POLICY CONDITIONS"
+    },
+    {
+      "title": "A. COVERAGE"
+    },
+    {
+      "title": "A.2. PROPERTY NOT COVERED"
+    },
+    {
+      "title": "A.4. ADDITIONAL COVERAGES"
+    },
+    {
+      "title": "A.5. COVERAGE EXTENSIONS"
+    },
+    {
+      "title": "B. EXCLUSIONS AND LIMITATIONS"
+    },
+    {
+      "title": "C. LIMITS OF INSURANCE"
+    },
+    {
+      "title": "D. DEDUCTIBLE"
+    },
+    {
+      "title": "E. LOSS CONDITIONS"
+    },
+    {
+      "title": "F. ADDITIONAL CONDITIONS"
+    },
+    {
+      "title": "G. OPTIONAL COVERAGES"
+    },
+    {
+      "title": "H. DEFINITIONS"
+    },
+    {
+      "title": "ENDORSEMENT SCHEDULE"
+    }
+  ]
+}

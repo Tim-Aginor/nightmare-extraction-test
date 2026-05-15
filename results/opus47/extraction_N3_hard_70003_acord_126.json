@@ -1,0 +1,110 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": "2016/03",
+    "form_title": "Commercial General Liability Section"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-HCHP-2025-3351",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "sic_code": "7011",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": 1000000,
+      "deductible": 5000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Rented Premises (Ea Occurrence)",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Med Exp (Any One Person)",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Adv Injury",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products / Completed Operations Aggregate",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "occurrence": "X",
+    "claims_made": "unchecked",
+    "work_near_bodies_of_water": "No",
+    "work_performed_by_subcontractors": "No",
+    "underground_storage_hazardous_substances": "No",
+    "demolition_work": "No",
+    "products_manufactured_sold_distributed": "No",
+    "completed_operations_exposures": "No",
+    "operations_outside_united_states": "No",
+    "operations_involving_hazardous_materials": "No",
+    "employee_benefits_liability": "unchecked",
+    "employment_practices_liability": "unchecked",
+    "liquor_liability": "unchecked",
+    "stop_gap_employers_liability": "unchecked",
+    "pollution_liability": "unchecked",
+    "contractual_liability": "X",
+    "product_withdrawal_expense": "unchecked",
+    "broad_form_property_damage": "unchecked",
+    "electronic_data_liability": "unchecked",
+    "fire_legal_liability": "unchecked",
+    "hired_non_owned_auto": "X",
+    "medical_payments": "unchecked"
+  },
+  "additional_fields": {
+    "classification_1_class_code": "66561",
+    "classification_1_description": "Hotels - NOC",
+    "classification_1_premium_basis": "Revenue",
+    "classification_1_exposure": 32000000,
+    "classification_1_rate": 1.95,
+    "classification_1_premium": 62400,
+    "classification_2_class_code": "66572",
+    "classification_2_description": "Restaurants or Taverns - NOC",
+    "classification_2_premium_basis": "Sales",
+    "classification_2_exposure": 10000000,
+    "classification_2_rate": 4.25,
+    "classification_2_premium": 42500,
+    "total_premium": 104900,
+    "tria_surcharge": 3525,
+    "total_with_tria": 108425,
+    "deductible_applies_to": "Per Occurrence",
+    "form_date": "2026-03-14"
+  },
+  "remarks": null
+}

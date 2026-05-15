@@ -1,0 +1,71 @@
+{
+  "document_info": {
+    "document_type": "broker narrative / supplemental document extraction from Excel schedules",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property operations with warehouse, manufacturing, and office locations",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Prior insurance history provided for 2024; policy number CP00007001; 0 claims; no cancellation."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations shown in prior insurance history from 2021 through 2024",
+      "No claims reported in 2022, 2023, and 2024",
+      "Nine scheduled locations all within Ohio",
+      "Mix of warehouse, manufacturing, and office occupancies"
+    ],
+    "concerns": [
+      "One claim reported in 2021",
+      "Large industrial footprint across multiple leased and owned locations",
+      "Manufacturing occupancy present at two locations",
+      "One premises record has missing own/lease information"
+    ],
+    "loss_history_summary": "Prior insurance history shows 0 claims in 2024, 2023, and 2022, and 1 claim in 2021. No cancellations are indicated for any listed year."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Named insured is Buckeye Industrial Properties, LLC with entity schedule including named insured, loss payee, additional named insureds, mortgagee, and certificate holders. Prior insurance history is provided for 2021 through 2024. Premises schedule lists nine Ohio locations with warehouse, manufacturing, and office occupancies.",
+    "operations_description": "Premises schedule includes warehouse locations at 6500 Alum Creek Drive, 6600 Alum Creek Drive, 4800 Tiedeman Road, 11600 Mosteller Road, 3200 Hill Avenue, and 1475 Corporate Woods Parkway; manufacturing locations at 2100 Kuntz Road and 3250 Hill Avenue; and an office at 250 Civic Center Drive, Suite 600. Square footage ranges from 8500 to 425000.",
+    "safety_programs": null,
+    "claims_narrative": "Insurance history reflects 1 claim in 2021 and 0 claims in 2022, 2023, and 2024. No cancellations are shown."
+  }
+}

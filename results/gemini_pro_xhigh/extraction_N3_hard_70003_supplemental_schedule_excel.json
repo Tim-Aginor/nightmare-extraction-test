@@ -1,0 +1,53 @@
+{
+  "document_info": {
+    "document_type": null,
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [
+      "Policy cancelled in 2022 by Zurich Insurance Group.",
+      "Increase in claim frequency in 2024 with 11 claims."
+    ],
+    "loss_history_summary": "Prior insurance history from 2020 to 2024 shows a total of 31 claims. Annual premiums historically ranged from $580k to $630k. Prior carriers included Markel, Zurich, Chubb, and EMPLOYERS. A policy cancellation occurred in 2022."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "2024: 11 claims. 2023 (Markel Corporation): 619820.26 premium, 3 claims. 2022 (Zurich Insurance Group): 607294.45 premium, 6 claims, Cancelled. 2021 (Chubb Limited): 630843.20 premium, 9 claims. 2020 (EMPLOYERS Insurance Group): 580805.53 premium, 2 claims."
+  }
+}

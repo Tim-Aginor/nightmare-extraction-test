@@ -1,0 +1,91 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": null,
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AG-4415195"
+  },
+  "document_date": "2025-06-18",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 14110000,
+      "contents_value": 17954000,
+      "bi_value": null,
+      "tiv": null
+    }
+  ],
+  "property_limits": {
+    "building": 14110000,
+    "contents": 17954000,
+    "business_income": null
+  },
+  "property_deductible": null,
+  "insurer_panel": [
+    {
+      "carrier": "Standard Insurance Company",
+      "naic": "29068"
+    },
+    {
+      "carrier": "Standard Casualty Company",
+      "naic": "21903"
+    },
+    {
+      "carrier": "Standard Casualty Company",
+      "naic": "25038"
+    },
+    {
+      "carrier": "Standard Assurance Company",
+      "naic": "21286"
+    },
+    {
+      "carrier": "Standard Surety Company",
+      "naic": "21132"
+    },
+    {
+      "carrier": "Standard Indemnity Company",
+      "naic": "21158"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "property_form_basic",
+      "value": "No"
+    },
+    {
+      "field": "property_form_broad",
+      "value": "No"
+    },
+    {
+      "field": "property_form_special",
+      "value": "Yes"
+    }
+  ],
+  "remarks": null
+}

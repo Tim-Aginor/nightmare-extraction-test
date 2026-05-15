@@ -1,0 +1,301 @@
+{
+  "binder_date": "2025-06-01",
+  "binder_number": "BND-32017-7912",
+  "checkboxes": [
+    {
+      "field": "Property Coverage - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Property Coverage - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Property Coverage - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "General Liability - Occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "General Liability - Claims-Made",
+      "value": "No"
+    },
+    {
+      "field": "Umbrella / Excess Liability - Occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella / Excess Liability - Claims-Made",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - Per Statute",
+      "value": "Yes"
+    }
+  ],
+  "coinsurance_property": 80,
+  "endorsements": [
+    {
+      "coverage": "Workers' Compensation",
+      "form_number": "BWC U-153",
+      "title": "Ohio Workers' Compensation Application"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_number": "WC 00 03 04A",
+      "title": "Alternate Employer Endorsement"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_number": "BWC-C5",
+      "title": "Ohio Employer Application for Coverage"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 00 01 04 13",
+      "title": "Commercial General Liability Coverage Form"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors (Completed Ops)"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 20 26 04 13",
+      "title": "Additional Insured - Designated Person or Organization"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 20 33 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 21 49 09 99",
+      "title": "Total Pollution Exclusion with a Hostile Fire Exception"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 00 01 10 13",
+      "title": "Business Auto Coverage Form"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 20 48 10 13",
+      "title": "Designated Insured for Covered Autos Liability Coverage"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "MCS-90 01 08",
+      "title": "Endorsement for Motor Carrier Policies of Insurance for Public Liability"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 99 10 10 13",
+      "title": "Drive Other Car Coverage - Broadened Coverage for Named Individuals"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 99 54 10 13",
+      "title": "Hired Auto Physical Damage Coverage"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 04 49 10 13",
+      "title": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 99 48 03 06",
+      "title": "Pollution Liability - Broadened Coverage for Covered Autos"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 01 40 07 06",
+      "title": "Ordinance or Law Coverage"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_number": "CU 00 01 04 13",
+      "title": "Commercial Umbrella Liability Coverage Form"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_number": "CU 21 19 01 15",
+      "title": "Underlying Insurance Schedule"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_number": "CU 21 32 04 13",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_number": "CU 24 01 04 13",
+      "title": "Designated Underlying Insurance Endorsement"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_number": "CU 21 36 04 13",
+      "title": "Exclusion of Specific Accidents, Products, Work or Locations"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_number": "CU 21 34 04 13",
+      "title": "Following Form Endorsement - GL, Auto, EL"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "mtc",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "mtc",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "mtc",
+      "form_number": "CC 00 01 12 11",
+      "title": "Motor Truck Cargo Coverage Form"
+    },
+    {
+      "coverage": "mtc",
+      "form_number": "CC 70 02 04 13",
+      "title": "Earned Freight Coverage Endorsement"
+    },
+    {
+      "coverage": "mtc",
+      "form_number": "CC 70 06 04 13",
+      "title": "Refrigeration Breakdown Coverage Endorsement"
+    }
+  ],
+  "expiring_carriers": [
+    {
+      "carrier": "Ohio Bureau of Workers Compensation",
+      "lob": "Workers Compensation",
+      "policy_number": "BWC-7853-4607"
+    },
+    {
+      "carrier": "Hanover Insurance Group",
+      "lob": "General Liability",
+      "policy_number": "GL-0007119"
+    },
+    {
+      "carrier": "Travelers Companies",
+      "lob": "Business Auto",
+      "policy_number": "CA-4481-4587"
+    },
+    {
+      "carrier": "Zurich Insurance Group",
+      "lob": "Commercial Property",
+      "policy_number": "CP-9793-9090"
+    },
+    {
+      "carrier": "Hanover Insurance Group",
+      "lob": "Umbrella / Excess",
+      "policy_number": "CU0000526"
+    },
+    {
+      "carrier": "Zurich Insurance Group",
+      "lob": "Motor Truck Cargo",
+      "policy_number": "MT-0006135"
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 75",
+    "form_title": "Insurance Binder"
+  },
+  "form_type_property": "Special",
+  "header": {
+    "carrier_name": "Standard Insurance Company",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Transportation Insurance Specialists"
+  },
+  "limit_property_building": 54110000,
+  "limit_property_business_income": 87954000,
+  "limit_property_coinsurance": 80,
+  "limit_property_contents": 30200000,
+  "mortgagees": [
+    {
+      "address": "P.O. Box 79566, Elk Grove, CA 95624",
+      "loan_number": null,
+      "name": "Comerica Bank"
+    }
+  ],
+  "property_deductible": 50000,
+  "property_premium": null,
+  "remarks": "Description of operations: Regional trucking and freight logistics -- LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Handwritten note on page 4: \"Need docs\" dated 2025-06-18, signed M. Johnson."
+}

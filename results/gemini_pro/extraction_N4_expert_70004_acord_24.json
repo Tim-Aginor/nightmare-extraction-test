@@ -1,0 +1,95 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2009/09",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CP-4CR-1025-1981",
+    "effective_date": "2020-08-01",
+    "expiration_date": "2021-08-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "document_date": "2020-03-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15222",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    }
+  ],
+  "property_limits": {
+    "building": 10820000,
+    "contents": 18495000,
+    "business_income": 10130000
+  },
+  "property_deductible": 25000,
+  "insurer_panel": [
+    {
+      "carrier": "Hallmark Insurance Company",
+      "naic": "41837"
+    },
+    {
+      "carrier": "Hallmark Indemnity Company",
+      "naic": "41883"
+    },
+    {
+      "carrier": "Hallmark Casualty Company",
+      "naic": "41845"
+    },
+    {
+      "carrier": "Hallmark Assurance Company",
+      "naic": "42154"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Special",
+      "value": "Yes"
+    },
+    {
+      "field": "Basic",
+      "value": "No"
+    },
+    {
+      "field": "Broad",
+      "value": "No"
+    },
+    {
+      "field": "Earthquake",
+      "value": "No"
+    },
+    {
+      "field": "Wind",
+      "value": "No"
+    },
+    {
+      "field": "Flood",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

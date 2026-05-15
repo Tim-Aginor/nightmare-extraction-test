@@ -1,0 +1,195 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "policy_number_property": {
+      "value": "CP-KCB-2025-5583"
+    },
+    "policy_form_type": {
+      "value": "special"
+    },
+    "property_deductible": {
+      "value": 25000,
+      "rendered_as": "$25,000.00"
+    },
+    "cause_of_loss": {
+      "value": "special"
+    },
+    "coinsurance_property": {
+      "value": 80.0
+    },
+    "naic_code": {
+      "value": "28339"
+    },
+    "cancellation_notice_days": {
+      "value": 30
+    },
+    "location_count": {
+      "value": 5
+    },
+    "loan_number": {
+      "value": "LN-609402"
+    }
+  },
+  "doc_type": "acord_28",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15222",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2002,
+      "stories": 1,
+      "square_feet": 18000,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 1260000,
+      "bi_value": 2340000,
+      "tiv": 3600000,
+      "rendered_values": {
+        "building_value": "\u2014",
+        "contents_value": "$1,260,000.00",
+        "bi_value": "$2,340,000.00",
+        "tiv": "$3,600,000.00"
+      }
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 1995,
+      "stories": 1,
+      "square_feet": 65000,
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 5200000,
+      "contents_value": 8450000,
+      "bi_value": 3900000,
+      "tiv": 17550000,
+      "rendered_values": {
+        "building_value": "$5,200,000.00",
+        "contents_value": "$8,450,000.00",
+        "bi_value": "$3,900,000.00",
+        "tiv": "$17,550,000.00"
+      }
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Manufacturing",
+      "year_built": 1988,
+      "stories": 1,
+      "square_feet": 32000,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 2240000,
+      "contents_value": 3840000,
+      "bi_value": 1920000,
+      "tiv": 8000000,
+      "rendered_values": {
+        "building_value": "$2,240,000.00",
+        "contents_value": "$3,840,000.00",
+        "bi_value": "$1,920,000.00",
+        "tiv": "$8,000,000.00"
+      }
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "state": "PA",
+      "zip_code": "15090",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Office",
+      "year_built": 2010,
+      "stories": 2,
+      "square_feet": 8500,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 1700000,
+      "contents_value": 425000,
+      "bi_value": 850000,
+      "tiv": 2975000,
+      "rendered_values": {
+        "building_value": "$1,700,000.00",
+        "contents_value": "$425,000.00",
+        "bi_value": "$850,000.00",
+        "tiv": "$2,975,000.00"
+      }
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "100 Dutilh Road",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "zip_code": "16066",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 28000,
+      "protection_class": 1,
+      "sprinklered": false,
+      "building_value": 1680000,
+      "contents_value": 4480000,
+      "bi_value": 1120000,
+      "tiv": 7280000,
+      "rendered_values": {
+        "building_value": "$1,680,000.00",
+        "contents_value": "$4,480,000.00",
+        "bi_value": "$1,120,000.00",
+        "tiv": "$7,280,000.00"
+      }
+    }
+  ],
+  "location_totals": {
+    "total_building": 10820000.0,
+    "total_contents": 18455000.0,
+    "total_bi": 10130000.0,
+    "total_tiv": 39405000.0
+  },
+  "interest_holders": [
+    {
+      "type": "First Mortgagee",
+      "name": "KeyBank National Association",
+      "address": "540 School Street",
+      "city_state_zip": "Pittsburgh, PA 30078"
+    }
+  ]
+}

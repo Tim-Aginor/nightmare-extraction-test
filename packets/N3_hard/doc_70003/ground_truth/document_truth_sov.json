@@ -1,0 +1,26 @@
+{
+  "document_type": "sov",
+  "template": "hallmark_style",
+  "seed": 70003,
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800, Austin, TX, 78701",
+    "street": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip_code": "78701"
+  },
+  "carrier": "Hallmark Insurance Group",
+  "policy_period": {
+    "start": "2025-05-01",
+    "end": "2026-05-01"
+  },
+  "policy_numbers": {
+    "property": "CP-HCHP-2025-3352"
+  },
+  "summary": {
+    "location_count": 8,
+    "total_tiv": 168230000
+  },
+  "page_count": 1
+}

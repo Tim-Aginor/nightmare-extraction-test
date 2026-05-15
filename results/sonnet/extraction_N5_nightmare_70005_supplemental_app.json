@@ -1,0 +1,98 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Margaret Sullivan",
+    "recipient": "Standard Insurance Company"
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": 78000000,
+    "employee_count": 537
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088013.98,
+      "notes": "Policy Number WC GLFS 2025 8820; 2024 carrier Hanover Insurance Group, 10 claims, no cancellations"
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hartford Financial Services",
+      "expiring_premium": 2071475.35,
+      "notes": "2023 carrier Hartford Financial Services, 13 claims, no cancellations"
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Auto-Owners Insurance",
+      "expiring_premium": 2014585.01,
+      "notes": "2022 carrier Auto-Owners Insurance, 12 claims, no cancellations"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "All locations are sprinklered",
+      "GPS tracking and ELD devices installed in all vehicles",
+      "MVR checks performed on all drivers at least annually",
+      "CDL licenses verified for all drivers at time of hire",
+      "Valid DOT number and MC authority maintained",
+      "Hired auto / non-owned auto exposure covered",
+      "38 years in business with 25 years under current management",
+      "No cancellations in prior insurance history (2022-2024)",
+      "Drivers in compliance with FMCSA Hours-of-Service (HOS) regulations"
+    ],
+    "concerns": [
+      "No written contracts with all subcontractors",
+      "CSA BASIC score in Crash Indicator is above intervention threshold (currently being addressed)",
+      "DOT violations or out-of-service orders in the past 3 years",
+      "CSA BASIC score in Vehicle Maintenance is within 10% of intervention threshold",
+      "Handwritten date discrepancy on signature page (6/18/2025 vs. 03/15/2026)",
+      "Note on prior insurance history table: 'Need docs'",
+      "Sleeper-cab tractors used for long-haul operations",
+      "Refrigerated reefer units carrying perishable freight"
+    ],
+    "loss_history_summary": "2024: Hanover Insurance Group, 10 claims, premium $2,088,013.98, no cancellations. 2023: Hartford Financial Services, 13 claims, premium $2,071,475.35, no cancellations. 2022: Auto-Owners Insurance, 12 claims, premium $2,014,585.01, no cancellations."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": "Interstate (FMCSA) only"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Primary commodities hauled: Dry van \u2014 general freight, packaged goods; Flatbed \u2014 steel, lumber, machinery. ICC operating authority: Interstate (FMCSA) only.",
+    "safety_programs": "Formal safety program in place. GPS tracking and ELD devices installed in all vehicles. MVR checks performed on all drivers at least annually. CDL licenses verified for all drivers at time of hire. Drivers in compliance with FMCSA Hours-of-Service (HOS) regulations.",
+    "claims_narrative": "Three-year loss history: 2024 \u2014 10 claims, $2,088,013.98 premium (Hanover Insurance Group); 2023 \u2014 13 claims, $2,071,475.35 premium (Hartford Financial Services); 2022 \u2014 12 claims, $2,014,585.01 premium (Auto-Owners Insurance). No cancellations in any year. CSA BASIC Crash Indicator score is above intervention threshold and currently being addressed."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "document_info": {
+    "document_type": "PCRB Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Joan Ortiz, Claims Processing Center",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Construction contractor with payroll classifications for carpentry, electrical wiring, plumbing, masonry, interior painting, project management/supervision, and clerical office employees.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Policy number WC-KCB-2025-5580; Risk ID 491498-1604; Pennsylvania Compensation Rating Bureau Large Risk rating plan; valuation/effective date 2026-03-15; final experience modification factor 0.86."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor calculated at 0.86."
+    ],
+    "concerns": [
+      "The three-year experience period reflects 20 claims with aggregate total incurred losses of 546731."
+    ],
+    "loss_history_summary": "2021-2022: 10 claims, total incurred 240694; 2022-2023: 3 claims, total incurred 115267; 2023-2024: 7 claims, total incurred 190770. Aggregate primary losses were 335671, aggregate excess losses were 211060, and aggregate total incurred losses were 546731."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

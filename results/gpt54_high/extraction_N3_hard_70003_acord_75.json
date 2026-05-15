@@ -1,0 +1,188 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "INSURANCE BINDER"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2600",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null
+  },
+  "binder_number": "BND-2025-1988",
+  "binder_date": "2025-02-16",
+  "expiring_carriers": [
+    {
+      "lob": "Workers' Compensation",
+      "carrier": "Travelers Companies",
+      "policy_number": null
+    },
+    {
+      "lob": "General Liability",
+      "carrier": "Zurich Insurance Group",
+      "policy_number": null
+    },
+    {
+      "lob": "Commercial Property",
+      "carrier": "Auto-Owners Insurance",
+      "policy_number": "CPK0323-001"
+    }
+  ],
+  "endorsements": [
+    {
+      "form_number": "WC 00 00 00",
+      "title": "Workers Compensation and Employers Liability Insurance Policy",
+      "coverage": "Workers Compensation"
+    },
+    {
+      "form_number": "WC 73 03 22",
+      "title": "Experience Rating Modification Factor Endorsement",
+      "coverage": "Workers Compensation"
+    },
+    {
+      "form_number": "WC 42 03 01",
+      "title": "Texas Notice of Material Change Endorsement",
+      "coverage": "Workers Compensation"
+    },
+    {
+      "form_number": "WC 42 06 03",
+      "title": "Texas Cancellation by Insured Endorsement",
+      "coverage": "Workers Compensation"
+    },
+    {
+      "form_number": "WC 00 03 13",
+      "title": "Waiver of Our Right to Recover From Others Endorsement",
+      "coverage": "Workers Compensation"
+    },
+    {
+      "form_number": "CG 00 01 04 13",
+      "title": "Commercial General Liability Coverage Form",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors - Completed Operations",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "IL 00 03 09 08",
+      "title": "Calculation of Premium",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "CG 24 04 05 09",
+      "title": "Waiver of Transfer of Rights of Recovery Against Others To Us",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income and Extra Expense Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 10 30 06 12",
+      "title": "Causes of Loss - Special Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 12 01 11 85",
+      "title": "Policy Changes",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 03 26 06 07",
+      "title": "Windstorm or Hail Percentage Deductible",
+      "coverage": "Commercial Property"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "KeyBank National Association",
+      "address": "P.O. Box 38199",
+      "loan_number": null
+    },
+    {
+      "name": "Bremer Bank, N.A.",
+      "address": "P.O. Box 25349",
+      "loan_number": null
+    },
+    {
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 55389",
+      "loan_number": null
+    }
+  ],
+  "property_premium": null,
+  "property_deductible": 25000,
+  "form_type_property": "Special",
+  "limit_property_building": 10750000,
+  "limit_property_contents": 1850000,
+  "limit_property_business_income": 850000,
+  "limit_property_coinsurance": 90,
+  "coinsurance_property": 90,
+  "checkboxes": [
+    {
+      "field": "property_basic",
+      "value": "No"
+    },
+    {
+      "field": "property_broad",
+      "value": "No"
+    },
+    {
+      "field": "property_special",
+      "value": "Yes"
+    },
+    {
+      "field": "general_liability_occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "general_liability_claims_made",
+      "value": "No"
+    },
+    {
+      "field": "workers_comp_per_statute",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. General Liability policy number shown on page 2: GL-HCHP-2025-3351. Workers Compensation policy number shown on page 2: WC-HCHP-2025-3350."
+}

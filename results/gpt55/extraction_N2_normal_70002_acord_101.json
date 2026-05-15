@@ -1,0 +1,56 @@
+{
+  "additional_remarks": [
+    {
+      "remark": "ENDORSEMENT SCHEDULE:\n1. CA 04 44 10 13 - Waiver of Transfer of Rights of Recovery Against Others to Us\n2. CG 21 39 10 93 - Contractual Liability Limitation\n3. IL 09 35 01 15 - Exclusion of Certified Acts of Terrorism\n4. WC 00 03 01A - Alternate Employer Endorsement\n5. CG 20 26 04 13 - Additional Insured - Designated Person or Organization\n6. IM 99 01 09 09 - Inland Marine Equipment Floater",
+      "section_reference": "ACORD 126 - Commercial General Liability Section"
+    },
+    {
+      "remark": "ADDITIONAL INSURED:\nNavigator Realty Management Inc. is an Additional Insured under the General Liability and Umbrella policies as required by the underlying contract.",
+      "section_reference": "ACORD 126 - Commercial General Liability Section"
+    },
+    {
+      "remark": "SPECIAL CONDITIONS:\n- Primary and Non-Contributory wording applies per policy endorsement.\n- Waiver of Subrogation applies in favor of the certificate holder as required by written contract.\n- Per Project Aggregate Limit applies as indicated on the endorsement schedule.",
+      "section_reference": "ACORD 126 - Commercial General Liability Section"
+    },
+    {
+      "remark": "LOCATION DESCRIPTIONS:\nLOC-001: Rickenbacker Logistics Center - A - 6500 Alum Creek Drive, Columbus, OH 43217 (Occupancy: Warehouse)\nLOC-002: Rickenbacker Logistics Center - B - 6600 Alum Creek Drive, Columbus, OH 43217 (Occupancy: Warehouse)\nLOC-003: Cleveland Distribution Hub - 4800 Tiedeman Road, Brooklyn, OH 44144 (Occupancy: Warehouse)\nLOC-004: Dayton Manufacturing Facility - 2100 Kuntz Road, Dayton, OH 45404 (Occupancy: Manufacturing)",
+      "section_reference": "ACORD 126 - Commercial General Liability Section"
+    },
+    {
+      "remark": "SUBCONTRACTOR REQUIREMENTS:\nAll subcontractors must maintain Commercial General Liability with limits not less than $1,000,000 per occurrence and $2,000,000 general aggregate.",
+      "section_reference": "ACORD 126 - Commercial General Liability Section"
+    },
+    {
+      "remark": "NATURE OF OPERATIONS:\nThe insured's principal operations consist of: Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio. Entity type: LLC.",
+      "section_reference": "ACORD 126 - Commercial General Liability Section"
+    }
+  ],
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "naics_code": "44251",
+    "nature_of_business": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "checkboxes": [],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 101",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "carrier_name": "Maine Employers Mutual",
+    "effective_date": "2025-09-01",
+    "expiration_date": null,
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": "CP-BIP-2025-4420",
+    "producer_code": "AC-633272",
+    "producer_name": "Midwest Property & Casualty Group"
+  },
+  "remarks": "ENDORSEMENT SCHEDULE:\n1. CA 04 44 10 13 - Waiver of Transfer of Rights of Recovery Against Others to Us\n2. CG 21 39 10 93 - Contractual Liability Limitation\n3. IL 09 35 01 15 - Exclusion of Certified Acts of Terrorism\n4. WC 00 03 01A - Alternate Employer Endorsement\n5. CG 20 26 04 13 - Additional Insured - Designated Person or Organization\n6. IM 99 01 09 09 - Inland Marine Equipment Floater\n\nADDITIONAL INSURED:\nNavigator Realty Management Inc. is an Additional Insured under the General Liability and Umbrella policies as required by the underlying contract.\n\nSPECIAL CONDITIONS:\n- Primary and Non-Contributory wording applies per policy endorsement.\n- Waiver of Subrogation applies in favor of the certificate holder as required by written contract.\n- Per Project Aggregate Limit applies as indicated on the endorsement schedule.\n\nLOCATION DESCRIPTIONS:\nLOC-001: Rickenbacker Logistics Center - A - 6500 Alum Creek Drive, Columbus, OH 43217 (Occupancy: Warehouse)\nLOC-002: Rickenbacker Logistics Center - B - 6600 Alum Creek Drive, Columbus, OH 43217 (Occupancy: Warehouse)\nLOC-003: Cleveland Distribution Hub - 4800 Tiedeman Road, Brooklyn, OH 44144 (Occupancy: Warehouse)\nLOC-004: Dayton Manufacturing Facility - 2100 Kuntz Road, Dayton, OH 45404 (Occupancy: Manufacturing)\n\nSUBCONTRACTOR REQUIREMENTS:\nAll subcontractors must maintain Commercial General Liability with limits not less than $1,000,000 per occurrence and $2,000,000 general aggregate.\n\nNATURE OF OPERATIONS:\nThe insured's principal operations consist of: Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio. Entity type: LLC."
+}

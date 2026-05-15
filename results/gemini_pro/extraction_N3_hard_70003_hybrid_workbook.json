@@ -1,0 +1,59 @@
+{
+  "document_info": {
+    "document_type": "Schedule of Values / Insurance Data",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hotel and Restaurant Operations",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 42000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "All scheduled locations are sprinklered",
+      "Strong financial equity position of 52,535,400",
+      "Majority of properties are relatively newly constructed or updated (1998-2015)"
+    ],
+    "concerns": [
+      "High frequency of Workers Compensation claims (28 claims)",
+      "Recent uptick in claims frequency with 11 claims in 2024"
+    ],
+    "loss_history_summary": "Historical losses show 28 WC claims ($415,934 incurred), 8 GL claims ($82,656 incurred), and 2 Property claims ($215,927 incurred)."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CHRT-489720",
+    "effective_date": "2023-01-01",
+    "expiration_date": "2024-01-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Fire Resistive, Hotel"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 101570000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property",
+      "limit": 926190000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 40510000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Extra Expense",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Rental Value",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Building",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Personal Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Building & Personal Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Inland Marine",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Crime",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Boiler & Machinery / Equipment Breakdown",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "property_coverage": "checked",
+    "inland_marine": "checked",
+    "crime": "checked",
+    "boiler_machinery": "checked",
+    "basic": "checked",
+    "broad": "checked",
+    "special": "checked",
+    "earthquake": "unchecked",
+    "wind": "unchecked",
+    "flood": "unchecked"
+  },
+  "additional_fields": {
+    "date_issued": "2023-03-24",
+    "contact_name": "Marcus Jennings",
+    "producer_phone": "(512) 555-0634",
+    "producer_fax": "(512) 895-7363",
+    "producer_email": "mjennings@capitolia.com",
+    "producer_address": "100 Congress Avenue, Suite 1500, Austin, TX 78701",
+    "insurer_a": "Hallmark Insurance Company",
+    "insurer_a_naic": "34339",
+    "insurer_b": "Hallmark Indemnity Company",
+    "insurer_b_naic": "16411",
+    "insurer_c": "Hallmark Casualty Company",
+    "insurer_c_naic": "16371",
+    "policy_type": "CP-BLDG-2023-3392",
+    "location_description": "604 Brazos Street, Austin, TX 78701",
+    "basic_deductible": 25000,
+    "broad_deductible": 25000,
+    "certificate_holder_name": "Bask Realty Management Inc.",
+    "certificate_holder_address": "419 Lake Street, Springfield, MO 65801",
+    "authorized_representative": "Christina Montoya"
+  },
+  "remarks": "Should any of the above described policies be cancelled before the expiration date thereof, notice will be delivered in accordance with the policy provisions."
+}

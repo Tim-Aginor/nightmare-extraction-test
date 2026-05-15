@@ -1,0 +1,135 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-09-01",
+    "prepared_by": "Midwest Property & Casualty Group",
+    "recipient": "Buckeye Industrial Properties, LLC"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "current_limit": 146260000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": 424883.27,
+      "notes": "Policy Number CP-BIP-2025-4420; Form CP 00 10 10 12; Deductible $75,000; Coinsurance $80.00"
+    },
+    {
+      "coverage_type": "Commercial Property - Contents",
+      "current_limit": 42495000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Included under policy CP-BIP-2025-4420"
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 62590000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Included under policy CP-BIP-2025-4420"
+    },
+    {
+      "coverage_type": "Business Income and Extra Expense",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 15 08 (10 12); Effective 03/15/2026; Covers actual loss of Business Income during period of restoration due to suspension of operations; Business Income defined as net income plus continuing normal operating expenses including payroll"
+    },
+    {
+      "coverage_type": "Ordinance or Law Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 (10 12); Effective 03/15/2026; Coverage A \u2013 loss to undamaged portion of building when Covered Cause of Loss requires demolition per ordinance or law"
+    },
+    {
+      "coverage_type": "Utility Services \u2013 Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12); Effective 03/15/2026; Covers direct physical loss or damage to Covered Property caused by interruption of water supply, communication supply, and power supply services"
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 (07 88); Effective 03/15/2026; Coinsurance Additional Condition suspended during Declarations period; property value agreed to be not less than amount shown in Schedule"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12); Effective 03/15/2026; Covers direct physical loss or damage to Covered Property from Equipment Breakdown accident to mechanical, electrical, or pressure equipment"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Agreed Value endorsement in place, suspending coinsurance condition and eliminating coinsurance penalty risk",
+      "Broad endorsement package including Business Income, Ordinance or Law, Utility Services, and Equipment Breakdown coverages",
+      "High building limit of $146,260,000 reflecting substantial property portfolio",
+      "Business Income limit of $62,590,000 providing significant income protection",
+      "Debris Removal additional coverage up to 25% of loss amount plus additional $25,000 if inadequate",
+      "Coverage Extensions applicable given Coinsurance of 80% or more, including Newly Acquired or Constructed Property up to $250,000 per building",
+      "Pollutant Clean Up and Removal additional coverage included at $10,000 per 12-month period",
+      "Fire Department Service Charge additional coverage included up to $1,000",
+      "Electronic Data additional coverage up to $2,500 per policy year",
+      "Preservation of Property coverage for up to 30 days while being moved or temporarily stored"
+    ],
+    "concerns": [
+      "Deductible of $75,000 per occurrence is substantial and represents meaningful self-insured retention",
+      "Coinsurance listed at $80.00 in declarations warrants verification of correct percentage",
+      "Multiple endorsement effective dates of 03/15/2026 are mid-term, indicating these were not in force at policy inception on 09/01/2025",
+      "Vacancy clause limits coverage if building is vacant more than 60 consecutive days (vandalism, sprinkler leakage, glass breakage, water damage, theft excluded; other covered causes reduced by 15%)",
+      "Property Not Covered exclusions include land, foundations below ground surface, cost of excavations/grading, and personal property while airborne or waterborne",
+      "Valuation on actual cash value basis (not replacement cost) unless Replacement Cost option is elected per declarations"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 188755000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "SIC Code 6512 \u2013 Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

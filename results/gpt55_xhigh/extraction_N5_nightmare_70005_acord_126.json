@@ -1,0 +1,187 @@
+{
+  "applicant_info": {
+    "fein": "31-6687291",
+    "naics_code": null,
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": "4213",
+    "years_in_business": 18
+  },
+  "checkboxes": [
+    {
+      "field": "Occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "Claims-Made",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant perform any demolition work?",
+      "value": "No"
+    },
+    {
+      "field": "Are products manufactured, sold, or distributed?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any operations conducted outside the United States?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant have any work performed by subcontractors?",
+      "value": "No"
+    },
+    {
+      "field": "Is there any work performed on or near bodies of water?",
+      "value": "No"
+    },
+    {
+      "field": "Are written contracts/agreements required from all subcontractors?",
+      "value": "No"
+    },
+    {
+      "field": "Is there any underground storage of hazardous substances?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any completed operations exposures?",
+      "value": "No"
+    },
+    {
+      "field": "Are any premises/operations rented or leased to others?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant provide professional services or advice?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any athletic or recreational facilities on premises?",
+      "value": "No"
+    },
+    {
+      "field": "Are there swimming pools, hot tubs, or diving boards on premises?",
+      "value": "No"
+    },
+    {
+      "field": "Employee Benefits Liability",
+      "value": "No"
+    },
+    {
+      "field": "Liquor Liability",
+      "value": "No"
+    },
+    {
+      "field": "Pollution Liability",
+      "value": "No"
+    },
+    {
+      "field": "Product Withdrawal Expense",
+      "value": "No"
+    },
+    {
+      "field": "Electronic Data Liability",
+      "value": "No"
+    },
+    {
+      "field": "Hired & Non-Owned Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Employment Practices Liability",
+      "value": "No"
+    },
+    {
+      "field": "Non-Owned Watercraft Liability",
+      "value": "No"
+    },
+    {
+      "field": "Contractual Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Broad Form Property Damage",
+      "value": "No"
+    },
+    {
+      "field": "Fire Legal Liability",
+      "value": "No"
+    },
+    {
+      "field": "Medical Payments",
+      "value": "No"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "deductible": 5000,
+      "limit": "Each occurrence 2000000; general aggregate 4000000; products/completed operations aggregate 4000000",
+      "premium": 153014
+    },
+    {
+      "coverage_type": "Contractual Liability",
+      "deductible": null,
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Hired & Non-Owned Auto",
+      "deductible": null,
+      "limit": null,
+      "premium": null
+    }
+  ],
+  "form_info": {
+    "form_edition": null,
+    "form_number": "ACORD 126",
+    "form_title": "Commercial General Liability Section"
+  },
+  "gl_class_codes": [
+    {
+      "class_code": "67419",
+      "description": "Truckers - Long Haul",
+      "exposure": 16584000,
+      "premium": 145775,
+      "premium_basis": "Payroll",
+      "rate": 8.79
+    },
+    {
+      "class_code": "52651",
+      "description": "Warehouse - Private",
+      "exposure": 69500,
+      "premium": 869,
+      "premium_basis": "Area",
+      "rate": 1.25
+    }
+  ],
+  "gl_limits": {
+    "damage_rented_premises": 100000,
+    "each_occurrence": 2000000,
+    "general_aggregate": 4000000,
+    "medical_expense": 5000,
+    "personal_advertising": 2000000,
+    "products_completed_ops": 4000000
+  },
+  "gl_premium": {
+    "base_premium": 146644,
+    "deductible": 5000,
+    "form_type": "Occurrence",
+    "total_premium": 153014,
+    "tria_surcharge": 6370
+  },
+  "header": {
+    "carrier_name": "Standard Insurance Company",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": "CGL-ES-2025-8821",
+    "producer_code": null,
+    "producer_name": null
+  },
+  "remarks": "Handwritten note: Need dec."
+}

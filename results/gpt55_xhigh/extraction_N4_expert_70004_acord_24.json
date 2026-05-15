@@ -1,0 +1,103 @@
+{
+  "checkboxes": [
+    {
+      "field": "Property coverage",
+      "value": "Yes"
+    },
+    {
+      "field": "Causes of Loss - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "Earthquake coverage",
+      "value": "No"
+    },
+    {
+      "field": "Wind coverage",
+      "value": "No"
+    },
+    {
+      "field": "Flood coverage",
+      "value": "No"
+    },
+    {
+      "field": "Inland Marine coverage",
+      "value": "No"
+    },
+    {
+      "field": "Boiler & Machinery / Equipment Breakdown",
+      "value": "No"
+    }
+  ],
+  "document_date": "2026-05-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "carrier_name": "National Insurance Company",
+    "effective_date": "2026-05-15",
+    "expiration_date": "2027-05-15",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Broad City Insurance Group"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "National Insurance Company",
+      "naic": null
+    },
+    {
+      "carrier": "Atlantic Indemnity Company",
+      "naic": null
+    },
+    {
+      "carrier": "Midwest Casualty Company",
+      "naic": null
+    }
+  ],
+  "locations": [
+    {
+      "address": "300 Liberty Avenue, Suite 1200",
+      "bi_value": 500000,
+      "building_value": 8500000,
+      "city": "Pittsburgh",
+      "construction": "Fire Resistive",
+      "contents_value": 1250000,
+      "fire_alarm_type": null,
+      "location_number": "1",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "PA",
+      "stories": null,
+      "tiv": 10250000,
+      "year_built": null,
+      "zip": "15222"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 10000,
+  "property_limits": {
+    "building": 8500000,
+    "business_income": 500000,
+    "contents": 1250000
+  },
+  "remarks": "Certificate holder: Woodbridge Realty Management Inc., 675 Maple Avenue, Unit 129, Birmingham, AL 35203."
+}

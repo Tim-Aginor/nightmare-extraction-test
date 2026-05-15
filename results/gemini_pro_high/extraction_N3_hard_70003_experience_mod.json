@@ -1,0 +1,63 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Texas Department of Insurance",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Hotel and Restaurant",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Experience Modification Factor: 0.94"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final Experience Modification Factor is a credit mod of 0.94"
+    ],
+    "concerns": [],
+    "loss_history_summary": "16 total claims over the last 3 policy years (2021-2024), with $92,945 in total incurred losses and $0 in excess losses."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": "2025-05-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Payroll classifications include: Hotel - All Other Employees, Hotel - Bellhops, Doorpersons, Restaurant - NOC, and Clerical Office Employees - NOC. Total payroll is $16,260,471.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

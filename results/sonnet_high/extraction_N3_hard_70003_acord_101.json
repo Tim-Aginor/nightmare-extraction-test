@@ -1,0 +1,88 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2008/01",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": "AC-156475",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-HCHP-2025-3351",
+    "effective_date": "2025-05-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "28339",
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas."
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Workers Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "attached_to_form_number": "ACORD 130",
+    "attached_form_title": "Workers Compensation Application",
+    "endorsement_schedule": [
+      "WC 00 03 01A \u2014 Alternate Employer Endorsement",
+      "WC 00 03 13 \u2014 Waiver of Our Right to Recover From Others Endorsement",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "CG 21 47 12 07 \u2014 Employment Related Practices Exclusion"
+    ],
+    "additional_insured": "Dusk Realty Management Inc. is included as Additional Insured per written contract, agreement, or permit as respects General Liability.",
+    "special_conditions": "Waiver of Subrogation applies in favor of the certificate holder as required by written contract.",
+    "locations": [
+      {
+        "location_id": "LOC-001",
+        "name": "The Driskill Austin",
+        "address": "604 Brazos Street",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "occupancy": "Hotel"
+      },
+      {
+        "location_id": "LOC-002",
+        "name": "Riverwalk Suites San Antonio",
+        "address": "112 College Street",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78205",
+        "occupancy": "Hotel"
+      },
+      {
+        "location_id": "LOC-003",
+        "name": "Fredericksburg Inn & Spa",
+        "address": "245 East Main Street",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "zip": "78624",
+        "occupancy": "Hotel"
+      },
+      {
+        "location_id": "LOC-004",
+        "name": "South Congress Motor Hotel",
+        "address": "1220 South Congress Avenue",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78704",
+        "occupancy": "Hotel"
+      }
+    ]
+  },
+  "remarks": "ENDORSEMENT SCHEDULE: (1) WC 00 03 01A \u2014 Alternate Employer Endorsement; (2) WC 00 03 13 \u2014 Waiver of Our Right to Recover From Others Endorsement; (3) IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act; (4) CG 21 47 12 07 \u2014 Employment Related Practices Exclusion. ADDITIONAL INSURED: Dusk Realty Management Inc. is included as Additional Insured per written contract, agreement, or permit as respects General Liability. SPECIAL CONDITIONS: Waiver of Subrogation applies in favor of the certificate holder as required by written contract. NATURE OF OPERATIONS: Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Entity type: LLC."
+}

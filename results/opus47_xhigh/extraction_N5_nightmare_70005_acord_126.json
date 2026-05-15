@@ -1,0 +1,117 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": "2016/03",
+    "form_title": "Commercial General Liability Section"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "gl-GLFS-2025-8821",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": 2000000,
+      "deductible": 5000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Rented Premises (Ea Occurrence)",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Med Exp (Any One Person)",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Adv Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products / Completed Operations Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "occurrence": "checked",
+    "claims_made": "unchecked",
+    "q1_demolition_work": "Yes",
+    "q2_products_manufactured_sold_distributed": "No",
+    "q3_operations_outside_us": "No",
+    "q4_work_by_subcontractors": "No",
+    "q5_work_near_bodies_of_water": "No",
+    "q6_written_contracts_required_from_subs": "No",
+    "q7_underground_storage_hazardous_substances": "No",
+    "q8_completed_operations_exposures": "No",
+    "q9_premises_rented_leased_to_others": "No",
+    "q10_professional_services_or_advice": "No",
+    "q11_athletic_or_recreational_facilities": "No",
+    "q12_swimming_pools_hot_tubs_diving_boards": "No",
+    "additional_coverage_employee_benefits_liability": "unchecked",
+    "additional_coverage_liquor_liability": "unchecked",
+    "additional_coverage_pollution_liability": "unchecked",
+    "additional_coverage_product_withdrawal_expense": "unchecked",
+    "additional_coverage_electronic_data_liability": "unchecked",
+    "additional_coverage_hired_and_non_owned_auto": "checked",
+    "additional_coverage_employment_practices_liability": "unchecked",
+    "additional_coverage_stop_gap_employers_liability": "unchecked",
+    "additional_coverage_contractual_liability": "unchecked",
+    "additional_coverage_broad_form_property_damage": "unchecked",
+    "additional_coverage_fire_legal_liability": "unchecked",
+    "additional_coverage_medical_payments": "unchecked"
+  },
+  "additional_fields": {
+    "form_date": "2026-03-14",
+    "deductible_applies_to": "Per Occurrence",
+    "class_code_1": "67419",
+    "class_code_1_description": "Truckers \u2014 Long Haul",
+    "class_code_1_premium_basis": "Payroll",
+    "class_code_1_exposure": "16660000",
+    "class_code_1_rate": "8.750",
+    "class_code_1_premium": "145775",
+    "class_code_2": "52451",
+    "class_code_2_description": "Warehouse \u2014 Private",
+    "class_code_2_premium_basis": "Area",
+    "class_code_2_exposure": "695000",
+    "class_code_2_rate": "1.250",
+    "class_code_2_premium": "869",
+    "total_premium": "146644",
+    "tria_surcharge": "6370",
+    "total_with_tria": "153014",
+    "signature": "M. Johnson",
+    "signature_date": "2025-06-18",
+    "hired_non_owned_auto_note": "Need docs"
+  },
+  "remarks": "Hired & Non-Owned Auto coverage marked with note 'Need docs'. Form signed by M. Johnson on 6/18/2025. Page 2 partially blurred but readable."
+}

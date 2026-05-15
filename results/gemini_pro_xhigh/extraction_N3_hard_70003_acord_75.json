@@ -1,0 +1,188 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2006/05",
+    "form_title": "INSURANCE BINDER"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null
+  },
+  "binder_number": "BND-22679-1808",
+  "binder_date": "2026-02-16",
+  "expiring_carriers": [
+    {
+      "lob": "Workers' Compensation",
+      "carrier": "Travelers Companies",
+      "policy_number": "WC-8098-9663"
+    },
+    {
+      "lob": "General Liability",
+      "carrier": "Zurich Insurance Group",
+      "policy_number": "0000005824"
+    },
+    {
+      "lob": "Commercial Property",
+      "carrier": "Auto-Owners Insurance",
+      "policy_number": "CP003220-001"
+    }
+  ],
+  "endorsements": [
+    {
+      "form_number": "WC 00 00 04",
+      "title": "Workers' Compensation and Employers' Liability Insurance Policy",
+      "coverage": "Workers' Compensation"
+    },
+    {
+      "form_number": "WC 00 04 22",
+      "title": "Experience Rating Modification Factor Endorsement",
+      "coverage": "Workers' Compensation"
+    },
+    {
+      "form_number": "WC 42 03 04",
+      "title": "Texas Notice of Material Change Endorsement",
+      "coverage": "Workers' Compensation"
+    },
+    {
+      "form_number": "WC 42 06 01",
+      "title": "Texas Cancellation by the Insured Endorsement",
+      "coverage": "Workers' Compensation"
+    },
+    {
+      "form_number": "WC 00 03 13",
+      "title": "Waiver of Our Right to Recover from Others Endorsement",
+      "coverage": "Workers' Compensation"
+    },
+    {
+      "form_number": "CG 00 01 04 13",
+      "title": "Commercial General Liability Coverage Form",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors (Completed Ops)",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "CG 24 04 05 09",
+      "title": "Waiver of Transfer of Rights of Recovery Against Others to Us",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 03 21 06 07",
+      "title": "Windstorm or Hail Percentage Deductible",
+      "coverage": "Commercial Property"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "KeyBank National Association",
+      "address": "P.O. Box 38199, Clarksville, TN 37040",
+      "loan_number": null
+    },
+    {
+      "name": "Stearns Bank, N.A.",
+      "address": "P.O. Box 25349, Fargo, ND 58102",
+      "loan_number": null
+    },
+    {
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 55869, Elk Grove, CA 95624",
+      "loan_number": null
+    }
+  ],
+  "property_premium": null,
+  "property_deductible": 25000,
+  "form_type_property": "Special",
+  "limit_property_building": 101570000,
+  "limit_property_contents": 26150000,
+  "limit_property_business_income": 40510000,
+  "limit_property_coinsurance": null,
+  "coinsurance_property": 90,
+  "checkboxes": [
+    {
+      "field": "Property Form Type - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "Property Form Type - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Property Form Type - Basic",
+      "value": "No"
+    },
+    {
+      "field": "General Liability - Occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "General Liability - Claims-Made",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - Per Statute",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+}

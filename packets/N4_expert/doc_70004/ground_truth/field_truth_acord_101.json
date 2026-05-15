@@ -1,0 +1,102 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_number": {
+      "value": "WC-KCB-2025-5580"
+    },
+    "parent_form_reference": {
+      "value": "ACORD 130"
+    },
+    "agency_name": {
+      "value": "Steel City Insurance Group"
+    },
+    "nature_of_operations": {
+      "value": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+    },
+    "entity_type": {
+      "value": "Corporation"
+    }
+  },
+  "doc_type": "acord_101",
+  "endorsements": [
+    "CG 24 26 04 13 \u2014 Amendment of Aggregate Limits of Insurance - Per Project",
+    "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion Endorsement",
+    "CG 25 03 05 09 \u2014 Designated Construction Project(s) General Aggregate Limit",
+    "WC 00 01 00 \u2014 Workers Compensation and Employers Liability Insurance Policy",
+    "CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+    "WC 00 03 01A \u2014 Alternate Employer Endorsement"
+  ],
+  "additional_insureds": [
+    {
+      "name": "Woodbridge Realty Management Inc.",
+      "address": "4715 Maple Avenue, Unit 129, Birmingham, AL, 35201"
+    },
+    {
+      "name": "Woodbridge Capital Group",
+      "address": "5158 Summit Avenue, Grand Rapids, MI, 49501"
+    }
+  ],
+  "special_conditions": [
+    "Primary and Non-Contributory wording applies per policy endorsement."
+  ],
+  "location_descriptions": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Corporate Headquarters",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15222",
+      "occupancy": "Office"
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Main Equipment Yard & Warehouse",
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Fabrication Shop",
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "occupancy": "Manufacturing"
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "South Hills Branch Office",
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "state": "PA",
+      "zip_code": "15090",
+      "occupancy": "Office"
+    }
+  ],
+  "subcontractor_requirements": "Evidence of Workers' Compensation coverage is required from all subcontractors prior to commencing work on the project."
+}

@@ -1,0 +1,52 @@
+{
+  "additional_remarks": [
+    {
+      "remark": "ENDORSEMENT SCHEDULE: 1. IL 00 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act; 2. CG 20 26 04 13 \u2014 Additional Insured - Designated Person or Organization; 3. WC 00 03 13 \u2014 Waiver of Our Right to Recover from Others Endorsement; 4. CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us; 5. IM 99 01 08 08 \u2014 Inland Marine Equipment Floater; 6. CP 10 30 08 07 \u2014 Causes of Loss - Special Form.",
+      "section_reference": "Endorsement Schedule"
+    },
+    {
+      "remark": "Quantum Realty Management Inc. is included as additional insured per written contract, agreement, or permit as respects General Liability.",
+      "section_reference": "Additional Insured"
+    },
+    {
+      "remark": "Primary and Non-Contributory wording applies per policy endorsement. Per Project Aggregate Limit applies as indicated on the application schedule.",
+      "section_reference": "Special Conditions"
+    },
+    {
+      "remark": "LOC-001: Corporate Headquarters & Main Terminal \u2014 1200 Nationwide Boulevard, Columbus, OH 43215 (Occupancy: Warehouse); LOC-002: Rickenbacker Air Hub \u2014 2500 Norton Road, Columbus, OH 43217 (Occupancy: Warehouse); LOC-003: Cleveland Distribution Center \u2014 6000 Rockside Woods Boulevard, Independence, OH 44131 (Occupancy: Warehouse); LOC-004: Pittsburgh Regional Terminal \u2014 500 Technology Drive, Canonsburg, PA 15317 (Occupancy: Warehouse).",
+      "section_reference": "Location Descriptions"
+    },
+    {
+      "remark": "The insured's principal operations consist of: Regional moving and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Entity type Corporation.",
+      "section_reference": "Nature of Operations"
+    }
+  ],
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "naics_code": null,
+    "nature_of_business": "Regional moving and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "checkboxes": [],
+  "form_info": {
+    "form_edition": "2008/01",
+    "form_number": "ACORD 101",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "carrier_name": "Standard Insurance Company",
+    "effective_date": "2025-02-01",
+    "expiration_date": null,
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": "GL-TRS 2025 6821",
+    "producer_code": null,
+    "producer_name": "Transportation Insurance Specialists"
+  },
+  "remarks": "Attached to form number: ACORD 126. Line of Business: Commercial General Liability Section. ENDORSEMENT SCHEDULE: 1. IL 00 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act; 2. CG 20 26 04 13 \u2014 Additional Insured - Designated Person or Organization; 3. WC 00 03 13 \u2014 Waiver of Our Right to Recover from Others Endorsement; 4. CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us; 5. IM 99 01 08 08 \u2014 Inland Marine Equipment Floater; 6. CP 10 30 08 07 \u2014 Causes of Loss - Special Form. ADDITIONAL INSURED: Quantum Realty Management Inc. is included as additional insured per written contract, agreement, or permit as respects General Liability. SPECIAL CONDITIONS: Primary and Non-Contributory wording applies per policy endorsement. Per Project Aggregate Limit applies as indicated on the application schedule. LOCATION DESCRIPTIONS: LOC-001 Corporate Headquarters & Main Terminal \u2014 1200 Nationwide Boulevard, Columbus, OH 43215 (Occupancy: Warehouse); LOC-002 Rickenbacker Air Hub \u2014 2500 Norton Road, Columbus, OH 43217 (Occupancy: Warehouse); LOC-003 Cleveland Distribution Center \u2014 6000 Rockside Woods Boulevard, Independence, OH 44131 (Occupancy: Warehouse); LOC-004 Pittsburgh Regional Terminal \u2014 500 Technology Drive, Canonsburg, PA 15317 (Occupancy: Warehouse). NATURE OF OPERATIONS: The insured's principal operations consist of regional moving and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Entity type Corporation."
+}

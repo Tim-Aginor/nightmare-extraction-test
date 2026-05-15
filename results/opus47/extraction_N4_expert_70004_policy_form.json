@@ -1,0 +1,91 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": null,
+    "prepared_by": "Hallmark Insurance Group",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": "Statutory",
+      "requested_limit": "Statutory",
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Premium: $1,158,173.43; Form WC 00 00 04"
+    },
+    {
+      "coverage_type": "Employers Liability - Each Accident",
+      "current_limit": 1000000,
+      "requested_limit": 1000000,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Policy",
+      "current_limit": 1000000,
+      "requested_limit": 1000000,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Each Employee",
+      "current_limit": 1000000,
+      "requested_limit": 1000000,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience Modification Factor of 0.86 (better than average)",
+      "Diverse classification schedule including clerical office exposure"
+    ],
+    "concerns": [
+      "Construction trades exposure including carpentry, electrical wiring, plumbing, masonry, and painting",
+      "High estimated annual remuneration across multiple construction classifications"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 1,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": "2025-08-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Workers Compensation and Employers Liability Insurance Policy issued by Hallmark Insurance Group to Keystone Commercial Builders, Inc. for the policy period 08/01/2025 to 08/01/2026. Policy Number WC-KCB-2025-5580. Total premium $1,158,173.43.",
+    "operations_description": "SIC Code 1521: General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Classifications include: Carpentry NOC (5403), Electrical Wiring (5190), Plumbing NOC (5183), Masonry NOC (5022), Painting Interior (5474), Contractors - Project Manager/Superintendent (5606), and Clerical Office Employees NOC (8810). Total estimated annual remuneration approximately $31,594,850.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

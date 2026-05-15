@@ -1,0 +1,481 @@
+{
+  "claims": [
+    {
+      "claim_number": "ZIG-2023-030415",
+      "claimant": "Helen Price",
+      "coverage": "wc",
+      "date_of_loss": "2023-02-02",
+      "description": "Left Hand",
+      "incurred": 6629.27,
+      "paid": 6629.27,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "MRK-2023-030722",
+      "claimant": "Benjamin Green",
+      "coverage": "wc",
+      "date_of_loss": "2023-05-19",
+      "description": "Right Forearm",
+      "incurred": 6216.4,
+      "paid": 6216.4,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ACE-2021-030934",
+      "claimant": "Katherine Castillo",
+      "coverage": "wc",
+      "date_of_loss": "2021-06-11",
+      "description": "Left Hand",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Denied"
+    },
+    {
+      "claim_number": "ZIG-2022-030952",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "coverage": "wc",
+      "date_of_loss": "2022-06-06",
+      "description": "Right Wrist",
+      "incurred": 2594,
+      "paid": 2594,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "TRV-2025-031249",
+      "claimant": "Gregory Baker",
+      "coverage": "wc",
+      "date_of_loss": "2025-01-06",
+      "description": "Left Ankle",
+      "incurred": 21611.45,
+      "paid": 21611.45,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "TRV-2024-031662",
+      "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+      "coverage": "wc",
+      "date_of_loss": "2024-05-25",
+      "description": "Left Hip",
+      "incurred": 12536.52,
+      "paid": 12536.52,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ACE-2021-031869",
+      "claimant": "Patrick Rivera",
+      "coverage": "wc",
+      "date_of_loss": "2021-05-04",
+      "description": "Right Hand",
+      "incurred": 7280.88,
+      "paid": 7280.88,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HMK-2025-032319",
+      "claimant": "Alexander Campbell",
+      "coverage": "wc",
+      "date_of_loss": "2025-10-21",
+      "description": "Left Knee",
+      "incurred": 22947.98,
+      "paid": 15298.65,
+      "reserved": 7649.33,
+      "status": "Open"
+    },
+    {
+      "claim_number": "ACE-2022-032777",
+      "claimant": "Catherine Foster",
+      "coverage": "wc",
+      "date_of_loss": "2022-04-17",
+      "description": "Left Knee",
+      "incurred": 8304.15,
+      "paid": 8304.15,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ACE-2022-033025",
+      "claimant": "Maria Jimenez",
+      "coverage": "wc",
+      "date_of_loss": "2022-04-12",
+      "description": "Right Knee",
+      "incurred": 13320.92,
+      "paid": 13320.92,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "TRV-2025-033313",
+      "claimant": "Heather Powell",
+      "coverage": "wc",
+      "date_of_loss": "2025-04-05",
+      "description": "Left Hand",
+      "incurred": 194694.68,
+      "paid": 129796.45,
+      "reserved": 64898.23,
+      "status": "Open"
+    },
+    {
+      "claim_number": "ACE-2021-033325",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "coverage": "wc",
+      "date_of_loss": "2021-11-08",
+      "description": "Left Hip",
+      "incurred": 10777.75,
+      "paid": 10777.75,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "EIG-2021-033438",
+      "claimant": "Patricia Kim",
+      "coverage": "wc",
+      "date_of_loss": "2021-02-11",
+      "description": "Right Hip",
+      "incurred": 2128.98,
+      "paid": 2029.65,
+      "reserved": 99.33,
+      "status": "Subrogation"
+    },
+    {
+      "claim_number": "TRV-2025-033456",
+      "claimant": "Robert Ramirez",
+      "coverage": "wc",
+      "date_of_loss": "2025-04-09",
+      "description": "Left Knee",
+      "incurred": 12802.29,
+      "paid": 8534.86,
+      "reserved": 4267.43,
+      "status": "Re-opened"
+    },
+    {
+      "claim_number": "TRV-2024-033784",
+      "claimant": "Linda Ward",
+      "coverage": "wc",
+      "date_of_loss": "2024-12-01",
+      "description": "Right Hip",
+      "incurred": 19006.39,
+      "paid": 12670.93,
+      "reserved": 6335.46,
+      "status": "Open"
+    },
+    {
+      "claim_number": "HMK-2025-033892",
+      "claimant": "Barbara Richardson",
+      "coverage": "wc",
+      "date_of_loss": "2025-06-03",
+      "description": "Chest",
+      "incurred": 1311.56,
+      "paid": 1311.56,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2023-034222",
+      "claimant": "Elizabeth Watson",
+      "coverage": "wc",
+      "date_of_loss": "2023-04-24",
+      "description": "Right Ankle",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Closed Without Payment"
+    },
+    {
+      "claim_number": "ACE-2021-034375",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "coverage": "wc",
+      "date_of_loss": "2021-05-01",
+      "description": "Left Ankle",
+      "incurred": 10291.72,
+      "paid": 10291.72,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2022-034525",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "coverage": "wc",
+      "date_of_loss": "2022-08-13",
+      "description": "Left Hand",
+      "incurred": 9903.84,
+      "paid": 9903.84,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HMK-2025-035016",
+      "claimant": "Thomas King",
+      "coverage": "wc",
+      "date_of_loss": "2025-09-02",
+      "description": "Right Ankle",
+      "incurred": 10387.92,
+      "paid": 10387.92,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HMK-2025-035420",
+      "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+      "coverage": "wc",
+      "date_of_loss": "2025-10-20",
+      "description": "Left Knee",
+      "incurred": 7831.41,
+      "paid": 4437.66,
+      "reserved": 3393.75,
+      "status": "Open"
+    },
+    {
+      "claim_number": "ACE-2021-035462",
+      "claimant": "Lisa Gray",
+      "coverage": "wc",
+      "date_of_loss": "2021-10-15",
+      "description": "Left Hip",
+      "incurred": 2770.82,
+      "paid": 2770.82,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2022-035652",
+      "claimant": "Daniel Torres",
+      "coverage": "wc",
+      "date_of_loss": "2022-11-04",
+      "description": "Chest",
+      "incurred": 4322.9,
+      "paid": 4322.9,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2022-035734",
+      "claimant": "Betty Ruiz",
+      "coverage": "wc",
+      "date_of_loss": "2022-06-08",
+      "description": "Lower Back",
+      "incurred": 3211.95,
+      "paid": 3211.95,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "TRV-2024-035835",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "coverage": "wc",
+      "date_of_loss": "2024-10-15",
+      "description": "Right Knee",
+      "incurred": 14237.02,
+      "paid": 9491.35,
+      "reserved": 4745.67,
+      "status": "Open"
+    },
+    {
+      "claim_number": "ACE-2021-036236",
+      "claimant": "Mark Flores",
+      "coverage": "wc",
+      "date_of_loss": "2021-05-23",
+      "description": "Left Ankle",
+      "incurred": 3596.84,
+      "paid": 3596.84,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "MRK-2023-036483",
+      "claimant": "Ashley Alvarez",
+      "coverage": "wc",
+      "date_of_loss": "2023-09-01",
+      "description": "Right Knee",
+      "incurred": 3723.43,
+      "paid": 3723.43,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "TRV-2024-036581",
+      "claimant": "Dorothy Castillo",
+      "coverage": "wc",
+      "date_of_loss": "2024-09-14",
+      "description": "Right Hip",
+      "incurred": 3493.43,
+      "paid": 3493.43,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HMK-2025-033784",
+      "claimant": "Maria White",
+      "coverage": "gl",
+      "date_of_loss": "2025-05-09",
+      "description": null,
+      "incurred": 42194.29,
+      "paid": 533.76,
+      "reserved": 41660.53,
+      "status": "Open"
+    },
+    {
+      "claim_number": "HMK-2025-034222",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "coverage": "gl",
+      "date_of_loss": "2025-07-24",
+      "description": null,
+      "incurred": 32891.75,
+      "paid": 675.89,
+      "reserved": 32215.86,
+      "status": "Open"
+    },
+    {
+      "claim_number": "MRK-2023-034375",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "coverage": "gl",
+      "date_of_loss": "2023-06-04",
+      "description": null,
+      "incurred": 2087.39,
+      "paid": 2087.39,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2024-031869",
+      "claimant": "Katherine Taylor",
+      "coverage": "gl",
+      "date_of_loss": "2024-07-12",
+      "description": null,
+      "incurred": 1210.89,
+      "paid": 1210.89,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2024-033438",
+      "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
+      "coverage": "gl",
+      "date_of_loss": "2024-05-25",
+      "description": null,
+      "incurred": 1162.3,
+      "paid": 1162.3,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "MRK-2021-033025",
+      "claimant": "Frank Cooper",
+      "coverage": "gl",
+      "date_of_loss": "2021-03-15",
+      "description": null,
+      "incurred": 1143.79,
+      "paid": 1143.79,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2024-033313",
+      "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
+      "coverage": "gl",
+      "date_of_loss": "2024-06-20",
+      "description": null,
+      "incurred": 983.48,
+      "paid": 983.48,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ACE-2021-030952",
+      "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
+      "coverage": "gl",
+      "date_of_loss": "2021-05-31",
+      "description": null,
+      "incurred": 982.26,
+      "paid": 982.26,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HMK-2025-027470",
+      "claimant": "Hill Country Hospitality Partners, LLC",
+      "coverage": "property",
+      "date_of_loss": "2025-11-19",
+      "description": "Water Damage",
+      "incurred": 58438.56,
+      "paid": 50816.14,
+      "reserved": 7622.42,
+      "status": "Open"
+    },
+    {
+      "claim_number": "AOI-2025-027822",
+      "claimant": "Hill Country Hospitality Partners, LLC",
+      "coverage": "property",
+      "date_of_loss": "2025-04-28",
+      "description": "Lightning",
+      "incurred": 157488.75,
+      "paid": 127750,
+      "reserved": 29738.75,
+      "status": "Open"
+    }
+  ],
+  "grand_totals": {
+    "claim_count": 38,
+    "incurred": 714517.96,
+    "paid": 511891.2,
+    "reserved": 202626.76
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "policy_numbers": {
+      "auto": null,
+      "gl": "GL-HCHP-2025-3351",
+      "mtc": null,
+      "property": "CP-HCHP-2025-3352",
+      "umbrella": null,
+      "wc": "WC-HCHP-2025-3350"
+    },
+    "policy_period_end": "2026-05-01",
+    "policy_period_start": "2025-05-01",
+    "report_date": "2026-03-15"
+  },
+  "subtotals_by_coverage": {
+    "auto": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "gl": {
+      "claim_count": 8,
+      "incurred": 82656.15,
+      "paid": 8779.76,
+      "reserved": 73876.39
+    },
+    "mtc": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "property": {
+      "claim_count": 2,
+      "incurred": 215927.31,
+      "paid": 178566.14,
+      "reserved": 37361.17
+    },
+    "umbrella": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "wc": {
+      "claim_count": 28,
+      "incurred": 415934.5,
+      "paid": 324545.3,
+      "reserved": 91389.2
+    }
+  }
+}

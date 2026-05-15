@@ -1,0 +1,322 @@
+{
+  "form_info": {
+    "form_number": "ACORD 160",
+    "form_edition": "2016/03",
+    "form_title": "Businessowners Application"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "AG-187517",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "25-7194638",
+    "sic_code": "1521",
+    "naics_code": "236220",
+    "years_in_business": 42,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 10820000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Personal Property",
+      "limit": 18455000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense",
+      "limit": 10130000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products/Completed Operations",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Advertising Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Premises Rented to You",
+      "limit": 300000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Expense (Any One Person)",
+      "limit": 15000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employee Dishonesty",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Effects & Property of Others",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Forgery or Alteration",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Cyber Liability",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Accounts Receivable",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Time Element",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Computer Fraud",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Ordinance or Law \u2014 Coverage C",
+      "limit": 250000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Stop Gap / Employers Liability",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Debris Removal \u2014 Additional",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Primary & Non-Contributory",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employment Practices Liability",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Tenant Legal Liability",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Extra Expense",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Pollutant Cleanup and Removal",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "stores_flammable_liquids": "Yes",
+    "swimming_pools_or_hot_tubs": "No",
+    "building_owner_or_tenant": "Yes",
+    "responsible_for_building_maintenance": "Yes",
+    "tenant_improvements_or_betterments": "Yes",
+    "sole_occupant_of_building": "Yes",
+    "building_has_backup_generator": "No",
+    "burglar_alarm_system": "No",
+    "off_premises_property_exposures": "Yes",
+    "cooking_operations_on_premises": "No",
+    "exterior_signs_or_awnings": "No",
+    "sells_or_distributes_products_of_others": "No",
+    "building_100_percent_sprinklered": "Yes",
+    "underground_storage_tanks": "No",
+    "alterations_or_construction_in_progress": "No",
+    "commercial_cooking_operations": "No"
+  },
+  "additional_fields": {
+    "date": "2026-03-14",
+    "contact": "Patricia Nowak",
+    "business_type": "Contractor",
+    "annual_revenue": 195000000,
+    "full_time_employees": 425,
+    "part_time_employees": 45,
+    "website": "www.keystonecommercialbu.com",
+    "naic_code": "28339",
+    "billing_plan": "Agency Bill \u2014 Semi-Annual",
+    "premium": 76073.77,
+    "deductible": 25000,
+    "valuation": "Agreed Value",
+    "total_insured_value": 39405000,
+    "premises": [
+      {
+        "premises_number": "1",
+        "location_id": "LOC-001",
+        "address": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA, 15222",
+        "occupancy": "Office",
+        "construction_type": "Fire Resistive",
+        "roof_type": "EPDM",
+        "protection_class": "5",
+        "year_built": 2002,
+        "number_of_stories": 1,
+        "total_area_sqft": 18000,
+        "sprinklered": "Yes",
+        "building_value": 0,
+        "contents_bpp": 1260000,
+        "business_income": 2340000,
+        "total_insured_value": 3600000
+      },
+      {
+        "premises_number": "2",
+        "location_id": "LOC-002",
+        "address": "4500 Butler Street, Pittsburgh, PA, 15201",
+        "occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "EPDM",
+        "protection_class": "3",
+        "year_built": 1995,
+        "number_of_stories": 1,
+        "total_area_sqft": 65000,
+        "sprinklered": "Yes",
+        "building_value": 5200000,
+        "contents_bpp": 8450000,
+        "business_income": 3900000,
+        "total_insured_value": 17550000
+      },
+      {
+        "premises_number": "3",
+        "location_id": "LOC-003",
+        "address": "4520 Butler Street, Pittsburgh, PA, 15201",
+        "occupancy": "Manufacturing",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "TPO",
+        "protection_class": "1",
+        "year_built": 1988,
+        "number_of_stories": 1,
+        "total_area_sqft": 32000,
+        "sprinklered": "Yes",
+        "building_value": 2240000,
+        "contents_bpp": 3840000,
+        "business_income": 1920000,
+        "total_insured_value": 8000000
+      },
+      {
+        "premises_number": "4",
+        "location_id": "LOC-004",
+        "address": "3000 Village Run Road, Wexford, PA, 15090",
+        "occupancy": "Office",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Shingle",
+        "protection_class": "4",
+        "year_built": 2010,
+        "number_of_stories": 2,
+        "total_area_sqft": 8500,
+        "sprinklered": "Yes",
+        "building_value": 1700000,
+        "contents_bpp": 425000,
+        "business_income": 850000,
+        "total_insured_value": 2975000
+      },
+      {
+        "premises_number": "5",
+        "location_id": "LOC-005",
+        "address": "100 Dutilh Road, Cranberry Township, PA, 16066",
+        "occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": "1",
+        "year_built": 2005,
+        "number_of_stories": 1,
+        "total_area_sqft": 28000,
+        "sprinklered": "No",
+        "building_value": 1680000,
+        "contents_bpp": 4480000,
+        "business_income": 1120000,
+        "total_insured_value": 7280000
+      }
+    ],
+    "additional_interests": [
+      {
+        "type": "ISAOA/ATIMA",
+        "name": "M&T Bank",
+        "address": "P.O. Box 83702, Philadelphia, PA 19103",
+        "loan_reference_number": "L-326713166"
+      },
+      {
+        "type": "ISAOA/ATIMA",
+        "name": "Fifth Third Bank",
+        "address": "P.O. Box 8480, Detroit, MI 48226",
+        "loan_reference_number": "L-167025479"
+      },
+      {
+        "type": "First Mortgagee",
+        "name": "Regions Bank",
+        "address": "P.O. Box 40746, Dallas, TX 75201",
+        "loan_reference_number": "L-575765254"
+      }
+    ],
+    "applicant_signature": "Joseph Kowalczyk",
+    "applicant_title": "President & CEO",
+    "applicant_signature_date": "2026-03-14",
+    "agent_signature": "Patricia Nowak",
+    "agent_signature_date": "2026-03-14",
+    "agency": "Steel City Insurance Group",
+    "agency_license_number": "AG-187517"
+  },
+  "remarks": null
+}

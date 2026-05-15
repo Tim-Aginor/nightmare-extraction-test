@@ -1,0 +1,124 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": null,
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": "AC-070063",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-HCHP-2025-3352",
+    "effective_date": "2025-05-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Hospitality"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Special Form",
+      "limit": 168230000,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_basic": "unchecked",
+    "causes_of_loss_broad": "unchecked",
+    "causes_of_loss_special": "checked",
+    "valuation_replacement_cost": "checked",
+    "valuation_actual_cash_value": "unchecked"
+  },
+  "additional_fields": {
+    "naic_code": "28339",
+    "additional_interest": "The Driskill Austin",
+    "causes_of_loss": "Special",
+    "valuation": "Replacement Cost",
+    "deductible": 25000,
+    "coinsurance": "80%",
+    "building_locations": [
+      {
+        "loc_number": 1,
+        "location_name": "The Driskill Austin",
+        "building_value": 29700000,
+        "contents_value": 7125000,
+        "business_income_value": 10687500,
+        "tiv": 46512500
+      },
+      {
+        "loc_number": 2,
+        "location_name": "Riverwalk Suites San Antonio",
+        "building_value": 26700000,
+        "contents_value": 9040000,
+        "business_income_value": 14910000,
+        "tiv": 64610000
+      },
+      {
+        "loc_number": 3,
+        "location_name": "Fredericksburg Inn & Spa",
+        "building_value": 10760000,
+        "contents_value": 2640000,
+        "business_income_value": 3960000,
+        "tiv": 17160000
+      },
+      {
+        "loc_number": 4,
+        "location_name": "South Congress Motor Hotel",
+        "building_value": 14500000,
+        "contents_value": 1875000,
+        "business_income_value": 5812000,
+        "tiv": 25187500
+      },
+      {
+        "loc_number": 5,
+        "location_name": "Blanco River Steakhouse",
+        "building_value": 2750000,
+        "contents_value": 850000,
+        "business_income_value": 1700000,
+        "tiv": 5100000
+      },
+      {
+        "loc_number": 6,
+        "location_name": "The Oasis at Lake Travis",
+        "building_value": 3000000,
+        "contents_value": 800000,
+        "business_income_value": 1800000,
+        "tiv": 5700000
+      },
+      {
+        "loc_number": 7,
+        "location_name": "Mission Cantina - Pearl District",
+        "building_value": 1700000,
+        "contents_value": 510000,
+        "business_income_value": 1020000,
+        "tiv": 3230000
+      },
+      {
+        "loc_number": 8,
+        "location_name": "Corporate Headquarters",
+        "building_value": 0,
+        "contents_value": 100000,
+        "business_income_value": 620000,
+        "tiv": 930000
+      }
+    ],
+    "schedule_totals": {
+      "total_building": 101370000,
+      "total_contents": 26150000,
+      "total_business_income": 40510000,
+      "total_tiv": 168230000
+    }
+  },
+  "remarks": null
+}

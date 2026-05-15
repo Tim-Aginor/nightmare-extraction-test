@@ -1,0 +1,237 @@
+{
+  "form_info": {
+    "form_number": "ACORD 28",
+    "form_edition": "2016/03",
+    "form_title": "Evidence of Commercial Property Insurance"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Special - Property (All Locations)",
+      "limit": 39405000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-001 (300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222)",
+      "limit": null,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents - LOC-001",
+      "limit": 1200000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income - LOC-001",
+      "limit": 2340000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-002 (4500 Butler Street, Pittsburgh, PA 15201)",
+      "limit": 9200000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents - LOC-002",
+      "limit": 4400000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income - LOC-002",
+      "limit": 3900000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-003 (4520 Butler Street, Pittsburgh, PA 15201)",
+      "limit": 2340000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents - LOC-003",
+      "limit": 3840000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income - LOC-003",
+      "limit": 1920000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-004 (3000 Village Run Road, Wexford, PA 15090)",
+      "limit": 1700000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents - LOC-004",
+      "limit": 425000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income - LOC-004",
+      "limit": 850000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-005 (100 Dutilh Road, Cranberry Township, PA 16066)",
+      "limit": 1080000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents - LOC-005",
+      "limit": 4400000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income - LOC-005",
+      "limit": 1320000,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "cause_of_loss_special": "Yes",
+    "LOC-001_sprinklered": "Yes",
+    "LOC-002_sprinklered": "Yes",
+    "LOC-003_sprinklered": "Yes",
+    "LOC-004_sprinklered": "Yes",
+    "LOC-005_sprinklered": "No"
+  },
+  "additional_fields": {
+    "producer_contact": "Patricia Nowak",
+    "producer_address": "One PPG Place, Suite 3100, Pittsburgh, PA 15222",
+    "producer_phone": "(412) 555-0287",
+    "producer_fax": "(412) 580-2110",
+    "producer_email": "pnowak@steelcityins.com",
+    "naic_code": "28339",
+    "loan_number": "LN-609402",
+    "agency": "Hallmark Insurance Group",
+    "coinsurance": "90%",
+    "deductible": "25000",
+    "cause_of_loss": "Special",
+    "total_building_value": 10820000,
+    "total_contents_value": 14105000,
+    "total_business_income": 10330000,
+    "total_insured_value": 39405000,
+    "locations": [
+      {
+        "loc_number": "LOC-001",
+        "address": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222",
+        "building_value": null,
+        "contents_value": 1200000,
+        "business_income": 2340000,
+        "total_insured_value": 3600000,
+        "construction": "Fire Resistive",
+        "occupancy": "Office",
+        "year_built": 2002,
+        "stories": 3,
+        "sq_ft": 18000,
+        "protection_class": 3,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-002",
+        "address": "4500 Butler Street, Pittsburgh, PA 15201",
+        "building_value": 9200000,
+        "contents_value": 4400000,
+        "business_income": 3900000,
+        "total_insured_value": 17550000,
+        "construction": "Non-Combustible",
+        "occupancy": "Warehouse",
+        "year_built": 1985,
+        "stories": 1,
+        "sq_ft": 82000,
+        "protection_class": 3,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-003",
+        "address": "4520 Butler Street, Pittsburgh, PA 15201",
+        "building_value": 2340000,
+        "contents_value": 3840000,
+        "business_income": 1920000,
+        "total_insured_value": 8000000,
+        "construction": "Masonry Non-Combustible",
+        "occupancy": "Manufacturing",
+        "year_built": 1988,
+        "stories": 1,
+        "sq_ft": 52000,
+        "protection_class": 3,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-004",
+        "address": "3000 Village Run Road, Wexford, PA 15090",
+        "building_value": 1700000,
+        "contents_value": 425000,
+        "business_income": 850000,
+        "total_insured_value": 2975000,
+        "construction": "Masonry Non-Combustible",
+        "occupancy": "Office",
+        "year_built": 2010,
+        "stories": 2,
+        "sq_ft": 8500,
+        "protection_class": 4,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-005",
+        "address": "100 Dutilh Road, Cranberry Township, PA 16066",
+        "building_value": 1080000,
+        "contents_value": 4400000,
+        "business_income": 1320000,
+        "total_insured_value": 7200000,
+        "construction": "Non-Combustible",
+        "occupancy": "Warehouse",
+        "year_built": 1995,
+        "stories": 1,
+        "sq_ft": 38000,
+        "protection_class": 5,
+        "sprinklered": "No"
+      }
+    ],
+    "mortgagee_name": "KeyBank National Association",
+    "mortgagee_rank": "First Mortgagee",
+    "mortgagee_address": "540 School Street",
+    "mortgagee_city_state_zip": "Pittsburgh, PA 30078",
+    "cancellation_notice_days": 30,
+    "authorized_representative": "Joseph Kowalczyk",
+    "signature_date": "2026-03-15",
+    "form_date": "2026-03-15"
+  },
+  "remarks": "This evidence of property insurance is issued as a matter of information only and confers no rights upon the additional interest named above. This evidence does not amend, extend, or alter the coverage afforded by the policy referenced herein."
+}

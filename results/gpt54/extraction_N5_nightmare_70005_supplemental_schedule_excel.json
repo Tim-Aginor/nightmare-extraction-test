@@ -1,0 +1,111 @@
+{
+  "document_info": {
+    "document_type": "Supplemental application / spreadsheet extract",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Blvd.",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088513.96,
+      "notes": "Included in 2024 policy package; policy number BWC-7853-4607"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088513.96,
+      "notes": "Included in 2024 policy package; policy number GL-0007119"
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088513.96,
+      "notes": "Included in 2024 policy package; policy number CA-4481-4597"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088513.96,
+      "notes": "Included in 2024 policy package; policy number CP-9793-9090"
+    },
+    {
+      "coverage_type": "Commercial Umbrella",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088513.96,
+      "notes": "Included in 2024 policy package; policy number CU00005026"
+    },
+    {
+      "coverage_type": "Motor Truck Cargo",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088513.96,
+      "notes": "Included in 2024 policy package; policy number MT-0006135"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations reported in insurance history from 2020 through 2024.",
+      "Multi-year insurance history provided with established national/regional carriers.",
+      "Named insured and additional insured schedule provided.",
+      "Nine scheduled locations identified across Ohio and Pennsylvania."
+    ],
+    "concerns": [
+      "Claims frequency appears elevated, with 10 to 13 claims in 2022-2024.",
+      "Large warehouse footprint across multiple locations may increase property and operational exposure.",
+      "Service/repair operations at one location may add operational hazard exposure."
+    ],
+    "loss_history_summary": "Insurance history shows claims counts of 4 in 2020, 7 in 2021, 12 in 2022, 13 in 2023, and 10 in 2024. No cancellations reported for any year. Loss ratios were not provided."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

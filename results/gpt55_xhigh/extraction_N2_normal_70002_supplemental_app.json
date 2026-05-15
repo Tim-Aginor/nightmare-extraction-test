@@ -1,0 +1,67 @@
+{
+  "business_description": {
+    "annual_revenue": 48000000,
+    "employee_count": 113,
+    "naics_code": null,
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "years_in_business": 31
+  },
+  "coverages_discussed": [],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Karen Weissman",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history: 2024 Liberty Mutual Insurance premium 392002.31, claims 0, cancellations No; 2023 Hartford Financial Services premium 419914.35, claims 0, cancellations No; 2022 Chubb Limited premium 456514.1, claims 0, cancellations No.",
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio. Years in Business: 31. Years with Current Management: 22. Employees: 95 full-time, 18 part-time. Annual Revenue/Gross Receipts: 48000000. Hours of Operation: Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 1:00 PM.",
+    "safety_programs": "Formal safety program: Yes. Written contracts with all subcontractors: No. Units regularly occupied vs. vacant: 90%. Building fully sprinklered per NFPA 13 or 13R: No. EV charging stations: No. Swimming pools, exercise rooms, or other amenities: No. Short-term rentals less than 1 year permitted: Yes. 24-hour doorperson or security: Yes. Last system updates: Plumbing 2015, HVAC 2018, Electrical 2023. Fire alarms hard-wired with central station monitoring: Yes. Commercial occupancy within the building: Yes. Written contracts with indemnification required from all contractors: Yes. MSDS maintained: No. Lockout/tagout procedures in place: No."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Building is not fully sprinklered per NFPA 13 or 13R; LOC-007 is not sprinklered.",
+      "Written contracts are not in place with all subcontractors.",
+      "Short-term rentals of less than 1 year are permitted.",
+      "Material Safety Data Sheets are not maintained.",
+      "Lockout/tagout procedures are not in place.",
+      "Commercial occupancy is present within the building."
+    ],
+    "loss_history_summary": "Prior insurance history for 2022-2024 shows 0 claims and no cancellations each year.",
+    "positives": [
+      "Formal safety program is in place.",
+      "90% of units are regularly occupied.",
+      "8 of 9 listed premises are sprinklered.",
+      "Fire alarms are hard-wired with central station monitoring.",
+      "24-hour doorperson or security is provided.",
+      "Written contracts with indemnification are required from all contractors.",
+      "Plumbing, HVAC, and electrical systems have reported updates, with electrical updated in 2023."
+    ]
+  }
+}

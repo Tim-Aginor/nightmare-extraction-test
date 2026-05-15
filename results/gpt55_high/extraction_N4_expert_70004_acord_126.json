@@ -1,0 +1,197 @@
+{
+  "applicant_info": {
+    "fein": "25-7194638",
+    "naics_code": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "years_in_business": null
+  },
+  "checkboxes": [
+    {
+      "field": "Occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "Claims-Made",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant provide professional services or advice?",
+      "value": "No"
+    },
+    {
+      "field": "Are any premises/operations rented or leased to others?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant have any work performed by subcontractors?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any completed operations exposures?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does the applicant perform any demolition work?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any fireworks, explosives, or blasting operations?",
+      "value": "No"
+    },
+    {
+      "field": "Are products manufactured, sold, or distributed?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does the applicant have any day care or childcare operations?",
+      "value": "No"
+    },
+    {
+      "field": "Is there any work performed on or near bodies of water?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are there swimming pools, hot tubs, or diving boards on premises?",
+      "value": "No"
+    },
+    {
+      "field": "Employee Benefits Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Liquor Liability",
+      "value": "No"
+    },
+    {
+      "field": "Pollution Liability",
+      "value": "No"
+    },
+    {
+      "field": "Product Withdrawal Expense",
+      "value": "Yes"
+    },
+    {
+      "field": "Electronic Data Liability",
+      "value": "No"
+    },
+    {
+      "field": "Hired & Non-Owned Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Employment Practices Liability",
+      "value": "No"
+    },
+    {
+      "field": "Stop Gap / Employers Liability",
+      "value": "No"
+    },
+    {
+      "field": "Contractual Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Broad Form Property Damage",
+      "value": "No"
+    },
+    {
+      "field": "Fire Legal Liability",
+      "value": "No"
+    },
+    {
+      "field": "Medical Payments",
+      "value": "Yes"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "deductible": 10000,
+      "limit": "Each Occurrence 2000000; General Aggregate 4000000; Products/Completed Operations Aggregate 4000000",
+      "premium": 297828
+    },
+    {
+      "coverage_type": "Employee Benefits Liability",
+      "deductible": null,
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Product Withdrawal Expense",
+      "deductible": null,
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Hired & Non-Owned Auto",
+      "deductible": null,
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contractual Liability",
+      "deductible": null,
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Payments",
+      "deductible": null,
+      "limit": "10000",
+      "premium": null
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/09",
+    "form_number": "ACORD 126",
+    "form_title": "COMMERCIAL GENERAL LIABILITY SECTION"
+  },
+  "gl_class_codes": [
+    {
+      "class_code": "91583",
+      "description": "Contractors - General NOC",
+      "exposure": 3958000,
+      "premium": 258435,
+      "premium_basis": "Payroll",
+      "rate": 6.5
+    },
+    {
+      "class_code": "16500",
+      "description": "Carpentry - Interior - NOC",
+      "exposure": 335000,
+      "premium": 27455,
+      "premium_basis": "Payroll",
+      "rate": 8.2
+    }
+  ],
+  "gl_limits": {
+    "damage_rented_premises": 300000,
+    "each_occurrence": 2000000,
+    "general_aggregate": 4000000,
+    "medical_expense": 10000,
+    "personal_advertising": 2000000,
+    "products_completed_ops": 4000000
+  },
+  "gl_premium": {
+    "base_premium": 285890,
+    "deductible": 10000,
+    "form_type": "Occurrence",
+    "total_premium": 297828,
+    "tria_surcharge": 11938
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "GL-KCB-2025-6581",
+    "producer_code": null,
+    "producer_name": null
+  },
+  "remarks": "Deductible applies per occurrence."
+}

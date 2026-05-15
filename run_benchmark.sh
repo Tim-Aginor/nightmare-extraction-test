@@ -10,8 +10,8 @@ set -euo pipefail
 # private workspace.
 #
 # Usage (from the directory that contains ground_truth/ and results/):
-#   path/to/run_benchmark.sh              # Run all 5 blog models
-#   path/to/run_benchmark.sh gpt55        # Run specific model
+#   path/to/run_benchmark.sh              # Run all 4 blog models
+#   path/to/run_benchmark.sh gpt54        # Run specific model
 #   path/to/run_benchmark.sh --score-only # Just score existing results
 
 PUBLIC_DIR="$(cd "$(dirname "$0")" && pwd)"
@@ -59,10 +59,13 @@ main() {
     if [[ "${1:-}" == "--score-only" ]]; then
         score_all
         "$PYTHON" "$PUBLIC_DIR/scripts/hallucination_analysis.py" \
-            --models gpt55 gpt54 opus47 sonnet gemini_pro \
+            --models gpt55 gpt55_high gpt55_xhigh gpt54 gpt54_high gpt54_xhigh opus47 opus47_high opus47_xhigh sonnet sonnet_high sonnet_xhigh gemini_pro gemini_pro_high gemini_pro_xhigh \
             --ground-truth ground_truth/ \
             --results results/ \
             --output results/hallucination_report.json
+        "$PYTHON" "$PUBLIC_DIR/scripts/omission_breakdown.py" \
+            --results results/ \
+            --output results/analysis/field_breakdown.json
         "$PYTHON" "$PUBLIC_DIR/scripts/generate_report.py" --results results/ --output report.md
         echo ""
         echo "Report: report.md"
@@ -73,9 +76,9 @@ main() {
 
     if [[ ! -d ground_truth ]] || [[ -z "$(ls -A ground_truth/*.json 2>/dev/null)" ]]; then
         echo "ERROR: No ground truth found in \$PWD/ground_truth/."
-        echo "Either run from a workspace that already has one, or generate it:"
-        echo "  $PYTHON $PUBLIC_DIR/scripts/generate_ground_truth.py \\"
-        echo "    --generator-output <path-to-generator-nightmare-output>"
+        echo "The published corpus ships ground_truth/ pre-populated; if it's"
+        echo "missing you can re-derive it from packets/ (also in-repo) via:"
+        echo "  $PYTHON $PUBLIC_DIR/scripts/generate_ground_truth.py"
         exit 1
     fi
 
@@ -91,10 +94,16 @@ main() {
     echo ""
     echo "=== Running Hallucination Analysis ==="
     "$PYTHON" "$PUBLIC_DIR/scripts/hallucination_analysis.py" \
-        --models gpt55 gpt54 opus47 sonnet gemini_pro \
+        --models gpt55 gpt55_high gpt55_xhigh gpt54 gpt54_high gpt54_xhigh opus47 opus47_high opus47_xhigh sonnet sonnet_high sonnet_xhigh gemini_pro gemini_pro_high gemini_pro_xhigh \
         --ground-truth ground_truth/ \
         --results results/ \
         --output results/hallucination_report.json
+
+    echo ""
+    echo "=== Building Field-Level Breakdown ==="
+    "$PYTHON" "$PUBLIC_DIR/scripts/omission_breakdown.py" \
+        --results results/ \
+        --output results/analysis/field_breakdown.json
 
     echo ""
     echo "=== Generating Report ==="

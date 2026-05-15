@@ -1,0 +1,298 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_number_property": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "nature_of_business": {
+      "value": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+    },
+    "years_in_business": {
+      "value": 31
+    },
+    "years_current_mgmt": {
+      "value": 22
+    },
+    "num_employees_ft": {
+      "value": 95
+    },
+    "num_employees_pt": {
+      "value": 18
+    },
+    "annual_revenue": {
+      "value": 48000000,
+      "rendered_as": "$48,000,000.00"
+    },
+    "hours_of_operation": {
+      "value": "Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 1:00 PM"
+    },
+    "safety_program": {
+      "value": "Yes"
+    },
+    "written_contracts": {
+      "value": "No"
+    }
+  },
+  "doc_type": "supplemental_app",
+  "premises": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 425000,
+      "occupancy": "Warehouse",
+      "year_built": 2014,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 34000000,
+      "contents_value": 8500000,
+      "bi_value": 12750000,
+      "tiv": 55250000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 380000,
+      "occupancy": "Warehouse",
+      "year_built": 2016,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 30400000,
+      "contents_value": 7600000,
+      "bi_value": 11400000,
+      "tiv": 49400000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip_code": "44144",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 295000,
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 20650000,
+      "contents_value": 5900000,
+      "bi_value": 8850000,
+      "tiv": 35400000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip_code": "45404",
+      "construction": "Joisted Masonry",
+      "stories": 1,
+      "square_feet": 185000,
+      "occupancy": "Manufacturing",
+      "year_built": 1992,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 11100000,
+      "contents_value": 5550000,
+      "bi_value": 6660000,
+      "tiv": 23310000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip_code": "45241",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 220000,
+      "occupancy": "Warehouse",
+      "year_built": 2019,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 19800000,
+      "contents_value": 4400000,
+      "bi_value": 7920000,
+      "tiv": 32120000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "construction": "Masonry Non-Combustible",
+      "stories": 1,
+      "square_feet": 165000,
+      "occupancy": "Warehouse",
+      "year_built": 2004,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 11550000,
+      "contents_value": 3300000,
+      "bi_value": 4950000,
+      "tiv": 19800000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "construction": "Masonry Non-Combustible",
+      "stories": 1,
+      "square_feet": 142000,
+      "occupancy": "Manufacturing",
+      "year_built": 1998,
+      "protection_class": 3,
+      "sprinklered": false,
+      "building_value": 8520000,
+      "contents_value": 4260000,
+      "bi_value": 4260000,
+      "tiv": 17040000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "zip_code": "44685",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 128000,
+      "occupancy": "Warehouse",
+      "year_built": 2011,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 10240000,
+      "contents_value": 2560000,
+      "bi_value": 5120000,
+      "tiv": 17920000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Fire Resistive",
+      "stories": 1,
+      "square_feet": 8500,
+      "occupancy": "Office",
+      "year_built": 2006,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 425000,
+      "bi_value": 680000,
+      "tiv": 1105000
+    }
+  ],
+  "risk_management": [
+    {
+      "question": "What percentage of units are regularly occupied vs. vacant?",
+      "answer": "90%"
+    },
+    {
+      "question": "Is the building fully sprinklered per NFPA 13 or 13R?",
+      "answer": "No"
+    },
+    {
+      "question": "Are EV charging stations installed on the premises?",
+      "answer": "No"
+    },
+    {
+      "question": "Are there swimming pools, exercise rooms, or other amenities?",
+      "answer": "No"
+    },
+    {
+      "question": "Are short-term rentals (less than 1 year) permitted?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Is there 24-hour doorperson or security on premises?",
+      "answer": "Yes"
+    },
+    {
+      "question": "When was the last plumbing, HVAC, and electrical system update?",
+      "answer": "Plumbing 2015, HVAC 2018, Electrical 2023"
+    },
+    {
+      "question": "Are fire alarms hard-wired with central station monitoring?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Is there any commercial occupancy within the building?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are written contracts with indemnification required from all contractors?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are Material Safety Data Sheets (MSDS) maintained?",
+      "answer": "No"
+    },
+    {
+      "question": "Are lockout/tagout procedures in place?",
+      "answer": "No"
+    }
+  ],
+  "prior_insurance": [
+    {
+      "year": 2024,
+      "carrier": "Liberty Mutual Insurance",
+      "premium": 392002.31,
+      "claims": 0,
+      "cancellation": "No",
+      "premium_rendered": "$392,002.31"
+    },
+    {
+      "year": 2023,
+      "carrier": "Hartford Financial Services",
+      "premium": 419914.35,
+      "claims": 0,
+      "cancellation": "No",
+      "premium_rendered": "$419,914.35"
+    },
+    {
+      "year": 2022,
+      "carrier": "Chubb Limited",
+      "premium": 456514.1,
+      "claims": 0,
+      "cancellation": "No",
+      "premium_rendered": "$456,514.10"
+    }
+  ]
+}

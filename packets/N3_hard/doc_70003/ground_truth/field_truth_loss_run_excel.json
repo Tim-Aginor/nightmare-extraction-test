@@ -1,0 +1,3598 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "report_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    }
+  },
+  "doc_type": "loss_run_excel",
+  "loss_run_label": "Consolidated Loss Summary (prepared by Capitol Insurance Advisors)",
+  "loss_run_label_mode": "consolidated",
+  "claims": [
+    {
+      "claim_number": {
+        "value": "ZIG-2023-030415"
+      },
+      "claimant": {
+        "value": "Helen Price"
+      },
+      "date_of_loss": {
+        "value": "2023-02-02",
+        "rendered_as": "02/02/2023"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 6629.27,
+        "rendered_as": "$6,629.27"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 6629.27,
+        "rendered_as": "$6,629.27"
+      },
+      "date_reported": {
+        "value": "2023-02-15",
+        "rendered_as": "02/15/2023"
+      },
+      "description": {
+        "value": "Employee\u2019s suffered a laceration to the left hand while opening a commercial-size can of tomatoes with a wall-mounted opener."
+      },
+      "close_date": {
+        "value": "2023-08-31",
+        "rendered_as": "08/31/2023"
+      },
+      "examiner": {
+        "value": "M. Chen"
+      },
+      "cause_code": {
+        "value": "64"
+      },
+      "cause_description": {
+        "value": "Puncture"
+      },
+      "original_reserve": {
+        "value": 8603.4
+      },
+      "body_part": {
+        "value": "Left Hand"
+      },
+      "nature_of_injury": {
+        "value": "Laceration"
+      },
+      "paid_indemnity": {
+        "value": 3922.44,
+        "rendered_as": "$3,922.44"
+      },
+      "paid_medical": {
+        "value": 2669.25,
+        "rendered_as": "$2,669.25"
+      },
+      "paid_expense": {
+        "value": 37.58,
+        "rendered_as": "$37.58"
+      },
+      "alae": {
+        "value": 31.97,
+        "rendered_as": "$31.97"
+      },
+      "ulae": {
+        "value": 5.61,
+        "rendered_as": "$5.61"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "42"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "MRK-2023-030722\u00b3"
+      },
+      "claimant": {
+        "value": "Benjamin Green"
+      },
+      "date_of_loss": {
+        "value": "2023-05-19",
+        "rendered_as": "05/19/2023"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 6216.4,
+        "rendered_as": "$6,216.40"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 6216.4,
+        "rendered_as": "$6,216.40"
+      },
+      "date_reported": {
+        "value": "2023-05-21",
+        "rendered_as": "05/21/2023"
+      },
+      "description": {
+        "value": "Employee\u2019s experienced a\u2019laceration to the right forearm while cleaning the meat slicer blade after closing."
+      },
+      "close_date": {
+        "value": "2024-03-09",
+        "rendered_as": "03/09/2024"
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "64"
+      },
+      "cause_description": {
+        "value": "Puncture"
+      },
+      "original_reserve": {
+        "value": 6898.91
+      },
+      "body_part": {
+        "value": "Right Forearm"
+      },
+      "nature_of_injury": {
+        "value": "Laceration"
+      },
+      "paid_indemnity": {
+        "value": 3140.11,
+        "rendered_as": "$3,140.11"
+      },
+      "paid_medical": {
+        "value": 2575.74,
+        "rendered_as": "$2,575.74"
+      },
+      "paid_expense": {
+        "value": 500.55,
+        "rendered_as": "$500.55"
+      },
+      "alae": {
+        "value": 321.56,
+        "rendered_as": "$321.56"
+      },
+      "ulae": {
+        "value": 178.99,
+        "rendered_as": "$178.99"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "32"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2021-030934\u00b9"
+      },
+      "claimant": {
+        "value": "Katherine Castillo"
+      },
+      "date_of_loss": {
+        "value": "2021-06-11",
+        "rendered_as": "06/11/2021"
+      },
+      "status": {
+        "value": "Denied"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "date_reported": {
+        "value": "2021-06-14",
+        "rendered_as": "06/14/2021"
+      },
+      "description": {
+        "value": "Employee sustained a burn to\u2026"
+      },
+      "close_date": {
+        "value": "2021-09-23",
+        "rendered_as": "09/23/2021"
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "08"
+      },
+      "cause_description": {
+        "value": "Burn"
+      },
+      "denial_reason": {
+        "value": "Pre-existing condition unrelated to work activity"
+      },
+      "body_part": {
+        "value": "Left Hand"
+      },
+      "nature_of_injury": {
+        "value": "Burn"
+      },
+      "paid_indemnity": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "paid_medical": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "paid_expense": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "alae": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "ulae": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9060"
+      },
+      "body_part_code": {
+        "value": "42"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ZIG-2022-030952\u00b9"
+      },
+      "claimant": {
+        "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+      },
+      "date_of_loss": {
+        "value": "2022-06-06",
+        "rendered_as": "06/06/2022"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 2594.0,
+        "rendered_as": "$2,594.00"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 2594.0,
+        "rendered_as": "$2,594.00"
+      },
+      "date_reported": {
+        "value": "2022-06-07",
+        "rendered_as": "06/07/2022"
+      },
+      "description": {
+        "value": "Employee developed de Quervain's tenosynovitis to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b right wrist while performing repetitive plating motions during service."
+      },
+      "close_date": {
+        "value": "2023-03-02",
+        "rendered_as": "03/02/2023"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "09"
+      },
+      "cause_description": {
+        "value": "Repetitive Motion"
+      },
+      "original_reserve": {
+        "value": 3150.0
+      },
+      "body_part": {
+        "value": "Right Wrist"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 1192.71,
+        "rendered_as": "$1,192.71"
+      },
+      "paid_medical": {
+        "value": 1095.91,
+        "rendered_as": "$1,095.91"
+      },
+      "paid_expense": {
+        "value": 305.38,
+        "rendered_as": "$305.38"
+      },
+      "alae": {
+        "value": 216.5,
+        "rendered_as": "$216.50"
+      },
+      "ulae": {
+        "value": 88.88,
+        "rendered_as": "$88.88"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9082"
+      },
+      "body_part_code": {
+        "value": "41"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "TRV-2025-031249"
+      },
+      "claimant": {
+        "value": "Gregory Baker"
+      },
+      "date_of_loss": {
+        "value": "2025-01-06",
+        "rendered_as": "01/06/2025"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 21611.45,
+        "rendered_as": "$21,611.45"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 21611.45,
+        "rendered_as": "$21,611.45"
+      },
+      "date_reported": {
+        "value": "2025-01-08",
+        "rendered_as": "01/08/2025"
+      },
+      "description": {
+        "value": "Employee\u2019s experienced an Achilles tendon rupture to the left ankle while slipping on ice in the company parking lot during early morning hours. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
+      },
+      "close_date": {
+        "value": "2025-12-17",
+        "rendered_as": "12/17/2025"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 26250.0
+      },
+      "body_part": {
+        "value": "Left Ankle"
+      },
+      "nature_of_injury": {
+        "value": "Rupture"
+      },
+      "paid_indemnity": {
+        "value": 12333.86,
+        "rendered_as": "$12,333.86"
+      },
+      "paid_medical": {
+        "value": 9032.14,
+        "rendered_as": "$9,032.14"
+      },
+      "paid_expense": {
+        "value": 245.45,
+        "rendered_as": "$245.45"
+      },
+      "alae": {
+        "value": 175.87,
+        "rendered_as": "$175.87"
+      },
+      "ulae": {
+        "value": 69.58,
+        "rendered_as": "$69.58"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "35"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "TRV-2024-031662"
+      },
+      "claimant": {
+        "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+      },
+      "date_of_loss": {
+        "value": "2024-05-25",
+        "rendered_as": "05/25/2024"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 12536.52,
+        "rendered_as": "$12,536.52"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 12536.52,
+        "rendered_as": "$12,536.52"
+      },
+      "date_reported": {
+        "value": "2024-05-29",
+        "rendered_as": "05/29/2024"
+      },
+      "description": {
+        "value": "Employee suffered a labral tear and impingement to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left hip while tripping over equipment left in the walkway. The injury\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 required a splint and modified work duties for 4 weeks."
+      },
+      "close_date": {
+        "value": "2025-09-15",
+        "rendered_as": "09/15/2025"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 9423.03
+      },
+      "body_part": {
+        "value": "Left Hip"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 6808.56,
+        "rendered_as": "$6,808.56"
+      },
+      "paid_medical": {
+        "value": 5402.88,
+        "rendered_as": "$5,402.88"
+      },
+      "paid_expense": {
+        "value": 325.08,
+        "rendered_as": "$325.08"
+      },
+      "alae": {
+        "value": 153.27,
+        "rendered_as": "$153.27"
+      },
+      "ulae": {
+        "value": 171.8,
+        "rendered_as": "$171.80"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "38"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2021-031869"
+      },
+      "claimant": {
+        "value": "Patrick Rivera"
+      },
+      "date_of_loss": {
+        "value": "2021-05-04",
+        "rendered_as": "05/04/2021"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 7280.88,
+        "rendered_as": "$7,280.88"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 7280.88,
+        "rendered_as": "$7,280.88"
+      },
+      "date_reported": {
+        "value": "2021-05-14",
+        "rendered_as": "05/14/2021"
+      },
+      "description": {
+        "value": "Employee sustained\u2026"
+      },
+      "close_date": {
+        "value": "2022-04-16",
+        "rendered_as": "04/16/2022"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "64"
+      },
+      "cause_description": {
+        "value": "Puncture"
+      },
+      "original_reserve": {
+        "value": 8094.18
+      },
+      "body_part": {
+        "value": "Right Hand"
+      },
+      "nature_of_injury": {
+        "value": "Laceration"
+      },
+      "paid_indemnity": {
+        "value": 4564.79,
+        "rendered_as": "$4,564.79"
+      },
+      "paid_medical": {
+        "value": 2629.82,
+        "rendered_as": "$2,629.82"
+      },
+      "paid_expense": {
+        "value": 86.27,
+        "rendered_as": "$86.27"
+      },
+      "alae": {
+        "value": 63.68,
+        "rendered_as": "$63.68"
+      },
+      "ulae": {
+        "value": 22.58,
+        "rendered_as": "$22.58"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9082"
+      },
+      "body_part_code": {
+        "value": "42"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HMK-2025-032319"
+      },
+      "claimant": {
+        "value": "Alexander Campbell"
+      },
+      "date_of_loss": {
+        "value": "2025-10-21",
+        "rendered_as": "10/21/2025"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 15298.65,
+        "rendered_as": "$15,298.65"
+      },
+      "total_reserved": {
+        "value": 7649.33,
+        "rendered_as": "$7,649.33"
+      },
+      "total_incurred": {
+        "value": 22947.98,
+        "rendered_as": "$22,947.98"
+      },
+      "date_reported": {
+        "value": "2025-11-04",
+        "rendered_as": "11/04/2025"
+      },
+      "description": {
+        "value": "Employee experienced a\u2019baker's\u2026\u2026"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "M. Chen"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 26250.0
+      },
+      "body_part": {
+        "value": "Left Knee"
+      },
+      "nature_of_injury": {
+        "value": "Rupture"
+      },
+      "paid_indemnity": {
+        "value": 5786.24,
+        "rendered_as": "$5,786.24"
+      },
+      "paid_medical": {
+        "value": 7384.49,
+        "rendered_as": "$7,384.49"
+      },
+      "paid_expense": {
+        "value": 2127.92,
+        "rendered_as": "$2,127.92"
+      },
+      "alae": {
+        "value": 1489.3,
+        "rendered_as": "$1,489.30"
+      },
+      "ulae": {
+        "value": 638.62,
+        "rendered_as": "$638.62"
+      },
+      "reserve": {
+        "value": 7649.33,
+        "rendered_as": "$7,649.33"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "36"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2022-032777"
+      },
+      "claimant": {
+        "value": "Catherine Foster"
+      },
+      "date_of_loss": {
+        "value": "2022-04-17",
+        "rendered_as": "04/17/2022"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 8304.15,
+        "rendered_as": "$8,304.15"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 8304.15,
+        "rendered_as": "$8,304.15"
+      },
+      "date_reported": {
+        "value": "2022-04-23",
+        "rendered_as": "04/23/2022"
+      },
+      "description": {
+        "value": "Employee suffered a meniscus tear to the left knee while twisting while exiting a company vehicle. Treatment included physical therapy and a course of anti-inflammatory medication."
+      },
+      "close_date": {
+        "value": "2023-08-13",
+        "rendered_as": "08/13/2023"
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "74"
+      },
+      "cause_description": {
+        "value": "Motor Vehicle"
+      },
+      "original_reserve": {
+        "value": 9347.63
+      },
+      "body_part": {
+        "value": "Left Knee"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 2790.55,
+        "rendered_as": "$2,790.55"
+      },
+      "paid_medical": {
+        "value": 5365.69,
+        "rendered_as": "$5,365.69"
+      },
+      "paid_expense": {
+        "value": 147.91,
+        "rendered_as": "$147.91"
+      },
+      "alae": {
+        "value": 108.3,
+        "rendered_as": "$108.30"
+      },
+      "ulae": {
+        "value": 39.61,
+        "rendered_as": "$39.61"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "36"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2022-033025"
+      },
+      "claimant": {
+        "value": "Maria Jimenez"
+      },
+      "date_of_loss": {
+        "value": "2022-04-12",
+        "rendered_as": "04/12/2022"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 13320.92,
+        "rendered_as": "$13,320.92"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 13320.92,
+        "rendered_as": "$13,320.92"
+      },
+      "date_reported": {
+        "value": "2022-04-16",
+        "rendered_as": "04/16/2022"
+      },
+      "description": {
+        "value": "Employee\u2019s sustained a torn\u2026"
+      },
+      "close_date": {
+        "value": "2023-04-12",
+        "rendered_as": "04/12/2023"
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "73"
+      },
+      "cause_description": {
+        "value": "Overexertion"
+      },
+      "original_reserve": {
+        "value": 14230.72
+      },
+      "body_part": {
+        "value": "Right Knee"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 7199.85,
+        "rendered_as": "$7,199.85"
+      },
+      "paid_medical": {
+        "value": 5740.4,
+        "rendered_as": "$5,740.40"
+      },
+      "paid_expense": {
+        "value": 380.67,
+        "rendered_as": "$380.67"
+      },
+      "alae": {
+        "value": 210.28,
+        "rendered_as": "$210.28"
+      },
+      "ulae": {
+        "value": 170.39,
+        "rendered_as": "$170.39"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9082"
+      },
+      "body_part_code": {
+        "value": "36"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "TRV-2025-033313"
+      },
+      "claimant": {
+        "value": "Heather Powell"
+      },
+      "date_of_loss": {
+        "value": "2025-04-05",
+        "rendered_as": "04/05/2025"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 129796.45,
+        "rendered_as": "$129,796.45"
+      },
+      "total_reserved": {
+        "value": 64898.23,
+        "rendered_as": "$64,898.23"
+      },
+      "total_incurred": {
+        "value": 194694.68,
+        "rendered_as": "$194,694.68"
+      },
+      "date_reported": {
+        "value": "2025-04-18",
+        "rendered_as": "04/18/2025"
+      },
+      "description": {
+        "value": "Employee suffered a\u2019partial\u2026"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "64"
+      },
+      "cause_description": {
+        "value": "Puncture"
+      },
+      "original_reserve": {
+        "value": 210000.59
+      },
+      "body_part": {
+        "value": "Left Hand"
+      },
+      "nature_of_injury": {
+        "value": "Amputation"
+      },
+      "paid_indemnity": {
+        "value": 54495.43,
+        "rendered_as": "$54,495.43"
+      },
+      "paid_medical": {
+        "value": 61459.88,
+        "rendered_as": "$61,459.88"
+      },
+      "paid_expense": {
+        "value": 13841.14,
+        "rendered_as": "$13,841.14"
+      },
+      "alae": {
+        "value": 9688.86,
+        "rendered_as": "$9,688.86"
+      },
+      "ulae": {
+        "value": 4152.28,
+        "rendered_as": "$4,152.28"
+      },
+      "reserve": {
+        "value": 64898.23,
+        "rendered_as": "$64,898.23"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "42"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2021-033325"
+      },
+      "claimant": {
+        "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+      },
+      "date_of_loss": {
+        "value": "2021-11-08",
+        "rendered_as": "11/08/2021"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 10777.75,
+        "rendered_as": "$10,777.75"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 10777.75,
+        "rendered_as": "$10,777.75"
+      },
+      "date_reported": {
+        "value": "2021-11-13",
+        "rendered_as": "11/13/2021"
+      },
+      "description": {
+        "value": "Employee experienced a\u2019stress..."
+      },
+      "close_date": {
+        "value": "2022-05-17",
+        "rendered_as": "05/17/2022"
+      },
+      "examiner": {
+        "value": "K. Whitfield"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 14243.26
+      },
+      "body_part": {
+        "value": "Left Hip"
+      },
+      "nature_of_injury": {
+        "value": "Fracture"
+      },
+      "paid_indemnity": {
+        "value": 6116.2,
+        "rendered_as": "$6,116.20"
+      },
+      "paid_medical": {
+        "value": 4427.18,
+        "rendered_as": "$4,427.18"
+      },
+      "paid_expense": {
+        "value": 234.37,
+        "rendered_as": "$234.37"
+      },
+      "alae": {
+        "value": 202.91,
+        "rendered_as": "$202.91"
+      },
+      "ulae": {
+        "value": 31.46,
+        "rendered_as": "$31.46"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9082"
+      },
+      "body_part_code": {
+        "value": "38"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "EIG-2021-033438"
+      },
+      "claimant": {
+        "value": "Patricia Kim"
+      },
+      "date_of_loss": {
+        "value": "2021-02-11",
+        "rendered_as": "02/11/2021"
+      },
+      "status": {
+        "value": "Subrogation"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 2029.65,
+        "rendered_as": "$2,029.65"
+      },
+      "total_reserved": {
+        "value": 99.33,
+        "rendered_as": "$99.33"
+      },
+      "total_incurred": {
+        "value": 2128.98,
+        "rendered_as": "$2,128.98"
+      },
+      "date_reported": {
+        "value": "2021-02-15",
+        "rendered_as": "02/15/2021"
+      },
+      "description": {
+        "value": "Employee\u2019s sustained a\u2026"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "K. Whitfield"
+      },
+      "recovery_amount": {
+        "value": 2532.0,
+        "rendered_as": "$2,532.00"
+      },
+      "cause_code": {
+        "value": "69"
+      },
+      "cause_description": {
+        "value": "Struck By Object"
+      },
+      "original_reserve": {
+        "value": 1904.11
+      },
+      "body_part": {
+        "value": "Right Hip"
+      },
+      "nature_of_injury": {
+        "value": "Contusion"
+      },
+      "paid_indemnity": {
+        "value": 1064.22,
+        "rendered_as": "$1,064.22"
+      },
+      "paid_medical": {
+        "value": 699.22,
+        "rendered_as": "$699.22"
+      },
+      "paid_expense": {
+        "value": 266.21,
+        "rendered_as": "$266.21"
+      },
+      "alae": {
+        "value": 206.59,
+        "rendered_as": "$206.59"
+      },
+      "ulae": {
+        "value": 59.63,
+        "rendered_as": "$59.63"
+      },
+      "reserve": {
+        "value": 99.33,
+        "rendered_as": "$99.33"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "38"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "TRV-2025-033456"
+      },
+      "claimant": {
+        "value": "Robert Ramirez"
+      },
+      "date_of_loss": {
+        "value": "2025-04-09",
+        "rendered_as": "04/09/2025"
+      },
+      "status": {
+        "value": "Re-opened"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 8534.86,
+        "rendered_as": "$8,534.86"
+      },
+      "total_reserved": {
+        "value": 4267.43,
+        "rendered_as": "$4,267.43"
+      },
+      "total_incurred": {
+        "value": 12802.29,
+        "rendered_as": "$12,802.29"
+      },
+      "date_reported": {
+        "value": "2025-04-19",
+        "rendered_as": "04/19/2025"
+      },
+      "description": {
+        "value": "Employee suffered a\u2019tibial..."
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 7276.9
+      },
+      "body_part": {
+        "value": "Left Knee"
+      },
+      "nature_of_injury": {
+        "value": "Fracture"
+      },
+      "paid_indemnity": {
+        "value": 4391.12,
+        "rendered_as": "$4,391.12"
+      },
+      "paid_medical": {
+        "value": 3922.68,
+        "rendered_as": "$3,922.68"
+      },
+      "paid_expense": {
+        "value": 221.06,
+        "rendered_as": "$221.06"
+      },
+      "alae": {
+        "value": 125.13,
+        "rendered_as": "$125.13"
+      },
+      "ulae": {
+        "value": 95.94,
+        "rendered_as": "$95.94"
+      },
+      "reserve": {
+        "value": 4267.43,
+        "rendered_as": "$4,267.43"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "36"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "TRV-2024-033784"
+      },
+      "claimant": {
+        "value": "Linda Ward"
+      },
+      "date_of_loss": {
+        "value": "2024-12-01",
+        "rendered_as": "12/01/2024"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 12670.93,
+        "rendered_as": "$12,670.93"
+      },
+      "total_reserved": {
+        "value": 6335.46,
+        "rendered_as": "$6,335.46"
+      },
+      "total_incurred": {
+        "value": 19006.39,
+        "rendered_as": "$19,006.39"
+      },
+      "date_reported": {
+        "value": "2024-12-08",
+        "rendered_as": "12/08/2024"
+      },
+      "description": {
+        "value": "Employee suffered a labral..."
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 20975.92
+      },
+      "body_part": {
+        "value": "Right Hip"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 7257.8,
+        "rendered_as": "$7,257.80"
+      },
+      "paid_medical": {
+        "value": 5260.34,
+        "rendered_as": "$5,260.34"
+      },
+      "paid_expense": {
+        "value": 152.79,
+        "rendered_as": "$152.79"
+      },
+      "alae": {
+        "value": 110.92,
+        "rendered_as": "$110.92"
+      },
+      "ulae": {
+        "value": 41.88,
+        "rendered_as": "$41.88"
+      },
+      "reserve": {
+        "value": 6335.46,
+        "rendered_as": "$6,335.46"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "38"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HMK-2025-033892"
+      },
+      "claimant": {
+        "value": "Barbara Richardson"
+      },
+      "date_of_loss": {
+        "value": "2025-06-03",
+        "rendered_as": "06/03/2025"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 1311.56,
+        "rendered_as": "$1,311.56"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 1311.56,
+        "rendered_as": "$1,311.56"
+      },
+      "date_reported": {
+        "value": "2025-06-08",
+        "rendered_as": "06/08/2025"
+      },
+      "description": {
+        "value": "Employee sustained multiple rib contusions to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
+      },
+      "close_date": {
+        "value": "2026-03-07",
+        "rendered_as": "03/07/2026"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 1901.78
+      },
+      "body_part": {
+        "value": "Chest"
+      },
+      "nature_of_injury": {
+        "value": "Contusion"
+      },
+      "paid_indemnity": {
+        "value": 663.98,
+        "rendered_as": "$663.98"
+      },
+      "paid_medical": {
+        "value": 544.25,
+        "rendered_as": "$544.25"
+      },
+      "paid_expense": {
+        "value": 103.33,
+        "rendered_as": "$103.33"
+      },
+      "alae": {
+        "value": 54.66,
+        "rendered_as": "$54.66"
+      },
+      "ulae": {
+        "value": 48.66,
+        "rendered_as": "$48.66"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "11"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ZIG-2023-034222"
+      },
+      "claimant": {
+        "value": "Elizabeth Watson"
+      },
+      "date_of_loss": {
+        "value": "2023-04-24",
+        "rendered_as": "04/24/2023"
+      },
+      "status": {
+        "value": "Closed Without Payment"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "date_reported": {
+        "value": "2023-04-26",
+        "rendered_as": "04/26/2023"
+      },
+      "description": {
+        "value": "Employee experienced a\u2019syndesmosis injury\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 to the right ankle while landing awkwardly after jumping from equipment."
+      },
+      "close_date": {
+        "value": "2023-08-04",
+        "rendered_as": "08/04/2023"
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "71"
+      },
+      "cause_description": {
+        "value": "Fall from Height"
+      },
+      "body_part": {
+        "value": "Right Ankle"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "paid_medical": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "paid_expense": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "alae": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "ulae": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9082"
+      },
+      "body_part_code": {
+        "value": "35"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2021-034375"
+      },
+      "claimant": {
+        "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+      },
+      "date_of_loss": {
+        "value": "2021-05-01",
+        "rendered_as": "05/01/2021"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 10291.72,
+        "rendered_as": "$10,291.72"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 10291.72,
+        "rendered_as": "$10,291.72"
+      },
+      "date_reported": {
+        "value": "2021-05-05",
+        "rendered_as": "05/05/2021"
+      },
+      "description": {
+        "value": "Employee suffered a\u2019fracture of the lateral malleolus to the left ankle while slipping on ice in the company parking lot during early morning hours."
+      },
+      "close_date": {
+        "value": "2022-08-17",
+        "rendered_as": "08/17/2022"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 8629.99
+      },
+      "body_part": {
+        "value": "Left Ankle"
+      },
+      "nature_of_injury": {
+        "value": "Fracture"
+      },
+      "paid_indemnity": {
+        "value": 5770.87,
+        "rendered_as": "$5,770.87"
+      },
+      "paid_medical": {
+        "value": 4457.35,
+        "rendered_as": "$4,457.35"
+      },
+      "paid_expense": {
+        "value": 63.5,
+        "rendered_as": "$63.50"
+      },
+      "alae": {
+        "value": 33.96,
+        "rendered_as": "$33.96"
+      },
+      "ulae": {
+        "value": 29.55,
+        "rendered_as": "$29.55"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9082"
+      },
+      "body_part_code": {
+        "value": "35"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ZIG-2022-034525"
+      },
+      "claimant": {
+        "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+      },
+      "date_of_loss": {
+        "value": "2022-08-13",
+        "rendered_as": "08/13/2022"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 9903.84,
+        "rendered_as": "$9,903.84"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 9903.84,
+        "rendered_as": "$9,903.84"
+      },
+      "date_reported": {
+        "value": "2022-08-22",
+        "rendered_as": "08/22/2022"
+      },
+      "description": {
+        "value": "Employee sustained a\u2019deep\u2026"
+      },
+      "close_date": {
+        "value": "2023-05-21",
+        "rendered_as": "05/21/2023"
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "64"
+      },
+      "cause_description": {
+        "value": "Puncture"
+      },
+      "original_reserve": {
+        "value": 7681.8
+      },
+      "body_part": {
+        "value": "Left Hand"
+      },
+      "nature_of_injury": {
+        "value": "Puncture"
+      },
+      "paid_indemnity": {
+        "value": 5863.74,
+        "rendered_as": "$5,863.74"
+      },
+      "paid_medical": {
+        "value": 4002.13,
+        "rendered_as": "$4,002.13"
+      },
+      "paid_expense": {
+        "value": 37.97,
+        "rendered_as": "$37.97"
+      },
+      "alae": {
+        "value": 27.54,
+        "rendered_as": "$27.54"
+      },
+      "ulae": {
+        "value": 10.42,
+        "rendered_as": "$10.42"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "42"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HMK-2025-035016"
+      },
+      "claimant": {
+        "value": "Thomas King"
+      },
+      "date_of_loss": {
+        "value": "2025-09-02",
+        "rendered_as": "09/02/2025"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 10387.92,
+        "rendered_as": "$10,387.92"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 10387.92,
+        "rendered_as": "$10,387.92"
+      },
+      "date_reported": {
+        "value": "2025-09-16",
+        "rendered_as": "09/16/2025"
+      },
+      "description": {
+        "value": "Employee sustained a stress fracture\u2026"
+      },
+      "close_date": {
+        "value": "2026-03-14",
+        "rendered_as": "03/14/2026"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 8161.53
+      },
+      "body_part": {
+        "value": "Right Ankle"
+      },
+      "nature_of_injury": {
+        "value": "Fracture"
+      },
+      "paid_indemnity": {
+        "value": 5929.31,
+        "rendered_as": "$5,929.31"
+      },
+      "paid_medical": {
+        "value": 4417.27,
+        "rendered_as": "$4,417.27"
+      },
+      "paid_expense": {
+        "value": 41.34,
+        "rendered_as": "$41.34"
+      },
+      "alae": {
+        "value": 32.29,
+        "rendered_as": "$32.29"
+      },
+      "ulae": {
+        "value": 9.05,
+        "rendered_as": "$9.05"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "35"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HMK-2025-035420"
+      },
+      "claimant": {
+        "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+      },
+      "date_of_loss": {
+        "value": "2025-10-20",
+        "rendered_as": "10/20/2025"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 4437.66,
+        "rendered_as": "$4,437.66"
+      },
+      "total_reserved": {
+        "value": 3393.75,
+        "rendered_as": "$3,393.75"
+      },
+      "total_incurred": {
+        "value": 7831.41,
+        "rendered_as": "$7,831.41"
+      },
+      "date_reported": {
+        "value": "2025-10-23",
+        "rendered_as": "10/23/2025"
+      },
+      "description": {
+        "value": "Employee sustained a severe contusion to\u2026"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "M. Chen"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 7197.75
+      },
+      "body_part": {
+        "value": "Left Knee"
+      },
+      "nature_of_injury": {
+        "value": "Contusion"
+      },
+      "paid_indemnity": {
+        "value": 2119.18,
+        "rendered_as": "$2,119.18"
+      },
+      "paid_medical": {
+        "value": 1932.75,
+        "rendered_as": "$1,932.75"
+      },
+      "paid_expense": {
+        "value": 385.73,
+        "rendered_as": "$385.73"
+      },
+      "alae": {
+        "value": 232.86,
+        "rendered_as": "$232.86"
+      },
+      "ulae": {
+        "value": 152.87,
+        "rendered_as": "$152.87"
+      },
+      "reserve": {
+        "value": 3393.75,
+        "rendered_as": "$3,393.75"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "36"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2021-035462"
+      },
+      "claimant": {
+        "value": "Lisa Gray"
+      },
+      "date_of_loss": {
+        "value": "2021-10-15",
+        "rendered_as": "10/15/2021"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 2770.82,
+        "rendered_as": "$2,770.82"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 2770.82,
+        "rendered_as": "$2,770.82"
+      },
+      "date_reported": {
+        "value": "2021-10-18",
+        "rendered_as": "10/18/2021"
+      },
+      "description": {
+        "value": "Employee sustained a\u2019severe\u2026"
+      },
+      "close_date": {
+        "value": "2022-11-25",
+        "rendered_as": "11/25/2022"
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "69"
+      },
+      "cause_description": {
+        "value": "Struck By Object"
+      },
+      "original_reserve": {
+        "value": 2111.22
+      },
+      "body_part": {
+        "value": "Left Hip"
+      },
+      "nature_of_injury": {
+        "value": "Contusion"
+      },
+      "paid_indemnity": {
+        "value": 1290.86,
+        "rendered_as": "$1,290.86"
+      },
+      "paid_medical": {
+        "value": 1231.32,
+        "rendered_as": "$1,231.32"
+      },
+      "paid_expense": {
+        "value": 248.64,
+        "rendered_as": "$248.64"
+      },
+      "alae": {
+        "value": 175.34,
+        "rendered_as": "$175.34"
+      },
+      "ulae": {
+        "value": 73.3,
+        "rendered_as": "$73.30"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9082"
+      },
+      "body_part_code": {
+        "value": "38"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ZIG-2022-035652"
+      },
+      "claimant": {
+        "value": "Daniel Torres"
+      },
+      "date_of_loss": {
+        "value": "2022-11-04",
+        "rendered_as": "11/04/2022"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 4322.9,
+        "rendered_as": "$4,322.90"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 4322.9,
+        "rendered_as": "$4,322.90"
+      },
+      "date_reported": {
+        "value": "2022-11-08",
+        "rendered_as": "11/08/2022"
+      },
+      "description": {
+        "value": "Employee experienced a\u2019pneumothorax\u2026\u2026\u2026"
+      },
+      "close_date": {
+        "value": "2023-10-29",
+        "rendered_as": "10/29/2023"
+      },
+      "examiner": {
+        "value": "K. Whitfield"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 5250.0
+      },
+      "body_part": {
+        "value": "Chest"
+      },
+      "nature_of_injury": {
+        "value": "Slip & Fall (WC)"
+      },
+      "paid_indemnity": {
+        "value": 1787.79,
+        "rendered_as": "$1,787.79"
+      },
+      "paid_medical": {
+        "value": 2095.57,
+        "rendered_as": "$2,095.57"
+      },
+      "paid_expense": {
+        "value": 439.54,
+        "rendered_as": "$439.54"
+      },
+      "alae": {
+        "value": 319.17,
+        "rendered_as": "$319.17"
+      },
+      "ulae": {
+        "value": 120.37,
+        "rendered_as": "$120.37"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9082"
+      },
+      "body_part_code": {
+        "value": "11"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ZIG-2022-035734"
+      },
+      "claimant": {
+        "value": "Betty Ruiz"
+      },
+      "date_of_loss": {
+        "value": "2022-06-08",
+        "rendered_as": "06/08/2022"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 3211.95,
+        "rendered_as": "$3,211.95"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 3211.95,
+        "rendered_as": "$3,211.95"
+      },
+      "date_reported": {
+        "value": "2022-06-17",
+        "rendered_as": "06/17/2022"
+      },
+      "description": {
+        "value": "Employee\u2019s experienced a lumbar sprain\u2026"
+      },
+      "close_date": {
+        "value": "2023-05-07",
+        "rendered_as": "05/07/2023"
+      },
+      "examiner": {
+        "value": "K. Whitfield"
+      },
+      "cause_code": {
+        "value": "73"
+      },
+      "cause_description": {
+        "value": "Overexertion"
+      },
+      "original_reserve": {
+        "value": 2919.87
+      },
+      "body_part": {
+        "value": "Lower Back"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 1817.33,
+        "rendered_as": "$1,817.33"
+      },
+      "paid_medical": {
+        "value": 1320.37,
+        "rendered_as": "$1,320.37"
+      },
+      "paid_expense": {
+        "value": 74.25,
+        "rendered_as": "$74.25"
+      },
+      "alae": {
+        "value": 45.32,
+        "rendered_as": "$45.32"
+      },
+      "ulae": {
+        "value": 28.92,
+        "rendered_as": "$28.92"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "30"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "TRV-2024-035835"
+      },
+      "claimant": {
+        "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+      },
+      "date_of_loss": {
+        "value": "2024-10-15",
+        "rendered_as": "10/15/2024"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 9491.35,
+        "rendered_as": "$9,491.35"
+      },
+      "total_reserved": {
+        "value": 4745.67,
+        "rendered_as": "$4,745.67"
+      },
+      "total_incurred": {
+        "value": 14237.02,
+        "rendered_as": "$14,237.02"
+      },
+      "date_reported": {
+        "value": "2024-10-25",
+        "rendered_as": "10/25/2024"
+      },
+      "description": {
+        "value": "Employee experienced a\u2019patellar\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 10295.52
+      },
+      "body_part": {
+        "value": "Right Knee"
+      },
+      "nature_of_injury": {
+        "value": "Fracture"
+      },
+      "paid_indemnity": {
+        "value": 5302.55,
+        "rendered_as": "$5,302.55"
+      },
+      "paid_medical": {
+        "value": 3801.66,
+        "rendered_as": "$3,801.66"
+      },
+      "paid_expense": {
+        "value": 387.14,
+        "rendered_as": "$387.14"
+      },
+      "alae": {
+        "value": 280.68,
+        "rendered_as": "$280.68"
+      },
+      "ulae": {
+        "value": 106.46,
+        "rendered_as": "$106.46"
+      },
+      "reserve": {
+        "value": 4745.67,
+        "rendered_as": "$4,745.67"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "36"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2021-036236"
+      },
+      "claimant": {
+        "value": "Mark Flores"
+      },
+      "date_of_loss": {
+        "value": "2021-05-23",
+        "rendered_as": "05/23/2021"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 3596.84,
+        "rendered_as": "$3,596.84"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 3596.84,
+        "rendered_as": "$3,596.84"
+      },
+      "date_reported": {
+        "value": "2021-06-03",
+        "rendered_as": "06/03/2021"
+      },
+      "description": {
+        "value": "Employee\u2019s sustained a severe sprain..."
+      },
+      "close_date": {
+        "value": "2021-10-26",
+        "rendered_as": "10/26/2021"
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 3860.36
+      },
+      "body_part": {
+        "value": "Left Ankle"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 2203.94,
+        "rendered_as": "$2,203.94"
+      },
+      "paid_medical": {
+        "value": 1357.5,
+        "rendered_as": "$1,357.50"
+      },
+      "paid_expense": {
+        "value": 35.4,
+        "rendered_as": "$35.40"
+      },
+      "alae": {
+        "value": 17.12,
+        "rendered_as": "$17.12"
+      },
+      "ulae": {
+        "value": 18.28,
+        "rendered_as": "$18.28"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "35"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "MRK-2023-036483"
+      },
+      "claimant": {
+        "value": "Ashley Alvarez"
+      },
+      "date_of_loss": {
+        "value": "2023-09-01",
+        "rendered_as": "09/01/2023"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 3723.43,
+        "rendered_as": "$3,723.43"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 3723.43,
+        "rendered_as": "$3,723.43"
+      },
+      "date_reported": {
+        "value": "2023-09-05",
+        "rendered_as": "09/05/2023"
+      },
+      "description": {
+        "value": "Employee sustained a severe\u2026"
+      },
+      "close_date": {
+        "value": "2024-01-20",
+        "rendered_as": "01/20/2024"
+      },
+      "examiner": {
+        "value": "M. Chen"
+      },
+      "cause_code": {
+        "value": "73"
+      },
+      "cause_description": {
+        "value": "Overexertion"
+      },
+      "original_reserve": {
+        "value": 3872.23
+      },
+      "body_part": {
+        "value": "Right Knee"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 2092.63,
+        "rendered_as": "$2,092.63"
+      },
+      "paid_medical": {
+        "value": 1527.3,
+        "rendered_as": "$1,527.30"
+      },
+      "paid_expense": {
+        "value": 103.5,
+        "rendered_as": "$103.50"
+      },
+      "alae": {
+        "value": 85.25,
+        "rendered_as": "$85.25"
+      },
+      "ulae": {
+        "value": 18.25,
+        "rendered_as": "$18.25"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "36"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "TRV-2024-036581"
+      },
+      "claimant": {
+        "value": "Dorothy Castillo"
+      },
+      "date_of_loss": {
+        "value": "2024-09-14",
+        "rendered_as": "09/14/2024"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "wc"
+      },
+      "total_paid": {
+        "value": 3493.43,
+        "rendered_as": "$3,493.43"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "total_incurred": {
+        "value": 3493.43,
+        "rendered_as": "$3,493.43"
+      },
+      "date_reported": {
+        "value": "2024-09-25",
+        "rendered_as": "09/25/2024"
+      },
+      "description": {
+        "value": "Employee experienced a hip\u2026"
+      },
+      "close_date": {
+        "value": "2025-07-23",
+        "rendered_as": "07/23/2025"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "72"
+      },
+      "cause_description": {
+        "value": "Slip & Fall (WC)"
+      },
+      "original_reserve": {
+        "value": 2951.35
+      },
+      "body_part": {
+        "value": "Right Hip"
+      },
+      "nature_of_injury": {
+        "value": "Strain/Sprain"
+      },
+      "paid_indemnity": {
+        "value": 1823.34,
+        "rendered_as": "$1,823.34"
+      },
+      "paid_medical": {
+        "value": 1379.69,
+        "rendered_as": "$1,379.69"
+      },
+      "paid_expense": {
+        "value": 290.4,
+        "rendered_as": "$290.40"
+      },
+      "alae": {
+        "value": 214.66,
+        "rendered_as": "$214.66"
+      },
+      "ulae": {
+        "value": 75.75,
+        "rendered_as": "$75.75"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0.00"
+      },
+      "class_code": {
+        "value": "9052"
+      },
+      "body_part_code": {
+        "value": "38"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HMK-2025-033784"
+      },
+      "claimant": {
+        "value": "Maria White"
+      },
+      "date_of_loss": {
+        "value": "2025-05-09",
+        "rendered_as": "2025-05-09"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "gl"
+      },
+      "total_paid": {
+        "value": 533.76,
+        "rendered_as": "533.76"
+      },
+      "total_reserved": {
+        "value": 41660.53,
+        "rendered_as": "41,660.53"
+      },
+      "total_incurred": {
+        "value": 42194.29,
+        "rendered_as": "42,194.29"
+      },
+      "date_reported": {
+        "value": "2025-05-31",
+        "rendered_as": "2025-05-31"
+      },
+      "description": {
+        "value": "Customer's wheelchair was..."
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "12"
+      },
+      "cause_description": {
+        "value": "Property Damage"
+      },
+      "original_reserve": {
+        "value": 53460.0
+      },
+      "occurrence_type": {
+        "value": "Property Damage"
+      },
+      "paid_indemnity": {
+        "value": 459.67,
+        "rendered_as": "459.67"
+      },
+      "paid_medical": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "paid_expense": {
+        "value": 74.09,
+        "rendered_as": "74.09"
+      },
+      "alae": {
+        "value": 55.44,
+        "rendered_as": "55.44"
+      },
+      "ulae": {
+        "value": 18.66,
+        "rendered_as": "18.66"
+      },
+      "case_reserve": {
+        "value": 41332.03,
+        "rendered_as": "41,332.03"
+      },
+      "ibnr_reserve": {
+        "value": 328.5,
+        "rendered_as": "328.50"
+      },
+      "reserve": {
+        "value": 41660.53,
+        "rendered_as": "41,660.53"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HMK-2025-034222"
+      },
+      "claimant": {
+        "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+      },
+      "date_of_loss": {
+        "value": "2025-07-24",
+        "rendered_as": "2025-07-24"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "gl"
+      },
+      "total_paid": {
+        "value": 675.89,
+        "rendered_as": "675.89"
+      },
+      "total_reserved": {
+        "value": 32215.86,
+        "rendered_as": "32,215.86"
+      },
+      "total_incurred": {
+        "value": 32891.75,
+        "rendered_as": "32,891.75"
+      },
+      "date_reported": {
+        "value": "2025-08-13",
+        "rendered_as": "2025-08-13"
+      },
+      "description": {
+        "value": "Customer's stroller was\u2026"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "12"
+      },
+      "cause_description": {
+        "value": "Property Damage"
+      },
+      "original_reserve": {
+        "value": 30615.05
+      },
+      "occurrence_type": {
+        "value": "Property Damage"
+      },
+      "paid_indemnity": {
+        "value": 546.73,
+        "rendered_as": "546.73"
+      },
+      "paid_medical": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "paid_expense": {
+        "value": 129.16,
+        "rendered_as": "129.16"
+      },
+      "alae": {
+        "value": 117.18,
+        "rendered_as": "117.18"
+      },
+      "ulae": {
+        "value": 11.98,
+        "rendered_as": "11.98"
+      },
+      "case_reserve": {
+        "value": 31529.04,
+        "rendered_as": "31,529.04"
+      },
+      "ibnr_reserve": {
+        "value": 686.82,
+        "rendered_as": "686.82"
+      },
+      "reserve": {
+        "value": 32215.86,
+        "rendered_as": "32,215.86"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "MRK-2023-034375"
+      },
+      "claimant": {
+        "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+      },
+      "date_of_loss": {
+        "value": "2023-06-04",
+        "rendered_as": "2023-06-04"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "gl"
+      },
+      "total_paid": {
+        "value": 2087.39,
+        "rendered_as": "2,087.39"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "total_incurred": {
+        "value": 2087.39,
+        "rendered_as": "2,087.39"
+      },
+      "date_reported": {
+        "value": "2023-06-08",
+        "rendered_as": "2023-06-08"
+      },
+      "description": {
+        "value": "Customer at the facility\u2026"
+      },
+      "close_date": {
+        "value": "2023-10-19",
+        "rendered_as": "2023-10-19"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "13"
+      },
+      "cause_description": {
+        "value": "Bodily Injury"
+      },
+      "original_reserve": {
+        "value": 922.93
+      },
+      "occurrence_type": {
+        "value": "Bodily Injury"
+      },
+      "paid_indemnity": {
+        "value": 1125.78,
+        "rendered_as": "1,125.78"
+      },
+      "paid_medical": {
+        "value": 661.12,
+        "rendered_as": "661.12"
+      },
+      "paid_expense": {
+        "value": 300.49,
+        "rendered_as": "300.49"
+      },
+      "alae": {
+        "value": 241.8,
+        "rendered_as": "241.80"
+      },
+      "ulae": {
+        "value": 58.69,
+        "rendered_as": "58.69"
+      },
+      "case_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "ibnr_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ZIG-2024-031869"
+      },
+      "claimant": {
+        "value": "Katherine Taylor"
+      },
+      "date_of_loss": {
+        "value": "2024-07-12",
+        "rendered_as": "2024-07-12"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "gl"
+      },
+      "total_paid": {
+        "value": 1210.89,
+        "rendered_as": "1,210.89"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "total_incurred": {
+        "value": 1210.89,
+        "rendered_as": "1,210.89"
+      },
+      "date_reported": {
+        "value": "2024-07-30",
+        "rendered_as": "2024-07-30"
+      },
+      "description": {
+        "value": "Customer at the hotel\u2026"
+      },
+      "close_date": {
+        "value": "2024-12-26",
+        "rendered_as": "2024-12-26"
+      },
+      "examiner": {
+        "value": "K. Whitfield"
+      },
+      "cause_code": {
+        "value": "13"
+      },
+      "cause_description": {
+        "value": "Bodily Injury"
+      },
+      "original_reserve": {
+        "value": 943.69
+      },
+      "occurrence_type": {
+        "value": "Bodily Injury"
+      },
+      "paid_indemnity": {
+        "value": 660.47,
+        "rendered_as": "660.47"
+      },
+      "paid_medical": {
+        "value": 415.91,
+        "rendered_as": "415.91"
+      },
+      "paid_expense": {
+        "value": 134.51,
+        "rendered_as": "134.51"
+      },
+      "alae": {
+        "value": 99.78,
+        "rendered_as": "99.78"
+      },
+      "ulae": {
+        "value": 34.73,
+        "rendered_as": "34.73"
+      },
+      "case_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "ibnr_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ZIG-2024-033438"
+      },
+      "claimant": {
+        "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+      },
+      "date_of_loss": {
+        "value": "2024-05-25",
+        "rendered_as": "2024-05-25"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "gl"
+      },
+      "total_paid": {
+        "value": 1162.3,
+        "rendered_as": "1,162.30"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "total_incurred": {
+        "value": 1162.3,
+        "rendered_as": "1,162.30"
+      },
+      "date_reported": {
+        "value": "2024-06-07",
+        "rendered_as": "2024-06-07"
+      },
+      "description": {
+        "value": "A client stumbled on an..."
+      },
+      "close_date": {
+        "value": "2025-10-23",
+        "rendered_as": "2025-10-23"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "recovery_amount": {
+        "value": 2278.77,
+        "rendered_as": "2,278.77"
+      },
+      "cause_code": {
+        "value": "01"
+      },
+      "cause_description": {
+        "value": "Slip & Fall"
+      },
+      "original_reserve": {
+        "value": 927.45
+      },
+      "occurrence_type": {
+        "value": "Slip & Fall"
+      },
+      "paid_indemnity": {
+        "value": 625.69,
+        "rendered_as": "625.69"
+      },
+      "paid_medical": {
+        "value": 393.69,
+        "rendered_as": "393.69"
+      },
+      "paid_expense": {
+        "value": 142.92,
+        "rendered_as": "142.92"
+      },
+      "alae": {
+        "value": 103.64,
+        "rendered_as": "103.64"
+      },
+      "ulae": {
+        "value": 39.28,
+        "rendered_as": "39.28"
+      },
+      "case_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "ibnr_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "MRK-2021-033025"
+      },
+      "claimant": {
+        "value": "Frank Cooper"
+      },
+      "date_of_loss": {
+        "value": "2021-03-15",
+        "rendered_as": "2021-03-15"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "gl"
+      },
+      "total_paid": {
+        "value": 1143.79,
+        "rendered_as": "1,143.79"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "total_incurred": {
+        "value": 1143.79,
+        "rendered_as": "1,143.79"
+      },
+      "date_reported": {
+        "value": "2021-03-21",
+        "rendered_as": "2021-03-21"
+      },
+      "description": {
+        "value": "Guest at the hotel was burned by..."
+      },
+      "close_date": {
+        "value": "2021-07-26",
+        "rendered_as": "2021-07-26"
+      },
+      "examiner": {
+        "value": "K. Whitfield"
+      },
+      "cause_code": {
+        "value": "13"
+      },
+      "cause_description": {
+        "value": "Bodily Injury"
+      },
+      "original_reserve": {
+        "value": 920.25
+      },
+      "occurrence_type": {
+        "value": "Bodily Injury"
+      },
+      "paid_indemnity": {
+        "value": 667.73,
+        "rendered_as": "667.73"
+      },
+      "paid_medical": {
+        "value": 367.86,
+        "rendered_as": "367.86"
+      },
+      "paid_expense": {
+        "value": 108.2,
+        "rendered_as": "108.20"
+      },
+      "alae": {
+        "value": 91.98,
+        "rendered_as": "91.98"
+      },
+      "ulae": {
+        "value": 16.02,
+        "rendered_as": "16.02"
+      },
+      "case_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "ibnr_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ZIG-2024-033313"
+      },
+      "claimant": {
+        "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
+      },
+      "date_of_loss": {
+        "value": "2024-06-20",
+        "rendered_as": "2024-06-20"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "gl"
+      },
+      "total_paid": {
+        "value": 983.48,
+        "rendered_as": "983.48"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "total_incurred": {
+        "value": 983.48,
+        "rendered_as": "983.48"
+      },
+      "date_reported": {
+        "value": "2024-07-04",
+        "rendered_as": "2024-07-04"
+      },
+      "description": {
+        "value": "Guest at the\u00a0hotel was burned\u2026"
+      },
+      "close_date": {
+        "value": "2025-05-13",
+        "rendered_as": "2025-05-13"
+      },
+      "examiner": {
+        "value": "M. Chen"
+      },
+      "cause_code": {
+        "value": "13"
+      },
+      "cause_description": {
+        "value": "Bodily Injury"
+      },
+      "original_reserve": {
+        "value": 923.66
+      },
+      "occurrence_type": {
+        "value": "Bodily Injury"
+      },
+      "paid_indemnity": {
+        "value": 579.53,
+        "rendered_as": "579.53"
+      },
+      "paid_medical": {
+        "value": 297.84,
+        "rendered_as": "297.84"
+      },
+      "paid_expense": {
+        "value": 106.11,
+        "rendered_as": "106.11"
+      },
+      "alae": {
+        "value": 86.33,
+        "rendered_as": "86.33"
+      },
+      "ulae": {
+        "value": 19.78,
+        "rendered_as": "19.78"
+      },
+      "case_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "ibnr_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "ACE-2021-030952"
+      },
+      "claimant": {
+        "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
+      },
+      "date_of_loss": {
+        "value": "2021-05-31",
+        "rendered_as": "2021-05-31"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "gl"
+      },
+      "total_paid": {
+        "value": 982.26,
+        "rendered_as": "982.26"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "total_incurred": {
+        "value": 982.26,
+        "rendered_as": "982.26"
+      },
+      "date_reported": {
+        "value": "2021-06-09",
+        "rendered_as": "2021-06-09"
+      },
+      "description": {
+        "value": "A vendor fell down a stairwell when the handrail\u2026"
+      },
+      "close_date": {
+        "value": "2022-04-12",
+        "rendered_as": "2022-04-12"
+      },
+      "examiner": {
+        "value": "R. Simmons"
+      },
+      "cause_code": {
+        "value": "01"
+      },
+      "cause_description": {
+        "value": "Slip & Fall"
+      },
+      "original_reserve": {
+        "value": 1026.5
+      },
+      "occurrence_type": {
+        "value": "Slip & Fall"
+      },
+      "paid_indemnity": {
+        "value": 497.83,
+        "rendered_as": "497.83"
+      },
+      "paid_medical": {
+        "value": 380.83,
+        "rendered_as": "380.83"
+      },
+      "paid_expense": {
+        "value": 103.6,
+        "rendered_as": "103.60"
+      },
+      "alae": {
+        "value": 77.24,
+        "rendered_as": "77.24"
+      },
+      "ulae": {
+        "value": 26.36,
+        "rendered_as": "26.36"
+      },
+      "case_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "ibnr_reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "$0"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HMK-2025-027470"
+      },
+      "claimant": {
+        "value": "Hill Country Hospitality Partners, LLC"
+      },
+      "date_of_loss": {
+        "value": "2025-11-19",
+        "rendered_as": "19-Nov-2025"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 50816.14,
+        "rendered_as": "$50,816.14"
+      },
+      "total_reserved": {
+        "value": 7622.42,
+        "rendered_as": "$7,622.42"
+      },
+      "total_incurred": {
+        "value": 58438.56,
+        "rendered_as": "$58,438.56"
+      },
+      "date_reported": {
+        "value": "2025-11-25",
+        "rendered_as": "25-Nov-2025"
+      },
+      "description": {
+        "value": "Frozen pipes in the fire\u2026"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "31"
+      },
+      "cause_description": {
+        "value": "Water Damage"
+      },
+      "original_reserve": {
+        "value": 47352.92
+      },
+      "location_id": {
+        "value": "LOC-002"
+      },
+      "location_name": {
+        "value": "Riverwalk Suites San Antonio"
+      },
+      "cause": {
+        "value": "Water Damage"
+      },
+      "paid_amount": {
+        "value": 44751.29,
+        "rendered_as": "$44,751.29"
+      },
+      "paid_expense": {
+        "value": 6064.85,
+        "rendered_as": "$6,064.85"
+      },
+      "reserve": {
+        "value": 7622.42,
+        "rendered_as": "$7,622.42"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "AOI-2025-027822"
+      },
+      "claimant": {
+        "value": "Hill Country Hospitality Partners, LLC"
+      },
+      "date_of_loss": {
+        "value": "2025-04-28",
+        "rendered_as": "28-Apr-2025"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 127750.0,
+        "rendered_as": "$127,750.00"
+      },
+      "total_reserved": {
+        "value": 29738.75,
+        "rendered_as": "$29,738.75"
+      },
+      "total_incurred": {
+        "value": 157488.75,
+        "rendered_as": "$157,488.75"
+      },
+      "date_reported": {
+        "value": "2025-05-03",
+        "rendered_as": "03-May-2025"
+      },
+      "description": {
+        "value": "Lightning struck the communications............\u2026"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "A. Delgado"
+      },
+      "cause_code": {
+        "value": "41"
+      },
+      "cause_description": {
+        "value": "Lightning"
+      },
+      "original_reserve": {
+        "value": 158957.39
+      },
+      "location_id": {
+        "value": "LOC-007"
+      },
+      "location_name": {
+        "value": "Mission Cantina - Pearl District"
+      },
+      "cause": {
+        "value": "Lightning"
+      },
+      "paid_amount": {
+        "value": 121517.73,
+        "rendered_as": "$121,517.73"
+      },
+      "paid_expense": {
+        "value": 6232.27,
+        "rendered_as": "$6,232.27"
+      },
+      "reserve": {
+        "value": 29738.75,
+        "rendered_as": "$29,738.75"
+      }
+    }
+  ],
+  "subtotals": [
+    {
+      "coverage": "wc",
+      "total_paid": {
+        "value": 324545.3,
+        "rendered_as": "$324,545.30"
+      },
+      "total_reserved": {
+        "value": 91389.2,
+        "rendered_as": "$91,389.20"
+      },
+      "total_incurred": {
+        "value": 415934.5,
+        "rendered_as": "$415,934.50"
+      }
+    },
+    {
+      "coverage": "gl",
+      "total_paid": {
+        "value": 8779.76,
+        "rendered_as": "8,779.76"
+      },
+      "total_reserved": {
+        "value": 73876.39,
+        "rendered_as": "73,876.39"
+      },
+      "total_incurred": {
+        "value": 82656.15,
+        "rendered_as": "82,656.15"
+      }
+    },
+    {
+      "coverage": "property",
+      "total_paid": {
+        "value": 178566.14,
+        "rendered_as": "$178,566.14"
+      },
+      "total_reserved": {
+        "value": 37361.17,
+        "rendered_as": "$37,361.17"
+      },
+      "total_incurred": {
+        "value": 215927.31,
+        "rendered_as": "$215,927.31"
+      }
+    }
+  ],
+  "grand_totals": {
+    "total_paid": {
+      "value": 511891.2,
+      "rendered_as": "$511,891.20"
+    },
+    "total_reserved": {
+      "value": 202626.76,
+      "rendered_as": "$202,626.76"
+    },
+    "total_incurred": {
+      "value": 714517.96,
+      "rendered_as": "$714,517.96"
+    }
+  },
+  "excel_metadata": {
+    "merged_regions": [
+      {
+        "range": "A1:P1",
+        "value": "Hallmark Insurance Group"
+      },
+      {
+        "range": "A2:P2",
+        "value": "Loss Run Report"
+      },
+      {
+        "range": "B3:D3",
+        "value": "Hill Country Hospitality Partners, LLC"
+      },
+      {
+        "range": "B4:D4",
+        "value": "401 Congress Avenue, Suite 2800, Austin, TX, 78701"
+      },
+      {
+        "range": "B5:D5",
+        "value": "WC-HCHP-2025-3350"
+      },
+      {
+        "range": "B6:D6",
+        "value": "05/01/2025 to 05/01/2026"
+      },
+      {
+        "range": "B7:D7",
+        "value": "03/15/2026"
+      },
+      {
+        "range": "B8:D8",
+        "value": "Marilyn Rocha, Claims Adjustment Bureau"
+      },
+      {
+        "range": "A10:D10",
+        "value": "Claim Information"
+      },
+      {
+        "range": "L10:N10",
+        "value": "Injury Details"
+      },
+      {
+        "range": "E10:H10",
+        "value": "Paid Amounts"
+      },
+      {
+        "range": "A12:P12",
+        "value": "WORKERS' COMPENSATION \u2014 Policy WC-HCHP-2025-3350 \u2014 05/01/2025 to 05/01/2026"
+      },
+      {
+        "range": "A43:P43",
+        "value": "CGL \u2014 Policy GL-HCHP-2025-3351 \u2014 05/01/2025 to 05/01/2026"
+      },
+      {
+        "range": "A54:P54",
+        "value": "CP \u2014 Policy CP-HCHP-2025-3352 \u2014 05/01/2025 to 05/01/2026"
+      },
+      {
+        "range": "A60:P60",
+        "value": "This report is confidential and intended solely for the named insured. Information contained herein is subject to the terms and conditions of the applicable insurance policies. Past loss experience is not necessarily indicative of future results."
+      }
+    ],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {},
+    "tab_name": "WC Claims Detail",
+    "header_rows": [
+      10,
+      11
+    ],
+    "header_mapping": {
+      "Claim #": "claim_num",
+      "Injured Worker": "claimant",
+      "Date of Loss": "dol",
+      "Status": "status",
+      "Ind. Paid": "paid_indemnity",
+      "Med Paid": "paid_medical",
+      "Expense Paid": "paid_expense",
+      "Paid": "total_paid",
+      "O/S Reserve": "reserve",
+      "Incurred": "total_incurred",
+      "Filed": "date_reported",
+      "Body Part Code": "body_part",
+      "Class Code": "class_code",
+      "Accident Type": "cause",
+      "Defense Costs": "alae",
+      "Salvage & Subro": "recovery"
+    },
+    "data_start_row": 12,
+    "data_end_row": 58,
+    "subtotal_rows": [
+      41,
+      52,
+      57,
+      58
+    ],
+    "section_header_rows": [
+      12,
+      43,
+      54
+    ],
+    "footnotes": [],
+    "granularity": "claim",
+    "layout_type": "standard",
+    "valuation_date_location": "report_header_block",
+    "multi_coverage_mode": "primary",
+    "primary_coverage": "wc",
+    "coverages_present": [
+      "wc",
+      "gl",
+      "property"
+    ],
+    "column_set_type": "primary",
+    "tab_structure": "single",
+    "villification": {
+      "header_depth": 2,
+      "color_as_data": false,
+      "status_column_omitted": false,
+      "hidden_rows_enabled": false,
+      "hidden_cols_enabled": false,
+      "comments_enabled": false,
+      "leading_zeros_stripped": false,
+      "footnotes_enabled": false,
+      "mixed_date_formats": false,
+      "currency_as_text_pct": 0.0,
+      "alternating_rows": true,
+      "outline_grouping": false,
+      "sheet_protection": false,
+      "named_range": false,
+      "data_validation": false,
+      "apostrophe_prefix": false,
+      "date_serials": false,
+      "random_subtotals": false,
+      "conditional_formatting": false,
+      "logo": false,
+      "vertical_kv": false,
+      "vertical_kv_sub_mode": "key_value",
+      "column_chaos": false,
+      "combined_carrier": false,
+      "scientific_notation": false,
+      "corrupt_claim_numbers": false,
+      "mixed_type_columns": true,
+      "boolean_variation": false,
+      "zero_width_chars": false,
+      "mixed_dates_per_cell": false,
+      "layout_mode": "standard",
+      "deep_outline": false,
+      "autofilter_hiding": false,
+      "hidden_critical_columns": false,
+      "buried_header": false,
+      "buried_header_offset": 0,
+      "misleading_freeze": false,
+      "table_interruptions": false
+    }
+  },
+  "format": "xlsx"
+}

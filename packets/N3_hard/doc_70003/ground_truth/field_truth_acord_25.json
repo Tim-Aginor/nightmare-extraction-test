@@ -1,0 +1,114 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    },
+    "producer_name": {
+      "value": "Capitol Insurance Advisors"
+    },
+    "producer_contact": {
+      "value": "Marcus Jennings"
+    },
+    "producer_phone": {
+      "value": "(512) 555-0634"
+    },
+    "producer_fax": {
+      "value": "(512) 695-7763"
+    },
+    "producer_email": {
+      "value": "mjennings@capitolia.com"
+    },
+    "policy_number_wc": {
+      "value": "WC-HCHP-2025-3350"
+    },
+    "cert_limit_wc_el_each_accident": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "cert_limit_wc_el_disease_policy": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "policy_number_gl": {
+      "value": "GL-HCHP-2025-3351"
+    },
+    "cert_limit_gl_each_occurrence": {
+      "value": 1000000.0,
+      "rendered_as": "1,000,000.00"
+    },
+    "cert_limit_gl_general_aggregate": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "cert_limit_gl_products_completed_ops": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "cert_limit_gl_medical_expense": {
+      "value": 10000,
+      "rendered_as": "10,000.00"
+    }
+  },
+  "doc_type": "acord_25",
+  "certificate_holders": [
+    {
+      "name": "Dusk Realty Management Inc.",
+      "address": "619 Lake Street",
+      "city": "Springfield",
+      "state": "MO",
+      "zip_code": "65801"
+    },
+    {
+      "name": "Eagle Properties LLC",
+      "address": "4715 Maple Avenue, Unit 129",
+      "city": "Rochester",
+      "state": "NY",
+      "zip_code": "14602"
+    }
+  ],
+  "insurer_panel": [
+    {
+      "letter": "A",
+      "name": "Hallmark Insurance Group",
+      "naic": "16339",
+      "coverage": "wc"
+    },
+    {
+      "letter": "B",
+      "name": "Hallmark Insurance Group",
+      "naic": "16412",
+      "coverage": "gl"
+    }
+  ],
+  "carrier_name_per_lob": {
+    "wc": "Hallmark Insurance Group",
+    "gl": "Hallmark Insurance Group"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Marilyn Rocha, Claims Adjustment Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality \u2014 Hotel and Restaurant Operations",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy WC-HCHP-2025-3350, effective 2025-05-01 to 2026-05-01. Experience Modification Factor of 0.94. Large Risk Rating Plan. Interstate Rating applies. Total expected losses $361,806 across four classification codes."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final Experience Modification Factor of 0.94 is below 1.0, indicating better-than-average loss experience",
+      "Zero excess losses across all three policy years",
+      "Actual primary losses of $92,945 are significantly below expected losses of $361,806",
+      "Low claim severity \u2014 all claims paid and incurred values are equal, suggesting no open/developing claims",
+      "Weighting factor of 0.419 reflects credibility appropriate for a large risk"
+    ],
+    "concerns": [
+      "Claim frequency increased from 2 claims in 2023-2024 to 6 in 2022-2023 and 8 in 2021-2022, suggesting elevated historical frequency",
+      "Total incurred losses across three years of $92,945 with 16 total claims"
+    ],
+    "loss_history_summary": "Three policy years of loss data reported. 2023-2024: 2 claims, $9,940 total incurred. 2022-2023: 6 claims, $26,662 total incurred. 2021-2022: 8 claims, $56,343 total incurred. All losses are fully paid with no excess losses. Total actual primary losses across all years: $92,945."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Texas Department of Insurance Experience Rating Worksheet prepared by Marilyn Rocha, Claims Adjustment Bureau for Hill Country Hospitality Partners, LLC. Policy WC-HCHP-2025-3350. Valuation Date 2026-03-15. Calculated Experience Modification Factor: 0.94.",
+    "operations_description": "Insured operates hotel and restaurant facilities in Texas. Classification codes include: 9052 (Hotel \u2014 All Other Employees, payroll $9,207,271), 9060 (Hotel \u2014 Bellhops/Doorpersons, payroll $1,454,400), 9082 (Restaurant \u2014 NOC, payroll $3,678,800), 8810 (Clerical Office Employees \u2014 NOC, payroll $1,920,000). Total payroll across all classes spans multiple hospitality and administrative functions.",
+    "safety_programs": null,
+    "claims_narrative": "Three years of loss data provided. 2023-2024: 2 claims totaling $9,940 paid and incurred, $9,940 primary, $0 excess. 2022-2023: 6 claims totaling $26,662 paid and incurred, $26,662 primary, $0 excess. 2021-2022: 8 claims totaling $56,343 paid and incurred, $56,343 primary, $0 excess. No open reserves indicated as paid equals incurred in all years. No excess losses in any year."
+  }
+}

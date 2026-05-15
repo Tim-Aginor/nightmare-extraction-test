@@ -1,0 +1,531 @@
+{
+  "seed": 70003,
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip_code": "78701",
+    "full_address": "401 Congress Avenue, Suite 2800, Austin, TX, 78701"
+  },
+  "carrier": "Hallmark Insurance Group",
+  "is_monopolistic_wc": false,
+  "business_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "sic_code": "7011",
+    "naics_code": "721110",
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "years_in_business": 16,
+    "years_current_mgmt": 16,
+    "annual_revenue": 42000000,
+    "num_employees_ft": 285,
+    "num_employees_pt": 165,
+    "contact_name": "Christina Montoya",
+    "contact_title": "Chief Executive Officer",
+    "website": "www.hiountryhospitalityp.com"
+  },
+  "producer": {
+    "agency": "Capitol Insurance Advisors",
+    "contact": "Marcus Jennings",
+    "phone": "(512) 555-0634",
+    "email": "mjennings@capitolia.com",
+    "address": "100 Congress Avenue, Suite 1500, Austin, TX, 78701",
+    "license_number": "AG-5508369"
+  },
+  "policies": {
+    "wc": {
+      "policy_number": "WC-HCHP-2025-3350",
+      "carrier": "Hallmark Insurance Group",
+      "period_start": "2025-05-01",
+      "period_end": "2026-05-01",
+      "premium": 286527.66,
+      "form_type": "statutory",
+      "limits": {
+        "el_each_accident": 1000000.0,
+        "el_disease_policy": 1000000.0,
+        "el_disease_each": 1000000.0
+      },
+      "deductible": 0,
+      "billing_plan": "Direct Bill \u2014 Quarterly"
+    },
+    "gl": {
+      "policy_number": "GL-HCHP-2025-3351",
+      "carrier": "Hallmark Insurance Group",
+      "period_start": "2025-05-01",
+      "period_end": "2026-05-01",
+      "premium": 108425.47,
+      "form_type": "occurrence",
+      "limits": {
+        "each_occurrence": 1000000.0,
+        "general_aggregate": 2000000,
+        "products_completed_ops": 2000000,
+        "personal_advertising": 500000,
+        "damage_rented_premises": 50000,
+        "medical_expense": 10000
+      },
+      "deductible": 5000,
+      "billing_plan": "Direct Bill \u2014 Quarterly"
+    },
+    "property": {
+      "policy_number": "CP-HCHP-2025-3352",
+      "carrier": "Hallmark Insurance Group",
+      "period_start": "2025-05-01",
+      "period_end": "2026-05-01",
+      "premium": 265469.62,
+      "form_type": "special",
+      "limits": {
+        "building": 101570000,
+        "contents": 26150000,
+        "business_income": 40510000,
+        "coinsurance": 90.0
+      },
+      "deductible": 25000,
+      "billing_plan": "Direct Bill \u2014 Quarterly"
+    }
+  },
+  "coverages": [
+    "wc",
+    "gl",
+    "property"
+  ],
+  "loss_summary": {
+    "total_claims": 38,
+    "coverages": [
+      "wc",
+      "gl",
+      "property"
+    ],
+    "total_paid": 511891.2,
+    "total_reserved": 202626.76,
+    "total_incurred": 714517.96,
+    "open_claims": 11,
+    "closed_claims": 27
+  },
+  "experience_mod": 0.94,
+  "wc_class_codes": [
+    {
+      "class_code": "9052",
+      "description": "Hotel \u2014 All Other Employees",
+      "state": "TX",
+      "num_employees": 257,
+      "payroll": 9207271,
+      "rate": 2.85,
+      "premium": 262407.0,
+      "governing_class": true
+    },
+    {
+      "class_code": "9060",
+      "description": "Hotel \u2014 Bellhops, Doorpersons",
+      "state": "TX",
+      "num_employees": 44,
+      "payroll": 1454400,
+      "rate": 2.45,
+      "premium": 35633.0,
+      "governing_class": false
+    },
+    {
+      "class_code": "9082",
+      "description": "Restaurant \u2014 NOC",
+      "state": "TX",
+      "num_employees": 117,
+      "payroll": 3678800,
+      "rate": 2.12,
+      "premium": 77991.0,
+      "governing_class": false
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2014 NOC",
+      "state": "TX",
+      "num_employees": 32,
+      "payroll": 1920000,
+      "rate": 0.18,
+      "premium": 3456.0,
+      "governing_class": false
+    }
+  ],
+  "wc_premium_waterfall": {
+    "manual_premium": 379487.0,
+    "experience_mod": 0.94,
+    "modified_premium": 356717.78,
+    "schedule_credit": -0.1584,
+    "schedule_credit_amount": -56504.1,
+    "standard_premium": 300213.68,
+    "premium_discount": 23044.02,
+    "expense_constant": 120.0,
+    "tria_surcharge": 9238.0,
+    "final_premium": 286527.66,
+    "minimum_premium_applied": false
+  },
+  "gl_class_codes": [
+    {
+      "class_code": "66561",
+      "description": "Hotels \u2014 NOC",
+      "premium_basis": "Revenue",
+      "exposure": 32000000,
+      "rate": 1.95,
+      "premium": 62400.0
+    },
+    {
+      "class_code": "66572",
+      "description": "Restaurants or Taverns \u2014 NOC",
+      "premium_basis": "Sales",
+      "exposure": 10000000,
+      "rate": 4.25,
+      "premium": 42500.0
+    }
+  ],
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "The Driskill Austin",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": 2010,
+      "stories": 8,
+      "square_feet": 95000,
+      "sprinklered": true,
+      "protection_class": 5,
+      "building_value": 28500000,
+      "contents_value": 7125000,
+      "bi_value": 10687500,
+      "tiv": 46312500
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Riverwalk Suites San Antonio",
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78205",
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": 2006,
+      "stories": 12,
+      "square_feet": 142000,
+      "sprinklered": true,
+      "protection_class": 2,
+      "building_value": 39760000,
+      "contents_value": 9940000,
+      "bi_value": 14910000,
+      "tiv": 64610000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Fredericksburg Inn & Spa",
+      "address": "245 East Main Street",
+      "city": "Fredericksburg",
+      "state": "TX",
+      "zip_code": "78624",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Hotel",
+      "year_built": 1998,
+      "stories": 3,
+      "square_feet": 48000,
+      "sprinklered": true,
+      "protection_class": 1,
+      "building_value": 10560000,
+      "contents_value": 2640000,
+      "bi_value": 3960000,
+      "tiv": 17160000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "South Congress Motor Hotel",
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78704",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Hotel",
+      "year_built": 2015,
+      "stories": 4,
+      "square_feet": 62000,
+      "sprinklered": true,
+      "protection_class": 2,
+      "building_value": 15500000,
+      "contents_value": 3875000,
+      "bi_value": 5812500,
+      "tiv": 25187500
+    },
+    {
+      "schedule_id": "LOC-005",
+      "name": "Blanco River Steakhouse",
+      "address": "608 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Restaurant",
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": 8500,
+      "sprinklered": true,
+      "protection_class": 2,
+      "building_value": 2550000,
+      "contents_value": 850000,
+      "bi_value": 1700000,
+      "tiv": 5100000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "name": "The Oasis at Lake Travis",
+      "address": "6550 Comanche Trail",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78732",
+      "construction": "Non-Combustible",
+      "occupancy": "Restaurant",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 12000,
+      "sprinklered": true,
+      "protection_class": 5,
+      "building_value": 3000000,
+      "contents_value": 900000,
+      "bi_value": 1800000,
+      "tiv": 5700000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "name": "Mission Cantina - Pearl District",
+      "address": "303 Pearl Parkway",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78215",
+      "construction": "Joisted Masonry",
+      "occupancy": "Restaurant",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 6800,
+      "sprinklered": true,
+      "protection_class": 4,
+      "building_value": 1700000,
+      "contents_value": 510000,
+      "bi_value": 1020000,
+      "tiv": 3230000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "name": "Corporate Headquarters",
+      "address": "401 Congress Avenue, Suite 2800",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 6200,
+      "sprinklered": true,
+      "protection_class": 5,
+      "building_value": 0,
+      "contents_value": 310000,
+      "bi_value": 620000,
+      "tiv": 930000
+    }
+  ],
+  "uw_answers": {
+    "mvr_checks_annual": false,
+    "cdl_required": false,
+    "products_distributed": false,
+    "safety_program": true,
+    "written_safety_manual": true,
+    "driver_training": false,
+    "fleet_gps_tracking": false,
+    "subcontractors_used": true,
+    "prior_claims_disputed": false,
+    "hazmat": false,
+    "flammable_liquids": false,
+    "building_owner": true,
+    "building_maintenance": true
+  },
+  "prior_carrier_history": [
+    {
+      "year": 2024,
+      "year_range": "2024-2025",
+      "premium": 686236.25,
+      "per_coverage_premiums": {
+        "wc": 294138.32,
+        "gl": 111273.93,
+        "property": 280824.0
+      },
+      "per_coverage_policy_numbers": {
+        "wc": "WC-8098-9663",
+        "gl": "0000005824",
+        "property": "CP003220-001"
+      },
+      "per_coverage_carriers": {
+        "wc": "Travelers Companies",
+        "gl": "Zurich Insurance Group",
+        "property": "Auto-Owners Insurance"
+      },
+      "claims": 11,
+      "mod_factor": 0.95,
+      "cancellation": "No"
+    },
+    {
+      "year": 2023,
+      "year_range": "2023-2024",
+      "premium": 619820.26,
+      "per_coverage_premiums": {
+        "wc": 265670.74,
+        "gl": 100504.51,
+        "property": 253645.01
+      },
+      "per_coverage_policy_numbers": {
+        "wc": "7WC0009522",
+        "gl": "0000002291",
+        "property": "CP-1970-9645"
+      },
+      "per_coverage_carriers": {
+        "wc": "Markel Corporation",
+        "gl": "Markel Corporation",
+        "property": "American International Group"
+      },
+      "claims": 3,
+      "mod_factor": 0.78,
+      "cancellation": "No"
+    },
+    {
+      "year": 2022,
+      "year_range": "2022-2023",
+      "premium": 607294.45,
+      "per_coverage_premiums": {
+        "wc": 260301.86,
+        "gl": 98473.43,
+        "property": 248519.16
+      },
+      "per_coverage_policy_numbers": {
+        "wc": "0000004808",
+        "gl": "GL-0002700",
+        "property": "7CP0001066"
+      },
+      "per_coverage_carriers": {
+        "wc": "Zurich Insurance Group",
+        "gl": "Berkshire Hathaway Guard",
+        "property": "Markel Corporation"
+      },
+      "claims": 6,
+      "mod_factor": 0.7,
+      "cancellation": "Yes"
+    },
+    {
+      "year": 2021,
+      "year_range": "2021-2022",
+      "premium": 630843.2,
+      "per_coverage_premiums": {
+        "wc": 270395.45,
+        "gl": 102291.89,
+        "property": 258155.86
+      },
+      "per_coverage_policy_numbers": {
+        "wc": "0000008163",
+        "gl": "GL-8167-3439",
+        "property": "CP-0009781"
+      },
+      "per_coverage_carriers": {
+        "wc": "Chubb Limited",
+        "gl": "Chubb Limited",
+        "property": "Chubb Limited"
+      },
+      "claims": 9,
+      "mod_factor": 0.95,
+      "cancellation": "No"
+    },
+    {
+      "year": 2020,
+      "year_range": "2020-2021",
+      "premium": 580805.53,
+      "per_coverage_premiums": {
+        "wc": 248948.03,
+        "gl": 94178.23,
+        "property": 237679.27
+      },
+      "per_coverage_policy_numbers": {
+        "wc": "WC008082-001",
+        "gl": "GL-4906-7512",
+        "property": "CP00007431"
+      },
+      "per_coverage_carriers": {
+        "wc": "EMPLOYERS Insurance Group",
+        "gl": "Markel Corporation",
+        "property": "Auto-Owners Insurance"
+      },
+      "claims": 2,
+      "mod_factor": 0.7,
+      "cancellation": "No"
+    }
+  ],
+  "certificate_holders": [
+    {
+      "name": "Dusk Realty Management Inc.",
+      "address": "619 Lake Street",
+      "city": "Springfield",
+      "state": "MO",
+      "zip_code": "65801"
+    },
+    {
+      "name": "Eagle Properties LLC",
+      "address": "4715 Maple Avenue, Unit 129",
+      "city": "Rochester",
+      "state": "NY",
+      "zip_code": "14602"
+    }
+  ],
+  "interest_holders": [
+    {
+      "name": "KeyBank National Association",
+      "address": "P.O. Box 38199",
+      "city_state_zip": "Clarksville, TN 37040",
+      "type": "ISAOA/ATIMA",
+      "loan_number": "L-897629120"
+    },
+    {
+      "name": "Stearns Bank, N.A.",
+      "address": "P.O. Box 25349",
+      "city_state_zip": "Fargo, ND 58102",
+      "type": "Loss Payee",
+      "loan_number": "L-496809647"
+    },
+    {
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 55869",
+      "city_state_zip": "Elk Grove, CA 95624",
+      "type": "Additional Insured",
+      "loan_number": "L-941498258"
+    }
+  ],
+  "endorsements": {
+    "wc": [
+      "WC 00 00 04 \u2014 Workers' Compensation and Employers' Liability Insurance Policy",
+      "WC 00 04 22 \u2014 Experience Rating Modification Factor Endorsement",
+      "WC 42 03 04 \u2014 Texas Notice of Material Change Endorsement",
+      "WC 42 06 01 \u2014 Texas Cancellation by the Insured Endorsement",
+      "WC 00 03 13 \u2014 Waiver of Our Right to Recover from Others Endorsement"
+    ],
+    "gl": [
+      "CG 00 01 04 13 \u2014 Commercial General Liability Coverage Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CG 20 37 04 13 \u2014 Additional Insured \u2014 Owners, Lessees or Contractors (Completed Ops)",
+      "CG 20 10 04 13 \u2014 Additional Insured \u2014 Owners, Lessees or Contractors",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us"
+    ],
+    "property": [
+      "CP 00 10 10 12 \u2014 Building and Personal Property Coverage Form",
+      "CP 00 30 10 12 \u2014 Business Income (and Extra Expense) Coverage Form",
+      "CP 10 30 10 12 \u2014 Causes of Loss \u2014 Special Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "CP 03 21 06 07 \u2014 Windstorm or Hail Percentage Deductible"
+    ]
+  }
+}

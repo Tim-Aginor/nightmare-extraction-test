@@ -1,0 +1,96 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Karen Weissman",
+    "recipient": "Maine Employers Mutual"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 31,
+    "annual_revenue": 48000000,
+    "employee_count": 113
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property (prior year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "2024 policy year, 0 claims, no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property (prior year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hartford Financial Services",
+      "expiring_premium": 419914.35,
+      "notes": "2023 policy year, 0 claims, no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property (prior year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Chubb Limited",
+      "expiring_premium": 456514.1,
+      "notes": "2022 policy year, 0 claims, no cancellations"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "31 years in business with stable management (22 years with current management)",
+      "Formal safety program in place",
+      "8 of 9 locations sprinklered",
+      "Fire alarms hard-wired with central station monitoring",
+      "24-hour doorperson/security on premises",
+      "No claims in prior three policy years (2022-2024)",
+      "No cancellations in prior insurance history",
+      "Recent system updates: HVAC 2018, Electrical 2023"
+    ],
+    "concerns": [
+      "No written contracts with all subcontractors",
+      "Building not fully sprinklered per NFPA 13 or 13R",
+      "LOC-007 (Toledo Manufacturing) is not sprinklered",
+      "Material Safety Data Sheets (MSDS) not maintained",
+      "Lockout/tagout procedures not in place",
+      "Plumbing system last updated in 2015 (older)",
+      "Short-term rentals (less than 1 year) permitted",
+      "LOC-004 Dayton manufacturing building built in 1992 (older structure)",
+      "10% vacancy rate"
+    ],
+    "loss_history_summary": "Zero claims reported across the three prior policy years (2022-2024) with Chubb, Hartford, and Liberty Mutual. No cancellations."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio. 31 years in business, 22 years with current management. 95 full-time and 18 part-time employees. Annual revenue $48,000,000. Hours of operation: Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 1:00 PM. Nine premises across Ohio totaling approximately 1,948,500 square feet, including warehouse, manufacturing, and office occupancies.",
+    "safety_programs": "Formal safety program: Yes. Fire alarms hard-wired with central station monitoring. 24-hour doorperson/security on premises. 8 of 9 locations sprinklered (LOC-007 Toledo not sprinklered). Building not fully sprinklered per NFPA 13/13R. No EV charging stations. MSDS not maintained. Lockout/tagout procedures not in place. Written contracts with indemnification required from all contractors.",
+    "claims_narrative": "Prior insurance history reflects zero claims for 2022 (Chubb Limited, $456,514.10), 2023 (Hartford Financial Services, $419,914.35), and 2024 (Liberty Mutual Insurance, $392,002.31). No cancellations across the three-year history."
+  }
+}

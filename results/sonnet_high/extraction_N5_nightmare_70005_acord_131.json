@@ -1,0 +1,119 @@
+{
+  "form_info": {
+    "form_number": "ACORD 131",
+    "form_edition": "2016/03",
+    "form_title": "Umbrella / Excess Liability"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": null,
+    "insured_city": null,
+    "insured_state": null,
+    "insured_zip": null,
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "SIC CU025454",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Freight Systems / Transportation"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Umbrella / Excess Liability - Each Occurrence",
+      "limit": 10000000,
+      "deductible": null,
+      "premium": 492351
+    },
+    {
+      "coverage_type": "Umbrella / Excess Liability - Aggregate",
+      "limit": 10000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Underlying - General Liability",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": 153014
+    },
+    {
+      "coverage_type": "Underlying - Auto Liability",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": 262047
+    }
+  ],
+  "checkboxes": {
+    "general_liability": "Yes",
+    "automobile_liability": "Yes",
+    "employers_liability": "Yes",
+    "professional_liability": "No",
+    "commercial_property": "Yes",
+    "marine": "No",
+    "aviation": "No",
+    "railroad_protective": "No",
+    "liquor_liability": "No",
+    "foreign_liability": "No",
+    "products_liability": "No",
+    "pollution_liability": "No"
+  },
+  "additional_fields": {
+    "form_date": "2026-03-15",
+    "form_type": "occurrence",
+    "self_insured_retention_amount": 50000,
+    "self_insured_retention_basis": "Per Occurrence",
+    "sir_applies_to": "All coverages unless otherwise stated",
+    "underlying_gl_carrier": "Standard Insurance Company",
+    "underlying_gl_policy_number": "gl GLFS 2025 8821",
+    "underlying_gl_effective_date": "2025-06-01",
+    "underlying_gl_expiration_date": "2026-06-01",
+    "underlying_gl_per_occurrence_limit": 2000000,
+    "underlying_gl_aggregate_limit": 4000000,
+    "underlying_gl_premium": 153014,
+    "underlying_auto_carrier": "Standard Insurance Company",
+    "underlying_auto_policy_number": "CAGLFS20258822",
+    "underlying_auto_effective_date": "2025-06-01",
+    "underlying_auto_expiration_date": "2026-06-01",
+    "underlying_auto_per_occurrence_limit": 5000000,
+    "underlying_auto_aggregate_limit": null,
+    "underlying_auto_premium": 262047,
+    "loss_history_workers_comp_employers_liability_claims": 25,
+    "loss_history_workers_comp_employers_liability_total_paid": 930991,
+    "loss_history_workers_comp_employers_liability_total_reserved": 123860,
+    "loss_history_workers_comp_employers_liability_total_incurred": 1054851,
+    "loss_history_general_liability_claims": 5,
+    "loss_history_general_liability_total_paid": 54127,
+    "loss_history_general_liability_total_reserved": 0,
+    "loss_history_general_liability_total_incurred": 54127,
+    "loss_history_automobile_liability_claims": 16,
+    "loss_history_automobile_liability_total_paid": 387378,
+    "loss_history_automobile_liability_total_reserved": 62174,
+    "loss_history_automobile_liability_total_incurred": 449552,
+    "loss_history_commercial_property_claims": 3,
+    "loss_history_commercial_property_total_paid": 192018,
+    "loss_history_commercial_property_total_reserved": 0,
+    "loss_history_commercial_property_total_incurred": 192018,
+    "loss_history_umbrella_excess_liability_claims": 0,
+    "loss_history_umbrella_excess_liability_total_paid": 0,
+    "loss_history_umbrella_excess_liability_total_reserved": 0,
+    "loss_history_other_claims": 2,
+    "loss_history_other_total_paid": 3916,
+    "loss_history_other_total_reserved": 0,
+    "loss_history_totals_claims": 51,
+    "loss_history_totals_total_paid": 1568428,
+    "loss_history_totals_total_reserved": 186034,
+    "loss_history_totals_total_incurred": 1754462,
+    "reviewer_signature": "M. Johnson",
+    "reviewer_date": "2025-06-18",
+    "reviewer_note": "Need docs"
+  },
+  "remarks": "Page 2 reviewer notation 'Need docs' written in red ink, signed by M. Johnson on 6/18/2025. Loss history summary includes Workers Compensation/Employers Liability, General Liability, Automobile Liability, Commercial Property, Umbrella/Excess Liability, and Other categories totaling 51 claims with $1,754,462 total incurred."
+}

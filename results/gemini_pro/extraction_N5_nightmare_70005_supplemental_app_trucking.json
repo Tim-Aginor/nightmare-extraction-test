@@ -1,0 +1,60 @@
+{
+  "document_info": {
+    "document_type": "Trucking Supplemental Application",
+    "date": "2025-06-18",
+    "prepared_by": "M. Johnson",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Incorporated",
+    "address": null,
+    "city": null,
+    "state": "OH",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Freight Carrier",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "38 years in business",
+      "Active operating authority",
+      "Drivers average 10 years of experience",
+      "All drivers have CDL"
+    ],
+    "concerns": [
+      "Hauls Hazmat Class 2 Compressed Gases",
+      "Operating radius is over 200 miles"
+    ],
+    "loss_history_summary": "See attached loss runs for the most recent five (5) policy years. Report date: 03/15/2026"
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 12,
+    "driver_count": 40,
+    "radius_of_operation": "Over 200 miles"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Non-interstate carrier hauling General Freight, Beverages, Machinery, and Hazmat Class 2 Compressed Gases with an operating radius of over 200 miles.",
+    "safety_programs": null,
+    "claims_narrative": "See attached loss runs for the most recent five (5) policy years. Report date: 03/15/2026"
+  }
+}

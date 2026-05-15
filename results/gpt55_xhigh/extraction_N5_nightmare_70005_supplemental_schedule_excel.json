@@ -1,0 +1,70 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Warehouse operations with service/repair and office locations shown on the location schedule.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Prior insurance program",
+      "current_carrier": "Hanover Insurance Group",
+      "current_limit": null,
+      "expiring_premium": 2088513.96,
+      "notes": "2024 prior insurance history lists policy numbers BWC-7853-4607, GL-0007119, CA-4481-4597, CP-9793-9090, CU00005026, MT-0006135; 10 claims; no cancellation reported.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel submission schedules",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history: 2024 Hanover Insurance Group premium 2088513.96 with 10 claims; 2023 Hartford Financial Services premium 2074475.35 with 13 claims; 2022 Auto-Owners Insurance premium 2014565.01 with 12 claims; 2021 Markel Corporation premium 2019439.11 with 7 claims; 2020 CNA Financial premium 2066794.82 with 4 claims. No cancellations reported for any year. Loss ratios were not provided.",
+    "executive_summary": null,
+    "operations_description": "Location schedule lists 9 locations across Ohio and Pennsylvania: 7 warehouse locations, 1 service/repair location, and 1 office location, totaling 735000 square feet.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "1200 Nationwide Blvd.",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Claim counts reported in each of the last five years, including 10 claims in 2024, 13 in 2023, and 12 in 2022.",
+      "Loss ratio information was not provided in the prior insurance history.",
+      "Own/lease status is blank for three scheduled locations."
+    ],
+    "loss_history_summary": "Prior insurance history shows annual premiums between 2014565.01 and 2088513.96 from 2020 through 2024, with claim counts of 4 in 2020, 7 in 2021, 12 in 2022, 13 in 2023, and 10 in 2024. No cancellations were reported. Loss ratios were blank.",
+    "positives": [
+      "No cancellations reported for the 2020 through 2024 prior insurance years.",
+      "Prior insurance history provided for five years.",
+      "Location schedule provided with addresses, occupancies, and square footage for 9 locations."
+    ]
+  }
+}

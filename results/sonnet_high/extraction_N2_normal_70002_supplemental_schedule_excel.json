@@ -1,0 +1,75 @@
+{
+  "document_info": {
+    "document_type": "Submission Schedule (Excel)",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property ownership and leasing; operations include warehouse and manufacturing facilities across Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Policy number CP00007001; policy year 2024. Prior carriers include Hartford Financial Services (2023, 2021) and Chubb Limited (2022). CP-prefixed policy numbers consistent across all years. Premiums have declined from $458,666 in 2021 to $392,002 in 2024."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No policy cancellations in any of the four prior policy years (2021\u20132024)",
+      "Three out of four policy years reported zero claims",
+      "Long incumbent carrier relationships with admitted, highly-rated insurers (Liberty Mutual, Hartford, Chubb)",
+      "All nine locations are in a single state (Ohio), simplifying regulatory and underwriting exposure",
+      "Mix of owned and leased properties indicates stable, established operational footprint",
+      "Premium trend is decreasing year-over-year, suggesting favorable underwriting experience"
+    ],
+    "concerns": [
+      "One claim reported in policy year 2021 (Hartford Financial Services); no loss ratio or dollar amount provided",
+      "LOC-008 (1475 Corporate Woods Parkway, Uniontown, OH 44685) has no Own/Lease designation recorded \u2014 ownership status unknown",
+      "Two manufacturing locations (LOC-004 Dayton, LOC-007 Toledo) present elevated property and casualty risk relative to warehouse occupancies",
+      "Total schedule includes 7 named/additional insured entities including mortgagees and certificate holders, indicating complex ownership or financing structure",
+      "No square footage or insured value data available for LOC-008 beyond the 128,000 sq ft figure",
+      "No total insured value (TIV) provided across the location schedule"
+    ],
+    "loss_history_summary": "Four years of prior insurance history on file (2021\u20132024). Total of one claim reported across all years, occurring in 2021 under Hartford Financial Services (policy 0000007099). No loss ratio percentages or claim dollar amounts provided. No cancellations in any year. Premiums ranged from a high of $458,666.38 (2021) to a low of $392,002.31 (2024)."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Insured operates nine locations throughout Ohio totaling approximately 1,948,500 square feet. Occupancy types include warehouse (LOC-001, LOC-002, LOC-003, LOC-005, LOC-006, LOC-008), manufacturing (LOC-004, LOC-007), and office (LOC-009). Locations span Columbus, Brooklyn, Dayton, Cincinnati, Toledo, and Uniontown. The majority of locations are leased; LOC-006 (3200 Hill Avenue, Toledo) is the only confirmed owned property. The corporate office is located at 250 Civic Center Drive, Suite 600, Columbus, OH 43215.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

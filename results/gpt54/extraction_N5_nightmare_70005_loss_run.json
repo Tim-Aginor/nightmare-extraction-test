@@ -1,0 +1,62 @@
+{
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "carrier_name": "Standard Insurance Company",
+    "policy_numbers": {
+      "wc": null,
+      "gl": null,
+      "auto": null,
+      "property": null,
+      "umbrella": null,
+      "mtc": null
+    },
+    "report_date": "2026-03-06",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "claims": [],
+  "subtotals_by_coverage": {
+    "wc": {
+      "paid": 843255.84,
+      "reserved": 72235.97,
+      "incurred": 915491.81,
+      "claim_count": 25
+    },
+    "gl": {
+      "paid": 54126.51,
+      "reserved": 0.0,
+      "incurred": 54126.51,
+      "claim_count": 5
+    },
+    "auto": {
+      "paid": 387376.46,
+      "reserved": 62173.56,
+      "incurred": 449550.02,
+      "claim_count": 16
+    },
+    "property": {
+      "paid": 106691.36,
+      "reserved": 0.0,
+      "incurred": 106691.36,
+      "claim_count": 2
+    },
+    "umbrella": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "mtc": {
+      "paid": 3916.24,
+      "reserved": 0.0,
+      "incurred": 3916.24,
+      "claim_count": 1
+    }
+  },
+  "grand_totals": {
+    "paid": 1395366.41,
+    "reserved": 134409.53,
+    "incurred": 1529775.94,
+    "claim_count": 49
+  }
+}

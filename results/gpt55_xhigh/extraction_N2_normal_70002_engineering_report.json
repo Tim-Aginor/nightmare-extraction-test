@@ -1,0 +1,218 @@
+{
+  "carrier_info": {
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "policy_period_end": null,
+    "policy_period_start": null
+  },
+  "insured": {
+    "address": "6500 Alum Creek Drive",
+    "city": "Columbus",
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": "OH",
+    "zip": "43217"
+  },
+  "locations_inspected": [
+    {
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Rickenbacker Logistics Center - A",
+      "occupancy": null,
+      "protection_class": 1,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 2014
+    },
+    {
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Rickenbacker Logistics Center - B",
+      "occupancy": null,
+      "protection_class": 5,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 2016
+    },
+    {
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Cleveland Distribution Hub",
+      "occupancy": null,
+      "protection_class": 3,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 2008
+    },
+    {
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "condition_rating": null,
+      "construction": "Joisted Masonry",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Dayton Manufacturing Facility",
+      "occupancy": null,
+      "protection_class": 4,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 1992
+    },
+    {
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Cincinnati Cross-Dock Terminal",
+      "occupancy": null,
+      "protection_class": 4,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 2019
+    },
+    {
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "condition_rating": null,
+      "construction": "Masonry Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Toledo Industrial Park - Building 1",
+      "occupancy": null,
+      "protection_class": 5,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 2004
+    },
+    {
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "condition_rating": null,
+      "construction": "Masonry Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Toledo Industrial Park - Building 2",
+      "occupancy": null,
+      "protection_class": 3,
+      "sprinklered": false,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 1998
+    },
+    {
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Akron Flex Space",
+      "occupancy": null,
+      "protection_class": 4,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 2011
+    },
+    {
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Corporate Administrative Office",
+      "occupancy": null,
+      "protection_class": 1,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "OH",
+      "stories": 1,
+      "year_built": 2006
+    }
+  ],
+  "overall_assessment": {
+    "insurability": null,
+    "risk_level": "Average",
+    "summary": "An on-site inspection was conducted at 9 locations for Buckeye Industrial Properties, LLC. The survey assessed fire protection, building construction, occupancy hazards, and general risk management practices. The overall risk grade assigned is Average on the Travelers Risk Assessment scale. Noted condition items include fair drainage, fair fencing/security, fair foundation, deteriorating building envelope integrity, poor roofing with 0 years estimated remaining useful life, deteriorating waste/drain, HVAC needing service, fair electrical panel condition, and some expired fire extinguisher tags."
+  },
+  "recommendations": [
+    {
+      "category": "maintenance",
+      "deadline": null,
+      "description": "Address roofing condition rated Poor with 0 years estimated remaining useful life. Capital expenditure forecast: immediate $21,480, short-term $28,469, reserve $385,980.",
+      "estimated_cost": 21480,
+      "priority": null
+    },
+    {
+      "category": "maintenance",
+      "deadline": null,
+      "description": "Address plumbing conditions including fair water supply and deteriorating waste/drain. Capital expenditure forecast: immediate $4,147, short-term $9,627, reserve $334,094.",
+      "estimated_cost": 4147,
+      "priority": null
+    },
+    {
+      "category": "fire_protection",
+      "deadline": null,
+      "description": "Address fire protection items, including fire extinguishers where some tags are expired. Capital expenditure forecast: immediate $38,234, short-term $79,399, reserve $167,216.",
+      "estimated_cost": 38234,
+      "priority": null
+    },
+    {
+      "category": "maintenance",
+      "deadline": null,
+      "description": "Service HVAC split system; system condition noted as Needs Service.",
+      "estimated_cost": null,
+      "priority": null
+    },
+    {
+      "category": "structural",
+      "deadline": null,
+      "description": "Address deteriorating building envelope integrity.",
+      "estimated_cost": null,
+      "priority": null
+    },
+    {
+      "category": "security",
+      "deadline": null,
+      "description": "Review and improve fencing/security condition noted as Fair.",
+      "estimated_cost": null,
+      "priority": null
+    }
+  ],
+  "report_info": {
+    "grading_scale": "Travelers Risk Assessment",
+    "inspector_company": "Maine Employers Mutual",
+    "inspector_name": "S. Martinez, PE",
+    "report_date": "2026-03-15",
+    "report_type": "Property Condition Assessment",
+    "risk_grade": "Average"
+  }
+}

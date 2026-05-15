@@ -1,0 +1,6465 @@
+{
+  "schema_version": "1.0",
+  "seed": 70003,
+  "generated_at": "2026-05-04T23:23:33+00:00",
+  "doc_type": "acord_140",
+  "doc": {
+    "format": "pdf",
+    "scan_level": "fax",
+    "strings": [
+      "ACORD 140 (2016/03)",
+      "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+      "The ACORD name and logo are registered marks of ACORD",
+      "ACORD",
+      "PROPERTY SECTION",
+      "DATE:",
+      "03/14/2026",
+      "CARRIER:",
+      "Hallmark Insurance Group",
+      "AGENCY:",
+      "Capitol Insurance Advisors",
+      "CONTACT:",
+      "Marcus Jennings",
+      "I. POLICY INFORMATION",
+      "agency customer id",
+      "ACT-201435",
+      "policy number",
+      "CP-HCHP-2025-3352",
+      "carrier",
+      "naic code",
+      "28339",
+      "effective date",
+      "05/01/2025",
+      "expiration date",
+      "05/01/2026",
+      "named insured",
+      "Hill Country Hospitality Partners, LLC",
+      "mailing address",
+      "401 Congress Avenue, Suite 2800, Austin, TX, 78701",
+      "deductible",
+      "$25,000",
+      "valuation",
+      "Replacement Cost",
+      "II. PREMISES / BUILDING #1 -- LOC-001",
+      "building number",
+      "1",
+      "premises number",
+      "LOC-001",
+      "location address",
+      "604 Brazos Street, Austin, TX, 78701",
+      "location description",
+      "The Driskill Austin",
+      "Construction Details",
+      "construction type",
+      "Fire Resistive",
+      "roof type",
+      "TPO",
+      "protection class",
+      "5",
+      "year built",
+      "2010",
+      "number of stories",
+      "8",
+      "total area (sq ft)",
+      "95,000",
+      "occupancy",
+      "Hotel",
+      "sprinklered",
+      "Yes",
+      "ownership",
+      "Owned",
+      "Building Improvements",
+      "heating -- year updated",
+      "2026",
+      "plumbing -- year updated",
+      "2018",
+      "roofing -- year updated",
+      "wiring -- year updated",
+      "2021",
+      "Fire Protection",
+      "distance to fire station",
+      "1 miles",
+      "distance to hydrant",
+      "2103 ft",
+      "fire district",
+      "District 19",
+      "sprinkler system",
+      "Wet Pipe",
+      "sprinkler coverage",
+      "100%",
+      "Alarm Systems",
+      "burglar alarm",
+      "No",
+      "fire alarm",
+      "fire alarm type",
+      "Central Station Monitored",
+      "Covered Values",
+      "Coverage",
+      "Amount",
+      "Building",
+      "$28,500,000",
+      "Contents / Business Personal Property",
+      "$7,125,000",
+      "Business Income with Extra Expense",
+      "$10,687,500",
+      "TOTAL INSURED VALUE",
+      "$46,312,500",
+      "II. PREMISES / BUILDING #2 -- LOC-002",
+      "2",
+      "LOC-002",
+      "112 College Street, San Antonio, TX, 78205",
+      "Riverwalk Suites San Antonio",
+      "Metal",
+      "2006",
+      "12",
+      "142,000",
+      "2017",
+      "2014",
+      "2 miles",
+      "994 ft",
+      "District 13",
+      "Proprietary System",
+      "$39,760,000",
+      "$9,940,000",
+      "$14,910,000",
+      "$64,610,000",
+      "II. PREMISES / BUILDING #3 -- LOC-003",
+      "3",
+      "LOC-003",
+      "245 East Main Street, Fredericksburg, TX, 78624",
+      "Fredericksburg Inn & Spa",
+      "Masonry Non-Combustible",
+      "Built-Up",
+      "1998",
+      "48,000",
+      "2022",
+      "3 miles",
+      "1418 ft",
+      "District 3",
+      "Pre-Action",
+      "None",
+      "$10,560,000",
+      "$2,640,000",
+      "$3,960,000",
+      "$17,160,000",
+      "II. PREMISES / BUILDING #4 -- LOC-004",
+      "4",
+      "LOC-004",
+      "1220 South Congress Avenue, Austin, TX, 78704",
+      "South Congress Motor Hotel",
+      "Concrete",
+      "2015",
+      "62,000",
+      "2025",
+      "2844 ft",
+      "District 4",
+      "Direct to Fire Department",
+      "$15,500,000",
+      "$3,875,000",
+      "$5,812,500",
+      "$25,187,500",
+      "II. PREMISES / BUILDING #5 -- LOC-005",
+      "LOC-005",
+      "608 Brazos Street, Austin, TX, 78701",
+      "Blanco River Steakhouse",
+      "8,500",
+      "Restaurant",
+      "2023",
+      "2016",
+      "5 miles",
+      "730 ft",
+      "District 17",
+      "$2,550,000",
+      "$850,000",
+      "$1,700,000",
+      "$5,100,000",
+      "II. PREMISES / BUILDING #6 -- LOC-006",
+      "6",
+      "LOC-006",
+      "6550 Comanche Trail, Austin, TX, 78732",
+      "The Oasis at Lake Travis",
+      "Non-Combustible",
+      "EPDM",
+      "2012",
+      "12,000",
+      "8 miles",
+      "2909 ft",
+      "District 8",
+      "$3,000,000",
+      "$900,000",
+      "$1,800,000",
+      "$5,700,000",
+      "II. PREMISES / BUILDING #7 -- LOC-007",
+      "7",
+      "LOC-007",
+      "303 Pearl Parkway, San Antonio, TX, 78215",
+      "Mission Cantina - Pearl District",
+      "Joisted Masonry",
+      "6,800",
+      "2903 ft",
+      "75%",
+      "$510,000",
+      "$1,020,000",
+      "$3,230,000",
+      "II. PREMISES / BUILDING #8 -- LOC-008",
+      "LOC-008",
+      "Corporate Headquarters",
+      "Tenant \u2014 contents & BI only",
+      "Shingle",
+      "2008",
+      "6,200",
+      "Office",
+      "Tenant",
+      "2013",
+      "2590 ft",
+      "Dry Pipe",
+      "Building (Tenant-Occupied \u2014 N/A)",
+      "$0",
+      "$310,000",
+      "$620,000",
+      "$930,000",
+      "III. BLANKET SUMMARY",
+      "blanket number",
+      "BLK-3399",
+      "blanket type",
+      "Building, Contents & BI",
+      "number of locations",
+      "total insured value",
+      "$168,230,000.00",
+      "Value Category",
+      "$101,570,000",
+      "$26,150,000",
+      "$40,510,000",
+      "$168,230,000",
+      "IV. INTERESTS",
+      "Type",
+      "Name",
+      "Address",
+      "Loan / Reference Number",
+      "ISAOA/ATIMA",
+      "KeyBank National Association",
+      "P.O. Box 38199, Clarksville, TN 37040",
+      "L-897629120",
+      "Loss Payee",
+      "Stearns Bank, N.A.",
+      "P.O. Box 25349, Fargo, ND 58102",
+      "L-496809647",
+      "Additional Insured",
+      "Pinnacle Investors Group, Inc.",
+      "P.O. Box 55869, Elk Grove, CA 95624",
+      "L-941498258",
+      "Page 1 of 10",
+      "Page 2 of 10",
+      "Page 3 of 10",
+      "Page 4 of 10",
+      "Page 5 of 10",
+      "Page 6 of 10",
+      "Page 7 of 10",
+      "Page 8 of 10",
+      "Page 9 of 10",
+      "Page 10 of 10"
+    ],
+    "numbers": [
+      140,
+      2016,
+      1993,
+      2026,
+      201435,
+      2025,
+      3352,
+      28339,
+      401,
+      2800,
+      78701,
+      25000,
+      1,
+      604,
+      2010,
+      95000,
+      2018,
+      2021,
+      2103,
+      100,
+      28500000,
+      7125000,
+      10687500,
+      46312500,
+      2,
+      112,
+      78205,
+      2006,
+      142000,
+      2017,
+      2014,
+      994,
+      39760000,
+      9940000,
+      14910000,
+      64610000,
+      3,
+      245,
+      78624,
+      1998,
+      48000,
+      2022,
+      1418,
+      10560000,
+      2640000,
+      3960000,
+      17160000,
+      4,
+      1220,
+      78704,
+      2015,
+      62000,
+      2844,
+      15500000,
+      3875000,
+      5812500,
+      25187500,
+      5,
+      608,
+      8500,
+      2023,
+      730,
+      2550000,
+      850000,
+      1700000,
+      5100000,
+      6,
+      6550,
+      78732,
+      2012,
+      12000,
+      2909,
+      3000000,
+      900000,
+      1800000,
+      5700000,
+      7,
+      303,
+      78215,
+      6800,
+      2903,
+      510000,
+      1020000,
+      3230000,
+      8,
+      2008,
+      6200,
+      2013,
+      2590,
+      310000,
+      620000,
+      930000,
+      3399,
+      168230000.0,
+      101570000,
+      26150000,
+      40510000,
+      38199,
+      37040,
+      897629120,
+      25349,
+      58102,
+      496809647,
+      55869,
+      95624,
+      941498258
+    ],
+    "tokens": [
+      "acord",
+      "140",
+      "2016",
+      "03",
+      "1993-2016",
+      "corporation",
+      "all",
+      "rights",
+      "reserved",
+      "the",
+      "name",
+      "and",
+      "logo",
+      "are",
+      "registered",
+      "marks",
+      "of",
+      "property",
+      "section",
+      "date",
+      "14",
+      "2026",
+      "carrier",
+      "hallmark",
+      "insurance",
+      "group",
+      "agency",
+      "capitol",
+      "advisors",
+      "contact",
+      "marcus",
+      "jennings",
+      "policy",
+      "information",
+      "customer",
+      "id",
+      "act-201435",
+      "number",
+      "cp-hchp-2025-3352",
+      "naic",
+      "code",
+      "28339",
+      "effective",
+      "05",
+      "01",
+      "2025",
+      "expiration",
+      "named",
+      "insured",
+      "hill",
+      "country",
+      "hospitality",
+      "partners",
+      "llc",
+      "mailing",
+      "address",
+      "401",
+      "congress",
+      "avenue",
+      "suite",
+      "2800",
+      "austin",
+      "tx",
+      "78701",
+      "deductible",
+      "$25",
+      "000",
+      "valuation",
+      "replacement",
+      "cost",
+      "ii",
+      "premises",
+      "building",
+      "loc-001",
+      "location",
+      "604",
+      "brazos",
+      "street",
+      "description",
+      "driskill",
+      "construction",
+      "details",
+      "type",
+      "fire",
+      "resistive",
+      "roof",
+      "tpo",
+      "protection",
+      "class",
+      "year",
+      "built",
+      "2010",
+      "stories",
+      "total",
+      "area",
+      "sq",
+      "ft",
+      "95",
+      "occupancy",
+      "hotel",
+      "sprinklered",
+      "yes",
+      "ownership",
+      "owned",
+      "improvements",
+      "heating",
+      "updated",
+      "plumbing",
+      "2018",
+      "roofing",
+      "wiring",
+      "2021",
+      "distance",
+      "to",
+      "station",
+      "miles",
+      "hydrant",
+      "2103",
+      "district",
+      "19",
+      "sprinkler",
+      "system",
+      "wet",
+      "pipe",
+      "coverage",
+      "100",
+      "alarm",
+      "systems",
+      "burglar",
+      "no",
+      "central",
+      "monitored",
+      "covered",
+      "values",
+      "amount",
+      "$28",
+      "500",
+      "contents",
+      "business",
+      "personal",
+      "$7",
+      "125",
+      "income",
+      "with",
+      "extra",
+      "expense",
+      "$10",
+      "687",
+      "value",
+      "$46",
+      "312",
+      "loc-002",
+      "112",
+      "college",
+      "san",
+      "antonio",
+      "78205",
+      "riverwalk",
+      "suites",
+      "metal",
+      "2006",
+      "12",
+      "142",
+      "2017",
+      "2014",
+      "994",
+      "13",
+      "proprietary",
+      "$39",
+      "760",
+      "$9",
+      "940",
+      "$14",
+      "910",
+      "$64",
+      "610",
+      "loc-003",
+      "245",
+      "east",
+      "main",
+      "fredericksburg",
+      "78624",
+      "inn",
+      "spa",
+      "masonry",
+      "non-combustible",
+      "built-up",
+      "1998",
+      "48",
+      "2022",
+      "1418",
+      "pre-action",
+      "none",
+      "560",
+      "$2",
+      "640",
+      "$3",
+      "960",
+      "$17",
+      "160",
+      "loc-004",
+      "1220",
+      "south",
+      "78704",
+      "motor",
+      "concrete",
+      "2015",
+      "62",
+      "2844",
+      "direct",
+      "department",
+      "$15",
+      "875",
+      "$5",
+      "812",
+      "187",
+      "loc-005",
+      "608",
+      "blanco",
+      "river",
+      "steakhouse",
+      "restaurant",
+      "2023",
+      "730",
+      "17",
+      "550",
+      "$850",
+      "$1",
+      "700",
+      "loc-006",
+      "6550",
+      "comanche",
+      "trail",
+      "78732",
+      "oasis",
+      "at",
+      "lake",
+      "travis",
+      "epdm",
+      "2012",
+      "2909",
+      "$900",
+      "800",
+      "loc-007",
+      "303",
+      "pearl",
+      "parkway",
+      "78215",
+      "mission",
+      "cantina",
+      "joisted",
+      "2903",
+      "75",
+      "$510",
+      "020",
+      "230",
+      "loc-008",
+      "corporate",
+      "headquarters",
+      "tenant",
+      "bi",
+      "only",
+      "shingle",
+      "2008",
+      "200",
+      "office",
+      "2013",
+      "2590",
+      "dry",
+      "tenant-occupied",
+      "$0",
+      "$310",
+      "$620",
+      "$930",
+      "iii",
+      "blanket",
+      "summary",
+      "blk-3399",
+      "locations",
+      "$168",
+      "000.00",
+      "category",
+      "$101",
+      "570",
+      "$26",
+      "150",
+      "$40",
+      "510",
+      "iv",
+      "interests",
+      "loan",
+      "reference",
+      "isaoa",
+      "atima",
+      "keybank",
+      "national",
+      "association",
+      "p.o",
+      "box",
+      "38199",
+      "clarksville",
+      "tn",
+      "37040",
+      "l-897629120",
+      "loss",
+      "payee",
+      "stearns",
+      "bank",
+      "n.a",
+      "25349",
+      "fargo",
+      "nd",
+      "58102",
+      "l-496809647",
+      "additional",
+      "pinnacle",
+      "investors",
+      "inc",
+      "55869",
+      "elk",
+      "grove",
+      "ca",
+      "95624",
+      "l-941498258",
+      "page",
+      "10"
+    ],
+    "rendered_text": "\f\f\f\f\f\f\f\f\f\f",
+    "elements": [
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 1,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "ACORD",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 0,
+        "y": 4.0
+      },
+      {
+        "value": "PROPERTY SECTION",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 62.208,
+        "y": 4.5
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 399.168,
+        "y": 6.5
+      },
+      {
+        "value": "DATE:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 0,
+        "y": 6.0
+      },
+      {
+        "value": "03/14/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 41.472,
+        "y": 4.0
+      },
+      {
+        "value": "CARRIER:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 171.072,
+        "y": 6.0
+      },
+      {
+        "value": "Hallmark Insurance Group",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 233.28,
+        "y": 4.0
+      },
+      {
+        "value": "AGENCY:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 0,
+        "y": 5.0
+      },
+      {
+        "value": "Capitol Insurance Advisors",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 51.84,
+        "y": 3.0
+      },
+      {
+        "value": "CONTACT:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 259.2,
+        "y": 5.0
+      },
+      {
+        "value": "Marcus Jennings",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 321.408,
+        "y": 3.0
+      },
+      {
+        "value": "I. POLICY INFORMATION",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "agency customer id",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "ACT-201435",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "policy number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "CP-HCHP-2025-3352",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "carrier",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Hallmark Insurance Group",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "naic code",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "28339",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "effective date",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "05/01/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "expiration date",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "05/01/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "named insured",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Hill Country Hospitality Partners, LLC",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "mailing address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "401 Congress Avenue, Suite 2800, Austin, TX, 78701",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "deductible",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "$25,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "valuation",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Replacement Cost",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "II. PREMISES / BUILDING #1 -- LOC-001",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "building number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "premises number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "LOC-001",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "location address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "604 Brazos Street, Austin, TX, 78701",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "location description",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "The Driskill Austin",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 52.8,
+        "y": 267.2
+      },
+      {
+        "value": "construction type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Fire Resistive",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "roof type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "TPO",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "year built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2010",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "number of stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "8",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "total area (sq ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "95,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Hotel",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "ownership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Owned",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Building Improvements",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 52.8,
+        "y": 148.2
+      },
+      {
+        "value": "heating -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "plumbing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2018",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "roofing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "wiring -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2021",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Fire Protection",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 52.8,
+        "y": 62.2
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 2,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "distance to fire station",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "1 miles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "distance to hydrant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "2103 ft",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire district",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "District 19",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "sprinkler system",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Wet Pipe",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinkler coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "100%",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Alarm Systems",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 655.2
+      },
+      {
+        "value": "burglar alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "fire alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire alarm type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Central Station Monitored",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 602.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 67.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 67.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "$28,500,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 51.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "$7,125,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$10,687,500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$46,312,500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "II. PREMISES / BUILDING #2 -- LOC-002",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "building number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "premises number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "LOC-002",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "location address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "112 College Street, San Antonio, TX, 78205",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "location description",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Riverwalk Suites San Antonio",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 354.2
+      },
+      {
+        "value": "construction type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Fire Resistive",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "roof type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Metal",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "year built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2006",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "number of stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "12",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "total area (sq ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "142,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Hotel",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "ownership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Owned",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Building Improvements",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 235.2
+      },
+      {
+        "value": "heating -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "plumbing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2017",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "roofing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "wiring -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2014",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Fire Protection",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 149.2
+      },
+      {
+        "value": "distance to fire station",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2 miles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "distance to hydrant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "994 ft",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire district",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "District 13",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "sprinkler system",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Wet Pipe",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinkler coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "100%",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Alarm Systems",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 63.2
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 3,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 3,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 3,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "burglar alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "fire alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire alarm type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Proprietary System",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 52.8,
+        "y": 688.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 67.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 315.04,
+        "y": 67.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "$39,760,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 315.04,
+        "y": 51.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "$9,940,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$14,910,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$64,610,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 4,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 4,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 4,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "II. PREMISES / BUILDING #3 -- LOC-003",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "building number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "premises number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "LOC-003",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "location address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "245 East Main Street, Fredericksburg, TX, 78624",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "location description",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Fredericksburg Inn & Spa",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 580.2
+      },
+      {
+        "value": "construction type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Masonry Non-Combustible",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "roof type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Built-Up",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "year built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "1998",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "number of stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "total area (sq ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "48,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Hotel",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "ownership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Owned",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Building Improvements",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 461.2
+      },
+      {
+        "value": "heating -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2022",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "plumbing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2010",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "roofing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2017",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "wiring -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2017",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Fire Protection",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 375.2
+      },
+      {
+        "value": "distance to fire station",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "3 miles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "distance to hydrant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "1418 ft",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire district",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "District 3",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "sprinkler system",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Pre-Action",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinkler coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "100%",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Alarm Systems",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 289.2
+      },
+      {
+        "value": "burglar alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "fire alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire alarm type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "None",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 236.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 4,
+        "y": 67.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 315.04,
+        "y": 67.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "$10,560,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 315.04,
+        "y": 51.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "$2,640,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$3,960,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$17,160,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "II. PREMISES / BUILDING #4 -- LOC-004",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "building number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "premises number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "LOC-004",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 5,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 5,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 5,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "location address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "1220 South Congress Avenue, Austin, TX, 78704",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "location description",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "South Congress Motor Hotel",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 655.2
+      },
+      {
+        "value": "construction type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Masonry Non-Combustible",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "roof type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Concrete",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "year built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2015",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "number of stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "total area (sq ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "62,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Hotel",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "ownership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Owned",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Building Improvements",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "heating -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "plumbing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "roofing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "wiring -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Fire Protection",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 450.2
+      },
+      {
+        "value": "distance to fire station",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2 miles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "distance to hydrant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "2844 ft",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire district",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "District 4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "sprinkler system",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Wet Pipe",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinkler coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "100%",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Alarm Systems",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 364.2
+      },
+      {
+        "value": "burglar alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "fire alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire alarm type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Direct to Fire Department",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 311.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 4,
+        "y": 67.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 315.04,
+        "y": 67.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "$15,500,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 315.04,
+        "y": 51.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "$3,875,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$5,812,500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$25,187,500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 6,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 6,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 6,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "II. PREMISES / BUILDING #5 -- LOC-005",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "building number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "premises number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "LOC-005",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "location address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "608 Brazos Street, Austin, TX, 78701",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "location description",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Blanco River Steakhouse",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 580.2
+      },
+      {
+        "value": "construction type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Fire Resistive",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "roof type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Metal",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "year built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2010",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "number of stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "total area (sq ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "8,500",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Restaurant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "ownership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Owned",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Building Improvements",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 461.2
+      },
+      {
+        "value": "heating -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "plumbing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "roofing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "wiring -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2016",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Fire Protection",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 375.2
+      },
+      {
+        "value": "distance to fire station",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "5 miles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "distance to hydrant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "730 ft",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire district",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "District 17",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "sprinkler system",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Pre-Action",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinkler coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "100%",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Alarm Systems",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 289.2
+      },
+      {
+        "value": "burglar alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "fire alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire alarm type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Direct to Fire Department",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 236.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 67.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 315.04,
+        "y": 67.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "$2,550,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 315.04,
+        "y": 51.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "$850,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$1,700,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$5,100,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "II. PREMISES / BUILDING #6 -- LOC-006",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "building number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "6",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "premises number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "LOC-006",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 7,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 7,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 7,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "location address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "6550 Comanche Trail, Austin, TX, 78732",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "location description",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "The Oasis at Lake Travis",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 52.8,
+        "y": 655.2
+      },
+      {
+        "value": "construction type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Non-Combustible",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "roof type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "EPDM",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "year built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2012",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "number of stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "total area (sq ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "12,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Restaurant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "ownership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Owned",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Building Improvements",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "heating -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "plumbing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "roofing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "wiring -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2018",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Fire Protection",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 52.8,
+        "y": 450.2
+      },
+      {
+        "value": "distance to fire station",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "8 miles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "distance to hydrant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "2909 ft",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire district",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "District 8",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "sprinkler system",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Wet Pipe",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinkler coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "100%",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Alarm Systems",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 52.8,
+        "y": 364.2
+      },
+      {
+        "value": "burglar alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "fire alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire alarm type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Central Station Monitored",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 52.8,
+        "y": 311.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 67.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 315.04,
+        "y": 67.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "$3,000,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 315.04,
+        "y": 51.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "$900,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$1,800,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$5,700,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 8,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 8,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 8,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "II. PREMISES / BUILDING #7 -- LOC-007",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "building number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "7",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "premises number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "LOC-007",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "location address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "303 Pearl Parkway, San Antonio, TX, 78215",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "location description",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Mission Cantina - Pearl District",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 52.8,
+        "y": 580.2
+      },
+      {
+        "value": "construction type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Joisted Masonry",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "roof type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "EPDM",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "year built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2014",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "number of stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "total area (sq ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "6,800",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Restaurant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "ownership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Owned",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Building Improvements",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 52.8,
+        "y": 461.2
+      },
+      {
+        "value": "heating -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "plumbing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2022",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "roofing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "wiring -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Fire Protection",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 52.8,
+        "y": 375.2
+      },
+      {
+        "value": "distance to fire station",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "1 miles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "distance to hydrant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "2903 ft",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire district",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "District 4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "sprinkler system",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Pre-Action",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinkler coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "75%",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Alarm Systems",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 52.8,
+        "y": 289.2
+      },
+      {
+        "value": "burglar alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "fire alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire alarm type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "None",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 52.8,
+        "y": 236.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 4,
+        "y": 67.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 315.04,
+        "y": 67.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "$1,700,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 315.04,
+        "y": 51.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "$510,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$1,020,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$3,230,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "II. PREMISES / BUILDING #8 -- LOC-008",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 8,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "building number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "8",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "premises number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "LOC-008",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 8,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 9,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 9,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 9,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "location address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "401 Congress Avenue, Suite 2800, Austin, TX, 78701",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "location description",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Corporate Headquarters",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 52.8,
+        "y": 655.2
+      },
+      {
+        "value": "construction type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Tenant \u2014 contents & BI only",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "roof type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Shingle",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "year built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2008",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "number of stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "total area (sq ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "6,200",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "ownership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Tenant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Building Improvements",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "heating -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2015",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "plumbing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "roofing -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "wiring -- year updated",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "2013",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Fire Protection",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 52.8,
+        "y": 450.2
+      },
+      {
+        "value": "distance to fire station",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "5 miles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "distance to hydrant",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "2590 ft",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire district",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "District 19",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "sprinkler system",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "Dry Pipe",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "sprinkler coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "75%",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "protection class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Alarm Systems",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 52.8,
+        "y": 364.2
+      },
+      {
+        "value": "burglar alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "fire alarm",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 174.8,
+        "y": 6
+      },
+      {
+        "value": "fire alarm type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Direct to Fire Department",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 347.6,
+        "y": 6
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 52.8,
+        "y": 311.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 4,
+        "y": 67.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 315.04,
+        "y": 67.0
+      },
+      {
+        "value": "Building (Tenant-Occupied \u2014 N/A)",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "$0",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 315.04,
+        "y": 51.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "$310,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$620,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$930,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "III. BLANKET SUMMARY",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "blanket number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "BLK-3399",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "blanket type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Building, Contents & BI",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "number of locations",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "8",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "value": "total insured value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "$168,230,000.00",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 9,
+        "x": 261.2,
+        "y": 6
+      },
+      {
+        "value": "Value Category",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "Amount",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 315.04,
+        "y": 35.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$101,570,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "Contents / Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$26,150,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 9,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "ACORD 140 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 10,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 10,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 10,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "$40,510,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 315.04,
+        "y": 19.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$168,230,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "IV. INTERESTS",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 6,
+        "y": 6.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 4,
+        "y": 51.0
+      },
+      {
+        "value": "Name",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 97.312,
+        "y": 51.0
+      },
+      {
+        "value": "Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 221.728,
+        "y": 51.0
+      },
+      {
+        "value": "Loan / Reference Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 418.72,
+        "y": 51.0
+      },
+      {
+        "value": "ISAOA/ATIMA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 4,
+        "y": 35.0
+      },
+      {
+        "value": "KeyBank National Association",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 97.312,
+        "y": 35.0
+      },
+      {
+        "value": "P.O. Box 38199, Clarksville, TN 37040",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 221.728,
+        "y": 35.0
+      },
+      {
+        "value": "L-897629120",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 418.72,
+        "y": 35.0
+      },
+      {
+        "value": "Loss Payee",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "Stearns Bank, N.A.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 97.312,
+        "y": 19.0
+      },
+      {
+        "value": "P.O. Box 25349, Fargo, ND 58102",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 221.728,
+        "y": 19.0
+      },
+      {
+        "value": "L-496809647",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 418.72,
+        "y": 19.0
+      },
+      {
+        "value": "Additional Insured",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "Pinnacle Investors Group, Inc.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 97.312,
+        "y": 3.0
+      },
+      {
+        "value": "P.O. Box 55869, Elk Grove, CA 95624",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 221.728,
+        "y": 3.0
+      },
+      {
+        "value": "L-941498258",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 10,
+        "x": 418.72,
+        "y": 3.0
+      },
+      {
+        "value": "Page 1 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 1,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 2 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 2,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 3 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 3,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 4 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 4,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 5 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 5,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 6 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 6,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 7 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 7,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 8 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 8,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 9 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 9,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 10 of 10",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 10,
+        "x": 306.0,
+        "y": 15.5
+      }
+    ],
+    "corrupted_view": {
+      "transforms_applied": [
+        "p42_font_corrupt"
+      ],
+      "strings": [
+        "ACORD 14\ufffd (2\ufffd16/\ufffd3)",
+        "\u00a9 1993-2\ufffd16 ACORD CORPORATION. All rights reserved.",
+        "The ACORD name and logo are registered marks of ACORD",
+        "ACORD",
+        "PROPERTY SECTION",
+        "DATE:",
+        "\ufffd3/14/2\ufffd26",
+        "CARRIER:",
+        "Hallmark Insurance Group",
+        "AGENCY:",
+        "Capitol Insurance Advisors",
+        "CONTACT:",
+        "Marcus Jennings",
+        "I. POLICY INFORMATION",
+        "agency customer id",
+        "ACT-2\ufffd143\ufffd",
+        "policy number",
+        "CP-HCHP-2\ufffd2\ufffd-33\ufffd2",
+        "carrier",
+        "naic code",
+        "28339",
+        "effective date",
+        "\ufffd\ufffd/\ufffd1/2\ufffd2\ufffd",
+        "expiration date",
+        "\ufffd\ufffd/\ufffd1/2\ufffd26",
+        "named insured",
+        "Hill Country Hospitality Partners, LLC",
+        "mailing address",
+        "4\ufffd1 Congress Avenue, Suite 28\ufffd\ufffd, Austin, TX, \ufffd8\ufffd\ufffd1",
+        "deductible",
+        "$2\ufffd,\ufffd\ufffd\ufffd",
+        "valuation",
+        "Replacement Cost",
+        "II. PREMISES / BUILDING #1 -- LOC-\ufffd\ufffd1",
+        "building number",
+        "1",
+        "premises number",
+        "LOC-\ufffd\ufffd1",
+        "location address",
+        "6\ufffd4 Brazos Street, Austin, TX, \ufffd8\ufffd\ufffd1",
+        "location description",
+        "The Driskill Austin",
+        "Construction Details",
+        "construction type",
+        "Fire Resistive",
+        "roof type",
+        "TPO",
+        "protection class",
+        "\ufffd",
+        "year built",
+        "2\ufffd1\ufffd",
+        "number of stories",
+        "8",
+        "total area (sq ft)",
+        "9\ufffd,\ufffd\ufffd\ufffd",
+        "occupancy",
+        "Hotel",
+        "sprinklered",
+        "Yes",
+        "ownership",
+        "Owned",
+        "Building Improvements",
+        "heating -- year updated",
+        "2\ufffd26",
+        "plumbing -- year updated",
+        "2\ufffd18",
+        "roofing -- year updated",
+        "wiring -- year updated",
+        "2\ufffd21",
+        "Fire Protection",
+        "distance to fire station",
+        "1 miles",
+        "distance to hydrant",
+        "21\ufffd3 ft",
+        "fire district",
+        "District 19",
+        "sprinkler system",
+        "Wet Pipe",
+        "sprinkler coverage",
+        "1\ufffd\ufffd%",
+        "Alarm Systems",
+        "burglar alarm",
+        "No",
+        "fire alarm",
+        "fire alarm type",
+        "Central Station Monitored",
+        "Covered Values",
+        "Coverage",
+        "Amount",
+        "Building",
+        "$28,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "Contents / Business Personal Property",
+        "$\ufffd,12\ufffd,\ufffd\ufffd\ufffd",
+        "Business Income with Extra Expense",
+        "$1\ufffd,68\ufffd,\ufffd\ufffd\ufffd",
+        "TOTAL INSURED VALUE",
+        "$46,312,\ufffd\ufffd\ufffd",
+        "II. PREMISES / BUILDING #2 -- LOC-\ufffd\ufffd2",
+        "2",
+        "LOC-\ufffd\ufffd2",
+        "112 College Street, San Antonio, TX, \ufffd82\ufffd\ufffd",
+        "Riverwalk Suites San Antonio",
+        "Metal",
+        "2\ufffd\ufffd6",
+        "12",
+        "142,\ufffd\ufffd\ufffd",
+        "2\ufffd14",
+        "2 miles",
+        "994 ft",
+        "District 13",
+        "Proprietary System",
+        "$39,\ufffd6\ufffd,\ufffd\ufffd\ufffd",
+        "$9,94\ufffd,\ufffd\ufffd\ufffd",
+        "$14,91\ufffd,\ufffd\ufffd\ufffd",
+        "$64,61\ufffd,\ufffd\ufffd\ufffd",
+        "II. PREMISES / BUILDING #3 -- LOC-\ufffd\ufffd3",
+        "3",
+        "LOC-\ufffd\ufffd3",
+        "24\ufffd East Main Street, Fredericksburg, TX, \ufffd8624",
+        "Fredericksburg Inn & Spa",
+        "Masonry Non-Combustible",
+        "Built-Up",
+        "1998",
+        "48,\ufffd\ufffd\ufffd",
+        "2\ufffd22",
+        "3 miles",
+        "1418 ft",
+        "District 3",
+        "Pre-Action",
+        "None",
+        "$1\ufffd,\ufffd6\ufffd,\ufffd\ufffd\ufffd",
+        "$2,64\ufffd,\ufffd\ufffd\ufffd",
+        "$3,96\ufffd,\ufffd\ufffd\ufffd",
+        "$1\ufffd,16\ufffd,\ufffd\ufffd\ufffd",
+        "II. PREMISES / BUILDING #4 -- LOC-\ufffd\ufffd4",
+        "4",
+        "LOC-\ufffd\ufffd4",
+        "122\ufffd South Congress Avenue, Austin, TX, \ufffd8\ufffd\ufffd4",
+        "South Congress Motor Hotel",
+        "Concrete",
+        "62,\ufffd\ufffd\ufffd",
+        "2\ufffd2\ufffd",
+        "2844 ft",
+        "District 4",
+        "Direct to Fire Department",
+        "$1\ufffd,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$3,8\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$\ufffd,812,\ufffd\ufffd\ufffd",
+        "$2\ufffd,18\ufffd,\ufffd\ufffd\ufffd",
+        "II. PREMISES / BUILDING #\ufffd -- LOC-\ufffd\ufffd\ufffd",
+        "LOC-\ufffd\ufffd\ufffd",
+        "6\ufffd8 Brazos Street, Austin, TX, \ufffd8\ufffd\ufffd1",
+        "Blanco River Steakhouse",
+        "8,\ufffd\ufffd\ufffd",
+        "Restaurant",
+        "2\ufffd23",
+        "2\ufffd16",
+        "\ufffd miles",
+        "\ufffd3\ufffd ft",
+        "District 1\ufffd",
+        "$2,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$8\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$1,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$\ufffd,1\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "II. PREMISES / BUILDING #6 -- LOC-\ufffd\ufffd6",
+        "6",
+        "LOC-\ufffd\ufffd6",
+        "6\ufffd\ufffd\ufffd Comanche Trail, Austin, TX, \ufffd8\ufffd32",
+        "The Oasis at Lake Travis",
+        "Non-Combustible",
+        "EPDM",
+        "2\ufffd12",
+        "12,\ufffd\ufffd\ufffd",
+        "8 miles",
+        "29\ufffd9 ft",
+        "District 8",
+        "$3,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$9\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$1,8\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$\ufffd,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "3\ufffd3 Pearl Parkway, San Antonio, TX, \ufffd821\ufffd",
+        "Mission Cantina - Pearl District",
+        "Joisted Masonry",
+        "6,8\ufffd\ufffd",
+        "29\ufffd3 ft",
+        "\ufffd\ufffd%",
+        "$\ufffd1\ufffd,\ufffd\ufffd\ufffd",
+        "$1,\ufffd2\ufffd,\ufffd\ufffd\ufffd",
+        "$3,23\ufffd,\ufffd\ufffd\ufffd",
+        "II. PREMISES / BUILDING #8 -- LOC-\ufffd\ufffd8",
+        "LOC-\ufffd\ufffd8",
+        "Corporate Headquarters",
+        "Tenant \u2014 contents & BI only",
+        "Shingle",
+        "2\ufffd\ufffd8",
+        "6,2\ufffd\ufffd",
+        "Office",
+        "Tenant",
+        "2\ufffd13",
+        "2\ufffd9\ufffd ft",
+        "Dry Pipe",
+        "Building (Tenant-Occupied \u2014 N/A)",
+        "$\ufffd",
+        "$31\ufffd,\ufffd\ufffd\ufffd",
+        "$62\ufffd,\ufffd\ufffd\ufffd",
+        "$93\ufffd,\ufffd\ufffd\ufffd",
+        "III. BLANKET SUMMARY",
+        "blanket number",
+        "BLK-3399",
+        "blanket type",
+        "Building, Contents & BI",
+        "number of locations",
+        "total insured value",
+        "$168,23\ufffd,\ufffd\ufffd\ufffd.\ufffd\ufffd",
+        "Value Category",
+        "$1\ufffd1,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$26,1\ufffd\ufffd,\ufffd\ufffd\ufffd",
+        "$4\ufffd,\ufffd1\ufffd,\ufffd\ufffd\ufffd",
+        "$168,23\ufffd,\ufffd\ufffd\ufffd",
+        "IV. INTERESTS",
+        "Type",
+        "Name",
+        "Address",
+        "Loan / Reference Number",
+        "ISAOA/ATIMA",
+        "KeyBank National Association",
+        "P.O. Box 38199, Clarksville, TN 3\ufffd\ufffd4\ufffd",
+        "L-89\ufffd62912\ufffd",
+        "Loss Payee",
+        "Stearns Bank, N.A.",
+        "P.O. Box 2\ufffd349, Fargo, ND \ufffd81\ufffd2",
+        "L-4968\ufffd964\ufffd",
+        "Additional Insured",
+        "Pinnacle Investors Group, Inc.",
+        "P.O. Box \ufffd\ufffd869, Elk Grove, CA 9\ufffd624",
+        "L-9414982\ufffd8",
+        "Page 1 of 1\ufffd",
+        "Page 2 of 1\ufffd",
+        "Page 3 of 1\ufffd",
+        "Page 4 of 1\ufffd",
+        "Page \ufffd of 1\ufffd",
+        "Page 6 of 1\ufffd",
+        "Page 8 of 1\ufffd",
+        "Page 9 of 1\ufffd",
+        "Page 1\ufffd of 1\ufffd"
+      ],
+      "numbers": [
+        1993,
+        143,
+        28339,
+        46312,
+        112,
+        142,
+        994,
+        8624,
+        1998,
+        1418,
+        122,
+        2844,
+        812,
+        821,
+        3399,
+        168,
+        38199,
+        62912,
+        349,
+        4968,
+        964,
+        869,
+        624,
+        9414982
+      ],
+      "tokens": [
+        "acord",
+        "14",
+        "16",
+        "1993-2",
+        "corporation",
+        "all",
+        "rights",
+        "reserved",
+        "the",
+        "name",
+        "and",
+        "logo",
+        "are",
+        "registered",
+        "marks",
+        "of",
+        "property",
+        "section",
+        "date",
+        "26",
+        "carrier",
+        "hallmark",
+        "insurance",
+        "group",
+        "agency",
+        "capitol",
+        "advisors",
+        "contact",
+        "marcus",
+        "jennings",
+        "policy",
+        "information",
+        "customer",
+        "id",
+        "act-2",
+        "143",
+        "number",
+        "cp-hchp-2",
+        "33",
+        "naic",
+        "code",
+        "28339",
+        "effective",
+        "expiration",
+        "named",
+        "insured",
+        "hill",
+        "country",
+        "hospitality",
+        "partners",
+        "llc",
+        "mailing",
+        "address",
+        "congress",
+        "avenue",
+        "suite",
+        "28",
+        "austin",
+        "tx",
+        "deductible",
+        "$2",
+        "valuation",
+        "replacement",
+        "cost",
+        "ii",
+        "premises",
+        "building",
+        "loc",
+        "location",
+        "brazos",
+        "street",
+        "description",
+        "driskill",
+        "construction",
+        "details",
+        "type",
+        "fire",
+        "resistive",
+        "roof",
+        "tpo",
+        "protection",
+        "class",
+        "year",
+        "built",
+        "stories",
+        "total",
+        "area",
+        "sq",
+        "ft",
+        "occupancy",
+        "hotel",
+        "sprinklered",
+        "yes",
+        "ownership",
+        "owned",
+        "improvements",
+        "heating",
+        "updated",
+        "plumbing",
+        "18",
+        "roofing",
+        "wiring",
+        "21",
+        "distance",
+        "to",
+        "station",
+        "miles",
+        "hydrant",
+        "district",
+        "19",
+        "sprinkler",
+        "system",
+        "wet",
+        "pipe",
+        "coverage",
+        "alarm",
+        "systems",
+        "burglar",
+        "no",
+        "central",
+        "monitored",
+        "covered",
+        "values",
+        "amount",
+        "$28",
+        "contents",
+        "business",
+        "personal",
+        "12",
+        "income",
+        "with",
+        "extra",
+        "expense",
+        "$1",
+        "68",
+        "value",
+        "$46",
+        "312",
+        "112",
+        "college",
+        "san",
+        "antonio",
+        "82",
+        "riverwalk",
+        "suites",
+        "metal",
+        "142",
+        "994",
+        "13",
+        "proprietary",
+        "$39",
+        "$9",
+        "94",
+        "$14",
+        "91",
+        "$64",
+        "61",
+        "24",
+        "east",
+        "main",
+        "fredericksburg",
+        "8624",
+        "inn",
+        "spa",
+        "masonry",
+        "non-combustible",
+        "built-up",
+        "1998",
+        "48",
+        "22",
+        "1418",
+        "pre-action",
+        "none",
+        "64",
+        "$3",
+        "96",
+        "122",
+        "south",
+        "motor",
+        "concrete",
+        "62",
+        "2844",
+        "direct",
+        "department",
+        "812",
+        "blanco",
+        "river",
+        "steakhouse",
+        "restaurant",
+        "23",
+        "$8",
+        "comanche",
+        "trail",
+        "32",
+        "oasis",
+        "at",
+        "lake",
+        "travis",
+        "epdm",
+        "29",
+        "pearl",
+        "parkway",
+        "821",
+        "mission",
+        "cantina",
+        "joisted",
+        "corporate",
+        "headquarters",
+        "tenant",
+        "bi",
+        "only",
+        "shingle",
+        "office",
+        "dry",
+        "tenant-occupied",
+        "$31",
+        "$62",
+        "$93",
+        "iii",
+        "blanket",
+        "summary",
+        "blk-3399",
+        "locations",
+        "$168",
+        "category",
+        "$26",
+        "$4",
+        "iv",
+        "interests",
+        "loan",
+        "reference",
+        "isaoa",
+        "atima",
+        "keybank",
+        "national",
+        "association",
+        "p.o",
+        "box",
+        "38199",
+        "clarksville",
+        "tn",
+        "l-89",
+        "62912",
+        "loss",
+        "payee",
+        "stearns",
+        "bank",
+        "n.a",
+        "349",
+        "fargo",
+        "nd",
+        "81",
+        "l-4968",
+        "964",
+        "additional",
+        "pinnacle",
+        "investors",
+        "inc",
+        "869",
+        "elk",
+        "grove",
+        "ca",
+        "624",
+        "l-9414982",
+        "page"
+      ],
+      "rendered_text": "ACORD 14\ufffd (2\ufffd16/\ufffd3)\n\u00a9 1993-2\ufffd16 ACORD CORPORATION. All rights reserved.\nThe ACORD name and logo are registered marks of ACORD\nACORD\nPROPERTY SECTION\nDATE:\n\ufffd3/14/2\ufffd26\nCARRIER:\nHallmark Insurance Group\nAGENCY:\nCapitol Insurance Advisors\nCONTACT:\nMarcus Jennings\nI. POLICY INFORMATION\nagency customer id\nACT-2\ufffd143\ufffd\npolicy number\nCP-HCHP-2\ufffd2\ufffd-33\ufffd2\ncarrier\nnaic code\n28339\neffective date\n\ufffd\ufffd/\ufffd1/2\ufffd2\ufffd\nexpiration date\n\ufffd\ufffd/\ufffd1/2\ufffd26\nnamed insured\nHill Country Hospitality Partners, LLC\nmailing address\n4\ufffd1 Congress Avenue, Suite 28\ufffd\ufffd, Austin, TX, \ufffd8\ufffd\ufffd1\ndeductible\n$2\ufffd,\ufffd\ufffd\ufffd\nvaluation\nReplacement Cost\nII. PREMISES / BUILDING #1 -- LOC-\ufffd\ufffd1\nbuilding number\n1\npremises number\nLOC-\ufffd\ufffd1\nlocation address\n6\ufffd4 Brazos Street, Austin, TX, \ufffd8\ufffd\ufffd1\nlocation description\nThe Driskill Austin\nConstruction Details\nconstruction type\nFire Resistive\nroof type\nTPO\nprotection class\n\ufffd\nyear built\n2\ufffd1\ufffd\nnumber of stories\n8\ntotal area (sq ft)\n9\ufffd,\ufffd\ufffd\ufffd\noccupancy\nHotel\nsprinklered\nYes\nownership\nOwned\nBuilding Improvements\nheating -- year updated\n2\ufffd26\nplumbing -- year updated\n2\ufffd18\nroofing -- year updated\nwiring -- year updated\n2\ufffd21\nFire Protection\ndistance to fire station\n1 miles\ndistance to hydrant\n21\ufffd3 ft\nfire district\nDistrict 19\nsprinkler system\nWet Pipe\nsprinkler coverage\n1\ufffd\ufffd%\nAlarm Systems\nburglar alarm\nNo\nfire alarm\nfire alarm type\nCentral Station Monitored\nCovered Values\nCoverage\nAmount\nBuilding\n$28,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\nContents / Business Personal Property\n$\ufffd,12\ufffd,\ufffd\ufffd\ufffd\nBusiness Income with Extra Expense\n$1\ufffd,68\ufffd,\ufffd\ufffd\ufffd\nTOTAL INSURED VALUE\n$46,312,\ufffd\ufffd\ufffd\nII. PREMISES / BUILDING #2 -- LOC-\ufffd\ufffd2\n2\nLOC-\ufffd\ufffd2\n112 College Street, San Antonio, TX, \ufffd82\ufffd\ufffd\nRiverwalk Suites San Antonio\nMetal\n2\ufffd\ufffd6\n12\n142,\ufffd\ufffd\ufffd\n2\ufffd14\n2 miles\n994 ft\nDistrict 13\nProprietary System\n$39,\ufffd6\ufffd,\ufffd\ufffd\ufffd\n$9,94\ufffd,\ufffd\ufffd\ufffd\n$14,91\ufffd,\ufffd\ufffd\ufffd\n$64,61\ufffd,\ufffd\ufffd\ufffd\nII. PREMISES / BUILDING #3 -- LOC-\ufffd\ufffd3\n3\nLOC-\ufffd\ufffd3\n24\ufffd East Main Street, Fredericksburg, TX, \ufffd8624\nFredericksburg Inn & Spa\nMasonry Non-Combustible\nBuilt-Up\n1998\n48,\ufffd\ufffd\ufffd\n2\ufffd22\n3 miles\n1418 ft\nDistrict 3\nPre-Action\nNone\n$1\ufffd,\ufffd6\ufffd,\ufffd\ufffd\ufffd\n$2,64\ufffd,\ufffd\ufffd\ufffd\n$3,96\ufffd,\ufffd\ufffd\ufffd\n$1\ufffd,16\ufffd,\ufffd\ufffd\ufffd\nII. PREMISES / BUILDING #4 -- LOC-\ufffd\ufffd4\n4\nLOC-\ufffd\ufffd4\n122\ufffd South Congress Avenue, Austin, TX, \ufffd8\ufffd\ufffd4\nSouth Congress Motor Hotel\nConcrete\n62,\ufffd\ufffd\ufffd\n2\ufffd2\ufffd\n2844 ft\nDistrict 4\nDirect to Fire Department\n$1\ufffd,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\n$3,8\ufffd\ufffd,\ufffd\ufffd\ufffd\n$\ufffd,812,\ufffd\ufffd\ufffd\n$2\ufffd,18\ufffd,\ufffd\ufffd\ufffd\nII. PREMISES / BUILDING #\ufffd -- LOC-\ufffd\ufffd\ufffd\nLOC-\ufffd\ufffd\ufffd\n6\ufffd8 Brazos Street, Austin, TX, \ufffd8\ufffd\ufffd1\nBlanco River Steakhouse\n8,\ufffd\ufffd\ufffd\nRestaurant\n2\ufffd23\n2\ufffd16\n\ufffd miles\n\ufffd3\ufffd ft\nDistrict 1\ufffd\n$2,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\n$8\ufffd\ufffd,\ufffd\ufffd\ufffd\n$1,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\n$\ufffd,1\ufffd\ufffd,\ufffd\ufffd\ufffd\nII. PREMISES / BUILDING #6 -- LOC-\ufffd\ufffd6\n6\nLOC-\ufffd\ufffd6\n6\ufffd\ufffd\ufffd Comanche Trail, Austin, TX, \ufffd8\ufffd32\nThe Oasis at Lake Travis\nNon-Combustible\nEPDM\n2\ufffd12\n12,\ufffd\ufffd\ufffd\n8 miles\n29\ufffd9 ft\nDistrict 8\n$3,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\n$9\ufffd\ufffd,\ufffd\ufffd\ufffd\n$1,8\ufffd\ufffd,\ufffd\ufffd\ufffd\n$\ufffd,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\n3\ufffd3 Pearl Parkway, San Antonio, TX, \ufffd821\ufffd\nMission Cantina - Pearl District\nJoisted Masonry\n6,8\ufffd\ufffd\n29\ufffd3 ft\n\ufffd\ufffd%\n$\ufffd1\ufffd,\ufffd\ufffd\ufffd\n$1,\ufffd2\ufffd,\ufffd\ufffd\ufffd\n$3,23\ufffd,\ufffd\ufffd\ufffd\nII. PREMISES / BUILDING #8 -- LOC-\ufffd\ufffd8\nLOC-\ufffd\ufffd8\nCorporate Headquarters\nTenant \u2014 contents & BI only\nShingle\n2\ufffd\ufffd8\n6,2\ufffd\ufffd\nOffice\nTenant\n2\ufffd13\n2\ufffd9\ufffd ft\nDry Pipe\nBuilding (Tenant-Occupied \u2014 N/A)\n$\ufffd\n$31\ufffd,\ufffd\ufffd\ufffd\n$62\ufffd,\ufffd\ufffd\ufffd\n$93\ufffd,\ufffd\ufffd\ufffd\nIII. BLANKET SUMMARY\nblanket number\nBLK-3399\nblanket type\nBuilding, Contents & BI\nnumber of locations\ntotal insured value\n$168,23\ufffd,\ufffd\ufffd\ufffd.\ufffd\ufffd\nValue Category\n$1\ufffd1,\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\n$26,1\ufffd\ufffd,\ufffd\ufffd\ufffd\n$4\ufffd,\ufffd1\ufffd,\ufffd\ufffd\ufffd\n$168,23\ufffd,\ufffd\ufffd\ufffd\nIV. INTERESTS\nType\nName\nAddress\nLoan / Reference Number\nISAOA/ATIMA\nKeyBank National Association\nP.O. Box 38199, Clarksville, TN 3\ufffd\ufffd4\ufffd\nL-89\ufffd62912\ufffd\nLoss Payee\nStearns Bank, N.A.\nP.O. Box 2\ufffd349, Fargo, ND \ufffd81\ufffd2\nL-4968\ufffd964\ufffd\nAdditional Insured\nPinnacle Investors Group, Inc.\nP.O. Box \ufffd\ufffd869, Elk Grove, CA 9\ufffd624\nL-9414982\ufffd8\nPage 1 of 1\ufffd\nPage 2 of 1\ufffd\nPage 3 of 1\ufffd\nPage 4 of 1\ufffd\nPage \ufffd of 1\ufffd\nPage 6 of 1\ufffd\nPage 8 of 1\ufffd\nPage 9 of 1\ufffd\nPage 1\ufffd of 1\ufffd"
+    },
+    "page_count": 10
+  }
+}

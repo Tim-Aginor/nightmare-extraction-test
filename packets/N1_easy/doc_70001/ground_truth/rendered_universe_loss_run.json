@@ -1,0 +1,662 @@
+{
+  "schema_version": "1.0",
+  "seed": 70001,
+  "generated_at": "2026-05-04T23:22:58+00:00",
+  "doc_type": "loss_run",
+  "doc": {
+    "format": "pdf",
+    "scan_level": "digital",
+    "strings": [
+      "Apex Managing General Agency",
+      "Lone Star Property Holdings, LP",
+      "Report: LR-2026-12781",
+      "CONFIDENTIAL",
+      "APEX MANAGING GENERAL AGENCY",
+      "AMGA LOSS RUN REPORT",
+      "Apex Managing General Agency \u2014 Loss Run Report (Compact)",
+      "Insured: Lone Star Property Holdings, LP | Report Date: 03/15/2026",
+      "Coverage",
+      "Claim #",
+      "Claimant",
+      "DOL",
+      "Reported",
+      "Status",
+      "Body Part",
+      "Cause",
+      "Description",
+      "Paid Ind",
+      "Paid Med",
+      "Paid Exp",
+      "ALAE",
+      "Reserve",
+      "Incurred",
+      "Commerci",
+      "CNA-2025-033500",
+      "Lone Star",
+      "06/13/2025",
+      "06/20/2025",
+      "Open",
+      "Fire",
+      "A main electrical",
+      "$137,976",
+      "$15,655",
+      "$44,151",
+      "$197,783",
+      "AIG-2023-033710",
+      "06/09/2023",
+      "06/16/2023",
+      "Closed",
+      "Lightning",
+      "Lightning struck",
+      "$95,696",
+      "$9,754",
+      "$105,450",
+      "BHG-2021-033637",
+      "06/30/2021",
+      "07/06/2021",
+      "Denied",
+      "Vandalism",
+      "Vandals spray-painte",
+      "Page 1 of 2",
+      "Page 2 of 2"
+    ],
+    "numbers": [
+      2026,
+      12781,
+      2025,
+      33500,
+      137976,
+      15655,
+      44151,
+      197783,
+      2023,
+      33710,
+      95696,
+      9754,
+      105450,
+      2021,
+      33637
+    ],
+    "tokens": [
+      "apex",
+      "managing",
+      "general",
+      "agency",
+      "lone",
+      "star",
+      "property",
+      "holdings",
+      "lp",
+      "report",
+      "lr-2026-12781",
+      "confidential",
+      "amga",
+      "loss",
+      "run",
+      "compact",
+      "insured",
+      "date",
+      "03",
+      "15",
+      "2026",
+      "coverage",
+      "claim",
+      "claimant",
+      "dol",
+      "reported",
+      "status",
+      "body",
+      "part",
+      "cause",
+      "description",
+      "paid",
+      "ind",
+      "med",
+      "exp",
+      "alae",
+      "reserve",
+      "incurred",
+      "commerci",
+      "cna-2025-033500",
+      "06",
+      "13",
+      "2025",
+      "20",
+      "open",
+      "fire",
+      "main",
+      "electrical",
+      "$137",
+      "976",
+      "$15",
+      "655",
+      "$44",
+      "151",
+      "$197",
+      "783",
+      "aig-2023-033710",
+      "09",
+      "2023",
+      "16",
+      "closed",
+      "lightning",
+      "struck",
+      "$95",
+      "696",
+      "$9",
+      "754",
+      "$105",
+      "450",
+      "bhg-2021-033637",
+      "30",
+      "2021",
+      "07",
+      "denied",
+      "vandalism",
+      "vandals",
+      "spray-painte",
+      "page",
+      "of"
+    ],
+    "rendered_text": "Apex Managing General Agency                      Report: LR-2026-12781\nLone Star Property Holdings, LP\n\n\n\n\nCONFIDENTIAL                      Page 1 of 2\n                                                APEX MANAGING GENERAL AGENCY\n                                                        AMGA LOSS RUN REPORT\n\fApex Managing General Agency                                                                                                                                                 Report: LR-2026-12781\nLone Star Property Holdings, LP\n\n Apex Managing General Agency \u2014 Loss Run Report (Compact)\n Insured: Lone Star Property Holdings, LP | Report Date: 03/15/2026\n\n    Coverage   Claim #            Claimant    DOL          Reported     Status   Body Part      Cause       Description            Paid Ind    Paid Med   Paid Exp ALAE   Reserve     Incurred\n               CNA-2025-03350\n    Commerci                  Lone Star       06/13/2025   06/20/2025   Open                    Fire        A main electrical       $137,976               $15,655          $44,151     $197,783\n               0\n               AIG-2023-03371\n    Commerci                      Lone Star   06/09/2023   06/16/2023   Closed                  Lightning   Lightning struck         $95,696                $9,754                      $105,450\n               0\n               BHG-2021-0336\n    Commerci                      Lone Star   06/30/2021   07/06/2021   Denied                  Vandalism   Vandals spray-painte\n               37\n\n\n\n\nCONFIDENTIAL                                                                                 Page 2 of 2\n                                                                                                                                                                           APEX MANAGING GENERAL AGENCY\n                                                                                                                                                                                   AMGA LOSS RUN REPORT\n\f",
+    "elements": [
+      {
+        "value": "Apex Managing General Agency",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 46.8,
+        "y": 757.2
+      },
+      {
+        "value": "Lone Star Property Holdings, LP",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 46.8,
+        "y": 747.2
+      },
+      {
+        "value": "Report: LR-2026-12781",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 565.2,
+        "y": 757.2
+      },
+      {
+        "value": "CONFIDENTIAL",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 46.8,
+        "y": 28.8
+      },
+      {
+        "value": "APEX MANAGING GENERAL AGENCY",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 565.2,
+        "y": 20.8
+      },
+      {
+        "value": "AMGA LOSS RUN REPORT",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 565.2,
+        "y": 13.8
+      },
+      {
+        "value": "Apex Managing General Agency",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 46.8,
+        "y": 577.2
+      },
+      {
+        "value": "Lone Star Property Holdings, LP",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 46.8,
+        "y": 567.2
+      },
+      {
+        "value": "Report: LR-2026-12781",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 745.2,
+        "y": 577.2
+      },
+      {
+        "value": "CONFIDENTIAL",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 46.8,
+        "y": 28.8
+      },
+      {
+        "value": "APEX MANAGING GENERAL AGENCY",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 745.2,
+        "y": 20.8
+      },
+      {
+        "value": "AMGA LOSS RUN REPORT",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 745.2,
+        "y": 13.8
+      },
+      {
+        "value": "Apex Managing General Agency \u2014 Loss Run Report (Compact)",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 545.2
+      },
+      {
+        "value": "Insured: Lone Star Property Holdings, LP | Report Date: 03/15/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 531.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 2.0,
+        "y": 52.0
+      },
+      {
+        "value": "Claim #",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 40.412,
+        "y": 52.0
+      },
+      {
+        "value": "Claimant",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 96.284,
+        "y": 52.0
+      },
+      {
+        "value": "DOL",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 152.156,
+        "y": 52.0
+      },
+      {
+        "value": "Reported",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 197.552,
+        "y": 52.0
+      },
+      {
+        "value": "Status",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.948,
+        "y": 52.0
+      },
+      {
+        "value": "Body Part",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 277.868,
+        "y": 52.0
+      },
+      {
+        "value": "Cause",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 326.756,
+        "y": 52.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 375.644,
+        "y": 52.0
+      },
+      {
+        "value": "Paid Ind",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 445.484,
+        "y": 52.0
+      },
+      {
+        "value": "Paid Med",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 483.896,
+        "y": 52.0
+      },
+      {
+        "value": "Paid Exp",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 522.308,
+        "y": 52.0
+      },
+      {
+        "value": "ALAE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 557.228,
+        "y": 52.0
+      },
+      {
+        "value": "Reserve",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 588.656,
+        "y": 52.0
+      },
+      {
+        "value": "Incurred",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 627.068,
+        "y": 52.0
+      },
+      {
+        "value": "Commerci",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 2.0,
+        "y": 38.75
+      },
+      {
+        "value": "CNA-2025-033500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 40.412,
+        "y": 35.0
+      },
+      {
+        "value": "Lone Star",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 96.284,
+        "y": 38.75
+      },
+      {
+        "value": "06/13/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 152.156,
+        "y": 38.75
+      },
+      {
+        "value": "06/20/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 197.552,
+        "y": 38.75
+      },
+      {
+        "value": "Open",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.948,
+        "y": 38.75
+      },
+      {
+        "value": "Fire",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 326.756,
+        "y": 38.75
+      },
+      {
+        "value": "A main electrical",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 375.644,
+        "y": 38.75
+      },
+      {
+        "value": "$137,976",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 445.484,
+        "y": 38.75
+      },
+      {
+        "value": "$15,655",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 522.308,
+        "y": 38.75
+      },
+      {
+        "value": "$44,151",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 588.656,
+        "y": 38.75
+      },
+      {
+        "value": "$197,783",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 627.068,
+        "y": 38.75
+      },
+      {
+        "value": "Commerci",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 2.0,
+        "y": 21.75
+      },
+      {
+        "value": "AIG-2023-033710",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 40.412,
+        "y": 18.0
+      },
+      {
+        "value": "Lone Star",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 96.284,
+        "y": 21.75
+      },
+      {
+        "value": "06/09/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 152.156,
+        "y": 21.75
+      },
+      {
+        "value": "06/16/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 197.552,
+        "y": 21.75
+      },
+      {
+        "value": "Closed",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.948,
+        "y": 21.75
+      },
+      {
+        "value": "Lightning",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 326.756,
+        "y": 21.75
+      },
+      {
+        "value": "Lightning struck",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 375.644,
+        "y": 21.75
+      },
+      {
+        "value": "$95,696",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 445.484,
+        "y": 21.75
+      },
+      {
+        "value": "$9,754",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 522.308,
+        "y": 21.75
+      },
+      {
+        "value": "$105,450",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 627.068,
+        "y": 21.75
+      },
+      {
+        "value": "Commerci",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 2.0,
+        "y": 4.75
+      },
+      {
+        "value": "BHG-2021-033637",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 40.412,
+        "y": 1.0
+      },
+      {
+        "value": "Lone Star",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 96.284,
+        "y": 4.75
+      },
+      {
+        "value": "06/30/2021",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 152.156,
+        "y": 4.75
+      },
+      {
+        "value": "07/06/2021",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 197.552,
+        "y": 4.75
+      },
+      {
+        "value": "Denied",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.948,
+        "y": 4.75
+      },
+      {
+        "value": "Vandalism",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 326.756,
+        "y": 4.75
+      },
+      {
+        "value": "Vandals spray-painte",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 375.644,
+        "y": 4.75
+      },
+      {
+        "value": "Page 1 of 2",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 1,
+        "x": 306.0,
+        "y": 28.8
+      },
+      {
+        "value": "Page 2 of 2",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 2,
+        "x": 396.0,
+        "y": 28.8
+      }
+    ],
+    "page_count": 2
+  }
+}

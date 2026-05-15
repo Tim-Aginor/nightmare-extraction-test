@@ -1,0 +1,135 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": "2016/03",
+    "form_title": "COMMERCIAL GENERAL LIABILITY SECTION"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-KCB-2025-5581",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "producer_name": null,
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "25-7194638",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction -- healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+  },
+  "gl_class_codes": [
+    {
+      "class_code": "91583",
+      "description": "Contractors -- General NOC",
+      "premium_basis": "Payroll",
+      "exposure": 29510000,
+      "rate": 8.5,
+      "premium": 250835
+    },
+    {
+      "class_code": "16900",
+      "description": "Carpentry -- Interior -- NOC",
+      "premium_basis": "Payroll",
+      "exposure": 5525000,
+      "rate": 6.2,
+      "premium": 34255
+    }
+  ],
+  "gl_limits": {
+    "each_occurrence": 2000000,
+    "general_aggregate": 4000000,
+    "products_completed_ops": 4000000,
+    "personal_advertising": 2000000,
+    "damage_rented_premises": 300000,
+    "medical_expense": 15000
+  },
+  "gl_premium": {
+    "base_premium": 285090,
+    "tria_surcharge": 11938,
+    "total_premium": 297028,
+    "deductible": 10000,
+    "form_type": "OCCURRENCE"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Employee Benefits Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Product Withdrawal Expense",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Hired & Non-Owned Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contractual Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Payments",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Does the applicant provide professional services or advice?",
+      "value": "No"
+    },
+    {
+      "field": "Are any premises/operations rented or leased to others?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant have any work performed by subcontractors?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any completed operations exposures?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does the applicant perform any demolition work?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any fireworks, explosives, or blasting operations?",
+      "value": "No"
+    },
+    {
+      "field": "Are products manufactured, sold, or distributed?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does the applicant have any daycare or childcare operations?",
+      "value": "No"
+    },
+    {
+      "field": "Is there any work performed on or near bodies of water?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are there swimming pools, hot tubs, or diving boards on premises?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

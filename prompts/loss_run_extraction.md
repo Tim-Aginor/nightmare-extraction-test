@@ -30,7 +30,7 @@ Return a single JSON object:
       "claim_number": "<string>",
       "date_of_loss": "<YYYY-MM-DD>",
       "claimant": "<string or null>",
-      "status": "Open|Closed",
+      "status": "Open|Closed|Denied|Subrogation|Re-opened|Closed Without Payment",
       "coverage": "wc|gl|auto|property|umbrella|mtc",
       "paid": "<number>",
       "reserved": "<number>",

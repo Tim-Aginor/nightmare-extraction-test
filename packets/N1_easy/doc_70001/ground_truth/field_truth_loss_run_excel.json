@@ -1,0 +1,441 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP"
+    },
+    "carrier_name": {
+      "value": "Apex Managing General Agency"
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500"
+    },
+    "insured_city": {
+      "value": "Dallas"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "75201"
+    },
+    "policy_period_start": {
+      "value": "2025-07-01",
+      "rendered_as": "07/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-07-01",
+      "rendered_as": "07/01/2026"
+    },
+    "report_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    }
+  },
+  "doc_type": "loss_run_excel",
+  "loss_run_label": "Consolidated Loss Summary (prepared by Texas Commercial Insurance Partners)",
+  "loss_run_label_mode": "consolidated",
+  "claims": [
+    {
+      "claim_number": {
+        "value": "CNA-2025-033500"
+      },
+      "claimant": {
+        "value": "Lone Star Property Holdings, LP"
+      },
+      "date_of_loss": {
+        "value": "2025-06-13",
+        "rendered_as": "13-Jun-2025"
+      },
+      "status": {
+        "value": "Open"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 153631.51,
+        "rendered_as": "$153,631.51"
+      },
+      "total_reserved": {
+        "value": 44151.06,
+        "rendered_as": "$44,151.06"
+      },
+      "total_incurred": {
+        "value": 197782.57,
+        "rendered_as": "$197,782.57"
+      },
+      "date_reported": {
+        "value": "2025-06-20",
+        "rendered_as": "20-Jun-2025"
+      },
+      "description": {
+        "value": "A main electrical transformer failed in the basement storage area, resulting in damage to servers, networking gear, and stored data at 8117 Preston Road, Dallas, TX"
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "M. Rodriguez"
+      },
+      "cause_code": {
+        "value": "30"
+      },
+      "cause_description": {
+        "value": "Fire"
+      },
+      "original_reserve": {
+        "value": 156091.86
+      },
+      "location_id": {
+        "value": "LOC-001"
+      },
+      "location_name": {
+        "value": "Preston Center Tower"
+      },
+      "cause": {
+        "value": "Fire"
+      },
+      "paid_amount": {
+        "value": 137976.38,
+        "rendered_as": "$137,976.38"
+      },
+      "paid_expense": {
+        "value": 15655.13,
+        "rendered_as": "$15,655.13"
+      },
+      "reserve": {
+        "value": 44151.06,
+        "rendered_as": "$44,151.06"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "AIG-2023-033710"
+      },
+      "claimant": {
+        "value": "Lone Star Property Holdings, LP"
+      },
+      "date_of_loss": {
+        "value": "2023-06-09",
+        "rendered_as": "09-Jun-2023"
+      },
+      "status": {
+        "value": "Closed"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 105450.03,
+        "rendered_as": "$105,450.03"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "total_incurred": {
+        "value": 105450.03,
+        "rendered_as": "$105,450.03"
+      },
+      "date_reported": {
+        "value": "2023-06-16",
+        "rendered_as": "16-Jun-2023"
+      },
+      "description": {
+        "value": "Lightning struck the communications antenna and wiring, causing damage to the elevator controller and emergency lighting at 800 8th Avenue, Fort Worth, TX"
+      },
+      "close_date": {
+        "value": "2023-08-31",
+        "rendered_as": "31-Aug-2023"
+      },
+      "examiner": {
+        "value": "C. Washington"
+      },
+      "cause_code": {
+        "value": "41"
+      },
+      "cause_description": {
+        "value": "Lightning"
+      },
+      "original_reserve": {
+        "value": 61182.31
+      },
+      "location_id": {
+        "value": "LOC-007"
+      },
+      "location_name": {
+        "value": "Fort Worth Medical Office Building"
+      },
+      "cause": {
+        "value": "Lightning"
+      },
+      "paid_amount": {
+        "value": 95695.8,
+        "rendered_as": "$95,695.80"
+      },
+      "paid_expense": {
+        "value": 9754.23,
+        "rendered_as": "$9,754.23"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "BHG-2021-033637"
+      },
+      "claimant": {
+        "value": "Lone Star Property Holdings, LP"
+      },
+      "date_of_loss": {
+        "value": "2021-06-30",
+        "rendered_as": "30-Jun-2021"
+      },
+      "status": {
+        "value": "Denied"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "total_incurred": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "date_reported": {
+        "value": "2021-07-06",
+        "rendered_as": "06-Jul-2021"
+      },
+      "description": {
+        "value": "Vandals spray-painted graffiti across the exterior walls at the employee break room, causing damage at 5060 Westheimer Road, Houston, TX"
+      },
+      "close_date": {
+        "value": "2021-11-02",
+        "rendered_as": "02-Nov-2021"
+      },
+      "examiner": {
+        "value": "C. Washington"
+      },
+      "cause_code": {
+        "value": "34"
+      },
+      "cause_description": {
+        "value": "Vandalism"
+      },
+      "denial_reason": {
+        "value": "Failure to provide proof of loss within statutory period"
+      },
+      "location_id": {
+        "value": "LOC-003"
+      },
+      "location_name": {
+        "value": "Galleria Office Park - Building B"
+      },
+      "cause": {
+        "value": "Vandalism"
+      },
+      "paid_amount": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "paid_expense": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      }
+    }
+  ],
+  "subtotals": [
+    {
+      "coverage": "property",
+      "total_paid": {
+        "value": 259081.54,
+        "rendered_as": "$259,081.54"
+      },
+      "total_reserved": {
+        "value": 44151.06,
+        "rendered_as": "$44,151.06"
+      },
+      "total_incurred": {
+        "value": 303232.6,
+        "rendered_as": "$303,232.60"
+      }
+    }
+  ],
+  "grand_totals": {
+    "total_paid": {
+      "value": 259081.54,
+      "rendered_as": "$259,081.54"
+    },
+    "total_reserved": {
+      "value": 44151.06,
+      "rendered_as": "$44,151.06"
+    },
+    "total_incurred": {
+      "value": 303232.6,
+      "rendered_as": "$303,232.60"
+    }
+  },
+  "excel_metadata": {
+    "merged_regions": [
+      {
+        "range": "A1:J1",
+        "value": "Apex Managing General Agency"
+      },
+      {
+        "range": "A2:J2",
+        "value": "Loss Run Report"
+      },
+      {
+        "range": "B3:D3",
+        "value": "Lone Star Property Holdings, LP"
+      },
+      {
+        "range": "B4:D4",
+        "value": "2200 Ross Avenue, Suite 4500, Dallas, TX, 75201"
+      },
+      {
+        "range": "B5:D5",
+        "value": "CP-LSPH-2025-7801"
+      },
+      {
+        "range": "B6:D6",
+        "value": "07/01/2025 to 07/01/2026"
+      },
+      {
+        "range": "B7:D7",
+        "value": "03/15/2026"
+      },
+      {
+        "range": "B8:D8",
+        "value": "Alice Dunn, Claims Investigation Unit"
+      },
+      {
+        "range": "A10:D10",
+        "value": "Claim Information"
+      },
+      {
+        "range": "H10:I10",
+        "value": "Loss Details"
+      },
+      {
+        "range": "E10:G10",
+        "value": "Financials"
+      },
+      {
+        "range": "A18:J18",
+        "value": "This report is confidential and intended solely for the named insured. Information contained herein is subject to the terms and conditions of the applicable insurance policies. Past loss experience is not necessarily indicative of future results."
+      }
+    ],
+    "hidden_rows": [
+      {
+        "row": 13,
+        "reason": "internal_code",
+        "content": {
+          "claim_num": "AIG-2023-033710",
+          "claimant": "OPN-A",
+          "dol": "EXM-444",
+          "status": "Re-exam"
+        }
+      }
+    ],
+    "hidden_columns": [
+      {
+        "column": "K",
+        "header": "INT_STATUS",
+        "row_count": 5
+      }
+    ],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {},
+    "tab_name": "Property Claims Detail",
+    "header_rows": [
+      10,
+      11
+    ],
+    "header_mapping": {
+      "Claim Number": "claim_num",
+      "Claimant Name": "claimant",
+      "Date of Loss": "dol",
+      "Claim State": "status",
+      "Adj. Expense": "paid_expense",
+      "O/S Reserve": "reserve",
+      "Gross Incurred": "total_incurred",
+      "Location": "location",
+      "Cause Code": "cause",
+      "Amount Paid": "paid_amount"
+    },
+    "data_start_row": 12,
+    "data_end_row": 16,
+    "subtotal_rows": [
+      16
+    ],
+    "section_header_rows": [],
+    "footnotes": [],
+    "granularity": "claim",
+    "layout_type": "standard",
+    "valuation_date_location": "report_header_block",
+    "multi_coverage_mode": "single",
+    "primary_coverage": "property",
+    "coverages_present": [
+      "property"
+    ],
+    "column_set_type": "primary",
+    "tab_structure": "single",
+    "villification": {
+      "header_depth": 2,
+      "color_as_data": false,
+      "status_column_omitted": false,
+      "hidden_rows_enabled": true,
+      "hidden_cols_enabled": true,
+      "comments_enabled": false,
+      "leading_zeros_stripped": true,
+      "footnotes_enabled": false,
+      "mixed_date_formats": false,
+      "currency_as_text_pct": 0.0,
+      "alternating_rows": false,
+      "outline_grouping": true,
+      "sheet_protection": false,
+      "named_range": false,
+      "data_validation": false,
+      "apostrophe_prefix": false,
+      "date_serials": false,
+      "random_subtotals": false,
+      "conditional_formatting": false,
+      "logo": true,
+      "vertical_kv": false,
+      "vertical_kv_sub_mode": "key_value",
+      "column_chaos": false,
+      "combined_carrier": false,
+      "scientific_notation": false,
+      "corrupt_claim_numbers": false,
+      "mixed_type_columns": false,
+      "boolean_variation": false,
+      "zero_width_chars": false,
+      "mixed_dates_per_cell": false,
+      "layout_mode": "standard",
+      "deep_outline": false,
+      "autofilter_hiding": false,
+      "hidden_critical_columns": false,
+      "buried_header": false,
+      "buried_header_offset": 0,
+      "misleading_freeze": false,
+      "table_interruptions": false
+    }
+  },
+  "format": "xlsx"
+}

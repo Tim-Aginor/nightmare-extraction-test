@@ -1,0 +1,91 @@
+{
+  "checkboxes": [
+    {
+      "field": "Basic Causes of Loss",
+      "value": "No"
+    },
+    {
+      "field": "Broad Causes of Loss",
+      "value": "No"
+    },
+    {
+      "field": "Special Causes of Loss",
+      "value": "Yes"
+    },
+    {
+      "field": "Earthquake",
+      "value": "No"
+    },
+    {
+      "field": "Wind",
+      "value": "No"
+    },
+    {
+      "field": "Flood",
+      "value": "No"
+    }
+  ],
+  "document_date": "2024-09-13",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "carrier_name": "Redrock Insurance Company",
+    "effective_date": "2024-09-14",
+    "expiration_date": "2025-09-14",
+    "insured_address": "410 Congress Avenue, Suite 2000",
+    "insured_city": "Austin",
+    "insured_name": "BBQ Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": "BPA 5678901",
+    "producer_code": null,
+    "producer_name": "Capitol Insurance Advisors"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "Redrock Insurance Company",
+      "naic": "24378"
+    },
+    {
+      "carrier": "Highlands Specialty Company",
+      "naic": null
+    },
+    {
+      "carrier": "Hudson Casualty Company",
+      "naic": null
+    }
+  ],
+  "locations": [
+    {
+      "address": "850 Barton Springs Road",
+      "bi_value": 6500000,
+      "building_value": 13775000,
+      "city": "Austin",
+      "construction": null,
+      "contents_value": 4500000,
+      "fire_alarm_type": null,
+      "location_number": "1",
+      "occupancy": "Hotel",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "TX",
+      "stories": null,
+      "tiv": 24775000,
+      "year_built": null,
+      "zip": "78704"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 25000,
+  "property_limits": {
+    "building": 13775000,
+    "business_income": 6500000,
+    "contents": 4500000
+  },
+  "remarks": "30 days notice of cancellation; additional insured/loss payee as required by written contract."
+}

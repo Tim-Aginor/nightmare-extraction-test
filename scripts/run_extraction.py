@@ -37,6 +37,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 # public/examples/baseline_N1/.
 PUBLIC_DIR = SCRIPT_DIR.parent
 DEFAULT_CONFIG = PUBLIC_DIR / "configs" / "models.yaml"
+SCHEMA_DIR = PUBLIC_DIR / "schemas"
 
 
 @dataclass
@@ -53,11 +54,86 @@ class ExtractionResult:
     elapsed_s: float = 0.0
 
 
+# ── Schema loading & per-provider strict-mode adapters ────────────────
+
+
+def get_schema_for_doc_type(doc_type: str) -> dict | None:
+    """Load the JSON Schema for a doc_type, or None if no per-doc schema.
+
+    Mirrors get_prompt_for_doc_type's mapping so every doc that has a prompt
+    has a strict schema. ACORD forms map to per-form schemas (§1-B); excel/
+    csv variants share the parent schema since the model output shape is the
+    same across source formats.
+    """
+    schema_map = {
+        "sov": "sov.schema.json",
+        "sov_excel": "sov.schema.json",
+        "loss_run": "loss_run.schema.json",
+        "loss_run_excel": "loss_run.schema.json",
+        "loss_run_csv": "loss_run.schema.json",
+        "engineering_report": "engineering_report.schema.json",
+        "dec_page": "dec_page.schema.json",
+        "driver_schedule": "driver_schedule.schema.json",
+        "driver_schedule_excel": "driver_schedule.schema.json",
+        "financial_statement": "financial_statement.schema.json",
+        "financial_statement_excel": "financial_statement.schema.json",
+        "broker_narrative": "narrative.schema.json",
+        "supplemental_app": "narrative.schema.json",
+        "supplemental_app_trucking": "narrative.schema.json",
+        "policy_form": "narrative.schema.json",
+        "hybrid_workbook": "narrative.schema.json",
+        "supplemental_schedule_excel": "narrative.schema.json",
+        "experience_mod": "narrative.schema.json",
+        "experience_mod_excel": "narrative.schema.json",
+    }
+    if doc_type.startswith("acord_"):
+        # acord_125 → acord_125.schema.json. Falls back to None if a new
+        # ACORD form ships without a per-form schema (would surface as a
+        # plain non-strict call, easier to debug than a silent error).
+        candidate = SCHEMA_DIR / f"{doc_type}.schema.json"
+        if candidate.exists():
+            return json.loads(candidate.read_text())
+        return None
+
+    fname = schema_map.get(doc_type)
+    if not fname:
+        return None
+    path = SCHEMA_DIR / fname
+    if not path.exists():
+        return None
+    return json.loads(path.read_text())
+
+
+def _inject_property_ordering(schema: dict) -> dict:
+    """Recursively add `propertyOrdering` to every object in the schema.
+
+    Gemini reorders properties alphabetically by default, which would create
+    spurious cross-model output diffs. Per the plan §1, propertyOrdering is
+    mandatory on Gemini calls.
+    """
+    import copy
+    out = copy.deepcopy(schema)
+
+    def walk(node):
+        if isinstance(node, dict):
+            if node.get("type") == "object" and isinstance(node.get("properties"), dict):
+                node["propertyOrdering"] = list(node["properties"].keys())
+            for v in node.values():
+                walk(v)
+        elif isinstance(node, list):
+            for v in node:
+                walk(v)
+
+    walk(out)
+    return out
+
+
 # ── Provider: OpenAI ───────────────────────────────────────────────────
 
 
 def extract_openai(doc_path: Path, doc_type: str, model: str, prompt: str,
-                   reasoning: dict | None = None) -> tuple[dict, int, int]:
+                   reasoning: dict | None = None,
+                   schema: dict | None = None) -> tuple[dict, int, int]:
     """Extract using OpenAI API. Output cap is fixed at 32000 tokens.
 
     reasoning: optional dict like {"effort": "high"} or {"effort": "xhigh"}.
@@ -97,23 +173,50 @@ def extract_openai(doc_path: Path, doc_type: str, model: str, prompt: str,
     }
     if reasoning and "effort" in reasoning:
         kwargs["reasoning_effort"] = reasoning["effort"]
-        # OpenAI counts reasoning tokens against max_completion_tokens, so at
-        # xhigh the 32K cap gets fully consumed by thinking and the JSON reply
-        # comes back empty. Mirror the Anthropic path's 64K bump.
-        kwargs["max_completion_tokens"] = 64000
+        # 128K matches the Anthropic reasoning ceiling. Pre-2026-05-11 we used
+        # 64K here while Anthropic ran at 128K — an asymmetric cap. Anthropic's
+        # observed max was ~37K, so neither cap was actually hit on the v1.0
+        # corpus, but the asymmetry was visible in the audit.
+        kwargs["max_completion_tokens"] = 128000
 
-    response = client.chat.completions.create(**kwargs)
+    if schema is not None:
+        # Strict structured outputs. The schema must satisfy OpenAI's strict
+        # subset: additionalProperties: false everywhere + every property in
+        # required (both enforced by _build_schemas.py).
+        kwargs["response_format"] = {
+            "type": "json_schema",
+            "json_schema": {
+                "name": schema.get("title", "extraction"),
+                "strict": True,
+                "schema": {k: v for k, v in schema.items()
+                           if k not in ("$schema", "title")},
+            },
+        }
 
-    text = response.choices[0].message.content
-    parsed = parse_json_response(text)
-    return parsed, response.usage.prompt_tokens, response.usage.completion_tokens
+    # Retry parity with the Anthropic / Gemini paths. Pre-2026-05-11 OpenAI
+    # had no retry loop — a transient 429/5xx became a permanent error stub
+    # while the same transient on Anthropic was retried 5 times. 5 attempts
+    # with exp backoff capped at 60s matches the Anthropic budget.
+    last_err = None
+    for attempt in range(5):
+        try:
+            response = client.chat.completions.create(**kwargs)
+            text = response.choices[0].message.content
+            parsed = parse_json_response(text)
+            return parsed, response.usage.prompt_tokens, response.usage.completion_tokens
+        except (openai.RateLimitError, openai.APITimeoutError,
+                openai.APIConnectionError, openai.InternalServerError) as e:
+            last_err = e
+            time.sleep(min(2 ** attempt * 3, 60))
+    raise last_err
 
 
 # ── Provider: Anthropic ────────────────────────────────────────────────
 
 
 def extract_anthropic(doc_path: Path, doc_type: str, model: str, prompt: str,
-                      reasoning: dict | None = None) -> tuple[dict, int, int]:
+                      reasoning: dict | None = None,
+                      schema: dict | None = None) -> tuple[dict, int, int]:
     """Extract using Anthropic API. Output cap is 32000 by default; raised
     when extended thinking is enabled.
 
@@ -130,7 +233,10 @@ def extract_anthropic(doc_path: Path, doc_type: str, model: str, prompt: str,
     import anthropic
     # 600s wasn't enough for Sonnet 4.6 high-effort on N4/N5 loss_runs - those
     # deterministically time out. 1200s covers the slowest observed cases.
-    client = anthropic.Anthropic(timeout=1200.0 if reasoning else 300.0)
+    _override = os.environ.get("ANTHROPIC_API_TIMEOUT")
+    _timeout = float(_override) if _override else (1200.0 if reasoning else 300.0)
+    _retries = int(os.environ.get("ANTHROPIC_MAX_RETRIES", "2"))
+    client = anthropic.Anthropic(timeout=_timeout, max_retries=_retries)
 
     ext = doc_path.suffix.lower()
 
@@ -157,6 +263,12 @@ def extract_anthropic(doc_path: Path, doc_type: str, model: str, prompt: str,
         "model": model,
         "max_tokens": 32000,
         "messages": [{"role": "user", "content": content}],
+        # Anthropic API exposes no `seed` parameter as of 2026-05; extended
+        # thinking also requires temperature=1.0. Note: v1 methodology
+        # dropped seed pinning across all providers — no `seed=` kwarg is
+        # passed on the OpenAI or Gemini paths either, so all three are
+        # equally unseeded. Per-doc rate noise falls inside the bootstrap
+        # CIs reported in paired_stats.
     }
     if reasoning and "effort" in reasoning:
         # New adaptive mode: Anthropic sizes the thinking budget itself based
@@ -169,18 +281,60 @@ def extract_anthropic(doc_path: Path, doc_type: str, model: str, prompt: str,
         # observed cases.
         kwargs["max_tokens"] = 128000
 
+    if schema is not None:
+        # Anthropic enforces JSON shape via tool_use. Define a single tool
+        # whose input_schema is our JSON schema. With one tool defined, the
+        # model reliably calls it under tool_choice="auto".
+        # NOTE: Anthropic rejects {thinking + tool_choice:tool|any} with
+        # "Thinking may not be enabled when tool_choice forces tool use."
+        # so we use "tool" only when thinking is off, "auto" otherwise.
+        tool_input_schema = {k: v for k, v in schema.items()
+                             if k not in ("$schema", "title")}
+        kwargs["tools"] = [{
+            "name": "extract",
+            "description": "Return the extracted document fields.",
+            "input_schema": tool_input_schema,
+        }]
+        if "thinking" in kwargs:
+            kwargs["tool_choice"] = {"type": "auto"}
+        else:
+            kwargs["tool_choice"] = {"type": "tool", "name": "extract"}
+
     # Retry on rate limits / overloaded. Parallel runs against one API key
     # hit 429/529 regularly; exponential backoff handles the transient cases.
     last_err = None
     for attempt in range(5):
         try:
             response = client.messages.create(**kwargs)
-            # With extended thinking on, response.content contains a ThinkingBlock
-            # before the TextBlock - [0].text would AttributeError. Find the text
-            # block explicitly (works with or without thinking enabled).
-            text = next((b.text for b in response.content
-                         if getattr(b, "type", None) == "text"), "")
-            parsed = parse_json_response(text)
+            # When schema is wired the response carries a tool_use block whose
+            # `.input` is already a parsed dict. Otherwise fall back to the
+            # text-block path. With extended thinking on, response.content also
+            # contains a ThinkingBlock - skip past it via type matching.
+            tool_block = next((b for b in response.content
+                               if getattr(b, "type", None) == "tool_use"), None)
+            if tool_block is not None:
+                parsed = tool_block.input
+            else:
+                text = next((b.text for b in response.content
+                             if getattr(b, "type", None) == "text"), "")
+                parsed = parse_json_response(text)
+            # Defensive unwrap: Anthropic's tool_use input_schema validation
+            # is best-effort, not strict. Opus 4.7 wraps the payload in an
+            # envelope key on a non-trivial fraction of docs. Observed keys
+            # span {data, input, extract, document, extracted_data, ...} —
+            # an allowlist kept growing per run, so detect by schema shape:
+            # if the only top-level key is NOT a schema property and the
+            # inner dict has ≥2 keys that ARE schema properties, unwrap.
+            if (schema is not None and isinstance(parsed, dict)
+                    and len(parsed) == 1):
+                only_key = next(iter(parsed))
+                schema_props = set(schema.get("properties", {}).keys())
+                inner = parsed[only_key]
+                if (only_key not in schema_props
+                        and isinstance(inner, dict)
+                        and schema_props
+                        and len(set(inner.keys()) & schema_props) >= 2):
+                    parsed = inner
             return parsed, response.usage.input_tokens, response.usage.output_tokens
         except (anthropic.RateLimitError, anthropic.APIStatusError,
                 anthropic.APIConnectionError) as e:
@@ -196,7 +350,8 @@ def extract_anthropic(doc_path: Path, doc_type: str, model: str, prompt: str,
 
 
 def extract_google(doc_path: Path, doc_type: str, model: str, prompt: str,
-                   reasoning: dict | None = None) -> tuple[dict, int, int]:
+                   reasoning: dict | None = None,
+                   schema: dict | None = None) -> tuple[dict, int, int]:
     """Extract using Google Gemini API via the google-genai SDK.
 
     reasoning: optional dict. Two shapes supported:
@@ -229,16 +384,30 @@ def extract_google(doc_path: Path, doc_type: str, model: str, prompt: str,
     else:
         raise ValueError(f"Unsupported file type: {ext}")
 
-    gen_config = None
+    gen_config_kwargs: dict = {
+        # Match the OpenAI/Anthropic 128K ceiling for symmetry. Gemini API
+        # previously ran uncapped; observed max was well under 128K.
+        "max_output_tokens": 128000,
+    }
     if reasoning:
         thinking_kwargs = {"include_thoughts": False}
         if "thinking_level" in reasoning:
             thinking_kwargs["thinking_level"] = types.ThinkingLevel(reasoning["thinking_level"])
         if "thinking_budget" in reasoning:
             thinking_kwargs["thinking_budget"] = reasoning["thinking_budget"]
-        gen_config = types.GenerateContentConfig(
-            thinking_config=types.ThinkingConfig(**thinking_kwargs)
+        gen_config_kwargs["thinking_config"] = types.ThinkingConfig(**thinking_kwargs)
+
+    if schema is not None:
+        # Gemini structured output. response_json_schema accepts the JSON
+        # Schema with propertyOrdering injected on every object - default
+        # alphabetical reordering would create false cross-model diffs.
+        gen_config_kwargs["response_mime_type"] = "application/json"
+        ordered = _inject_property_ordering(
+            {k: v for k, v in schema.items() if k not in ("$schema", "title")}
         )
+        gen_config_kwargs["response_json_schema"] = ordered
+
+    gen_config = types.GenerateContentConfig(**gen_config_kwargs) if gen_config_kwargs else None
 
     # Retry on 429/5xx. Mirrors the Anthropic path - specific N1/N2 ACORDs
     # hit 503 "high demand" deterministically on single-shot calls, and the
@@ -358,7 +527,12 @@ def read_csv_with_fallback(doc_path: Path) -> str:
 
 
 def parse_json_response(text: str) -> dict:
-    """Extract JSON from model response."""
+    """Extract JSON from model response.
+
+    Handles: bare JSON, fenced JSON (```json ... ```), JSON with trailing
+    prose, and the case where the model emits multiple concatenated JSON
+    objects (returns the first complete one).
+    """
     cleaned = text.strip()
     if cleaned.startswith("```"):
         cleaned = cleaned.split("\n", 1)[1].rsplit("```", 1)[0].strip()
@@ -366,9 +540,15 @@ def parse_json_response(text: str) -> dict:
         return json.loads(cleaned)
     except json.JSONDecodeError:
         pass
-    match = re.search(r'\{[\s\S]*\}', cleaned)
-    if match:
-        return json.loads(match.group())
+    # raw_decode returns the first complete JSON value + its end offset, so
+    # concatenated objects ("{...}\n{...}") and JSON-then-prose both parse.
+    idx = cleaned.find("{")
+    if idx >= 0:
+        try:
+            obj, _ = json.JSONDecoder().raw_decode(cleaned[idx:])
+            return obj
+        except json.JSONDecodeError:
+            pass
     raise ValueError(f"No valid JSON found in response ({len(text)} chars)")
 
 
@@ -404,6 +584,8 @@ def get_prompt_for_doc_type(doc_type: str, prompts_config: dict) -> str:
         "policy_form": "narrative_extraction.md",
         "hybrid_workbook": "narrative_extraction.md",
         "supplemental_schedule_excel": "narrative_extraction.md",
+        "experience_mod": "narrative_extraction.md",
+        "experience_mod_excel": "narrative_extraction.md",
     }
 
     # ACORD forms all use the same prompt
@@ -430,6 +612,7 @@ def process_document(
     pricing_table: dict,
     prompt: str,
     output_dir: Path,
+    schema: dict | None = None,
 ) -> ExtractionResult:
     """Process a single document with a model."""
     model_name = model_config["name"]
@@ -439,19 +622,37 @@ def process_document(
 
     out_path = output_dir / f"extraction_{packet_id}_{doc_type}.json"
     if out_path.exists():
-        return None  # Skip if already done
+        # Skip only if previous run succeeded. Stub failure writes ({"error":...,
+        # "packet_id":..., "doc_type":...}) used to be cached as permanent FAILs
+        # because skip-if-exists treated them as "done." That made transient
+        # timeouts non-reproducible across machines: the rerun script saw the
+        # stub and did nothing, so a fresh clone got different n than the
+        # writeup. Audit 2026-05-11.
+        try:
+            cached = json.loads(out_path.read_text())
+            if isinstance(cached, dict) and "error" in cached and set(cached.keys()) <= {
+                "error", "packet_id", "doc_type"
+            }:
+                # Previous attempt was a stub failure; retry this run.
+                pass
+            else:
+                return None  # genuine prior success
+        except Exception:
+            # Unreadable cache → retry.
+            pass
 
     start = time.time()
     try:
         if provider == "openai":
-            parsed, in_tok, out_tok = extract_openai(doc_path, doc_type, model_id, prompt, reasoning)
+            parsed, in_tok, out_tok = extract_openai(doc_path, doc_type, model_id, prompt, reasoning, schema=schema)
         elif provider == "anthropic":
-            parsed, in_tok, out_tok = extract_anthropic(doc_path, doc_type, model_id, prompt, reasoning)
+            parsed, in_tok, out_tok = extract_anthropic(doc_path, doc_type, model_id, prompt, reasoning, schema=schema)
         elif provider == "google":
-            parsed, in_tok, out_tok = extract_google(doc_path, doc_type, model_id, prompt, reasoning)
+            parsed, in_tok, out_tok = extract_google(doc_path, doc_type, model_id, prompt, reasoning, schema=schema)
         elif provider == "claude-code":
-            # Claude Code CLI not parameterized for extended thinking here;
-            # reasoning param ignored (haiku is not in the reasoning set).
+            # Claude Code CLI is a free-form text path - no provider strict
+            # mode hook. Schema is unused here; the prompt's documented JSON
+            # shape is the only contract.
             parsed, in_tok, out_tok = extract_claude_code(doc_path, doc_type, model_id, prompt)
         else:
             raise ValueError(f"Unknown provider: {provider}")
@@ -523,10 +724,12 @@ def run_model(model_config: dict, gt_dir: Path, output_dir: Path,
                 continue
 
             prompt = get_prompt_for_doc_type(doc_type, prompts_config)
+            schema = get_schema_for_doc_type(doc_type)
 
             result = process_document(
                 doc_path, doc_type, packet_id,
                 model_config, pricing_table, prompt, model_output,
+                schema=schema,
             )
 
             if result is None:

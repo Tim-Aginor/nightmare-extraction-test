@@ -1,0 +1,92 @@
+{
+  "document_info": {
+    "document_type": "Submission Spreadsheet",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property ownership and management; portfolio comprises warehouse and logistics centers, manufacturing facilities, flex space, and a corporate administrative office across Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "current_limit": 146260000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Aggregate building value across 9 locations; expiring premium reflects total property program inclusive of contents and business interruption coverages. LOC-009 carries $0 building value (tenant-occupied office)."
+    },
+    {
+      "coverage_type": "Commercial Property - Contents",
+      "current_limit": 42495000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": null,
+      "notes": "Aggregate contents value across all 9 locations."
+    },
+    {
+      "coverage_type": "Business Interruption",
+      "current_limit": 62590000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": null,
+      "notes": "Aggregate BI value across all 9 locations."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "8 of 9 locations (89%) have sprinkler systems installed",
+      "Dominant construction class is Non-Combustible or Masonry Non-Combustible; one Fire Resistive location (LOC-009)",
+      "Majority of portfolio is modern vintage \u2014 6 of 9 locations built between 2004 and 2019",
+      "Three consecutive claim-free policy years: 2022 (Chubb), 2023 (Hartford), 2024 (Liberty Mutual)",
+      "Overall program premium has declined 14.5% from $458,666 in 2021 to $392,002 in 2024",
+      "All warehouse and manufacturing locations are single-story, reducing vertical fire spread risk",
+      "Total portfolio TIV of $251,345,000 spread across 9 locations provides geographic diversification within Ohio"
+    ],
+    "concerns": [
+      "LOC-007 (Toledo Industrial Park - Building 2, Manufacturing) has no sprinkler system",
+      "LOC-004 (Dayton Manufacturing Facility) is Joisted Masonry construction \u2014 the highest-risk construction class in the portfolio and the oldest building (1992)",
+      "LOC-007 combines the portfolio's only non-sprinklered building with a Manufacturing occupancy and EPDM roof, compounding risk concentration",
+      "Loss summary reflects 2 total property claims with $238,554 incurred, while the 4-year prior insurance history shows only 1 claim year (2021) \u2014 discrepancy suggests either multiple claims in 2021 or claims predating the history provided",
+      "Three different carriers utilized across the 4-year period reviewed (Hartford, Chubb, Hartford, Liberty Mutual), indicating potential market instability or carrier non-renewal activity",
+      "Outstanding incurred-vs-paid gap of $35,679 ($238,554 incurred vs. $202,875 paid) suggests at least one open or partially reserved claim"
+    ],
+    "loss_history_summary": "Property coverage: 2 total claims, $202,875 paid, $238,554 total incurred (reserve gap of $35,679). Prior insurance history shows 1 claim in 2021 under Hartford Financial Services; policy years 2022 (Chubb Limited), 2023 (Hartford Financial Services), and 2024 (Liberty Mutual Insurance) are all claim-free. A discrepancy exists between the 2-claim loss summary total and the single claim-year reflected in the 4-year carrier history."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

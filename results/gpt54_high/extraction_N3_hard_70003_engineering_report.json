@@ -1,0 +1,226 @@
+{
+  "report_info": {
+    "report_type": "Roof Condition Certification Report",
+    "report_date": "2026-03-15",
+    "inspector_name": "L. Thompson, CSP",
+    "inspector_company": null,
+    "risk_grade": "PPC 5",
+    "grading_scale": "ISO Public Protection Class"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "604 Brazos Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "carrier_info": {
+    "carrier_name": "Midwest Insurance Group",
+    "policy_number": "CP-HCHP-2025-3352",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "The Driskill Austin",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2010,
+      "stories": 8,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 5,
+      "condition_rating": "Severe",
+      "findings": [
+        "Roof type: TPO",
+        "Roof age: 16 years",
+        "Estimated remaining useful life: 6 years",
+        "Overall roof condition: Excellent",
+        "Estimated remaining useful life: 7 years",
+        "Decking: Poor",
+        "Flashing: Good",
+        "Penetrations: Good",
+        "Drainage: Adequate",
+        "Parapet walls: Cracking",
+        "Roof deck attachment: B - Nails (6\" o.c.)",
+        "Roof-to-wall connection: Single Wrap",
+        "Roof geometry: Gable",
+        "Secondary water resistance: No",
+        "Opening protection: Impact-Rated"
+      ],
+      "deficiencies": [
+        "Multiple areas of ponding water observed on flat roof sections",
+        "Visible roof deck sagging and water damage indicating possible structural compromise",
+        "Electrical panel clearance obstructed by stored materials",
+        "Hood suppression system in kitchen area has expired inspection tag",
+        "Exterior lighting inadequate in parking areas and loading dock",
+        "HVAC rooftop units show signs of deferred maintenance",
+        "Hot work permit program not formally documented"
+      ]
+    },
+    {
+      "name": "Riverwalk Suites San Antonio",
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2006,
+      "stories": 12,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 2,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Fredericksburg Inn & Spa",
+      "address": "245 East Main Street",
+      "city": "Fredericksburg",
+      "state": "TX",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": null,
+      "year_built": 1998,
+      "stories": 3,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 1,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "South Congress Motor Hotel",
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": null,
+      "year_built": 2015,
+      "stories": 4,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 2,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Blanco River Steakhouse",
+      "address": "608 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 2,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "The Oasis at Lake Travis",
+      "address": "6550 Comanche Trail",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Non-Combustible",
+      "occupancy": null,
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 5,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Mission Cantina - Pearl District",
+      "address": "303 Pearl Parkway",
+      "city": "San Antonio",
+      "state": "TX",
+      "construction": "Joisted Masonry",
+      "occupancy": null,
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 4,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Corporate Headquarters",
+      "address": "401 Congress Avenue, Suite 2800",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 5,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "Severe",
+      "category": "structural",
+      "description": "Visible roof deck sagging and water damage indicating possible structural compromise; engage a structural engineer for immediate assessment and restrict access to affected area until repairs are completed.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Necessary",
+      "category": "electrical",
+      "description": "Electrical panel clearance is obstructed by stored materials; maintain a minimum 36-inch clearance in front of all electrical panels.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Necessary",
+      "category": "fire_protection",
+      "description": "Kitchen hood suppression system has an expired inspection tag; schedule the required inspection/service for the hood suppression system.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Advisable",
+      "category": "security",
+      "description": "Exterior lighting is inadequate in the parking and loading areas; install additional lighting to improve illumination.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Advisable",
+      "category": "maintenance",
+      "description": "HVAC rooftop units show signs of deferred maintenance; establish a routine preventive maintenance program for mechanical equipment.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Advisable",
+      "category": "documentation",
+      "description": "Hot work permit program is not formally documented; implement a written hot work permit program and train affected personnel.",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Overall risk grade is PPC 5. For the 604 Brazos Street location, the report describes a 16-year-old TPO roof with poor decking, parapet wall cracking, and ponding water on flat roof sections. The document lists the roof condition rating as Severe, although a separate section states Overall Roof Condition: Excellent.",
+    "risk_level": "PPC 5",
+    "insurability": null
+  }
+}

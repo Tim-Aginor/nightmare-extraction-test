@@ -1,0 +1,481 @@
+{
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_numbers": {
+      "wc": "WC-HCHP-2025-3350",
+      "gl": "GL-HCHP-2025-3351",
+      "auto": null,
+      "property": "CP-HCHP-2025-3352",
+      "umbrella": null,
+      "mtc": null
+    },
+    "report_date": null,
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "claims": [
+    {
+      "claim_number": "ZIG-2023-030415",
+      "date_of_loss": "2023-02-02",
+      "claimant": "Helen Price",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 6629.86,
+      "reserved": 0.0,
+      "incurred": 6629.86,
+      "description": "Puncture"
+    },
+    {
+      "claim_number": "MRK-2023-030723",
+      "date_of_loss": "2023-05-19",
+      "claimant": "Benjamin Green",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 6216.4,
+      "reserved": 0.0,
+      "incurred": 6216.4,
+      "description": "Puncture"
+    },
+    {
+      "claim_number": "ACE-2021-030934",
+      "date_of_loss": "2021-06-11",
+      "claimant": "Katherine Castillo",
+      "status": "Denied",
+      "coverage": "wc",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Burn"
+    },
+    {
+      "claim_number": "ZIG-2022-030952",
+      "date_of_loss": "2022-06-06",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 2594.09,
+      "reserved": 0.0,
+      "incurred": 2594.09,
+      "description": "Repetitive Motion"
+    },
+    {
+      "claim_number": "TRV-2025-031249",
+      "date_of_loss": "2025-01-06",
+      "claimant": "Gregory Baker",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 21611.45,
+      "reserved": 0.0,
+      "incurred": 21611.45,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "TRV-2024-031662",
+      "date_of_loss": "2024-05-25",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 12536.32,
+      "reserved": 0.0,
+      "incurred": 12536.32,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "ACE-2021-031869",
+      "date_of_loss": "2021-05-04",
+      "claimant": "Patrick Rivera",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 7280.88,
+      "reserved": 0.0,
+      "incurred": 7280.88,
+      "description": "Puncture"
+    },
+    {
+      "claim_number": "HMK-2025-032319",
+      "date_of_loss": "2025-10-21",
+      "claimant": "Alexander Campbell",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 15298.65,
+      "reserved": 7649.33,
+      "incurred": 22947.98,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "ACE-2022-032777",
+      "date_of_loss": "2022-04-17",
+      "claimant": "Catherine Foster",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 8304.15,
+      "reserved": 0.0,
+      "incurred": 8304.15,
+      "description": "Motor Vehicle"
+    },
+    {
+      "claim_number": "ACE-2022-033025",
+      "date_of_loss": "2022-04-12",
+      "claimant": "Maria Jimenez",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 13320.92,
+      "reserved": 0.0,
+      "incurred": 13320.92,
+      "description": "Overexertion"
+    },
+    {
+      "claim_number": "TRV-2025-033313",
+      "date_of_loss": "2025-04-05",
+      "claimant": "Heather Powell",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 129796.57,
+      "reserved": 64898.23,
+      "incurred": 194694.8,
+      "description": "Puncture"
+    },
+    {
+      "claim_number": "ACE-2021-033325",
+      "date_of_loss": "2021-11-08",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 10777.15,
+      "reserved": 0.0,
+      "incurred": 10777.15,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "EIG-2021-033438",
+      "date_of_loss": "2021-02-11",
+      "claimant": "Patricia Kim",
+      "status": "Subrogation",
+      "coverage": "wc",
+      "paid": 2029.65,
+      "reserved": 99.33,
+      "incurred": 2128.98,
+      "description": "Struck-By Object"
+    },
+    {
+      "claim_number": "TRV-2025-033456",
+      "date_of_loss": "2025-04-09",
+      "claimant": "Robert Ramirez",
+      "status": "Re-opened",
+      "coverage": "wc",
+      "paid": 8534.86,
+      "reserved": 4267.43,
+      "incurred": 12802.29,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "TRV-2024-033784",
+      "date_of_loss": "2024-12-01",
+      "claimant": "Linda Ward",
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 12670.93,
+      "reserved": 6335.46,
+      "incurred": 19006.39,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "HMK-2025-033892",
+      "date_of_loss": "2025-06-03",
+      "claimant": "Barbara Richardson",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 1311.56,
+      "reserved": 0.0,
+      "incurred": 1311.56,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "ZIG-2023-034222",
+      "date_of_loss": "2023-04-24",
+      "claimant": "Elizabeth Watson",
+      "status": "Closed Without Payment",
+      "coverage": "wc",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Fall from Height"
+    },
+    {
+      "claim_number": "ACE-2021-034375",
+      "date_of_loss": "2021-05-01",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 10291.72,
+      "reserved": 0.0,
+      "incurred": 10291.72,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "ZIG-2022-034525",
+      "date_of_loss": "2022-08-13",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 9903.84,
+      "reserved": 0.0,
+      "incurred": 9903.84,
+      "description": "Puncture"
+    },
+    {
+      "claim_number": "HMK-2025-035016",
+      "date_of_loss": "2025-09-02",
+      "claimant": "Thomas King",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 10387.92,
+      "reserved": 0.0,
+      "incurred": 10387.92,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "HMK-2025-035420",
+      "date_of_loss": "2025-10-20",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 4437.66,
+      "reserved": 3393.75,
+      "incurred": 7831.41,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "ACE-2021-035462",
+      "date_of_loss": "2021-10-15",
+      "claimant": "Lisa Gray",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 2770.82,
+      "reserved": 0.0,
+      "incurred": 2770.82,
+      "description": "Struck By Object"
+    },
+    {
+      "claim_number": "ZIG-2022-035652",
+      "date_of_loss": "2022-11-04",
+      "claimant": "Daniel Torres",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 4322.9,
+      "reserved": 0.0,
+      "incurred": 4322.9,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "ZIG-2022-035734",
+      "date_of_loss": "2022-06-08",
+      "claimant": "Betty Ruiz",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 3211.95,
+      "reserved": 0.0,
+      "incurred": 3211.95,
+      "description": "Overexertion"
+    },
+    {
+      "claim_number": "TRV-2024-035835",
+      "date_of_loss": "2024-10-15",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "wc",
+      "paid": 9491.35,
+      "reserved": 4745.67,
+      "incurred": 14237.02,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "ACE-2021-036236",
+      "date_of_loss": "2021-05-23",
+      "claimant": "Mark Flores",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 3596.84,
+      "reserved": 0.0,
+      "incurred": 3596.84,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "MRK-2023-036483",
+      "date_of_loss": "2023-09-01",
+      "claimant": "Ashley Alvarez",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 3723.43,
+      "reserved": 0.0,
+      "incurred": 3723.43,
+      "description": "Overexertion"
+    },
+    {
+      "claim_number": "TRV-2024-036581",
+      "date_of_loss": "2024-09-14",
+      "claimant": "Dorothy Castillo",
+      "status": "Closed",
+      "coverage": "wc",
+      "paid": 3493.43,
+      "reserved": 0.0,
+      "incurred": 3493.43,
+      "description": "Slip & Fall (WC)"
+    },
+    {
+      "claim_number": "HMK-2025-033784",
+      "date_of_loss": "2025-05-09",
+      "claimant": "Maria White",
+      "status": "Open",
+      "coverage": "gl",
+      "paid": 533.76,
+      "reserved": 41660.53,
+      "incurred": 42194.29,
+      "description": "Property Damage"
+    },
+    {
+      "claim_number": "HMK-2025-034222",
+      "date_of_loss": "2025-07-24",
+      "claimant": null,
+      "status": "Open",
+      "coverage": "gl",
+      "paid": 675.89,
+      "reserved": 32215.86,
+      "incurred": 32891.75,
+      "description": "Property Damage"
+    },
+    {
+      "claim_number": "MRK-2023-034375",
+      "date_of_loss": "2023-06-04",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 2087.39,
+      "reserved": 0.0,
+      "incurred": 2087.39,
+      "description": "Bodily Injury"
+    },
+    {
+      "claim_number": "ZIG-2024-031869",
+      "date_of_loss": "2024-07-12",
+      "claimant": "Katherine Taylor",
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 1210.89,
+      "reserved": 0.0,
+      "incurred": 1210.89,
+      "description": "Bodily Injury"
+    },
+    {
+      "claim_number": "ZIG-2024-033438",
+      "date_of_loss": "2024-05-25",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 1162.3,
+      "reserved": 0.0,
+      "incurred": 1162.3,
+      "description": "Slip & Fall"
+    },
+    {
+      "claim_number": "MRK-2021-033025",
+      "date_of_loss": "2021-03-15",
+      "claimant": "Frank Cooper",
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 1143.79,
+      "reserved": 0.0,
+      "incurred": 1143.79,
+      "description": "Bodily Injury"
+    },
+    {
+      "claim_number": "ZIG-2024-033313",
+      "date_of_loss": "2024-06-20",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 983.48,
+      "reserved": 0.0,
+      "incurred": 983.48,
+      "description": "Bodily Injury"
+    },
+    {
+      "claim_number": "ACE-2021-030952",
+      "date_of_loss": "2021-05-31",
+      "claimant": null,
+      "status": "Closed",
+      "coverage": "gl",
+      "paid": 982.26,
+      "reserved": 0.0,
+      "incurred": 982.26,
+      "description": "Slip & Fall"
+    },
+    {
+      "claim_number": "HMK-2025-027470",
+      "date_of_loss": "2025-11-19",
+      "claimant": "Hill Country Hospitality Partners, LLC",
+      "status": "Open",
+      "coverage": "property",
+      "paid": 50816.14,
+      "reserved": 7622.42,
+      "incurred": 58438.56,
+      "description": "Frozen pipes in the fire..."
+    },
+    {
+      "claim_number": "ACE-2025-027822",
+      "date_of_loss": "2025-04-08",
+      "claimant": "Hill Country Hospitality Partners, LLC",
+      "status": "Open",
+      "coverage": "property",
+      "paid": 127750.0,
+      "reserved": 29738.75,
+      "incurred": 157488.75,
+      "description": "Lightning struck the communications..."
+    }
+  ],
+  "subtotals_by_coverage": {
+    "wc": {
+      "paid": 324545.3,
+      "reserved": 91389.2,
+      "incurred": 415934.5,
+      "claim_count": 28
+    },
+    "gl": {
+      "paid": 8779.76,
+      "reserved": 73876.39,
+      "incurred": 82656.15,
+      "claim_count": 8
+    },
+    "auto": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "property": {
+      "paid": 178566.14,
+      "reserved": 37361.17,
+      "incurred": 215927.31,
+      "claim_count": 2
+    },
+    "umbrella": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "mtc": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    }
+  },
+  "grand_totals": {
+    "paid": 511891.2,
+    "reserved": 202626.76,
+    "incurred": 714517.96,
+    "claim_count": 38
+  }
+}

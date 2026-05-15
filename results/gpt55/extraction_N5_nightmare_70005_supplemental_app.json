@@ -1,0 +1,78 @@
+{
+  "business_description": {
+    "annual_revenue": 78000000,
+    "employee_count": 485,
+    "naics_code": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "sic_code": null,
+    "years_in_business": 38
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines / Prior Insurance History",
+      "current_carrier": "Hanover Insurance Group",
+      "current_limit": null,
+      "expiring_premium": 2350871.68,
+      "notes": "Prior insurance history shown for 2024 with 10 open claims and no cancellations. Prior carriers also include Hartford Financial Services for 2023 with 13 open claims and Auto-Owners Insurance for 2022 with 12 open claims; no cancellations indicated.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Drew Reinhardt",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history lists open claims by year: 2024 Hanover Insurance Group \u2014 10 open claims, no cancellations; 2023 Hartford Financial Services \u2014 13 open claims, no cancellations; 2022 Auto-Owners Insurance \u2014 12 open claims, no cancellations.",
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "safety_programs": "Formal safety program: Yes. GPS tracking or ELD devices installed in all vehicles: Yes. Most recent CSA BASIC score in Vehicle Maintenance: below intervention threshold. Most recent CSA BASIC score in Crash Indicator: above intervention threshold, currently being addressed. MVR checks performed on all drivers at least annually: Yes. Drivers in compliance with FMCSA Hours-of-Service regulations: Yes. CDL licenses verified for all drivers at time of hire: Yes."
+  },
+  "fleet_summary": {
+    "driver_count": 96,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors; interstate (FMCSA) only",
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Most recent CSA BASIC score in Crash Indicator is above intervention threshold and currently being addressed.",
+      "Prior insurance history shows open claims in each listed year: 10 in 2024, 13 in 2023, and 12 in 2022.",
+      "Hired auto / non-owned auto exposure indicated for employees driving personal vehicles for company business.",
+      "Sleeper-cab tractor units used for long-haul operations.",
+      "Some vehicles include refrigerated reefer units carrying perishable freight."
+    ],
+    "loss_history_summary": "Prior insurance table shows open claims but no cancellations: 10 open claims in 2024, 13 in 2023, and 12 in 2022.",
+    "positives": [
+      "38 years in business.",
+      "Formal safety program in place.",
+      "GPS tracking or ELD devices installed in all vehicles.",
+      "Drivers are in compliance with FMCSA Hours-of-Service regulations.",
+      "MVR checks performed on all drivers at least annually.",
+      "Valid DOT number and MC authority maintained.",
+      "CDL licenses verified for all drivers at time of hire.",
+      "Most recent Vehicle Maintenance CSA BASIC score is below intervention threshold.",
+      "Most listed warehouse and service/repair premises are sprinklered."
+    ]
+  }
+}

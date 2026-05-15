@@ -1,0 +1,344 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "acord_131",
+  "type": "object",
+  "properties": {
+    "form_info": {
+      "type": "object",
+      "properties": {
+        "form_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "form_edition": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "form_title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "form_number",
+        "form_edition",
+        "form_title"
+      ],
+      "additionalProperties": false
+    },
+    "header": {
+      "type": "object",
+      "properties": {
+        "insured_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_city": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_state": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "AL",
+            "AK",
+            "AZ",
+            "AR",
+            "CA",
+            "CO",
+            "CT",
+            "DE",
+            "FL",
+            "GA",
+            "HI",
+            "ID",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "LA",
+            "ME",
+            "MD",
+            "MA",
+            "MI",
+            "MN",
+            "MS",
+            "MO",
+            "MT",
+            "NE",
+            "NV",
+            "NH",
+            "NJ",
+            "NM",
+            "NY",
+            "NC",
+            "ND",
+            "OH",
+            "OK",
+            "OR",
+            "PA",
+            "RI",
+            "SC",
+            "SD",
+            "TN",
+            "TX",
+            "UT",
+            "VT",
+            "VA",
+            "WA",
+            "WV",
+            "WI",
+            "WY",
+            "DC",
+            "PR",
+            "GU",
+            "VI",
+            "AS",
+            "MP",
+            null
+          ]
+        },
+        "insured_zip": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "carrier_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "effective_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "expiration_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "producer_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "producer_code": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "insured_name",
+        "insured_address",
+        "insured_city",
+        "insured_state",
+        "insured_zip",
+        "carrier_name",
+        "policy_number",
+        "effective_date",
+        "expiration_date",
+        "producer_name",
+        "producer_code"
+      ],
+      "additionalProperties": false
+    },
+    "applicant_info": {
+      "type": "object",
+      "properties": {
+        "fein": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sic_code": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "naics_code": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "years_in_business": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "nature_of_business": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "fein",
+        "sic_code",
+        "naics_code",
+        "years_in_business",
+        "nature_of_business"
+      ],
+      "additionalProperties": false
+    },
+    "underlying_policies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "carrier": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "policy_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "coverage_type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "limit": {
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "carrier",
+          "policy_number",
+          "coverage_type",
+          "limit"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "umbrella_limits": {
+      "type": "object",
+      "properties": {
+        "per_occurrence": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "aggregate": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "retention": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "per_occurrence",
+        "aggregate",
+        "retention"
+      ],
+      "additionalProperties": false
+    },
+    "umbrella_premium": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "umbrella_form_type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "checkboxes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": {
+            "type": "string"
+          },
+          "value": {
+            "type": "string",
+            "enum": [
+              "Yes",
+              "No"
+            ]
+          }
+        },
+        "required": [
+          "field",
+          "value"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "remarks": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "form_info",
+    "header",
+    "applicant_info",
+    "underlying_policies",
+    "umbrella_limits",
+    "umbrella_premium",
+    "umbrella_form_type",
+    "checkboxes",
+    "remarks"
+  ],
+  "additionalProperties": false
+}

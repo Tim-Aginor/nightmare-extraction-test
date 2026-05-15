@@ -1,0 +1,206 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "risk_grade": {
+      "value": "3 - Average"
+    },
+    "grading_scale": {
+      "value": "Best's Hazard Index"
+    },
+    "inspector_name": {
+      "value": "S. Martinez, PE"
+    }
+  },
+  "doc_type": "engineering_report",
+  "locations_inspected": 5,
+  "locations": [
+    {
+      "name": "Corporate Headquarters",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "construction": "Fire Resistive",
+      "year_built": 2002,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 5
+    },
+    {
+      "name": "Main Equipment Yard & Warehouse",
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "construction": "Non-Combustible",
+      "year_built": 1995,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 3
+    },
+    {
+      "name": "Fabrication Shop",
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "construction": "Masonry Non-Combustible",
+      "year_built": 1988,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 1
+    },
+    {
+      "name": "South Hills Branch Office",
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "state": "PA",
+      "construction": "Masonry Non-Combustible",
+      "year_built": 2010,
+      "stories": 2,
+      "sprinklered": true,
+      "protection_class": 4
+    },
+    {
+      "name": "Equipment Storage - Cranberry",
+      "address": "100 Dutilh Road",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "construction": "Non-Combustible",
+      "year_built": 2005,
+      "stories": 1,
+      "sprinklered": false,
+      "protection_class": 1
+    }
+  ],
+  "recommendation_count": 0,
+  "recommendations": [],
+  "body_content": {
+    "cover": {
+      "Insured": "Keystone Commercial Builders, Inc.",
+      "Policy Number": "CP-KCB-2025-5583",
+      "Address": "300 Liberty Avenue, Suite 1200",
+      "City, State, ZIP": "Pittsburgh, PA 15222",
+      "SIC Code": "1521",
+      "Inspector": "S. Martinez, PE",
+      "Inspection Date": "01/30/2026",
+      "Report Date": "03/15/2026",
+      "Report Title": "Fire Protection System Inspection Report",
+      "Overall Risk Grade": "3 - Average",
+      "Grading Scale": "Best's Hazard Index"
+    },
+    "locations_inspected": {
+      "count": "5",
+      "entries": [
+        {
+          "name": "Corporate Headquarters",
+          "address": "300 Liberty Avenue, Suite 1200",
+          "city": "Pittsburgh",
+          "state": "PA",
+          "zip_code": "15222",
+          "construction": "Fire Resistive",
+          "year_built": "2002",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "5"
+        },
+        {
+          "name": "Main Equipment Yard & Warehouse",
+          "address": "4500 Butler Street",
+          "city": "Pittsburgh",
+          "state": "PA",
+          "zip_code": "15201",
+          "construction": "Non-Combustible",
+          "year_built": "1995",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "3"
+        },
+        {
+          "name": "Fabrication Shop",
+          "address": "4520 Butler Street",
+          "city": "Pittsburgh",
+          "state": "PA",
+          "zip_code": "15201",
+          "construction": "Masonry Non-Combustible",
+          "year_built": "1988",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "1"
+        },
+        {
+          "name": "South Hills Branch Office",
+          "address": "3000 Village Run Road",
+          "city": "Wexford",
+          "state": "PA",
+          "zip_code": "15090",
+          "construction": "Masonry Non-Combustible",
+          "year_built": "2010",
+          "stories": "2",
+          "sprinklered": "Yes",
+          "protection_class": "4"
+        },
+        {
+          "name": "Equipment Storage - Cranberry",
+          "address": "100 Dutilh Road",
+          "city": "Cranberry Township",
+          "state": "PA",
+          "zip_code": "16066",
+          "construction": "Non-Combustible",
+          "year_built": "2005",
+          "stories": "1",
+          "sprinklered": "No",
+          "protection_class": "1"
+        }
+      ]
+    },
+    "system_information": {
+      "System Type": "Wet Pipe",
+      "System Age": "28 years",
+      "Manufacturer": "Viking",
+      "NFPA 13 Compliant": "Yes"
+    },
+    "control_valves": {
+      "Valve Count": "3",
+      "Valve Position": "open",
+      "Tamper Switches": "Connected to monitoring"
+    },
+    "alarm_devices": {
+      "Water Flow Alarm": "Tested \u2014 operational",
+      "Supervisory Signal": "Deficiency noted"
+    },
+    "sprinkler_heads": {
+      "Visual Condition": "Fair \u2014 minor corrosion observed",
+      "Spare Heads": "Yes \u2014 adequate supply"
+    },
+    "water_supply": {
+      "Static Pressure": "89 psi",
+      "Residual Pressure": "59 psi",
+      "Flow (GPM)": "1923",
+      "Supply Adequate": "Yes"
+    },
+    "deficiencies": {
+      "items": [
+        "[Advisory] Electrical panel clearance obstructed by stored materials",
+        "[Priority] Exposed wiring and missing junction box covers in main electrical room"
+      ]
+    },
+    "pass_fail": {
+      "Overall System Status": "PASS"
+    }
+  },
+  "sections_rendered": [
+    "alarm_devices",
+    "control_valves",
+    "cover",
+    "deficiencies",
+    "locations_inspected",
+    "pass_fail",
+    "sprinkler_heads",
+    "system_information",
+    "water_supply"
+  ],
+  "deficiencies": [
+    "[Advisory] Electrical panel clearance obstructed by stored materials",
+    "[Priority] Exposed wiring and missing junction box covers in main electrical room"
+  ]
+}

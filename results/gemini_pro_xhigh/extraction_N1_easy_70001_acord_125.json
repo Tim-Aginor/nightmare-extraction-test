@@ -1,0 +1,271 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": "2016/03",
+    "form_title": "COMMERCIAL INSURANCE APPLICATION"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": null,
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01",
+    "producer_name": "Sandra Villareal",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "75-4829163",
+    "sic_code": "6512",
+    "naics_code": "531120",
+    "years_in_business": 24,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "entity_type": "Limited Partnership"
+  },
+  "premises": [
+    {
+      "location_number": "LOC-001",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75225",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2008,
+      "stories": 18,
+      "square_feet": 285000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-002",
+      "address": "5050 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77056",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2001,
+      "stories": 12,
+      "square_feet": 168000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-003",
+      "address": "5060 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77056",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2003,
+      "stories": 10,
+      "square_feet": 142000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-004",
+      "address": "7301 Lone Star Drive",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75024",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Mercantile",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 95000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-005",
+      "address": "3200 McKinney Avenue",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75204",
+      "construction": "Fire Resistive",
+      "occupancy": "Mercantile",
+      "year_built": 2018,
+      "stories": 6,
+      "square_feet": 124000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-006",
+      "address": "1400 Enclave Parkway",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77077",
+      "construction": "Non-Combustible",
+      "occupancy": "Office",
+      "year_built": 1995,
+      "stories": 8,
+      "square_feet": 112000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-007",
+      "address": "800 8th Avenue",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76104",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2015,
+      "stories": 5,
+      "square_feet": 78000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-008",
+      "address": "1256 Main Street",
+      "city": "Southlake",
+      "state": "TX",
+      "zip": "76092",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Mercantile",
+      "year_built": 2006,
+      "stories": 3,
+      "square_feet": 52000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    }
+  ],
+  "uw_questions": [
+    {
+      "question": "Any swimming pools, playgrounds, or athletic facilities?",
+      "answer": "No"
+    },
+    {
+      "question": "Any professional services provided?",
+      "answer": "No"
+    },
+    {
+      "question": "Any work involving asbestos, lead, or mold remediation?",
+      "answer": "No"
+    },
+    {
+      "question": "Any pending litigation or regulatory actions?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant lease employees to or from other firms?",
+      "answer": "No"
+    },
+    {
+      "question": "Any losses or claims in the past 5 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does applicant own or operate any aircraft or watercraft?",
+      "answer": "No"
+    },
+    {
+      "question": "Any foreign operations or exposures?",
+      "answer": "No"
+    },
+    {
+      "question": "Are metal fabrication or welding operations performed on premises?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant operate as a franchisor or sell franchise rights to franchisees?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "answer": "No"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 414602
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "General Liability",
+      "value": "No"
+    },
+    {
+      "field": "Commercial Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Business Auto",
+      "value": "No"
+    },
+    {
+      "field": "Workers' Compensation",
+      "value": "No"
+    },
+    {
+      "field": "Umbrella / Excess",
+      "value": "No"
+    },
+    {
+      "field": "Professional Liability / E&O",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

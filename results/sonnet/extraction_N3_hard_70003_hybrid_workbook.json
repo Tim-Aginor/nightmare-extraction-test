@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "document_type": "Submission Data Extract (Excel Workbook)",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality and food service operator including hotels, restaurants, and corporate office facilities located in Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 42000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": 168230000,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "Total Insured Value across 8 locations is $168,230,000. TIV includes building, contents, and business income values. Current policy year 2024."
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": null,
+      "notes": "28 claims with $324,545 total paid and $415,934 total incurred per loss summary"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": null,
+      "notes": "8 claims with $8,780 total paid and $82,656 total incurred per loss summary"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations are sprinklered",
+      "Majority of locations are Fire Resistive or Masonry Non-Combustible construction",
+      "Strong equity position of $52,535,400 against total liabilities of $24,468,900",
+      "Net income of $3,220,600 indicating profitable operations",
+      "Total assets of $77,004,300 reflecting substantial balance sheet",
+      "GL losses are low in frequency and paid amounts (8 claims, $8,780 paid)",
+      "Property claims frequency is low (2 claims over loss history period)",
+      "2020 loss year showed only 2 total claims and lowest premium of $580,805.53"
+    ],
+    "concerns": [
+      "Workers Compensation is the dominant loss driver with 28 claims and $415,934 total incurred",
+      "Significant development on WC losses \u2014 $324,545 paid vs $415,934 incurred suggests open/developing claims",
+      "GL incurred ($82,656) is substantially higher than paid ($8,780), indicating significant reserve development",
+      "Total claim count has increased sharply in 2024 (11 claims) compared to 2023 (3 claims)",
+      "Premium has trended upward year-over-year from $580,805.53 in 2020 to $686,236.25 in 2024",
+      "Carrier has changed every year from 2020 through 2024, suggesting market instability or placement difficulty",
+      "LOC-008 Corporate Headquarters has zero building value, suggesting tenant/leased occupancy with potential coverage gap",
+      "Joisted Masonry construction at LOC-007 (Mission Cantina) presents higher fire risk relative to other locations",
+      "Restaurant occupancies (LOC-005, LOC-006, LOC-007) carry elevated fire and liability hazard",
+      "EPDM roofing at LOC-006 and LOC-007 may present wind/hail vulnerability concerns"
+    ],
+    "loss_history_summary": "Five-year loss history from 2020 to 2024 across three coverages. Workers Compensation: 28 claims, $324,545 paid, $415,934 incurred. General Liability: 8 claims, $8,780 paid, $82,656 incurred. Property: 2 claims, $178,566 paid, $215,927 incurred. Total incurred across all lines: $714,517. Annual premiums ranged from $580,805.53 (2020) to $686,236.25 (2024). Carrier changed each policy year."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Hill Country Hospitality Partners, LLC operates a portfolio of 8 locations in Texas consisting of 4 hotels (The Driskill Austin, Riverwalk Suites San Antonio, Fredericksburg Inn & Spa, South Congress Motor Hotel), 3 restaurants (Blanco River Steakhouse, The Oasis at Lake Travis, Mission Cantina - Pearl District), and 1 corporate office (Corporate Headquarters in Austin). Properties span Austin, San Antonio, and Fredericksburg, TX. Building values range from $0 (leased office) to $39,760,000. Total square footage across all locations is approximately 380,500 sq ft. Year built ranges from 1998 to 2015.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

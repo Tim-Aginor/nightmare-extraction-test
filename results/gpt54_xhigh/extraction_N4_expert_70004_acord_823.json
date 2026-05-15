@@ -1,0 +1,24 @@
+{
+  "form_info": {
+    "form_number": "ACORD 823",
+    "form_edition": null,
+    "form_title": "COMMERCIAL LINES SUPPLEMENT"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "State Gray Insurance Company",
+    "policy_number": "WC-KCB-2025-5580",
+    "effective_date": "2025-08-01",
+    "expiration_date": null,
+    "producer_name": "Berkshire Insurance Group",
+    "producer_code": null
+  },
+  "policy_number": "WC-KCB-2025-5580",
+  "start_date": "2025-08-01",
+  "checkboxes": [],
+  "remarks": null
+}

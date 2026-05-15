@@ -1,0 +1,94 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance Schedule",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "2024 policy: 0000004484 (WC inferred by position; explicit prefix absent unlike prior years). Prior carriers: Berkshire Hathaway Guard 2023 (7WC0009156), Zurich Insurance Group 2022 (WC00004453, cancelled), Nationwide Insurance 2021 (WC-0005600), CNA Financial 2020 (WC002734-001). Combined program premium 2024: 1634721.63."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "2024 policy: 7GL0009677. Prior policies: GL00007868 (2023), GL00005151 (2022), GL002774-001 (2021), GL-0002491 (2020)."
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "2024 policy: CA002528-001. Prior policies: 7CA0002407 (2023), 7CA0007230 (2022), CA008547-001 (2021), 7CA0001189 (2020)."
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "2024 policy: CP00001358. Prior policies: CP-4153-9932 (2023), CP-2415-5091 (2022), CP00004044 (2021), CP006087-001 (2020)."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Continuous insurance coverage maintained across all five policy years (2020-2024)",
+      "No cancellations in four of five years reviewed",
+      "Consistent four-line program (WC, GL, CA, CP) maintained throughout all years",
+      "Lowest annual claim count of 4 recorded in 2022"
+    ],
+    "concerns": [
+      "Policy cancelled by Zurich Insurance Group in 2022; circumstances not disclosed",
+      "High claim count of 15 in 2021",
+      "Adverse claim frequency trend in recent years: 10 claims (2023), 13 claims (2024)",
+      "Multiple carrier changes across five years may indicate non-renewals or forced remarketing",
+      "Loss ratios not provided for any policy year; limits of liability not disclosed"
+    ],
+    "loss_history_summary": "Five-year period (2020-2024): 48 total claims across all lines combined. Annual claim counts: 2020 (6), 2021 (15), 2022 (4), 2023 (10), 2024 (13). One policy cancellation in 2022 under Zurich Insurance Group. Loss ratios not disclosed. Combined program premiums ranged from 1369245.71 (2022) to 1634721.63 (2024). Five-year aggregate program premium: 7549116.32."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Five-year loss history (2020-2024) reflects 48 total claims across the insured's Workers Compensation, General Liability, Commercial Auto, and Commercial Property program. Detail by year: 2020 \u2014 6 claims, carrier CNA Financial, combined premium 1581292.51, no cancellation; 2021 \u2014 15 claims, carrier Nationwide Insurance, combined premium 1487006.51, no cancellation; 2022 \u2014 4 claims, carrier Zurich Insurance Group, combined premium 1369245.71, cancellation reported; 2023 \u2014 10 claims, carrier Berkshire Hathaway Guard, combined premium 1476849.96, no cancellation; 2024 \u2014 13 claims, carrier Nationwide Insurance, combined premium 1634721.63, no cancellation. Per-line claim allocation and individual loss ratios not available. Underwriter inquiry recommended regarding the 2022 Zurich cancellation and the upward claim trend in 2023-2024."
+  }
+}

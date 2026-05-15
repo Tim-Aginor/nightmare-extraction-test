@@ -1,0 +1,73 @@
+{
+  "document_info": {
+    "document_type": "Workers Compensation and Employers Liability Insurance Policy",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": "Benefits required by workers compensation law",
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Form WC 00 00 04. Declarations premium 1158173.43. Experience modification factor 0.86. Endorsements attached effective 2026-03-15: Waiver Of Our Right To Recover From Others, Alternate Employer, All States, and Terrorism Risk Insurance Act."
+    },
+    {
+      "coverage_type": "Employers Liability",
+      "current_limit": "Each accident 1000000; disease policy 1000000; disease each employee 1000000",
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Schedule of limits shown in declarations."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience modification factor shown as 0.86."
+    ],
+    "concerns": [
+      "Operations include multiple construction trade classifications, including carpentry, electrical wiring, plumbing, masonry, and painting."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Named Insured: Keystone Commercial Builders, Inc. Mailing Address: 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222. Policy Number: WC-KCB-2025-5580. Policy Period: 2025-08-01 to 2026-08-01. Form Number: WC 00 00 04. Producer: Steel City Insurance Group.",
+    "operations_description": "SIC Code: 1521. Description: General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Classification schedule: 5403 Carpentry - NOC; 5190 Electrical Wiring; 5183 Plumbing - NOC; 5022 Masonry - NOC; 5474 Painting - Interior; 5606 Contractors - Project Manager, Superintendent; 8810 Clerical Office Employees - NOC.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

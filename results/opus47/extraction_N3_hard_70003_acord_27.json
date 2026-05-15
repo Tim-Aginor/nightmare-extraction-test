@@ -1,0 +1,68 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": "2016/03",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capital Insurance Advisors",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-HCHP-2025-3352",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "28339",
+    "years_in_business": null,
+    "nature_of_business": "Hotel"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Dwelling / Building",
+      "limit": 28500000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property / Contents",
+      "limit": 7125000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Loss of Use / Business Income",
+      "limit": 10687500,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "perils_basic": "unchecked",
+    "perils_broad": "unchecked",
+    "perils_special": "checked"
+  },
+  "additional_fields": {
+    "date_issued": "2026-03-15",
+    "agency_contact": "Marcos Jennings",
+    "agency_address": "501 Congress Avenue, Suite 1500, Austin, TX 78701",
+    "agency_phone": "(512) 555-0634",
+    "property_location_address": "604 Brazos Street, Austin, TX 78701",
+    "description_of_property": "Hotel",
+    "mortgagee_name": "Wells Fargo Bank, N.A.",
+    "mortgagee_rank": "First Mortgagee",
+    "mortgagee_address": "909 Bridge Street",
+    "mortgagee_city_state_zip": "Austin, TX 25444",
+    "cancellation_notice_days": "30",
+    "authorized_representative": "Christina Montoya"
+  },
+  "remarks": "Coverage provided on Special form. Property is fully sprinklered. Construction type: Fire Resistive."
+}

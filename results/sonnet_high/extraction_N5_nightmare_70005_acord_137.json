@@ -1,0 +1,436 @@
+{
+  "form_info": {
+    "form_number": "ACORD 137",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Auto Supplement"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CAGLFS20258822",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Combined Single Limit Liability (Per Accident)",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Payments",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Uninsured Motorist (UM)",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Underinsured Motorist (UIM)",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "symbol_14_specifically_described_collision_only_phys_dam": "Yes",
+    "symbol_10_owned_autos_broadened_liability": "Yes",
+    "symbol_10_owned_autos_broadened_pip": "Yes",
+    "symbol_10_owned_autos_broadened_um_uim": "Yes",
+    "symbol_17_public_livery_passenger_autos_liability": "Yes",
+    "symbol_17_public_livery_passenger_autos_pip": "Yes",
+    "symbol_9_non_owned_autos_only_liability": "Yes",
+    "symbol_8_hired_autos_only_liability": "Yes",
+    "symbol_13_specifically_described_comp_only_phys_dam": "Yes",
+    "oh_01_01_uninsured_motorist_coverage_included": "Yes",
+    "oh_02_01_underinsured_motorist_coverage_included": "Yes",
+    "vehicles_used_for_snow_removal_or_seasonal_ops": "Yes",
+    "drivers_under_age_21": "No",
+    "insured_transports_passengers_for_fee": "No",
+    "dashcams_or_telematics_installed": "No",
+    "dot_violations_past_3_years": "No"
+  },
+  "additional_fields": {
+    "document_date": "2026-03-14",
+    "contact_name": "David Reinhardt",
+    "naic_code": "24281",
+    "form_type": "occurrence",
+    "total_premium": 262046.75,
+    "um_coverage_status": "Required",
+    "uim_coverage_status": "Optional",
+    "hired_auto_liability": "Not Covered",
+    "non_owned_auto_liability": "Not Covered",
+    "hired_auto_physical_damage": "Not Covered",
+    "cost_of_hire": 50000,
+    "hired_auto_states": "OH",
+    "signed_by": "L. Taylor",
+    "signature_date": "2026-03-06",
+    "state_endorsements": [
+      {
+        "endorsement_code": "OH 01 01",
+        "description": "OH Uninsured Motorist Coverage",
+        "included": "Yes"
+      },
+      {
+        "endorsement_code": "OH 02 01",
+        "description": "OH Underinsured Motorist Coverage",
+        "included": "Yes"
+      }
+    ],
+    "physical_damage_schedule": [
+      {
+        "veh_num": 1,
+        "year": 2024,
+        "make_model": "Freightliner Cascadia",
+        "vin": null,
+        "comp_deductible": 2500,
+        "coll_deductible": 2500,
+        "stated_amount": 122185
+      },
+      {
+        "veh_num": 2,
+        "year": 2023,
+        "make_model": "Freightliner Cascadia",
+        "vin": null,
+        "comp_deductible": 2500,
+        "coll_deductible": 5000,
+        "stated_amount": 119441
+      },
+      {
+        "veh_num": 3,
+        "year": 2023,
+        "make_model": "Kenworth T680",
+        "vin": null,
+        "comp_deductible": null,
+        "coll_deductible": null,
+        "stated_amount": 121494
+      },
+      {
+        "veh_num": 4,
+        "year": 2024,
+        "make_model": "Kenworth T680",
+        "vin": null,
+        "comp_deductible": 2500,
+        "coll_deductible": 2500,
+        "stated_amount": 117667
+      },
+      {
+        "veh_num": 5,
+        "year": 2022,
+        "make_model": "Peterbilt 579",
+        "vin": null,
+        "comp_deductible": null,
+        "coll_deductible": 5000,
+        "stated_amount": 123900
+      },
+      {
+        "veh_num": 6,
+        "year": 2023,
+        "make_model": "Peterbilt 579",
+        "vin": null,
+        "comp_deductible": null,
+        "coll_deductible": 10000,
+        "stated_amount": 119687
+      },
+      {
+        "veh_num": 7,
+        "year": 2021,
+        "make_model": "Freightliner Cascadia",
+        "vin": null,
+        "comp_deductible": null,
+        "coll_deductible": 2500,
+        "stated_amount": 116664
+      },
+      {
+        "veh_num": 8,
+        "year": 2024,
+        "make_model": "Volvo VNL 860",
+        "vin": null,
+        "comp_deductible": null,
+        "coll_deductible": 5000,
+        "stated_amount": 119286
+      },
+      {
+        "veh_num": 9,
+        "year": 2022,
+        "make_model": "International LT",
+        "vin": null,
+        "comp_deductible": 5000,
+        "coll_deductible": 5000,
+        "stated_amount": 121549
+      },
+      {
+        "veh_num": 10,
+        "year": 2023,
+        "make_model": "Mack Anthem",
+        "vin": null,
+        "comp_deductible": null,
+        "coll_deductible": null,
+        "stated_amount": 123986
+      },
+      {
+        "veh_num": 11,
+        "year": 2024,
+        "make_model": "Freightliner Cascadia Day Cab",
+        "vin": null,
+        "comp_deductible": null,
+        "coll_deductible": 2500,
+        "stated_amount": 116763
+      },
+      {
+        "veh_num": 12,
+        "year": 2023,
+        "make_model": "Kenworth T680 Day Cab",
+        "vin": null,
+        "comp_deductible": 2500,
+        "coll_deductible": 2500,
+        "stated_amount": 98772
+      },
+      {
+        "veh_num": 13,
+        "year": 2024,
+        "make_model": "Freightliner M2 112",
+        "vin": null,
+        "comp_deductible": 1000,
+        "coll_deductible": 2500,
+        "stated_amount": 96987
+      },
+      {
+        "veh_num": 14,
+        "year": 2023,
+        "make_model": "International MV607",
+        "vin": null,
+        "comp_deductible": 2500,
+        "coll_deductible": 5000,
+        "stated_amount": 95890
+      },
+      {
+        "veh_num": 15,
+        "year": 2022,
+        "make_model": "Hino 338",
+        "vin": null,
+        "comp_deductible": 500,
+        "coll_deductible": 1000,
+        "stated_amount": 63403
+      },
+      {
+        "veh_num": 16,
+        "year": 2024,
+        "make_model": "Isuzu NPR-HD",
+        "vin": null,
+        "comp_deductible": 1000,
+        "coll_deductible": 2500,
+        "stated_amount": 64468
+      },
+      {
+        "veh_num": 17,
+        "year": 2023,
+        "make_model": "Ford E-450",
+        "vin": null,
+        "comp_deductible": 500,
+        "coll_deductible": 500,
+        "stated_amount": 53196
+      },
+      {
+        "veh_num": 18,
+        "year": 2024,
+        "make_model": "Ford Transit 350",
+        "vin": null,
+        "comp_deductible": 500,
+        "coll_deductible": 1000,
+        "stated_amount": 45582
+      },
+      {
+        "veh_num": 19,
+        "year": 2023,
+        "make_model": "Ram ProMaster 2500",
+        "vin": null,
+        "comp_deductible": 250,
+        "coll_deductible": 500,
+        "stated_amount": 48402
+      },
+      {
+        "veh_num": 20,
+        "year": 2024,
+        "make_model": "Ford F-250",
+        "vin": null,
+        "comp_deductible": 500,
+        "coll_deductible": 500,
+        "stated_amount": 50267
+      },
+      {
+        "veh_num": 21,
+        "year": 2023,
+        "make_model": "Chevrolet Silverado 2500",
+        "vin": null,
+        "comp_deductible": 250,
+        "coll_deductible": 250,
+        "stated_amount": 39001
+      },
+      {
+        "veh_num": 22,
+        "year": 2024,
+        "make_model": "Ford F-150",
+        "vin": null,
+        "comp_deductible": 100,
+        "coll_deductible": 500,
+        "stated_amount": 27979
+      },
+      {
+        "veh_num": 23,
+        "year": 2023,
+        "make_model": "Toyota Camry",
+        "vin": null,
+        "comp_deductible": 250,
+        "coll_deductible": 500,
+        "stated_amount": 41016
+      },
+      {
+        "veh_num": 24,
+        "year": 2024,
+        "make_model": "Chevrolet Suburban",
+        "vin": null,
+        "comp_deductible": 250,
+        "coll_deductible": 500,
+        "stated_amount": null
+      },
+      {
+        "veh_num": 25,
+        "year": 2024,
+        "make_model": "Great Dane Champion SE",
+        "vin": null,
+        "comp_deductible": 1000,
+        "coll_deductible": 1000,
+        "stated_amount": null
+      },
+      {
+        "veh_num": 26,
+        "year": 2023,
+        "make_model": "Great Dane Champion SE",
+        "vin": null,
+        "comp_deductible": 1000,
+        "coll_deductible": 2500,
+        "stated_amount": null
+      },
+      {
+        "veh_num": 27,
+        "year": 2023,
+        "make_model": "Wabash DuraPlate HD",
+        "vin": null,
+        "comp_deductible": 2500,
+        "coll_deductible": 2500,
+        "stated_amount": null
+      },
+      {
+        "veh_num": 28,
+        "year": 2024,
+        "make_model": "Wabash DuraPlate HD",
+        "vin": null,
+        "comp_deductible": 1000,
+        "coll_deductible": 1000,
+        "stated_amount": null
+      },
+      {
+        "veh_num": 29,
+        "year": null,
+        "make_model": "Utility 4000D-X Composite",
+        "vin": null,
+        "comp_deductible": 2500,
+        "coll_deductible": 5000,
+        "stated_amount": null
+      },
+      {
+        "veh_num": 30,
+        "year": null,
+        "make_model": "Utility 4000D-X Composite",
+        "vin": null,
+        "comp_deductible": 2500,
+        "coll_deductible": 2500,
+        "stated_amount": null
+      },
+      {
+        "veh_num": 31,
+        "year": null,
+        "make_model": "Fontaine Translead Dry Van",
+        "vin": null,
+        "comp_deductible": 0,
+        "coll_deductible": 0,
+        "stated_amount": null
+      },
+      {
+        "veh_num": 32,
+        "year": 2022,
+        "make_model": "Hyundai Translead Dry Van",
+        "vin": "5TULXRPT3NSTFND18",
+        "comp_deductible": 5000,
+        "coll_deductible": 5000,
+        "stated_amount": 21196
+      },
+      {
+        "veh_num": 33,
+        "year": 2024,
+        "make_model": "Fontaine Revolution 51",
+        "vin": "4LFD18RR7R9R6JSSM",
+        "comp_deductible": 1000,
+        "coll_deductible": 2500,
+        "stated_amount": 20859
+      },
+      {
+        "veh_num": 34,
+        "year": 2023,
+        "make_model": "Fontaine Infinity 48",
+        "vin": "13NCE49D0P7644DAM",
+        "comp_deductible": 2500,
+        "coll_deductible": 2500,
+        "stated_amount": 20000
+      },
+      {
+        "veh_num": 35,
+        "year": 2017,
+        "make_model": "Fontaine Genesis",
+        "vin": "4LF72T447HVHUPLAH",
+        "comp_deductible": 0,
+        "coll_deductible": 0,
+        "stated_amount": 23007
+      },
+      {
+        "veh_num": 36,
+        "year": 2024,
+        "make_model": "Great Dane Everest TL",
+        "vin": "1GRK0MHCXR6BYB582",
+        "comp_deductible": 2500,
+        "coll_deductible": 2500,
+        "stated_amount": 20499
+      },
+      {
+        "veh_num": 37,
+        "year": 2023,
+        "make_model": "Utility 3000R",
+        "vin": "1UYM15RS7PCYWR3X9",
+        "comp_deductible": 2500,
+        "coll_deductible": 5000,
+        "stated_amount": 23223
+      }
+    ]
+  },
+  "remarks": null
+}

@@ -1,0 +1,58 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Maine Employers Mutual Insurance Company",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": "AG-6645310"
+  },
+  "document_date": "2026-03-16",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": "1",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43217",
+      "construction": null,
+      "occupancy": "Non-Combustible Warehouse",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 1462600,
+      "contents_value": 424950,
+      "bi_value": 625900,
+      "tiv": 2513450
+    }
+  ],
+  "property_limits": {
+    "building": 1462600,
+    "contents": 424950,
+    "business_income": 625900
+  },
+  "property_deductible": 75000,
+  "insurer_panel": [
+    {
+      "carrier": "Maine Employers Mutual Insurance Company",
+      "naic": "41982"
+    }
+  ],
+  "checkboxes": [],
+  "remarks": null
+}

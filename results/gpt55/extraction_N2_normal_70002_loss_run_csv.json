@@ -1,0 +1,85 @@
+{
+  "claims": [
+    {
+      "claim_number": "MEM-2025-013016",
+      "claimant": "Buckeye Industrial Properties, LLC",
+      "coverage": "property",
+      "date_of_loss": "2025-10-17",
+      "description": "Water Damage; Property Location: 2100 Kuntz Road, Dayton, OH",
+      "incurred": 238554.44,
+      "paid": 202875,
+      "reserved": 35679.44,
+      "status": "Re-opened"
+    },
+    {
+      "claim_number": "HTF-2021-013149",
+      "claimant": "Buckeye Industrial Properties, LLC",
+      "coverage": "property",
+      "date_of_loss": "2021-10-09",
+      "description": "Equipment Breakdown; Property Location: 11600 Mosteller Road, Cincinnati, OH",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Denied"
+    }
+  ],
+  "grand_totals": {
+    "claim_count": 2,
+    "incurred": 238554.44,
+    "paid": 202875,
+    "reserved": 35679.44
+  },
+  "header": {
+    "carrier_name": null,
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "policy_numbers": {
+      "auto": null,
+      "gl": null,
+      "mtc": null,
+      "property": null,
+      "umbrella": null,
+      "wc": null
+    },
+    "policy_period_end": null,
+    "policy_period_start": null,
+    "report_date": null
+  },
+  "subtotals_by_coverage": {
+    "auto": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "gl": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "mtc": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "property": {
+      "claim_count": 2,
+      "incurred": 238554.44,
+      "paid": 202875,
+      "reserved": 35679.44
+    },
+    "umbrella": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "wc": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    }
+  }
+}

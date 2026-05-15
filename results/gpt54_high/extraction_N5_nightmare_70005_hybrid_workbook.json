@@ -1,0 +1,60 @@
+{
+  "document_info": {
+    "document_type": "Fleet schedule and motor vehicle report summary",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial fleet consisting primarily of extra heavy trucks and trailers, with additional heavy/medium/light trucks and private passenger vehicles.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "37 scheduled vehicles, including 12 extra heavy trucks and 13 trailers.",
+      "Fleet is relatively modern overall, with most units model years 2022-2024.",
+      "40 listed drivers with substantial experience overall; average listed experience is approximately 19 years.",
+      "Five drivers are shown with clear motor vehicle reports."
+    ],
+    "concerns": [
+      "MVR summary shows 32 drivers with minor violations, 1 driver categorized as Accident, and 2 drivers with major violations.",
+      "Scott Murphy and Jack Reed are listed with major violations, 3 violations each, and 2 accidents each.",
+      "Several drivers show multiple accidents, including Andre Mitchell, Patrick Murphy, Carlos Ramirez, Helen Anderson, Dennis Kelly, Scott Murphy, and Jack Reed.",
+      "Fleet includes a few older trailers, including 2015 and 2017 model years."
+    ],
+    "loss_history_summary": "Motor vehicle report data for 40 drivers reflects 39 total violations and 40 total accidents. Status distribution is 5 Clear, 32 Minor Violations, 1 Accident, and 2 Major Violations."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": 40,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

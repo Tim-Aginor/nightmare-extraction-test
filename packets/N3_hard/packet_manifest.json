@@ -1,0 +1,469 @@
+{
+  "seed": 70003,
+  "template_id": "hallmark_style",
+  "presets": {
+    "default": "moderate"
+  },
+  "coverages": [
+    "wc",
+    "gl",
+    "property"
+  ],
+  "claims_per_coverage": 0,
+  "total_documents": 30,
+  "total_pages": 82,
+  "elapsed_seconds": 22.75,
+  "packet_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/packet_truth.json",
+  "documents": [
+    {
+      "doc_type": "acord_125",
+      "description": "ACORD 125 \u2014 Commercial Insurance Application",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_125_70003.pdf",
+      "pages": 3,
+      "template": "hallmark_style",
+      "patterns_applied": 17,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_125.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_125.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_125.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_126",
+      "description": "ACORD 126 \u2014 GL Supplement",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_126_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_126.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_126.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_126.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_130",
+      "description": "ACORD 130 \u2014 WC Supplement",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_130_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_130.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_130.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_130.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_45",
+      "description": "ACORD 45 \u2014 Commercial Property Application",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_45_70003.pdf",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_45.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_45.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_45.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "supplemental_app",
+      "description": "Supplemental Application",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/supplemental_app_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 12,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_supplemental_app.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_supplemental_app.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_supplemental_app.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "broker_narrative",
+      "description": "Broker Submission Narrative",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/broker_narrative_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 12,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_broker_narrative.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_broker_narrative.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_broker_narrative.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "dec_page",
+      "description": "Declarations Page",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/dec_page_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 14,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_dec_page.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_dec_page.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_dec_page.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "policy_form",
+      "description": "Policy Contract Document",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/policy_form_70003.pdf",
+      "pages": 14,
+      "template": "hallmark_style",
+      "patterns_applied": 13,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_policy_form.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_policy_form.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_policy_form.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "sov",
+      "description": "Schedule of Values",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/sov_70003.pdf",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 24,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_sov.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_sov.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_sov.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_140",
+      "description": "ACORD 140 \u2014 Property Section / Blanket",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_140_70003.pdf",
+      "pages": 10,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_140.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_140.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_140.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run",
+      "description": "Loss Run Report",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/loss_run_70003.pdf",
+      "pages": 7,
+      "template": "hallmark_style",
+      "patterns_applied": 43,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_loss_run.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_loss_run.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_loss_run.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "experience_mod",
+      "description": "Experience Modification Worksheet",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/experience_mod_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 18,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_experience_mod.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_experience_mod.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_experience_mod.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "financial_statement",
+      "description": "Financial Statement",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/financial_statement_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 22,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_financial_statement.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_financial_statement.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_financial_statement.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_25",
+      "description": "ACORD 25 \u2014 Certificate of Insurance",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_25_70003.pdf",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 13,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_25.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_25.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_25.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_28",
+      "description": "ACORD 28 \u2014 Property Certificate",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_28_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_28.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_28.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_28.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_27",
+      "description": "ACORD 27 \u2014 Evidence of Property Insurance",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_27_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_27.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_27.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_27.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_24",
+      "description": "ACORD 24 \u2014 Certificate of Property Insurance",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_24_70003.pdf",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_24.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_24.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_24.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_75",
+      "description": "ACORD 75 \u2014 Insurance Binder",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_75_70003.pdf",
+      "pages": 3,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_75.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_75.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_75.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_101",
+      "description": "ACORD 101 \u2014 Additional Remarks",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_101_70003.pdf",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_101.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_101.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_101.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_35",
+      "description": "ACORD 35 \u2014 Cancellation / Policy Release",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_35_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_35.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_35.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_35.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_133",
+      "description": "ACORD 133 \u2014 WC Assigned Risk Application",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_133_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_133.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_133.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_133.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_160",
+      "description": "ACORD 160 \u2014 BOP Application",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/acord_160_70003.pdf",
+      "pages": 9,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_acord_160.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_acord_160.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_acord_160.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "engineering_report",
+      "description": "Engineering / Loss Control Report",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/engineering_report_70003.pdf",
+      "pages": 2,
+      "template": "hallmark_style",
+      "patterns_applied": 11,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_engineering_report.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_engineering_report.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_engineering_report.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run_excel",
+      "description": "Loss Run (Excel)",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/loss_run_excel_70003.xlsx",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 15,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_loss_run_excel.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_loss_run_excel.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_loss_run_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run_csv",
+      "description": "Loss Run (CSV)",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/loss_run_csv_70003.csv",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 9,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_loss_run_csv.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_loss_run_csv.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_loss_run_csv.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "sov_excel",
+      "description": "Schedule of Values (Excel)",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/sov_excel_70003.xlsx",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 8,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_sov_excel.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_sov_excel.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_sov_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "experience_mod_excel",
+      "description": "Experience Mod Worksheet (Excel)",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/experience_mod_excel_70003.xlsx",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 7,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_experience_mod_excel.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_experience_mod_excel.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_experience_mod_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "financial_statement_excel",
+      "description": "Financial Statement (Excel)",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/financial_statement_excel_70003.xlsx",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 8,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_financial_statement_excel.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_financial_statement_excel.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_financial_statement_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "supplemental_schedule_excel",
+      "description": "Supplemental Schedules (Excel)",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/supplemental_schedule_excel_70003.xlsx",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 5,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_supplemental_schedule_excel.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_supplemental_schedule_excel.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_supplemental_schedule_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "hybrid_workbook",
+      "description": "Hybrid Submission Workbook",
+      "preset": "adversarial",
+      "output_path": "output/nightmare/N3_hard/doc_70003/documents/hybrid_workbook_70003.xlsx",
+      "pages": 1,
+      "template": "hallmark_style",
+      "patterns_applied": 8,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/document_truth_hybrid_workbook.json",
+        "field_truth": "output/nightmare/N3_hard/doc_70003/ground_truth/field_truth_hybrid_workbook.json",
+        "manifest": "output/nightmare/N3_hard/doc_70003/ground_truth/manifest_hybrid_workbook.json"
+      },
+      "status": "ok"
+    }
+  ]
+}

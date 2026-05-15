@@ -1,0 +1,84 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2016/03",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": "AC-633272",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "44251",
+    "years_in_business": null,
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "attached_to_form_number": "ACORD 126",
+    "attached_form_title": "Commercial General Liability Section",
+    "naic_code": "44251",
+    "endorsement_schedule": [
+      "CA 04 44 10 13 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+      "CG 21 39 10 93 \u2014 Contractual Liability Limitation",
+      "IL 09 35 01 15 \u2014 Exclusion of Certified Acts of Terrorism",
+      "WC 00 03 01A \u2014 Alternate Employer Endorsement",
+      "CG 20 26 04 13 \u2014 Additional Insured - Designated Person or Organization",
+      "IM 99 01 09 09 \u2014 Inland Marine Equipment Floater"
+    ],
+    "additional_insured": "Navigator Realty Management Inc. is an Additional Insured under the General Liability and Umbrella policies as required by the underlying contract.",
+    "special_conditions": [
+      "Primary and Non-Contributory wording applies per policy endorsement.",
+      "Waiver of Subrogation applies in favor of the certificate holder as required by written contract.",
+      "Per Project Aggregate Limit applies as indicated on the endorsement schedule."
+    ],
+    "locations": [
+      {
+        "location_id": "LOC-001",
+        "description": "Rickenbacker Logistics Center - A",
+        "address": "6500 Alum Creek Drive, Columbus, OH 43217",
+        "occupancy": "Warehouse"
+      },
+      {
+        "location_id": "LOC-002",
+        "description": "Rickenbacker Logistics Center - B",
+        "address": "6600 Alum Creek Drive, Columbus, OH 43217",
+        "occupancy": "Warehouse"
+      },
+      {
+        "location_id": "LOC-003",
+        "description": "Cleveland Distribution Hub",
+        "address": "4800 Tiedeman Road, Brooklyn, OH 44144",
+        "occupancy": "Warehouse"
+      },
+      {
+        "location_id": "LOC-004",
+        "description": "Dayton Manufacturing Facility",
+        "address": "2100 Kuntz Road, Dayton, OH 45404",
+        "occupancy": "Manufacturing"
+      }
+    ],
+    "subcontractor_requirements": "All subcontractors must maintain Commercial General Liability with limits not less than $1,000,000 per occurrence and $2,000,000 general aggregate."
+  },
+  "remarks": "Endorsement schedule, additional insured, special conditions, location descriptions, subcontractor requirements, and nature of operations details provided on ACORD 101 attached to ACORD 126 (Commercial General Liability Section)."
+}

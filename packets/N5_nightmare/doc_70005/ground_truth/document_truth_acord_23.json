@@ -1,0 +1,27 @@
+{
+  "document_type": "acord_23",
+  "template": "standard_insurance_company_nat",
+  "seed": 70005,
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard, Columbus, OH, 43215",
+    "street": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip_code": "43215"
+  },
+  "carrier": "Standard Insurance Company",
+  "policy_period": {
+    "start": "2025-06-01",
+    "end": "2026-06-01"
+  },
+  "policy_numbers": {
+    "auto": "CAGLFS20258822"
+  },
+  "summary": {
+    "coverages": [
+      "auto"
+    ]
+  },
+  "page_count": 2
+}

@@ -1,0 +1,111 @@
+{
+  "document_info": {
+    "document_type": "Commercial Property policy form and endorsements",
+    "date": null,
+    "prepared_by": "Midwest Property & Casualty Group",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": "Building 146260000; Contents 42495000; Business Income 62590000; Coinsurance 80%; Deductible 75000",
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": 424883.27,
+      "notes": "Form CP 00 10 10 12. Policy number CP-BIP-2025-4420. Includes endorsements for Business Income and Extra Expense, Ordinance or Law, Utility Services \u2013 Direct Damage, Agreed Value, and Equipment Breakdown."
+    },
+    {
+      "coverage_type": "Business Income and Extra Expense",
+      "current_limit": "62590000",
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 15 08 (10 12), effective 2026-03-15."
+    },
+    {
+      "coverage_type": "Ordinance or Law Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 (10 12), effective 2026-03-15."
+    },
+    {
+      "coverage_type": "Utility Services \u2013 Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12), effective 2026-03-15."
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 (07 88), effective 2026-03-15. Suspends coinsurance additional condition for scheduled property."
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12), effective 2026-03-15."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Agreed Value endorsement suspends coinsurance additional condition for scheduled property.",
+      "Business Income and Extra Expense coverage is included.",
+      "Ordinance or Law, Utility Services \u2013 Direct Damage, and Equipment Breakdown endorsements broaden property protection.",
+      "Operations are concentrated in Ohio."
+    ],
+    "concerns": [
+      "High property values with Building limit of 146260000, Contents limit of 42495000, and Business Income limit of 62590000.",
+      "Deductible is 75000 per occurrence.",
+      "Coinsurance shown as 80%.",
+      "Industrial real estate includes warehouse, distribution, and light manufacturing facilities, which may present occupancy and tenant-related exposure."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": "2025-09-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

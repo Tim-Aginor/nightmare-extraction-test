@@ -1,0 +1,91 @@
+{
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": null,
+    "policy_number": null,
+    "policy_period_start": "2025-03-14",
+    "policy_period_end": "2026-03-14",
+    "carrier_name": "Standard Insurance Company"
+  },
+  "locations": [
+    {
+      "location_id": "LOC-003",
+      "name": "Cleveland Distribution Center",
+      "address": "6200 Rockside Woods Boulevard",
+      "city": "Independence",
+      "state": "OH",
+      "zip": "44131",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 1990,
+      "stories": 1,
+      "square_feet": 90000,
+      "sprinklered": true,
+      "building_value": 3800000,
+      "contents_value": 7410000,
+      "bi_value": 6770000,
+      "tiv": 17980000
+    },
+    {
+      "location_id": "LOC-005",
+      "name": "Philadelphia Cross-Dock",
+      "address": "7600 State Road",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19136",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2001,
+      "stories": 1,
+      "square_feet": 45000,
+      "sprinklered": true,
+      "building_value": 2720000,
+      "contents_value": 3080000,
+      "bi_value": 3456000,
+      "tiv": 9256000
+    },
+    {
+      "location_id": "LOC-007",
+      "name": "Toledo Service Center",
+      "address": "3825 Antuyne Road",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43609",
+      "construction": "Joisted Masonry",
+      "occupancy": "Warehouse",
+      "year_built": 1968,
+      "stories": 1,
+      "square_feet": 33000,
+      "sprinklered": true,
+      "building_value": 1980000,
+      "contents_value": 420000,
+      "bi_value": 0,
+      "tiv": 2400000
+    },
+    {
+      "location_id": "LOC-009",
+      "name": "Administrative Office",
+      "address": "41 South High Street, Suite 1500",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Fire-Resistive",
+      "occupancy": "Office",
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": 10000,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 840000,
+      "bi_value": 1560000,
+      "tiv": 2400000
+    }
+  ],
+  "totals": {
+    "building_value": 8500000,
+    "contents_value": 11750000,
+    "bi_value": 11786000,
+    "tiv": 32036000,
+    "location_count": 4
+  }
+}

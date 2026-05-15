@@ -1,0 +1,73 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": 145,
+    "naics_code": null,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas, headquartered in Dallas.",
+    "sic_code": null,
+    "years_in_business": 24
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": 403697.14,
+      "notes": "Property coverage on a blanket basis with agreed value endorsement. Wind/hail deductible applies per schedule.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Broker narrative / transfer submission",
+    "prepared_by": "Sandra Villareal, Vice President, Texas Commercial Insurance Partners",
+    "recipient": "Underwriting Department, Apex Managing General Agency"
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "The loss experience reflects a mixed trend with some large individual claims in the review period. Over the review period, the insured has incurred 3 total claims with $259,081.54 in total paid losses and $303,232.60 total incurred. Currently, 1 claim remains open and 2 have been closed.\n\nAnnualized loss ratio is 25.0% (avg annual incurred $101,077.53 against current annual premium $403,697.14 over 3 loss years).",
+    "executive_summary": "We are pleased to submit Lone Star Property Holdings, LP for your review and consideration. The insured is a commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas, headquartered in Dallas, with approximately 24 years of operating history. Coverage is requested for Commercial Property.",
+    "operations_description": "The insured is a commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas, headquartered in Dallas, with approximately 24 years of operating history.",
+    "safety_programs": "Background checks and MVR reviews are conducted annually for all employees in safety-sensitive positions.\nThe insured maintains a formal business continuity and disaster recovery plan tested annually.\nThe insured carries contractual risk transfer provisions in all subcontractor and vendor agreements.\nAll facilities maintain current fire suppression and sprinkler systems inspected annually by certified contractors.\nAll locations are equipped with security camera systems and 24/7 monitoring services.\nWith 145 employees and a structured HR program, the insured maintains low turnover and consistent safety training."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "name": "Lone Star Property Holdings, LP",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Mixed loss trend with some large individual claims in the review period.",
+      "3 total claims with 303232.60 total incurred; 1 claim remains open."
+    ],
+    "loss_history_summary": "The insured has incurred 3 total claims with 259081.54 in total paid losses and 303232.60 total incurred. Currently, 1 claim remains open and 2 have been closed. Annualized loss ratio is 25.0% based on average annual incurred of 101077.53 against current annual premium of 403697.14 over 3 loss years.",
+    "positives": [
+      "Background checks and MVR reviews are conducted annually for all employees in safety-sensitive positions.",
+      "Formal business continuity and disaster recovery plan tested annually.",
+      "Contractual risk transfer provisions in all subcontractor and vendor agreements.",
+      "All facilities maintain current fire suppression and sprinkler systems inspected annually by certified contractors.",
+      "All locations are equipped with security camera systems and 24/7 monitoring services.",
+      "24 years of continuous operations under consistent management demonstrates operational stability.",
+      "145 employees and a structured HR program; low turnover and consistent safety training.",
+      "Broker characterizes the account as a well-managed risk."
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "acord_23",
+  "type": "object",
+  "properties": {
+    "form_info": {
+      "type": "object",
+      "properties": {
+        "form_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "form_edition": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "form_title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "form_number",
+        "form_edition",
+        "form_title"
+      ],
+      "additionalProperties": false
+    },
+    "header": {
+      "type": "object",
+      "properties": {
+        "insured_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_city": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_state": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "AL",
+            "AK",
+            "AZ",
+            "AR",
+            "CA",
+            "CO",
+            "CT",
+            "DE",
+            "FL",
+            "GA",
+            "HI",
+            "ID",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "LA",
+            "ME",
+            "MD",
+            "MA",
+            "MI",
+            "MN",
+            "MS",
+            "MO",
+            "MT",
+            "NE",
+            "NV",
+            "NH",
+            "NJ",
+            "NM",
+            "NY",
+            "NC",
+            "ND",
+            "OH",
+            "OK",
+            "OR",
+            "PA",
+            "RI",
+            "SC",
+            "SD",
+            "TN",
+            "TX",
+            "UT",
+            "VT",
+            "VA",
+            "WA",
+            "WV",
+            "WI",
+            "WY",
+            "DC",
+            "PR",
+            "GU",
+            "VI",
+            "AS",
+            "MP",
+            null
+          ]
+        },
+        "insured_zip": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "carrier_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "effective_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "expiration_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "producer_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "producer_code": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "insured_name",
+        "insured_address",
+        "insured_city",
+        "insured_state",
+        "insured_zip",
+        "carrier_name",
+        "policy_number",
+        "effective_date",
+        "expiration_date",
+        "producer_name",
+        "producer_code"
+      ],
+      "additionalProperties": false
+    },
+    "vehicles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "vehicle_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "year": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "make": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "model": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "vin": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "vehicle_class": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "Trailer",
+              "Light Truck",
+              "Extra Heavy Truck",
+              "Medium Truck",
+              "Heavy Truck",
+              "Private Passenger",
+              null
+            ]
+          },
+          "garage_state": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "AL",
+              "AK",
+              "AZ",
+              "AR",
+              "CA",
+              "CO",
+              "CT",
+              "DE",
+              "FL",
+              "GA",
+              "HI",
+              "ID",
+              "IL",
+              "IN",
+              "IA",
+              "KS",
+              "KY",
+              "LA",
+              "ME",
+              "MD",
+              "MA",
+              "MI",
+              "MN",
+              "MS",
+              "MO",
+              "MT",
+              "NE",
+              "NV",
+              "NH",
+              "NJ",
+              "NM",
+              "NY",
+              "NC",
+              "ND",
+              "OH",
+              "OK",
+              "OR",
+              "PA",
+              "RI",
+              "SC",
+              "SD",
+              "TN",
+              "TX",
+              "UT",
+              "VT",
+              "VA",
+              "WA",
+              "WV",
+              "WI",
+              "WY",
+              "DC",
+              "PR",
+              "GU",
+              "VI",
+              "AS",
+              "MP",
+              null
+            ]
+          },
+          "stated_value": {
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "vehicle_id",
+          "year",
+          "make",
+          "model",
+          "vin",
+          "vehicle_class",
+          "garage_state",
+          "stated_value"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "auto_limits": {
+      "type": "object",
+      "properties": {
+        "combined_single_limit": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "uninsured_motorist": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "medical_payments": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "combined_single_limit",
+        "uninsured_motorist",
+        "medical_payments"
+      ],
+      "additionalProperties": false
+    },
+    "auto_deductible": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "insurer_panel": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "carrier": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "naic": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "carrier",
+          "naic"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "checkboxes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": {
+            "type": "string"
+          },
+          "value": {
+            "type": "string",
+            "enum": [
+              "Yes",
+              "No"
+            ]
+          }
+        },
+        "required": [
+          "field",
+          "value"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "remarks": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "form_info",
+    "header",
+    "vehicles",
+    "auto_limits",
+    "auto_deductible",
+    "insurer_panel",
+    "checkboxes",
+    "remarks"
+  ],
+  "additionalProperties": false
+}

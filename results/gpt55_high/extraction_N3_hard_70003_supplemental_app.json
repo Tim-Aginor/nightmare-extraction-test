@@ -1,0 +1,79 @@
+{
+  "business_description": {
+    "annual_revenue": 42000000,
+    "employee_count": 450,
+    "naics_code": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "years_in_business": 16
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Supplemental application only; no coverage limits or requested limits shown. Policy number listed as WC-HCHP-2025-3350.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-14",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Marcus Jennings",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history: 2024 Travelers Companies premium 686236.25 with 11 claims and no cancellations; 2023 Markel Corporation premium 619820.26 with 3 claims and no cancellations; 2022 Zurich Insurance Group premium 607294.45 with 6 claims and cancellation noted as Yes.",
+    "executive_summary": null,
+    "operations_description": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Years in business: 16. Years with current management: 16. Full-time employees: 285. Part-time employees: 165. Annual revenue/gross receipts: $42,000,000. Hours of operation: Mon-Fri 8:00 AM - 5:00 PM.",
+    "safety_programs": "Formal safety program: Yes. Written contracts with all subcontractors: Yes. 24-hour doorperson or security on premises: Yes. Written contracts with indemnification required from all contractors: Yes. Fire alarms hard-wired with central station monitoring: Yes. Material Safety Data Sheets maintained: Yes. Quality control/quality assurance program: No. OSHA citations in past 3 years: Yes. Cyber liability protections in place: No."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "name": "Hill Country Hospitality Partners, LLC",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Short-term rentals less than 1 year are permitted.",
+      "Swimming pools, exercise rooms, or other amenities are present.",
+      "Plumbing and electrical systems are original from 2005; HVAC replaced in 2020.",
+      "Building is not fully sprinklered per NFPA 13 or 13R.",
+      "No quality control/quality assurance program.",
+      "OSHA citations reported in the past 3 years.",
+      "No cyber liability protections in place.",
+      "Prior insurance history shows 20 claims across 2022-2024 and a cancellation in 2022."
+    ],
+    "loss_history_summary": "Prior insurance history shows 20 total claims for 2022-2024: 11 claims in 2024 with Travelers Companies, 3 claims in 2023 with Markel Corporation, and 6 claims in 2022 with Zurich Insurance Group. Cancellations were reported as No for 2024 and 2023, and Yes for 2022.",
+    "positives": [
+      "16 years in business and 16 years with current management.",
+      "Formal safety program in place.",
+      "Written contracts with subcontractors and indemnification required from all contractors.",
+      "24-hour doorperson or security on premises.",
+      "90% regular occupancy reported.",
+      "Fire alarms are hard-wired with central station monitoring.",
+      "Material Safety Data Sheets are maintained.",
+      "All listed premises show sprinklered as Yes in the premises schedule."
+    ]
+  }
+}

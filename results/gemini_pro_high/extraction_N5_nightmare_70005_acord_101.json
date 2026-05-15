@@ -1,0 +1,48 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2014/09",
+    "form_title": "ADDITIONAL REMARKS SCHEDULE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "FS 2025 8821",
+    "effective_date": "2025-08-01",
+    "expiration_date": null,
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AD-91021"
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "entity_type": "Corporation"
+  },
+  "additional_remarks": [
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "1. IL 09 85 01 15 - Disclosure Pursuant to Terrorism Risk Insurance Act\n2. CG 20 26 04 13 - Additional Insured - Designated Person or Organization\n3. WC 00 03 13 - Waiver of Our Right to Recover From Others Endorsement\n4. CG 24 04 05 09 - Waiver of Transfer of Rights of Recovery Against Others to Us\n5. IM 99 01 09 09 - Inland Marine Equipment Floater\n6. CP 10 30 06 07 - Causes of Loss - Special Form"
+    },
+    {
+      "section_reference": "ADDITIONAL INSURED",
+      "remark": "Quantum Realty Management Inc. is included as Additional Insured per written contract, agreement, or permit as respects General Liability."
+    },
+    {
+      "section_reference": "SPECIAL CONDITIONS",
+      "remark": "- Primary and Non-Contributory wording applies per policy endorsement.\n- Per Project Aggregate Limit applies as indicated on the endorsement schedule."
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-001: Corporate Headquarters & Main Terminal - 1200 Nationwide Boulevard, Columbus, OH 43215 (Occupancy: Warehouse)\nLOC-002: Rickenbacker Air Hub - 2500 Norton Road, Columbus, OH 43217 (Occupancy: Warehouse)\nLOC-003: Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131 (Occupancy: Warehouse)\nLOC-004: Pittsburgh Regional Terminal - 500 Technology Drive, Canonsburg, PA 15317 (Occupancy: Warehouse)"
+    }
+  ],
+  "checkboxes": [],
+  "remarks": null
+}

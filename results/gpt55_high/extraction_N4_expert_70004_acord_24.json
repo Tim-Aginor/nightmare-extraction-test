@@ -1,0 +1,95 @@
+{
+  "checkboxes": [
+    {
+      "field": "Causes of Loss - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "Earthquake",
+      "value": "No"
+    },
+    {
+      "field": "Wind",
+      "value": "No"
+    },
+    {
+      "field": "Flood",
+      "value": "No"
+    }
+  ],
+  "document_date": "2025-08-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "National Insurance Company",
+    "effective_date": "2025-08-15",
+    "expiration_date": "2026-08-15",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "CPA-25-563-998",
+    "producer_code": null,
+    "producer_name": "Steel City Insurance Group"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "National Insurance Company",
+      "naic": null
+    },
+    {
+      "carrier": "American Indemnity Company",
+      "naic": null
+    },
+    {
+      "carrier": "Atlantic Casualty Company",
+      "naic": null
+    },
+    {
+      "carrier": "Mutual Assurance Company",
+      "naic": null
+    }
+  ],
+  "locations": [
+    {
+      "address": "400 Liberty Avenue, Suite 1100",
+      "bi_value": 800000,
+      "building_value": 5000000,
+      "city": "Pittsburgh",
+      "construction": "Fire Resistive",
+      "contents_value": 1000000,
+      "fire_alarm_type": null,
+      "location_number": "1",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "PA",
+      "stories": null,
+      "tiv": 6800000,
+      "year_built": null,
+      "zip": "15222"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 10000,
+  "property_limits": {
+    "building": 5000000,
+    "business_income": 800000,
+    "contents": 1000000
+  },
+  "remarks": "Location description states: Fire Resistive, Office. Certificate holder: BuildingWise Realty Management Inc., 475 Maple Avenue, Unit 125, Birmingham, AL 35203."
+}

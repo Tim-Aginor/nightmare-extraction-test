@@ -1,0 +1,106 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "INSURANCE BINDER"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": null,
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": null
+  },
+  "binder_number": "BND-88364-6825",
+  "binder_date": "2025-09-01",
+  "expiring_carriers": [
+    {
+      "lob": "Commercial Property",
+      "carrier": "Liberty Mutual Insurance",
+      "policy_number": "CP00007001"
+    }
+  ],
+  "endorsements": [
+    {
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 04 09",
+      "title": "Equipment Breakdown Coverage",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "coverage": "Commercial Property"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "Regions Bank",
+      "address": "P.O. Box 16098, El Paso, TX 79901",
+      "loan_number": null
+    },
+    {
+      "name": "ABC Equipment Leasing Corp.",
+      "address": "P.O. Box 29249, Clarksville, TN 37040",
+      "loan_number": null
+    },
+    {
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 41583, Fargo, ND 58102",
+      "loan_number": null
+    }
+  ],
+  "property_premium": null,
+  "property_deductible": 75000,
+  "form_type_property": "Special",
+  "limit_property_building": 146260000,
+  "limit_property_contents": 42495000,
+  "limit_property_business_income": 62590000,
+  "limit_property_coinsurance": null,
+  "coinsurance_property": 80,
+  "checkboxes": [
+    {
+      "field": "Causes of Loss Basic",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss Broad",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss Special",
+      "value": "Yes"
+    }
+  ],
+  "remarks": null
+}

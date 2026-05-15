@@ -1,0 +1,95 @@
+{
+  "document_info": {
+    "document_type": "Insurance submission spreadsheet",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial building / construction operations with office, warehouse, equipment yard, and fabrication shop exposures",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 95000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Five scheduled locations with total insured value of 39405000."
+    },
+    {
+      "coverage_type": "Automobile",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Driver schedule lists 15 Pennsylvania-licensed drivers."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary reflects 8 GL claims with 176947 total incurred."
+    },
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary reflects 35 WC claims with 1176100 total incurred."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Four of five locations are sprinklered.",
+      "Operations are limited to Pennsylvania.",
+      "Driver schedule lists 15 PA-licensed drivers with 5 to 28 years of experience.",
+      "Financials show 95000000 in revenue and 5997400 net income."
+    ],
+    "concerns": [
+      "One warehouse location is unsprinklered.",
+      "Workers' compensation loss activity is the most significant, with 35 claims and 1176100 incurred.",
+      "Property concentration is within Pennsylvania, primarily the Pittsburgh area.",
+      "Fabrication/manufacturing exposure exists at the fabrication shop location."
+    ],
+    "loss_history_summary": "Loss summary shows WC 35 claims with 1176100 total incurred, GL 8 claims with 176947 total incurred, Auto 8 claims with 99900 total incurred, and Property 1 claim with 36750 total incurred. Insurance history shows annual premiums of 1581292.51 in 2020, 1487006.51 in 2021, 1369245.71 in 2022, 1476849.96 in 2023, and 1634721.63 in 2024, with annual claim counts ranging from 4 to 15."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 15,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

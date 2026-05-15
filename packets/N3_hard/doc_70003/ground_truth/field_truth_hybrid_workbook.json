@@ -1,0 +1,295 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    }
+  },
+  "doc_type": "hybrid_workbook",
+  "excel_metadata": {
+    "combination": "full_commercial",
+    "tab_types": {
+      "Property Schedule": "sov",
+      "Drivers": "drivers",
+      "Financial Statements": "financials",
+      "Insurance History": "prior_carriers",
+      "Insured Entities": "named_insureds",
+      "Loss Summary": "loss_summary"
+    },
+    "tab_order": [
+      "Property Schedule",
+      "Drivers",
+      "Financial Statements",
+      "Insurance History",
+      "Insured Entities",
+      "Loss Summary"
+    ],
+    "primary_tab": "Property Schedule",
+    "tabs": {
+      "Property Schedule": {
+        "type": "sov",
+        "location_count": 8,
+        "header_row": 1,
+        "data_start_row": 2,
+        "column_keys": [
+          "schedule_id",
+          "name",
+          "address",
+          "city",
+          "state",
+          "zip_code",
+          "construction",
+          "occupancy",
+          "year_built",
+          "stories",
+          "square_feet",
+          "unit_count",
+          "sprinklered",
+          "roof_type",
+          "building_value",
+          "contents_value",
+          "bi_value",
+          "tiv"
+        ],
+        "header_mapping": {
+          "schedule_id": "Loc #",
+          "name": "Name",
+          "address": "Address",
+          "city": "City",
+          "state": "State",
+          "zip_code": "Zip",
+          "construction": "Construction",
+          "occupancy": "Occupancy",
+          "year_built": "Year Built",
+          "stories": "Stories",
+          "square_feet": "Sq Ft",
+          "unit_count": "# Units",
+          "sprinklered": "Sprinkler",
+          "roof_type": "Roof Type",
+          "building_value": "Building Value",
+          "contents_value": "Contents Value",
+          "bi_value": "BI Value",
+          "tiv": "TIV"
+        },
+        "locations": [
+          {
+            "schedule_id": "LOC-001",
+            "name": "The Driskill Austin",
+            "address": "604 Brazos Street",
+            "city": "Austin",
+            "state": "TX",
+            "zip_code": "78701",
+            "construction": "Fire Resistive",
+            "occupancy": "Hotel",
+            "year_built": 2010,
+            "stories": 8,
+            "square_feet": 95000,
+            "unit_count": 0,
+            "sprinklered": true,
+            "roof_type": "TPO",
+            "building_value": 28500000,
+            "contents_value": 7125000,
+            "bi_value": 10687500,
+            "tiv": 46312500
+          },
+          {
+            "schedule_id": "LOC-002",
+            "name": "Riverwalk Suites San Antonio",
+            "address": "112 College Street",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip_code": "78205",
+            "construction": "Fire Resistive",
+            "occupancy": "Hotel",
+            "year_built": 2006,
+            "stories": 12,
+            "square_feet": 142000,
+            "unit_count": 0,
+            "sprinklered": true,
+            "roof_type": "Metal",
+            "building_value": 39760000,
+            "contents_value": 9940000,
+            "bi_value": 14910000,
+            "tiv": 64610000
+          },
+          {
+            "schedule_id": "LOC-003",
+            "name": "Fredericksburg Inn & Spa",
+            "address": "245 East Main Street",
+            "city": "Fredericksburg",
+            "state": "TX",
+            "zip_code": "78624",
+            "construction": "Masonry Non-Combustible",
+            "occupancy": "Hotel",
+            "year_built": 1998,
+            "stories": 3,
+            "square_feet": 48000,
+            "unit_count": 0,
+            "sprinklered": true,
+            "roof_type": "Built-Up",
+            "building_value": 10560000,
+            "contents_value": 2640000,
+            "bi_value": 3960000,
+            "tiv": 17160000
+          },
+          {
+            "schedule_id": "LOC-004",
+            "name": "South Congress Motor Hotel",
+            "address": "1220 South Congress Avenue",
+            "city": "Austin",
+            "state": "TX",
+            "zip_code": "78704",
+            "construction": "Masonry Non-Combustible",
+            "occupancy": "Hotel",
+            "year_built": 2015,
+            "stories": 4,
+            "square_feet": 62000,
+            "unit_count": 0,
+            "sprinklered": true,
+            "roof_type": "Concrete",
+            "building_value": 15500000,
+            "contents_value": 3875000,
+            "bi_value": 5812500,
+            "tiv": 25187500
+          },
+          {
+            "schedule_id": "LOC-005",
+            "name": "Blanco River Steakhouse",
+            "address": "608 Brazos Street",
+            "city": "Austin",
+            "state": "TX",
+            "zip_code": "78701",
+            "construction": "Fire Resistive",
+            "occupancy": "Restaurant",
+            "year_built": 2010,
+            "stories": 1,
+            "square_feet": 8500,
+            "unit_count": 0,
+            "sprinklered": true,
+            "roof_type": "Metal",
+            "building_value": 2550000,
+            "contents_value": 850000,
+            "bi_value": 1700000,
+            "tiv": 5100000
+          },
+          {
+            "schedule_id": "LOC-006",
+            "name": "The Oasis at Lake Travis",
+            "address": "6550 Comanche Trail",
+            "city": "Austin",
+            "state": "TX",
+            "zip_code": "78732",
+            "construction": "Non-Combustible",
+            "occupancy": "Restaurant",
+            "year_built": 2012,
+            "stories": 2,
+            "square_feet": 12000,
+            "unit_count": 0,
+            "sprinklered": true,
+            "roof_type": "EPDM",
+            "building_value": 3000000,
+            "contents_value": 900000,
+            "bi_value": 1800000,
+            "tiv": 5700000
+          },
+          {
+            "schedule_id": "LOC-007",
+            "name": "Mission Cantina - Pearl District",
+            "address": "303 Pearl Parkway",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip_code": "78215",
+            "construction": "Joisted Masonry",
+            "occupancy": "Restaurant",
+            "year_built": 2014,
+            "stories": 1,
+            "square_feet": 6800,
+            "unit_count": 0,
+            "sprinklered": true,
+            "roof_type": "EPDM",
+            "building_value": 1700000,
+            "contents_value": 510000,
+            "bi_value": 1020000,
+            "tiv": 3230000
+          },
+          {
+            "schedule_id": "LOC-008",
+            "name": "Corporate Headquarters",
+            "address": "401 Congress Avenue, Suite 2800",
+            "city": "Austin",
+            "state": "TX",
+            "zip_code": "78701",
+            "construction": "Fire Resistive",
+            "occupancy": "Office",
+            "year_built": 2008,
+            "stories": 1,
+            "square_feet": 6200,
+            "unit_count": 0,
+            "sprinklered": true,
+            "roof_type": "Shingle",
+            "building_value": 0,
+            "contents_value": 310000,
+            "bi_value": 620000,
+            "tiv": 930000
+          }
+        ]
+      },
+      "Drivers": {
+        "type": "drivers",
+        "driver_count": 0
+      },
+      "Financial Statements": {
+        "type": "financials",
+        "revenue": 42000000
+      },
+      "Insurance History": {
+        "type": "prior_carriers",
+        "row_count": 5
+      },
+      "Insured Entities": {
+        "type": "named_insureds",
+        "entity_count": 9,
+        "mode": "per_location"
+      },
+      "Loss Summary": {
+        "type": "loss_summary",
+        "coverages": [
+          {
+            "coverage": "wc",
+            "claim_count": 28,
+            "total_paid": 324545.0,
+            "total_incurred": 415934.0
+          },
+          {
+            "coverage": "gl",
+            "claim_count": 8,
+            "total_paid": 8780.0,
+            "total_incurred": 82656.0
+          },
+          {
+            "coverage": "property",
+            "claim_count": 2,
+            "total_paid": 178566.0,
+            "total_incurred": 215927.0
+          }
+        ]
+      }
+    },
+    "cross_tab_references": [],
+    "tab_freshness": {
+      "Property Schedule": "current",
+      "Drivers": "current",
+      "Financial Statements": "current",
+      "Insurance History": "current",
+      "Insured Entities": "current",
+      "Loss Summary": "current"
+    },
+    "merged_regions": [],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {}
+  },
+  "format": "xlsx"
+}

@@ -1,0 +1,331 @@
+{
+  "form_info": {
+    "form_number": "ACORD 160",
+    "form_edition": "2016/03",
+    "form_title": "Businessowners Application"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": "AG-224177",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-HCHP-2025-3352",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "sic_code": "7011",
+    "naics_code": "721110",
+    "years_in_business": 16,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 101570000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Personal Property",
+      "limit": 26150000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense",
+      "limit": 40510000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products/Completed Operations",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Advertising Injury",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Premises Rented to You",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Expense (Any One Person)",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Funds Transfer Fraud",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Tenant Legal Liability",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Exterior Glass",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Electronic Data Processing",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Cyber Liability",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Computer Fraud",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Debris Removal - Additional",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Expenses",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Money & Securities - Inside",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "cooking_operations_on_premises": "No",
+    "responsible_for_building_maintenance": "Yes",
+    "off_premises_property_exposures": "No",
+    "sells_or_distributes_products_manufactured_by_others": "No",
+    "underground_storage_tanks_on_premises": "No",
+    "stores_flammable_liquids_on_premises": "No",
+    "building_has_backup_generator": "No",
+    "sole_occupant_of_building": "Yes",
+    "applicant_is_building_owner_or_tenant": "Yes",
+    "building_100_percent_sprinklered": "Yes",
+    "tenant_improvements_or_betterments": "Yes"
+  },
+  "additional_fields": {
+    "date": "2026-03-14",
+    "contact": "Marcus Jennings",
+    "full_time_employees": "285",
+    "part_time_employees": "165",
+    "website": "www.hicountryhospitalityp.com",
+    "annual_revenue": "42000000",
+    "billing_plan": "Direct Bill - Quarterly",
+    "premium": "265469.62",
+    "deductible": "25000",
+    "valuation": "Replacement Cost",
+    "total_insured_value": "168230000",
+    "premises": [
+      {
+        "premises_number": "1",
+        "location_id": "LOC-001",
+        "address": "604 Brazos Street, Austin, TX, 78701",
+        "description": "Hotel",
+        "construction_type": "Fire Resistive",
+        "roof_type": "TPO",
+        "protection_class": "5",
+        "year_built": "2010",
+        "number_of_stories": "8",
+        "total_area_sqft": "95000",
+        "sprinklered": "Yes",
+        "occupancy": "Hotel",
+        "building_value": "28500000",
+        "contents_bpp": "7125000",
+        "business_income": "10687500",
+        "total_insured_value": "46312500"
+      },
+      {
+        "premises_number": "2",
+        "location_id": "LOC-002",
+        "address": "112 College Street, San Antonio, TX, 78205",
+        "description": "Hotel",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Metal",
+        "protection_class": "2",
+        "year_built": "2006",
+        "number_of_stories": "12",
+        "total_area_sqft": "142000",
+        "sprinklered": "Yes",
+        "occupancy": "Hotel",
+        "building_value": "39760000",
+        "contents_bpp": "9940000",
+        "business_income": "14910000",
+        "total_insured_value": "64610000"
+      },
+      {
+        "premises_number": "3",
+        "location_id": "LOC-003",
+        "address": "245 East Main Street, Fredericksburg, TX, 78624",
+        "description": "Hotel",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Built-Up",
+        "protection_class": "1",
+        "year_built": "1998",
+        "number_of_stories": "3",
+        "total_area_sqft": "48000",
+        "sprinklered": "Yes",
+        "occupancy": "Hotel",
+        "building_value": "10560000",
+        "contents_bpp": "2640000",
+        "business_income": "3960000",
+        "total_insured_value": "17160000"
+      },
+      {
+        "premises_number": "4",
+        "location_id": "LOC-004",
+        "address": "1220 South Congress Avenue, Austin, TX, 78704",
+        "description": "Hotel",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": "2",
+        "year_built": "2015",
+        "number_of_stories": "4",
+        "total_area_sqft": "62000",
+        "sprinklered": "Yes",
+        "occupancy": "Hotel",
+        "building_value": "15500000",
+        "contents_bpp": "3875000",
+        "business_income": "5812500",
+        "total_insured_value": "25187500"
+      },
+      {
+        "premises_number": "5",
+        "location_id": "LOC-005",
+        "address": "608 Brazos Street, Austin, TX, 78701",
+        "description": "Restaurant",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Metal",
+        "protection_class": "2",
+        "year_built": "2010",
+        "number_of_stories": "1",
+        "total_area_sqft": "8500",
+        "sprinklered": "Yes",
+        "occupancy": "Restaurant",
+        "building_value": "2550000",
+        "contents_bpp": "850000",
+        "business_income": "1700000",
+        "total_insured_value": "5100000"
+      },
+      {
+        "premises_number": "6",
+        "location_id": "LOC-006",
+        "address": "6550 Comanche Trail, Austin, TX, 78732",
+        "description": "Restaurant",
+        "construction_type": "Non-Combustible",
+        "roof_type": "EPDM",
+        "protection_class": "5",
+        "year_built": "2012",
+        "number_of_stories": "2",
+        "total_area_sqft": "12000",
+        "sprinklered": "Yes",
+        "occupancy": "Restaurant",
+        "building_value": "3000000",
+        "contents_bpp": "900000",
+        "business_income": "1800000",
+        "total_insured_value": "5700000"
+      },
+      {
+        "premises_number": "7",
+        "location_id": "LOC-007",
+        "address": "303 Pearl Parkway, San Antonio, TX, 78215",
+        "description": "Restaurant",
+        "construction_type": "Joisted Masonry",
+        "roof_type": "EPDM",
+        "protection_class": "4",
+        "year_built": "2014",
+        "number_of_stories": "1",
+        "total_area_sqft": "6800",
+        "sprinklered": "Yes",
+        "occupancy": "Restaurant",
+        "building_value": "1700000",
+        "contents_bpp": "510000",
+        "business_income": "1020000",
+        "total_insured_value": "3230000"
+      },
+      {
+        "premises_number": "8",
+        "location_id": "LOC-008",
+        "address": "401 Congress Avenue, Suite 2800, Austin, TX, 78701",
+        "description": "Office",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Shingle",
+        "protection_class": "5",
+        "year_built": "2008",
+        "number_of_stories": "1",
+        "total_area_sqft": "6200",
+        "sprinklered": "Yes",
+        "occupancy": "Office",
+        "building_value": "0",
+        "contents_bpp": "310000",
+        "business_income": "620000",
+        "total_insured_value": "930000"
+      }
+    ],
+    "additional_interests": [
+      {
+        "type": "ISAOA/ATIMA",
+        "name": "Capital Lending Corp",
+        "address": "P.O. Box 26537, Detroit, MI 48226",
+        "loan_reference_number": "L-550894836"
+      }
+    ],
+    "applicant_signature": "Christina Montoya",
+    "applicant_signature_date": "2026-03-14",
+    "applicant_title": "Chief Executive Officer",
+    "agent_signature": "Marcus Jennings",
+    "agent_signature_date": "2026-03-14",
+    "agency_license_number": "AG-224177",
+    "data_quality_issues": [
+      "Exterior Glass deductible field contains placeholder 'DEADBEEF_MISSING_DEDUCTIBLE'",
+      "Debris Removal - Additional deductible field contains placeholder 'DEADBEEF_MISSING_DEDUCTIBLE'",
+      "Medical Expenses deductible field contains placeholder 'DEADBEEF_MISSING_DEDUCTIBLE'",
+      "Money & Securities - Inside deductible field contains placeholder 'DEADBEEF_MISSING_DEDUCTIBLE'"
+    ]
+  },
+  "remarks": null
+}

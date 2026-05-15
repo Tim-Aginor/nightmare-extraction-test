@@ -1,0 +1,66 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Prior insurance history",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "2024: policy numbers WC-8098-9663, 0000005824, CP003220-001; 11 claims; cancellation: No. 2023: Markel Corporation; policy numbers 7WC0009522, 0000002291, CP-1970-9645; premium 619820.26; 3 claims; cancellation: No. 2022: Zurich Insurance Group; policy numbers 0000004808, GL-0002700, 7CP0001066; premium 607294.45; 6 claims; cancellation: Yes. 2021: Chubb Limited; policy numbers 0000008163, GL-8167-3439, CP-0009781; premium 630843.2; 9 claims; cancellation: No. 2020: EMPLOYERS Insurance Group; policy numbers WC008082-001, GL-4906-7512, CP00007431; premium 580805.53; 2 claims; cancellation: No.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Prior Insurance History",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history shows 31 total claims across 2020-2024: 11 in 2024, 3 in 2023, 6 in 2022, 9 in 2021, and 2 in 2020. Loss ratio values were not provided.",
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": null,
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "11 claims shown for 2024, the highest annual claim count in the provided period.",
+      "Prior insurance history indicates cancellation in 2022 with Zurich Insurance Group.",
+      "Loss ratio values were not provided."
+    ],
+    "loss_history_summary": "Prior insurance history lists 31 total claims from 2020 through 2024. Annual claim counts were 2024: 11, 2023: 3, 2022: 6, 2021: 9, and 2020: 2. Premiums were provided for 2020-2023 but not 2024; loss ratios were blank.",
+    "positives": [
+      "No cancellation shown for 2020, 2021, 2023, and 2024.",
+      "Claims decreased from 9 in 2021 to 6 in 2022 and 3 in 2023 before increasing in 2024."
+    ]
+  }
+}

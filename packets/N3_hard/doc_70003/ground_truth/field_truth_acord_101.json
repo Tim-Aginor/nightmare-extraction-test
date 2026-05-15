@@ -1,0 +1,99 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_number": {
+      "value": "WC-HCHP-2025-3350"
+    },
+    "parent_form_reference": {
+      "value": "ACORD 130"
+    },
+    "agency_name": {
+      "value": "Capitol Insurance Advisors"
+    },
+    "nature_of_operations": {
+      "value": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+    },
+    "entity_type": {
+      "value": "LLC"
+    }
+  },
+  "doc_type": "acord_101",
+  "endorsements": [
+    "WC 00 03 01A \u2014 Alternate Employer Endorsement",
+    "WC 00 03 13 \u2014 Waiver of Our Right to Recover From Others Endorsement",
+    "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+    "CG 21 47 12 07 \u2014 Employment-Related Practices Exclusion"
+  ],
+  "additional_insureds": [
+    {
+      "name": "Dusk Realty Management Inc.",
+      "address": "619 Lake Street, Springfield, MO, 65801"
+    },
+    {
+      "name": "Eagle Properties LLC",
+      "address": "4715 Maple Avenue, Unit 129, Rochester, NY, 14602"
+    }
+  ],
+  "special_conditions": [
+    "Waiver of Subrogation applies in favor of the certificate holder as required by written contract."
+  ],
+  "location_descriptions": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "The Driskill Austin",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "occupancy": "Hotel"
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Riverwalk Suites San Antonio",
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78205",
+      "occupancy": "Hotel"
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Fredericksburg Inn & Spa",
+      "address": "245 East Main Street",
+      "city": "Fredericksburg",
+      "state": "TX",
+      "zip_code": "78624",
+      "occupancy": "Hotel"
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "South Congress Motor Hotel",
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78704",
+      "occupancy": "Hotel"
+    }
+  ]
+}

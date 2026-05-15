@@ -1,0 +1,294 @@
+{
+  "form_info": {
+    "form_number": "ACORD 160",
+    "form_edition": "2016/10",
+    "form_title": "BUSINESSOWNERS APPLICATION"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CPHOP-BP-2025-3352",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": "AG-224177"
+  },
+  "applicant_info": {
+    "fein": "74-6128423",
+    "sic_code": "7011",
+    "naics_code": "721110",
+    "years_in_business": 16,
+    "nature_of_business": "Ownership and management of boutique hotels and upscale restaurant and event operations across Central and South Texas",
+    "entity_type": "LLC"
+  },
+  "locations": [
+    {
+      "location_number": "LOC-001",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": 2010,
+      "stories": 8,
+      "square_feet": 95000,
+      "sprinklered": true,
+      "roof_type": "TPO",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 73500000,
+      "contents_value": 7125000,
+      "bi_value": 10687500,
+      "tiv": 91312500
+    },
+    {
+      "location_number": "LOC-002",
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78205",
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": 2006,
+      "stories": 12,
+      "square_feet": 142000,
+      "sprinklered": true,
+      "roof_type": "Metal",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 39750000,
+      "contents_value": 3960000,
+      "bi_value": 14190000,
+      "tiv": 58410000
+    },
+    {
+      "location_number": "LOC-003",
+      "address": "305 East Main Street",
+      "city": "Fredericksburg",
+      "state": "TX",
+      "zip": "78624",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Hotel",
+      "year_built": 1998,
+      "stories": 3,
+      "square_feet": 48000,
+      "sprinklered": true,
+      "roof_type": "Built-Up",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 10560000,
+      "contents_value": 660000,
+      "bi_value": 5940000,
+      "tiv": 17160000
+    },
+    {
+      "location_number": "LOC-004",
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78704",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Hotel",
+      "year_built": 2015,
+      "stories": 4,
+      "square_feet": 52000,
+      "sprinklered": true,
+      "roof_type": "Concrete",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 14300000,
+      "contents_value": 1375000,
+      "bi_value": 5812500,
+      "tiv": 21487500
+    },
+    {
+      "location_number": "LOC-005",
+      "address": "208 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Restaurant",
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": 8500,
+      "sprinklered": true,
+      "roof_type": "Metal",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 2550000,
+      "contents_value": 850000,
+      "bi_value": 1700000,
+      "tiv": 5100000
+    },
+    {
+      "location_number": "LOC-006",
+      "address": "6500 Comanche Trail",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78732",
+      "construction": "Non-Combustible",
+      "occupancy": "Restaurant",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 12000,
+      "sprinklered": true,
+      "roof_type": "EPDM",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 2100000,
+      "contents_value": 900000,
+      "bi_value": 1800000,
+      "tiv": 4800000
+    },
+    {
+      "location_number": "LOC-007",
+      "address": "820 Pearl Parkway",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78215",
+      "construction": "Joisted Masonry",
+      "occupancy": "Restaurant",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 6500,
+      "sprinklered": true,
+      "roof_type": "EPDM",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 1700000,
+      "contents_value": 410000,
+      "bi_value": 1120000,
+      "tiv": 3230000
+    },
+    {
+      "location_number": "LOC-008",
+      "address": "401 Congress Avenue, Suite 2800",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 6200,
+      "sprinklered": true,
+      "roof_type": "Shingle",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 0,
+      "contents_value": 310000,
+      "bi_value": 620000,
+      "tiv": 930000
+    }
+  ],
+  "additional_coverages": [
+    {
+      "coverage_type": "Funds Transfer Fraud",
+      "limit": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Tenant Legal Liability",
+      "limit": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Exterior Glass",
+      "limit": 5000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Electronic Data Processing",
+      "limit": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Cyber Liability",
+      "limit": 100000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Computer Fraud",
+      "limit": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Debris Removal - Additional",
+      "limit": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Expenses",
+      "limit": 5000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Money & Securities - Inside",
+      "limit": 10000,
+      "premium": null
+    }
+  ],
+  "interests": [
+    {
+      "name": "Capital Lending Corp",
+      "loan_number": "CL-89824-HC",
+      "interest_type": "ISAOATIMA"
+    }
+  ],
+  "property_premium": 265489.62,
+  "property_deductible": 10000,
+  "total_tiv": 168230000,
+  "checkboxes": [
+    {
+      "field": "cooking_operations_on_premises",
+      "value": "No"
+    },
+    {
+      "field": "applicant_responsible_for_building_maintenance",
+      "value": "Yes"
+    },
+    {
+      "field": "off_premises_property_exposures",
+      "value": "No"
+    },
+    {
+      "field": "sell_or_distribute_products_manufactured_by_others",
+      "value": "No"
+    },
+    {
+      "field": "playground_sports_or_recreational_areas_on_premises",
+      "value": "No"
+    },
+    {
+      "field": "store_flammable_liquids_on_premises",
+      "value": "No"
+    },
+    {
+      "field": "building_has_backup_generator",
+      "value": "No"
+    },
+    {
+      "field": "applicant_is_sole_occupant_of_building",
+      "value": "Yes"
+    },
+    {
+      "field": "applicant_is_building_owner_or_lessor",
+      "value": "Yes"
+    },
+    {
+      "field": "building_100_percent_sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "tenant_improvements_or_betterments",
+      "value": "Yes"
+    }
+  ],
+  "remarks": null
+}

@@ -89,6 +89,33 @@ _KIND_KEYS = {
 }
 
 
+def field_breakdown_table(breakdown: dict, effort: str) -> str:
+    """Recall-side view: for each model at the given effort, show the
+    three-way split of GT-populated fields into correct / wrong-value /
+    omitted. Addresses the "but what about hallucinations-via-omission?"
+    objection: hallucination rate alone is precision-side (denominator =
+    values the model emitted), so a model that returns null on hard fields
+    gets a smaller denominator. The recall-side numbers below use a fixed
+    GT-fields denominator across models so omissions are visible."""
+    headers = ["Model", "GT fields", "Correct", "Wrong value", "Omitted", "Any error"]
+    models = _models_for_effort(effort)
+    rows = []
+    for base in models:
+        cohort = _effort_key(base, effort)
+        c = breakdown.get(cohort, {}).get("overall")
+        if not c:
+            continue
+        rows.append([
+            MODEL_DISPLAY[base],
+            str(c.get("fields_scored", 0)),
+            _fmt_rate(c.get("correctness_rate_micro")),
+            _fmt_rate(c.get("wrong_value_rate_micro")),
+            _fmt_rate(c.get("omission_rate_micro")),
+            _fmt_rate(c.get("any_error_rate_micro")),
+        ])
+    return _markdown_table(headers, rows)
+
+
 def overall_table(report: dict, kind: str) -> str:
     check_k, hall_k, rate_k = _KIND_KEYS[kind]
     noun = "Numbers" if kind == "numeric" else "Strings"
@@ -292,6 +319,14 @@ def per_model_counts_block(report: dict) -> str:
         "column is taken from the first model with data at that group "
         "(typically GPT-5.4) and does not reflect deeper exclusions for "
         f"other models.{sonnet_caveat}"
+        "\n\n"
+        "The smallest per-category cells (Dec Page n=5, Driver Schedule n=4, "
+        "Engineering Report n=4) carry too few numeric facts per cohort for "
+        "single-cell model comparisons to be meaningful — a single hallucinated "
+        "value can move the rate 1-3pp. Use the headline numbers and the "
+        "per-difficulty tables (each n=25-36) for cross-model claims; the "
+        "small-N category cells are kept for completeness. v2 fills these in "
+        "as packet count grows."
     )
     return f"{intro}\n\n{table}\n\n{outro}"
 
@@ -308,6 +343,12 @@ def main():
         return
 
     report = json.loads(report_path.read_text())
+
+    # Recall-side breakdown is optional — only emitted if scoring +
+    # omission_breakdown.py have been run. Headline hallucination
+    # tables stand alone if the file is missing.
+    breakdown_path = args.results / "analysis" / "field_breakdown.json"
+    breakdown = json.loads(breakdown_path.read_text()) if breakdown_path.exists() else None
     loaded = [m for m in PUBLISHED_MODELS if m in report]
     variants_present = sum(
         1 for base in PUBLISHED_MODELS for level in EFFORT_LEVELS
@@ -322,7 +363,8 @@ def main():
     lines.append("")
     lines.append(
         "Fabricated-value rates measured against the render-source universe "
-        "(generator ground-truth JSONs + pdftotext + openpyxl cells + OCR fallback). "
+        "(packet ground-truth + per-document generator artifacts: "
+        "document_truth, field_truth, manifest, packet_truth JSON). "
         "A hallucination is an extracted value that doesn't match any value present "
         "in the source document or its render-time ground truth, after normalization."
     )
@@ -338,10 +380,12 @@ def main():
     lines.append("### Overall (default effort)")
     lines.append("")
     lines.append(
-        "Gemini 3.1 Pro is excluded from default-effort tables - its API "
-        "default is HIGH (no thinking-off mode), so a default-vs-default row "
-        "would not be a matched comparison. It appears in the matched HIGH "
-        "and XHIGH tables below."
+        "Gemini 3.1 Pro is omitted from this default-only table because "
+        "its API default is already HIGH (no thinking-off mode), so a "
+        "default-vs-default row would not be a matched comparison. "
+        "Gemini's effective-default cell *is* shown in the cross-effort "
+        "pivot below for completeness, but it represents HIGH-effort "
+        "behavior, not thinking-off."
     )
     lines.append("")
     lines.append(overall_table(report, "numeric"))
@@ -378,7 +422,7 @@ def main():
     lines.append("### Overall (default effort)")
     lines.append("")
     lines.append(
-        "Gemini 3.1 Pro is excluded from default-effort tables - see the "
+        "Gemini 3.1 Pro is omitted from this default-only table — see the "
         "note at the top of the numeric section."
     )
     lines.append("")
@@ -399,6 +443,140 @@ def main():
         lines.append(f"### By category / difficulty - {EFFORT_DISPLAY[level]} effort")
         lines.append("")
         _emit_breakdowns_for_effort(lines, report, "string", level)
+
+    if breakdown is not None:
+        lines.append("## Field-level error breakdown (recall view)")
+        lines.append("")
+        lines.append(
+            "The headline hallucination rates above are **precision-side**: "
+            "denominator = values the model emitted, so a model that returns "
+            "`null` on hard fields gets a smaller denominator and looks better. "
+            "This section flips to the **recall side**: denominator = "
+            "GT-populated fields, and a `null` where GT has a value counts as "
+            "an omission. Reading both together is the honest answer to \"does "
+            "the headline credit models for refusing to answer?\""
+        )
+        lines.append("")
+        lines.append(
+            "**Empirically the omission rate is roughly constant across all "
+            "models (~19-21% of GT-populated fields).** The cross-model spread "
+            "lives in the wrong-value column, not the omitted column — i.e. "
+            "models aren't gaming the headline by being selectively silent."
+        )
+        lines.append("")
+        lines.append(
+            "The ~20% omission floor is not a model defect on its own. The "
+            "per-doc-type extraction prompts deliberately don't ask for every "
+            "field that GT records (e.g., the SOV prompt asks for the SOV "
+            "fields, not the producer's mailing address). Fields outside the "
+            "prompt's scope show up here as omissions because the GT-side "
+            "denominator covers everything generator-side, not just what we "
+            "asked the model to extract. The *cross-model* delta is the "
+            "interpretable signal; the floor is a property of the prompt "
+            "design."
+        )
+        lines.append("")
+        for level in EFFORT_LEVELS:
+            lines.append(f"### {EFFORT_DISPLAY[level]} effort")
+            lines.append("")
+            lines.append(field_breakdown_table(breakdown, level))
+            lines.append("")
+
+    lines.append("## Methodology notes")
+    lines.append("")
+    lines.append(
+        "- **Universe construction.** For each packet, the analyzer pools "
+        "the packet GT plus every generator-side `document_truth_*.json`, "
+        "`field_truth_*.json`, `manifest_*.json`, and `packet_truth.json` "
+        "under `packets/{public,private}/<difficulty>/doc_<seed>/ground_truth/`. "
+        "A pre-2026-05-11 audit caught the path resolver silently failing on "
+        "the canonical layout, which had left tier-2 ingest as a no-op and "
+        "inflated string rates by 4.5–7.9pp and numeric rates by 0.9–2.4pp "
+        "per model. Numbers below are post-fix."
+    )
+    lines.append("")
+    lines.append(
+        "- **Packet-wide pooling.** Customer info (insured / producer / preparer "
+        "/ carrier) is shared across docs in a packet. The universe is pooled "
+        "per-packet so a real value modeled in doc-A's GT but not doc-B's "
+        "doesn't false-flag on doc-B. Trade-off: a fabrication on doc-A that "
+        "happens to coincide with a real GT value on doc-B passes here. "
+        "Mitigated by per-doc-type sub-key audits in `internal_consistency.py`."
+    )
+    lines.append("")
+    lines.append(
+        "- **ACORD enum aliasing.** ACORD 125/140/160/24/27/28/45 schemas "
+        "hard-enum `construction` and `roof_type` to short ACORD-formal lists; "
+        "SOV/engineering schemas leave them as free strings. OpenAI/Gemini "
+        "strict-mode silently nulls off-enum values while Anthropic tool_use "
+        "emits literals. `score.py` accepts the documented "
+        "abbreviation/full-name mappings in either direction (e.g., `MNC` "
+        "matches `Masonry Non-Combustible`) so the same building is scored "
+        "the same way regardless of which schema it appears under."
+    )
+    lines.append("")
+    lines.append(
+        "- **Exact-match numeric scoring.** Both `score.py` and "
+        "`hallucination_analysis.py` compare numbers by exact equality "
+        "after `to_float()` normalization (\"$1,500,000\" → `1500000.0`). "
+        "v0 carried an inherited ±1% relative tolerance with a 0.5 "
+        "absolute floor for `|val|<50`; an audit caught it masking real "
+        "model errors (cents-truncated $153,631 against $153,631.51, "
+        "$24,344,800 against rendered $24,514,100, year off-by-one "
+        "silently scored correct). Villify renders exact numeric values "
+        "and ground truth mirrors them, so any post-normalization "
+        "mismatch is model error — the band was hiding the exact failure "
+        "mode the test exists to surface. Numeric hallucination rates "
+        "moved up 2–8pp per cohort against the tolerance-era numbers."
+    )
+    lines.append("")
+    lines.append(
+        "- **Composite scoring.** `score.py` composite weighting "
+        "redistributes pro-rata when a component returns None (e.g., no "
+        "matched locations → no field comparisons available). This means the "
+        "composite is averaged over present components per-doc; readers "
+        "comparing composite_score across models should treat it as a "
+        "supplementary measure. The headline numbers above (hallucination "
+        "rates) do not use this composite."
+    )
+    lines.append("")
+    lines.append(
+        "- **Micro vs macro averaging.** Headline rates are micro-averaged: "
+        "`total_hallucinated / total_checked` summed across the 148 docs of "
+        "a cohort. Per-doc macro averages (mean of per-doc rates) are "
+        "available in `paired_stats.json → difficulty_bootstrap` and within "
+        "the per-doc score files; they tell a similar story but weight all "
+        "docs equally regardless of how many numbers/strings the doc "
+        "carries."
+    )
+    lines.append("")
+    lines.append(
+        "- **Single trial per (model, effort, doc).** No `seed` is passed "
+        "on any provider path — the Anthropic API exposes no `seed` "
+        "parameter as of 2026-05, and reasoning calls also require "
+        "`temperature=1.0`, so all three providers are equally unseeded "
+        "for symmetry. Point estimates would shift by ≤0.5pp on a fresh "
+        "re-run; the bootstrap 95% CIs in "
+        "`paired_stats.json → difficulty_bootstrap` are the conservative "
+        "read on that residual noise."
+    )
+    lines.append("")
+    lines.append(
+        "- **Doc-level independence in the sign test.** The sign tests in "
+        "`paired_stats.json` treat the 148 docs as independent. Customer "
+        "info is pooled per-packet (insured/producer/preparer shared "
+        "across the ~25-36 docs in a packet), so errors within a packet "
+        "correlate slightly. The bootstrap CIs (resampled per-doc) are "
+        "the right number to cite when within-packet correlation matters."
+    )
+    lines.append("")
+    lines.append(
+        "- **Determinism gate.** `scripts/determinism_test.py` runs the "
+        "analyzer in four subprocesses with different `PYTHONHASHSEED` "
+        "values and asserts byte-identical output. rc=0 is a hard "
+        "pre-publish gate."
+    )
+    lines.append("")
 
     args.output.write_text("\n".join(lines))
     print(f"Report written to: {args.output}")

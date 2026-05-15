@@ -1,0 +1,118 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-05-01",
+    "prepared_by": "Capitol Insurance Advisors",
+    "recipient": "Hill Country Hospitality Partners, LLC"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": "7011",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial General Liability \u2014 Each Occurrence",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": 108425.47,
+      "notes": "Policy Number GL-HCHP-2025-3351; Form GL 00 01 04 13"
+    },
+    {
+      "coverage_type": "Commercial General Liability \u2014 General Aggregate",
+      "current_limit": 2000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Commercial General Liability \u2014 Products-Completed Operations Aggregate",
+      "current_limit": 2000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Commercial General Liability \u2014 Personal and Advertising Injury",
+      "current_limit": 500000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Coverage B"
+    },
+    {
+      "coverage_type": "Commercial General Liability \u2014 Damage to Rented Premises",
+      "current_limit": 50000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Commercial General Liability \u2014 Medical Expense (Coverage C)",
+      "current_limit": 10000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Per-person medical expense limit"
+    },
+    {
+      "coverage_type": "Deductible",
+      "current_limit": 5000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Per-occurrence deductible"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Supplementary payments for defense costs are outside policy limits under Coverages A and B",
+      "Waiver of subrogation endorsement included (CG 24 04)",
+      "Designated Construction Projects General Aggregate Limit endorsement provides separate aggregate per project (CG 25 03)",
+      "Additional insured coverage extended to owners, lessees or contractors for both ongoing operations and completed operations"
+    ],
+    "concerns": [
+      "Exclusion \u2014 Designated Operations/Premises endorsement (CG 21 44) excludes bodily injury and property damage arising from designated operations or premises",
+      "Hospitality sector with integrated restaurant and event operations presents elevated slip-and-fall and liquor-related liability exposure",
+      "Policy terms may be amended or waived only by endorsement; no oral modifications permitted"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "SIC Code: 7011. Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

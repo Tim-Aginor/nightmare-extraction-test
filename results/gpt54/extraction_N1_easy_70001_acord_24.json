@@ -1,0 +1,83 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "carrier_name": "Apex Managing General Agency Insurance Company",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": "AG-7703921"
+  },
+  "document_date": "2026-03-16",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75225",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 222340000,
+      "contents_value": 33432000,
+      "bi_value": 59212000,
+      "tiv": 314984000
+    }
+  ],
+  "property_limits": {
+    "building": 222340000,
+    "contents": 33432000,
+    "business_income": 59212000
+  },
+  "property_deductible": 50000,
+  "insurer_panel": [
+    {
+      "carrier": "Apex Managing General Agency Insurance Company",
+      "naic": "22682"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "causes_of_loss_basic",
+      "value": "No"
+    },
+    {
+      "field": "causes_of_loss_broad",
+      "value": "No"
+    },
+    {
+      "field": "causes_of_loss_special",
+      "value": "Yes"
+    },
+    {
+      "field": "earthquake",
+      "value": "No"
+    },
+    {
+      "field": "wind",
+      "value": "No"
+    },
+    {
+      "field": "flood",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

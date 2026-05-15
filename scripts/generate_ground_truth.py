@@ -1,14 +1,20 @@
 #!/usr/bin/env python3
-"""Generate packet ground truth from generator output.
+"""Generate packet ground truth from per-document field_truth JSON.
 
-Reads ALL per-document ground truth JSON files emitted by the generator
-and converts to packet format: one consolidated JSON file per packet
-containing all document types.
+Reads every `field_truth_*.json` under
+`<source>/<difficulty>/doc_*/ground_truth/` and consolidates each
+packet into a single `<difficulty>_<seed>.json` under `--output-dir`,
+which is what `score.py` and `hallucination_analysis.py` read.
 
-Usage:
-    python scripts/generate_ground_truth.py \
-        --generator-output ~/Desktop/villify/output/nightmare \
-        --output-dir ground_truth/
+Usage against the public corpus (this is what end users want):
+    python scripts/generate_ground_truth.py
+
+The `--generator-output` and `--output-dir` flags default to `./packets`
+and `./ground_truth`, which is the in-repo layout — no external
+generator is required to re-derive the consolidated GT, and the
+consolidated JSONs under `ground_truth/` are also pre-checked in. This
+script only needs to run if you've modified field_truth files locally
+or want to verify reproducibility of the consolidated layer.
 """
 
 import argparse
@@ -515,11 +521,21 @@ def generate_summary(all_packets: list, output_dir: Path):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate packet ground truth from generator output")
-    parser.add_argument("--generator-output", type=Path, required=True,
-                        help="Path to generator nightmare output directory")
+    parser = argparse.ArgumentParser(
+        description=(
+            "Consolidate per-document field_truth_*.json files into one "
+            "packet-level ground truth JSON per packet. The repo's packets/ "
+            "tree already contains every field_truth file, so the default "
+            "invocation re-derives ground_truth/ from the published corpus "
+            "with no external dependencies."
+        )
+    )
+    parser.add_argument("--generator-output", type=Path, default=Path("packets"),
+                        help="Path to the packets/ tree. Defaults to ./packets (the "
+                             "in-repo corpus). Override only if you've staged "
+                             "alternate field_truth files outside the repo.")
     parser.add_argument("--output-dir", type=Path, default=Path("ground_truth"),
-                        help="Output directory for ground truth files")
+                        help="Output directory for consolidated ground truth files")
     args = parser.parse_args()
 
     args.output_dir.mkdir(parents=True, exist_ok=True)

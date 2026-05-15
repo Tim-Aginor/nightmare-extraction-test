@@ -1,0 +1,202 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "policy_number_wc": {
+      "value": "WC-KCB-2025-5580"
+    },
+    "premium_wc": {
+      "value": 1158173.43,
+      "rendered_as": "$1,158,173.43"
+    },
+    "form_type_wc": {
+      "value": "statutory"
+    },
+    "limit_wc_el_each_accident": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "limit_wc_el_disease_policy": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "limit_wc_el_disease_each": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "policy_number_gl": {
+      "value": "GL-KCB-2025-5581"
+    },
+    "premium_gl": {
+      "value": 297027.73,
+      "rendered_as": "297,027.73"
+    },
+    "deductible_gl": {
+      "value": 10000,
+      "rendered_as": "10,000.00"
+    },
+    "form_type_gl": {
+      "value": "occurrence"
+    },
+    "limit_gl_each_occurrence": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "limit_gl_general_aggregate": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "limit_gl_products_completed_ops": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "limit_gl_personal_advertising": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "limit_gl_damage_rented_premises": {
+      "value": 300000,
+      "rendered_as": "300,000.00"
+    },
+    "limit_gl_medical_expense": {
+      "value": 15000,
+      "rendered_as": "15,000.00"
+    },
+    "policy_number_auto": {
+      "value": "CA-KCB-2025-5582"
+    },
+    "premium_auto": {
+      "value": 57889.77,
+      "rendered_as": "$57,889.77"
+    },
+    "deductible_auto": {
+      "value": 2500,
+      "rendered_as": "$2,500.00"
+    },
+    "form_type_auto": {
+      "value": "occurrence"
+    },
+    "limit_auto_combined_single_limit": {
+      "value": 5000000.0,
+      "rendered_as": "$5,000,000.00"
+    },
+    "limit_auto_uninsured_motorist": {
+      "value": 500000.0,
+      "rendered_as": "$500,000.00"
+    },
+    "limit_auto_medical_payments": {
+      "value": 10000.0,
+      "rendered_as": "$10,000.00"
+    },
+    "policy_number_property": {
+      "value": "CP-KCB-2025-5583"
+    },
+    "premium_property": {
+      "value": 76073.77,
+      "rendered_as": "$76,073.77"
+    },
+    "deductible_property": {
+      "value": 25000,
+      "rendered_as": "$25,000.00"
+    },
+    "form_type_property": {
+      "value": "special"
+    },
+    "limit_property_building": {
+      "value": 10820000,
+      "rendered_as": "$10,820,000.00"
+    },
+    "limit_property_contents": {
+      "value": 18455000,
+      "rendered_as": "$18,455,000.00"
+    },
+    "limit_property_business_income": {
+      "value": 10130000,
+      "rendered_as": "$10,130,000.00"
+    },
+    "limit_property_coinsurance": {
+      "value": 80.0,
+      "rendered_as": "80%"
+    },
+    "total_premium": {
+      "value": 1589164.7,
+      "rendered_as": "$1,589,164.70"
+    }
+  },
+  "doc_type": "dec_page",
+  "wc_premium_waterfall": {
+    "manual_premium": 1694354.0,
+    "experience_mod": 0.86,
+    "modified_premium": 1457144.44,
+    "schedule_credit": -0.1585,
+    "schedule_credit_amount": -230957.39,
+    "standard_premium": 1226187.05,
+    "premium_discount": 123610.32,
+    "expense_constant": 157.0,
+    "tria_surcharge": 55439.7,
+    "final_premium": 1158173.43,
+    "minimum_premium_applied": false
+  },
+  "endorsements": {
+    "wc": [
+      "WC 00 00 04 \u2014 Workers' Compensation and Employers' Liability Insurance Policy",
+      "WC 00 04 22 \u2014 Experience Rating Modification Factor Endorsement",
+      "WC 38 03 01 \u2014 Pennsylvania Cancellation Conditions Endorsement"
+    ],
+    "gl": [
+      "CG 00 01 04 13 \u2014 Commercial General Liability Coverage Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CG 24 26 04 13 \u2014 Amendment of Aggregate Limits of Insurance - Per Project",
+      "CG 21 47 12 07 \u2014 Employment-Related Practices Exclusion",
+      "CG 20 10 04 13 \u2014 Additional Insured \u2014 Owners, Lessees or Contractors",
+      "CG 20 37 04 13 \u2014 Additional Insured \u2014 Owners, Lessees or Contractors (Completed Ops)",
+      "CG 20 33 04 13 \u2014 Additional Insured - Owners, Lessees or Contractors - Automatic Status When Required in Construction Agreement",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "CG 21 49 09 99 \u2014 Total Pollution Exclusion With a Hostile Fire Exception",
+      "CG 21 43 09 15 \u2014 Silica or Silica-Related Dust Exclusion",
+      "CG 25 03 05 09 \u2014 Designated Construction Project(s) General Aggregate Limit"
+    ],
+    "auto": [
+      "CA 00 01 10 13 \u2014 Business Auto Coverage Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "CA 99 48 03 06 \u2014 Pollution Liability \u2014 Broadened Coverage for Covered Autos",
+      "CA 20 48 02 99 \u2014 Designated Insured"
+    ],
+    "property": [
+      "CP 00 10 10 12 \u2014 Building and Personal Property Coverage Form",
+      "CP 00 30 10 12 \u2014 Business Income (and Extra Expense) Coverage Form",
+      "CP 10 30 10 12 \u2014 Causes of Loss \u2014 Special Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CP 01 40 07 06 \u2014 Ordinance or Law Coverage",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act"
+    ]
+  }
+}

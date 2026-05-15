@@ -1,0 +1,278 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "Insurance Binder"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "limit": 101570000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial Property - Business Personal Property",
+      "limit": 26150000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial Property - Business Income",
+      "limit": 40510000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Each Occurrence",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - General Aggregate",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Products-Comp/Op Agg",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Personal & Adv Injury",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Damage to Rented Premises",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Med Exp (Any one person)",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - E.L. Each Accident",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - E.L. Disease - Ea Employee",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - E.L. Disease - Policy Limit",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "property_causes_of_loss_basic": "unchecked",
+    "property_causes_of_loss_broad": "unchecked",
+    "property_causes_of_loss_special": "checked",
+    "gl_occurrence": "checked",
+    "gl_claims_made": "unchecked",
+    "wc_statutory_limits_per_statute": "checked"
+  },
+  "additional_fields": {
+    "binder_date": "2026-02-16",
+    "binder_number": "BND-22679-1808",
+    "binder_study_date": "2025-05-01",
+    "agency_name": "Capitol Insurance Advisors",
+    "agency_contact_name": "Marcus Jennings",
+    "agency_address": "100 Congress Avenue, Suite 1500",
+    "agency_city_state_zip": "Austin, TX 78701",
+    "agency_phone": "(512) 555-0634",
+    "agency_fax": "(512) 695-7765",
+    "agency_email": "mjennings@capitolia.com",
+    "company_naic_code": "28539",
+    "property_deductible": 25000,
+    "property_coinsurance": "90%",
+    "gl_policy_number": "GL-HCHP-2025-3351",
+    "wc_policy_number": "WC-HCHP-2025-3350",
+    "expiring_policies": [
+      {
+        "coverage": "Workers' Compensation",
+        "carrier": "Travelers Companies",
+        "policy_number": "WC-8098-9663"
+      },
+      {
+        "coverage": "General Liability",
+        "carrier": "Zurich Insurance Group",
+        "policy_number": "0000005824"
+      },
+      {
+        "coverage": "Commercial Property",
+        "carrier": "Auto-Owners Insurance",
+        "policy_number": "CP005220-001"
+      }
+    ],
+    "forms_and_endorsements": [
+      {
+        "coverage": "Workers' Compensation",
+        "form_code": "WC 00 00 04",
+        "description": "Workers' Compensation and Employers' Liability Insurance Policy"
+      },
+      {
+        "coverage": "Workers' Compensation",
+        "form_code": "WC 00 04 22",
+        "description": "Experience Rating Modification Factor Endorsement"
+      },
+      {
+        "coverage": "Workers' Compensation",
+        "form_code": "WC 42 03 04",
+        "description": "Texas Notice of Material Change Endorsement"
+      },
+      {
+        "coverage": "Workers' Compensation",
+        "form_code": "WC 42 06 01",
+        "description": "Texas Cancellation by the Insured Endorsement"
+      },
+      {
+        "coverage": "Workers' Compensation",
+        "form_code": "WC 00 03 13",
+        "description": "Waiver of Our Right to Recover From Others Endorsement"
+      },
+      {
+        "coverage": "Workers' Compensation",
+        "form_code": "WC 00 02 01",
+        "description": "Voluntary Compensation and Employers Liability Coverage Endorsement"
+      },
+      {
+        "coverage": "Workers' Compensation",
+        "form_code": "WC 00 01 00",
+        "description": "Workers Compensation and Employers Liability Insurance Policy"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 00 01 04 13",
+        "description": "Commercial General Liability Coverage Form"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "IL 00 21 09 08",
+        "description": "Nuclear Energy Liability Exclusion"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "IL 00 17 11 98",
+        "description": "Common Policy Conditions"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 20 10 04 13",
+        "description": "Additional Insured \u2014 Owners, Lessees or Contractors"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 20 37 04 13",
+        "description": "Additional Insured \u2014 Owners, Lessees or Contractors (Completed Ops)"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "IL 09 85 01 15",
+        "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+      },
+      {
+        "coverage": "General Liability",
+        "form_code": "CG 24 04 05 09",
+        "description": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 00 10 10 12",
+        "description": "Building and Personal Property Coverage Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 00 30 10 12",
+        "description": "Business Income (and Extra Expense) Coverage Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 10 30 10 12",
+        "description": "Causes of Loss \u2014 Special Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "IL 00 21 09 08",
+        "description": "Nuclear Energy Liability Exclusion"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "IL 00 17 11 98",
+        "description": "Common Policy Conditions"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 01 40 07 06",
+        "description": "Ordinance or Law Coverage"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "IL 09 85 01 15",
+        "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 03 21 06 07",
+        "description": "Windstorm or Hail Percentage Deductible"
+      }
+    ],
+    "mortgagees": [
+      {
+        "name": "KeyBank National Association",
+        "address": "P.O. Box 38199",
+        "city_state_zip": "Clarksville, TN 37040"
+      },
+      {
+        "name": "Stearns Bank, N.A.",
+        "address": "P.O. Box 25349",
+        "city_state_zip": "Fargo, ND 98102"
+      },
+      {
+        "name": "Pinnacle Investors Group, Inc.",
+        "address": "P.O. Box 55869",
+        "city_state_zip": "Elk Grove, CA 95624"
+      }
+    ],
+    "authorized_representative": "Christina Montoya",
+    "authorized_representative_title": "Chief Executive Officer",
+    "signature_date": "2026-02-16",
+    "signature_agency": "Marcus Jennings"
+  },
+  "remarks": null
+}

@@ -1,0 +1,91 @@
+{
+  "document_info": {
+    "document_type": "Commercial Property - Building and Personal Property Coverage Form",
+    "date": null,
+    "prepared_by": "Transportation Insurance Specialists",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": "4213",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": 235710.77,
+      "notes": "Building and Personal Property Coverage Form CP 00 10 10 12. Building limit 64110000; contents limit 30320000; coinsurance 80%; deductible 50000."
+    },
+    {
+      "coverage_type": "Business Income and Extra Expense",
+      "current_limit": "57954000",
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Business Income and Extra Expense Coverage Form CP 15 08 attached. Pays actual loss of business income due to the necessary suspension of operations during the period of restoration."
+    },
+    {
+      "coverage_type": "Equipment Breakdown",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Equipment Breakdown Coverage CP 04 09 attached. Covers direct physical loss or damage caused by or resulting from an equipment breakdown accident to covered mechanical, electrical, or pressure equipment."
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Agreed Value CP 99 30 attached. The coinsurance additional condition is suspended for scheduled property during the declarations period."
+    },
+    {
+      "coverage_type": "Utility Services - Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Utility Services - Direct Damage CP 04 17 attached. Covers direct physical loss or damage caused by interruption of water supply, communication supply, and power supply services."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": "Regional operations across the Midwest and Mid-Atlantic corridors"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": "2026-06-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics - LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

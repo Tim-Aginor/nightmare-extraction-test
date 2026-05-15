@@ -1,0 +1,181 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "bs_cash": {
+      "value": 22187700.0,
+      "rendered_as": "$22,187,700.00"
+    },
+    "bs_accounts_receivable": {
+      "value": 28366800.0,
+      "rendered_as": "$28,366,800.00"
+    },
+    "bs_total_assets": {
+      "value": 103336700.0,
+      "rendered_as": "$103,336,700.00"
+    },
+    "bs_total_liabilities": {
+      "value": 68963500.0,
+      "rendered_as": "$68,963,500.00"
+    },
+    "bs_equity": {
+      "value": 34373200.0,
+      "rendered_as": "$34,373,200.00"
+    },
+    "is_revenue": {
+      "value": 95000000,
+      "rendered_as": "$95,000,000.00"
+    },
+    "is_net_income": {
+      "value": 5997400.0,
+      "rendered_as": "$5,997,400.00"
+    }
+  },
+  "doc_type": "financial_statement_excel",
+  "excel_metadata": {
+    "tab_name": "Financial Statements",
+    "statement_type": "balance_sheet_and_income_statement",
+    "balance_sheet": {
+      "total_assets": 103336700.0,
+      "total_liabilities": 68963500.0,
+      "equity": 34373200.0
+    },
+    "income_statement": {
+      "revenue": 95000000,
+      "net_income": 5997400.0,
+      "gross_profit": 25574100.0
+    },
+    "ratios": {
+      "current_ratio": 1.7085870913422592,
+      "debt_to_equity": 2.0063159670906403,
+      "profit_margin": 0.06313052631578947,
+      "return_on_assets": 0.05803746394069097
+    },
+    "audit_status": "reviewed",
+    "fiscal_year_end": 12,
+    "account_hierarchy": {
+      "ASSETS": {
+        "Current Assets": [
+          "Cash & Equivalents",
+          "Accounts Receivable",
+          "Construction in Progress",
+          "Prepaid Expenses"
+        ],
+        "Non-Current Assets": [
+          "Property, Plant & Equipment (net)",
+          "Other Assets"
+        ]
+      },
+      "LIABILITIES": [
+        "Accounts Payable",
+        "Accrued Expenses",
+        "Current Portion of Long-Term Debt",
+        "Long-Term Debt",
+        "Other Liabilities"
+      ],
+      "EQUITY": [
+        "Equity"
+      ],
+      "INCOME_STATEMENT": [
+        "Revenue",
+        "Cost of Construction",
+        "Gross Profit",
+        "Operating Expenses",
+        "Depreciation & Amortization",
+        "EBIT",
+        "Interest Expense",
+        "Earnings Before Tax",
+        "Tax Provision",
+        "Net Income"
+      ]
+    },
+    "period_columns": {
+      "2": "FY2026"
+    },
+    "villification": {
+      "multi_period": false,
+      "formula_cells": true,
+      "negative_parens": false,
+      "rounding_discrepancy": false,
+      "outline_grouping": true,
+      "draft_marker": false,
+      "hidden_cols": false,
+      "comments": false,
+      "sheet_protection": true,
+      "alternating_rows": false,
+      "spreading_tab": false
+    },
+    "formula_cell_map": [
+      {
+        "cell": "B17",
+        "formula": "=SUM(B11:B14)+B15+B16",
+        "purpose": "Total Assets"
+      },
+      {
+        "cell": "B25",
+        "formula": "=SUM(B20:B24)",
+        "purpose": "Total Liabilities"
+      },
+      {
+        "cell": "B34",
+        "formula": "=B32-B33",
+        "purpose": "Gross Profit"
+      },
+      {
+        "cell": "B41",
+        "formula": "=B39-B40",
+        "purpose": "Net Income"
+      }
+    ],
+    "degradation": {
+      "ocr_artifacts": {
+        "cells_affected": 1
+      },
+      "scan_empty_rows": {
+        "rows_inserted": 3
+      }
+    },
+    "merged_regions": [
+      {
+        "range": "A1:B1",
+        "value": "Keystone Commercial Builders, Inc."
+      },
+      {
+        "range": "A2:B2",
+        "value": "FINANCIAL STATEMENTS"
+      },
+      {
+        "range": "A8:B8",
+        "value": "BALANCE SHEET"
+      },
+      {
+        "range": "A33:B33",
+        "value": "INCOME STATEMENT"
+      },
+      {
+        "range": "A47:B47",
+        "value": "KEY FINANCIAL RATIOS"
+      }
+    ],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {}
+  },
+  "format": "xlsx"
+}

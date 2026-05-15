@@ -1,0 +1,304 @@
+{
+  "form_info": {
+    "form_number": "ACORD 137",
+    "form_edition": "2016/03",
+    "form_title": "COMMERCIAL AUTO SUPPLEMENT"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CAGLFS20258822",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": "1FVS4N1A3RGP97JTN",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 122185.0
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2023,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": "1FUENZVB9PCM0H0LY",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 119441.0
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2023,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": "1XKKD49X9PJ459954",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 121494.0
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2024,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": "1XKKDP9X6R7J38270",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 117667.0
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2022,
+      "make": "Peterbilt",
+      "model": "579",
+      "vin": "1XP4D49X5ND784922",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 123900.0
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2023,
+      "make": "Peterbilt",
+      "model": "579",
+      "vin": "1XP4D49X2PD893921",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 119687.0
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2021,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": "1FUENZVB1MCM99382",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 116664.0
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2024,
+      "make": "Volvo",
+      "model": "VNL 860",
+      "vin": "4V4NC9EJ8RN193820",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 119286.0
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2022,
+      "make": "International",
+      "model": "LT",
+      "vin": "1HTHXPANXNN498210",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 116064.0
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2023,
+      "make": "Mack",
+      "model": "Anthem",
+      "vin": "1M2P394C0PM093821",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 121549.0
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia Day Cab",
+      "vin": "1FVS4N1A3RGP97JT",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 123986.0
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2023,
+      "make": "Kenworth",
+      "model": "T680 Day Cab",
+      "vin": "1XKKD49X9PJ45995",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 116763.0
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "M2 112",
+      "vin": "1FVACX",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 98772.0
+    },
+    {
+      "vehicle_id": "14",
+      "year": 2023,
+      "make": "International",
+      "model": "MV607",
+      "vin": "1HTDAA",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 96987.0
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Hino",
+      "model": "338",
+      "vin": "5PV",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 95890.0
+    },
+    {
+      "vehicle_id": "16",
+      "year": 2024,
+      "make": "Isuzu",
+      "model": "NPR-HD",
+      "vin": "JAL",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 63403.0
+    },
+    {
+      "vehicle_id": "17",
+      "year": 2023,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": "1FD",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 64468.0
+    },
+    {
+      "vehicle_id": "18",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Transit 350",
+      "vin": "1FT",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 53196.0
+    },
+    {
+      "vehicle_id": "19",
+      "year": 2023,
+      "make": "Ram",
+      "model": "ProMaster 2500",
+      "vin": "3C6",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 45582.0
+    },
+    {
+      "vehicle_id": "20",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": "1FT",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 48402.0
+    },
+    {
+      "vehicle_id": "21",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "vin": "1GC",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 50267.0
+    },
+    {
+      "vehicle_id": "22",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "1FT",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 39001.0
+    },
+    {
+      "vehicle_id": "23",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Camry",
+      "vin": "4T1",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 27979.0
+    },
+    {
+      "vehicle_id": "24",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "vin": "1GN",
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 41016.0
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 5000000.0,
+    "uninsured_motorist": 50000.0,
+    "medical_payments": 10000.0
+  },
+  "auto_premium": {
+    "base_premium": null,
+    "tria_surcharge": null,
+    "total_premium": 262046.75,
+    "deductible": null,
+    "form_type": "occurrence"
+  },
+  "checkboxes": [
+    {
+      "field": "Are any vehicles used for snow removal or similar seasonal operations?",
+      "value": "No"
+    },
+    {
+      "field": "Are any drivers under age 21?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured transport passengers for a fee?",
+      "value": "No"
+    },
+    {
+      "field": "Are dashcams or telematics installed in any vehicles?",
+      "value": "No"
+    },
+    {
+      "field": "Has the insured had any DOT violations in the past 3 years?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

@@ -1,0 +1,74 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": "2016/03",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": null
+  },
+  "document_date": "2026-03-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 34000000,
+      "contents_value": 8500000,
+      "bi_value": 12750000,
+      "tiv": 55250000
+    }
+  ],
+  "property_deductible": 75000,
+  "interests": [
+    {
+      "name": "TD Bank, N.A.",
+      "address": "5925 Main Street, Columbus, OH 96796",
+      "interest_type": "First Mortgagee",
+      "loan_number": null
+    },
+    {
+      "name": "Stearns Bank, N.A.",
+      "address": "2679 Spring Street, Tacoma, WA 15297",
+      "interest_type": "Loss Payable Clause",
+      "loan_number": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Perils Insured Against - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Perils Insured Against - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Perils Insured Against - Special",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "Coverage provided on Special form. Property is fully sprinklered. Construction type: Non-Combustible."
+}

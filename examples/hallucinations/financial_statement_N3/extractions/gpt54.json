@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Hill Country Hospitality Partners, LLC",
+    "statement_type": "Financial Statement",
+    "period_end_date": "2025-12-31",
+    "period_type": "annual",
+    "fiscal_year": 2025,
+    "audited": null,
+    "preparer": "Christina Montoya"
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": 8884400,
+        "accounts_receivable": 4766200,
+        "inventory": 377900,
+        "prepaid_expenses": 1050000,
+        "other_current": null,
+        "total_current_assets": 15078500
+      },
+      "fixed_assets": {
+        "property_plant_equipment": 42000800,
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 42000800
+      },
+      "other_assets": 19926000,
+      "total_assets": 76905300
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 7467100,
+        "accrued_expenses": 5014800,
+        "current_debt": 3486500,
+        "other_current": null,
+        "total_current_liabilities": 15968400
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 6543500,
+        "other_long_term": 1957000,
+        "total_long_term": 8500500
+      },
+      "total_liabilities": 24468900
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 52436400,
+      "total_equity": 52436400
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": 21649400
+    },
+    "cost_of_goods_sold": 18939000,
+    "gross_profit": 19555800,
+    "operating_expenses": {
+      "salaries_wages": null,
+      "rent": null,
+      "utilities": null,
+      "depreciation": 1657000,
+      "insurance": null,
+      "other_operating": 12809400,
+      "total_operating_expenses": 14466400
+    },
+    "operating_income": 5089400,
+    "interest_expense": 947500,
+    "income_before_tax": 4141900,
+    "income_tax": 2471800,
+    "net_income": 1670100
+  },
+  "ratios": {
+    "current_ratio": 0.94,
+    "debt_to_equity": 0.47,
+    "profit_margin": 7.7
+  }
+}

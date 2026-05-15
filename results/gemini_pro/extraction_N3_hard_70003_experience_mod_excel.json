@@ -1,0 +1,64 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Marilyn Rocha, Claims Adjustment Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hotel and Restaurant",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy Number: WC-HCHP-2025-3350. Interstate Rating: Yes. Large Risk Rating Plan."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Favorable Final Experience Modification Factor of 0.94",
+      "Zero excess losses reported in the 2021-2024 experience period"
+    ],
+    "concerns": [],
+    "loss_history_summary": "Experience period encompasses 2021-2024 with a total of 16 claims. Actual primary losses are $92,945 and $0 actual excess losses. Year-by-year totals: 2023-2024 (2 claims, $9,940); 2022-2023 (6 claims, $26,662); 2021-2022 (8 claims, $56,343)."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

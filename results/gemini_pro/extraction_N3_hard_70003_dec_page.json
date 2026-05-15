@@ -1,0 +1,162 @@
+{
+  "policy_info": {
+    "policy_number": "WC-HCHP-2025-3350, GL-HCHP-2025-3351, CP-HCHP-2025-3352",
+    "policy_type": "Commercial Package Policy",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "carrier_name": "Hallmark Insurance Group",
+    "carrier_naic": "28339"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "dba": null,
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "entity_type": "LLC"
+  },
+  "producer": {
+    "name": null,
+    "address": null,
+    "code": null
+  },
+  "coverages": [
+    {
+      "coverage_type": "Workers' Compensation and Employers' Liability",
+      "coverage_code": null,
+      "limit": "1000000/1000000/1000000",
+      "deductible": null,
+      "premium": 286528,
+      "form_numbers": [
+        "WC 00 00 04",
+        "WC 00 04 22",
+        "WC 42 03 04",
+        "WC 42 06 01",
+        "WC 00 03 13"
+      ]
+    },
+    {
+      "coverage_type": "Commercial General Liability",
+      "coverage_code": null,
+      "limit": "1000000/2000000",
+      "deductible": 5000,
+      "premium": 108425,
+      "form_numbers": [
+        "CG 00 01 04 13",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "CG 20 37 04 13",
+        "CG 20 10 04 13",
+        "IL 09 85 01 15",
+        "CG 24 04 05 09"
+      ]
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "coverage_code": null,
+      "limit": "101570000/26150000/40510000",
+      "deductible": 25000,
+      "premium": 265470,
+      "form_numbers": [
+        "CP 00 10 10 12",
+        "CP 00 30 10 12",
+        "CP 10 30 10 12",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "IL 09 85 01 15",
+        "CP 03 21 06 07"
+      ]
+    }
+  ],
+  "locations": [],
+  "premium_summary": {
+    "total_premium": 660423,
+    "taxes_fees": null,
+    "total_due": 660423
+  },
+  "endorsements": [
+    {
+      "form_number": "WC 00 00 04",
+      "title": "Workers' Compensation and Employers' Liability Insurance Policy"
+    },
+    {
+      "form_number": "WC 00 04 22",
+      "title": "Experience Rating Modification Factor Endorsement"
+    },
+    {
+      "form_number": "WC 42 03 04",
+      "title": "Texas Notice of Material Change Endorsement"
+    },
+    {
+      "form_number": "WC 42 06 01",
+      "title": "Texas Cancellation by the Insured Endorsement"
+    },
+    {
+      "form_number": "WC 00 03 13",
+      "title": "Waiver of Our Right to Recover from Others Endorsement"
+    },
+    {
+      "form_number": "CG 00 01 04 13",
+      "title": "Commercial General Liability Coverage Form"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors (Completed Ops)"
+    },
+    {
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "form_number": "CG 24 04 05 09",
+      "title": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+    },
+    {
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form"
+    },
+    {
+      "form_number": "CP 03 21 06 07",
+      "title": "Windstorm or Hail Percentage Deductible"
+    }
+  ],
+  "forms_attached": [
+    "WC 00 00 04",
+    "WC 00 04 22",
+    "WC 42 03 04",
+    "WC 42 06 01",
+    "WC 00 03 13",
+    "CG 00 01 04 13",
+    "IL 00 21 09 08",
+    "IL 00 17 11 98",
+    "CG 20 37 04 13",
+    "CG 20 10 04 13",
+    "IL 09 85 01 15",
+    "CG 24 04 05 09",
+    "CP 00 10 10 12",
+    "CP 00 30 10 12",
+    "CP 10 30 10 12",
+    "CP 03 21 06 07"
+  ]
+}

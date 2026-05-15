@@ -1,0 +1,146 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1500 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null
+  },
+  "document_date": null,
+  "certificate_holders": [
+    {
+      "name": "Quantum Realty Management Inc.",
+      "address": "500 Summit Avenue, Little Rock, AR 72201"
+    }
+  ],
+  "carrier_name_per_lob": [
+    {
+      "lob": "Commercial General Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": null
+    },
+    {
+      "lob": "Automobile Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": null
+    },
+    {
+      "lob": "Umbrella Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": null
+    },
+    {
+      "lob": "Workers Compensation and Employers' Liability",
+      "carrier": "Ohio Bureau of Workers' Compensation",
+      "naic": null,
+      "policy_number": null
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "policy_number": null,
+      "effective_date": "2023-08-05",
+      "expiration_date": "2024-08-05",
+      "limit": "2000000 each occurrence / 500000 damage to rented premises / 5000 medical expense / 2000000 personal and advertising injury / 4000000 general aggregate / 4000000 products-completed operations aggregate"
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "policy_number": null,
+      "effective_date": "2023-08-05",
+      "expiration_date": "2024-08-05",
+      "limit": "5000000 combined single limit"
+    },
+    {
+      "coverage_type": "Umbrella Liability",
+      "policy_number": null,
+      "effective_date": "2023-08-05",
+      "expiration_date": "2024-08-05",
+      "limit": "10000000 each occurrence"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers' Liability",
+      "policy_number": null,
+      "effective_date": "2023-08-05",
+      "expiration_date": "2024-08-05",
+      "limit": "statutory limits / 1000000 each accident / 1000000 disease each employee / 1000000 disease policy limit"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "general_liability_claims_made",
+      "value": "No"
+    },
+    {
+      "field": "general_liability_occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "general_liability_policy",
+      "value": "No"
+    },
+    {
+      "field": "general_liability_project",
+      "value": "No"
+    },
+    {
+      "field": "general_liability_loc",
+      "value": "No"
+    },
+    {
+      "field": "automobile_any_auto",
+      "value": "Yes"
+    },
+    {
+      "field": "automobile_owned_autos_only",
+      "value": "No"
+    },
+    {
+      "field": "automobile_scheduled_autos",
+      "value": "No"
+    },
+    {
+      "field": "automobile_hired_autos_only",
+      "value": "No"
+    },
+    {
+      "field": "automobile_non_owned_autos_only",
+      "value": "No"
+    },
+    {
+      "field": "umbrella_occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "umbrella_claims_made",
+      "value": "No"
+    },
+    {
+      "field": "workers_compensation_statutory_limits",
+      "value": "Yes"
+    },
+    {
+      "field": "workers_compensation_other",
+      "value": "No"
+    },
+    {
+      "field": "certificate_holder_additional_insured",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "RE: Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Quantum Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

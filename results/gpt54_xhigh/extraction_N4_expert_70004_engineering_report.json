@@ -1,0 +1,126 @@
+{
+  "report_info": {
+    "report_type": "Fire Protection System Inspection Report",
+    "report_date": "2026-03-15",
+    "inspector_name": "S. Martinez, P.E.",
+    "inspector_company": null,
+    "risk_grade": "3 - Average",
+    "grading_scale": "Best's Hazard Index"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "carrier_info": {
+    "carrier_name": null,
+    "policy_number": "CP-KCB-2025-5583",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Corporate Headquarters",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2002,
+      "stories": 1,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 3,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Main Equipment Yard & Warehouse",
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "construction": "Non-Combustible",
+      "occupancy": null,
+      "year_built": 1995,
+      "stories": 1,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 3,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Fabrication Shop",
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": null,
+      "year_built": 1988,
+      "stories": 1,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 1,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "South Hills Branch Office",
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "state": "PA",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": null,
+      "year_built": 2010,
+      "stories": 2,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 4,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Equipment Storage - Cranberry",
+      "address": "100 Dutilh Road",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "construction": "Non-Combustible",
+      "occupancy": null,
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": null,
+      "sprinklered": false,
+      "protection_class": 1,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "Advisable",
+      "category": "electrical",
+      "description": "Remove stored materials obstructing required electrical panel clearance.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Necessary",
+      "category": "electrical",
+      "description": "Repair exposed wiring and install missing junction box covers in the main electrical room.",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Five locations were inspected. Overall risk grade was 3 - Average on Best's Hazard Index. The fire protection system was reported as a wet pipe Viking system, approximately 28 years old and NFPA 13 compliant. Three control valves were inspected and found open, tamper switches were connected to monitoring, the water flow alarm was operational, and spare sprinkler heads were adequately supplied. Sprinkler heads were in fair condition with minor corrosion observed. Water supply measured 89 psi static, 59 psi residual, and 1923 GPM. A supervisory signal deficiency and two electrical deficiencies were noted; overall system status was PASS.",
+    "risk_level": "Average",
+    "insurability": "PASS"
+  }
+}

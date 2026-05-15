@@ -1,0 +1,343 @@
+{
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "31-6847291",
+    "naics_code": "484110",
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": "4215",
+    "years_in_business": 38
+  },
+  "checkboxes": [
+    {
+      "field": "General Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Business Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Workers' Compensation",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella / Excess",
+      "value": "Yes"
+    },
+    {
+      "field": "Professional Liability / E&O",
+      "value": "No"
+    },
+    {
+      "field": "Any medical or daycare operations on premises?",
+      "value": "No"
+    },
+    {
+      "field": "Any losses or claims in the past 5 years?",
+      "value": "Yes"
+    },
+    {
+      "field": "Any operations involving demolition or blasting?",
+      "value": "No"
+    },
+    {
+      "field": "Any operations on or near water?",
+      "value": "No"
+    },
+    {
+      "field": "Any work involving asbestos, lead, or mold remediation?",
+      "value": "No"
+    },
+    {
+      "field": "Any professional services provided?",
+      "value": "No"
+    },
+    {
+      "field": "Are metal fabrication or welding operations performed on premises?",
+      "value": "No"
+    },
+    {
+      "field": "Any foreign operations or exposures?",
+      "value": "No"
+    },
+    {
+      "field": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "value": "No"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "General Liability",
+      "deductible": null,
+      "limit": null,
+      "premium": 133977
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "deductible": null,
+      "limit": null,
+      "premium": 207849
+    },
+    {
+      "coverage_type": "Business Auto",
+      "deductible": null,
+      "limit": null,
+      "premium": 228177
+    },
+    {
+      "coverage_type": "Workers' Compensation",
+      "deductible": null,
+      "limit": null,
+      "premium": 1069693
+    },
+    {
+      "coverage_type": "Umbrella / Excess",
+      "deductible": null,
+      "limit": null,
+      "premium": 430545
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 125",
+    "form_title": "COMMERCIAL INSURANCE APPLICATION"
+  },
+  "header": {
+    "carrier_name": "Standard Insurance Company",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Transportation Insurance Specialists"
+  },
+  "premises": [
+    {
+      "address": "1200 Nationwide Boulevard",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Columbus",
+      "construction": "Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-001",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 125000,
+      "state": "OH",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 2006,
+      "zip": "43215"
+    },
+    {
+      "address": "2500 Norton Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Columbus",
+      "construction": "Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-002",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 185000,
+      "state": "OH",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 2012,
+      "zip": "43228"
+    },
+    {
+      "address": "8000 Rockside Woods Boulevard",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Independence",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-003",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 95000,
+      "state": "OH",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 1988,
+      "zip": "44131"
+    },
+    {
+      "address": "500 Technology Drive",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Canonsburg",
+      "construction": "Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-004",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 78000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 2008,
+      "zip": "15317"
+    },
+    {
+      "address": "7900 State Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Philadelphia",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-005",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 68000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 2011,
+      "zip": "19136"
+    },
+    {
+      "address": "4100 Industrial Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Harrisburg",
+      "construction": "Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-006",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 92000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 2015,
+      "zip": "17111"
+    },
+    {
+      "address": "1600 Ardmore Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Toledo",
+      "construction": "Joisted Masonry",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-007",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 52000,
+      "state": "OH",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 1995,
+      "zip": "43609"
+    },
+    {
+      "address": "1250 Nationwide Boulevard",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Columbus",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-008",
+      "occupancy": "Service/Repair",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 28000,
+      "state": "OH",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 2006,
+      "zip": "43215"
+    },
+    {
+      "address": "41 South High Street, Suite 1500",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Columbus",
+      "construction": "Fire Resistive",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-009",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 12000,
+      "state": "OH",
+      "stories": null,
+      "tiv": null,
+      "year_built": 2010,
+      "zip": "43215"
+    }
+  ],
+  "remarks": null,
+  "uw_questions": [
+    {
+      "answer": "No",
+      "question": "Any medical or daycare operations on premises?"
+    },
+    {
+      "answer": "Yes",
+      "question": "Any losses or claims in the past 5 years?"
+    },
+    {
+      "answer": "No",
+      "question": "Any operations involving demolition or blasting?"
+    },
+    {
+      "answer": "No",
+      "question": "Any operations on or near water?"
+    },
+    {
+      "answer": "No",
+      "question": "Any work involving asbestos, lead, or mold remediation?"
+    },
+    {
+      "answer": "No",
+      "question": "Any professional services provided?"
+    },
+    {
+      "answer": "No",
+      "question": "Are metal fabrication or welding operations performed on premises?"
+    },
+    {
+      "answer": "No",
+      "question": "Any foreign operations or exposures?"
+    },
+    {
+      "answer": "No",
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?"
+    }
+  ]
+}

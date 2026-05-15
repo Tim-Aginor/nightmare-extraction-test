@@ -1,0 +1,24 @@
+{
+  "checkboxes": [],
+  "form_info": {
+    "form_edition": "2015/12",
+    "form_number": "ACORD 823",
+    "form_title": "COMMERCIAL LINES SUPPLEMENT"
+  },
+  "header": {
+    "carrier_name": "Midwest Insurance Group",
+    "effective_date": "2025-08-01",
+    "expiration_date": null,
+    "insured_address": "500 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "WC-KCB-2025-5580",
+    "producer_code": null,
+    "producer_name": "Steel City Insurance Agency"
+  },
+  "policy_number": "WC-KCB-2025-5580",
+  "remarks": null,
+  "start_date": "2025-08-01"
+}

@@ -1,0 +1,173 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    },
+    "policy_number_property": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "policy_form_type": {
+      "value": "special"
+    },
+    "property_deductible": {
+      "value": 75000,
+      "rendered_as": "$75,000.00"
+    },
+    "mortgagee_name": {
+      "value": "TD Bank, N.A."
+    },
+    "mortgagee_address": {
+      "value": "5925 Main Street"
+    },
+    "loss_payee_name": {
+      "value": "Stearns Bank, N.A."
+    }
+  },
+  "doc_type": "acord_27",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "building_value": 34000000,
+      "contents_value": 8500000,
+      "bi_value": 12750000,
+      "tiv": 55250000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "building_value": 30400000,
+      "contents_value": 7600000,
+      "bi_value": 11400000,
+      "tiv": 49400000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip_code": "44144",
+      "building_value": 20650000,
+      "contents_value": 5900000,
+      "bi_value": 8850000,
+      "tiv": 35400000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip_code": "45404",
+      "building_value": 11100000,
+      "contents_value": 5550000,
+      "bi_value": 6660000,
+      "tiv": 23310000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip_code": "45241",
+      "building_value": 19800000,
+      "contents_value": 4400000,
+      "bi_value": 7920000,
+      "tiv": 32120000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "building_value": 11550000,
+      "contents_value": 3300000,
+      "bi_value": 4950000,
+      "tiv": 19800000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "building_value": 8520000,
+      "contents_value": 4260000,
+      "bi_value": 4260000,
+      "tiv": 17040000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "zip_code": "44685",
+      "building_value": 10240000,
+      "contents_value": 2560000,
+      "bi_value": 5120000,
+      "tiv": 17920000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "building_value": 0,
+      "contents_value": 425000,
+      "bi_value": 680000,
+      "tiv": 1105000
+    }
+  ],
+  "interests": {
+    "mortgagee": {
+      "name": "TD Bank, N.A.",
+      "rank": "First Mortgagee",
+      "address": "5925 Main Street",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "96796"
+    },
+    "loss_payee": {
+      "name": "Stearns Bank, N.A.",
+      "clause": "Loss Payable Clause",
+      "address": "2679 Spring Street",
+      "city": "Tacoma",
+      "state": "WA",
+      "zip": "15297"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel fleet schedule and motor vehicle report",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 40,
+    "radius_of_operation": null,
+    "vehicle_count": 37
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": null,
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Motor vehicle reports show 39 total violations across 40 drivers.",
+      "Motor vehicle reports show 40 total accidents across 40 drivers.",
+      "Two drivers are listed with major violations: Scott Murphy and Jack Reed.",
+      "Only five drivers are listed as clear on the motor vehicle reports."
+    ],
+    "loss_history_summary": "Motor vehicle report data lists 5 clear drivers, 32 drivers with minor violations, 2 drivers with major violations, and 1 driver with accident status. Total reported MVR activity includes 39 violations and 40 accidents.",
+    "positives": [
+      "Fleet schedule provided with 37 scheduled units, including trucks, private passenger vehicles, and trailers.",
+      "Driver roster provided for 40 drivers with years of experience listed.",
+      "Five drivers have clear motor vehicle reports."
+    ]
+  }
+}

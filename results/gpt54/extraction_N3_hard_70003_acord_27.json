@@ -1,0 +1,55 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": "2016/03",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 200",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hillcrest Insurance Group",
+    "policy_number": "CP-HCHP-2025-1357",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Capital Assurance Advisors",
+    "producer_code": "2839"
+  },
+  "document_date": "2025-01-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "404 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": null,
+      "occupancy": "Hotel",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 28500000,
+      "contents_value": 7125000,
+      "bi_value": 19687500,
+      "tiv": 55312500
+    }
+  ],
+  "property_deductible": 25000,
+  "interests": [
+    {
+      "name": "Wells Fargo Bank, N.A.",
+      "address": "404 Brazos Street, Austin, TX 25444",
+      "interest_type": "First Mortgagee",
+      "loan_number": null
+    }
+  ],
+  "checkboxes": [],
+  "remarks": "Coverage provided is Special form. Property is 100% sprinklered. Ordinance and law included."
+}

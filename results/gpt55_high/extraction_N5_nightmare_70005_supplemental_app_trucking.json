@@ -1,0 +1,61 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Trucking / motor carrier operations transporting general freight, beverages, machinery, and Hazmat Class 2 compressed gases.",
+    "sic_code": null,
+    "years_in_business": 38
+  },
+  "coverages_discussed": [],
+  "document_info": {
+    "date": "2025-06-18",
+    "document_type": "Trucking Supplemental Application",
+    "prepared_by": "M. Johnson",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "See attached loss runs for the most recent five (5) policy years. Report date: 03/15/2025.",
+    "executive_summary": null,
+    "operations_description": "Carrier information: US DOT Number 6409266; MC/MX Number 583933; FEIN 31-6847291; Years in Business 38; State of Domicile OH; Operating Authority Active. Operating profile: Total Power Units 12; Total Trailers 13; Operating Radius Over 200 miles; Interstate? No. Cargo profile: General Freight - Hazmat No; Beverages - Hazmat No; Machinery - Hazmat No; Hazmat Class 2 Compressed Gases - Hazmat Yes, UN Class 2.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 46,
+    "radius_of_operation": "Over 200 miles",
+    "vehicle_count": 12
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": "Great Lakes Freight Systems, Incorporated",
+    "state": "OH",
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Operating radius is over 200 miles.",
+      "Cargo includes Hazmat Class 2 compressed gases.",
+      "Handwritten note states \"Need docs\" near the driver profile section."
+    ],
+    "loss_history_summary": "Loss history section states: \"See attached loss runs for the most recent five (5) policy years. Report date: 03/15/2025.\"",
+    "positives": [
+      "38 years in business.",
+      "Operating authority is active.",
+      "Interstate operations indicated as No.",
+      "Average driver experience is 18 years."
+    ]
+  }
+}

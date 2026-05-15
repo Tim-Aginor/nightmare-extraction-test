@@ -1,0 +1,169 @@
+{
+  "form_info": {
+    "form_number": "ACORD 130",
+    "form_edition": null,
+    "form_title": "Workers Compensation Application"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Marcus Jennings",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-HCHP-2025-3350",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Workers Compensation - Class 9052 Hotel All Other Employees (LOC-001, TX)",
+      "limit": null,
+      "deductible": null,
+      "premium": 262407
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 9060 Hotel Bellhops Doorpersons (LOC-002, TX)",
+      "limit": null,
+      "deductible": null,
+      "premium": 35633
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 9082 Restaurant NOC (LOC-003, TX)",
+      "limit": null,
+      "deductible": null,
+      "premium": 77991
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 8810 Clerical Office Employees NOC (All, TX)",
+      "limit": null,
+      "deductible": null,
+      "premium": 3456
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "application_date": "2026-03-14",
+    "policy_state": "TX",
+    "contact_name": "Christina Montoya",
+    "contact_title": "Chief Executive Officer",
+    "experience_modification_factor": 0.94,
+    "rating_effective_date": "2025-05-01",
+    "experience_mod_effective_date": "2026-03-14",
+    "rating_classifications": [
+      {
+        "location": "LOC-001",
+        "state": "TX",
+        "class_code": "9052",
+        "description": "Hotel \u2014 All Other Employees",
+        "num_employees": 257,
+        "payroll": 9207271,
+        "rate": 2.85,
+        "premium": 262407
+      },
+      {
+        "location": "LOC-002",
+        "state": "TX",
+        "class_code": "9060",
+        "description": "Hotel \u2014 Bellhops, Doorpersons",
+        "num_employees": 44,
+        "payroll": 1454400,
+        "rate": 2.45,
+        "premium": 35633
+      },
+      {
+        "location": "LOC-003",
+        "state": "TX",
+        "class_code": "9082",
+        "description": "Restaurant \u2014 NOC",
+        "num_employees": 117,
+        "payroll": 3678800,
+        "rate": 2.12,
+        "premium": 77991
+      },
+      {
+        "location": "All",
+        "state": "TX",
+        "class_code": "8810",
+        "description": "Clerical Office Employees \u2014 NOC",
+        "num_employees": 32,
+        "payroll": 1920000,
+        "rate": 0.18,
+        "premium": 3456
+      }
+    ],
+    "rating_totals": {
+      "total_employees": 450,
+      "total_payroll": 16260471,
+      "total_manual_premium": 379487
+    },
+    "premium_calculation": {
+      "manual_premium": 379487,
+      "experience_modification_factor": 0.94,
+      "modified_premium": 356718,
+      "schedule_credit_debit_percent": -15.8,
+      "standard_premium": 300214,
+      "premium_discount": -23044,
+      "expense_constant": 120,
+      "tria_surcharge": 9238,
+      "total_estimated_annual_premium": 286528
+    },
+    "individuals_included_excluded": [
+      {
+        "name": "Christina Montoya",
+        "title": "Chief Executive Officer",
+        "date_of_birth": "1985-02-02",
+        "ownership_percent": 100,
+        "status": "Included"
+      },
+      {
+        "name": "Ronald Hill",
+        "title": "General Manager",
+        "date_of_birth": "1973-01-13",
+        "ownership_percent": 0,
+        "status": "Included"
+      }
+    ],
+    "prior_carrier_history": [
+      {
+        "year": "2024-2025",
+        "carrier": "Travelers Companies",
+        "policy_number": "WC-4098-9863",
+        "premium": 294138.32,
+        "mod_factor": 0.95
+      },
+      {
+        "year": "2023-2024",
+        "carrier": "Markel Corporation",
+        "policy_number": "7WC98969622",
+        "premium": 260670.74,
+        "mod_factor": 0.78
+      },
+      {
+        "year": "2022-2023",
+        "carrier": "Zurich Insurance Group",
+        "policy_number": "3333334815",
+        "premium": 260301.88,
+        "mod_factor": 0.7
+      }
+    ],
+    "signature": {
+      "applicant_name": "Christina Montoya",
+      "applicant_title": "Chief Executive Officer",
+      "applicant_signature_date": "2026-03-14",
+      "producer_name": "Marcus Jennings",
+      "producer_signature_date": "2026-03-14"
+    }
+  },
+  "remarks": null
+}

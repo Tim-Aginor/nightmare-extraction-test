@@ -1,0 +1,59 @@
+{
+  "document_info": {
+    "document_type": "Fleet vehicle, driver, and MVR schedule",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "Complete vehicle schedule provided with VINs for all 37 units.",
+      "All 24 listed power units are model years 2021-2024.",
+      "Complete driver roster and MVR summary provided for 40 drivers; 22 drivers have 20+ years of listed experience."
+    ],
+    "concerns": [
+      "MVR summary shows only 5 Clear drivers; 32 drivers are listed with Minor Violations, 2 with Major Violations, and 1 with Accident status.",
+      "33 of 40 drivers show at least 1 accident on the MVR worksheet, including 7 drivers with 2 accidents.",
+      "Two drivers with Major Violations each show 3 violations and 2 accidents.",
+      "One driver has only 4 years of experience, and the trailer fleet includes older 2015 and 2017 units."
+    ],
+    "loss_history_summary": "No separate loss runs were provided. The MVR worksheet totals 39 violations and 40 accidents across 40 listed drivers; the reporting period was not stated."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": 40,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

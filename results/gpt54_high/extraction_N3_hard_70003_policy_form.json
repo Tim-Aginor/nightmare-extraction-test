@@ -1,0 +1,66 @@
+{
+  "document_info": {
+    "document_type": "Commercial General Liability Coverage Form",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": "7011",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "current_limit": "Each Occurrence 1000000; General Aggregate 2000000; Products Completed Ops 2000000; Personal and Advertising Injury 500000; Damage Rented Premises 50000; Medical Expense 10000; Deductible 5000",
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Coverage part premium shown as 108425.47. Endorsements listed on the schedule include CG 20 10, CG 24 04, CG 25 03, CG 20 37, and CG 21 44."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Additional insured endorsements are attached (CG 20 10 and CG 20 37).",
+      "Waiver of transfer of rights of recovery against others to us endorsement is attached (CG 24 04)."
+    ],
+    "concerns": [
+      "Exclusion \u2014 Designated Operations/Premises endorsement is attached (CG 21 44)."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

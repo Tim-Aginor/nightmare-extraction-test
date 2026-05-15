@@ -1,0 +1,126 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": null,
+    "form_title": "Certificate of Liability Insurance"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capital Insurance Advisors / Marcus Jennings",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-HCHP-2025-3351",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability - Each Occurrence",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - Damage to Rented Premises",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - Med Exp (Any One Person)",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - Personal & Advertising Injury",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - General Aggregate",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - Products/Completed Operations Aggregate",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - EL Each Accident",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - EL Disease Each Employee",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - EL Disease Policy Limit",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "cgl_claims_made": "unchecked",
+    "cgl_occurrence": "checked",
+    "gen_aggregate_limit_per_policy": "checked",
+    "gen_aggregate_limit_per_project": "unchecked",
+    "gen_aggregate_limit_per_loc": "unchecked",
+    "wc_statutory_limits": "checked",
+    "wc_proprietor_partner_executive_excluded": "N/A"
+  },
+  "additional_fields": {
+    "certificate_date": "2026-03-15",
+    "producer_address": "100 Congress Avenue, Suite 1500, Austin, TX 78701",
+    "producer_phone": "(512) 555-0634",
+    "producer_fax": "(512) 695-7763",
+    "producer_email": "mjennings@capitolia.com",
+    "insurer_a_name": "Hallmark Insurance Group",
+    "insurer_a_naic": "16339",
+    "insurer_b_name": "Hallmark Insurance Group",
+    "insurer_b_naic": "18412",
+    "cgl_policy_number": "GL-HCHP-2025-3351",
+    "cgl_insurer_letter": "B",
+    "cgl_effective_date": "2025-05-01",
+    "cgl_expiration_date": "2026-05-01",
+    "wc_policy_number": "WC-HCHP-2025-3350",
+    "wc_insurer_letter": "A",
+    "wc_effective_date": "2025-05-01",
+    "wc_expiration_date": "2026-05-01",
+    "certificate_holder_name": "Dusk Realty Management Inc.",
+    "certificate_holder_address": "819 Lake Street",
+    "certificate_holder_city": "Springfield",
+    "certificate_holder_state": "MO",
+    "certificate_holder_zip": "65801",
+    "authorized_representative": "Christina Montoya",
+    "additional_insured": "Dusk Realty Management Inc.",
+    "cancellation_notice_days": 30,
+    "covered_locations": [
+      "The Driskill Austin - 604 Brazos Street, Austin, TX 78701",
+      "Riverwalk Suites San Antonio - 112 College Street, San Antonio, TX 78205",
+      "Fredericksburg Inn & Spa - 245 East Main Street, Fredericksburg, TX 78624"
+    ]
+  },
+  "remarks": "RE: Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas Locations: The Driskill Austin - 604 Brazos Street, Austin, TX 78701; Riverwalk Suites San Antonio - 112 College Street, San Antonio, TX 78205; Fredericksburg Inn & Spa - 245 East Main Street, Fredericksburg, TX 78624. Dusk Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

@@ -1,0 +1,83 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": null,
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers' Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "certificate_date": "2026-03-15",
+    "producer_contact_name": "Karen Weissman",
+    "producer_address": "175 South Third Street, Suite 1400",
+    "producer_city": "Columbus",
+    "producer_state": "OH",
+    "producer_zip": "43215",
+    "producer_phone": "(614) 555-0742",
+    "producer_fax": "(614) 837-8018",
+    "producer_email": "kweissman@mwpcg.com",
+    "insurer_a": null,
+    "insurer_b": null,
+    "insurer_c": null,
+    "insurer_d": null,
+    "insurer_e": null,
+    "insurer_f": null,
+    "certificate_number": null,
+    "revision_number": null,
+    "certificate_holder_name": "Navigator Realty Management Inc.",
+    "certificate_holder_address": "5290 Walnut Street, Ste. 159",
+    "certificate_holder_city": "Newport News",
+    "certificate_holder_state": "VA",
+    "certificate_holder_zip": "23601",
+    "authorized_representative": "Douglas Brennan",
+    "additional_insured": "Navigator Realty Management Inc.",
+    "notice_of_cancellation_days": "30"
+  },
+  "remarks": "RE: Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio. Locations: Rickenbacker Logistics Center - A - 6500 Alum Creek Drive, Columbus, OH 43217; Rickenbacker Logistics Center - B - 6600 Alum Creek Drive, Columbus, OH 43217; Cleveland Distribution Hub - 4800 Tiedeman Road, Brooklyn, OH 44144. Navigator Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

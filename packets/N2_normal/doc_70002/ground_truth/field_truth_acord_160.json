@@ -1,0 +1,282 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "applicant_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "fein": {
+      "value": "31-5847293"
+    },
+    "sic_code": {
+      "value": "6512"
+    },
+    "entity_type": {
+      "value": "LLC"
+    },
+    "nature_of_business": {
+      "value": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+    },
+    "years_in_business": {
+      "value": 31
+    },
+    "annual_revenue": {
+      "value": 48000000,
+      "rendered_as": "$48,000,000.00"
+    },
+    "policy_number_property": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "property_premium": {
+      "value": 424883.27,
+      "rendered_as": "$424,883.27"
+    },
+    "property_deductible": {
+      "value": 75000,
+      "rendered_as": "$75,000.00"
+    },
+    "location_count": {
+      "value": 9
+    },
+    "total_tiv": {
+      "value": 251345000,
+      "rendered_as": "$251,345,000"
+    },
+    "interest_holder_0_name": {
+      "value": "Bank of America, N.A."
+    },
+    "interest_holder_0_loan_number": {
+      "value": "L-669740676"
+    },
+    "interest_holder_1_name": {
+      "value": "Huntington National Bank"
+    },
+    "interest_holder_1_loan_number": {
+      "value": "L-618678792"
+    },
+    "interest_holder_2_name": {
+      "value": "U.S. Bank National Association"
+    },
+    "interest_holder_2_loan_number": {
+      "value": "L-146216755"
+    },
+    "valuation_method": {
+      "value": "Replacement Cost"
+    }
+  },
+  "doc_type": "acord_160",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 425000,
+      "sprinklered": true,
+      "building_value": 34000000,
+      "contents_value": 8500000,
+      "bi_value": 12750000,
+      "tiv": 55250000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2016,
+      "stories": 1,
+      "square_feet": 380000,
+      "sprinklered": true,
+      "building_value": 30400000,
+      "contents_value": 7600000,
+      "bi_value": 11400000,
+      "tiv": 49400000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip_code": "44144",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 295000,
+      "sprinklered": true,
+      "building_value": 20650000,
+      "contents_value": 5900000,
+      "bi_value": 8850000,
+      "tiv": 35400000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip_code": "45404",
+      "construction": "Joisted Masonry",
+      "occupancy": "Manufacturing",
+      "year_built": 1992,
+      "stories": 1,
+      "square_feet": 185000,
+      "sprinklered": true,
+      "building_value": 11100000,
+      "contents_value": 5550000,
+      "bi_value": 6660000,
+      "tiv": 23310000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip_code": "45241",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2019,
+      "stories": 1,
+      "square_feet": 220000,
+      "sprinklered": true,
+      "building_value": 19800000,
+      "contents_value": 4400000,
+      "bi_value": 7920000,
+      "tiv": 32120000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2004,
+      "stories": 1,
+      "square_feet": 165000,
+      "sprinklered": true,
+      "building_value": 11550000,
+      "contents_value": 3300000,
+      "bi_value": 4950000,
+      "tiv": 19800000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Manufacturing",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 142000,
+      "sprinklered": false,
+      "building_value": 8520000,
+      "contents_value": 4260000,
+      "bi_value": 4260000,
+      "tiv": 17040000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "zip_code": "44685",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2011,
+      "stories": 1,
+      "square_feet": 128000,
+      "sprinklered": true,
+      "building_value": 10240000,
+      "contents_value": 2560000,
+      "bi_value": 5120000,
+      "tiv": 17920000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2006,
+      "stories": 1,
+      "square_feet": 8500,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 425000,
+      "bi_value": 680000,
+      "tiv": 1105000
+    }
+  ],
+  "additional_coverages": [
+    "Employee Dishonesty",
+    "Blanket Additional Insured",
+    "Data Compromise",
+    "Damage to Premises Rented to You",
+    "Valuable Papers",
+    "Earthquake",
+    "Professional Liability",
+    "Per Project General Aggregate",
+    "Water Backup / Sump Overflow",
+    "Debris Removal \u2014 Additional",
+    "Computer Fraud",
+    "Money & Securities \u2014 Inside",
+    "Business Income \u2014 Civil Authority"
+  ],
+  "interests": [
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "Bank of America, N.A.",
+      "address": "P.O. Box 33104, Detroit, MI 48226",
+      "loan_number": "L-669740676"
+    },
+    {
+      "type": "Loss Payee",
+      "name": "Huntington National Bank",
+      "address": "P.O. Box 61095, San Francisco, CA 94104",
+      "loan_number": "L-618678792"
+    },
+    {
+      "type": "Loss Payee",
+      "name": "U.S. Bank National Association",
+      "address": "P.O. Box 90144, New York, NY 10001",
+      "loan_number": "L-146216755"
+    }
+  ]
+}

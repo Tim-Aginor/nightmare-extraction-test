@@ -1,0 +1,96 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Karen Weissman",
+    "recipient": "Maine Employers Mutual"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 31,
+    "annual_revenue": 48000000,
+    "employee_count": 113
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property (Expiring)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "2024 policy year, 0 claims, no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property (Prior)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hartford Financial Services",
+      "expiring_premium": 419914.35,
+      "notes": "2023 policy year, 0 claims, no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property (Prior)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Chubb Limited",
+      "expiring_premium": 456514.1,
+      "notes": "2022 policy year, 0 claims, no cancellations"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "31 years in business with 22 years of stable current management",
+      "Formal safety program in place",
+      "Most locations sprinklered (8 of 9)",
+      "Fire alarms hard-wired with central station monitoring",
+      "24-hour doorperson/security on premises",
+      "Written contracts with indemnification required from contractors",
+      "Clean loss history - 0 claims across prior 3 years (2022-2024)",
+      "No prior cancellations",
+      "90% occupancy rate across units"
+    ],
+    "concerns": [
+      "Building is not fully sprinklered per NFPA 13 or 13R",
+      "LOC-007 (3250 Hill Avenue, Toledo - Manufacturing) is not sprinklered",
+      "No written contracts with all subcontractors",
+      "Material Safety Data Sheets (MSDS) not maintained despite manufacturing occupancies",
+      "Lockout/tagout procedures not in place despite manufacturing operations",
+      "Older buildings in portfolio (LOC-004 built 1992, LOC-007 built 1998)",
+      "Plumbing systems last updated in 2015 (aging)",
+      "Short-term rentals (less than 1 year) permitted - increased tenant turnover risk"
+    ],
+    "loss_history_summary": "Zero claims reported across prior three policy years (2022, 2023, 2024) with Chubb, Hartford, and Liberty Mutual respectively. No cancellations."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": "2025-09-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio. Portfolio includes 9 locations totaling approximately 1,948,500 sq ft across Columbus, Brooklyn, Dayton, Cincinnati, Toledo, and Uniontown, OH. Operations include warehouse (6 locations), manufacturing (2 locations), and office (1 location). Hours of operation: Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 1:00 PM. 95 full-time and 18 part-time employees.",
+    "safety_programs": "Formal safety program in place. Fire alarms are hard-wired with central station monitoring. 24-hour doorperson/security on premises. 8 of 9 locations are sprinklered (LOC-007 Toledo Manufacturing is not sprinklered). Building is not fully sprinklered per NFPA 13 or 13R. No EV charging stations on premises. Material Safety Data Sheets (MSDS) are NOT maintained. Lockout/tagout procedures are NOT in place. Plumbing last updated 2015, HVAC 2018, Electrical 2023.",
+    "claims_narrative": "Prior insurance history shows zero claims for 2022 (Chubb Limited, $456,514.10 premium), 2023 (Hartford Financial Services, $419,914.35 premium), and 2024 (Liberty Mutual Insurance, $392,002.31 premium). No cancellations in any year. Premiums have been declining year-over-year."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": "6512",
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": "Apex Managing General Agency",
+      "current_limit": "Building 222340000; Contents 33432000; Business Income 59212000",
+      "expiring_premium": 403697.14,
+      "notes": "Form CP 00 10 10 12; coinsurance 90%; deductible 50000; producer Texas Commercial Insurance Partners.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Ordinance Or Law Coverage",
+      "current_carrier": "Apex Managing General Agency",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 (10 12), effective 2026-03-15. Provides Coverage A for loss to undamaged portion of building due to enforcement of ordinance or law requiring demolition.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_carrier": "Apex Managing General Agency",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12), effective 2026-03-15. Covers direct physical loss or damage to Covered Property caused by or resulting from an equipment breakdown accident to mechanical, electrical, or pressure equipment.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Direct Damage",
+      "current_carrier": "Apex Managing General Agency",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12), effective 2026-03-15. Covers direct physical loss or damage to Covered Property caused by interruption of utility services including water supply, communication supply, and power supply.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Commercial Property Policy - Building and Personal Property Coverage Form",
+    "prepared_by": "Apex Managing General Agency",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "name": "Lone Star Property Holdings, LP",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": "2026-07-01",
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Deductible is 50000 per occurrence.",
+      "Coinsurance shown as 90%.",
+      "Vacancy condition may limit or exclude coverage if a building is vacant for more than 60 consecutive days before loss."
+    ],
+    "loss_history_summary": null,
+    "positives": [
+      "Commercial property limits include Building 222340000, Contents 33432000, and Business Income 59212000.",
+      "Endorsements include Ordinance Or Law Coverage, Equipment Breakdown Coverage, and Utility Services \u2014 Direct Damage.",
+      "Operations are focused on commercial real estate investment and property management in Texas metropolitan areas."
+    ]
+  }
+}

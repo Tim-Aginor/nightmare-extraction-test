@@ -1,0 +1,389 @@
+{
+  "patterns_applied": [
+    {
+      "id": "p08_terminology",
+      "name": "Terminology Inconsistency",
+      "phase": "data_layer",
+      "description": "Different field labels per coverage section (e.g., Reserve vs Outstanding)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p13_special_chars",
+      "name": "Special Characters",
+      "phase": "data_layer",
+      "description": "Injected Unicode special chars in 4 claim descriptions",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p15_currency_formats",
+      "name": "Currency Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different currency formats per section ($1,234 vs 1234.56 vs em-dash for zero)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p17_date_formats",
+      "name": "Date Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different date formats per section (MM/DD/YYYY vs YYYY-MM-DD vs Mon DD, YYYY)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p23_rtl_text",
+      "name": "RTL Text",
+      "phase": "data_layer",
+      "description": "Replaced 12 claimant names with Arabic (RTL) text",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p25_truncation",
+      "name": "Truncated Fields",
+      "phase": "data_layer",
+      "description": "Truncated 5 description fields with ellipsis",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p29_ligatures",
+      "name": "Ligature Text",
+      "phase": "data_layer",
+      "description": "Applied ligature substitutions in 0 descriptions",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p30_superscript",
+      "name": "Superscript Merge",
+      "phase": "data_layer",
+      "description": "Added superscript markers to 3 claim numbers",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p65_column_synonyms",
+      "name": "Column Synonym Chaos",
+      "phase": "data_layer",
+      "description": "Replaced 9 column names with mild_jargon carrier jargon",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "column_mapping": {
+          "claim_num": "Claim No.",
+          "claimant": "Insured/Claimant",
+          "dol": "Loss Date",
+          "status": "Claim Status",
+          "paid": "Paid to Date",
+          "reserved": "Case Reserve",
+          "incurred": "Total Incurred",
+          "cause": "Cause of Injury",
+          "paid_expense": "Expense Paid"
+        },
+        "jargon_level": "mild_jargon"
+      }
+    },
+    {
+      "id": "p01_borderless",
+      "name": "Borderless Table",
+      "phase": "content_gen",
+      "description": "Removed all table gridlines, whitespace-only alignment",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p02_merged_headers",
+      "name": "Merged Headers",
+      "phase": "content_gen",
+      "description": "3-row merged header with SPAN commands for column groups",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "header_style": "merged_3row"
+      }
+    },
+    {
+      "id": "p03_multipage",
+      "name": "Multi-Page Continuation",
+      "phase": "content_gen",
+      "description": "Table splits across pages with different headers on continuation page",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p04_subtotals",
+      "name": "Subtotal Rows",
+      "phase": "content_gen",
+      "description": "Location-grouped claims with interspersed subtotal rows",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p05_nested_tables",
+      "name": "Nested Tables",
+      "phase": "content_gen",
+      "description": "Payment detail sub-tables nested inside outer claim table cells",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p07_multiline_wrap",
+      "name": "Multi-Line Wrap",
+      "phase": "content_gen",
+      "description": "Long narrative descriptions wrapping 3-5 lines without row separators",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p10_rotated_headers",
+      "name": "Rotated Headers",
+      "phase": "content_gen",
+      "description": "Financial column headers drawn as 90-degree rotated text via canvas rotation",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p11_footnotes",
+      "name": "Footnote Markers",
+      "phase": "content_gen",
+      "description": "Superscript footnote markers attached to cell values",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p19_row_split",
+      "name": "Row Split at Page Break",
+      "phase": "content_gen",
+      "description": "Tall rows (wrapped narratives) split across page boundaries via splitInRow",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p21_variable_widths",
+      "name": "Variable Column Widths",
+      "phase": "content_gen",
+      "description": "Header row column widths shifted 2-5pt from data row widths",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p24_shading",
+      "name": "Alternating Shading",
+      "phase": "content_gen",
+      "description": "Alternating row background colors for readability",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p31_single_row",
+      "name": "Single Row Table",
+      "phase": "content_gen",
+      "description": "Grand total as a header+1-row table that parsers often skip",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p40_mainframe",
+      "name": "Mainframe Artifacts",
+      "phase": "content_gen",
+      "description": "Fixed-width Courier on 132-column character grid (AS400 simulation)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p59_claim_detail_blocks",
+      "name": "Claim Detail Blocks",
+      "phase": "content_gen",
+      "description": "Claims rendered as individual key-value blocks with financial sub-tables",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p60_combined_loss_runs",
+      "name": "Combined Loss Runs",
+      "phase": "content_gen",
+      "description": "Broker-combined loss runs from multiple carriers with different column layouts",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p61_floating_headers",
+      "name": "Floating Headers",
+      "phase": "content_gen",
+      "description": "Metadata block above table pushes column headers to row 8-15",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p62_interrupted_tables",
+      "name": "Interrupted Tables",
+      "phase": "content_gen",
+      "description": "Table interrupted by disclaimer block(s), repeat_headers=True",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "interruption_type": "disclaimer",
+        "repeat_headers": true
+      }
+    },
+    {
+      "id": "p63_ambiguous_headers",
+      "name": "Ambiguous Headers",
+      "phase": "content_gen",
+      "description": "Multi-line stacked header text with varying depth per column",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p64_vertical_claims",
+      "name": "Vertical Claims",
+      "phase": "content_gen",
+      "description": "Claims rendered as vertical label-value pairs instead of table rows",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p09_watermark",
+      "name": "Watermark Overlay",
+      "phase": "overlay",
+      "description": "Diagonal semi-transparent 'DRAFT' watermark across all pages",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p14_embedded_images",
+      "name": "Embedded Images",
+      "phase": "overlay",
+      "description": "Status icons (check/x/warning) replace text status in GL table cells",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p16_invisible_text",
+      "name": "Invisible OCR Text",
+      "phase": "overlay",
+      "description": "Render mode 3 (invisible) text at slightly offset positions",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p20_void_stamp",
+      "name": "VOID Stamp",
+      "phase": "overlay",
+      "description": "Semi-transparent red VOID rectangle overlapping claim data",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p35_untagged_hf",
+      "name": "Untagged Headers/Footers",
+      "phase": "overlay",
+      "description": "Header/footer text drawn directly on canvas without structure tags",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p22_fragmented_borders",
+      "name": "Fragmented Borders",
+      "phase": "structural",
+      "description": "Table grid as many small overlapping line segments (Word export simulation)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p26_bezier_borders",
+      "name": "Bezier Borders",
+      "phase": "structural",
+      "description": "Table grid using cubic Bezier curves with collinear control points",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p27_reading_order",
+      "name": "Non-Reading Order",
+      "phase": "structural",
+      "description": "Text emitted right-to-left, bottom-to-top in content stream",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p37_clipping",
+      "name": "Clipping Paths",
+      "phase": "structural",
+      "description": "Text extends beyond clipping rectangle \u2014 full text extractable but partially visible",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p38_kerning",
+      "name": "Kerning Spaces",
+      "phase": "structural",
+      "description": "Words separated by TJ kerning offsets, no actual space characters in stream",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p28_broken_cmap",
+      "name": "Broken CMap",
+      "phase": "post_process",
+      "description": "Fully scrambled ToUnicode CMap on Courier fonts",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p36_ocg_hidden",
+      "name": "OCG Hidden Layers",
+      "phase": "post_process",
+      "description": "Hidden OCG layer with extractable but invisible text",
+      "pages_affected": [
+        7
+      ],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p42_font_corrupt",
+      "name": "Font Subset Corruption",
+      "phase": "post_process",
+      "description": "CMap missing mappings for digits 0, 5, 7",
+      "pages_affected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p56_handwritten",
+      "name": "Handwritten Elements",
+      "phase": "post_process",
+      "description": "Handwritten signature, date stamp, and margin annotations",
+      "pages_affected": [
+        4,
+        7
+      ],
+      "ground_truth_delta": {
+        "overlay_texts": [
+          "Need docs",
+          "K. Wilson",
+          "8.16.2025",
+          "Verify"
+        ]
+      }
+    },
+    {
+      "id": "p34_scan_noise",
+      "name": "Scan Noise",
+      "phase": "scan_effects",
+      "description": "Clean scan with light noise and blur (1 pages)",
+      "pages_affected": [
+        5
+      ],
+      "ground_truth_delta": {}
+    }
+  ],
+  "total_patterns": 43
+}

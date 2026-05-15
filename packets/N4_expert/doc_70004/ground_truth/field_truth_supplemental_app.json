@@ -1,0 +1,227 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_number_wc": {
+      "value": "WC-KCB-2025-5580"
+    },
+    "policy_number_gl": {
+      "value": "GL-KCB-2025-5581"
+    },
+    "policy_number_auto": {
+      "value": "CA-KCB-2025-5582"
+    },
+    "policy_number_property": {
+      "value": "CP-KCB-2025-5583"
+    },
+    "nature_of_business": {
+      "value": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+    },
+    "years_in_business": {
+      "value": 42
+    },
+    "years_current_mgmt": {
+      "value": 28
+    },
+    "num_employees_ft": {
+      "value": 425
+    },
+    "num_employees_pt": {
+      "value": 45
+    },
+    "annual_revenue": {
+      "value": 95000000,
+      "rendered_as": "$95,000,000.00"
+    },
+    "hours_of_operation": {
+      "value": "Mon-Fri 7:00 AM - 3:30 PM"
+    },
+    "safety_program": {
+      "value": "Yes"
+    },
+    "written_contracts": {
+      "value": "No"
+    }
+  },
+  "doc_type": "supplemental_app",
+  "premises": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15222",
+      "construction": "Fire Resistive",
+      "stories": 1,
+      "square_feet": 18000,
+      "occupancy": "Office",
+      "year_built": 2002,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 1260000,
+      "bi_value": 2340000,
+      "tiv": 3600000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 65000,
+      "occupancy": "Warehouse",
+      "year_built": 1995,
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 5200000,
+      "contents_value": 8450000,
+      "bi_value": 3900000,
+      "tiv": 17550000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "construction": "Masonry Non-Combustible",
+      "stories": 1,
+      "square_feet": 32000,
+      "occupancy": "Manufacturing",
+      "year_built": 1988,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 2240000,
+      "contents_value": 3840000,
+      "bi_value": 1920000,
+      "tiv": 8000000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "state": "PA",
+      "zip_code": "15090",
+      "construction": "Masonry Non-Combustible",
+      "stories": 2,
+      "square_feet": 8500,
+      "occupancy": "Office",
+      "year_built": 2010,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 1700000,
+      "contents_value": 425000,
+      "bi_value": 850000,
+      "tiv": 2975000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "100 Dutilh Road",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "zip_code": "16066",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 28000,
+      "occupancy": "Warehouse",
+      "year_built": 2005,
+      "protection_class": 1,
+      "sprinklered": false,
+      "building_value": 1680000,
+      "contents_value": 4480000,
+      "bi_value": 1120000,
+      "tiv": 7280000
+    }
+  ],
+  "risk_management": [
+    {
+      "question": "Are hazardous materials used or encountered in operations?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are certificates of insurance required from all subcontractors before work begins?",
+      "answer": "No"
+    },
+    {
+      "question": "What percentage of work is performed by subcontractors vs. own employees?",
+      "answer": "40%"
+    },
+    {
+      "question": "Is there a formal return-to-work or modified duty program?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does the applicant maintain OSHA 300 logs and conduct regular job-site safety audits?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does the applicant have a formal written safety program?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are hold-harmless agreements obtained from all subcontractors?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant perform any demolition or blasting operations?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Describe the three largest projects completed in the past 3 years.",
+      "answer": "1) $1.2M restaurant build-out, 2) $800K medical office renovation, 3) $650K church addition"
+    },
+    {
+      "question": "Are any operations performed above 4 stories?",
+      "answer": "Yes"
+    }
+  ],
+  "prior_insurance": [
+    {
+      "year": 2024,
+      "carrier": "Nationwide Insurance",
+      "premium": 1634721.63,
+      "claims": 13,
+      "cancellation": "No",
+      "premium_rendered": "$1,634,721.63"
+    },
+    {
+      "year": 2023,
+      "carrier": "Berkshire Hathaway Guard",
+      "premium": 1476849.96,
+      "claims": 10,
+      "cancellation": "No",
+      "premium_rendered": "$1,476,849.96"
+    },
+    {
+      "year": 2022,
+      "carrier": "Zurich Insurance Group",
+      "premium": 1369245.71,
+      "claims": 4,
+      "cancellation": "Yes",
+      "premium_rendered": "$1,369,245.71"
+    }
+  ]
+}

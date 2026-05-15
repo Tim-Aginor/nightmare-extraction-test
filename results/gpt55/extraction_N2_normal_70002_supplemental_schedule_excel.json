@@ -1,0 +1,68 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Industrial properties with warehouse, manufacturing, and office occupancies across nine Ohio locations.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": "Liberty Mutual Insurance",
+      "current_limit": null,
+      "expiring_premium": 392002.31,
+      "notes": "Prior insurance history lists policy CP00007001 for 2024 with no claims and no cancellation.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel submission schedules",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history: 2024 Liberty Mutual Insurance policy CP00007001 premium 392002.31 with 0 claims and no cancellation; 2023 Hartford Financial Services policy CP-5666-6137 premium 419914.35 with 0 claims and no cancellation; 2022 Chubb Limited policy 7CP0004662 premium 456514.1 with 0 claims and no cancellation; 2021 Hartford Financial Services policy 0000007099 premium 458666.38 with 1 claim and no cancellation.",
+    "executive_summary": null,
+    "operations_description": "Location schedule includes warehouse, manufacturing, and office occupancies in Columbus, Brooklyn, Dayton, Cincinnati, Toledo, and Uniontown, Ohio. Locations include leased and owned premises totaling 1948500 square feet across the listed schedule.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Manufacturing occupancies are present at two locations.",
+      "Own/lease status is blank for LOC-008."
+    ],
+    "loss_history_summary": "Prior insurance history shows no claims in 2024, 2023, or 2022 and one claim in 2021. No cancellations are reported for 2021 through 2024.",
+    "positives": [
+      "No reported claims in the three most recent listed policy years: 2024, 2023, and 2022.",
+      "No cancellations reported in the prior insurance history.",
+      "All scheduled premises are located in Ohio."
+    ]
+  }
+}

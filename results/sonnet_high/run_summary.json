@@ -1,0 +1,22 @@
+{
+  "model": "sonnet_high",
+  "provider": "anthropic",
+  "total_docs": 1,
+  "ok": 0,
+  "failed": 1,
+  "total_cost_usd": 0.0,
+  "total_time_s": 1517.5,
+  "results": [
+    {
+      "packet_id": "N5_nightmare_70005",
+      "doc_type": "loss_run",
+      "model": "sonnet_high",
+      "success": false,
+      "error": "Request timed out or interrupted. This could be due to a network timeout, dropped connection, or request cancellation. See https://docs.anthropic.com/en/api/errors#long-requests for more details.",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "elapsed_s": 1517.5008804798126
+    }
+  ]
+}

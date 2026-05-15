@@ -1,0 +1,298 @@
+{
+  "applicant_info": {
+    "fein": "36-7348458",
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": "1521",
+    "years_in_business": null
+  },
+  "auto_limits": {
+    "combined_single_limit": 1000000,
+    "medical_payments": 5000,
+    "uninsured_motorist": 500000
+  },
+  "auto_premium": {
+    "base_premium": null,
+    "deductible": null,
+    "form_type": "Occurrence",
+    "total_premium": 57888.77,
+    "tria_surcharge": null
+  },
+  "checkboxes": [
+    {
+      "field": "Coverage symbol 1 Any Auto - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 1 Any Auto - PIP",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 1 Any Auto - UM/UIM",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 1 Any Auto - Physical Damage",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 12 Non-Owned Autos - Employees Only - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 20 Dealer Autos - Physical Damage",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 17 Public/Livery Passenger Autos - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 5 Owned Autos Subject to No-Fault - PIP",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 19 Garage Operations - Non-Owned - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 15 Leased or Financed Autos - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 15 Leased or Financed Autos - Physical Damage",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage symbol 4 Owned Autos Other Than Private Passenger - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "PIP coverage required",
+      "value": "Yes"
+    },
+    {
+      "field": "UMBI coverage required",
+      "value": "Yes"
+    },
+    {
+      "field": "UIM coverage required",
+      "value": "Yes"
+    },
+    {
+      "field": "Hired auto covered",
+      "value": "No"
+    },
+    {
+      "field": "Non-owned auto liability covered",
+      "value": "No"
+    },
+    {
+      "field": "Hired car physical damage covered",
+      "value": "No"
+    },
+    {
+      "field": "PA Uninsured Motorist Coverage included",
+      "value": "Yes"
+    },
+    {
+      "field": "PA Underinsured Motorist Coverage included",
+      "value": "Yes"
+    },
+    {
+      "field": "PA Personal Injury Protection included",
+      "value": "Yes"
+    },
+    {
+      "field": "GPS tracking devices installed in all vehicles",
+      "value": "Yes"
+    },
+    {
+      "field": "Any drivers under age 21",
+      "value": "No"
+    },
+    {
+      "field": "Insured operates delivery services",
+      "value": "Yes"
+    },
+    {
+      "field": "Vehicles used to tow trailers or other vehicles",
+      "value": "No"
+    },
+    {
+      "field": "Insured operates vehicles across state lines",
+      "value": "No"
+    }
+  ],
+  "form_info": {
+    "form_edition": "2020/03",
+    "form_number": "ACORD 137",
+    "form_title": "Commercial Auto Supplement"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "insured_address": "800 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "CA-KCBB-2025-6837",
+    "producer_code": null,
+    "producer_name": "Steel City Insurance Group"
+  },
+  "remarks": null,
+  "vehicles": [
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-350",
+      "stated_value": 82397,
+      "vehicle_class": null,
+      "vehicle_id": "1",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-350",
+      "stated_value": 53537,
+      "vehicle_class": null,
+      "vehicle_id": "2",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-350",
+      "stated_value": 52448,
+      "vehicle_class": null,
+      "vehicle_id": "3",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-350",
+      "stated_value": 51768,
+      "vehicle_class": null,
+      "vehicle_id": "4",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Ram",
+      "model": "3500",
+      "stated_value": 64762,
+      "vehicle_class": null,
+      "vehicle_id": "5",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "stated_value": 77887,
+      "vehicle_class": null,
+      "vehicle_id": "6",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "E-450",
+      "stated_value": 44396,
+      "vehicle_class": null,
+      "vehicle_id": "7",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "Transit 350",
+      "stated_value": 48806,
+      "vehicle_class": null,
+      "vehicle_id": "8",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "Transit 350",
+      "stated_value": 47589,
+      "vehicle_class": null,
+      "vehicle_id": "9",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Chevrolet",
+      "model": "Express 3500",
+      "stated_value": 49581,
+      "vehicle_class": null,
+      "vehicle_id": "10",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "stated_value": 33157,
+      "vehicle_class": null,
+      "vehicle_id": "11",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-150",
+      "stated_value": 41174,
+      "vehicle_class": null,
+      "vehicle_id": "12",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Freightliner",
+      "model": "M2 106",
+      "stated_value": 80000,
+      "vehicle_class": null,
+      "vehicle_id": "13",
+      "vin": null,
+      "year": 2016
+    },
+    {
+      "garage_state": null,
+      "make": "Freightliner",
+      "model": "M2",
+      "stated_value": 120000,
+      "vehicle_class": null,
+      "vehicle_id": "14",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Great Dane",
+      "model": "Freedom SE",
+      "stated_value": 25000,
+      "vehicle_class": null,
+      "vehicle_id": "15",
+      "vin": null,
+      "year": 2022
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2023-08-01",
+    "expiration_date": "2024-08-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "document_date": null,
+  "certificate_holders": [
+    {
+      "name": "Woodbridge Realty Management Inc.",
+      "address": "475 Majie Avenue, Unit 129, Birmingham, AL 35201"
+    }
+  ],
+  "carrier_name_per_lob": [
+    {
+      "lob": "Commercial General Liability",
+      "carrier": "Hallmark Insurance Group",
+      "naic": null,
+      "policy_number": "GL-ACL-2023-5584"
+    },
+    {
+      "lob": "Automobile Liability",
+      "carrier": "Hallmark Insurance Group",
+      "naic": null,
+      "policy_number": "CA-ACL-2023-5584"
+    },
+    {
+      "lob": "Workers Compensation and Employers Liability",
+      "carrier": "Hallmark Insurance Group",
+      "naic": null,
+      "policy_number": "WC-ACL-2023-5580"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "policy_number": "GL-ACL-2023-5584",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "Each Occurrence 2000000; Damage To Rented Premises 300000; Med Exp 15000; Personal And Adv Injury 2000000; General Aggregate 4000000; Products Comp/Op Agg 4000000"
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "policy_number": "CA-ACL-2023-5584",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "Combined Single Limit 1000000"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers Liability",
+      "policy_number": "WC-ACL-2023-5580",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "Statutory; EL Each Accident 1000000; EL Disease EA Employee 1000000; EL Disease Policy Limit 1000000"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "general_liability_claims_made",
+      "value": "No"
+    },
+    {
+      "field": "general_liability_occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "workers_comp_statutory_limits",
+      "value": "Yes"
+    },
+    {
+      "field": "workers_comp_other",
+      "value": "No"
+    }
+  ],
+  "remarks": "RE: General contracting for commercial and institutional construction -- healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania including Corporate Headquarters - 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222; Main Facility Yard & Warehouse - 4500 Butler Street, Pittsburgh, PA 15201; Fabrication Shop - 4570 Butler Street, Pittsburgh, PA 15201. Woodbridge Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

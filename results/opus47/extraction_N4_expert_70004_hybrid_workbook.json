@@ -1,0 +1,95 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction/contracting operations with equipment yards, fabrication, and warehousing",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 95000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "35 claims, total paid 1126509, total incurred 1171607"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "8 claims, total paid 105421, total incurred 176947"
+    },
+    {
+      "coverage_type": "Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "8 claims, total paid 47076, total incurred 99900"
+    },
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "1 claim, total paid 36750, total incurred 36750; TIV across 5 locations 39405000"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Most locations are sprinklered",
+      "Construction types are primarily Fire Resistive, Non-Combustible, or Masonry Non-Combustible",
+      "Experienced driver roster with multiple drivers having 15+ years experience",
+      "Positive net income of approximately 5.997M on 95M revenue"
+    ],
+    "concerns": [
+      "LOC-005 Equipment Storage - Cranberry is not sprinklered",
+      "Elevated workers compensation claim frequency (35 claims)",
+      "Carrier changes across multiple years (Nationwide, Berkshire Hathaway Guard, Zurich, CNA)",
+      "Rising premium trend with 13-15 claims in recent WC-heavy years"
+    ],
+    "loss_history_summary": "52 total claims across WC (35), GL (8), Auto (8), and Property (1), with total incurred of approximately 1,485,204. WC represents the dominant loss driver."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 15,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

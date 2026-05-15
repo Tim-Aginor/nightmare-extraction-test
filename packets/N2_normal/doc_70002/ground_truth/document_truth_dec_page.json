@@ -1,0 +1,31 @@
+{
+  "document_type": "dec_page",
+  "template": "maine_employers_mutual_sta",
+  "seed": 70002,
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600, Columbus, OH, 43215",
+    "street": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip_code": "43215"
+  },
+  "carrier": "Maine Employers Mutual",
+  "policy_period": {
+    "start": "2025-09-01",
+    "end": "2026-09-01"
+  },
+  "policy_numbers": {
+    "property": "CP-BIP-2025-4420"
+  },
+  "summary": {
+    "coverages": [
+      "property"
+    ],
+    "total_premium": 424883.27
+  },
+  "page_count": 1,
+  "premiums": {
+    "property": 424883.27
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": "6512",
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": "Apex Managing General Agency",
+      "current_limit": "Building: 222340000; Contents: 33432000; Business Income: 59212000; Coinsurance: 90; Deductible: 50000",
+      "expiring_premium": 403697.14,
+      "notes": "Coverage Part Form Number CP 00 10 10 12; policy number CP-LSPH-2025-7801; producer Texas Commercial Insurance Partners.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Ordinance Or Law Coverage",
+      "current_carrier": "Apex Managing General Agency",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 (10 12), effective 2026-03-15. Provides Coverage A for loss to the undamaged portion of the building due to enforcement of ordinance or law requiring demolition after a covered cause of loss.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_carrier": "Apex Managing General Agency",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12), effective 2026-03-15. Covers direct physical loss of or damage to Covered Property caused by or resulting from an equipment breakdown accident to covered mechanical, electrical, or pressure equipment.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Direct Damage",
+      "current_carrier": "Apex Managing General Agency",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12), effective 2026-03-15. Covers direct physical loss of or damage to Covered Property caused by interruption of utility services, including water supply, communication supply, and power supply services.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Commercial Property Building and Personal Property Coverage Form / Policy",
+    "prepared_by": "Apex Managing General Agency",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "SIC Code: 6512 Description: Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "name": "Lone Star Property Holdings, LP",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": "2026-07-01",
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "risk_highlights": {
+    "concerns": [],
+    "loss_history_summary": null,
+    "positives": []
+  }
+}

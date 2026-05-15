@@ -1,0 +1,387 @@
+{
+  "form_info": {
+    "form_number": "ACORD 127",
+    "form_edition": "2016/03",
+    "form_title": "BUSINESS AUTO SECTION"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CA-KCB-2025-5582",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "producer_name": null,
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-550",
+      "vin": "1FT35E7C8PHDLLA8E",
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 82387.0
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": "1FDKV2R66R5DL10FS",
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 63837.0
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": "1FD102J3XNDSM34RC",
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 52449.0
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": "1FT8WUNM1P3F6EWSN",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 47746.0
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2021,
+      "make": "Ram",
+      "model": "3500",
+      "vin": "3C6C8PB01RA3F37B",
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 58782.0
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "vin": "1GCRCZVA6PM3DFW12",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 47691.0
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2020,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": "3FADD361XNYY8RYCA",
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 63398.0
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Transit 350",
+      "vin": "1FT8S52RXP5878YFF",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 48930.0
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": "1FT4SNYD3RA3MU1E7",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 45599.0
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Express 2500",
+      "vin": "1GABY9LD6NZHJRS1",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 50561.0
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "vin": "4T1TWN8F5PJ5VYGJN",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 38157.0
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "2FTB620G6R6NB8UHJ",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 41174.0
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2016,
+      "make": "Fontaine",
+      "model": "Magnitude 55H",
+      "vin": "13NA70526G6K3BFZE",
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 20000.0
+    },
+    {
+      "vehicle_id": "14",
+      "year": 2023,
+      "make": "Wabash",
+      "model": "Platform",
+      "vin": "1JJ8CJ947PNR3UCDG",
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 20000.0
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Great Dane",
+      "model": "Freedom SE",
+      "vin": "5DYZ0JNKXN27P599P",
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 20000.0
+    }
+  ],
+  "drivers": [
+    {
+      "name": "Michael Petroski",
+      "date_of_birth": "1975-06-14",
+      "sex": "M",
+      "license_number": "PA-29371945",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Clear"
+    },
+    {
+      "name": "Robert Mazur",
+      "date_of_birth": "1982-11-28",
+      "sex": "M",
+      "license_number": "PA-39482756",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Anthony DiNardo",
+      "date_of_birth": "1979-03-07",
+      "sex": "M",
+      "license_number": "PA-47593867",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "James Yurkovich",
+      "date_of_birth": "1985-09-22",
+      "sex": "M",
+      "license_number": "PA-59604978",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "David Krynicki",
+      "date_of_birth": "1988-01-15",
+      "sex": "M",
+      "license_number": "PA-69715089",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Thomas Babich",
+      "date_of_birth": "1972-05-30",
+      "sex": "M",
+      "license_number": "PA-70827190",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Steven Novak",
+      "date_of_birth": "1990-04-18",
+      "sex": "M",
+      "license_number": "PA-81938201",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Jennifer Pawlowski",
+      "date_of_birth": "1986-12-05",
+      "sex": "F",
+      "license_number": "PA-92049312",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Mark Wisniewski",
+      "date_of_birth": "1983-07-19",
+      "sex": "M",
+      "license_number": "PA-03160423",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Clear"
+    },
+    {
+      "name": "Paul Staniszewski",
+      "date_of_birth": "1991-02-28",
+      "sex": "M",
+      "license_number": "PA-14271534",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Gregory Kozlowski",
+      "date_of_birth": "1978-11-14",
+      "sex": "M",
+      "license_number": "PA-25382645",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Daniel Kowalski",
+      "date_of_birth": "1987-04-22",
+      "sex": "M",
+      "license_number": "PA-36493756",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Richard Jankowski",
+      "date_of_birth": "1980-09-05",
+      "sex": "M",
+      "license_number": "PA-47504867",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Kevin Zielinski",
+      "date_of_birth": "1993-08-17",
+      "sex": "M",
+      "license_number": "PA-58615978",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Minor Violations"
+    },
+    {
+      "name": "Andrew Grabowski",
+      "date_of_birth": "1984-12-30",
+      "sex": "M",
+      "license_number": "PA-69726089",
+      "license_state": "PA",
+      "cdl_class": null,
+      "mvr_status": "Clear"
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 5000000,
+    "uninsured_motorist": 500000,
+    "medical_payments": 10000
+  },
+  "auto_premium": {
+    "base_premium": null,
+    "tria_surcharge": null,
+    "total_premium": 57889.77,
+    "deductible": null,
+    "form_type": "occurrence"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Combined Single Limit (Ea Accident)",
+      "limit": "5000000",
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Payments (Per Person)",
+      "limit": "10000",
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Uninsured Motorist",
+      "limit": "500000",
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Are all vehicles owned by the named insured?",
+      "value": "No"
+    },
+    {
+      "field": "Are all drivers required to have valid CDL licenses where applicable?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does the insured use any subcontracted or independent owner-operators?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured maintain written vehicle safety and maintenance programs?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured operate under any federal or state motor carrier authority?",
+      "value": "No"
+    },
+    {
+      "field": "Are any vehicles leased or rented to others?",
+      "value": "No"
+    },
+    {
+      "field": "Are any vehicles garaged at locations other than the insured premises?",
+      "value": "No"
+    },
+    {
+      "field": "Are MVR checks performed on all drivers at least annually?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any vehicles used for livery or passenger conveyance?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

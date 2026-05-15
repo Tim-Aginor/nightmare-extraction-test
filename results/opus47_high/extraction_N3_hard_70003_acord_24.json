@@ -1,0 +1,123 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": "AG-5508509",
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CP-HCHP-2025-3352",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Fire Resistive, Hotel"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 101570000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property",
+      "limit": 426150000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income / Extra Expense",
+      "limit": 40510000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Rental Value",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Building",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Personal Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Building & PP",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Inland Marine",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Crime",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Boiler & Machinery / Equipment Breakdown",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "basic": "checked",
+    "broad": "checked",
+    "special": "checked",
+    "earthquake": "checked",
+    "wind": "checked",
+    "flood": "checked"
+  },
+  "additional_fields": {
+    "producer_contact_name": "Marcus Jennings",
+    "producer_phone": "(512) 555-0634",
+    "producer_fax": "(512) 695-7363",
+    "producer_email": "mjennings@capinfla.com",
+    "producer_address": "100 Congress Avenue, Suite 1500, Austin, TX 78701",
+    "insurer_a": "Hallmark Insurance Company",
+    "insurer_a_naic": "16359",
+    "insurer_b": "Hallmark Indemnity Company",
+    "insurer_b_naic": "16412",
+    "insurer_c": "Hallmark Casualty Company",
+    "insurer_c_naic": "16371",
+    "certificate_number": "CERT-809720",
+    "revision_number": "1",
+    "location_of_premises": "604 Brazos Street, Austin, TX 78701",
+    "construction": "Fire Resistive",
+    "occupancy": "Hotel",
+    "basic_amount": "25,000",
+    "broad_amount": "25,000",
+    "certificate_holder_name": "Dusk Realty Management Inc.",
+    "certificate_holder_address": "609 Lake Street, Springfield, MO 65801",
+    "authorized_representative": "Christina Montoya",
+    "date_issued": "2025-05-01"
+  },
+  "remarks": null
+}

@@ -1,0 +1,103 @@
+{
+  "form_info": {
+    "form_number": "24",
+    "form_edition": null,
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CPGLFS20256020",
+    "effective_date": "2025-01-01",
+    "expiration_date": "2026-01-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AG-4419703"
+  },
+  "document_date": "2024-10-10",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 54110000,
+      "contents_value": 30320000,
+      "bi_value": 57954000,
+      "tiv": 142384000
+    }
+  ],
+  "property_limits": {
+    "building": 54110000,
+    "contents": 30320000,
+    "business_income": 57954000
+  },
+  "property_deductible": 50000,
+  "insurer_panel": [
+    {
+      "carrier": "Standard Insurance Company",
+      "naic": "21008"
+    },
+    {
+      "carrier": "Standard Indemnity Company",
+      "naic": "21093"
+    },
+    {
+      "carrier": "Standard Casualty Company",
+      "naic": "21088"
+    },
+    {
+      "carrier": "Standard Assurance Company",
+      "naic": "21206"
+    },
+    {
+      "carrier": "Standard Surety Company",
+      "naic": "21152"
+    },
+    {
+      "carrier": "Standard Insurance Company",
+      "naic": "21158"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Property - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Property - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Property - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "Property - Earthquake",
+      "value": "No"
+    },
+    {
+      "field": "Property - Wind",
+      "value": "No"
+    },
+    {
+      "field": "Property - Flood",
+      "value": "No"
+    }
+  ],
+  "remarks": "Need docs. 6/18/2025"
+}

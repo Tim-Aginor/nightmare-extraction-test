@@ -1,0 +1,185 @@
+{
+  "report_info": {
+    "report_type": "FIRE PROTECTION SYSTEM INSPECTION REPORT",
+    "report_date": "2026-03-15",
+    "inspector_name": "D. Wilson, ARM",
+    "inspector_company": "Apex Managing General Agency",
+    "risk_grade": "Below Average",
+    "grading_scale": "Travelers Risk Assessment"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "8117 Preston Road",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75225"
+  },
+  "carrier_info": {
+    "carrier_name": null,
+    "policy_number": "CP-LSPH-2025-7801",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Preston Center Tower",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2008,
+      "stories": 18,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 4,
+      "condition_rating": null,
+      "findings": [
+        "System Type: Dry Pipe, Age: 20 years, Manufacturer: Reliable",
+        "NFPA 13 Compliant: Yes",
+        "6 control valves inspected. All found in open position.",
+        "Tamper switches: Not all connected",
+        "Water flow alarm and Supervisory signal tested and operational.",
+        "Sprinkler Heads Visual condition: Fair \u2014 minor corrosion observed. Spare heads in cabinet adequate.",
+        "Water Supply Static Pressure 42 psi, Residual Pressure 49 psi, Flow 1029 GPM, Supply Adequate"
+      ],
+      "deficiencies": [
+        "[Priority] Combustible storage within 18 inches of sprinkler deflectors",
+        "[Code] Exposed wiring and missing junction box covers in main electrical room"
+      ]
+    },
+    {
+      "name": "Galleria Office Park - Building A",
+      "address": "5050 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2001,
+      "stories": 12,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 2,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Galleria Office Park - Building B",
+      "address": "5060 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2003,
+      "stories": 10,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 1,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Legacy Town Center Retail",
+      "address": "7301 Lone Star Drive",
+      "city": "Plano",
+      "state": "TX",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": null,
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 2,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Uptown Mixed-Use Development",
+      "address": "3200 McKinney Avenue",
+      "city": "Dallas",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2018,
+      "stories": 6,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 5,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Energy Corridor Business Center",
+      "address": "1400 Enclave Parkway",
+      "city": "Houston",
+      "state": "TX",
+      "construction": "Non-Combustible",
+      "occupancy": null,
+      "year_built": 1995,
+      "stories": 8,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 4,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Fort Worth Medical Office Building",
+      "address": "800 8th Avenue",
+      "city": "Fort Worth",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "occupancy": null,
+      "year_built": 2015,
+      "stories": 5,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 3,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    },
+    {
+      "name": "Southlake Town Square - East Wing",
+      "address": "1256 Main Street",
+      "city": "Southlake",
+      "state": "TX",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": null,
+      "year_built": 2006,
+      "stories": 3,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": 2,
+      "condition_rating": null,
+      "findings": [],
+      "deficiencies": []
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": null,
+      "category": "fire_protection",
+      "description": "Combustible storage within 18 inches of sprinkler deflectors",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": null,
+      "category": "electrical",
+      "description": "Exposed wiring and missing junction box covers in main electrical room",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Overall System Status: PASS",
+    "risk_level": "Below Average",
+    "insurability": null
+  }
+}

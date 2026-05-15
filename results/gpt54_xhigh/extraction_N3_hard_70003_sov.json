@@ -1,0 +1,18 @@
+{
+  "header": {
+    "insured_name": null,
+    "insured_address": null,
+    "policy_number": null,
+    "policy_period_start": null,
+    "policy_period_end": null,
+    "carrier_name": null
+  },
+  "locations": [],
+  "totals": {
+    "building_value": null,
+    "contents_value": null,
+    "bi_value": null,
+    "tiv": null,
+    "location_count": null
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "form_info": {
+    "form_number": "ACORD 160",
+    "form_edition": "2016/03",
+    "form_title": "BUSINESSOWNERS APPLICATION"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "75-4829163",
+    "sic_code": "6512",
+    "naics_code": "531120",
+    "years_in_business": 24,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "entity_type": "Limited Partnership"
+  },
+  "locations": [
+    {
+      "location_number": "1",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75225",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2008,
+      "stories": 18,
+      "square_feet": 285000,
+      "sprinklered": true,
+      "roof_type": "Shingle",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 62700000,
+      "contents_value": 8550000,
+      "bi_value": 15200000,
+      "tiv": 86450000
+    },
+    {
+      "location_number": "2",
+      "address": "5050 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77056",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2001,
+      "stories": 12,
+      "square_feet": 168000,
+      "sprinklered": true,
+      "roof_type": "TPO",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 33600000,
+      "contents_value": 5040000,
+      "bi_value": 8400000,
+      "tiv": 47040000
+    },
+    {
+      "location_number": "3",
+      "address": "5060 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77056",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2003,
+      "stories": 10,
+      "square_feet": 142000,
+      "sprinklered": true,
+      "roof_type": "Single-Ply Membrane",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 28400000,
+      "contents_value": 4260000,
+      "bi_value": 7100000,
+      "tiv": 39760000
+    },
+    {
+      "location_number": "4",
+      "address": "7301 Lone Star Drive",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75024",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Mercantile",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 95000,
+      "sprinklered": true,
+      "roof_type": "Concrete",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 19000000,
+      "contents_value": 2850000,
+      "bi_value": 5700000,
+      "tiv": 27550000
+    },
+    {
+      "location_number": "5",
+      "address": "3200 McKinney Avenue",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75204",
+      "construction": "Fire Resistive",
+      "occupancy": "Mercantile",
+      "year_built": 2018,
+      "stories": 6,
+      "square_feet": 124000,
+      "sprinklered": true,
+      "roof_type": "TPO",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 31000000,
+      "contents_value": 4650000,
+      "bi_value": 9300000,
+      "tiv": 44950000
+    },
+    {
+      "location_number": "6",
+      "address": "1400 Enclave Parkway",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77077",
+      "construction": "Non-Combustible",
+      "occupancy": "Office",
+      "year_built": 1995,
+      "stories": 8,
+      "square_feet": 112000,
+      "sprinklered": true,
+      "roof_type": "EPDM",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 19040000,
+      "contents_value": 2856000,
+      "bi_value": 5712000,
+      "tiv": 27608000
+    },
+    {
+      "location_number": "7",
+      "address": "800 8th Avenue",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76104",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2015,
+      "stories": 5,
+      "square_feet": 78000,
+      "sprinklered": true,
+      "roof_type": "Shingle",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 17160000,
+      "contents_value": 3510000,
+      "bi_value": 4680000,
+      "tiv": 25350000
+    },
+    {
+      "location_number": "8",
+      "address": "1256 Main Street",
+      "city": "Southlake",
+      "state": "TX",
+      "zip": "76092",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Mercantile",
+      "year_built": 2006,
+      "stories": 3,
+      "square_feet": 52000,
+      "sprinklered": true,
+      "roof_type": "TPO",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 11440000,
+      "contents_value": 1716000,
+      "bi_value": 3120000,
+      "tiv": 16276000
+    }
+  ],
+  "additional_coverages": [
+    {
+      "coverage_type": "Extra Expense",
+      "limit": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Valuable Papers",
+      "limit": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Ordinance or Law \u2014 Coverage A",
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Fire Department Service Charge",
+      "limit": 2500,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Advertising Injury",
+      "limit": 1000000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Cyber Liability",
+      "limit": 100000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Electronic Data Processing",
+      "limit": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Mechanical Breakdown",
+      "limit": 100000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Per Project General Aggregate",
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Forgery or Alteration",
+      "limit": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Waiver of Subrogation \u2014 Blanket",
+      "limit": null,
+      "premium": null
+    }
+  ],
+  "interests": [
+    {
+      "name": "Huntington National Bank",
+      "loan_number": "L-848255659",
+      "interest_type": "ISAOA/ATIMA"
+    },
+    {
+      "name": "M&T Bank",
+      "loan_number": "L-620925734",
+      "interest_type": "As Their Interest May Appear"
+    },
+    {
+      "name": "First National Bank",
+      "loan_number": "L-951058317",
+      "interest_type": "First Mortgagee"
+    }
+  ],
+  "property_premium": 403697.14,
+  "property_deductible": 50000.0,
+  "total_tiv": 314984000,
+  "checkboxes": [
+    {
+      "field": "1. Does the applicant sell or distribute products manufactured by others?",
+      "value": "No"
+    },
+    {
+      "field": "2. Are there any underground storage tanks on premises?",
+      "value": "No"
+    },
+    {
+      "field": "3. Does the applicant store flammable liquids on premises?",
+      "value": "No"
+    },
+    {
+      "field": "4. Are there any alterations or construction in progress?",
+      "value": "No"
+    },
+    {
+      "field": "5. Are there any tenant improvements or betterments?",
+      "value": "No"
+    },
+    {
+      "field": "6. Is the building located within a flood zone?",
+      "value": "No"
+    },
+    {
+      "field": "7. Is the applicant the sole occupant of the building?",
+      "value": "No"
+    },
+    {
+      "field": "8. Is the applicant the building owner or tenant?",
+      "value": "Yes"
+    },
+    {
+      "field": "9. Are there any cooking operations on premises?",
+      "value": "No"
+    },
+    {
+      "field": "10. Does the applicant have any off-premises property exposures?",
+      "value": "No"
+    },
+    {
+      "field": "11. Does the applicant have a burglar alarm system?",
+      "value": "Yes"
+    },
+    {
+      "field": "12. Are commercial cooking operations (deep fat fryers, char broilers, woks, or commercial kitchen hoods) used on premises?",
+      "value": "No"
+    },
+    {
+      "field": "13. Is the building 100% sprinklered?",
+      "value": "Yes"
+    },
+    {
+      "field": "14. Does the building have a backup generator?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

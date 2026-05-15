@@ -1,0 +1,84 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "applicant_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "fein": {
+      "value": "74-6195832"
+    },
+    "state": {
+      "value": "TX"
+    },
+    "experience_mod": {
+      "value": 0.94
+    },
+    "total_premium": {
+      "value": 379487.0,
+      "rendered_as": "$379,487.00"
+    },
+    "policy_number_wc": {
+      "value": "WC-HCHP-2025-3350"
+    }
+  },
+  "doc_type": "acord_133",
+  "class_codes": [
+    {
+      "class_code": "9052",
+      "description": "Hotel \u2014 All Other Employees",
+      "num_employees": 257,
+      "payroll": 9207271,
+      "rate": 2.85,
+      "premium": 262407.0
+    },
+    {
+      "class_code": "9060",
+      "description": "Hotel \u2014 Bellhops, Doorpersons",
+      "num_employees": 44,
+      "payroll": 1454400,
+      "rate": 2.45,
+      "premium": 35633.0
+    },
+    {
+      "class_code": "9082",
+      "description": "Restaurant \u2014 NOC",
+      "num_employees": 117,
+      "payroll": 3678800,
+      "rate": 2.12,
+      "premium": 77991.0
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2014 NOC",
+      "num_employees": 32,
+      "payroll": 1920000,
+      "rate": 0.18,
+      "premium": 3456.0
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc.",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 274.7,
+          "width": 136.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company",
+      "locations": [
+        {
+          "page": 1,
+          "x": 280.1,
+          "y": 87.7,
+          "width": 119.6,
+          "height": 9.0
+        },
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 208.7,
+          "width": 119.6,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Boulevard"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "policy_number_property": {
+      "value": "cpGLFS20258823"
+    },
+    "property_deductible": {
+      "value": 50000,
+      "rendered_as": "$50,000.00"
+    },
+    "valuation_method": {
+      "value": "Actual Cash Value",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 340.7,
+          "width": 74.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "coinsurance_property": {
+      "value": 80.0
+    },
+    "location_count": {
+      "value": 9
+    },
+    "blanket_number": {
+      "value": "BLK-6065"
+    },
+    "blanket_type": {
+      "value": "Building",
+      "locations": [
+        {
+          "page": 2,
+          "x": 50.8,
+          "y": 211.4,
+          "width": 26.7,
+          "height": 7.5
+        },
+        {
+          "page": 11,
+          "x": 50.8,
+          "y": 111.4,
+          "width": 26.7,
+          "height": 7.5
+        }
+      ]
+    }
+  },
+  "doc_type": "acord_140",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "name": "Corporate Headquarters & Main Terminal",
+      "construction": "Non-Combustible",
+      "roof_type": "Concrete",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 125000,
+      "occupancy": "Warehouse",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 10000000,
+      "contents_value": 5000000,
+      "bi_value": 9750000,
+      "tiv": 24750000,
+      "rendered_values": {
+        "building_value": "$10,000,000.00",
+        "contents_value": "$5,000,000.00",
+        "bi_value": "$9,750,000.00",
+        "tiv": "$24,750,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "1410 ft",
+        "fire_district": "District 5",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "75%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2019,
+        "roofing_year": 2026,
+        "wiring_year": 2018
+      },
+      "locations": {
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 540.7,
+            "width": 69.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 453.7,
+            "width": 69.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "2500 Norton Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "name": "Rickenbacker Air Hub",
+      "construction": "Non-Combustible",
+      "roof_type": "Concrete",
+      "year_built": 2012,
+      "stories": 1,
+      "square_feet": 185000,
+      "occupancy": "Warehouse",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 14800000,
+      "contents_value": 7400000,
+      "bi_value": 14430000,
+      "tiv": 36630000,
+      "rendered_values": {
+        "building_value": "$14,800,000.00",
+        "contents_value": "$7,400,000.00",
+        "bi_value": "$14,430,000.00",
+        "tiv": "$36,630,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "2 miles",
+        "distance_to_hydrant": "2485 ft",
+        "fire_district": "District 1",
+        "sprinkler_type": "Deluge",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department"
+      },
+      "improvements": {
+        "heating_year": 2021,
+        "plumbing_year": 2025,
+        "roofing_year": 2022,
+        "wiring_year": 2023
+      },
+      "locations": {
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 540.7,
+            "width": 69.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 453.7,
+            "width": 69.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "6000 Rockside Woods Boulevard",
+      "city": "Independence",
+      "state": "OH",
+      "zip_code": "44131",
+      "name": "Cleveland Distribution Center",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "Concrete",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 95000,
+      "occupancy": "Warehouse",
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 6650000,
+      "contents_value": 3800000,
+      "bi_value": 7410000,
+      "tiv": 17860000,
+      "rendered_values": {
+        "building_value": "$6,650,000.00",
+        "contents_value": "$3,800,000.00",
+        "bi_value": "$7,410,000.00",
+        "tiv": "$17,860,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "531 ft",
+        "fire_district": "District 3",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2024,
+        "plumbing_year": 2003,
+        "roofing_year": 2008,
+        "wiring_year": 2003
+      }
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "500 Technology Drive",
+      "city": "Canonsburg",
+      "state": "PA",
+      "zip_code": "15317",
+      "name": "Pittsburgh Regional Terminal",
+      "construction": "Non-Combustible",
+      "roof_type": "TPO",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 78000,
+      "occupancy": "Warehouse",
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 5460000,
+      "contents_value": 3120000,
+      "bi_value": 6084000,
+      "tiv": 14664000,
+      "rendered_values": {
+        "building_value": "$5,460,000.00",
+        "contents_value": "$3,120,000.00",
+        "bi_value": "$6,084,000.00",
+        "tiv": "$14,664,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "3 miles",
+        "distance_to_hydrant": "844 ft",
+        "fire_district": "District 2",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Proprietary System"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2021
+      },
+      "locations": {
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 540.7,
+            "width": 69.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 453.7,
+            "width": 69.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "7600 State Road",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "19136",
+      "name": "Philadelphia Cross-Dock",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "Single-Ply Membrane",
+      "year_built": 2001,
+      "stories": 1,
+      "square_feet": 68000,
+      "occupancy": "Warehouse",
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 4760000,
+      "contents_value": 2720000,
+      "bi_value": 5304000,
+      "tiv": 12784000,
+      "rendered_values": {
+        "building_value": "$4,760,000.00",
+        "contents_value": "$2,720,000.00",
+        "bi_value": "$5,304,000.00",
+        "tiv": "$12,784,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "7 miles",
+        "distance_to_hydrant": "2367 ft",
+        "fire_district": "District 3",
+        "sprinkler_type": "Dry Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Local Alarm Only"
+      },
+      "improvements": {
+        "heating_year": 2013,
+        "plumbing_year": 2022,
+        "roofing_year": 2026,
+        "wiring_year": 2016
+      }
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "4100 Industrial Road",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip_code": "17111",
+      "name": "Harrisburg Consolidation Hub",
+      "construction": "Non-Combustible",
+      "roof_type": "Modified Bitumen",
+      "year_built": 2015,
+      "stories": 1,
+      "square_feet": 92000,
+      "occupancy": "Warehouse",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 7360000,
+      "contents_value": 3680000,
+      "bi_value": 7176000,
+      "tiv": 18216000,
+      "rendered_values": {
+        "building_value": "$7,360,000.00",
+        "contents_value": "$3,680,000.00",
+        "bi_value": "$7,176,000.00",
+        "tiv": "$18,216,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "1994 ft",
+        "fire_district": "District 1",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "90%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Proprietary System"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2025,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      },
+      "locations": {
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 540.7,
+            "width": 69.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 453.7,
+            "width": 69.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3500 Airborne Road",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43609",
+      "name": "Toledo Service Center",
+      "construction": "Joisted Masonry",
+      "roof_type": "TPO",
+      "year_built": 1995,
+      "stories": 1,
+      "square_feet": 52000,
+      "occupancy": "Warehouse",
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 3120000,
+      "contents_value": 2080000,
+      "bi_value": 4056000,
+      "tiv": 9256000,
+      "rendered_values": {
+        "building_value": "$3,120,000.00",
+        "contents_value": "$2,080,000.00",
+        "bi_value": "$4,056,000.00",
+        "tiv": "$9,256,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Joisted Masonry",
+      "fire_protection": {
+        "distance_to_fire_station": "8 miles",
+        "distance_to_hydrant": "1577 ft",
+        "fire_district": "District 7",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "90%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Local Alarm Only"
+      },
+      "improvements": {
+        "heating_year": 2010,
+        "plumbing_year": 2008,
+        "roofing_year": 2005,
+        "wiring_year": 2000
+      }
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1250 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "name": "Fleet Maintenance Center",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "TPO",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 28000,
+      "occupancy": "Service/Repair",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 1960000,
+      "contents_value": 1680000,
+      "bi_value": 2184000,
+      "tiv": 5824000,
+      "rendered_values": {
+        "building_value": "$1,960,000.00",
+        "contents_value": "$1,680,000.00",
+        "bi_value": "$2,184,000.00",
+        "tiv": "$5,824,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "6 miles",
+        "distance_to_hydrant": "1020 ft",
+        "fire_district": "District 7",
+        "sprinkler_type": "Dry Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2013,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      }
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "41 South High Street, Suite 1500",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "name": "Administrative Office",
+      "construction": "Fire Resistive",
+      "roof_type": "Modified Bitumen",
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": 12000,
+      "occupancy": "Office",
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 840000,
+      "bi_value": 1560000,
+      "tiv": 2400000,
+      "rendered_values": {
+        "building_value": "\u2014",
+        "contents_value": "$840,000.00",
+        "bi_value": "$1,560,000.00",
+        "tiv": "$2,400,000.00"
+      },
+      "ownership": "Tenant",
+      "construction_type_rendered": "Tenant \u2014 contents & BI only",
+      "fire_protection": {
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "1402 ft",
+        "fire_district": "District 6",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "85%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Proprietary System"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2020,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      }
+    }
+  ],
+  "blanket_summary": {
+    "total_building": 54110000.0,
+    "total_contents": 30320000.0,
+    "total_bi": 57954000.0,
+    "total_tiv": 142384000.0,
+    "rendered_values": {
+      "total_building": "$54,110,000.00",
+      "total_contents": "$30,320,000.00",
+      "total_bi": "$57,954,000.00",
+      "total_tiv": "$142,384,000.00"
+    },
+    "blanket_number": "BLK-6065",
+    "blanket_type": "Building"
+  },
+  "interest_holders": [
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "Comerica Bank",
+      "address": "P.O. Box 79566, Elk Grove, CA 95624",
+      "loan_number": "L-179672716"
+    }
+  ]
+}

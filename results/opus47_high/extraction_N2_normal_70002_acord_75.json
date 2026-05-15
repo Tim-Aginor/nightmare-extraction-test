@@ -1,0 +1,136 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "Insurance Binder"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": null,
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "BND-88364-6825",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "limit": 146260000.0,
+      "deductible": 75000.0,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial Property - Business Personal Property",
+      "limit": 42495000.0,
+      "deductible": 75000.0,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial Property - Business Income",
+      "limit": 62590000.0,
+      "deductible": 75000.0,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_basic": "unchecked",
+    "causes_of_loss_broad": "unchecked",
+    "causes_of_loss_special": "checked"
+  },
+  "additional_fields": {
+    "agency_name": "Midwest Property & Casualty Group",
+    "agency_address": "175 South Third Street, Suite 1400",
+    "agency_city": "Columbus",
+    "agency_state": "OH",
+    "agency_zip": "43215",
+    "agency_phone": "(614) 555-0742",
+    "agency_fax": "(614) 837-8018",
+    "agency_email": "kweissman@mwpcg.com",
+    "agency_contact": "Karen Weissman",
+    "naic_code": "44251",
+    "binder_number": "BND-88364-6825",
+    "binder_date": "2025-09-01",
+    "coinsurance": "80%",
+    "expiring_carrier": "Liberty Mutual Insurance",
+    "expiring_policy_number": "CP00007001",
+    "form_date": "2026-03-11",
+    "forms_and_endorsements": [
+      {
+        "form_code": "CP 00 10 10 12",
+        "description": "Building and Personal Property Coverage Form"
+      },
+      {
+        "form_code": "CP 00 30 10 12",
+        "description": "Business Income (and Extra Expense) Coverage Form"
+      },
+      {
+        "form_code": "CP 10 30 10 12",
+        "description": "Causes of Loss - Special Form"
+      },
+      {
+        "form_code": "IL 00 21 09 08",
+        "description": "Nuclear Energy Liability Exclusion"
+      },
+      {
+        "form_code": "IL 00 17 11 98",
+        "description": "Common Policy Conditions"
+      },
+      {
+        "form_code": "CP 12 18 06 07",
+        "description": "Loss Payable Provisions"
+      },
+      {
+        "form_code": "CP 01 40 07 06",
+        "description": "Ordinance or Law Coverage"
+      },
+      {
+        "form_code": "CP 04 09",
+        "description": "Equipment Breakdown Coverage"
+      },
+      {
+        "form_code": "IL 09 85 01 15",
+        "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+      }
+    ],
+    "mortgagees": [
+      {
+        "name": "Regions Bank",
+        "address": "P.O. Box 16098",
+        "city": "El Paso",
+        "state": "TX",
+        "zip": "79901"
+      },
+      {
+        "name": "ABC Equipment Leasing Corp.",
+        "address": "P.O. Box 29249",
+        "city": "Clarksville",
+        "state": "TN",
+        "zip": "37040"
+      },
+      {
+        "name": "Pinnacle Investors Group, Inc.",
+        "address": "P.O. Box 41583",
+        "city": "Fargo",
+        "state": "ND",
+        "zip": "58102"
+      }
+    ],
+    "authorized_representative": "Douglas Brennan",
+    "authorized_representative_title": "Chief Operating Officer",
+    "authorized_representative_date": "2026-03-11"
+  },
+  "remarks": null
+}

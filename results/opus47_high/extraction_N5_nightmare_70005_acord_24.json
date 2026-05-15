@@ -1,0 +1,103 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": null,
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AG-4419703",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "cpELFS0026893",
+    "effective_date": null,
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 54110000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property",
+      "limit": 30320000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 57954000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Extra Expense",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Rental Value",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Building",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Personal Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Building & Personal Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_basic": "unchecked",
+    "causes_of_loss_broad": "unchecked",
+    "causes_of_loss_special": "checked",
+    "earthquake": "unchecked",
+    "wind": "unchecked",
+    "flood": "unchecked"
+  },
+  "additional_fields": {
+    "contact_name": "David Reinhardt",
+    "contact_phone": "(614) 555-0493",
+    "contact_fax": "(614) 267-6839",
+    "contact_email": "dreinhardt@tisgroup.com",
+    "location_of_premises": "1200 Nationwide Boulevard, Columbus, OH 43215",
+    "description_of_property": "Non-Combustible, Warehouse",
+    "building_deductible": "80000",
+    "contents_deductible": "50000",
+    "certificate_holder_name": "Quantum Realty Management Inc.",
+    "certificate_holder_address": "Summit Avenue, AR 72201",
+    "authorized_representative": "Margaret Sullivan",
+    "certificate_date": "2025-06-18",
+    "annotation_note": "Need docs",
+    "signature_annotation": "Mr. Johnson"
+  },
+  "remarks": "Handwritten annotations present: '6/18/2025' date, 'Need docs' note next to limits, and 'Mr. Johnson' signature/note in cancellation section."
+}

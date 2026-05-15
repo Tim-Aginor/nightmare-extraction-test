@@ -1,0 +1,174 @@
+{
+  "carrier_info": {
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "policy_period_end": null,
+    "policy_period_start": null
+  },
+  "insured": {
+    "address": "8117 Preston Road",
+    "city": "Dallas",
+    "name": "Lone Star Property Holdings, LP",
+    "state": "TX",
+    "zip": "75225"
+  },
+  "locations_inspected": [
+    {
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Preston Center Tower",
+      "occupancy": null,
+      "protection_class": 4,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 18,
+      "year_built": 2008
+    },
+    {
+      "address": "5050 Westheimer Road",
+      "city": "Houston",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Galleria Office Park - Building A",
+      "occupancy": null,
+      "protection_class": 2,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 12,
+      "year_built": 2001
+    },
+    {
+      "address": "5060 Westheimer Road",
+      "city": "Houston",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Galleria Office Park - Building B",
+      "occupancy": null,
+      "protection_class": 1,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 10,
+      "year_built": 2003
+    },
+    {
+      "address": "7301 Lone Star Drive",
+      "city": "Plano",
+      "condition_rating": null,
+      "construction": "Masonry Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Legacy Town Center Retail",
+      "occupancy": null,
+      "protection_class": 2,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 2,
+      "year_built": 2012
+    },
+    {
+      "address": "3200 McKinney Avenue",
+      "city": "Dallas",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Uptown Mixed-Use Development",
+      "occupancy": null,
+      "protection_class": 5,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 6,
+      "year_built": 2018
+    },
+    {
+      "address": "1400 Enclave Parkway",
+      "city": "Houston",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Energy Corridor Business Center",
+      "occupancy": null,
+      "protection_class": 4,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 8,
+      "year_built": 1995
+    },
+    {
+      "address": "800 8th Avenue",
+      "city": "Fort Worth",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Fort Worth Medical Office Building",
+      "occupancy": null,
+      "protection_class": 3,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 5,
+      "year_built": 2015
+    },
+    {
+      "address": "1256 Main Street",
+      "city": "Southlake",
+      "condition_rating": null,
+      "construction": "Masonry Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Southlake Town Square - East Wing",
+      "occupancy": null,
+      "protection_class": 2,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": 3,
+      "year_built": 2006
+    }
+  ],
+  "overall_assessment": {
+    "insurability": "Overall System Status: PASS",
+    "risk_level": "Below Average",
+    "summary": "Fire protection system inspection found the dry pipe sprinkler system NFPA 13 compliant with adequate water supply, operational water flow and supervisory alarms, and all inspected control valves open. Deficiencies noted include combustible storage within 18 inches of sprinkler deflectors and exposed wiring/missing junction box covers in the main electrical room."
+  },
+  "recommendations": [
+    {
+      "category": "fire_protection",
+      "deadline": null,
+      "description": "Remove combustible storage from within 18 inches of sprinkler deflectors.",
+      "estimated_cost": null,
+      "priority": "Necessary"
+    },
+    {
+      "category": "electrical",
+      "deadline": null,
+      "description": "Correct exposed wiring and install missing junction box covers in the main electrical room.",
+      "estimated_cost": null,
+      "priority": "Necessary"
+    }
+  ],
+  "report_info": {
+    "grading_scale": "Travelers Risk Assessment",
+    "inspector_company": "Apex Managing General Agency",
+    "inspector_name": "D. Wilson, ARM",
+    "report_date": "2026-03-15",
+    "report_type": "FIRE PROTECTION SYSTEM INSPECTION REPORT",
+    "risk_grade": "Below Average"
+  }
+}

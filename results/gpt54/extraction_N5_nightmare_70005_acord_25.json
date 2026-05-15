@@ -1,0 +1,130 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": null,
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Lakes Freight Systems, Incorporated",
+    "insured_address": "1499 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Ohio Bureau of Workers' Compensation",
+    "policy_number": "GLP5 2023 8621",
+    "effective_date": "2023-08-01",
+    "expiration_date": "2024-08-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null
+  },
+  "document_date": null,
+  "certificate_holders": [
+    {
+      "name": "Quantum Realty Management Inc.",
+      "address": "501 Summit Avenue, Little Rock, AR 72201"
+    }
+  ],
+  "carrier_name_per_lob": [
+    {
+      "lob": "Workers Compensation",
+      "carrier": "Ohio Bureau of Workers' Compensation",
+      "naic": null,
+      "policy_number": "WC GLP5 2023 8620"
+    },
+    {
+      "lob": "Commercial General Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": "GLP5 2023 8621"
+    },
+    {
+      "lob": "Automobile Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": "CAPLS/23/8628?"
+    },
+    {
+      "lob": "Umbrella Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": "SIC CUPS/SEP?"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "policy_number": "GLP5 2023 8621",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "2000000"
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "policy_number": "CAPLS/23/8628?",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "5000000"
+    },
+    {
+      "coverage_type": "Umbrella Liability",
+      "policy_number": "SIC CUPS/SEP?",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "10000000"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers' Liability",
+      "policy_number": "WC GLP5 2023 8620",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Commercial General Liability - Claims Made",
+      "value": "No"
+    },
+    {
+      "field": "Commercial General Liability - Occur",
+      "value": "Yes"
+    },
+    {
+      "field": "Automobile Liability - Any Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Automobile Liability - Owned Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Scheduled Autos",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Hired Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Non-Owned Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Umbrella Liability - Occur",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella Liability - Claims Made",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - Statutory Limits",
+      "value": "Yes"
+    },
+    {
+      "field": "Workers Compensation - Other",
+      "value": "No"
+    }
+  ],
+  "remarks": "RE: Regional trucking and freight logistics \u2013 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Locations: Corporate Headquarters & Main Terminal: 1499 Nationwide Boulevard, Columbus, OH 43215; Riverbreaker Air Hub - 2500 Norton Road, Columbus, OH 43217; Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131. Quantum Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

@@ -1,0 +1,83 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "CANCELLATION REQUEST / POLICY RELEASE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "AG-7721034",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-KCB-2025-5580",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability (CGL)",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation (WC)",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "reason_insureds_request": "unchecked",
+    "reason_non_payment_of_premium": "unchecked",
+    "reason_underwriting": "unchecked",
+    "reason_non_renewal": "X",
+    "reason_other": "unchecked",
+    "policy_type_cgl": "X",
+    "policy_type_auto": "X",
+    "policy_type_wc": "X",
+    "policy_type_property": "X",
+    "policy_type_umbrella": "X"
+  },
+  "additional_fields": {
+    "agency_phone": "(412) 555-0287",
+    "agency_fax": "(412) 580-2110",
+    "carrier_naic_code": "28339",
+    "cancellation_effective_date": "2026-07-29",
+    "cancellation_effective_time": "00:22 AM",
+    "agent_broker_signature": "Patricia Nowak",
+    "signature_date": "2026-03-15",
+    "return_premium_basis": "pro-rata"
+  },
+  "remarks": "The above-named insured/agent requests cancellation of the policy described above. Any return premium due is to be calculated on a pro-rata basis unless otherwise indicated. Reason for cancellation: Non-Renewal."
+}

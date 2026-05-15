@@ -1,0 +1,104 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_number": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "parent_form_reference": {
+      "value": "ACORD 126"
+    },
+    "agency_name": {
+      "value": "Midwest Property & Casualty Group"
+    },
+    "nature_of_operations": {
+      "value": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+    },
+    "entity_type": {
+      "value": "LLC"
+    }
+  },
+  "doc_type": "acord_101",
+  "endorsements": [
+    "CA 04 44 10 13 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+    "CG 21 39 10 93 \u2014 Contractual Liability Limitation",
+    "IL 09 35 01 15 \u2014 Exclusion of Certified Acts of Terrorism",
+    "WC 00 03 01A \u2014 Alternate Employer Endorsement",
+    "CG 20 26 04 13 \u2014 Additional Insured - Designated Person or Organization",
+    "IM 99 01 09 09 \u2014 Inland Marine Equipment Floater"
+  ],
+  "additional_insureds": [
+    {
+      "name": "Navigator Realty Management Inc.",
+      "address": "5290 Walnut Street, Ste. 159, Newport News, VA, 23601"
+    },
+    {
+      "name": "Navigator Properties LLC",
+      "address": "619 Lake Street, Peoria, AZ, 85345"
+    }
+  ],
+  "special_conditions": [
+    "Primary and Non-Contributory wording applies per policy endorsement.",
+    "Waiver of Subrogation applies in favor of the certificate holder as required by written contract.",
+    "Per Project Aggregate Limit applies as indicated on the endorsement schedule."
+  ],
+  "location_descriptions": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Rickenbacker Logistics Center - A",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Rickenbacker Logistics Center - B",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Cleveland Distribution Hub",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip_code": "44144",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "Dayton Manufacturing Facility",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip_code": "45404",
+      "occupancy": "Manufacturing"
+    }
+  ],
+  "subcontractor_requirements": "All subcontractors must maintain Commercial General Liability with limits not less than $1,000,000 per occurrence and $2,000,000 general aggregate."
+}

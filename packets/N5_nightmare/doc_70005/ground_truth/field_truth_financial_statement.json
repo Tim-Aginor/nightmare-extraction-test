@@ -1,0 +1,148 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc."
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Boulevard"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "annual_revenue": {
+      "value": 78000000,
+      "rendered_as": "$78,000,000.00"
+    },
+    "entity_type": {
+      "value": "Corporation"
+    },
+    "nature_of_business": {
+      "value": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+    },
+    "bs_cash": {
+      "value": 8274300.0,
+      "rendered_as": "$8,274,300.00"
+    },
+    "bs_accounts_receivable": {
+      "value": 13376400.0,
+      "rendered_as": "$13,376,400.00"
+    },
+    "bs_inventory": {
+      "value": 1560000.0,
+      "rendered_as": "$1,560,000.00"
+    },
+    "bs_prepaid_expenses": {
+      "value": 1950000.0,
+      "rendered_as": "$1,950,000.00"
+    },
+    "bs_ppe_net": {
+      "value": 66300000.0,
+      "rendered_as": "$66,300,000.00"
+    },
+    "bs_other_assets": {
+      "value": 21934300.0,
+      "rendered_as": "$21,934,300.00"
+    },
+    "bs_total_assets": {
+      "value": 113395000.0,
+      "rendered_as": "$113,395,000.00"
+    },
+    "bs_accounts_payable": {
+      "value": 9410500.0,
+      "rendered_as": "$9,410,500.00"
+    },
+    "bs_accrued_expenses": {
+      "value": 11238800.0,
+      "rendered_as": "$11,238,800.00"
+    },
+    "bs_current_lt_debt": {
+      "value": 8463700.0,
+      "rendered_as": "$8,463,700.00"
+    },
+    "bs_long_term_debt": {
+      "value": 25224200.0,
+      "rendered_as": "$25,224,200.00"
+    },
+    "bs_other_liabilities": {
+      "value": 2646500.0,
+      "rendered_as": "$2,646,500.00"
+    },
+    "bs_total_liabilities": {
+      "value": 56983700.0,
+      "rendered_as": "$56,983,700.00"
+    },
+    "bs_equity": {
+      "value": 56411300.0,
+      "rendered_as": "$56,411,300.00"
+    },
+    "is_revenue": {
+      "value": 78000000,
+      "rendered_as": "$78,000,000.00"
+    },
+    "is_cogs": {
+      "value": 62939200.0,
+      "rendered_as": "$62,939,200.00"
+    },
+    "is_gross_profit": {
+      "value": 15060800.0,
+      "rendered_as": "$15,060,800.00"
+    },
+    "is_operating_expenses": {
+      "value": 6146500.0,
+      "rendered_as": "$6,146,500.00"
+    },
+    "is_depreciation": {
+      "value": 3579900.0,
+      "rendered_as": "$3,579,900.00"
+    },
+    "is_ebit": {
+      "value": 5334400.0,
+      "rendered_as": "$5,334,400.00"
+    },
+    "is_interest_expense": {
+      "value": 2139600.0,
+      "rendered_as": "$2,139,600.00"
+    },
+    "is_ebt": {
+      "value": 3194800.0,
+      "rendered_as": "$3,194,800.00"
+    },
+    "is_tax_provision": {
+      "value": 854800.0,
+      "rendered_as": "$854,800.00"
+    },
+    "is_net_income": {
+      "value": 2340000.0,
+      "rendered_as": "$2,340,000.00"
+    },
+    "is_tax_rate": {
+      "value": 0.2676,
+      "rendered_as": "26.8%"
+    }
+  },
+  "doc_type": "financial_statement",
+  "financial_ratios": {
+    "current_ratio": {
+      "value": 0.8642,
+      "rendered_as": "0.86"
+    },
+    "debt_to_equity": {
+      "value": 1.0101,
+      "rendered_as": "1.01"
+    },
+    "profit_margin": {
+      "value": 0.03,
+      "rendered_as": "3.00%"
+    },
+    "return_on_assets": {
+      "value": 0.0206,
+      "rendered_as": "2.06%"
+    }
+  }
+}

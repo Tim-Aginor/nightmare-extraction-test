@@ -2,14 +2,10 @@
 pyyaml>=6.0
 openpyxl>=3.1.0
 
-# Hallucination analyzer - universe construction
-# pdftotext (poppler-utils) is also required at the system level.
-# Without easyocr+pdf2image, N2-N5 scanned PDFs fall out of the universe
-# and fabrication rates inflate by several points across all models.
-easyocr>=1.7
-pdf2image>=1.16
-numpy>=1.26
-scipy>=1.11
+# Note: hallucination_analyzer used to require poppler-utils + easyocr +
+# pdf2image + numpy + scipy for live PDF/xlsx/csv parsing. Dropped
+# 2026-05-08 (plan §4-O) — universe is now built from the generator's
+# JSON ground-truth artifacts, no source-document parsing.
 
 # Model providers (install as needed)
 openai>=1.0

@@ -1,0 +1,285 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Incorporated",
+      "locations": [
+        {
+          "page": 1,
+          "x": 389.1,
+          "y": 165.7,
+          "width": 172.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company",
+      "locations": [
+        {
+          "page": 1,
+          "x": 192.6,
+          "y": 56.1,
+          "width": 226.7,
+          "height": 16.0
+        }
+      ]
+    },
+    "wc_carrier_name": {
+      "value": "Ohio Bureau of Workers' Compensation"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Blvd."
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "policy_number_wc": {
+      "value": "WC GLFS 2025 8820"
+    },
+    "premium_wc": {
+      "value": 1170824.99,
+      "rendered_as": "$1,170,824.99"
+    },
+    "form_type_wc": {
+      "value": "statutory"
+    },
+    "policy_number_gl": {
+      "value": "gl GLFS 2025 8821"
+    },
+    "premium_gl": {
+      "value": 153014.13,
+      "rendered_as": "153,014.13"
+    },
+    "deductible_gl": {
+      "value": 5000,
+      "rendered_as": "5,000.00"
+    },
+    "form_type_gl": {
+      "value": "occurrence"
+    },
+    "limit_gl_each_occurrence": {
+      "value": 2000000.0,
+      "rendered_as": "2,000,000.00"
+    },
+    "limit_gl_general_aggregate": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "limit_gl_products_completed_ops": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "limit_gl_personal_advertising": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "limit_gl_damage_rented_premises": {
+      "value": 500000,
+      "rendered_as": "500,000.00"
+    },
+    "limit_gl_medical_expense": {
+      "value": 5000,
+      "rendered_as": "5,000.00"
+    },
+    "limit_gl_stop_gap_el_each_accident": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "limit_gl_stop_gap_el_disease_policy": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "limit_gl_stop_gap_el_disease_each_employee": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "policy_number_auto": {
+      "value": "CAGLFS20258822"
+    },
+    "premium_auto": {
+      "value": 262046.75,
+      "rendered_as": "$262,046.75"
+    },
+    "deductible_auto": {
+      "value": 5000,
+      "rendered_as": "$5,000.00"
+    },
+    "form_type_auto": {
+      "value": "occurrence"
+    },
+    "limit_auto_combined_single_limit": {
+      "value": 5000000.0,
+      "rendered_as": "$5,000,000.00"
+    },
+    "limit_auto_uninsured_motorist": {
+      "value": 500000.0,
+      "rendered_as": "$500,000.00"
+    },
+    "limit_auto_medical_payments": {
+      "value": 10000.0,
+      "rendered_as": "$10,000.00"
+    },
+    "policy_number_property": {
+      "value": "cpGLFS20258823"
+    },
+    "premium_property": {
+      "value": 235710.77,
+      "rendered_as": "$235,710.77"
+    },
+    "deductible_property": {
+      "value": 50000,
+      "rendered_as": "$50,000.00"
+    },
+    "form_type_property": {
+      "value": "special"
+    },
+    "limit_property_building": {
+      "value": 54110000,
+      "rendered_as": "$54,110,000.00"
+    },
+    "limit_property_contents": {
+      "value": 30320000,
+      "rendered_as": "$30,320,000.00"
+    },
+    "limit_property_business_income": {
+      "value": 57954000,
+      "rendered_as": "$57,954,000.00"
+    },
+    "limit_property_coinsurance": {
+      "value": 80.0,
+      "rendered_as": "80%"
+    },
+    "policy_number_umbrella": {
+      "value": "SIC CU025454"
+    },
+    "premium_umbrella": {
+      "value": 492350.69,
+      "rendered_as": "$492,350.69"
+    },
+    "form_type_umbrella": {
+      "value": "occurrence"
+    },
+    "limit_umbrella_per_occurrence": {
+      "value": 10000000.0,
+      "rendered_as": "$10,000,000.00"
+    },
+    "limit_umbrella_aggregate": {
+      "value": 10000000.0,
+      "rendered_as": "$10,000,000.00"
+    },
+    "limit_umbrella_retention": {
+      "value": 50000.0,
+      "rendered_as": "$50,000.00"
+    },
+    "policy_number_mtc": {
+      "value": "SICMT032788"
+    },
+    "premium_mtc": {
+      "value": 20000.0,
+      "rendered_as": "$20,000.00"
+    },
+    "deductible_mtc": {
+      "value": 1000,
+      "rendered_as": "$1,000.00"
+    },
+    "form_type_mtc": {
+      "value": "occurrence"
+    },
+    "limit_mtc_per_conveyance": {
+      "value": 100000,
+      "rendered_as": "$100,000.00"
+    },
+    "limit_mtc_per_loss": {
+      "value": 1000000,
+      "rendered_as": "$1,000,000.00"
+    },
+    "total_premium": {
+      "value": 2333947.33,
+      "rendered_as": "$2,333,947.33"
+    }
+  },
+  "doc_type": "dec_page",
+  "wc_premium_waterfall": {
+    "manual_premium": 1516847.0,
+    "experience_mod": 0.91,
+    "modified_premium": 1380330.77,
+    "schedule_credit": 0.0,
+    "schedule_credit_amount": 0.0,
+    "standard_premium": 1159917.75,
+    "premium_discount": 0.0,
+    "expense_constant": 10907.24,
+    "tria_surcharge": 0.0,
+    "final_premium": 1170824.99,
+    "minimum_premium_applied": false
+  },
+  "endorsements": {
+    "wc": [
+      "BWC U-153 \u2014 Ohio Workers' Compensation Application",
+      "WC 00 03 01A \u2014 Alternate Employer Endorsement",
+      "BWC C-5 \u2014 Ohio Employer Application for Coverage"
+    ],
+    "gl": [
+      "CG 00 01 04 13 \u2014 Commercial General Liability Coverage Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CG 04 42 \u2014 Stop Gap Employers' Liability Coverage Endorsement (OH)",
+      "CG 20 10 04 13 \u2014 Additional Insured \u2014 Owners, Lessees or Contractors",
+      "CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+      "CG 20 37 04 13 \u2014 Additional Insured \u2014 Owners, Lessees or Contractors (Completed Ops)",
+      "CG 20 26 04 13 \u2014 Additional Insured - Designated Person or Organization",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "CG 21 49 09 99 \u2014 Total Pollution Exclusion With a Hostile Fire Exception"
+    ],
+    "auto": [
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CA 34 01 10 13 \u2014 Motor Carrier Coverage Form",
+      "MCS-90 (12 92) \u2014 Endorsement for Motor Carrier Policies of Insurance for Public Liability",
+      "CA 99 10 10 13 \u2014 Drive Other Car Coverage - Broadened Coverage for Named Individuals",
+      "CA 99 54 03 15 \u2014 Hired Auto Physical Damage Coverage",
+      "CA 04 44 10 13 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "CA 99 48 03 06 \u2014 Pollution Liability \u2014 Broadened Coverage for Covered Autos",
+      "CA 20 48 02 99 \u2014 Designated Insured"
+    ],
+    "property": [
+      "CP 00 10 10 12 \u2014 Building and Personal Property Coverage Form",
+      "CP 00 30 10 12 \u2014 Business Income (and Extra Expense) Coverage Form",
+      "CP 10 30 10 12 \u2014 Causes of Loss \u2014 Special Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CP 01 40 07 06 \u2014 Ordinance or Law Coverage",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act"
+    ],
+    "umbrella": [
+      "CU 00 01 04 13 \u2014 Commercial Umbrella Liability Coverage Form",
+      "CU 21 19 01 15 \u2014 Underlying Insurance Schedule",
+      "CU 21 22 04 13 \u2014 Nuclear Energy Liability Exclusion",
+      "CU 24 01 04 13 \u2014 Designated Underlying Insurance Endorsement",
+      "CU 21 28 04 13 \u2014 Exclusion of Specific Accidents, Products, Work or Locations",
+      "CU 21 34 04 13 \u2014 Following Form Endorsement \u2014 GL, Auto, EL",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act"
+    ],
+    "mtc": [
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "CC 00 01 12 11 \u2014 Motor Truck Cargo Coverage Form",
+      "CC 70 02 04 13 \u2014 Earned Freight Coverage Endorsement",
+      "CC 70 06 04 13 \u2014 Refrigeration Breakdown Coverage Endorsement"
+    ]
+  }
+}

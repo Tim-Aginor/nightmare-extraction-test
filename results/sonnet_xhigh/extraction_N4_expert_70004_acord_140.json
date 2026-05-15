@@ -1,0 +1,384 @@
+{
+  "form_info": {
+    "form_number": "ACORD 140",
+    "form_edition": "2016/03",
+    "form_title": "Property Section"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "ACT-609402",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building - LOC-001 (Tenant-Occupied N/A)",
+      "limit": 0,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-001",
+      "limit": 1260000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-001",
+      "limit": 2340000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-002",
+      "limit": 5200000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-002",
+      "limit": 8450000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-002",
+      "limit": 3900000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-003",
+      "limit": 2240000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-003",
+      "limit": 3840000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-003",
+      "limit": 1920000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-004",
+      "limit": 1700000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-004",
+      "limit": 425000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-004",
+      "limit": 850000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-005",
+      "limit": 1680000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-005",
+      "limit": 4480000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-005",
+      "limit": 1120000,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "loc_001_sprinklered": "Yes",
+    "loc_001_burglar_alarm": "No",
+    "loc_001_fire_alarm": "Yes",
+    "loc_002_sprinklered": "Yes",
+    "loc_002_burglar_alarm": "No",
+    "loc_002_fire_alarm": "Yes",
+    "loc_003_sprinklered": "Yes",
+    "loc_003_burglar_alarm": "No",
+    "loc_003_fire_alarm": "Yes",
+    "loc_004_sprinklered": "Yes",
+    "loc_004_burglar_alarm": "Yes",
+    "loc_004_fire_alarm": "Yes",
+    "loc_005_sprinklered": "No",
+    "loc_005_burglar_alarm": "Yes",
+    "loc_005_fire_alarm": "No"
+  },
+  "additional_fields": {
+    "form_date": "2026-03-14",
+    "contact_name": "Patricia Nowak",
+    "agency_customer_id": "ACT-609402",
+    "carrier_naic_code": "28339",
+    "valuation_method": "Replacement Cost",
+    "policy_deductible": 25000,
+    "locations": [
+      {
+        "location_number": "LOC-001",
+        "building_number": 1,
+        "address": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222",
+        "description": "Corporate Headquarters",
+        "construction": {
+          "construction_type": "Tenant \u2014 contents & BI only",
+          "roof_type": "EPDM",
+          "protection_class": 5,
+          "year_built": 2002,
+          "stories": 1,
+          "total_area_sqft": 18000,
+          "occupancy": "Office",
+          "ownership": "Tenant"
+        },
+        "improvements": {
+          "heating_year": 2018,
+          "plumbing_year": 2007,
+          "roofing_year": 2026,
+          "wiring_year": 2023
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "3 miles",
+          "distance_to_hydrant_ft": 1398,
+          "fire_district": "District 2",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_pct": 90,
+          "protection_class": 5
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Proprietary System"
+        },
+        "covered_values": {
+          "building": 0,
+          "contents_bpp": 1260000,
+          "business_income_extra_expense": 2340000,
+          "total_insured_value": 3600000
+        }
+      },
+      {
+        "location_number": "LOC-002",
+        "building_number": 2,
+        "address": "4500 Butler Street, Pittsburgh, PA 15201",
+        "description": "Main Equipment Yard & Warehouse",
+        "construction": {
+          "construction_type": "Non-Combustible",
+          "roof_type": "EPDM",
+          "protection_class": 3,
+          "year_built": 1995,
+          "stories": 1,
+          "total_area_sqft": 65000,
+          "occupancy": "Warehouse",
+          "ownership": "Owned"
+        },
+        "improvements": {
+          "heating_year": 2017,
+          "plumbing_year": 2010,
+          "roofing_year": 2026,
+          "wiring_year": 2012
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "8 miles",
+          "distance_to_hydrant_ft": 1671,
+          "fire_district": "District 7",
+          "sprinkler_system": "Deluge",
+          "sprinkler_coverage_pct": 100,
+          "protection_class": 3
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Proprietary System"
+        },
+        "covered_values": {
+          "building": 5200000,
+          "contents_bpp": 8450000,
+          "business_income_extra_expense": 3900000,
+          "total_insured_value": 17550000
+        }
+      },
+      {
+        "location_number": "LOC-003",
+        "building_number": 3,
+        "address": "4520 Butler Street, Pittsburgh, PA 15201",
+        "description": "Fabrication Shop",
+        "construction": {
+          "construction_type": "Masonry Non-Combustible",
+          "roof_type": "TPO",
+          "protection_class": 1,
+          "year_built": 1988,
+          "stories": 1,
+          "total_area_sqft": 32000,
+          "occupancy": "Manufacturing",
+          "ownership": "Owned"
+        },
+        "improvements": {
+          "heating_year": 2004,
+          "plumbing_year": 2002,
+          "roofing_year": 2012,
+          "wiring_year": 1995
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "4 miles",
+          "distance_to_hydrant_ft": 1981,
+          "fire_district": "District 4",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_pct": 85,
+          "protection_class": 1
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Local Alarm Only"
+        },
+        "covered_values": {
+          "building": 2240000,
+          "contents_bpp": 3840000,
+          "business_income_extra_expense": 1920000,
+          "total_insured_value": 8000000
+        }
+      },
+      {
+        "location_number": "LOC-004",
+        "building_number": 4,
+        "address": "3000 Village Run Road, Wexford, PA 15090",
+        "description": "South Hills Branch Office",
+        "construction": {
+          "construction_type": "Masonry Non-Combustible",
+          "roof_type": "Shingle",
+          "protection_class": 4,
+          "year_built": 2010,
+          "stories": 2,
+          "total_area_sqft": 8500,
+          "occupancy": "Office",
+          "ownership": "Owned"
+        },
+        "improvements": {
+          "heating_year": 2026,
+          "plumbing_year": 2024,
+          "roofing_year": 2026,
+          "wiring_year": 2025
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "3 miles",
+          "distance_to_hydrant_ft": 747,
+          "fire_district": "District 8",
+          "sprinkler_system": "Deluge",
+          "sprinkler_coverage_pct": 100,
+          "protection_class": 4
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Central Station Monitored"
+        },
+        "covered_values": {
+          "building": 1700000,
+          "contents_bpp": 425000,
+          "business_income_extra_expense": 850000,
+          "total_insured_value": 2975000
+        }
+      },
+      {
+        "location_number": "LOC-005",
+        "building_number": 5,
+        "address": "100 Dutilh Road, Cranberry Township, PA 16066",
+        "description": "Equipment Storage - Cranberry",
+        "construction": {
+          "construction_type": "Non-Combustible",
+          "roof_type": "Concrete",
+          "protection_class": 1,
+          "year_built": 2005,
+          "stories": 1,
+          "total_area_sqft": 28000,
+          "occupancy": "Warehouse",
+          "ownership": "Owned"
+        },
+        "improvements": {
+          "heating_year": 2013,
+          "plumbing_year": 2024,
+          "roofing_year": 2026,
+          "wiring_year": 2025
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "3 miles",
+          "distance_to_hydrant_ft": 2712,
+          "fire_district": "District 12",
+          "sprinkler_system": "None",
+          "sprinkler_coverage_pct": null,
+          "protection_class": 1
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "No",
+          "fire_alarm_type": "None"
+        },
+        "covered_values": {
+          "building": 1680000,
+          "contents_bpp": 4480000,
+          "business_income_extra_expense": 1120000,
+          "total_insured_value": 7280000
+        }
+      }
+    ],
+    "blanket_summary": {
+      "blanket_number": "BLK-3520",
+      "blanket_type": "Contents",
+      "number_of_locations": 5,
+      "total_insured_value": 39405000,
+      "value_breakdown": {
+        "building_total": 10820000,
+        "contents_bpp_total": 18455000,
+        "business_income_extra_expense_total": 10130000
+      }
+    },
+    "interests": [
+      {
+        "type": "ISAOA/ATIMA",
+        "name": "Fifth Third Bank",
+        "address": "P.O. Box 20208, Fargo, ND 58102",
+        "loan_reference_number": "L-238732852"
+      },
+      {
+        "type": "Loss Payee",
+        "name": "De Lage Landen Financial Services",
+        "address": "P.O. Box 67928, Elk Grove, CA 95624",
+        "loan_reference_number": "L-339683025"
+      },
+      {
+        "type": "Additional Insured",
+        "name": "Lakeside Property Management, LLC",
+        "address": "P.O. Box 79073, Spokane, WA 99201",
+        "loan_reference_number": "L-888346814"
+      }
+    ]
+  },
+  "remarks": null
+}

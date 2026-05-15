@@ -1,0 +1,69 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "CANCELLATION REQUEST / POLICY RELEASE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "WC GLFS 2025 8820",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AG-4419703"
+  },
+  "document_date": "2026-03-16",
+  "producer_phone": "(614) 555-0493",
+  "producer_fax": "(614) 267-6833",
+  "producer_license_number": null,
+  "cancellation_date": "2026-06-01",
+  "cancellation_reason": "Non-Renewal",
+  "checkboxes": [
+    {
+      "field": "policy_type_cgl",
+      "value": "Yes"
+    },
+    {
+      "field": "policy_type_auto",
+      "value": "Yes"
+    },
+    {
+      "field": "policy_type_wc",
+      "value": "Yes"
+    },
+    {
+      "field": "policy_type_property",
+      "value": "Yes"
+    },
+    {
+      "field": "policy_type_umbrella",
+      "value": "Yes"
+    },
+    {
+      "field": "reason_insured_request",
+      "value": "No"
+    },
+    {
+      "field": "reason_non_payment_of_premiums",
+      "value": "No"
+    },
+    {
+      "field": "reason_underwriting",
+      "value": "No"
+    },
+    {
+      "field": "reason_non_renewal",
+      "value": "Yes"
+    },
+    {
+      "field": "reason_other",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

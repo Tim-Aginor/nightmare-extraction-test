@@ -23,14 +23,14 @@ Return a single JSON object:
       "sex": "<M|F or null>",
       "license_number": "<string>",
       "license_state": "<string>",
-      "license_class": "<CDL-A|CDL-B|Class C|etc. or null>",
+      "license_class": "<string or null>",
       "license_expiration": "<YYYY-MM-DD or null>",
       "hire_date": "<YYYY-MM-DD or null>",
       "years_experience": "<number or null>",
-      "mvr_status": "<Clear|Minor Violations|Major Violations|Accident|etc.>",
+      "mvr_status": "<Clear|Minor Violations|Major Violations|Accident>",
       "violations_count": "<number or null>",
       "accidents_count": "<number or null>",
-      "endorsements": ["<Hazmat|Tanker|Doubles|etc.>"],
+      "endorsements": ["<string>"],
       "assigned_vehicle": "<string or null>",
       "excluded": "<boolean>"
     }

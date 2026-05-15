@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Hill Country Hospitality Partners, LLC",
+    "statement_type": "FINANCIAL STATEMENT",
+    "period_end_date": "2025-12-31",
+    "period_type": "annual",
+    "fiscal_year": 2025,
+    "audited": null,
+    "preparer": "Christina Montoya"
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": 8884400.0,
+        "accounts_receivable": 4766200.0,
+        "inventory": 377700.0,
+        "prepaid_expenses": 1050000.0,
+        "other_current": null,
+        "total_current_assets": 15078300.0
+      },
+      "fixed_assets": {
+        "property_plant_equipment": 42000000.0,
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 42000000.0
+      },
+      "other_assets": 19926000.0,
+      "total_assets": 77004300.0
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 7467100.0,
+        "accrued_expenses": 5014800.0,
+        "current_debt": 3486000.0,
+        "other_current": null,
+        "total_current_liabilities": 15967900.0
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 6543500.0,
+        "other_long_term": 1957500.0,
+        "total_long_term": 8501000.0
+      },
+      "total_liabilities": 24468900.0
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 52535400.0,
+      "total_equity": 52535400.0
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": 42000000.0
+    },
+    "cost_of_goods_sold": 22444200.0,
+    "gross_profit": 19555800.0,
+    "operating_expenses": {
+      "salaries_wages": null,
+      "rent": null,
+      "utilities": null,
+      "depreciation": 1657000.0,
+      "insurance": null,
+      "other_operating": 12809400.0,
+      "total_operating_expenses": 14466400.0
+    },
+    "operating_income": 5089400.0,
+    "interest_expense": 951500.0,
+    "income_before_tax": 4137900.0,
+    "income_tax": 917300.0,
+    "net_income": 3220600.0
+  },
+  "ratios": {
+    "current_ratio": 0.94,
+    "debt_to_equity": 0.47,
+    "profit_margin": 0.077
+  }
+}

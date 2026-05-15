@@ -1,0 +1,69 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "date": "2026-03-15",
+    "prepared_by": "Karen Weissman",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 31,
+    "annual_revenue": 48000000,
+    "employee_count": 113
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "90% of units are regularly occupied",
+      "24-hour doorman or security on premises",
+      "Fire alarms are hard-wired with central station monitoring",
+      "Written contracts with indemnification are required from all contractors",
+      "No claims reported in prior insurance history for 2022-2024",
+      "No policy cancellations reported in prior insurance history for 2022-2024",
+      "Recent system updates noted: Plumbing 2015, HVAC 2018, Electrical 2023"
+    ],
+    "concerns": [
+      "Building is not fully sprinklered per NFPA 13 or 13R",
+      "One listed manufacturing location is not sprinklered",
+      "Short-term rentals of less than 1 year are permitted",
+      "Written contracts with all subcontractors are not in place",
+      "Commercial occupancy exists within the building",
+      "Material Safety Data Sheets (MSDS) are not maintained",
+      "Lockout/tagout procedures are not in place"
+    ],
+    "loss_history_summary": "Prior insurance history shows 0 claims and no cancellations for 2024 (Liberty Mutual Insurance), 2023 (Hartford Financial Services), and 2022 (Chubb Limited)."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "safety_programs": "Do you have a formal safety program? Yes. Is there 24-hour doorman or security on premises? Yes. Are fire alarms hard-wired with central station monitoring? Yes. Are written contracts with indemnification required from all contractors? Yes.",
+    "claims_narrative": "2024 Liberty Mutual Insurance \u2014 Premium $392,002.31; Claims 0; Cancellations No. 2023 Hartford Financial Services \u2014 Premium $419,914.35; Claims 0; Cancellations No. 2022 Chubb Limited \u2014 Premium $456,514.1; Claims 0; Cancellations No."
+  }
+}

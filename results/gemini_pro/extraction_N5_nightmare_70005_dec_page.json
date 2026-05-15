@@ -1,0 +1,256 @@
+{
+  "policy_info": {
+    "policy_number": null,
+    "policy_type": "Commercial Package",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "carrier_name": "Standard Insurance Company",
+    "carrier_naic": "24281"
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Incorporated",
+    "dba": null,
+    "address": "1200 Nationwide Blvd.",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "entity_type": "Corporation"
+  },
+  "producer": {
+    "name": null,
+    "address": null,
+    "code": null
+  },
+  "coverages": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "coverage_code": "Statutory",
+      "limit": "Statutory",
+      "deductible": null,
+      "premium": 1170825,
+      "form_numbers": [
+        "BWC U-153",
+        "WC 00 03 01A",
+        "BWC C-5"
+      ]
+    },
+    {
+      "coverage_type": "Commercial General Liability",
+      "coverage_code": "Occurrence",
+      "limit": "2000000/4000000",
+      "deductible": 5000,
+      "premium": 153014,
+      "form_numbers": [
+        "CG 00 01 04 13",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "CG 04 42",
+        "CG 20 10 04 13",
+        "CG 24 04 05 09",
+        "CG 20 37 04 13",
+        "CG 20 26 04 13",
+        "IL 09 85 01 15"
+      ]
+    },
+    {
+      "coverage_type": "Business Auto",
+      "coverage_code": "Occurrence",
+      "limit": "5000000",
+      "deductible": 5000,
+      "premium": 262047,
+      "form_numbers": [
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "CA 34 01 10 13",
+        "MCS-90 (12 92)",
+        "CA 99 10 10 13",
+        "CA 99 54 03 15",
+        "CA 04 44 10 13",
+        "IL 09 85 01 15",
+        "CA 99 48 03 06",
+        "CA 20 48 02 99"
+      ]
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "coverage_code": "Special",
+      "limit": "54110000",
+      "deductible": 50000,
+      "premium": 235711,
+      "form_numbers": [
+        "CP 00 10 10 12",
+        "CP 00 30 10 12",
+        "CP 10 30 10 12",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "CP 01 40 07 06",
+        "IL 09 85 01 15"
+      ]
+    },
+    {
+      "coverage_type": "Commercial Umbrella",
+      "coverage_code": "Occurrence",
+      "limit": "10000000/10000000",
+      "deductible": 10000,
+      "premium": 498351,
+      "form_numbers": [
+        "IL 00 21 09 08",
+        "IL 09 85 01 15"
+      ]
+    },
+    {
+      "coverage_type": "Motor Truck Cargo",
+      "coverage_code": "Occurrence",
+      "limit": "100000/1000000",
+      "deductible": 1000,
+      "premium": 20000,
+      "form_numbers": [
+        "IL 00 17 11 98",
+        "IL 00 21 09 08",
+        "CC 00 01 12 11",
+        "CC 70 02 04 13",
+        "CC 70 06 04 13"
+      ]
+    }
+  ],
+  "locations": [],
+  "premium_summary": {
+    "total_premium": 2339948,
+    "taxes_fees": null,
+    "total_due": 2339948
+  },
+  "endorsements": [
+    {
+      "form_number": "BWC U-153",
+      "title": "Ohio Workers' Compensation Application"
+    },
+    {
+      "form_number": "WC 00 03 01A",
+      "title": "Alternate Employer Endorsement"
+    },
+    {
+      "form_number": "BWC C-5",
+      "title": "Ohio Employer Application for Coverage"
+    },
+    {
+      "form_number": "CG 00 01 04 13",
+      "title": "Commercial General Liability Coverage Form"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "form_number": "CG 04 42",
+      "title": "Stop Gap Employers' Liability Coverage Endorsement (OH)"
+    },
+    {
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured \u2014 Owners, Lessees or Contractors"
+    },
+    {
+      "form_number": "CG 24 04 05 09",
+      "title": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+    },
+    {
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured \u2014 Owners, Lessees or Contractors (Completed Ops)"
+    },
+    {
+      "form_number": "CG 20 26 04 13",
+      "title": "Additional Insured - Designated Person or Organization"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "form_number": "CA 34 01 10 13",
+      "title": "Motor Carrier Coverage Form"
+    },
+    {
+      "form_number": "MCS-90 (12 92)",
+      "title": "Endorsement for Motor Carrier Policies of Insurance for Public Liability"
+    },
+    {
+      "form_number": "CA 99 10 10 13",
+      "title": "Drive Other Car Coverage - Broadened Coverage for Named Individuals"
+    },
+    {
+      "form_number": "CA 99 54 03 15",
+      "title": "Hired Auto Physical Damage Coverage"
+    },
+    {
+      "form_number": "CA 04 44 10 13",
+      "title": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+    },
+    {
+      "form_number": "CA 99 48 03 06",
+      "title": "Pollution Liability - Broadened Coverage for Covered Autos"
+    },
+    {
+      "form_number": "CA 20 48 02 99",
+      "title": "Designated Insured"
+    },
+    {
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form"
+    },
+    {
+      "form_number": "CP 01 40 07 06",
+      "title": "Ordinance or Law Coverage"
+    },
+    {
+      "form_number": "CC 00 01 12 11",
+      "title": "Motor Truck Cargo Coverage Form"
+    },
+    {
+      "form_number": "CC 70 02 04 13",
+      "title": "Earned Freight Coverage Endorsement"
+    },
+    {
+      "form_number": "CC 70 06 04 13",
+      "title": "Refrigeration Breakdown Coverage Endorsement"
+    }
+  ],
+  "forms_attached": [
+    "BWC U-153",
+    "WC 00 03 01A",
+    "BWC C-5",
+    "CG 00 01 04 13",
+    "IL 00 21 09 08",
+    "IL 00 17 11 98",
+    "CG 04 42",
+    "CG 20 10 04 13",
+    "CG 24 04 05 09",
+    "CG 20 37 04 13",
+    "CG 20 26 04 13",
+    "IL 09 85 01 15",
+    "CA 34 01 10 13",
+    "MCS-90 (12 92)",
+    "CA 99 10 10 13",
+    "CA 99 54 03 15",
+    "CA 04 44 10 13",
+    "CA 99 48 03 06",
+    "CA 20 48 02 99",
+    "CP 00 10 10 12",
+    "CP 00 30 10 12",
+    "CP 10 30 10 12",
+    "CP 01 40 07 06",
+    "CC 00 01 12 11",
+    "CC 70 02 04 13",
+    "CC 70 06 04 13"
+  ]
+}

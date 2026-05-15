@@ -1,0 +1,63 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application",
+    "date": "2026-03-15",
+    "prepared_by": "Sandra Villareal",
+    "recipient": "Apex Managing General Agency"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 24,
+    "annual_revenue": 67000000,
+    "employee_count": 173
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "Written contracts with indemnification required from all contractors",
+      "24-hour doorperson or security on premises",
+      "Building fully sprinklered per NFPA 13 or 13R",
+      "Fire alarms hard-wired with central station monitoring",
+      "No OSHA citations in the past 3 years",
+      "High occupancy rate of 95%"
+    ],
+    "concerns": [
+      "No formal safety program in place",
+      "Swimming pools, exercise rooms, and other amenities on premises",
+      "EV charging stations installed on the premises"
+    ],
+    "loss_history_summary": "Two claims reported over the past three years (1 claim in 2024, 0 claims in 2023, 1 claim in 2022). No cancellations."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2025-07-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "safety_programs": "No formal safety program.",
+    "claims_narrative": "Prior insurance history shows CNA Financial (2024) with 1 claim, Zurich Insurance Group (2023) with 0 claims, and American International Group (2022) with 1 claim."
+  }
+}

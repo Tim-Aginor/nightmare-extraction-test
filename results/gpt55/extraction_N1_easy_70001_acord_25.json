@@ -1,0 +1,118 @@
+{
+  "carrier_name_per_lob": [
+    {
+      "carrier": null,
+      "lob": "COMMERCIAL GENERAL LIABILITY",
+      "naic": null,
+      "policy_number": null
+    },
+    {
+      "carrier": null,
+      "lob": "AUTOMOBILE LIABILITY",
+      "naic": null,
+      "policy_number": null
+    },
+    {
+      "carrier": null,
+      "lob": "UMBRELLA LIAB",
+      "naic": null,
+      "policy_number": null
+    },
+    {
+      "carrier": null,
+      "lob": "WORKERS COMPENSATION AND EMPLOYERS' LIABILITY",
+      "naic": null,
+      "policy_number": null
+    }
+  ],
+  "certificate_holders": [
+    {
+      "address": "1919 Adams Street, Olathe, KS 66061",
+      "name": "Summit Properties LLC"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "COMMERCIAL GENERAL LIABILITY ADDL INSD",
+      "value": "No"
+    },
+    {
+      "field": "COMMERCIAL GENERAL LIABILITY SUBR WVD",
+      "value": "No"
+    },
+    {
+      "field": "AUTOMOBILE LIABILITY ADDL INSD",
+      "value": "No"
+    },
+    {
+      "field": "AUTOMOBILE LIABILITY SUBR WVD",
+      "value": "No"
+    },
+    {
+      "field": "UMBRELLA LIAB ADDL INSD",
+      "value": "No"
+    },
+    {
+      "field": "UMBRELLA LIAB SUBR WVD",
+      "value": "No"
+    },
+    {
+      "field": "WORKERS COMPENSATION AND EMPLOYERS' LIABILITY ADDL INSD",
+      "value": "No"
+    },
+    {
+      "field": "WORKERS COMPENSATION AND EMPLOYERS' LIABILITY SUBR WVD",
+      "value": "No"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "COMMERCIAL GENERAL LIABILITY",
+      "effective_date": null,
+      "expiration_date": null,
+      "limit": null,
+      "policy_number": null
+    },
+    {
+      "coverage_type": "AUTOMOBILE LIABILITY",
+      "effective_date": null,
+      "expiration_date": null,
+      "limit": null,
+      "policy_number": null
+    },
+    {
+      "coverage_type": "UMBRELLA LIAB",
+      "effective_date": null,
+      "expiration_date": null,
+      "limit": null,
+      "policy_number": null
+    },
+    {
+      "coverage_type": "WORKERS COMPENSATION AND EMPLOYERS' LIABILITY",
+      "effective_date": null,
+      "expiration_date": null,
+      "limit": null,
+      "policy_number": null
+    }
+  ],
+  "document_date": "2026-03-16",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 25",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "carrier_name": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Texas Commercial Insurance Partners"
+  },
+  "remarks": "RE: Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas Locations: Preston Center Tower - 8117 Preston Road, Dallas, TX 75225; Galleria Office Park - Building A - 5050 Westheimer Road, Houston, TX 77056; Galleria Office Park - Building B - 5060 Westheimer Road, Houston, TX 77056 Summit Properties LLC is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

@@ -1,0 +1,10 @@
+{
+  "model": "opus47",
+  "provider": "anthropic",
+  "total_docs": 0,
+  "ok": 0,
+  "failed": 0,
+  "total_cost_usd": 0,
+  "total_time_s": 0,
+  "results": []
+}

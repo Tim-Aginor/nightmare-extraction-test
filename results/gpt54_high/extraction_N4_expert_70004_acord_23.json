@@ -1,0 +1,203 @@
+{
+  "form_info": {
+    "form_number": "ACORD 23",
+    "form_edition": "2009/01",
+    "form_title": "CERTIFICATE OF AUTOMOBILE INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hobart Insurance Company",
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2021,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2020,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Express 2500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Titan",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2009,
+      "make": "Fontaine",
+      "model": "Magnitude 55",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "14",
+      "year": 2019,
+      "make": "Wabash",
+      "model": "DuraPlate",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Great Dane",
+      "model": "Freedom SE",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 1000000,
+    "uninsured_motorist": null,
+    "medical_payments": null
+  },
+  "auto_deductible": null,
+  "insurer_panel": [
+    {
+      "carrier": "Hobart Insurance Company",
+      "naic": null
+    },
+    {
+      "carrier": "Hobart Indemnity Company",
+      "naic": null
+    },
+    {
+      "carrier": "Hobart Casualty Company",
+      "naic": null
+    },
+    {
+      "carrier": "Hobart Assurance Company",
+      "naic": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Any Auto",
+      "value": "Yes"
+    }
+  ],
+  "remarks": null
+}

@@ -1,0 +1,457 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "policy_number_property": {
+      "value": "CP-HCHP-2025-3352"
+    },
+    "property_deductible": {
+      "value": 25000,
+      "rendered_as": "$25,000.00"
+    },
+    "valuation_method": {
+      "value": "Replacement Cost"
+    },
+    "coinsurance_property": {
+      "value": 90.0
+    },
+    "location_count": {
+      "value": 8
+    },
+    "blanket_number": {
+      "value": "BLK-3399"
+    },
+    "blanket_type": {
+      "value": "Building, Contents & BI"
+    }
+  },
+  "doc_type": "acord_140",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "name": "The Driskill Austin",
+      "construction": "Fire Resistive",
+      "roof_type": "TPO",
+      "year_built": 2010,
+      "stories": 8,
+      "square_feet": 95000,
+      "occupancy": "Hotel",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 28500000,
+      "contents_value": 7125000,
+      "bi_value": 10687500,
+      "tiv": 46312500,
+      "rendered_values": {
+        "building_value": "$28,500,000.00",
+        "contents_value": "$7,125,000.00",
+        "bi_value": "$10,687,500.00",
+        "tiv": "$46,312,500.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Fire Resistive",
+      "fire_protection": {
+        "distance_to_fire_station": "1 miles",
+        "distance_to_hydrant": "2103 ft",
+        "fire_district": "District 19",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2018,
+        "roofing_year": 2026,
+        "wiring_year": 2021
+      }
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78205",
+      "name": "Riverwalk Suites San Antonio",
+      "construction": "Fire Resistive",
+      "roof_type": "Metal",
+      "year_built": 2006,
+      "stories": 12,
+      "square_feet": 142000,
+      "occupancy": "Hotel",
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 39760000,
+      "contents_value": 9940000,
+      "bi_value": 14910000,
+      "tiv": 64610000,
+      "rendered_values": {
+        "building_value": "$39,760,000.00",
+        "contents_value": "$9,940,000.00",
+        "bi_value": "$14,910,000.00",
+        "tiv": "$64,610,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Fire Resistive",
+      "fire_protection": {
+        "distance_to_fire_station": "2 miles",
+        "distance_to_hydrant": "994 ft",
+        "fire_district": "District 13",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Proprietary System"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2017,
+        "roofing_year": 2026,
+        "wiring_year": 2014
+      }
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "245 East Main Street",
+      "city": "Fredericksburg",
+      "state": "TX",
+      "zip_code": "78624",
+      "name": "Fredericksburg Inn & Spa",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "Built-Up",
+      "year_built": 1998,
+      "stories": 3,
+      "square_feet": 48000,
+      "occupancy": "Hotel",
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 10560000,
+      "contents_value": 2640000,
+      "bi_value": 3960000,
+      "tiv": 17160000,
+      "rendered_values": {
+        "building_value": "$10,560,000.00",
+        "contents_value": "$2,640,000.00",
+        "bi_value": "$3,960,000.00",
+        "tiv": "$17,160,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "3 miles",
+        "distance_to_hydrant": "1418 ft",
+        "fire_district": "District 3",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2022,
+        "plumbing_year": 2010,
+        "roofing_year": 2017,
+        "wiring_year": 2017
+      }
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78704",
+      "name": "South Congress Motor Hotel",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "Concrete",
+      "year_built": 2015,
+      "stories": 4,
+      "square_feet": 62000,
+      "occupancy": "Hotel",
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 15500000,
+      "contents_value": 3875000,
+      "bi_value": 5812500,
+      "tiv": 25187500,
+      "rendered_values": {
+        "building_value": "$15,500,000.00",
+        "contents_value": "$3,875,000.00",
+        "bi_value": "$5,812,500.00",
+        "tiv": "$25,187,500.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "2 miles",
+        "distance_to_hydrant": "2844 ft",
+        "fire_district": "District 4",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2025
+      }
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "608 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "name": "Blanco River Steakhouse",
+      "construction": "Fire Resistive",
+      "roof_type": "Metal",
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": 8500,
+      "occupancy": "Restaurant",
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 2550000,
+      "contents_value": 850000,
+      "bi_value": 1700000,
+      "tiv": 5100000,
+      "rendered_values": {
+        "building_value": "$2,550,000.00",
+        "contents_value": "$850,000.00",
+        "bi_value": "$1,700,000.00",
+        "tiv": "$5,100,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Fire Resistive",
+      "fire_protection": {
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "730 ft",
+        "fire_district": "District 17",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2023,
+        "roofing_year": 2026,
+        "wiring_year": 2016
+      }
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "6550 Comanche Trail",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78732",
+      "name": "The Oasis at Lake Travis",
+      "construction": "Non-Combustible",
+      "roof_type": "EPDM",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 12000,
+      "occupancy": "Restaurant",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 3000000,
+      "contents_value": 900000,
+      "bi_value": 1800000,
+      "tiv": 5700000,
+      "rendered_values": {
+        "building_value": "$3,000,000.00",
+        "contents_value": "$900,000.00",
+        "bi_value": "$1,800,000.00",
+        "tiv": "$5,700,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "8 miles",
+        "distance_to_hydrant": "2909 ft",
+        "fire_district": "District 8",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2018
+      }
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "303 Pearl Parkway",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78215",
+      "name": "Mission Cantina - Pearl District",
+      "construction": "Joisted Masonry",
+      "roof_type": "EPDM",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 6800,
+      "occupancy": "Restaurant",
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 1700000,
+      "contents_value": 510000,
+      "bi_value": 1020000,
+      "tiv": 3230000,
+      "rendered_values": {
+        "building_value": "$1,700,000.00",
+        "contents_value": "$510,000.00",
+        "bi_value": "$1,020,000.00",
+        "tiv": "$3,230,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Joisted Masonry",
+      "fire_protection": {
+        "distance_to_fire_station": "1 miles",
+        "distance_to_hydrant": "2903 ft",
+        "fire_district": "District 4",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "75%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2022,
+        "roofing_year": 2025,
+        "wiring_year": 2026
+      }
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "401 Congress Avenue, Suite 2800",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "name": "Corporate Headquarters",
+      "construction": "Fire Resistive",
+      "roof_type": "Shingle",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 6200,
+      "occupancy": "Office",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 310000,
+      "bi_value": 620000,
+      "tiv": 930000,
+      "rendered_values": {
+        "building_value": "\u2014",
+        "contents_value": "$310,000.00",
+        "bi_value": "$620,000.00",
+        "tiv": "$930,000.00"
+      },
+      "ownership": "Tenant",
+      "construction_type_rendered": "Tenant \u2014 contents & BI only",
+      "fire_protection": {
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "2590 ft",
+        "fire_district": "District 19",
+        "sprinkler_type": "Dry Pipe",
+        "sprinkler_coverage": "75%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department"
+      },
+      "improvements": {
+        "heating_year": 2015,
+        "plumbing_year": 2025,
+        "roofing_year": 2026,
+        "wiring_year": 2013
+      }
+    }
+  ],
+  "blanket_summary": {
+    "total_building": 101570000.0,
+    "total_contents": 26150000.0,
+    "total_bi": 40510000.0,
+    "total_tiv": 168230000.0,
+    "rendered_values": {
+      "total_building": "$101,570,000.00",
+      "total_contents": "$26,150,000.00",
+      "total_bi": "$40,510,000.00",
+      "total_tiv": "$168,230,000.00"
+    },
+    "blanket_number": "BLK-3399",
+    "blanket_type": "Building, Contents & BI"
+  },
+  "interest_holders": [
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "KeyBank National Association",
+      "address": "P.O. Box 38199, Clarksville, TN 37040",
+      "loan_number": "L-897629120"
+    },
+    {
+      "type": "Loss Payee",
+      "name": "Stearns Bank, N.A.",
+      "address": "P.O. Box 25349, Fargo, ND 58102",
+      "loan_number": "L-496809647"
+    },
+    {
+      "type": "Additional Insured",
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 55869, Elk Grove, CA 95624",
+      "loan_number": "L-941498258"
+    }
+  ]
+}

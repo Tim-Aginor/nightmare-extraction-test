@@ -1,0 +1,89 @@
+{
+  "document_info": {
+    "document_type": "Submission Memo",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality operations including hotels, restaurants, and corporate office locations across Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 42000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": 168230000,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "Total insured value across 8 locations is $168,230,000. 2 property claims in prior period totaling $215,927 incurred."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": null,
+      "notes": "8 GL claims with $82,656 total incurred."
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": null,
+      "notes": "28 WC claims with $415,934 total incurred."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations are fully sprinklered",
+      "Majority of properties are Fire Resistive or Masonry Non-Combustible construction",
+      "Modern building stock with most properties built after 1998",
+      "Diversified portfolio across hotels, restaurants, and office use",
+      "Positive net income of $3,220,600 and equity position of $52,535,400"
+    ],
+    "concerns": [
+      "High workers compensation claim frequency (28 claims)",
+      "Claim count increased to 11 in the 2024 policy year",
+      "Carrier has changed multiple times over the past 5 years",
+      "Concentration of risk in Texas (catastrophe exposure - wind/hail)",
+      "Hospitality/restaurant occupancy with higher GL exposure"
+    ],
+    "loss_history_summary": "Five-year loss history shows 38 total claims across WC (28), GL (8), and Property (2) coverages with combined total incurred of approximately $714,517. Claim counts have fluctuated year over year, rising to 11 in 2024."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 0,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

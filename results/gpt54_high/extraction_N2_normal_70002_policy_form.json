@@ -1,0 +1,109 @@
+{
+  "document_info": {
+    "document_type": "Commercial Property - Building and Personal Property Coverage Form",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": 424883.27,
+      "notes": "Form CP 00 10 10 12. Schedule of limits: Building 146260000; Contents 42495000; Business Income 62590000; Coinsurance 80%; Deductible 75000."
+    },
+    {
+      "coverage_type": "Business Income and Extra Expense",
+      "current_limit": "62590000",
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 15 08 (10 12), effective 2026-03-15. Provides actual loss of business income due to necessary suspension of operations during the period of restoration, including continuing normal operating expenses and payroll."
+    },
+    {
+      "coverage_type": "Ordinance or Law",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 (10 12), effective 2026-03-15. Coverage A applies for loss to the undamaged portion of the building when a covered cause of loss triggers enforcement of ordinance or law requiring demolition."
+    },
+    {
+      "coverage_type": "Utility Services \u2013 Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12), effective 2026-03-15. Covers direct physical loss or damage caused by interruption of utility services including water supply, communication supply, and power supply services."
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 (07 88), effective 2026-03-15. Suspends the coinsurance additional condition for property specified in the schedule during the declarations period."
+    },
+    {
+      "coverage_type": "Equipment Breakdown",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12), effective 2026-03-15. Covers direct physical loss or damage to covered property caused by or resulting from an equipment breakdown accident to an object described in the schedule."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Industrial real estate investment and management operations focused on warehouse, distribution, and light manufacturing facilities throughout Ohio.",
+      "Policy includes scheduled limits for building, contents, and business income.",
+      "Attached endorsements include business income and extra expense, ordinance or law, utility services direct damage, agreed value, and equipment breakdown coverage."
+    ],
+    "concerns": [
+      "Per occurrence deductible is 75000.",
+      "Declarations show 80% coinsurance; agreed value endorsement suspends coinsurance only for property specified in the schedule.",
+      "Vacancy condition applies after 60 consecutive days of vacancy, with certain causes of loss excluded and other losses reduced by 15%."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Coverage Part Included: Commercial Property. Form Number CP 00 10 10 12. Premium 424883.27. Schedule of Limits: Building 146260000; Contents 42495000; Business Income 62590000; Coinsurance 80; Deductible 75000.",
+    "operations_description": "SIC Code: 6512 Description: Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

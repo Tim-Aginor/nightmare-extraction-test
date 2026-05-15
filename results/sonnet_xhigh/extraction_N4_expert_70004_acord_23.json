@@ -1,0 +1,210 @@
+{
+  "form_info": {
+    "form_number": "ACORD 23",
+    "form_edition": "2016/03",
+    "form_title": "Certificate of Automobile Insurance"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CA-KCB-2025-5582",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Automobile Liability - Combined Single Limit (Per Accident)",
+      "limit": 5000000,
+      "deductible": 2500,
+      "premium": null
+    },
+    {
+      "coverage_type": "Bodily Injury (Per Person)",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Bodily Injury (Per Accident)",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property Damage (Per Accident)",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "any_auto_owned_autos": "checked",
+    "only_hired_autos_only": "unchecked"
+  },
+  "additional_fields": {
+    "date_issued": "2026-03-16",
+    "certificate_number": "CERT-00070004-9405",
+    "producer_contact_name": "Patricia Nowak",
+    "producer_address": "One PPG Place, Suite 3100",
+    "producer_city": "Pittsburgh",
+    "producer_state": "PA",
+    "producer_zip": "15222",
+    "producer_phone": "(412) 555-0287",
+    "producer_fax": "(412) 580-2110",
+    "producer_email": "pnowak@steelcityins.com",
+    "insurer_a_name": "Hallmark Insurance Company",
+    "insurer_a_naic": "41857",
+    "insurer_b_name": "Hallmark Indemnity Company",
+    "insurer_b_naic": "41883",
+    "insurer_c_name": "Hallmark Casualty Company",
+    "insurer_c_naic": "41845",
+    "insurer_d_name": "Hallmark Assurance Company",
+    "insurer_d_naic": "42134",
+    "insurer_e_name": null,
+    "insurer_e_naic": null,
+    "auto_liability_insurer_letter": "A",
+    "certificate_holder_name": "Woodbridge Realty Management Inc.",
+    "certificate_holder_address": "4111 Stiglin Avenue, Unit 129",
+    "certificate_holder_city": "Birmingham",
+    "certificate_holder_state": "AL",
+    "certificate_holder_zip": "35201",
+    "authorized_representative": "Joseph Kowalczyk",
+    "vehicles": [
+      {
+        "veh_num": 1,
+        "year": 2023,
+        "make": "Ford",
+        "model": "F-350",
+        "vin": null,
+        "body_type": "Utility"
+      },
+      {
+        "veh_num": 2,
+        "year": 2024,
+        "make": "Ford",
+        "model": "F-350",
+        "vin": null,
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 3,
+        "year": 2023,
+        "make": "Ford",
+        "model": "F-350",
+        "vin": null,
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 4,
+        "year": 2023,
+        "make": "Ford",
+        "model": "F-250",
+        "vin": null,
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 5,
+        "year": 2024,
+        "make": "Ram",
+        "model": "1500",
+        "vin": null,
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 6,
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Silverado 2500",
+        "vin": null,
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 7,
+        "year": 2022,
+        "make": "Ford",
+        "model": "E-450",
+        "vin": null,
+        "body_type": "Box Truck"
+      },
+      {
+        "veh_num": 8,
+        "year": 2023,
+        "make": "Ford",
+        "model": "Transit 250",
+        "vin": null,
+        "body_type": "Cargo Van"
+      },
+      {
+        "veh_num": 9,
+        "year": 2024,
+        "make": "Ford",
+        "model": "Transit 250",
+        "vin": null,
+        "body_type": "Cargo Van"
+      },
+      {
+        "veh_num": 10,
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Express 2500",
+        "vin": null,
+        "body_type": "Cargo Van"
+      },
+      {
+        "veh_num": 11,
+        "year": 2027,
+        "make": "Toyota",
+        "model": "Tacoma",
+        "vin": null,
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 12,
+        "year": 2024,
+        "make": "Ford",
+        "model": "F-150",
+        "vin": null,
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 13,
+        "year": 2016,
+        "make": "Fontaine",
+        "model": "Magnitude 55E",
+        "vin": null,
+        "body_type": "Flatbed Trailer"
+      },
+      {
+        "veh_num": 14,
+        "year": 2021,
+        "make": "Wabash",
+        "model": "Platform",
+        "vin": null,
+        "body_type": "Flatbed Trailer"
+      },
+      {
+        "veh_num": 15,
+        "year": 2022,
+        "make": "Great Dane",
+        "model": "Freedom 56",
+        "vin": null,
+        "body_type": "Flatbed Trailer"
+      }
+    ]
+  },
+  "remarks": "Should any of the above described policies be cancelled before the expiration date thereof, notice will be delivered in accordance with the policy provisions. VINs present in source document but not legibly extractable from image. Vehicle #11 year reads as 2027 on form \u2014 may be data entry anomaly. Certificate issued on behalf of Insurer A (Hallmark Insurance Company, NAIC 41857)."
+}

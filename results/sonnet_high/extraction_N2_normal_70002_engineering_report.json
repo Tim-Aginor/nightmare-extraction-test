@@ -1,0 +1,115 @@
+{
+  "report_info": {
+    "report_type": "property_survey",
+    "report_date": "2026-03-15",
+    "inspector_name": "S. Martinez, PE",
+    "inspector_company": "Maine Employers Mutual",
+    "risk_grade": "Average",
+    "grading_scale": "Travelers Risk Assessment"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "6500 Alum Creek Drive",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43217"
+  },
+  "carrier_info": {
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Buckeye Industrial Properties, LLC - Primary Location",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "construction": "Shingle Roof / PVC Plumbing",
+      "occupancy": "SIC 6512",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": null,
+      "condition_rating": "Average",
+      "findings": [
+        "Paving/Parking rated Good",
+        "Landscaping rated Good",
+        "Drainage rated Fair",
+        "Fencing/Security rated Fair",
+        "Foundation rated Fair",
+        "Exterior Walls rated Good",
+        "Windows/Doors rated Good",
+        "Building Envelope Integrity rated Deteriorating",
+        "Roof type is Shingle, 14 years old, rated Poor, with 0 years estimated remaining useful life",
+        "Water Supply rated Fair",
+        "Waste/Drain rated Deteriorating",
+        "Water Heaters are Electric; Pipe Material is PVC",
+        "HVAC is Split System, 18 years old, condition needs service, maintenance program in place",
+        "Electrical service entrance is 400 Amp, panel condition Fair, no emergency/standby power, GFCI protection present",
+        "Automatic sprinkler system: Wet Pipe with N/A coverage",
+        "Sprinkler system last inspected 1 month ago and is NFPA 25 compliant",
+        "11 fire extinguisher units on site",
+        "9 total locations inspected across property"
+      ],
+      "deficiencies": [
+        "Building Envelope Integrity is Deteriorating and requires remediation",
+        "Roof rated Poor condition with 0 years of estimated remaining useful life - replacement needed",
+        "Waste/Drain plumbing system is Deteriorating",
+        "HVAC Split System (18 years old) needs service",
+        "Some fire extinguisher tags are expired - require immediate re-inspection and certification"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "Critical",
+      "category": "Fire Protection",
+      "description": "Address fire protection system deficiencies including expired fire extinguisher tags on units; ensure all 11 extinguishers are re-tagged and certified. Review wet pipe sprinkler coverage gaps noted as N/A.",
+      "estimated_cost": 38234,
+      "deadline": null
+    },
+    {
+      "priority": "Critical",
+      "category": "Roofing",
+      "description": "Replace shingle roof immediately; rated Poor condition with 0 years of estimated remaining useful life after 14 years of service.",
+      "estimated_cost": 21480,
+      "deadline": null
+    },
+    {
+      "priority": "High",
+      "category": "Structural",
+      "description": "Repair and restore deteriorating building envelope integrity to prevent water intrusion and further structural degradation.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "High",
+      "category": "Plumbing",
+      "description": "Remediate deteriorating waste/drain system; address fair-rated water supply infrastructure.",
+      "estimated_cost": 4147,
+      "deadline": null
+    },
+    {
+      "priority": "Medium",
+      "category": "HVAC",
+      "description": "Service 18-year-old Split System HVAC; system condition is noted as needing service despite an active maintenance program.",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Low",
+      "category": "Site",
+      "description": "Improve drainage and fencing/security systems currently rated Fair.",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "An on-site inspection was conducted at 9 locations for Buckeye Industrial Properties, LLC. The survey assessed fire protection, building construction, occupancy hazards, and general risk management practices. Key concerns include a failed roof (0 years remaining useful life), deteriorating building envelope and waste/drain systems, an 18-year-old HVAC system needing service, and expired fire extinguisher tags. Total immediate capital expenditure needs across Plumbing, Roofing, and Fire Protection are estimated at $63,861, with short-term needs of $117,495 and reserves of $887,290 over years 3-12.",
+    "risk_level": "Average",
+    "insurability": "Conditional"
+  }
+}

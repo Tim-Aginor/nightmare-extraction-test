@@ -1,0 +1,96 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-14",
+    "prepared_by": "Marcus Jennings",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 16,
+    "annual_revenue": 42000000,
+    "employee_count": 450
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation (prior year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "2024 policy year; 11 claims; no cancellations"
+    },
+    {
+      "coverage_type": "Workers Compensation (prior year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Markel Corporation",
+      "expiring_premium": 619820.26,
+      "notes": "2023 policy year; 3 claims; no cancellations"
+    },
+    {
+      "coverage_type": "Workers Compensation (prior year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 607294.45,
+      "notes": "2022 policy year; 6 claims; cancellation occurred"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "Written contracts with all subcontractors",
+      "All premises fully sprinklered",
+      "Fire alarms hard-wired with central station monitoring",
+      "Written contracts with indemnification required from all contractors",
+      "Material Safety Data Sheets (MSDS) maintained",
+      "24-hour doorperson or security on premises",
+      "90% occupancy rate across units",
+      "16 years in business with consistent current management"
+    ],
+    "concerns": [
+      "Plumbing and electrical systems are original from 2005 (only HVAC replaced in 2020)",
+      "Building is not fully sprinklered per NFPA 13 or 13R",
+      "No quality control / quality assurance program",
+      "OSHA citations issued in the past 3 years",
+      "No cyber liability protections in place",
+      "No EV charging stations installed",
+      "Prior carrier cancellation in 2022 (Zurich)",
+      "Elevated claim frequency in 2024 (11 claims)"
+    ],
+    "loss_history_summary": "Three-year loss history: 11 claims in 2024 (Travelers), 3 claims in 2023 (Markel), and 6 claims in 2022 (Zurich, with cancellation)."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Operations include 4 hotels, 3 restaurants, and 1 corporate office across Austin, San Antonio, and Fredericksburg, TX. 285 full-time and 165 part-time employees. Hours of operation Mon-Fri 8:00 AM - 5:00 PM.",
+    "safety_programs": "Formal safety program in place; written contracts with indemnification required from all contractors; Material Safety Data Sheets (MSDS) maintained; fire alarms hard-wired with central station monitoring; 24-hour doorperson/security on premises; all locations sprinklered (though not fully per NFPA 13/13R). No formal quality control/quality assurance program. OSHA citations received within past 3 years.",
+    "claims_narrative": "2024 - Travelers Companies - Premium $686,236.25 - 11 claims - No cancellation. 2023 - Markel Corporation - Premium $619,820.26 - 3 claims - No cancellation. 2022 - Zurich Insurance Group - Premium $607,294.45 - 6 claims - Cancellation: Yes."
+  }
+}

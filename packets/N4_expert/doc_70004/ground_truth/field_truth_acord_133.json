@@ -1,0 +1,108 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "applicant_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "fein": {
+      "value": "25-7194638"
+    },
+    "state": {
+      "value": "PA"
+    },
+    "experience_mod": {
+      "value": 0.86
+    },
+    "total_premium": {
+      "value": 1694354.0,
+      "rendered_as": "$1,694,354.00"
+    },
+    "policy_number_wc": {
+      "value": "WC-KCB-2025-5580"
+    }
+  },
+  "doc_type": "acord_133",
+  "class_codes": [
+    {
+      "class_code": "5403",
+      "description": "Carpentry \u2014 NOC",
+      "num_employees": 95,
+      "payroll": 5915000,
+      "rate": 8.24,
+      "premium": 487396.0
+    },
+    {
+      "class_code": "5190",
+      "description": "Electrical Wiring",
+      "num_employees": 60,
+      "payroll": 4544000,
+      "rate": 4.86,
+      "premium": 220838.0
+    },
+    {
+      "class_code": "5183",
+      "description": "Plumbing \u2014 NOC",
+      "num_employees": 43,
+      "payroll": 3075000,
+      "rate": 4.52,
+      "premium": 138990.0
+    },
+    {
+      "class_code": "5022",
+      "description": "Masonry \u2014 NOC",
+      "num_employees": 111,
+      "payroll": 6635850,
+      "rate": 9.15,
+      "premium": 607180.0
+    },
+    {
+      "class_code": "5474",
+      "description": "Painting \u2014 Interior",
+      "num_employees": 31,
+      "payroll": 1639000,
+      "rate": 6.92,
+      "premium": 113419.0
+    },
+    {
+      "class_code": "5606",
+      "description": "Contractors \u2014 Project Manager, Superintendent",
+      "num_employees": 43,
+      "payroll": 4776000,
+      "rate": 2.45,
+      "premium": 117012.0
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2014 NOC",
+      "num_employees": 87,
+      "payroll": 5010000,
+      "rate": 0.19,
+      "premium": 9519.0
+    }
+  ]
+}

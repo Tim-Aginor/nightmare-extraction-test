@@ -1,0 +1,141 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CP-RCR-2025-7081",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Fire Resistive, Office"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Property - Building",
+      "limit": 10325000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property - Personal Property",
+      "limit": 18495000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property - Business Income",
+      "limit": 10130000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property - Extra Expense",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property - Rental Value",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property - Blanket Building",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property - Blanket Personal Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property - Blanket Building & Personal Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Inland Marine",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Crime",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Boiler & Machinery / Equipment Breakdown",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_basic": "checked",
+    "causes_of_loss_broad": "checked",
+    "causes_of_loss_special": "checked",
+    "earthquake": "unchecked",
+    "wind": "unchecked",
+    "flood": "unchecked",
+    "inland_marine_active": "unchecked",
+    "crime_active": "unchecked",
+    "boiler_machinery_active": "unchecked"
+  },
+  "additional_fields": {
+    "certificate_date": "2026-07-15",
+    "certificate_lot_number": "CR07-617047",
+    "statement_number": "1",
+    "account_number": "AG-7715034",
+    "producer_address": "One PPG Place, Suite 3100, Pittsburgh, PA 15222",
+    "contact_name": "Patricia Nowak",
+    "contact_phone": "(412) 555-6287",
+    "contact_fax": "(412) 580-2110",
+    "contact_email": "pnowak@steelcityins.com",
+    "insurer_a_name": "Hallmark Insurance Company",
+    "insurer_a_naic": "41637",
+    "insurer_b_name": "Hallmark Indemnity Company",
+    "insurer_b_naic": null,
+    "insurer_c_name": "Hallmark Casualty Company",
+    "insurer_c_naic": "41845",
+    "insurer_d_name": "Hallmark Assurance Company",
+    "insurer_d_naic": "42154",
+    "insurer_e_name": null,
+    "insurer_f_name": null,
+    "insurer_line_property": "A",
+    "basic_deductible": 25000,
+    "broad_deductible": 25000,
+    "premises_location": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222",
+    "property_construction": "Fire Resistive",
+    "property_occupancy": "Office",
+    "certificate_holder_name": "Hundlbridge Realty Management Inc.",
+    "certificate_holder_address": "4715 Maple Avenue, Unit 129",
+    "certificate_holder_city": "Birmingham",
+    "certificate_holder_state": "AL",
+    "certificate_holder_zip": "35201",
+    "authorized_representative": "Joseph Kowalczyk"
+  },
+  "remarks": null
+}

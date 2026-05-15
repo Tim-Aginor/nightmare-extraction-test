@@ -1,0 +1,359 @@
+{
+  "form_info": {
+    "form_number": "ACORD 160",
+    "form_edition": "2016/03",
+    "form_title": "BUSINESSOWNERS APPLICATION"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "David Reinhardt",
+    "producer_code": "AG-810319",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "cpGLFS20258823",
+    "effective_date": null,
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": "484110",
+    "years_in_business": 38,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Property Coverage - Building",
+      "limit": 30320000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property Coverage - Business Personal Property",
+      "limit": 57954000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property Coverage - Business Income with Extra Expense",
+      "limit": 54110000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Each Occurrence",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Products/Completed Operations",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Personal & Advertising Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Damage to Premises Rented to You",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Liability - Medical Expense (Any One Person)",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Earthquake",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Additional Insured",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income - Extended Period",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Cyber Liability",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Ordinance or Law - Coverage C",
+      "limit": 250000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Utility Services - Time Element",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Identity Recovery",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Interior Glass",
+      "limit": 2500,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Premises Rented to You",
+      "limit": 300000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employee Dishonesty",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "building_in_flood_zone": "No",
+    "sole_occupant_of_building": "No",
+    "alterations_or_construction_in_progress": "No",
+    "underground_storage_tanks_on_premises": "Yes",
+    "cooking_operations_on_premises": "No",
+    "flammable_liquids_stored_on_premises": "Yes",
+    "applicant_is_building_owner_or_tenant": "Yes",
+    "burglar_alarm_system": "No",
+    "tenant_improvements_or_betterments": "No",
+    "sells_or_distributes_products_manufactured_by_others": "Yes",
+    "responsible_for_building_maintenance": "Yes",
+    "backup_generator": "Yes",
+    "commercial_cooking_operations_on_premises": "No"
+  },
+  "additional_fields": {
+    "agency_name": "Transportation Insurance Specialists",
+    "application_date": "2026-03-15",
+    "naic_code": "24281",
+    "business_type": "DEADBEEF_MISSING_FIELD",
+    "annual_revenue": 78000000,
+    "full_time_employees": 485,
+    "part_time_employees": 52,
+    "website": "www.greatlakesfreightsys.com",
+    "total_insured_value": 142384000,
+    "total_premium": 235710.77,
+    "valuation": "Agreed Value",
+    "payment_plan": "Premium Finance \u2014 10 Pay",
+    "applicant_signature_name": "Margaret Sullivan",
+    "applicant_signature_title": "Vice President of Risk Management",
+    "applicant_signature_date": "2026-03-15",
+    "agent_broker_signature_name": "David Reinhardt",
+    "agent_broker_signature_date": "2026-03-15",
+    "reviewer_signature": "L. Taylor",
+    "reviewer_date": "2026-03-06",
+    "additional_interests": [
+      {
+        "type": "Mortgagee",
+        "name": "KeyBank National Association",
+        "address": "P.O. Box 12013, Pittsburgh, PA 15222",
+        "loan_reference_number": "L-480690388"
+      },
+      {
+        "type": "Additional Interest May Apply",
+        "name": "Regions Bank",
+        "address": "P.O. Box 4553, Philadelphia, PA 19103",
+        "loan_reference_number": "L-327014265"
+      }
+    ],
+    "premises": [
+      {
+        "premises_number": 1,
+        "location_id": "LOC-001",
+        "location_address": "1200 Nationwide Boulevard, Columbus, OH, 43215",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": 5,
+        "year_built": null,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 125000,
+        "sprinklered": null,
+        "occupancy": "Warehouse",
+        "building_value": 10000000,
+        "contents_bpp_value": 5000000,
+        "business_income_value": 9750000,
+        "total_insured_value": 24750000
+      },
+      {
+        "premises_number": 2,
+        "location_id": "LOC-002",
+        "location_address": "2500 Norton Road, Columbus, OH, 43217",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": 5,
+        "year_built": 2012,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 185000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 14800000,
+        "contents_bpp_value": 7400000,
+        "business_income_value": 14430000,
+        "total_insured_value": 36630000
+      },
+      {
+        "premises_number": 3,
+        "location_id": "LOC-003",
+        "location_address": "6000 Rockside Woods Boulevard, Independence, OH, 44131",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": 3,
+        "year_built": 1998,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 95000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 6650000,
+        "contents_bpp_value": 3800000,
+        "business_income_value": 7410000,
+        "total_insured_value": 17860000
+      },
+      {
+        "premises_number": 4,
+        "location_id": "LOC-004",
+        "location_address": "500 Technology Drive, Canonsburg, PA, 15317",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "TPO",
+        "protection_class": 1,
+        "year_built": 2008,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 78000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 5460000,
+        "contents_bpp_value": 3120000,
+        "business_income_value": 6084000,
+        "total_insured_value": null
+      },
+      {
+        "premises_number": 5,
+        "location_id": "LOC-005",
+        "location_address": "State Road, Philadelphia, PA, 19136",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Single-Ply Membrane",
+        "protection_class": 1,
+        "year_built": 2001,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 68000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 4760000,
+        "contents_bpp_value": 2720000,
+        "business_income_value": 5304000,
+        "total_insured_value": 12784000
+      },
+      {
+        "premises_number": 6,
+        "location_id": "LOC-006",
+        "location_address": "4100 Industrial Road, Harrisburg, PA, 17111",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Modified Bitumen",
+        "protection_class": 5,
+        "year_built": 2015,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 92000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 7380000,
+        "contents_bpp_value": 3680000,
+        "business_income_value": 7176000,
+        "total_insured_value": null
+      },
+      {
+        "premises_number": 7,
+        "location_id": "LOC-007",
+        "location_address": "3500 Airborne Road, Toledo, OH, 43609",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Joisted Masonry",
+        "roof_type": "TPO",
+        "protection_class": 3,
+        "year_built": 1995,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 52000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 3120000,
+        "contents_bpp_value": 2080000,
+        "business_income_value": 4056000,
+        "total_insured_value": 9256000
+      },
+      {
+        "premises_number": 8,
+        "location_id": "LOC-008",
+        "location_address": "1250 Nationwide Boulevard, Columbus, OH, 43215",
+        "description_occupancy": "Service/Repair",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "TPO",
+        "protection_class": 5,
+        "year_built": 2005,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 28000,
+        "sprinklered": "Yes",
+        "occupancy": "Service/Repair",
+        "building_value": 1960000,
+        "contents_bpp_value": 1680000,
+        "business_income_value": 2184000,
+        "total_insured_value": null
+      },
+      {
+        "premises_number": 9,
+        "location_id": "LOC-009",
+        "location_address": "41 South High Street, Suite 1500, Columbus, OH, 43215",
+        "description_occupancy": "Office",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Modified Bitumen",
+        "protection_class": 3,
+        "year_built": 2010,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 12000,
+        "sprinklered": "Yes",
+        "occupancy": "Office",
+        "building_value": 0,
+        "contents_bpp_value": 840000,
+        "business_income_value": 1560000,
+        "total_insured_value": 2400000
+      }
+    ]
+  },
+  "remarks": null
+}

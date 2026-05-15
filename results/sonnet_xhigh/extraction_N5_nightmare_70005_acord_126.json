@@ -1,0 +1,137 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": "2016/03",
+    "form_title": "Commercial General Liability Section"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "gl-GLFS-2025-8821",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": 2000000,
+      "deductible": 5000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Rented Premises (Each Occurrence)",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Med Exp (Any One Person)",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Adv Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products / Completed Operations Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Truckers \u2014 Long Haul (Class Code 67419)",
+      "limit": null,
+      "deductible": null,
+      "premium": 145775
+    },
+    {
+      "coverage_type": "Warehouse \u2014 Private (Class Code 52451)",
+      "limit": null,
+      "deductible": null,
+      "premium": 869
+    }
+  ],
+  "checkboxes": {
+    "occurrence": "Yes",
+    "claims_made": "No",
+    "deductible_applies_per_occurrence": "Yes",
+    "q_demolition_work": "Yes",
+    "q1_products_manufactured_sold_distributed": "No",
+    "q2_operations_outside_united_states": "No",
+    "q3_work_performed_by_subcontractors": "No",
+    "q4_work_near_bodies_of_water": "No",
+    "q5_written_contracts_required_from_subcontractors": "No",
+    "q6_underground_storage_hazardous_substances": "No",
+    "q7_completed_operations_exposures": "No",
+    "q8_premises_rented_or_leased_to_others": "No",
+    "q9_professional_services_or_advice": "No",
+    "q10_athletic_or_recreational_facilities": "No",
+    "q11_swimming_pools_hot_tubs_diving_boards": "No",
+    "additional_coverage_employee_benefits_liability": "No",
+    "additional_coverage_liquor_liability": "No",
+    "additional_coverage_pollution_liability": "No",
+    "additional_coverage_product_withdrawal_expense": "No",
+    "additional_coverage_electronic_data_liability": "No",
+    "additional_coverage_hired_and_non_owned_auto": "Yes",
+    "additional_coverage_employment_practices_liability": "No",
+    "additional_coverage_stop_gap_employers_liability": "Yes",
+    "additional_coverage_contractual_liability": "Yes",
+    "additional_coverage_broad_form_property_damage": "No",
+    "additional_coverage_fire_legal_liability": "No",
+    "additional_coverage_medical_payments": "No"
+  },
+  "additional_fields": {
+    "form_date": "2026-03-14",
+    "signature_date": "2025-06-18",
+    "signatory": "M. Johnson",
+    "deductible_amount": 5000,
+    "deductible_applies_to": "Per Occurrence",
+    "total_premium_before_tria": 146644,
+    "tria_surcharge": 6370,
+    "total_premium_with_tria": 153014,
+    "hazard_classifications": [
+      {
+        "class_code": "67419",
+        "description": "Truckers \u2014 Long Haul",
+        "premium_basis": "Payroll",
+        "exposure": 16660000,
+        "rate": 8.75,
+        "premium": 145775
+      },
+      {
+        "class_code": "52451",
+        "description": "Warehouse \u2014 Private",
+        "premium_basis": "Area",
+        "exposure": 695000,
+        "rate": 1.25,
+        "premium": 869
+      }
+    ],
+    "page2_underwriter_annotation": "Need docs"
+  },
+  "remarks": "Stop Gap/Employers Liability and Contractual Liability in Section V interpreted as checked based on x-marker alignment in blurry page 2 scan. 'Need docs' annotation in red appears adjacent to Additional Coverage section, likely referencing Hired & Non-Owned Auto. Note date discrepancy: form header date (2026-03-14) postdates signatory date (2025-06-18)."
+}

@@ -1,0 +1,52 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2008/01",
+    "form_title": "ADDITIONAL REMARKS SCHEDULE"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-HCHP-2025-3351",
+    "effective_date": "2025-05-01",
+    "expiration_date": null,
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas.",
+    "entity_type": "LLC"
+  },
+  "additional_remarks": [
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "1. WC 00 03 01A - Alternate Employer Endorsement\n2. WC 00 03 13 - Waiver of Our Right to Recover From Others Endorsement\n3. IL 09 85 01 15 - Disclosure Pursuant to Terrorism Risk Insurance Act\n4. CG 21 47 12 07 - Employment-Related Practices Exclusion"
+    },
+    {
+      "section_reference": "ADDITIONAL INSURED",
+      "remark": "Dusk Realty Management Inc. is included as Additional Insured per written contract, agreement, or permit as respects General Liability."
+    },
+    {
+      "section_reference": "SPECIAL CONDITIONS",
+      "remark": "Waiver of Subrogation applies in favor of the certificate holder as required by written contract."
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-001: The Driskill Austin - 604 Brazos Street, Austin, TX 78701 (Occupancy: Hotel)\nLOC-002: Riverwalk Suites San Antonio - 112 College Street, San Antonio, TX 78205 (Occupancy: Hotel)\nLOC-003: Fredericksburg Inn & Spa - 245 East Main Street, Fredericksburg, TX 78624 (Occupancy: Hotel)\nLOC-004: South Congress Motor Hotel - 1220 South Congress Avenue, Austin, TX 78704 (Occupancy: Hotel)"
+    },
+    {
+      "section_reference": "NATURE OF OPERATIONS",
+      "remark": "The insured's principal operations consist of: Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Entity type: LLC."
+    }
+  ],
+  "checkboxes": [],
+  "remarks": null
+}

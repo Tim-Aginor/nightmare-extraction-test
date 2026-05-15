@@ -1,0 +1,197 @@
+{
+  "patterns_applied": [
+    {
+      "id": "p08_terminology",
+      "name": "Terminology Inconsistency",
+      "phase": "data_layer",
+      "description": "Different field labels per coverage section (e.g., Reserve vs Outstanding)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p13_special_chars",
+      "name": "Special Characters",
+      "phase": "data_layer",
+      "description": "Injected Unicode special chars in 5 claim descriptions",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p15_currency_formats",
+      "name": "Currency Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different currency formats per section ($1,234 vs 1234.56 vs em-dash for zero)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p17_date_formats",
+      "name": "Date Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different date formats per section (MM/DD/YYYY vs YYYY-MM-DD vs Mon DD, YYYY)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p25_truncation",
+      "name": "Truncated Fields",
+      "phase": "data_layer",
+      "description": "Truncated 1 description fields with ellipsis",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p47_name_variant",
+      "name": "Name Variant",
+      "phase": "data_layer",
+      "description": "Name variant: 'Great Lakes Freight Systems, Inc.' \u2192 'Great Lakes Freight Systems, Incorporated' for acord_101",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "original_name": "Great Lakes Freight Systems, Inc.",
+        "variant": "Great Lakes Freight Systems, Incorporated"
+      }
+    },
+    {
+      "id": "p48_address_mismatch",
+      "name": "Address Mismatch",
+      "phase": "data_layer",
+      "description": "Address variant: '1200 Nationwide Boulevard' \u2192 '1200 Nationwide Blvd.'",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "original_address": "1200 Nationwide Boulevard",
+        "variant": "1200 Nationwide Blvd."
+      }
+    },
+    {
+      "id": "p49_policy_format",
+      "name": "Policy Number Format",
+      "phase": "data_layer",
+      "description": "Reformatted 0 policy numbers for acord_101",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "policies_reformatted": 0
+      }
+    },
+    {
+      "id": "p50_date_format",
+      "name": "Date Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Date format set to dd-mmm-yyyy for acord_101",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "date_format": "dd-mmm-yyyy"
+      }
+    },
+    {
+      "id": "p09_watermark",
+      "name": "Watermark Overlay",
+      "phase": "overlay",
+      "description": "Diagonal semi-transparent 'DRAFT' watermark across all pages",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p14_embedded_images",
+      "name": "Embedded Images",
+      "phase": "overlay",
+      "description": "Status icons (check/x/warning) replace text status in GL table cells",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p16_invisible_text",
+      "name": "Invisible OCR Text",
+      "phase": "overlay",
+      "description": "Render mode 3 (invisible) text at slightly offset positions",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p35_untagged_hf",
+      "name": "Untagged Headers/Footers",
+      "phase": "overlay",
+      "description": "Header/footer text drawn directly on canvas without structure tags",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p22_fragmented_borders",
+      "name": "Fragmented Borders",
+      "phase": "structural",
+      "description": "Table grid as many small overlapping line segments (Word export simulation)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p27_reading_order",
+      "name": "Non-Reading Order",
+      "phase": "structural",
+      "description": "Text emitted right-to-left, bottom-to-top in content stream",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p38_kerning",
+      "name": "Kerning Spaces",
+      "phase": "structural",
+      "description": "Words separated by TJ kerning offsets, no actual space characters in stream",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p28_broken_cmap",
+      "name": "Broken CMap",
+      "phase": "post_process",
+      "description": "Fully scrambled ToUnicode CMap on Courier fonts",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p36_ocg_hidden",
+      "name": "OCG Hidden Layers",
+      "phase": "post_process",
+      "description": "Hidden OCG layer with extractable but invisible text",
+      "pages_affected": [
+        1
+      ],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p42_font_corrupt",
+      "name": "Font Subset Corruption",
+      "phase": "post_process",
+      "description": "CMap missing mappings for digits 0, 5, 7",
+      "pages_affected": [
+        1
+      ],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p56_handwritten",
+      "name": "Handwritten Elements",
+      "phase": "post_process",
+      "description": "Handwritten signature, date stamp, and margin annotations",
+      "pages_affected": [
+        1
+      ],
+      "ground_truth_delta": {
+        "overlay_texts": [
+          "M. Johnson",
+          "6/18/2025",
+          "Need docs"
+        ]
+      }
+    },
+    {
+      "id": "p53_heavy_degradation",
+      "name": "Heavy Degradation",
+      "phase": "scan_effects",
+      "description": "Heavy OCR degradation on 1/1 pages: rotation, blur, noise, scan lines, JPEG q25",
+      "pages_affected": [
+        1
+      ],
+      "ground_truth_delta": {}
+    }
+  ],
+  "total_patterns": 21
+}

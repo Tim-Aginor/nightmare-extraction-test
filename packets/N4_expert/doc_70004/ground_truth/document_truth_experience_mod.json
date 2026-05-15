@@ -1,0 +1,26 @@
+{
+  "document_type": "experience_mod",
+  "template": "hallmark_style",
+  "seed": 70004,
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA, 15222",
+    "street": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip_code": "15222"
+  },
+  "carrier": "Hallmark Insurance Group",
+  "policy_period": {
+    "start": "2025-08-01",
+    "end": "2026-08-01"
+  },
+  "policy_numbers": {
+    "wc": "WC-KCB-2025-5580"
+  },
+  "summary": {
+    "experience_mod": 0.86,
+    "class_code_count": 7
+  },
+  "page_count": 2
+}

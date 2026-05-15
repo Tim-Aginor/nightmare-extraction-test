@@ -1,0 +1,230 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "entity_type": {
+      "value": "LLC"
+    },
+    "fein": {
+      "value": "31-5847293"
+    },
+    "sic_code": {
+      "value": "6512"
+    },
+    "naics_code": {
+      "value": "531130"
+    },
+    "nature_of_business": {
+      "value": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+    },
+    "years_in_business": {
+      "value": 31
+    },
+    "annual_revenue": {
+      "value": 48000000,
+      "rendered_as": "$48,000,000.00"
+    },
+    "num_employees_ft": {
+      "value": 95
+    },
+    "num_employees_pt": {
+      "value": 18
+    },
+    "website": {
+      "value": "www.buckeyeindustrialpro.com"
+    },
+    "contact_name": {
+      "value": "Douglas Brennan"
+    },
+    "contact_title": {
+      "value": "Chief Operating Officer"
+    },
+    "producer_name": {
+      "value": "Midwest Property & Casualty Group"
+    },
+    "producer_contact": {
+      "value": "Karen Weissman"
+    }
+  },
+  "doc_type": "acord_125",
+  "uw_questions": [
+    {
+      "question": "Any work performed underground or above 3 stories?",
+      "answer": "No"
+    },
+    {
+      "question": "Any operations involving hazardous materials?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant prepare, handle, or serve food for human consumption?",
+      "answer": "No"
+    },
+    {
+      "question": "Any swimming pools, playgrounds, or athletic facilities?",
+      "answer": "No"
+    },
+    {
+      "question": "Any work involving asbestos, lead, or mold remediation?",
+      "answer": "No"
+    },
+    {
+      "question": "Any losses or claims in the past 5 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Any past bankruptcies, receivership, or reorganization?",
+      "answer": "No"
+    },
+    {
+      "question": "Any professional services provided?",
+      "answer": "No"
+    },
+    {
+      "question": "Are products manufactured, sold, or distributed?",
+      "answer": "No"
+    },
+    {
+      "question": "Any foreign operations or exposures?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "answer": "No"
+    }
+  ],
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Rickenbacker Logistics Center - A",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "building_value": 34000000,
+      "contents_value": 8500000,
+      "bi_value": 12750000,
+      "tiv": 55250000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Rickenbacker Logistics Center - B",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "building_value": 30400000,
+      "contents_value": 7600000,
+      "bi_value": 11400000,
+      "tiv": 49400000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Cleveland Distribution Hub",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip_code": "44144",
+      "building_value": 20650000,
+      "contents_value": 5900000,
+      "bi_value": 8850000,
+      "tiv": 35400000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "Dayton Manufacturing Facility",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip_code": "45404",
+      "building_value": 11100000,
+      "contents_value": 5550000,
+      "bi_value": 6660000,
+      "tiv": 23310000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "name": "Cincinnati Cross-Dock Terminal",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip_code": "45241",
+      "building_value": 19800000,
+      "contents_value": 4400000,
+      "bi_value": 7920000,
+      "tiv": 32120000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "name": "Toledo Industrial Park - Building 1",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "building_value": 11550000,
+      "contents_value": 3300000,
+      "bi_value": 4950000,
+      "tiv": 19800000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "name": "Toledo Industrial Park - Building 2",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "building_value": 8520000,
+      "contents_value": 4260000,
+      "bi_value": 4260000,
+      "tiv": 17040000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "name": "Akron Flex Space",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "zip_code": "44685",
+      "building_value": 10240000,
+      "contents_value": 2560000,
+      "bi_value": 5120000,
+      "tiv": 17920000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "name": "Corporate Administrative Office",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "building_value": 0,
+      "contents_value": 425000,
+      "bi_value": 680000,
+      "tiv": 1105000
+    }
+  ]
+}

@@ -26,7 +26,3 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-
-# Local reproducibility workspaces (see README)
-ground_truth/
-results/

@@ -1,0 +1,209 @@
+{
+  "form_info": {
+    "form_number": "ACORD 130",
+    "form_edition": "2013/08",
+    "form_title": "WORKERS COMPENSATION APPLICATION"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Patricia Nowak",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-KCB-2025-5580",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "25-7194638",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Workers Compensation - Class 5403 Carpentry NOC",
+      "limit": null,
+      "deductible": null,
+      "premium": 487396
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 5190 Electrical Wiring",
+      "limit": null,
+      "deductible": null,
+      "premium": 220838
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 5183 Plumbing NOC",
+      "limit": null,
+      "deductible": null,
+      "premium": 138990
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 5022 Masonry NOC",
+      "limit": null,
+      "deductible": null,
+      "premium": 607180
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 5474 Painting Interior",
+      "limit": null,
+      "deductible": null,
+      "premium": 113419
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 5606 Contractors Project Manager, Superintendent",
+      "limit": null,
+      "deductible": null,
+      "premium": 117012
+    },
+    {
+      "coverage_type": "Workers Compensation - Class 8810 Clerical Office Employees NOC",
+      "limit": null,
+      "deductible": null,
+      "premium": 9519
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "application_date": "2026-03-15",
+    "experience_modification_factor": 0.86,
+    "rating_effective_date": "2025-08-01",
+    "rating_summary": {
+      "total_employees": 470,
+      "total_payroll": 31594850,
+      "manual_premium": 1694354,
+      "modified_premium": 1457144,
+      "schedule_credit_debit_percent": -15.8,
+      "standard_premium": 1226187,
+      "premium_discount": -123610,
+      "expense_constant": 157,
+      "tria_surcharge": 55440,
+      "total_estimated_annual_premium": 1158173
+    },
+    "individuals_included_excluded": [
+      {
+        "name": "Joseph Kowalczyk",
+        "title": "President & CEO",
+        "date_of_birth": "1966-08-01",
+        "ownership_percent": 25,
+        "include_exclude": "Included"
+      },
+      {
+        "name": "Jonathan Ramirez",
+        "title": "CEO",
+        "date_of_birth": "1963-01-08",
+        "ownership_percent": 75,
+        "include_exclude": "Excluded"
+      }
+    ],
+    "prior_carrier_information": [
+      {
+        "year": "2024-2025",
+        "carrier": "Nationwide Insurance",
+        "policy_number": "00000004484",
+        "premium": 1146539.85,
+        "mod_factor": 0.95
+      },
+      {
+        "year": "2023-2024",
+        "carrier": "Hartford Financial Services",
+        "policy_number": "7WC0009196",
+        "premium": 1035813.87,
+        "mod_factor": 1.01
+      },
+      {
+        "year": "2022-2023",
+        "carrier": "Zurich Insurance Group",
+        "policy_number": "WC00004453",
+        "premium": 960343.79,
+        "mod_factor": 0.93
+      }
+    ],
+    "applicant_signature": "Joseph Kowalczyk",
+    "applicant_signature_date": "2026-03-15",
+    "applicant_title": "President & CEO",
+    "producer_signature": "Patricia Nowak",
+    "producer_signature_date": "2026-03-15",
+    "contact_name": "Joseph Kowalczyk",
+    "contact_title": "President & CEO",
+    "rating_details": [
+      {
+        "loc": "LOC-001",
+        "state": "PA",
+        "class_code": "5403",
+        "description": "Carpentry \u2014 NOC",
+        "employees": 95,
+        "payroll": 5915000,
+        "rate": 8.24,
+        "premium": 487396
+      },
+      {
+        "loc": "LOC-002",
+        "state": "PA",
+        "class_code": "5190",
+        "description": "Electrical Wiring",
+        "employees": 60,
+        "payroll": 4544000,
+        "rate": 4.86,
+        "premium": 220838
+      },
+      {
+        "loc": "LOC-003",
+        "state": "PA",
+        "class_code": "5183",
+        "description": "Plumbing \u2014 NOC",
+        "employees": 43,
+        "payroll": 3075000,
+        "rate": 4.52,
+        "premium": 138990
+      },
+      {
+        "loc": "LOC-004",
+        "state": "PA",
+        "class_code": "5022",
+        "description": "Masonry \u2014 NOC",
+        "employees": 111,
+        "payroll": 6635850,
+        "rate": 9.15,
+        "premium": 607180
+      },
+      {
+        "loc": "LOC-005",
+        "state": "PA",
+        "class_code": "5474",
+        "description": "Painting \u2014 Interior",
+        "employees": 31,
+        "payroll": 1639000,
+        "rate": 6.92,
+        "premium": 113419
+      },
+      {
+        "loc": "LOC-006",
+        "state": "PA",
+        "class_code": "5606",
+        "description": "Contractors \u2014 Project Manager, Superintendent",
+        "employees": 43,
+        "payroll": 4776000,
+        "rate": 2.45,
+        "premium": 117012
+      },
+      {
+        "loc": "All",
+        "state": "PA",
+        "class_code": "8810",
+        "description": "Clerical Office Employees \u2014 NOC",
+        "employees": 87,
+        "payroll": 5010000,
+        "rate": 0.19,
+        "premium": 9519
+      }
+    ]
+  },
+  "remarks": null
+}

@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "PCRB Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Pennsylvania Compensation Rating Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": null,
+    "city": null,
+    "state": "PA",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction contractor operations reflected by workers compensation classifications including Plumbing \u2014 NOC, Painting \u2014 Interior, and Clerical Office Employees \u2014 NOC.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation Experience Rating",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Final Experience Modification Factor is 0.86, effective 2025-08-01 to 2026-08-01. Rating plan: Large Risk. Interstate rating: No."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor is 0.86.",
+      "Computed modification factor is 0.8600.",
+      "Rating bureau approval noted on 2026-03-15."
+    ],
+    "concerns": [
+      "Actual loss data shows 29 claims across the reported experience period.",
+      "Actual primary losses are 335671 and actual excess losses are 211060."
+    ],
+    "loss_history_summary": "Experience rating worksheet shows actual primary losses of 335671, actual excess losses of 211060, and total actual losses of 546731. Reported policy years include 2021-2022 with 10 claims, total paid and incurred of 240694, primary losses of 156716, and excess losses of 83978. Final experience modification factor is 0.86."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "PCRB Experience Rating Worksheet for Keystone Commercial Builders, Inc. Carrier: Hallmark Insurance Group. Policy period: 2025-08-01 to 2026-08-01. Final Experience Modification Factor: 0.86.",
+    "operations_description": "Payroll/classification data includes PA class code 5183 Plumbing \u2014 NOC with payroll 3075000, PA class code 5474 Painting \u2014 Interior with payroll 1639000, and PA class code 8810 Clerical Office Employees \u2014 NOC with payroll 5010000.",
+    "safety_programs": null,
+    "claims_narrative": "Actual Primary Losses (Ap): 335671. Actual Excess Losses (Ae): 211060. Expected Losses (E): 1095520. Expected Excess Losses (Ee): 1134750. Ballast Value (B): 13748. Weighting Value (W): 0.574. Numerator: 953971. Denominator: 1109268. Computed Modification Factor: 0.8600. Final Experience Modification Factor: 0.86."
+  }
+}

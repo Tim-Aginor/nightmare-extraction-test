@@ -1,0 +1,278 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "binder_number": {
+      "value": "BND-070003"
+    },
+    "binder_date": {
+      "value": "2026-02-16",
+      "rendered_as": "02/16/2026"
+    },
+    "producer_name": {
+      "value": "Capitol Insurance Advisors"
+    },
+    "producer_contact": {
+      "value": "Marcus Jennings"
+    },
+    "producer_phone": {
+      "value": "(512) 555-0634"
+    },
+    "producer_fax": {
+      "value": "(512) 695-7763"
+    },
+    "producer_email": {
+      "value": "mjennings@capitolia.com"
+    },
+    "policy_number_wc": {
+      "value": "WC-HCHP-2025-3350"
+    },
+    "premium_wc": {
+      "value": 286527.66,
+      "rendered_as": "$286,527.66"
+    },
+    "form_type_wc": {
+      "value": "statutory"
+    },
+    "limit_wc_el_each_accident": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "limit_wc_el_disease_policy": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "limit_wc_el_disease_each": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "policy_number_gl": {
+      "value": "GL-HCHP-2025-3351"
+    },
+    "premium_gl": {
+      "value": 108425.47,
+      "rendered_as": "108,425.47"
+    },
+    "deductible_gl": {
+      "value": 5000,
+      "rendered_as": "5,000.00"
+    },
+    "form_type_gl": {
+      "value": "occurrence"
+    },
+    "limit_gl_each_occurrence": {
+      "value": 1000000.0,
+      "rendered_as": "1,000,000.00"
+    },
+    "limit_gl_general_aggregate": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "limit_gl_products_completed_ops": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "limit_gl_personal_advertising": {
+      "value": 500000,
+      "rendered_as": "500,000.00"
+    },
+    "limit_gl_damage_rented_premises": {
+      "value": 50000,
+      "rendered_as": "50,000.00"
+    },
+    "limit_gl_medical_expense": {
+      "value": 10000,
+      "rendered_as": "10,000.00"
+    },
+    "policy_number_property": {
+      "value": "CP-HCHP-2025-3352"
+    },
+    "premium_property": {
+      "value": 265469.62,
+      "rendered_as": "$265,469.62"
+    },
+    "deductible_property": {
+      "value": 25000,
+      "rendered_as": "$25,000.00"
+    },
+    "form_type_property": {
+      "value": "special"
+    },
+    "limit_property_building": {
+      "value": 101570000,
+      "rendered_as": "$101,570,000.00"
+    },
+    "limit_property_contents": {
+      "value": 26150000,
+      "rendered_as": "$26,150,000.00"
+    },
+    "limit_property_business_income": {
+      "value": 40510000,
+      "rendered_as": "$40,510,000.00"
+    },
+    "limit_property_coinsurance": {
+      "value": 90.0,
+      "rendered_as": "90%"
+    },
+    "coinsurance_property": {
+      "value": 90.0,
+      "rendered_as": "90%"
+    }
+  },
+  "doc_type": "acord_75",
+  "expiring_carriers": [
+    {
+      "year": 2024,
+      "carrier": "Travelers Companies",
+      "premium": 686236.25
+    },
+    {
+      "year": 2023,
+      "carrier": "Markel Corporation",
+      "premium": 619820.26
+    },
+    {
+      "year": 2022,
+      "carrier": "Zurich Insurance Group",
+      "premium": 607294.45
+    }
+  ],
+  "endorsements": [
+    {
+      "coverage": "Workers' Compensation",
+      "form_code": "WC 00 00 04",
+      "description": "Workers' Compensation and Employers' Liability Insurance Policy"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_code": "WC 00 04 22",
+      "description": "Experience Rating Modification Factor Endorsement"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_code": "WC 42 03 04",
+      "description": "Texas Notice of Material Change Endorsement"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_code": "WC 42 06 01",
+      "description": "Texas Cancellation by the Insured Endorsement"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_code": "WC 00 03 13",
+      "description": "Waiver of Our Right to Recover from Others Endorsement"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 00 01 04 13",
+      "description": "Commercial General Liability Coverage Form"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "IL 00 21 09 08",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "IL 00 17 11 98",
+      "description": "Common Policy Conditions"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 20 37 04 13",
+      "description": "Additional Insured \u2014 Owners, Lessees or Contractors (Completed Ops)"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 20 10 04 13",
+      "description": "Additional Insured \u2014 Owners, Lessees or Contractors"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "IL 09 85 01 15",
+      "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 24 04 05 09",
+      "description": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 00 10 10 12",
+      "description": "Building and Personal Property Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 00 30 10 12",
+      "description": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 10 30 10 12",
+      "description": "Causes of Loss \u2014 Special Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 00 21 09 08",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 00 17 11 98",
+      "description": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 09 85 01 15",
+      "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 03 21 06 07",
+      "description": "Windstorm or Hail Percentage Deductible"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "KeyBank National Association",
+      "address": "P.O. Box 38199",
+      "city_state_zip": "Clarksville, TN 37040"
+    },
+    {
+      "name": "Stearns Bank, N.A.",
+      "address": "P.O. Box 25349",
+      "city_state_zip": "Fargo, ND 58102"
+    },
+    {
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 55869",
+      "city_state_zip": "Elk Grove, CA 95624"
+    }
+  ]
+}

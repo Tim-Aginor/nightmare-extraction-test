@@ -1,0 +1,377 @@
+{
+  "seed": 70002,
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip_code": "43215",
+    "full_address": "250 Civic Center Drive, Suite 600, Columbus, OH, 43215"
+  },
+  "carrier": "Maine Employers Mutual",
+  "is_monopolistic_wc": false,
+  "business_info": {
+    "entity_type": "LLC",
+    "fein": "31-5847293",
+    "sic_code": "6512",
+    "naics_code": "531130",
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "years_in_business": 31,
+    "years_current_mgmt": 22,
+    "annual_revenue": 48000000,
+    "num_employees_ft": 95,
+    "num_employees_pt": 18,
+    "contact_name": "Douglas Brennan",
+    "contact_title": "Chief Operating Officer",
+    "website": "www.buckeyeindustrialpro.com"
+  },
+  "producer": {
+    "agency": "Midwest Property & Casualty Group",
+    "contact": "Karen Weissman",
+    "phone": "(614) 555-0742",
+    "email": "kweissman@mwpcg.com",
+    "address": "175 South Third Street, Suite 1400, Columbus, OH, 43215",
+    "license_number": "AG-6645310"
+  },
+  "policies": {
+    "property": {
+      "policy_number": "CP-BIP-2025-4420",
+      "carrier": "Maine Employers Mutual",
+      "period_start": "2025-09-01",
+      "period_end": "2026-09-01",
+      "premium": 424883.27,
+      "form_type": "special",
+      "limits": {
+        "building": 146260000,
+        "contents": 42495000,
+        "business_income": 62590000,
+        "coinsurance": 80.0
+      },
+      "deductible": 75000,
+      "billing_plan": "Direct Bill \u2014 Monthly"
+    }
+  },
+  "coverages": [
+    "property"
+  ],
+  "loss_summary": {
+    "total_claims": 2,
+    "coverages": [
+      "property"
+    ],
+    "total_paid": 202875.0,
+    "total_reserved": 35679.44,
+    "total_incurred": 238554.44,
+    "open_claims": 1,
+    "closed_claims": 1
+  },
+  "experience_mod": 1.0,
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Rickenbacker Logistics Center - A",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 425000,
+      "sprinklered": true,
+      "protection_class": 1,
+      "building_value": 34000000,
+      "contents_value": 8500000,
+      "bi_value": 12750000,
+      "tiv": 55250000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Rickenbacker Logistics Center - B",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2016,
+      "stories": 1,
+      "square_feet": 380000,
+      "sprinklered": true,
+      "protection_class": 5,
+      "building_value": 30400000,
+      "contents_value": 7600000,
+      "bi_value": 11400000,
+      "tiv": 49400000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Cleveland Distribution Hub",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip_code": "44144",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 295000,
+      "sprinklered": true,
+      "protection_class": 3,
+      "building_value": 20650000,
+      "contents_value": 5900000,
+      "bi_value": 8850000,
+      "tiv": 35400000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "Dayton Manufacturing Facility",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip_code": "45404",
+      "construction": "Joisted Masonry",
+      "occupancy": "Manufacturing",
+      "year_built": 1992,
+      "stories": 1,
+      "square_feet": 185000,
+      "sprinklered": true,
+      "protection_class": 4,
+      "building_value": 11100000,
+      "contents_value": 5550000,
+      "bi_value": 6660000,
+      "tiv": 23310000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "name": "Cincinnati Cross-Dock Terminal",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip_code": "45241",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2019,
+      "stories": 1,
+      "square_feet": 220000,
+      "sprinklered": true,
+      "protection_class": 4,
+      "building_value": 19800000,
+      "contents_value": 4400000,
+      "bi_value": 7920000,
+      "tiv": 32120000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "name": "Toledo Industrial Park - Building 1",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2004,
+      "stories": 1,
+      "square_feet": 165000,
+      "sprinklered": true,
+      "protection_class": 5,
+      "building_value": 11550000,
+      "contents_value": 3300000,
+      "bi_value": 4950000,
+      "tiv": 19800000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "name": "Toledo Industrial Park - Building 2",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Manufacturing",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 142000,
+      "sprinklered": false,
+      "protection_class": 3,
+      "building_value": 8520000,
+      "contents_value": 4260000,
+      "bi_value": 4260000,
+      "tiv": 17040000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "name": "Akron Flex Space",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "zip_code": "44685",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2011,
+      "stories": 1,
+      "square_feet": 128000,
+      "sprinklered": true,
+      "protection_class": 4,
+      "building_value": 10240000,
+      "contents_value": 2560000,
+      "bi_value": 5120000,
+      "tiv": 17920000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "name": "Corporate Administrative Office",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2006,
+      "stories": 1,
+      "square_feet": 8500,
+      "sprinklered": true,
+      "protection_class": 1,
+      "building_value": 0,
+      "contents_value": 425000,
+      "bi_value": 680000,
+      "tiv": 1105000
+    }
+  ],
+  "uw_answers": {
+    "mvr_checks_annual": false,
+    "cdl_required": false,
+    "products_distributed": false,
+    "safety_program": true,
+    "written_safety_manual": false,
+    "driver_training": false,
+    "fleet_gps_tracking": false,
+    "subcontractors_used": true,
+    "prior_claims_disputed": false,
+    "hazmat": false,
+    "flammable_liquids": false,
+    "building_owner": true,
+    "building_maintenance": true
+  },
+  "prior_carrier_history": [
+    {
+      "year": 2024,
+      "year_range": "2024-2025",
+      "premium": 392002.31,
+      "per_coverage_premiums": {
+        "property": 392002.31
+      },
+      "per_coverage_policy_numbers": {
+        "property": "CP00007001"
+      },
+      "per_coverage_carriers": {
+        "property": "Liberty Mutual Insurance"
+      },
+      "claims": 0,
+      "mod_factor": 0.98,
+      "cancellation": "No"
+    },
+    {
+      "year": 2023,
+      "year_range": "2023-2024",
+      "premium": 419914.35,
+      "per_coverage_premiums": {
+        "property": 419914.35
+      },
+      "per_coverage_policy_numbers": {
+        "property": "CP-5666-6137"
+      },
+      "per_coverage_carriers": {
+        "property": "Hartford Financial Services"
+      },
+      "claims": 0,
+      "mod_factor": 1.0,
+      "cancellation": "No"
+    },
+    {
+      "year": 2022,
+      "year_range": "2022-2023",
+      "premium": 456514.1,
+      "per_coverage_premiums": {
+        "property": 456514.1
+      },
+      "per_coverage_policy_numbers": {
+        "property": "7CP0004662"
+      },
+      "per_coverage_carriers": {
+        "property": "Chubb Limited"
+      },
+      "claims": 0,
+      "mod_factor": 1.0,
+      "cancellation": "No"
+    },
+    {
+      "year": 2021,
+      "year_range": "2021-2022",
+      "premium": 458666.38,
+      "per_coverage_premiums": {
+        "property": 458666.38
+      },
+      "per_coverage_policy_numbers": {
+        "property": "0000007099"
+      },
+      "per_coverage_carriers": {
+        "property": "Hartford Financial Services"
+      },
+      "claims": 1,
+      "mod_factor": 0.96,
+      "cancellation": "No"
+    }
+  ],
+  "certificate_holders": [
+    {
+      "name": "Navigator Realty Management Inc.",
+      "address": "5290 Walnut Street, Ste. 159",
+      "city": "Newport News",
+      "state": "VA",
+      "zip_code": "23601"
+    },
+    {
+      "name": "Navigator Properties LLC",
+      "address": "619 Lake Street",
+      "city": "Peoria",
+      "state": "AZ",
+      "zip_code": "85345"
+    }
+  ],
+  "interest_holders": [
+    {
+      "name": "Regions Bank",
+      "address": "P.O. Box 16098",
+      "city_state_zip": "El Paso, TX 79901",
+      "type": "ISAOA/ATIMA",
+      "loan_number": "L-446846716"
+    },
+    {
+      "name": "ABC Equipment Leasing Corp.",
+      "address": "P.O. Box 29249",
+      "city_state_zip": "Clarksville, TN 37040",
+      "type": "Loss Payee",
+      "loan_number": "L-787056076"
+    },
+    {
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 41583",
+      "city_state_zip": "Fargo, ND 58102",
+      "type": "Additional Insured",
+      "loan_number": "L-907030999"
+    }
+  ],
+  "endorsements": {
+    "property": [
+      "CP 00 10 10 12 \u2014 Building and Personal Property Coverage Form",
+      "CP 00 30 10 12 \u2014 Business Income (and Extra Expense) Coverage Form",
+      "CP 10 30 10 12 \u2014 Causes of Loss \u2014 Special Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CP 04 09 \u2014 Equipment Breakdown Coverage",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act"
+    ]
+  }
+}

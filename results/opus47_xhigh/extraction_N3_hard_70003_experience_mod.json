@@ -1,0 +1,65 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Texas Department of Insurance",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality / Restaurant operations",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Experience Modification Factor of 0.94; Large Risk rating plan; Risk ID 201435-1808"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience modification factor below 1.00 (0.94) indicating better-than-average loss experience",
+      "Actual Excess Losses of $0",
+      "Only one reported loss year (2021-2022) with 8 claims totaling $56,343"
+    ],
+    "concerns": [],
+    "loss_history_summary": "2021-2022: 8 claims, $56,343 total paid, $56,343 total incurred, $56,343 primary losses, $0 excess losses"
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": "2025-05-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Experience Rating Modification Worksheet for Hill Country Hospitality Partners, LLC with a Final Experience Modification Factor of 0.94, effective 05/01/2025 to 05/01/2026, approved by the Texas Department of Insurance on 03/15/2026 (Analyst ID: RA-2930).",
+    "operations_description": "Payroll classifications include Restaurant \u2014 NOC (Class Code 9082) with payroll of $3,678,800, expected loss rate 1.5500, expected losses $57,021, D-Ratio 0.280. Total payroll across all classifications: $16,260,471; Total expected losses: $239,205.",
+    "safety_programs": null,
+    "claims_narrative": "Actual Primary Losses (Ap): $92,945; Actual Excess Losses (Ae): $0; Expected Excess Losses (Ee): $422,385; Ballast Value (B): $29,114; Weighting Value (W): 0.419; Numerator: $367,465; Denominator: $390,920; Computed Modification Factor: 0.9400; Expected Losses (E): $361,806."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": "2016/03",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "document_date": "2026-03-16",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15222",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": 1260000,
+      "bi_value": 2340000,
+      "tiv": null
+    }
+  ],
+  "property_deductible": 25000,
+  "interests": [
+    {
+      "name": "M&T Bank",
+      "address": "343 Jackson Street, Pittsburgh, PA 13521",
+      "interest_type": "First Mortgagee",
+      "loan_number": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Basic",
+      "value": "No"
+    },
+    {
+      "field": "Broad",
+      "value": "No"
+    },
+    {
+      "field": "Special",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "Coverage provided on Special form. Property is fully sprinklered. Construction type: Fire Resistive."
+}

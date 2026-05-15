@@ -1,0 +1,132 @@
+{
+  "form_info": {
+    "form_number": "ACORD 130",
+    "form_edition": "2013/09",
+    "form_title": "Workers Compensation Assigned Risk"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "25-7194638",
+    "sic_code": "1621",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Workers Compensation \u2014 Assigned Risk",
+      "limit": null,
+      "deductible": null,
+      "premium": 1694354
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "form_date": "2026-03-14",
+    "application_date": "2026-03-14",
+    "assigned_risk_plan_state": "PA",
+    "assigned_risk_plan_name": "Workers Compensation Insurance Plan",
+    "classification_schedule": [
+      {
+        "class_code": "5403",
+        "description": "Carpentry \u2014 NOC",
+        "num_employees": 95,
+        "payroll": 5915000,
+        "rate": 8.24,
+        "premium": 487396
+      },
+      {
+        "class_code": "5190",
+        "description": "Electrical Wiring",
+        "num_employees": 80,
+        "payroll": 4544000,
+        "rate": 4.86,
+        "premium": 220838
+      },
+      {
+        "class_code": "5183",
+        "description": "Plumbing \u2014 NOC",
+        "num_employees": 43,
+        "payroll": 3075000,
+        "rate": 4.52,
+        "premium": 138990
+      },
+      {
+        "class_code": "5022",
+        "description": "Masonry \u2014 NOC",
+        "num_employees": 111,
+        "payroll": 6635850,
+        "rate": 9.15,
+        "premium": 607180
+      },
+      {
+        "class_code": "5474",
+        "description": "Painting \u2014 Interior",
+        "num_employees": 31,
+        "payroll": 1639000,
+        "rate": 6.92,
+        "premium": 113419
+      },
+      {
+        "class_code": "5606",
+        "description": "Contractors \u2014 Project Manager, Superintendent",
+        "num_employees": 43,
+        "payroll": 4776000,
+        "rate": 2.45,
+        "premium": 117012
+      },
+      {
+        "class_code": "8810",
+        "description": "Clerical Office Employees \u2014 NOC",
+        "num_employees": 87,
+        "payroll": 5010000,
+        "rate": 0.19,
+        "premium": 9519
+      }
+    ],
+    "total_employees": 490,
+    "total_payroll": 31594850,
+    "total_premium": 1694354,
+    "experience_mod_current": 0.86,
+    "experience_mod_proposed": 0.91,
+    "rating_bureau": "NCCI",
+    "prior_carriers": [
+      {
+        "carrier": "Nationwide Insurance",
+        "policy_number": null,
+        "effective_date": null,
+        "expiration_date": null
+      },
+      {
+        "carrier": "Berkshire Hathaway Guard",
+        "policy_number": null,
+        "effective_date": null,
+        "expiration_date": null
+      },
+      {
+        "carrier": "Zurich Insurance Group",
+        "policy_number": null,
+        "effective_date": null,
+        "expiration_date": null
+      }
+    ],
+    "applicant_signature": "Keystone Commercial Builders, Inc.",
+    "applicant_signature_date": "2026-03-14",
+    "agent_broker_signature": "Patricia Nowak",
+    "agent_broker_signature_date": "2026-03-14"
+  },
+  "remarks": "SIC: 1621. General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania."
+}

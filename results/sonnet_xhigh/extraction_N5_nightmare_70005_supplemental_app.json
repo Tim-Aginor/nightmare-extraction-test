@@ -1,0 +1,102 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "David Reinhardt (Producer); Margaret Sullivan (Applicant, VP of Risk Management)",
+    "recipient": "Standard Insurance Company"
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": 78000000,
+    "employee_count": 537
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines \u2014 Policy Year 2024",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2068013.98,
+      "notes": "2024 policy year; 10 claims reported; no cancellations; premium figure approximate due to document image quality"
+    },
+    {
+      "coverage_type": "Commercial Lines \u2014 Policy Year 2023",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hartford Financial Services",
+      "expiring_premium": 2074475.35,
+      "notes": "2023 policy year; 13 claims reported; no cancellations; premium figure approximate due to document image quality"
+    },
+    {
+      "coverage_type": "Commercial Lines \u2014 Policy Year 2022",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Auto-Owners Insurance",
+      "expiring_premium": 2014585.01,
+      "notes": "2022 policy year; 12 claims reported; no cancellations; premium figure approximate due to document image quality"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal written safety program in place",
+      "GPS tracking and ELD devices installed in all vehicles",
+      "MVR checks performed on all drivers at least annually",
+      "CDL licenses verified for all drivers at time of hire",
+      "Valid DOT number and MC authority maintained",
+      "Hired auto and non-owned auto exposure is covered",
+      "All 9 locations are fully sprinklered",
+      "38 years in business; 25 years under current management team",
+      "No prior insurance cancellations reported across entire 3-year history",
+      "Drivers stated to be in compliance with FMCSA Hours-of-Service regulations",
+      "No DOT violations or out-of-service orders in the past 3 years reported"
+    ],
+    "concerns": [
+      "No written contracts maintained with all subcontractors \u2014 significant liability exposure gap for a trucking operation",
+      "CSA BASIC Crash Indicator score above intervention threshold \u2014 noted as currently being addressed but unresolved at time of submission",
+      "CSA BASIC Vehicle Maintenance score within 10% of intervention threshold \u2014 borderline compliance",
+      "Applicant signature section contains handwritten date '6/18/2025' inconsistent with printed document date of 03/15/2026 \u2014 suggests possible pre-signed signature page or backdating anomaly",
+      "Producer printed name ('David Reinhardt') does not match the signature on the producer line ('M. Johnson') \u2014 material signature discrepancy",
+      "Underwriter annotation 'Need docs' on prior insurance history section \u2014 supporting loss run documentation is outstanding",
+      "Carrier changed every single year across all three prior policy years (Hanover 2024, Hartford 2023, Auto-Owners 2022) \u2014 pattern may indicate adverse loss experience, declination, or non-renewal",
+      "35 total claims across 3 prior policy years represents elevated claim frequency for the fleet",
+      "Sleeper-cab tractors used for long-haul operations \u2014 elevated fatigue and liability exposure",
+      "Refrigerated reefer units carrying perishable freight \u2014 specialized cargo liability and spoilage exposure",
+      "Flatbed operations hauling steel, lumber, and machinery \u2014 elevated load securement and cargo liability risk"
+    ],
+    "loss_history_summary": "Three-year prior insurance history reported: 2024 (Hanover Insurance Group) \u2014 10 claims; 2023 (Hartford Financial Services) \u2014 13 claims; 2022 (Auto-Owners Insurance) \u2014 12 claims. Total of 35 claims across three policy years with no cancellations reported. Insured changed carriers each year. Supporting loss run documentation has been flagged as outstanding per underwriter annotation. Annual premiums ranged from approximately $2.01M to $2.07M."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": "Interstate (FMCSA) only"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Operates Monday through Friday 6:00 AM to 4:30 PM. 485 full-time and 52 part-time employees (537 total). Annual revenue $78,000,000. 38 years in business; 25 years under current management. Operates 9 locations across Ohio and Pennsylvania including 7 warehouses (LOC-001 through LOC-007), 1 service/repair facility (LOC-008), and 1 office (LOC-009), totaling approximately 735,000 sq ft of space. All locations sprinklered. Primary commodities hauled: dry van \u2014 general freight and packaged goods; flatbed \u2014 steel, lumber, and machinery. Sleeper-cab tractors used for long-haul operations. Refrigerated reefer units carrying perishable freight also operated. ICC operating authority: Interstate (FMCSA) only. Policy number on file: WC GLFS 2025 8820, effective 06/01/2025.",
+    "safety_programs": "Formal safety program in place. GPS tracking and ELD devices installed in all vehicles. MVR checks performed on all drivers at least annually. CDL licenses verified at time of hire. Drivers stated to be in compliance with FMCSA Hours-of-Service (HOS) regulations. CSA BASIC Vehicle Maintenance score is within 10% of the intervention threshold. CSA BASIC Crash Indicator score is above the intervention threshold and is currently being addressed. No DOT violations or out-of-service orders reported in the past 3 years. Valid DOT number and MC authority maintained.",
+    "claims_narrative": "Three years of prior insurance history provided with three different carriers. 2024 (Hanover Insurance Group): 10 claims, no cancellations. 2023 (Hartford Financial Services): 13 claims, no cancellations. 2022 (Auto-Owners Insurance): 12 claims, no cancellations. Total of 35 claims reported across the three-year window. Carrier changed in each successive policy year. Underwriter has annotated the prior insurance history section with 'Need docs,' indicating that supporting loss run documentation has not yet been received."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "Cancellation Request / Policy Release"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AG-4419703",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "WC GLFS 2025 8820",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "policy_type_cgl": "Yes",
+    "policy_type_auto": "Yes",
+    "policy_type_wc": "Yes",
+    "policy_type_property": "Yes",
+    "policy_type_umbrella": "Yes",
+    "reason_insureds_request": "No",
+    "reason_non_payment_of_premium": "No",
+    "reason_underwriting": "No",
+    "reason_non_renewal": "Yes",
+    "reason_other": "No"
+  },
+  "additional_fields": {
+    "agency_phone": "(614) 555-0493",
+    "agency_fax": "(614) 267-6839",
+    "carrier_naic_code": "24281",
+    "cancellation_date": "2026-05-07",
+    "cancellation_time": "10:19 PM",
+    "return_premium_basis": "pro-rata",
+    "administrator_signature_name": "Davio Reinhardt",
+    "administrator_signature_date": "2026-03-16",
+    "secondary_reviewer_signature": "M. Johnson",
+    "secondary_reviewer_date": "2025-06-18",
+    "reviewer_annotation": "Need docs"
+  },
+  "remarks": "The above-named insured/agent requests cancellation of the policy described above. Any return premium due is to be calculated on a pro-rata basis unless otherwise indicated."
+}

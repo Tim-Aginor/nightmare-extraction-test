@@ -1,0 +1,73 @@
+{
+  "document_info": {
+    "document_type": "Submission Memo",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": null,
+    "city": null,
+    "state": "OH",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property ownership and operation, including warehouse, distribution, manufacturing, and office facilities",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": 251345000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Total Insured Value across 9 locations includes Building, Contents, and BI values"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Majority of locations are Non-Combustible or Masonry Non-Combustible construction",
+      "8 of 9 locations are sprinklered",
+      "Modern construction with several buildings built post-2000",
+      "Corporate office is Fire Resistive construction",
+      "Low claims frequency with only 1 claim in past 4 years prior to 2024"
+    ],
+    "concerns": [
+      "LOC-007 Toledo Industrial Park - Building 2 is not sprinklered",
+      "Dayton Manufacturing Facility (LOC-004) is Joisted Masonry construction built in 1992",
+      "Toledo Industrial Park - Building 2 built in 1998 (older manufacturing occupancy without sprinklers)",
+      "All locations concentrated in Ohio - geographic concentration risk",
+      "Two property claims with $238,554 total incurred"
+    ],
+    "loss_history_summary": "2 property claims with total paid of $202,875 and total incurred of $238,554. Only 1 claim reported across prior 4 policy years (2021)."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

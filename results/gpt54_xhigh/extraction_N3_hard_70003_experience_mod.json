@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Texas Department of Insurance Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality operations including hotel, restaurant, bellhop/doorperson, and clerical office employees.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Texas workers compensation experience rating worksheet under the Large Risk plan; final experience modification factor 0.94 effective 2025-05-01."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor is 0.94 effective 2025-05-01.",
+      "No actual excess losses were reported.",
+      "Actual primary losses of 92945 are below expected losses of 361806."
+    ],
+    "concerns": [
+      "A total of 16 claims were reported across policy years 2021-2022 through 2023-2024.",
+      "The highest claim count occurred in 2021-2022 with 8 claims and 56343 in primary losses."
+    ],
+    "loss_history_summary": "From policy years 2021-2022 through 2023-2024, the account had 16 claims with 92945 total paid, 92945 total incurred, 92945 primary losses, and 0 excess losses."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "This experience rating modification worksheet has been reviewed and approved in accordance with applicable state rating laws and regulations. The experience modification factor of 0.94 is effective as of 05/01/2025.",
+    "operations_description": "Hotel \u2014 All Other Employees; Hotel \u2014 Bellhops, Doorpersons; Restaurant \u2014 NOC; Clerical Office Employees \u2014 NOC.",
+    "safety_programs": null,
+    "claims_narrative": "2023-2024: 2 claims, total paid 9940, total incurred 9940, primary losses 9940, excess losses 0; 2022-2023: 6 claims, total paid 26662, total incurred 26662, primary losses 26662, excess losses 0; 2021-2022: 8 claims, total paid 56343, total incurred 56343, primary losses 56343, excess losses 0."
+  }
+}

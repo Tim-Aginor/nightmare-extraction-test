@@ -1,0 +1,317 @@
+{
+  "applicant_info": {
+    "fein": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "blanket_summary": {
+    "blanket_limit": 168230000,
+    "blanket_number": "BLK-3399",
+    "blanket_type": "Building, Contents & BI"
+  },
+  "checkboxes": [
+    {
+      "field": "LOC-001 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-001 Burglar Alarm",
+      "value": "No"
+    },
+    {
+      "field": "LOC-001 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-002 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-002 Burglar Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-002 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-003 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-003 Burglar Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-003 Fire Alarm",
+      "value": "No"
+    },
+    {
+      "field": "LOC-004 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-004 Burglar Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-004 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-005 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-005 Burglar Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-005 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-006 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-006 Burglar Alarm",
+      "value": "No"
+    },
+    {
+      "field": "LOC-006 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-007 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-007 Burglar Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-007 Fire Alarm",
+      "value": "No"
+    },
+    {
+      "field": "LOC-008 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-008 Burglar Alarm",
+      "value": "No"
+    },
+    {
+      "field": "LOC-008 Fire Alarm",
+      "value": "Yes"
+    }
+  ],
+  "coinsurance": null,
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 140",
+    "form_title": "Property Section"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": "CP-HCHP-2025-3362",
+    "producer_code": "ACT-201435",
+    "producer_name": "Capitol Insurance Advisors"
+  },
+  "interest_holders": [
+    {
+      "address": "P.O. Box 391198, Clarksville, TN 37040",
+      "interest_type": "ISAOA/ATIMA",
+      "loan_number": "L-9878291120",
+      "name": "KeyBank National Association"
+    },
+    {
+      "address": "P.O. Box 7009, Frisco, MO 63343",
+      "interest_type": "Loss Payee",
+      "loan_number": "L-602409047",
+      "name": "Simmons Bank, N.A."
+    },
+    {
+      "address": "P.O. Box 5088, Elk Grove, CA 95624",
+      "interest_type": "Additional Insured",
+      "loan_number": "L-041409258",
+      "name": "Pinnacle Investors Group, Inc."
+    }
+  ],
+  "locations": [
+    {
+      "address": "604 Brazos Street",
+      "bi_value": 10687500,
+      "building_value": 28500000,
+      "city": "Austin",
+      "construction": "Fire Resistive",
+      "contents_value": 7125000,
+      "fire_alarm_type": "Central Station Monitored",
+      "location_number": "LOC-001",
+      "occupancy": "Hotel",
+      "roof_type": "TPO",
+      "sprinkler_type": "Wet Pipe",
+      "sprinklered": true,
+      "square_feet": 95000,
+      "state": "TX",
+      "stories": 8,
+      "tiv": 46312500,
+      "year_built": 2010,
+      "zip": "78701"
+    },
+    {
+      "address": "112 College Street",
+      "bi_value": 14910000,
+      "building_value": 39760000,
+      "city": "San Antonio",
+      "construction": "Fire Resistive",
+      "contents_value": 9940000,
+      "fire_alarm_type": "Proprietary System",
+      "location_number": "LOC-002",
+      "occupancy": "Hotel",
+      "roof_type": "Metal",
+      "sprinkler_type": "Wet Pipe",
+      "sprinklered": true,
+      "square_feet": 142000,
+      "state": "TX",
+      "stories": 12,
+      "tiv": 64610000,
+      "year_built": 2006,
+      "zip": "78205"
+    },
+    {
+      "address": "281 East Main Street",
+      "bi_value": 3960000,
+      "building_value": 10560000,
+      "city": "Fredericksburg",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": 2640000,
+      "fire_alarm_type": "None",
+      "location_number": "LOC-003",
+      "occupancy": "Hotel",
+      "roof_type": "Built-Up",
+      "sprinkler_type": "Pre-Action",
+      "sprinklered": true,
+      "square_feet": 48000,
+      "state": "TX",
+      "stories": 3,
+      "tiv": 17160000,
+      "year_built": 1998,
+      "zip": "78624"
+    },
+    {
+      "address": "1220 South Congress Avenue",
+      "bi_value": 5812500,
+      "building_value": 15500000,
+      "city": "Austin",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": 3875000,
+      "fire_alarm_type": "Direct to Fire Department",
+      "location_number": "LOC-004",
+      "occupancy": "Hotel",
+      "roof_type": "Concrete",
+      "sprinkler_type": "Wet Pipe",
+      "sprinklered": true,
+      "square_feet": 62000,
+      "state": "TX",
+      "stories": 4,
+      "tiv": 25187500,
+      "year_built": 2015,
+      "zip": "78704"
+    },
+    {
+      "address": "806 Brazos Street",
+      "bi_value": 1700000,
+      "building_value": 2550000,
+      "city": "Austin",
+      "construction": "Fire Resistive",
+      "contents_value": 850000,
+      "fire_alarm_type": "Direct to Fire Department",
+      "location_number": "LOC-005",
+      "occupancy": "Restaurant",
+      "roof_type": "Metal",
+      "sprinkler_type": "Pre-Action",
+      "sprinklered": true,
+      "square_feet": 8500,
+      "state": "TX",
+      "stories": 1,
+      "tiv": 5100000,
+      "year_built": 2010,
+      "zip": "78701"
+    },
+    {
+      "address": "3950 Comanche Trail",
+      "bi_value": 1800000,
+      "building_value": 3000000,
+      "city": "Austin",
+      "construction": "Non-Combustible",
+      "contents_value": 900000,
+      "fire_alarm_type": "Central Station Monitored",
+      "location_number": "LOC-006",
+      "occupancy": "Restaurant",
+      "roof_type": "EPDM",
+      "sprinkler_type": "Wet Pipe",
+      "sprinklered": true,
+      "square_feet": 12000,
+      "state": "TX",
+      "stories": 2,
+      "tiv": 5700000,
+      "year_built": 2012,
+      "zip": "78732"
+    },
+    {
+      "address": "303 Pearl Parkway",
+      "bi_value": 1020000,
+      "building_value": 1700000,
+      "city": "San Antonio",
+      "construction": "Joisted Masonry",
+      "contents_value": 510000,
+      "fire_alarm_type": "None",
+      "location_number": "LOC-007",
+      "occupancy": "Restaurant",
+      "roof_type": "EPDM",
+      "sprinkler_type": "Pre-Action",
+      "sprinklered": true,
+      "square_feet": 6800,
+      "state": "TX",
+      "stories": 1,
+      "tiv": 3230000,
+      "year_built": 2014,
+      "zip": "78215"
+    },
+    {
+      "address": "401 Congress Avenue, Suite 2800",
+      "bi_value": 580000,
+      "building_value": 0,
+      "city": "Austin",
+      "construction": null,
+      "contents_value": 350000,
+      "fire_alarm_type": "Direct to Fire Department",
+      "location_number": "LOC-008",
+      "occupancy": "Office",
+      "roof_type": "Shingle",
+      "sprinkler_type": "Dry Pipe",
+      "sprinklered": true,
+      "square_feet": 6200,
+      "state": "TX",
+      "stories": 1,
+      "tiv": 930000,
+      "year_built": 2006,
+      "zip": "78701"
+    }
+  ],
+  "property_deductible": 25000,
+  "property_premium": null,
+  "remarks": null,
+  "valuation_method": "Replacement Cost"
+}

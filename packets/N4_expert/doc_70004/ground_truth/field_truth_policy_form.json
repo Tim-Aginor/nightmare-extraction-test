@@ -1,0 +1,166 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "policy_number_wc": {
+      "value": "WC-KCB-2025-5580"
+    },
+    "policy_number_gl": {
+      "value": "GL-KCB-2025-5581"
+    },
+    "policy_number_auto": {
+      "value": "CA-KCB-2025-5582"
+    },
+    "policy_number_property": {
+      "value": "CP-KCB-2025-5583"
+    },
+    "form_number": {
+      "value": "WC 00 00 04"
+    },
+    "edition": {
+      "value": "04"
+    },
+    "lob": {
+      "value": "wc"
+    }
+  },
+  "doc_type": "policy_form",
+  "section_titles": [
+    "GENERAL SECTION",
+    "PART ONE \u2014 WORKERS COMPENSATION INSURANCE",
+    "PART TWO \u2014 EMPLOYERS LIABILITY INSURANCE",
+    "PART THREE \u2014 OTHER STATES INSURANCE",
+    "PART FOUR \u2014 YOUR DUTIES IF INJURY OCCURS",
+    "PART FIVE \u2014 PREMIUM",
+    "PART SIX \u2014 CONDITIONS"
+  ],
+  "condition_titles": [
+    "A. Inspection",
+    "B. Long Term Policy",
+    "C. Transfer Of Your Rights And Duties",
+    "D. Cancellation",
+    "E. Sole Representative"
+  ],
+  "exclusion_titles": [
+    "Liability Assumed Under A Contract",
+    "Punitive Or Exemplary Damages",
+    "Bodily Injury To An Employee Employed In Violation Of Law",
+    "Workers Compensation And Statutory Obligation",
+    "Intentional Injury",
+    "Bodily Injury Outside The United States",
+    "Employment Practices",
+    "Federal Maritime And Related Acts",
+    "Federal Employers' Liability Act",
+    "Jones Act",
+    "Fines Or Penalties",
+    "Migrant And Seasonal Agricultural Workers"
+  ],
+  "endorsement_schedule": [
+    {
+      "form_number": "WC 00 03 13",
+      "edition": "04 84",
+      "title": "Waiver Of Our Right To Recover From Others Endorsement"
+    },
+    {
+      "form_number": "WC 00 03 01 A",
+      "edition": "04 84",
+      "title": "Alternate Employer Endorsement"
+    },
+    {
+      "form_number": "WC 00 03 03",
+      "edition": "04 84",
+      "title": "All States Endorsement"
+    },
+    {
+      "form_number": "WC 00 04 06",
+      "edition": "01 15",
+      "title": "Terrorism Risk Insurance Act Endorsement"
+    }
+  ],
+  "endorsement_details": [
+    {
+      "form_number": "WC 00 03 13",
+      "edition": "04 84",
+      "title": "Waiver Of Our Right To Recover From Others Endorsement",
+      "named_insured": "Keystone Commercial Builders, Inc.",
+      "policy_number": "WC-KCB-2025-5580"
+    },
+    {
+      "form_number": "WC 00 03 01 A",
+      "edition": "04 84",
+      "title": "Alternate Employer Endorsement",
+      "named_insured": "Keystone Commercial Builders, Inc.",
+      "policy_number": "WC-KCB-2025-5580"
+    },
+    {
+      "form_number": "WC 00 03 03",
+      "edition": "04 84",
+      "title": "All States Endorsement",
+      "named_insured": "Keystone Commercial Builders, Inc.",
+      "policy_number": "WC-KCB-2025-5580"
+    },
+    {
+      "form_number": "WC 00 04 06",
+      "edition": "01 15",
+      "title": "Terrorism Risk Insurance Act Endorsement",
+      "named_insured": "Keystone Commercial Builders, Inc.",
+      "policy_number": "WC-KCB-2025-5580"
+    }
+  ],
+  "table_of_contents": [
+    {
+      "title": "COMMON POLICY DECLARATIONS"
+    },
+    {
+      "title": "COMMON POLICY CONDITIONS"
+    },
+    {
+      "title": "GENERAL SECTION"
+    },
+    {
+      "title": "PART ONE \u2014 WORKERS COMPENSATION INSURANCE"
+    },
+    {
+      "title": "PART TWO \u2014 EMPLOYERS LIABILITY INSURANCE"
+    },
+    {
+      "title": "PART THREE \u2014 OTHER STATES INSURANCE"
+    },
+    {
+      "title": "PART FOUR \u2014 YOUR DUTIES IF INJURY OCCURS"
+    },
+    {
+      "title": "PART FIVE \u2014 PREMIUM"
+    },
+    {
+      "title": "PART SIX \u2014 CONDITIONS"
+    },
+    {
+      "title": "ENDORSEMENT SCHEDULE"
+    }
+  ]
+}

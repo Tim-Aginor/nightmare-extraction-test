@@ -1,0 +1,538 @@
+{
+  "applicant_info": {
+    "fein": "31-6847291",
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": "4215",
+    "years_in_business": null
+  },
+  "auto_limits": {
+    "combined_single_limit": 5000000,
+    "medical_payments": 10000,
+    "uninsured_motorist": 50000
+  },
+  "auto_premium": {
+    "base_premium": null,
+    "deductible": null,
+    "form_type": "occurrence",
+    "total_premium": 262046.75,
+    "tria_surcharge": null
+  },
+  "checkboxes": [
+    {
+      "field": "Coverage Symbol 14 - Liability",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 14 - PIP",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 14 - UM/UIM",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 14 - Physical Damage",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage Symbol 10 - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage Symbol 10 - PIP",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage Symbol 10 - UM/UIM",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage Symbol 10 - Physical Damage",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 17 - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage Symbol 17 - PIP",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage Symbol 17 - UM/UIM",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 17 - Physical Damage",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 9 - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage Symbol 9 - PIP",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 9 - UM/UIM",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 9 - Physical Damage",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 8 - Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Coverage Symbol 8 - PIP",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 8 - UM/UIM",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 8 - Physical Damage",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 13 - Liability",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 13 - PIP",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 13 - UM/UIM",
+      "value": "No"
+    },
+    {
+      "field": "Coverage Symbol 13 - Physical Damage",
+      "value": "Yes"
+    },
+    {
+      "field": "OH 01 01 - OH Uninsured Motorist Coverage Included",
+      "value": "Yes"
+    },
+    {
+      "field": "OH 02 01 - OH Underinsured Motorist Coverage Included",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any vehicles used for snow removal or winter commercial applications?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any drivers under age 21?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured transport passengers for a fee?",
+      "value": "No"
+    },
+    {
+      "field": "Are dashcams or telematics installed in any vehicles?",
+      "value": "No"
+    },
+    {
+      "field": "Has the insured had any DOT violations in the past 3 years?",
+      "value": "No"
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 137",
+    "form_title": "COMMERCIAL AUTO SUPPLEMENT"
+  },
+  "header": {
+    "carrier_name": "Standard Insurance Company",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": "CAGLFS20258822",
+    "producer_code": null,
+    "producer_name": "Transportation Insurance Specialists"
+  },
+  "remarks": "Entity type: Corporation. PIP coverage: Not Required. Hired auto liability, non-owned auto liability, and hired auto physical damage: Not Covered. Trailer interchange limit: 50000.",
+  "vehicles": [
+    {
+      "garage_state": null,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "stated_value": 122185,
+      "vehicle_class": null,
+      "vehicle_id": "1",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "stated_value": 118441,
+      "vehicle_class": null,
+      "vehicle_id": "2",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Kenworth",
+      "model": "T880",
+      "stated_value": 121494,
+      "vehicle_class": null,
+      "vehicle_id": "3",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Kenworth",
+      "model": "T880",
+      "stated_value": 117887,
+      "vehicle_class": null,
+      "vehicle_id": "4",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Peterbilt",
+      "model": "579",
+      "stated_value": 122000,
+      "vehicle_class": null,
+      "vehicle_id": "5",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Peterbilt",
+      "model": "579",
+      "stated_value": 118897,
+      "vehicle_class": null,
+      "vehicle_id": "6",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "stated_value": 116064,
+      "vehicle_class": null,
+      "vehicle_id": "7",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Volvo",
+      "model": "VNL 860",
+      "stated_value": 119200,
+      "vehicle_class": null,
+      "vehicle_id": "8",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "International",
+      "model": "LT",
+      "stated_value": 116064,
+      "vehicle_class": null,
+      "vehicle_id": "9",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Mack",
+      "model": "Anthem",
+      "stated_value": 126450,
+      "vehicle_class": null,
+      "vehicle_id": "10",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Freightliner",
+      "model": "Cascadia Day Cab",
+      "stated_value": 123086,
+      "vehicle_class": null,
+      "vehicle_id": "11",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Kenworth",
+      "model": "T680 Day Cab",
+      "stated_value": 116735,
+      "vehicle_class": null,
+      "vehicle_id": "12",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Freightliner",
+      "model": "M2 112",
+      "stated_value": 94773,
+      "vehicle_class": null,
+      "vehicle_id": "13",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "International",
+      "model": "MV607",
+      "stated_value": 96987,
+      "vehicle_class": null,
+      "vehicle_id": "14",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Hino",
+      "model": "338",
+      "stated_value": 65600,
+      "vehicle_class": null,
+      "vehicle_id": "15",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Isuzu",
+      "model": "NPR-HD",
+      "stated_value": 45403,
+      "vehicle_class": null,
+      "vehicle_id": "16",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "E-450",
+      "stated_value": 44468,
+      "vehicle_class": null,
+      "vehicle_id": "17",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "Transit 350",
+      "stated_value": 53194,
+      "vehicle_class": null,
+      "vehicle_id": "18",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Ram",
+      "model": "ProMaster 2500",
+      "stated_value": 48582,
+      "vehicle_class": null,
+      "vehicle_id": "19",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-550",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "20",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "stated_value": 59001,
+      "vehicle_class": null,
+      "vehicle_id": "21",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-150",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "22",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Toyota",
+      "model": "Camry",
+      "stated_value": 27979,
+      "vehicle_class": null,
+      "vehicle_id": "23",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "stated_value": 41016,
+      "vehicle_class": null,
+      "vehicle_id": "24",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Great Dane",
+      "model": "Champion SE",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "25",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Great Dane",
+      "model": "Champion SE",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "26",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Wabash",
+      "model": "DuraPlate HD",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "27",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Wabash",
+      "model": "DuraPlate HD",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "28",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Utility",
+      "model": "4000D-X Composite",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "29",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Utility",
+      "model": "4000D-X Composite",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "30",
+      "vin": null,
+      "year": 2025
+    },
+    {
+      "garage_state": null,
+      "make": "Hyundai Translead",
+      "model": "Dry Van",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "31",
+      "vin": null,
+      "year": 2023
+    },
+    {
+      "garage_state": null,
+      "make": "Hyundai Translead",
+      "model": "Dry Van",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "32",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Fontaine",
+      "model": "Revolution 51",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "33",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Fontaine",
+      "model": "Infinity 48",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "34",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Fontaine",
+      "model": "Genesis",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "35",
+      "vin": null,
+      "year": 2017
+    },
+    {
+      "garage_state": null,
+      "make": "Great Dane",
+      "model": "Everest TL",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "36",
+      "vin": null,
+      "year": 2024
+    },
+    {
+      "garage_state": null,
+      "make": "Utility",
+      "model": "3000R",
+      "stated_value": null,
+      "vehicle_class": null,
+      "vehicle_id": "37",
+      "vin": null,
+      "year": 2023
+    }
+  ]
+}

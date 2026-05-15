@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Buckeye Industrial Properties, LLC",
+    "statement_type": "Combined",
+    "period_end_date": "2026-09-30",
+    "period_type": "Annual",
+    "fiscal_year": 2026,
+    "audited": null,
+    "preparer": "Douglas Brennan"
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": 0,
+        "accounts_receivable": 8122200,
+        "inventory": null,
+        "prepaid_expenses": null,
+        "other_current": 8575100,
+        "total_current_assets": 16697300
+      },
+      "fixed_assets": {
+        "property_plant_equipment": 94398500,
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 94398500
+      },
+      "other_assets": 1265300,
+      "total_assets": 112361100
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 6289500,
+        "accrued_expenses": 2094900,
+        "current_debt": 0,
+        "other_current": null,
+        "total_current_liabilities": 8384400
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 22600000,
+        "other_long_term": 2694300,
+        "total_long_term": 25294300
+      },
+      "total_liabilities": 33678700
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": null,
+      "total_equity": 78682400
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": 48000000,
+      "net_revenue": 48000000
+    },
+    "cost_of_goods_sold": 19715000,
+    "gross_profit": 28285000,
+    "operating_expenses": {
+      "salaries_wages": null,
+      "rent": null,
+      "utilities": null,
+      "depreciation": null,
+      "insurance": null,
+      "other_operating": 17024000,
+      "total_operating_expenses": 17024000
+    },
+    "operating_income": 11261000,
+    "interest_expense": 1322100,
+    "income_before_tax": 9938900,
+    "income_tax": 2738900,
+    "net_income": 7200000
+  },
+  "ratios": {
+    "current_ratio": 0.85,
+    "debt_to_equity": 0.43,
+    "profit_margin": 0.15
+  }
+}

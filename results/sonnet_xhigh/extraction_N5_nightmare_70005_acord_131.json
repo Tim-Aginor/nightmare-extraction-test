@@ -1,0 +1,155 @@
+{
+  "form_info": {
+    "form_number": "ACORD 131",
+    "form_edition": "2016/03",
+    "form_title": "UMBRELLA / EXCESS LIABILITY"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": null,
+    "insured_city": null,
+    "insured_state": null,
+    "insured_zip": null,
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "SIC CU025454",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Umbrella / Excess Liability",
+      "limit": 10000000,
+      "deductible": null,
+      "premium": 492351
+    },
+    {
+      "coverage_type": "General Liability (Underlying)",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": 153014
+    },
+    {
+      "coverage_type": "Automobile Liability (Underlying)",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": 262047
+    }
+  ],
+  "checkboxes": {
+    "general_liability": "X",
+    "automobile_liability": "X",
+    "employers_liability": "X",
+    "professional_liability": "unchecked",
+    "commercial_property": "X",
+    "marine": "unchecked",
+    "aviation": "unchecked",
+    "railroad_protective": "unchecked",
+    "liquor_liability": "unchecked",
+    "foreign_liability": "unchecked",
+    "products_liability": "unchecked",
+    "pollution_liability": "unchecked"
+  },
+  "additional_fields": {
+    "form_date": "2026-03-15",
+    "form_type": "occurrence",
+    "each_occurrence_limit": 10000000,
+    "aggregate_limit": 10000000,
+    "annual_premium": 492351,
+    "self_insured_retention": 50000,
+    "sir_retention_basis": "Per Occurrence",
+    "sir_applies_to": "All coverages unless otherwise stated",
+    "underlying_insurance": [
+      {
+        "coverage_type": "GL",
+        "carrier": "Standard Insurance Company",
+        "policy_number": "gl GLFS 2025 8821",
+        "effective_date": "2025-06-01",
+        "expiration_date": "2026-06-01",
+        "per_occurrence_limit": 2000000,
+        "aggregate_limit": 4000000,
+        "premium": 153014
+      },
+      {
+        "coverage_type": "Auto",
+        "carrier": "Standard Insurance Company",
+        "policy_number": "CAGLFS20258822",
+        "effective_date": "2025-06-01",
+        "expiration_date": "2026-06-01",
+        "per_occurrence_limit": 5000000,
+        "aggregate_limit": null,
+        "premium": 262047
+      }
+    ],
+    "loss_history": [
+      {
+        "coverage": "Workers Compensation / Employers' Liability",
+        "num_claims": 25,
+        "total_paid": 930991,
+        "total_reserved": 123860,
+        "total_incurred": 1054851
+      },
+      {
+        "coverage": "[Partially illegible] Liability",
+        "num_claims": 5,
+        "total_paid": 54127,
+        "total_reserved": 0,
+        "total_incurred": 54127
+      },
+      {
+        "coverage": "General Liability",
+        "num_claims": 16,
+        "total_paid": 387376,
+        "total_reserved": 62174,
+        "total_incurred": 449550
+      },
+      {
+        "coverage": "Automobile Liability",
+        "num_claims": 3,
+        "total_paid": 192018,
+        "total_reserved": 0,
+        "total_incurred": 192018
+      },
+      {
+        "coverage": "Commercial Property",
+        "num_claims": 0,
+        "total_paid": 0,
+        "total_reserved": 0,
+        "total_incurred": 0
+      },
+      {
+        "coverage": "Umbrella / Excess Liability",
+        "num_claims": 0,
+        "total_paid": 0,
+        "total_reserved": 0,
+        "total_incurred": 0
+      },
+      {
+        "coverage": "[Partially illegible]",
+        "num_claims": 2,
+        "total_paid": 3916,
+        "total_reserved": 0,
+        "total_incurred": 3916
+      }
+    ],
+    "loss_history_totals": {
+      "num_claims": 51,
+      "total_paid": 1568428,
+      "total_reserved": 186034,
+      "total_incurred": 1754462
+    },
+    "page_2_signed_by": "M. Johnson",
+    "page_2_signed_date": "2025-06-18",
+    "page_2_annotation": "Need docs"
+  },
+  "remarks": "Page 2 is a degraded scan with partially illegible content. Loss history row labels for rows 2 and 7 are not fully readable; label for row 2 ends in 'Liability' but full coverage name is unclear. Row 1 label 'Workers Compensation - Employers'' may represent a combined WC/EL section header spanning two rows, or a single combined line item. Individual total-incurred values for rows 2-7 were computed as paid + reserved where scan was unreadable; all figures reconcile to stated totals of $1,568,428 paid, $186,034 reserved, and $1,754,462 incurred across 51 claims. The SIR of $50,000 per occurrence applies to all coverages unless otherwise stated and is not a conventional deductible. Form date (2026-03-15) post-dates the page 2 signature date (2025-06-18)."
+}

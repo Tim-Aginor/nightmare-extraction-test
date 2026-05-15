@@ -1,0 +1,86 @@
+{
+  "document_info": {
+    "document_type": null,
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [
+      "Scott Murphy has Major Violations status with 3 violations and 2 accidents",
+      "Jack Reed has Major Violations status with 3 violations and 2 accidents",
+      "Andre Mitchell has Accident status with 0 violations but 2 accidents",
+      "Patrick Murphy has 1 violation and 2 accidents",
+      "Carlos Ramirez has 1 violation and 2 accidents",
+      "Helen Anderson has 1 violation and 2 accidents",
+      "Dennis Kelly has 1 violation and 2 accidents",
+      "Daniel White has 2 violations and 1 accident",
+      "Driver #26 Justin Morales has a non-standard license format (HI493037) listed under OH state",
+      "Driver #27 Scott Murphy has a non-standard license format (ZI495688) listed under OH state",
+      "Driver #28 Helen Anderson has a non-standard license format (FN978375) listed under OH state",
+      "Driver #29 Benjamin Rogers has a non-standard license format (UE436460) listed under OH state",
+      "Driver #30 Katherine Taylor has a non-standard license format (FJ558242) listed under OH state",
+      "Driver #31 Raymond Ortiz has a non-standard license format (W02183487518) listed under IL state",
+      "Driver #32 Debra Jackson has a non-standard license format (35291097) listed under TX state",
+      "Driver #33 Samuel Gutierrez has a non-standard license format (YG255201) listed under OH state",
+      "Driver #34 Paul Nelson has a non-standard license format (WA733270) listed under OH state",
+      "Driver #35 Rebecca Kim has a non-standard license format (O79303268120) listed under IL state",
+      "Driver #36 Frank Cooper has a non-standard license format (GU123781) listed under OH state",
+      "Driver #37 Carolyn Lee has a non-standard license format (VV050251) listed under OH state",
+      "Driver #38 Janet Perez has a non-standard license format (BN686904) listed under OH state",
+      "Driver #39 Jack Reed has a non-standard license format (AE103080) listed under OH state",
+      "Driver #40 Dennis Kelly has a non-standard license format (FM128047) listed under OH state",
+      "Driver #38 Janet Perez has only 4 years of experience",
+      "Driver #31 Raymond Ortiz born 1962-02-24 \u2014 potential age concern (over 62)",
+      "Driver #33 Samuel Gutierrez born 1961-11-13 \u2014 potential age concern (over 62)",
+      "Driver #26 Justin Morales born 1963-05-27 \u2014 potential age concern (over 60)",
+      "Driver #27 Scott Murphy born 1963-03-03 \u2014 potential age concern (over 60)",
+      "Multiple VINs present that may require validation for accuracy"
+    ],
+    "loss_history_summary": "Based on MVR data: 2 drivers with Major Violations status, 1 driver with Accident-only status, majority of drivers (30) showing Minor Violations, and 5 drivers with clear records. Multiple drivers have 2 at-fault accidents on record."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH",
+      "PA",
+      "IL",
+      "TX",
+      "HI"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": 40,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Fleet consists of 37 vehicles across multiple classes: 12 Extra Heavy Trucks (sleeper/day cab configurations including Freightliner Cascadia, Kenworth T680, Peterbilt 579, Volvo VNL 860, International LT, Mack Anthem), 3 Heavy Trucks (Freightliner M2 112, International MV607, Hino 338), 2 Medium Trucks (Isuzu NPR-HD, Ford E-450), 5 Light Trucks (Ford Transit 350, Ram ProMaster 2500, Ford F-250, Chevrolet Silverado 2500, Ford F-150), 2 Private Passenger vehicles (Toyota Camry, Chevrolet Suburban), and 13 Trailers (Great Dane, Wabash, Utility, Hyundai Translead, Fontaine brands). Driver base of 40 drivers primarily licensed in OH and PA, with some IL and TX licenses.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

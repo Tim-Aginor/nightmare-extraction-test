@@ -1,0 +1,148 @@
+{
+  "form_info": {
+    "form_number": "ACORD 130",
+    "form_edition": "2013/08",
+    "form_title": "Workers Compensation Application"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Marcus Jennings",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-HCHP-2025-3350",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Workers Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": 286528
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "rating_information": [
+      {
+        "location": "LOC-001",
+        "state": "TX",
+        "class_code": "9052",
+        "description": "Hotel -- All Other Employees",
+        "employees": 257,
+        "payroll": 9207271,
+        "rate": 2.85,
+        "premium": 262407
+      },
+      {
+        "location": "LOC-002",
+        "state": "TX",
+        "class_code": "9060",
+        "description": "Hotel -- Bellhops, Doorpersons",
+        "employees": 44,
+        "payroll": 1454400,
+        "rate": 2.45,
+        "premium": 35633
+      },
+      {
+        "location": "LOC-003",
+        "state": "TX",
+        "class_code": "9082",
+        "description": "Restaurant -- NOC",
+        "employees": 117,
+        "payroll": 3678800,
+        "rate": 2.12,
+        "premium": 77991
+      },
+      {
+        "location": "All",
+        "state": "TX",
+        "class_code": "8810",
+        "description": "Clerical Office Employees -- NOC",
+        "employees": 32,
+        "payroll": 1920000,
+        "rate": 0.18,
+        "premium": 3456
+      }
+    ],
+    "totals": {
+      "employees": 450,
+      "payroll": 16260471,
+      "premium": 379487
+    },
+    "premium_calculation": {
+      "manual_premium": 379487,
+      "experience_modification_factor": 0.94,
+      "modified_premium": 356718,
+      "schedule_credit_debit_pct": -15.8,
+      "standard_premium": 300214,
+      "premium_discount": -23044,
+      "expense_constant": 120,
+      "tria_surcharge": 9236,
+      "total_estimated_annual_premium": 286528
+    },
+    "experience_modification": {
+      "factor": 0.94,
+      "effective_date": "2025-05-01"
+    },
+    "individuals_included_excluded": [
+      {
+        "name": "Christina Montoya",
+        "title": "Chief Executive Officer",
+        "date_of_birth": "1985-02-02",
+        "ownership_pct": 100,
+        "include_exclude": "Included"
+      },
+      {
+        "name": "Jonathan White",
+        "title": "General Manager",
+        "date_of_birth": "1973-01-13",
+        "ownership_pct": 0,
+        "include_exclude": "Included"
+      }
+    ],
+    "prior_carrier_information": [
+      {
+        "year": "2024-2025",
+        "carrier": "Travelers Companies",
+        "policy_number": "WC-4098-9883",
+        "premium": 294138.32,
+        "mod_factor": 0.95
+      },
+      {
+        "year": "2023-2024",
+        "carrier": "Markel Corporation",
+        "policy_number": "78C0040622",
+        "premium": 260670.74,
+        "mod_factor": 0.78
+      },
+      {
+        "year": "2022-2023",
+        "carrier": "Zurich Insurance Group",
+        "policy_number": "0000004808",
+        "premium": 260301.86,
+        "mod_factor": 0.7
+      }
+    ],
+    "contact_name": "Christina Montoya",
+    "contact_title": "Chief Executive Officer",
+    "application_date": "2026-03-14",
+    "applicant_signature": "Christina Montoya",
+    "applicant_signature_date": "2026-03-14",
+    "producer_signature": "Marcus Jennings",
+    "producer_signature_date": "2026-03-14"
+  },
+  "remarks": null
+}

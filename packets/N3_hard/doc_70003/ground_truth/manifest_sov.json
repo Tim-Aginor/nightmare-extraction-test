@@ -1,0 +1,206 @@
+{
+  "patterns_applied": [
+    {
+      "id": "p08_terminology",
+      "name": "Terminology Inconsistency",
+      "phase": "data_layer",
+      "description": "Different field labels per coverage section (e.g., Reserve vs Outstanding)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p13_special_chars",
+      "name": "Special Characters",
+      "phase": "data_layer",
+      "description": "Injected Unicode special chars in 4 claim descriptions",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p15_currency_formats",
+      "name": "Currency Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different currency formats per section ($1,234 vs 1234.56 vs em-dash for zero)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p17_date_formats",
+      "name": "Date Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different date formats per section (MM/DD/YYYY vs YYYY-MM-DD vs Mon DD, YYYY)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p25_truncation",
+      "name": "Truncated Fields",
+      "phase": "data_layer",
+      "description": "Truncated 5 description fields with ellipsis",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p01_borderless",
+      "name": "Borderless Table",
+      "phase": "content_gen",
+      "description": "Removed all table gridlines, whitespace-only alignment",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p02_merged_headers",
+      "name": "Merged Headers",
+      "phase": "content_gen",
+      "description": "3-row merged header with SPAN commands for column groups",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "header_style": "merged_3row"
+      }
+    },
+    {
+      "id": "p04_subtotals",
+      "name": "Subtotal Rows",
+      "phase": "content_gen",
+      "description": "Location-grouped claims with interspersed subtotal rows",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p07_multiline_wrap",
+      "name": "Multi-Line Wrap",
+      "phase": "content_gen",
+      "description": "Long narrative descriptions wrapping 3-5 lines without row separators",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p21_variable_widths",
+      "name": "Variable Column Widths",
+      "phase": "content_gen",
+      "description": "Header row column widths shifted 2-5pt from data row widths",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p24_shading",
+      "name": "Alternating Shading",
+      "phase": "content_gen",
+      "description": "Alternating row background colors for readability",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p61_floating_headers",
+      "name": "Floating Headers",
+      "phase": "content_gen",
+      "description": "Metadata block above table pushes column headers to row 8-15",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p62_interrupted_tables",
+      "name": "Interrupted Tables",
+      "phase": "content_gen",
+      "description": "Table interrupted by disclaimer block(s), repeat_headers=True",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "interruption_type": "disclaimer",
+        "repeat_headers": true
+      }
+    },
+    {
+      "id": "p63_ambiguous_headers",
+      "name": "Ambiguous Headers",
+      "phase": "content_gen",
+      "description": "Multi-line stacked header text with varying depth per column",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p09_watermark",
+      "name": "Watermark Overlay",
+      "phase": "overlay",
+      "description": "Diagonal semi-transparent 'DRAFT' watermark across all pages",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p14_embedded_images",
+      "name": "Embedded Images",
+      "phase": "overlay",
+      "description": "Status icons (check/x/warning) replace text status in GL table cells",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p16_invisible_text",
+      "name": "Invisible OCR Text",
+      "phase": "overlay",
+      "description": "Render mode 3 (invisible) text at slightly offset positions",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p35_untagged_hf",
+      "name": "Untagged Headers/Footers",
+      "phase": "overlay",
+      "description": "Header/footer text drawn directly on canvas without structure tags",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p22_fragmented_borders",
+      "name": "Fragmented Borders",
+      "phase": "structural",
+      "description": "Table grid as many small overlapping line segments (Word export simulation)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p26_bezier_borders",
+      "name": "Bezier Borders",
+      "phase": "structural",
+      "description": "Table grid using cubic Bezier curves with collinear control points",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p37_clipping",
+      "name": "Clipping Paths",
+      "phase": "structural",
+      "description": "Text extends beyond clipping rectangle \u2014 full text extractable but partially visible",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p28_broken_cmap",
+      "name": "Broken CMap",
+      "phase": "post_process",
+      "description": "Fully scrambled ToUnicode CMap on Courier fonts",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p42_font_corrupt",
+      "name": "Font Subset Corruption",
+      "phase": "post_process",
+      "description": "CMap missing mappings for digits 0, 5, 7",
+      "pages_affected": [
+        1
+      ],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p34_scan_noise",
+      "name": "Scan Noise",
+      "phase": "scan_effects",
+      "description": "Clean scan with light noise and blur (1 pages)",
+      "pages_affected": [
+        1
+      ],
+      "ground_truth_delta": {}
+    }
+  ],
+  "total_patterns": 24
+}

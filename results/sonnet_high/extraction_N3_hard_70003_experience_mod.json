@@ -1,0 +1,69 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Analyst ID: RA-2930",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Restaurant \u2014 NOC (Class Code 9082)",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Experience Modification Factor of 0.94 applied. Total payroll $16,260,471. Total expected losses $239,205. Risk ID: 201435-1808. Rating Plan: Large Risk. Interstate Rating: No. Class Code 9082 (Restaurant NOC) payroll $3,678,800 at exp loss rate 1.5500 yielding expected losses $57,021 with D-Ratio 0.280."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final Experience Modification Factor of 0.94 is below 1.0, indicating better-than-average loss experience relative to peers",
+      "Actual Excess Losses (Ae) are $0, meaning no large individual claims",
+      "Computed modification factor results in a premium credit for the insured"
+    ],
+    "concerns": [
+      "8 claims reported in policy year 2021-2022",
+      "Total incurred losses of $56,343 in the experience period",
+      "Actual Primary Losses (Ap) of $92,945 exceed the single visible policy year's incurred losses, suggesting additional years with loss activity"
+    ],
+    "loss_history_summary": "Policy year 2021-2022: 8 claims, total paid $56,343, total incurred $56,343, primary losses $56,343, excess losses $0. Overall experience period actual primary losses (Ap) = $92,945; actual excess losses (Ae) = $0; expected losses (E) = $361,806."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Texas Department of Insurance Experience Rating Worksheet for Hill Country Hospitality Partners, LLC. Carrier: Hallmark Insurance Group. Policy period 05/01/2025 to 05/01/2026. Final Experience Modification Factor: 0.94, effective 05/01/2025. Approved 03/15/2026 by Analyst RA-2930.",
+    "operations_description": "Insured operates in the restaurant industry (Class Code 9082, Restaurant NOC) in the state of Texas. Total payroll across all classifications: $16,260,471.",
+    "safety_programs": null,
+    "claims_narrative": "Experience period includes policy year 2021-2022 with 8 claims, total paid and incurred of $56,343, all classified as primary losses with $0 excess losses. Rating formula: Mod = (Ap + W x Ae + (1 - W) x Ee + B) / (E + B). Inputs: Ap = $92,945; Ae = $0; Ee = $422,385; B = $29,114; W = 0.419; E = $361,806. Numerator = $367,465; Denominator = $390,920; Computed Mod = 0.9400."
+  }
+}

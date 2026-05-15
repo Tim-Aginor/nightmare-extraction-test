@@ -1,0 +1,69 @@
+{
+  "cancellation_date": "2026-05-27",
+  "cancellation_reason": "Non-Renewal",
+  "checkboxes": [
+    {
+      "field": "Policy Type - CGL",
+      "value": "Yes"
+    },
+    {
+      "field": "Policy Type - Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Policy Type - WC",
+      "value": "Yes"
+    },
+    {
+      "field": "Policy Type - Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Policy Type - Umbrella",
+      "value": "No"
+    },
+    {
+      "field": "Reason - Insured's Request",
+      "value": "No"
+    },
+    {
+      "field": "Reason - Non-Payment of Premium",
+      "value": "No"
+    },
+    {
+      "field": "Reason - Underwriting",
+      "value": "No"
+    },
+    {
+      "field": "Reason - Non-Renewal",
+      "value": "Yes"
+    },
+    {
+      "field": "Reason - Other",
+      "value": "No"
+    }
+  ],
+  "document_date": "2026-05-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 35",
+    "form_title": "CANCELLATION REQUEST / POLICY RELEASE"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "insured_address": "800 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "WC-KCB-2025-6560",
+    "producer_code": "AG-7721034",
+    "producer_name": "Steel City Insurance Group"
+  },
+  "producer_fax": "(412) 580-2110",
+  "producer_license_number": null,
+  "producer_phone": "(412) 555-0287",
+  "remarks": null
+}

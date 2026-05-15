@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Package of prior insurance coverages",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "2024 policy numbers: 0000004484, 7GL0009677, CA002528-001, CP00001358; Claims: 13; Cancellation: No"
+    },
+    {
+      "coverage_type": "Package of prior insurance coverages",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Berkshire Hathaway Guard",
+      "expiring_premium": 1476849.96,
+      "notes": "2023 policy numbers: 7WC0009156, GL00007868, 7CA0002407, CP-4153-9932; Claims: 10; Cancellation: No"
+    },
+    {
+      "coverage_type": "Package of prior insurance coverages",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 1369245.71,
+      "notes": "2022 policy numbers: WC00004453, GL00005151, 7CA0007230, CP-2415-5091; Claims: 4; Cancellation: Yes"
+    },
+    {
+      "coverage_type": "Package of prior insurance coverages",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1487006.51,
+      "notes": "2021 policy numbers: WC-0005600, GL002774-001, CA008547-001, CP00004044; Claims: 15; Cancellation: No"
+    },
+    {
+      "coverage_type": "Package of prior insurance coverages",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 1581292.51,
+      "notes": "2020 policy numbers: WC002734-001, GL-0002491, 7CA0001189, CP006087-001; Claims: 6; Cancellation: No"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellation in 2020, 2021, 2023, and 2024"
+    ],
+    "concerns": [
+      "Cancellation indicated in 2022",
+      "Claims history ranges from 4 to 15 claims annually",
+      "Loss ratio data not provided"
+    ],
+    "loss_history_summary": "Prior insurance history shows claims counts of 6 in 2020, 15 in 2021, 4 in 2022, 10 in 2023, and 13 in 2024. Cancellation was marked Yes in 2022 and No in the other listed years. Loss ratio fields were blank."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Prior insurance history for 2020-2024 lists carriers, policy numbers, premiums, claims counts, and cancellation status. Carriers include CNA Financial, Nationwide Insurance, Zurich Insurance Group, and Berkshire Hathaway Guard. Premiums ranged from 1369245.71 to 1634721.63.",
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Claims counts by year were 6 (2020), 15 (2021), 4 (2022), 10 (2023), and 13 (2024). Loss ratio was not provided for any year. Cancellation was indicated only for 2022."
+  }
+}

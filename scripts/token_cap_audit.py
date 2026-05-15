@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """Per-doc token usage histogram, binned by output-cap headroom.
 
-All API providers now run at max_tokens = 32000 (single-cap regime).
-Gemini runs without an explicit cap. This script sanity-checks that no
-doc approached the 32k cap on any model; if one does, the analysis
-should flag possible truncation.
+Caps (post 2026-05-11 equalization): all three providers run at
+max_output = 32000 in default mode, 128000 in reasoning mode. This
+script sanity-checks that no doc approached the cap on any model; if
+one does, the analysis should flag possible truncation. Pre-fix the
+caps were asymmetric (OpenAI 64K / Anthropic 128K / Gemini uncapped
+on reasoning calls) — see run_extraction.py history.
 
 NOTE on `n_docs`: this field reports the count of docs with parseable
 "OK" lines in the corresponding log file, not the total docs scored.
@@ -31,7 +33,6 @@ OUT = REPO / "results" / "analysis" / "token_cap_audit.json"
 
 # Map log file → published model name
 LOG_TO_MODEL = {
-    "logs_gpt55.txt": "gpt55",
     "logs_gpt54.txt": "gpt54",
     "logs_opus47_api.txt": "opus47",
     "logs_sonnet_api.txt": "sonnet",
@@ -40,7 +41,6 @@ LOG_TO_MODEL = {
 
 # Configured output caps - all API providers at 32000, Gemini unset.
 OUTPUT_CAPS = {
-    "gpt55":      32000,
     "gpt54":      32000,
     "opus47":     32000,
     "sonnet":     32000,
@@ -131,7 +131,7 @@ def main():
     print("=" * 78)
     print(f"{'model':<14} {'cap':>8} {'p50':>7} {'p90':>7} {'p95':>7} {'max':>7} "
           f"{'>=75%':>7} {'>=90%':>7} {'cost$':>9}")
-    for m in ("gpt55", "gpt54", "opus47", "sonnet", "gemini_pro"):
+    for m in ("gpt54", "opus47", "sonnet", "gemini_pro"):
         r = out["per_model"].get(m)
         if not r:
             continue

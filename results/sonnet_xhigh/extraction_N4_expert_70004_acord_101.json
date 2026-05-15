@@ -1,0 +1,114 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2014/01",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "AC-007832",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-RCB-2025-5581",
+    "effective_date": "2025-08-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania."
+  },
+  "coverages_requested": [],
+  "checkboxes": {},
+  "additional_fields": {
+    "carrier_naic_code": "28339",
+    "attached_to_form_number": "ACORD 130",
+    "attached_to_form_title": "Workers Compensation Application",
+    "endorsement_schedule": [
+      {
+        "number": 1,
+        "endorsement_code": "CG 24 26 04 13",
+        "description": "Amendment of Aggregate Limits of Insurance - Per Project"
+      },
+      {
+        "number": 2,
+        "endorsement_code": "IL 00 21 09 08",
+        "description": "Nuclear Energy Liability Exclusion Endorsement"
+      },
+      {
+        "number": 3,
+        "endorsement_code": "CG 25 03 05 09",
+        "description": "Designated Construction Project(s) General Aggregate Limit"
+      },
+      {
+        "number": 4,
+        "endorsement_code": "WC 00 01 00",
+        "description": "Workers Compensation and Employers Liability Insurance Policy"
+      },
+      {
+        "number": 5,
+        "endorsement_code": "CG 24 04 05 09",
+        "description": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+      },
+      {
+        "number": 6,
+        "endorsement_code": "WC 00 03 01A",
+        "description": "Alternate Employer Endorsement"
+      }
+    ],
+    "additional_insured": {
+      "entity_name": "Woodbridge Realty Management Inc.",
+      "basis": "As required by written contract",
+      "coverage_primary": true,
+      "coverage_non_contributory": true
+    },
+    "special_conditions": "Primary and Non-Contributory wording applies per policy endorsement.",
+    "locations": [
+      {
+        "location_id": "LOC-001",
+        "description": "Corporate Headquarters",
+        "address": "300 Liberty Avenue, Suite 1200",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15222",
+        "occupancy": "Office"
+      },
+      {
+        "location_id": "LOC-002",
+        "description": "Main Equipment Yard & Warehouse",
+        "address": "4500 Butler Street",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15201",
+        "occupancy": "Warehouse"
+      },
+      {
+        "location_id": "LOC-003",
+        "description": "Fabrication Shop",
+        "address": "4520 Butler Street",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15201",
+        "occupancy": "Manufacturing"
+      },
+      {
+        "location_id": "LOC-004",
+        "description": "South Hills Branch Office",
+        "address": "3000 Village Run Road",
+        "city": "Wexford",
+        "state": "PA",
+        "zip": "15090",
+        "occupancy": "Office"
+      }
+    ],
+    "subcontractor_requirements": "Evidence of Workers' Compensation coverage is required from all subcontractors prior to commencing work on the project."
+  },
+  "remarks": "ENDORSEMENT SCHEDULE: (1) CG 24 26 04 13 \u2014 Amendment of Aggregate Limits of Insurance - Per Project; (2) IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion Endorsement; (3) CG 25 03 05 09 \u2014 Designated Construction Project(s) General Aggregate Limit; (4) WC 00 01 00 \u2014 Workers Compensation and Employers Liability Insurance Policy; (5) CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us; (6) WC 00 03 01A \u2014 Alternate Employer Endorsement. ADDITIONAL INSURED: Additional Insured status is extended to Woodbridge Realty Management Inc. as required by written contract. Coverage is primary and non-contributory. SPECIAL CONDITIONS: Primary and Non-Contributory wording applies per policy endorsement. LOCATION DESCRIPTIONS: LOC-001: Corporate Headquarters \u2014 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222 (Occupancy: Office); LOC-002: Main Equipment Yard & Warehouse \u2014 4500 Butler Street, Pittsburgh, PA 15201 (Occupancy: Warehouse); LOC-003: Fabrication Shop \u2014 4520 Butler Street, Pittsburgh, PA 15201 (Occupancy: Manufacturing); LOC-004: South Hills Branch Office \u2014 3000 Village Run Road, Wexford, PA 15090 (Occupancy: Office). SUBCONTRACTOR REQUIREMENTS: Evidence of Workers' Compensation coverage is required from all subcontractors prior to commencing work on the project. NATURE OF OPERATIONS: General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Entity type: Corporation."
+}

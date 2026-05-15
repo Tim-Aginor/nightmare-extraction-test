@@ -1,0 +1,118 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": null,
+    "prepared_by": "Maine Employers Mutual",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Building",
+      "current_limit": 146260000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Part of Commercial Property coverage (Form CP 00 10 10 12)"
+    },
+    {
+      "coverage_type": "Contents (Business Personal Property)",
+      "current_limit": 42495000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 62590000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Business Income And Extra Expense Coverage Form CP 15 08 (10 12)"
+    },
+    {
+      "coverage_type": "Ordinance Or Law Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 (10 12) - Coverage A for loss to undamaged portion of building"
+    },
+    {
+      "coverage_type": "Utility Services - Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12) - water, communication, and power supply services"
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 (07 88) - suspends Coinsurance Additional Condition"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12) - covers mechanical, electrical, or pressure equipment"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Agreed Value endorsement in place suspending coinsurance requirement",
+      "Equipment Breakdown Coverage included",
+      "Ordinance or Law Coverage included",
+      "Business Income and Extra Expense coverage in place"
+    ],
+    "concerns": [
+      "Coinsurance requirement of 80%",
+      "Deductible of $75,000 per occurrence",
+      "Vacancy condition - coverage reduced if building vacant more than 60 consecutive days"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Commercial Property policy for Buckeye Industrial Properties, LLC covering industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio. Total premium $424,883.27. Building limit $146,260,000; Contents $42,495,000; Business Income $62,590,000; 80% coinsurance; $75,000 deductible.",
+    "operations_description": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio (SIC Code 6512).",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

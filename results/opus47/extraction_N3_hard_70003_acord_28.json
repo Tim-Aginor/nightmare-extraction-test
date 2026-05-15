@@ -1,0 +1,207 @@
+{
+  "form_info": {
+    "form_number": "ACORD 28",
+    "form_edition": "2016/03",
+    "form_title": "Evidence of Commercial Property Insurance"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-HCHP-2025-3352",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Hospitality (Hotels, Restaurants, Office)"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Property - Special Form",
+      "limit": 168230000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building",
+      "limit": 101570000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents/Business Personal Property",
+      "limit": 26150000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 40510000,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "cause_of_loss_special": "checked",
+    "all_locations_sprinklered": "Yes"
+  },
+  "additional_fields": {
+    "producer_contact": "Marcos Jennings",
+    "producer_address": "100 Congress Avenue, Suite 1500, Austin, TX 78701",
+    "producer_phone": "(512) 555-0634",
+    "producer_fax": "(512) 695-7763",
+    "producer_email": "mjennings@capitolia.com",
+    "naic_code": "28339",
+    "loan_number": "LN-201435",
+    "coinsurance": "90%",
+    "deductible": 25000,
+    "locations": [
+      {
+        "loc_number": "LOC-001",
+        "address": "604 Brazos Street, Austin, TX 78701",
+        "building_value": 28500000,
+        "contents_value": 7125000,
+        "business_income": 10687500,
+        "total_insured_value": 46312500,
+        "construction": "Fire Resistive",
+        "occupancy": "Hotel",
+        "year_built": 2010,
+        "stories": 8,
+        "sq_ft": 95000,
+        "protection_class": 2,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-002",
+        "address": "112 College Street, San Antonio, TX 78205",
+        "building_value": 39500000,
+        "contents_value": 9645000,
+        "business_income": 14910000,
+        "total_insured_value": 64610000,
+        "construction": "Fire Resistive",
+        "occupancy": "Hotel",
+        "year_built": 2006,
+        "stories": 12,
+        "sq_ft": 142000,
+        "protection_class": 2,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-003",
+        "address": "245 East Main Street, Fredericksburg, TX 78624",
+        "building_value": 10500000,
+        "contents_value": 2640000,
+        "business_income": 3960000,
+        "total_insured_value": 17140000,
+        "construction": "Masonry Non-Combustible",
+        "occupancy": "Hotel",
+        "year_built": 1998,
+        "stories": 3,
+        "sq_ft": 48000,
+        "protection_class": 3,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-004",
+        "address": "1220 South Congress Avenue, Austin, TX 78704",
+        "building_value": 15500000,
+        "contents_value": 3875000,
+        "business_income": 5812500,
+        "total_insured_value": 25187500,
+        "construction": "Masonry Non-Combustible",
+        "occupancy": "Hotel",
+        "year_built": 2015,
+        "stories": 4,
+        "sq_ft": 62000,
+        "protection_class": 2,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-005",
+        "address": "606 Brazos Street, Austin, TX 78701",
+        "building_value": 2550000,
+        "contents_value": 850000,
+        "business_income": 1700000,
+        "total_insured_value": 5100000,
+        "construction": "Fire Resistive",
+        "occupancy": "Restaurant",
+        "year_built": 2010,
+        "stories": 1,
+        "sq_ft": 8500,
+        "protection_class": 2,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-006",
+        "address": "6550 Comanche Trail, Austin, TX 78732",
+        "building_value": 3000000,
+        "contents_value": 900000,
+        "business_income": 1800000,
+        "total_insured_value": 5700000,
+        "construction": "Non-Combustible",
+        "occupancy": "Restaurant",
+        "year_built": 2012,
+        "stories": 2,
+        "sq_ft": 12000,
+        "protection_class": 5,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-007",
+        "address": "905 Pearl Parkway, San Antonio, TX 78215",
+        "building_value": 1700000,
+        "contents_value": 510000,
+        "business_income": 1020000,
+        "total_insured_value": 3230000,
+        "construction": "Jointed Masonry",
+        "occupancy": "Restaurant",
+        "year_built": 2014,
+        "stories": 1,
+        "sq_ft": 6800,
+        "protection_class": 4,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-008",
+        "address": "401 Congress Avenue, Suite 2800, Austin, TX 78701",
+        "building_value": null,
+        "contents_value": 310000,
+        "business_income": 620000,
+        "total_insured_value": 930000,
+        "construction": "Fire Resistive",
+        "occupancy": "Office",
+        "year_built": 2008,
+        "stories": 1,
+        "sq_ft": 6200,
+        "protection_class": 5,
+        "sprinklered": "Yes"
+      }
+    ],
+    "mortgagee": {
+      "name": "Comerica Bank",
+      "rank": "First Mortgagee",
+      "address": "2030 Pine Street",
+      "city_state_zip": "Austin, TX 75669"
+    },
+    "loss_payee": {
+      "name": "TIAA Commercial Finance, Inc.",
+      "clause": "Loss Payable Clause",
+      "address": "1379 Oak Avenue",
+      "city_state_zip": "Anaheim, CA 92801"
+    },
+    "cancellation_notice_days": 30,
+    "authorized_representative": "Christina Montoya",
+    "signature_date": "2026-03-16"
+  },
+  "remarks": "This evidence of property insurance is issued as a matter of information only and confers no rights upon the additional interest named above. This evidence does not amend, extend, or alter the coverage afforded by the policy referenced herein."
+}

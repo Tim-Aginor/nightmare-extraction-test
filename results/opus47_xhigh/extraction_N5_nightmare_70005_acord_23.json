@@ -1,0 +1,383 @@
+{
+  "form_info": {
+    "form_number": "ACORD 23",
+    "form_edition": "2016/03",
+    "form_title": "Certificate of Automobile Insurance"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Company Insurance Company",
+    "policy_number": "CAGLF5202594822",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Automobile Liability - Combined Single Limit (Ea accident)",
+      "limit": 5000000,
+      "deductible": 5000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "any_auto": "checked",
+    "owned_autos_only": "unchecked",
+    "hired_autos_only": "unchecked"
+  },
+  "additional_fields": {
+    "certificate_number": "CERT-00070005-4818",
+    "certificate_date": "2026-03-16",
+    "insurer_letter": "A",
+    "insurers": {
+      "A": {
+        "name": "Standard Company Insurance Company",
+        "naic": "21008"
+      },
+      "B": {
+        "name": "Standard Company Indemnity Company",
+        "naic": "21093"
+      },
+      "C": {
+        "name": "Standard Company Casualty Company",
+        "naic": "21088"
+      },
+      "D": {
+        "name": "Standard Company Assurance Company",
+        "naic": "21206"
+      },
+      "E": {
+        "name": "Standard Company Surety Company",
+        "naic": "21152"
+      }
+    },
+    "producer_contact": "David Reinhardt",
+    "producer_address": "41 South High Street, Suite 2800, Columbus, OH 43215",
+    "producer_phone": "(614) 555-0493",
+    "producer_fax": "(614) 267-6839",
+    "producer_email": "dreinhardt@tisgroup.com",
+    "certificate_holder": {
+      "name": "Quantum Realty Management Inc.",
+      "address": "5158 Summit Avenue",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72201"
+    },
+    "signature_date": "2025-06-18",
+    "authorized_representative": "M. Johnson",
+    "handwritten_notation": "Need docs",
+    "vehicle_schedule": [
+      {
+        "veh_num": 1,
+        "year": 2024,
+        "make": "Freightliner",
+        "model": "Cascadia",
+        "vin": "1FVS4N1K5RGPW7JTN",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 2,
+        "year": 2023,
+        "make": "Freightliner",
+        "model": "Cascadia",
+        "vin": "1FUDVZ930PCMMA0LV",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 3,
+        "year": 2023,
+        "make": "Kenworth",
+        "model": "T680",
+        "vin": "1XKKNUPR9PHM5J2NN",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 4,
+        "year": 2024,
+        "make": "Kenworth",
+        "model": "T680",
+        "vin": "1XKLCRA94RTU0BN7F",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 5,
+        "year": 2022,
+        "make": "Peterbilt",
+        "model": "579",
+        "vin": "1XPXFMKWXNR7W8BZY",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 6,
+        "year": 2023,
+        "make": "Peterbilt",
+        "model": "579",
+        "vin": "2XPXJNHR6PMN6H7Z3",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 7,
+        "year": 2021,
+        "make": "Freightliner",
+        "model": "Cascadia",
+        "vin": "1FU8XED43M71YRRZ8",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 8,
+        "year": 2024,
+        "make": "Volvo",
+        "model": "VNL 860",
+        "vin": "YV14NFBP1RFV2PRL7",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 9,
+        "year": 2022,
+        "make": "International",
+        "model": "LT",
+        "vin": "1HTJ10Z70NH04FY6B",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 10,
+        "year": 2023,
+        "make": "Mack",
+        "model": "Anthem",
+        "vin": "1M18LK171P28ZTML9",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 11,
+        "year": 2024,
+        "make": "Freightliner",
+        "model": "Cascadia Day Cab",
+        "vin": "1FVCH64J9RS5SHCCW",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 12,
+        "year": 2023,
+        "make": "Kenworth",
+        "model": "T680 Day Cab",
+        "vin": "5PKYH81C6P2YNTG27",
+        "body_type": "Tractor"
+      },
+      {
+        "veh_num": 13,
+        "year": 2024,
+        "make": "Freightliner",
+        "model": "M2 112",
+        "vin": "1FU5771Z8R3BP3ZM3",
+        "body_type": "Box Truck"
+      },
+      {
+        "veh_num": 14,
+        "year": 2023,
+        "make": "International",
+        "model": "MV607",
+        "vin": "1HTD435M5PS62B8VF",
+        "body_type": "Box Truck"
+      },
+      {
+        "veh_num": 15,
+        "year": 2022,
+        "make": "Hino",
+        "model": "338",
+        "vin": "5PVG93Y9XN5L1Y95M",
+        "body_type": "Box Truck"
+      },
+      {
+        "veh_num": 16,
+        "year": 2024,
+        "make": "Isuzu",
+        "model": "NPR-HD",
+        "vin": "4NBKYAJY1RLNPG26P",
+        "body_type": "Box Truck"
+      },
+      {
+        "veh_num": 17,
+        "year": 2023,
+        "make": "Ford",
+        "model": "E-450",
+        "vin": "3FAZY0ED7PM8HJH3G",
+        "body_type": "Box Truck"
+      },
+      {
+        "veh_num": 18,
+        "year": 2024,
+        "make": "Ford",
+        "model": "Transit 350",
+        "vin": "1FT04DPR6RVZ8E451",
+        "body_type": "Cargo Van"
+      },
+      {
+        "veh_num": 19,
+        "year": 2023,
+        "make": "Ram",
+        "model": "ProMaster 2500",
+        "vin": "3C6DNS3F5PCAY3LC4",
+        "body_type": "Cargo Van"
+      },
+      {
+        "veh_num": 20,
+        "year": 2024,
+        "make": "Ford",
+        "model": "F-250",
+        "vin": "1FTBCYYV8R979632U",
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 21,
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Silverado 2500",
+        "vin": "1GCPHDGJ7PHR5WPT2",
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 22,
+        "year": 2024,
+        "make": "Ford",
+        "model": "F-150",
+        "vin": "1FTFACP48RFVK2FEP",
+        "body_type": "Pickup"
+      },
+      {
+        "veh_num": 23,
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Camry",
+        "vin": "1T00LE410PHTC7EFT",
+        "body_type": "Sedan"
+      },
+      {
+        "veh_num": 24,
+        "year": 2024,
+        "make": "Chevrolet",
+        "model": "Suburban",
+        "vin": "1GN11NDT8RJXMNFA4",
+        "body_type": "SUV"
+      },
+      {
+        "veh_num": 25,
+        "year": 2024,
+        "make": "Great Dane",
+        "model": "Champion SE",
+        "vin": "5DYP2E5G2RANB2ZZ6",
+        "body_type": "Trailer"
+      },
+      {
+        "veh_num": 26,
+        "year": 2023,
+        "make": "Great Dane",
+        "model": "Champion SE",
+        "vin": "5DYYY2544PXS2G25U",
+        "body_type": "Trailer"
+      },
+      {
+        "veh_num": 27,
+        "year": null,
+        "make": "Wabash",
+        "model": "DuraPlate HD",
+        "vin": "5VHNP5PN9PPS6TL1T",
+        "body_type": "Trailer"
+      },
+      {
+        "veh_num": 28,
+        "year": null,
+        "make": "Wabash",
+        "model": "DuraPlate HD",
+        "vin": "1JJMRBN8R7R1CR8G",
+        "body_type": "Trailer"
+      },
+      {
+        "veh_num": 29,
+        "year": null,
+        "make": "Utility",
+        "model": "4000D-X Composite",
+        "vin": "5VLVC6ZT1N68DUG0A",
+        "body_type": "Trailer"
+      },
+      {
+        "veh_num": 30,
+        "year": 2023,
+        "make": "Utility",
+        "model": "4000D-X Composite",
+        "vin": "1UYUTDUK3P0WF21XF",
+        "body_type": "Trailer"
+      },
+      {
+        "veh_num": 31,
+        "year": 2015,
+        "make": "Hyundai Translead",
+        "model": "Dry Van",
+        "vin": "3H3LEPH04FD7MWPPL",
+        "body_type": "Trailer"
+      },
+      {
+        "veh_num": 32,
+        "year": 2022,
+        "make": "Hyundai Translead",
+        "model": "Dry Van",
+        "vin": "5TULXRPT3NSTFND18",
+        "body_type": "Flatbed Trailer"
+      },
+      {
+        "veh_num": 33,
+        "year": 2024,
+        "make": "Fontaine",
+        "model": "Revolution 51",
+        "vin": "4LFD18RR7R9R6JSSM",
+        "body_type": "Flatbed Trailer"
+      },
+      {
+        "veh_num": 34,
+        "year": 2023,
+        "make": "Fontaine",
+        "model": "Infinity 48",
+        "vin": "13NCE49D9P7644DAM",
+        "body_type": "Flatbed Trailer"
+      },
+      {
+        "veh_num": 35,
+        "year": 2017,
+        "make": "Fontaine",
+        "model": "Genesis",
+        "vin": "4LF72T447HAVHUPLAR",
+        "body_type": "Reefer Trailer"
+      },
+      {
+        "veh_num": 36,
+        "year": 2024,
+        "make": "Great Dane",
+        "model": "Everest TL",
+        "vin": "1GRKQMHCXR6BY9SJ2",
+        "body_type": "Reefer Trailer"
+      },
+      {
+        "veh_num": 37,
+        "year": 2023,
+        "make": "Utility",
+        "model": "3000R",
+        "vin": "1UYM15RS7PCYWR3X9",
+        "body_type": "Trailer"
+      }
+    ],
+    "certificate_holder_cancellation_clause": "Should any of the above described policies be cancelled before the expiration date thereof, notice will be delivered in accordance with the policy provisions."
+  },
+  "remarks": "Page 2 contains handwritten notation 'Need docs' next to the certificate holder section. Document is signed by M. Johnson dated 6/18/2025. Page 2 image quality is degraded/rotated; some VINs on vehicles 27-37 may require verification."
+}

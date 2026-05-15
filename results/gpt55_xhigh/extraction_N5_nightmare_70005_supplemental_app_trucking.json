@@ -1,0 +1,62 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Trucking/motor carrier hauling general freight, beverages, machinery, and Hazmat Class 2 compressed gases.",
+    "sic_code": null,
+    "years_in_business": 38
+  },
+  "coverages_discussed": [],
+  "document_info": {
+    "date": "2025-06-18",
+    "document_type": "Trucking Supplemental Application",
+    "prepared_by": "M. Johnson",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "See attached loss runs for the most recent five (5) policy years.",
+    "executive_summary": null,
+    "operations_description": "Carrier Information: USDOT Number 6409266; MC/MX Number 583933; Years in Business 38; FEIN 31-6847291; State of Domicile OH; Operating Authority Active. Operating Profile: Total Power Units 12; Total Trailers 13; Operating Radius Over 200 miles; Interstate? No. Cargo Profile: General Freight - Hazmat No; Beverages - Hazmat No; Machinery - Hazmat No; Hazmat Class 2 Compressed Gases - Hazmat Yes, UN Class 2. Driver Profile: Total Drivers 45; CDL Drivers 45; Avg. Years Experience 15.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 45,
+    "radius_of_operation": "Over 200 miles",
+    "vehicle_count": 12
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": "Great Lakes Freight Systems, Incorporated",
+    "state": "OH",
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Operating radius listed as over 200 miles.",
+      "Cargo includes Hazmat Class 2 compressed gases, UN Class 2.",
+      "Handwritten note in the driver profile section says \"Need docs\".",
+      "Loss runs are referenced as attached, but no loss details are shown on this page."
+    ],
+    "loss_history_summary": "Attached loss runs for the most recent five (5) policy years are referenced; no loss details are shown on the application page.",
+    "positives": [
+      "Operating authority listed as Active.",
+      "38 years in business.",
+      "All listed drivers are CDL drivers.",
+      "Average driver experience listed as 15 years."
+    ]
+  }
+}

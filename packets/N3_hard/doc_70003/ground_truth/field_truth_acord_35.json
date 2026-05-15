@@ -1,0 +1,60 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    },
+    "producer_name": {
+      "value": "Capitol Insurance Advisors"
+    },
+    "producer_contact": {
+      "value": "Marcus Jennings"
+    },
+    "producer_phone": {
+      "value": "(512) 555-0634"
+    },
+    "producer_fax": {
+      "value": "(512) 695-7763"
+    },
+    "producer_license_number": {
+      "value": "AG-5508369"
+    },
+    "policy_number": {
+      "value": "WC-HCHP-2025-3350"
+    },
+    "cancellation_date": {
+      "value": "2026-04-04",
+      "rendered_as": "04/04/2026"
+    },
+    "cancellation_reason": {
+      "value": "Insured's Request"
+    }
+  },
+  "doc_type": "acord_35"
+}

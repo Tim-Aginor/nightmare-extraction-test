@@ -1,0 +1,271 @@
+{
+  "applicant_info": {
+    "entity_type": "Limited Partnership",
+    "fein": "75-4829163",
+    "naics_code": "531120",
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": "6512",
+    "years_in_business": 24
+  },
+  "checkboxes": [
+    {
+      "field": "General Liability",
+      "value": "No"
+    },
+    {
+      "field": "Commercial Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Business Auto",
+      "value": "No"
+    },
+    {
+      "field": "Workers' Compensation",
+      "value": "No"
+    },
+    {
+      "field": "Umbrella / Excess",
+      "value": "No"
+    },
+    {
+      "field": "Professional Liability / E&O",
+      "value": "No"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property",
+      "deductible": null,
+      "limit": null,
+      "premium": 414602
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 125",
+    "form_title": "COMMERCIAL INSURANCE APPLICATION"
+  },
+  "header": {
+    "carrier_name": "Apex Managing General Agency",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Texas Commercial Insurance Partners"
+  },
+  "premises": [
+    {
+      "address": "8117 Preston Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Dallas",
+      "construction": "Fire Resistive",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-001",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 285000,
+      "state": "TX",
+      "stories": 18,
+      "tiv": null,
+      "year_built": 2008,
+      "zip": "75225"
+    },
+    {
+      "address": "5050 Westheimer Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Houston",
+      "construction": "Fire Resistive",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-002",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 168000,
+      "state": "TX",
+      "stories": 12,
+      "tiv": null,
+      "year_built": 2001,
+      "zip": "77056"
+    },
+    {
+      "address": "5060 Westheimer Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Houston",
+      "construction": "Fire Resistive",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-003",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 142000,
+      "state": "TX",
+      "stories": 10,
+      "tiv": null,
+      "year_built": 2003,
+      "zip": "77056"
+    },
+    {
+      "address": "7301 Lone Star Drive",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Plano",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-004",
+      "occupancy": "Mercantile",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 95000,
+      "state": "TX",
+      "stories": 2,
+      "tiv": null,
+      "year_built": 2012,
+      "zip": "75024"
+    },
+    {
+      "address": "3200 McKinney Avenue",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Dallas",
+      "construction": "Fire Resistive",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-005",
+      "occupancy": "Mercantile",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 124000,
+      "state": "TX",
+      "stories": 6,
+      "tiv": null,
+      "year_built": 2018,
+      "zip": "75204"
+    },
+    {
+      "address": "1400 Enclave Parkway",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Houston",
+      "construction": "Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-006",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 112000,
+      "state": "TX",
+      "stories": 8,
+      "tiv": null,
+      "year_built": 1995,
+      "zip": "77077"
+    },
+    {
+      "address": "800 8th Avenue",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Fort Worth",
+      "construction": "Fire Resistive",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-007",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 78000,
+      "state": "TX",
+      "stories": 5,
+      "tiv": null,
+      "year_built": 2015,
+      "zip": "76104"
+    },
+    {
+      "address": "1256 Main Street",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Southlake",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC-008",
+      "occupancy": "Mercantile",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 52000,
+      "state": "TX",
+      "stories": 3,
+      "tiv": null,
+      "year_built": 2006,
+      "zip": "76092"
+    }
+  ],
+  "remarks": "Expiring Commercial Property carrier: CNA Financial; expiring policy no.: CP-5690-6189; expiring premium: 414602. Loss history: 2025 Commercial Property - 1 claim, paid 153632, reserved 44151, incurred 197783; 2023 - 1 claim, paid 105450, reserved 0, incurred 105450; 2021 - 1 claim, paid 0, reserved 0, incurred 0; totals - 3 claims, paid 259082, reserved 44151, incurred 303233.",
+  "uw_questions": [
+    {
+      "answer": "No",
+      "question": "Any swimming pools, playgrounds, or athletic facilities?"
+    },
+    {
+      "answer": "No",
+      "question": "Any professional services provided?"
+    },
+    {
+      "answer": "No",
+      "question": "Any work involving asbestos, lead, or mold remediation?"
+    },
+    {
+      "answer": "No",
+      "question": "Any pending litigation or regulatory actions?"
+    },
+    {
+      "answer": "No",
+      "question": "Does applicant lease employees to or from other firms?"
+    },
+    {
+      "answer": "Yes",
+      "question": "Any losses or claims in the past 5 years?"
+    },
+    {
+      "answer": "No",
+      "question": "Does applicant own or operate any aircraft or watercraft?"
+    },
+    {
+      "answer": "No",
+      "question": "Any foreign operations or exposures?"
+    },
+    {
+      "answer": "No",
+      "question": "Are metal fabrication or welding operations performed on premises?"
+    },
+    {
+      "answer": "No",
+      "question": "Does the applicant operate as a franchisor or sell franchise rights to franchisees?"
+    },
+    {
+      "answer": "No",
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?"
+    }
+  ]
+}

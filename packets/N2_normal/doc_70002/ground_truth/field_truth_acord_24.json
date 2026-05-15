@@ -1,0 +1,252 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-16",
+      "rendered_as": "03/16/2026"
+    },
+    "producer_name": {
+      "value": "Midwest Property & Casualty Group"
+    },
+    "producer_contact": {
+      "value": "Karen Weissman"
+    },
+    "producer_phone": {
+      "value": "(614) 555-0742"
+    },
+    "producer_fax": {
+      "value": "(614) 837-8018"
+    },
+    "producer_email": {
+      "value": "kweissman@mwpcg.com"
+    },
+    "producer_address": {
+      "value": "175 South Third Street, Suite 1400"
+    },
+    "producer_license_number": {
+      "value": "AG-6645310"
+    },
+    "policy_number_property": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "policy_form_type": {
+      "value": "special"
+    },
+    "property_deductible": {
+      "value": 75000,
+      "rendered_as": "$75,000.00"
+    },
+    "property_limit_building": {
+      "value": 146260000,
+      "rendered_as": "$146,260,000.00"
+    },
+    "property_limit_contents": {
+      "value": 42495000,
+      "rendered_as": "$42,495,000.00"
+    },
+    "property_limit_business_income": {
+      "value": 62590000,
+      "rendered_as": "$62,590,000.00"
+    },
+    "location_count": {
+      "value": 9
+    }
+  },
+  "doc_type": "acord_24",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 425000,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 34000000,
+      "contents_value": 8500000,
+      "bi_value": 12750000,
+      "tiv": 55250000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2016,
+      "stories": 1,
+      "square_feet": 380000,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 30400000,
+      "contents_value": 7600000,
+      "bi_value": 11400000,
+      "tiv": 49400000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip_code": "44144",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 295000,
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 20650000,
+      "contents_value": 5900000,
+      "bi_value": 8850000,
+      "tiv": 35400000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip_code": "45404",
+      "construction": "Joisted Masonry",
+      "occupancy": "Manufacturing",
+      "year_built": 1992,
+      "stories": 1,
+      "square_feet": 185000,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 11100000,
+      "contents_value": 5550000,
+      "bi_value": 6660000,
+      "tiv": 23310000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip_code": "45241",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2019,
+      "stories": 1,
+      "square_feet": 220000,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 19800000,
+      "contents_value": 4400000,
+      "bi_value": 7920000,
+      "tiv": 32120000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2004,
+      "stories": 1,
+      "square_feet": 165000,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 11550000,
+      "contents_value": 3300000,
+      "bi_value": 4950000,
+      "tiv": 19800000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Manufacturing",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 142000,
+      "protection_class": 3,
+      "sprinklered": false,
+      "building_value": 8520000,
+      "contents_value": 4260000,
+      "bi_value": 4260000,
+      "tiv": 17040000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "zip_code": "44685",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2011,
+      "stories": 1,
+      "square_feet": 128000,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 10240000,
+      "contents_value": 2560000,
+      "bi_value": 5120000,
+      "tiv": 17920000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2006,
+      "stories": 1,
+      "square_feet": 8500,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 425000,
+      "bi_value": 680000,
+      "tiv": 1105000
+    }
+  ],
+  "insurer_panel": [
+    {
+      "letter": "A",
+      "name": "Maine Employers Mutual Insurance Company",
+      "naic": "49182"
+    }
+  ]
+}

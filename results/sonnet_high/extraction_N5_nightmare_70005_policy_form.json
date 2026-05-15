@@ -1,0 +1,112 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-06-18",
+    "prepared_by": "M. Johnson",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Building",
+      "current_limit": 54110000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Commercial Property Coverage Form CP 00 10 10 12; $50,000 deductible applies; 80% coinsurance"
+    },
+    {
+      "coverage_type": "Contents",
+      "current_limit": 30320000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Commercial Property Coverage Form CP 00 10 10 12; $50,000 deductible applies; 80% coinsurance"
+    },
+    {
+      "coverage_type": "Business Income and Extra Expense",
+      "current_limit": 57954000,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 15 08 (10 12); effective 03/15/2026; covers actual loss of Business Income during period of restoration including net income and continuing normal operating expenses"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12); effective 03/15/2026; covers direct physical loss or damage to Covered Property caused by Equipment Breakdown accident to mechanical, electrical, or pressure equipment"
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 (07 88); effective 03/15/2026; Coinsurance Additional Condition suspended for property specified in Schedule during Declarations period; property value agreed to be not less than amount shown in Schedule"
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12); effective 03/15/2026; covers direct physical loss or damage to Covered Property caused by interruption of water supply, communication supply, and power supply services; handwritten annotation 'Need docs' present on endorsement page"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Agreed Value endorsement suspends coinsurance condition, reducing underinsurance exposure",
+      "Equipment Breakdown Coverage endorsement included for mechanical, electrical, and pressure equipment",
+      "Utility Services Direct Damage endorsement broadens coverage for utility interruption",
+      "Business Income and Extra Expense coverage in place with high limit of $57,954,000",
+      "Coverage Extensions applicable as Coinsurance is 80% or more, including Newly Acquired/Constructed Property, Non-Owned Detached Trailers, and Property Off-Premises"
+    ],
+    "concerns": [
+      "Handwritten annotation 'Need docs' on Utility Services \u2014 Direct Damage endorsement page indicating pending documentation",
+      "Large per-occurrence deductible of $50,000",
+      "Specific endorsement schedules reference effective date of 03/15/2026 \u2014 mid-policy additions warrant review",
+      "Business operations span Midwest and Mid-Atlantic corridors but only one mailing address documented"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 84430000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": "2026-06-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. SIC Code: 4215. Named Insured: Great Lakes Freight Systems, Inc., 1200 Nationwide Boulevard, Columbus, OH 43215.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

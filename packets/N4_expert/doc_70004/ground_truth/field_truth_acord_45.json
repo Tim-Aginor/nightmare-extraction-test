@@ -1,0 +1,82 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_number_property": {
+      "value": "CP-KCB-2025-5583"
+    }
+  },
+  "doc_type": "acord_45",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "building_value": 0,
+      "contents_value": 1260000,
+      "bi_value": 2340000,
+      "tiv": 3600000,
+      "construction": "Fire Resistive",
+      "occupancy": "Office"
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "4500 Butler Street",
+      "building_value": 5200000,
+      "contents_value": 8450000,
+      "bi_value": 3900000,
+      "tiv": 17550000,
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4520 Butler Street",
+      "building_value": 2240000,
+      "contents_value": 3840000,
+      "bi_value": 1920000,
+      "tiv": 8000000,
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Manufacturing"
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "3000 Village Run Road",
+      "building_value": 1700000,
+      "contents_value": 425000,
+      "bi_value": 850000,
+      "tiv": 2975000,
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Office"
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "100 Dutilh Road",
+      "building_value": 1680000,
+      "contents_value": 4480000,
+      "bi_value": 1120000,
+      "tiv": 7280000,
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse"
+    }
+  ]
+}

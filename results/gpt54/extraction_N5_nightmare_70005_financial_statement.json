@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Great Lakes Freight Systems, Inc.",
+    "statement_type": "Financial Statement",
+    "period_end_date": "2026-01-31",
+    "period_type": "fiscal year ended",
+    "fiscal_year": 2026,
+    "audited": null,
+    "preparer": "Margaret Sullivan"
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": null,
+        "accounts_receivable": 13376400,
+        "inventory": null,
+        "prepaid_expenses": 1960000,
+        "other_current": null,
+        "total_current_assets": null
+      },
+      "fixed_assets": {
+        "property_plant_equipment": null,
+        "accumulated_depreciation": null,
+        "net_fixed_assets": null
+      },
+      "other_assets": 21934300,
+      "total_assets": 95617944
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": null,
+        "accrued_expenses": 11728800,
+        "current_debt": null,
+        "other_current": null,
+        "total_current_liabilities": null
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 35234200,
+        "other_long_term": null,
+        "total_long_term": null
+      },
+      "total_liabilities": 66963756
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": null,
+      "total_equity": 28654188
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": null
+    },
+    "cost_of_goods_sold": null,
+    "gross_profit": 15606300,
+    "operating_expenses": {
+      "salaries_wages": null,
+      "rent": null,
+      "utilities": null,
+      "depreciation": 3579800,
+      "insurance": null,
+      "other_operating": 6145500,
+      "total_operating_expenses": null
+    },
+    "operating_income": null,
+    "interest_expense": null,
+    "income_before_tax": null,
+    "income_tax": null,
+    "net_income": null
+  },
+  "ratios": {
+    "current_ratio": null,
+    "debt_to_equity": null,
+    "profit_margin": 0.039
+  }
+}

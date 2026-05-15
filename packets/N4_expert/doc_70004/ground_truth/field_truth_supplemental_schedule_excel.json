@@ -1,0 +1,84 @@
+{
+  "fields": {},
+  "doc_type": "supplemental_schedule_excel",
+  "excel_metadata": {
+    "tab_order": [
+      "Prior Insurance"
+    ],
+    "tabs": {
+      "prior_carriers": {
+        "tab_name": "Prior Insurance",
+        "header_row": 2,
+        "carrier_count": 5,
+        "carriers": [
+          {
+            "year": 2024,
+            "carrier": "Nationwide Insurance",
+            "premium": 1634721.63,
+            "row": 3,
+            "loss_ratio_is_formula": false
+          },
+          {
+            "year": 2023,
+            "carrier": "Berkshire Hathaway Guard",
+            "premium": 1476849.96,
+            "row": 4,
+            "loss_ratio_is_formula": false
+          },
+          {
+            "year": 2022,
+            "carrier": "Zurich Insurance Group",
+            "premium": 1369245.71,
+            "row": 5,
+            "loss_ratio_is_formula": false
+          },
+          {
+            "year": 2021,
+            "carrier": "Nationwide Insurance",
+            "premium": 1487006.51,
+            "row": 6,
+            "loss_ratio_is_formula": false
+          },
+          {
+            "year": 2020,
+            "carrier": "CNA Financial",
+            "premium": 1581292.51,
+            "row": 7,
+            "loss_ratio_is_formula": false
+          }
+        ]
+      }
+    },
+    "schedule_types": [
+      "prior_carriers"
+    ],
+    "completeness": "partial",
+    "entity_deduplication": null,
+    "villification": {
+      "named_insured_tab": false,
+      "prior_carriers_tab": true,
+      "locations_tab": false,
+      "entity_variants": false,
+      "address_merged": false,
+      "premium_as_text": false,
+      "coverage_gaps": false,
+      "sqft_inconsistent": true,
+      "hidden_cols": false,
+      "comments": false,
+      "alternating_rows": false
+    },
+    "merged_regions": [
+      {
+        "range": "A1:G1",
+        "value": "PRIOR INSURANCE HISTORY"
+      }
+    ],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {}
+  },
+  "format": "xlsx"
+}

@@ -1,0 +1,78 @@
+{
+  "business_description": {
+    "annual_revenue": 48000000,
+    "employee_count": 113,
+    "naics_code": null,
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "years_in_business": 31
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial lines",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Policy number CP-BIP-2025-4420. Prior insurance history lists 2024 Liberty Mutual Insurance premium 392002.31, 2023 Hartford Financial Services premium 419914.35, and 2022 Chubb Limited premium 456514.10.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Karen Weissman",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history: 2024 Liberty Mutual Insurance, premium $392,002.31, claims 0, cancellations No; 2023 Hartford Financial Services, premium $419,914.35, claims 0, cancellations No; 2022 Chubb Limited, premium $456,514.10, claims 0, cancellations No.",
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio. Years in business: 31. Years with current management: 22. Number of employees: 95 full-time and 18 part-time. Annual revenue / gross receipts: $48,000,000. Hours of operation: Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 1:00 PM.",
+    "safety_programs": "Formal safety program: Yes. Written contracts with all subcontractors: No. Occupancy regularly occupied vs. vacant: 90%. Building fully sprinklered per NFPA 13 or 13R: No. Fire alarms hard-wired with central station monitoring: Yes. Written contracts with indemnification required from all contractors: Yes. Material Safety Data Sheets maintained: No. Lockout/tagout procedures in place: No."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Building is not fully sprinklered per NFPA 13 or 13R.",
+      "LOC-007 at 3250 Hill Avenue, Toledo, OH is not sprinklered.",
+      "Short-term rentals of less than 1 year are permitted.",
+      "Written contracts with all subcontractors are not in place.",
+      "Material Safety Data Sheets are not maintained.",
+      "Lockout/tagout procedures are not in place.",
+      "Operations include warehouse, distribution, and light manufacturing facilities."
+    ],
+    "loss_history_summary": "Prior insurance history reports 0 claims and no cancellations for 2022, 2023, and 2024.",
+    "positives": [
+      "31 years in business and 22 years with current management.",
+      "Formal safety program in place.",
+      "90% of units are regularly occupied versus vacant.",
+      "Fire alarms are hard-wired with central station monitoring.",
+      "24-hour doorperson or security is on premises.",
+      "Written contracts with indemnification are required from all contractors.",
+      "No EV charging stations, swimming pools, exercise rooms, or other amenities reported.",
+      "Prior insurance history shows 0 claims and no cancellations for 2022-2024."
+    ]
+  }
+}

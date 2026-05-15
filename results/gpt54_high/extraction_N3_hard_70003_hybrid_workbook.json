@@ -1,0 +1,85 @@
+{
+  "document_info": {
+    "document_type": "Excel submission",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality business with hotel, restaurant, and corporate office operations in Texas.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 42000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 28 claims, 324545 total paid, and 415934 total incurred."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 8 claims, 8780 total paid, and 82656 total incurred."
+    },
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 2 claims, 178566 total paid, and 215927 total incurred."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All scheduled locations indicate sprinkler protection.",
+      "Property portfolio is primarily fire resistive, masonry non-combustible, or non-combustible construction.",
+      "Financial statements show 42000000 revenue, 3220600 net income, and 52535400 equity."
+    ],
+    "concerns": [
+      "All 8 scheduled locations are concentrated in Texas.",
+      "Loss summary shows the highest claim frequency in Workers' Compensation with 28 claims.",
+      "Insurance history shows 11 claims in 2024, the highest annual count in the five-year history provided."
+    ],
+    "loss_history_summary": "Loss summary reflects Workers' Compensation: 28 claims / 324545 paid / 415934 incurred; General Liability: 8 claims / 8780 paid / 82656 incurred; Property: 2 claims / 178566 paid / 215927 incurred. Separate insurance history shows annual claims counts of 2 (2020), 9 (2021), 6 (2022), 3 (2023), and 11 (2024)."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

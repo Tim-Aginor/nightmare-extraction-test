@@ -1,0 +1,63 @@
+{
+  "form_info": {
+    "form_number": "ACORD 133",
+    "form_edition": "09/2008",
+    "form_title": "Workers Compensation Assigned Risk"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2650",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Capital Insurance Advisors",
+    "producer_code": "03752008"
+  },
+  "applicant_info": {
+    "fein": "74-6195832",
+    "sic_code": "7011",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "entity_type": "LLC"
+  },
+  "state": "TX",
+  "class_codes": [
+    {
+      "class_code": "9052",
+      "description": "Hotel - All Other Employees",
+      "payroll": 18207271,
+      "rate": 2.85,
+      "premium": 526407
+    },
+    {
+      "class_code": "9080",
+      "description": "Hotel - Beverage, Dispensers",
+      "payroll": 1343400,
+      "rate": 2.45,
+      "premium": 32933
+    },
+    {
+      "class_code": "9082",
+      "description": "Restaurant - NOC",
+      "payroll": 3629300,
+      "rate": 2.12,
+      "premium": 77981
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees - NOC",
+      "payroll": 1920000,
+      "rate": 0.18,
+      "premium": 3456
+    }
+  ],
+  "experience_mod": 0.89,
+  "total_premium": 379487,
+  "checkboxes": [],
+  "remarks": "SIC: 7011, Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+}

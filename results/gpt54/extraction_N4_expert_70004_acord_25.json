@@ -1,0 +1,109 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Meystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": "Sheetz City Insurance Group",
+    "producer_code": null
+  },
+  "document_date": "2016-05-23",
+  "certificate_holders": [
+    {
+      "name": "Woodbridge Realty Management Inc.",
+      "address": "475 Majie Avenue, Unit 129\nBirmingham, AL 35201"
+    }
+  ],
+  "carrier_name_per_lob": [
+    {
+      "lob": "COMMERCIAL GENERAL LIABILITY",
+      "carrier": "Hallmark Insurance Group",
+      "naic": "41884",
+      "policy_number": "GL-ACG-2025-5584"
+    },
+    {
+      "lob": "AUTOMOBILE LIABILITY",
+      "carrier": "Hallmark Insurance Group",
+      "naic": "41884",
+      "policy_number": "CA-ACG-2025-5584"
+    },
+    {
+      "lob": "WORKERS COMPENSATION AND EMPLOYERS' LIABILITY",
+      "carrier": "Hallmark Insurance Group",
+      "naic": "41884",
+      "policy_number": "WC-ACG-2025-5580"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "COMMERCIAL GENERAL LIABILITY",
+      "policy_number": "GL-ACG-2025-5584",
+      "effective_date": "2025-06-01",
+      "expiration_date": "2026-06-01",
+      "limit": "2000000"
+    },
+    {
+      "coverage_type": "AUTOMOBILE LIABILITY",
+      "policy_number": "CA-ACG-2025-5584",
+      "effective_date": "2025-06-01",
+      "expiration_date": "2026-06-01",
+      "limit": "5000000"
+    },
+    {
+      "coverage_type": "WORKERS COMPENSATION AND EMPLOYERS' LIABILITY",
+      "policy_number": "WC-ACG-2025-5580",
+      "effective_date": "2025-06-01",
+      "expiration_date": "2026-06-01",
+      "limit": "1000000"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "COMMERCIAL GENERAL LIABILITY - CLAIMS-MADE",
+      "value": "No"
+    },
+    {
+      "field": "COMMERCIAL GENERAL LIABILITY - OCCUR",
+      "value": "Yes"
+    },
+    {
+      "field": "AUTOMOBILE LIABILITY - ANY AUTO",
+      "value": "Yes"
+    },
+    {
+      "field": "AUTOMOBILE LIABILITY - ALL OWNED AUTOS",
+      "value": "No"
+    },
+    {
+      "field": "AUTOMOBILE LIABILITY - SCHEDULED AUTOS",
+      "value": "No"
+    },
+    {
+      "field": "AUTOMOBILE LIABILITY - HIRED AUTOS",
+      "value": "No"
+    },
+    {
+      "field": "AUTOMOBILE LIABILITY - NON-OWNED AUTOS",
+      "value": "No"
+    },
+    {
+      "field": "WORKERS COMPENSATION - STATUTORY LIMITS",
+      "value": "Yes"
+    },
+    {
+      "field": "WORKERS COMPENSATION - ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED?",
+      "value": "No"
+    }
+  ],
+  "remarks": "RE: General contracting for commercial and institutional construction \u2013 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania Locations: Corporate Headquarters - 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222; Main Equipment Yard & Warehouse - 4500 Butler Street, Pittsburgh, PA 15201; Fabrication Shop - 4570 Butler Street, Pittsburgh, PA 15201. Woodbridge Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

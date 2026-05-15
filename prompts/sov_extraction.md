@@ -25,7 +25,7 @@ Return a single JSON object with this exact structure:
       "city": "<string>",
       "state": "<string>",
       "zip": "<string or null>",
-      "construction": "<string or null>",
+      "construction": "<construction class as written on the document — keep abbreviations (MNC), IBC codes (III-B), ISO 1-6 numbers, or tenant-scope flags verbatim, do not coerce to ACORD-formal names; null only if the cell is missing entirely>",
       "occupancy": "<string or null>",
       "year_built": "<number or null>",
       "stories": "<number or null>",

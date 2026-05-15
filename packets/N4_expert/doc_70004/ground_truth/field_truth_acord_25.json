@@ -1,0 +1,128 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-16",
+      "rendered_as": "03/16/2026"
+    },
+    "producer_name": {
+      "value": "Steel City Insurance Group"
+    },
+    "producer_contact": {
+      "value": "Patricia Nowak"
+    },
+    "producer_phone": {
+      "value": "(412) 555-0287"
+    },
+    "producer_fax": {
+      "value": "(412) 580-2110"
+    },
+    "producer_email": {
+      "value": "pnowak@steelcityins.com"
+    },
+    "policy_number_wc": {
+      "value": "WC-KCB-2025-5580"
+    },
+    "cert_limit_wc_el_each_accident": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "cert_limit_wc_el_disease_policy": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "policy_number_gl": {
+      "value": "GL-KCB-2025-5581"
+    },
+    "cert_limit_gl_each_occurrence": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "cert_limit_gl_general_aggregate": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "cert_limit_gl_products_completed_ops": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "cert_limit_gl_medical_expense": {
+      "value": 15000,
+      "rendered_as": "15,000.00"
+    },
+    "policy_number_auto": {
+      "value": "CA-KCB-2025-5582"
+    },
+    "cert_limit_auto_combined_single_limit": {
+      "value": 5000000.0,
+      "rendered_as": "$5,000,000.00"
+    }
+  },
+  "doc_type": "acord_25",
+  "certificate_holders": [
+    {
+      "name": "Woodbridge Realty Management Inc.",
+      "address": "4715 Maple Avenue, Unit 129",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip_code": "35201"
+    },
+    {
+      "name": "Woodbridge Capital Group",
+      "address": "5158 Summit Avenue",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "zip_code": "49501"
+    }
+  ],
+  "insurer_panel": [
+    {
+      "letter": "A",
+      "name": "Hallmark Insurance Group",
+      "naic": "41837",
+      "coverage": "wc"
+    },
+    {
+      "letter": "B",
+      "name": "Hallmark Insurance Group",
+      "naic": "41883",
+      "coverage": "gl"
+    },
+    {
+      "letter": "C",
+      "name": "Hallmark Insurance Group",
+      "naic": "41845",
+      "coverage": "auto"
+    }
+  ],
+  "carrier_name_per_lob": {
+    "wc": "Hallmark Insurance Group",
+    "gl": "Hallmark Insurance Group",
+    "auto": "Hallmark Insurance Group"
+  }
+}

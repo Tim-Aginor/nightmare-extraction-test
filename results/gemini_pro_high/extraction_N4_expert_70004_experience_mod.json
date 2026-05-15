@@ -1,0 +1,63 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Pennsylvania Compensation Rating Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": null,
+    "city": null,
+    "state": "PA",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial Builders",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Final Experience Modification Factor: 0.86"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Favorable Final Experience Modification Factor of 0.86"
+    ],
+    "concerns": [],
+    "loss_history_summary": "Actual Primary Losses (Ap): 335671; Actual Excess Losses (Ae): 211060; Expected Losses (E): 1095520"
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2025-08-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": "2016/03",
+    "form_title": "Commercial General Liability Section"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-KCB-2025-5581",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": "25-7194638",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": 2000000,
+      "deductible": 10000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Rented Premises (Each Occurrence)",
+      "limit": 300000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Med Exp (Any One Person)",
+      "limit": 15000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Advertising Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products / Completed Operations Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contractors \u2014 General NOC (Class Code 91583)",
+      "limit": null,
+      "deductible": null,
+      "premium": 250835
+    },
+    {
+      "coverage_type": "Carpentry \u2014 Interior \u2014 NOC (Class Code 16900)",
+      "limit": null,
+      "deductible": null,
+      "premium": 34255
+    }
+  ],
+  "checkboxes": {
+    "occurrence": "Yes",
+    "claims_made": "No",
+    "professional_services_or_advice": "No",
+    "premises_operations_rented_or_leased": "No",
+    "work_performed_by_subcontractors": "No",
+    "completed_operations_exposures": "Yes",
+    "demolition_work": "No",
+    "fireworks_explosives_blasting": "No",
+    "products_manufactured_sold_distributed": "Yes",
+    "daycare_or_childcare_operations": "No",
+    "work_on_or_near_bodies_of_water": "Yes",
+    "swimming_pools_hot_tubs_diving_boards": "No",
+    "additional_coverage_employee_benefits_liability": "Yes",
+    "additional_coverage_employment_practices_liability": "No",
+    "additional_coverage_liquor_liability": "No",
+    "additional_coverage_stop_gap_employers_liability": "No",
+    "additional_coverage_pollution_liability": "No",
+    "additional_coverage_contractual_liability": "Yes",
+    "additional_coverage_product_withdrawal_expense": "Yes",
+    "additional_coverage_broad_form_property_damage": "No",
+    "additional_coverage_electronic_data_liability": "No",
+    "additional_coverage_fire_legal_liability": "No",
+    "additional_coverage_hired_and_non_owned_auto": "Yes",
+    "additional_coverage_medical_payments": "Yes"
+  },
+  "additional_fields": {
+    "form_date": "2026-03-14",
+    "deductible_applies_to": "Per Occurrence",
+    "classification_91583_description": "Contractors \u2014 General NOC",
+    "classification_91583_premium_basis": "Payroll",
+    "classification_91583_exposure": 29510000,
+    "classification_91583_rate": 6.5,
+    "classification_91583_premium": 250835,
+    "classification_16900_description": "Carpentry \u2014 Interior \u2014 NOC",
+    "classification_16900_premium_basis": "Payroll",
+    "classification_16900_exposure": 5525000,
+    "classification_16900_rate": 6.2,
+    "classification_16900_premium": 34255,
+    "total_premium": 285090,
+    "tria_surcharge": 11938,
+    "total_premium_with_tria": 297028
+  },
+  "remarks": null
+}

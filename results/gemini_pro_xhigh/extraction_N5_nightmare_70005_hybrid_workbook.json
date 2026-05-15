@@ -1,0 +1,61 @@
+{
+  "document_info": {
+    "document_type": null,
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "5 fleet drivers (Kevin Anderson, Sean O'Brien, Katherine Taylor, Paul Nelson, Rebecca Kim) have a 'Clear' MVR status with 0 violations and 0 accidents.",
+      "A significant portion of the driver fleet has over 20 years of experience."
+    ],
+    "concerns": [
+      "Scott Murphy and Jack Reed both have 'Major Violations' on their MVRs, each with 3 violations and 2 accidents.",
+      "The majority of the fleet drivers (33 out of 40) have at least one minor violation and one accident on record."
+    ],
+    "loss_history_summary": "Motor Vehicle Reports indicate a high frequency of minor accidents across the fleet. 33 drivers have 1 accident, 5 drivers have 2 accidents, and only 6 drivers are accident-free."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH",
+      "PA",
+      "IL",
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": 40,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

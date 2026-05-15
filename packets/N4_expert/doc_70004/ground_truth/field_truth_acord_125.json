@@ -1,0 +1,190 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "entity_type": {
+      "value": "Corporation"
+    },
+    "fein": {
+      "value": "25-7194638"
+    },
+    "sic_code": {
+      "value": "1521"
+    },
+    "naics_code": {
+      "value": "236220"
+    },
+    "nature_of_business": {
+      "value": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+    },
+    "years_in_business": {
+      "value": 42
+    },
+    "annual_revenue": {
+      "value": 95000000,
+      "rendered_as": "$95,000,000.00"
+    },
+    "num_employees_ft": {
+      "value": 425
+    },
+    "num_employees_pt": {
+      "value": 45
+    },
+    "website": {
+      "value": "www.keystonecommercialbu.com"
+    },
+    "contact_name": {
+      "value": "Joseph Kowalczyk"
+    },
+    "contact_title": {
+      "value": "President & CEO"
+    },
+    "producer_name": {
+      "value": "Steel City Insurance Group"
+    },
+    "producer_contact": {
+      "value": "Patricia Nowak"
+    }
+  },
+  "doc_type": "acord_125",
+  "uw_questions": [
+    {
+      "question": "Any past bankruptcies, receivership, or reorganization?",
+      "answer": "No"
+    },
+    {
+      "question": "Any losses or claims in the past 5 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Any pending litigation or regulatory actions?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are any regulated chemicals (EPA RCRA, TSCA, OSHA HCS) stored, used, or disposed of on premises?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Any work involving asbestos, lead, or mold remediation?",
+      "answer": "No"
+    },
+    {
+      "question": "Are metal fabrication or welding operations performed on premises?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does applicant lease employees to or from other firms?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant prepare, handle, or serve food for human consumption?",
+      "answer": "No"
+    },
+    {
+      "question": "Any recall of products in the past 5 years?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant operate as a franchisor or sell franchise rights to franchisees?",
+      "answer": "No"
+    },
+    {
+      "question": "Any daycare or childcare operations on premises?",
+      "answer": "No"
+    },
+    {
+      "question": "Is applicant involved in any joint ventures?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "answer": "No"
+    }
+  ],
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Corporate Headquarters",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15222",
+      "building_value": 0,
+      "contents_value": 1260000,
+      "bi_value": 2340000,
+      "tiv": 3600000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Main Equipment Yard & Warehouse",
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "building_value": 5200000,
+      "contents_value": 8450000,
+      "bi_value": 3900000,
+      "tiv": 17550000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Fabrication Shop",
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "building_value": 2240000,
+      "contents_value": 3840000,
+      "bi_value": 1920000,
+      "tiv": 8000000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "South Hills Branch Office",
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "state": "PA",
+      "zip_code": "15090",
+      "building_value": 1700000,
+      "contents_value": 425000,
+      "bi_value": 850000,
+      "tiv": 2975000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "name": "Equipment Storage - Cranberry",
+      "address": "100 Dutilh Road",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "zip_code": "16066",
+      "building_value": 1680000,
+      "contents_value": 4480000,
+      "bi_value": 1120000,
+      "tiv": 7280000
+    }
+  ]
+}

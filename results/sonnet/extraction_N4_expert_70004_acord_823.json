@@ -1,0 +1,75 @@
+{
+  "form_info": {
+    "form_number": "ACORD 823",
+    "form_edition": "2013/12",
+    "form_title": "Commercial Lines Supplement"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "AC-457884",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-KCB-2025-5580",
+    "effective_date": "2025-08-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "28339",
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [],
+  "checkboxes": {},
+  "additional_fields": {
+    "premises": [
+      {
+        "premises_number": "1",
+        "location": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222",
+        "description": "Corporate Headquarters",
+        "construction": "Fire Resistive",
+        "year_built": "2002",
+        "building_value": null,
+        "contents_value": 1260000,
+        "bi_value": 2340000
+      },
+      {
+        "premises_number": "2",
+        "location": "4900 Butler Street, Pittsburgh, PA 15201",
+        "description": "Main Equipment Yard & Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": "1995",
+        "building_value": 5200000,
+        "contents_value": 8450000,
+        "bi_value": 3900000
+      },
+      {
+        "premises_number": "3",
+        "location": "4520 Butler Street, Pittsburgh, PA 15201",
+        "description": "Fabrication Shop",
+        "construction": "Masonry Non-Combustible",
+        "year_built": "1988",
+        "building_value": 7240000,
+        "contents_value": 3640000,
+        "bi_value": 1920000
+      },
+      {
+        "premises_number": "4",
+        "location": "3000 Village Run Road, Wexford, PA 15090",
+        "description": "South Hills Branch Office",
+        "construction": "Masonry Non-Combustible",
+        "year_built": "2010",
+        "building_value": 1700000,
+        "contents_value": 425000,
+        "bi_value": 850000
+      }
+    ]
+  },
+  "remarks": null
+}

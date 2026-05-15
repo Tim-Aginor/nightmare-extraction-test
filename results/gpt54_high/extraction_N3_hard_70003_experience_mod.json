@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Texas Department of Insurance Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Texas Department of Insurance",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Hotel and restaurant operations, including bellhops, doorpersons, and clerical office employees",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Texas experience rating worksheet under Large Risk plan. Final experience modification factor 0.94 effective 2025-05-01."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor is 0.94.",
+      "Actual primary losses of 92945 are below expected losses of 361806.",
+      "No actual excess losses were reported."
+    ],
+    "concerns": [
+      "16 claims were reported across the three experience years.",
+      "Total incurred losses were 92945."
+    ],
+    "loss_history_summary": "2023-2024: 2 claims, 9940 total incurred. 2022-2023: 6 claims, 26662 total incurred. 2021-2022: 8 claims, 56343 total incurred. Total: 16 claims, 92945 total incurred and primary losses, 0 excess losses."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": "2025-05-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

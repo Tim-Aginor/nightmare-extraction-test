@@ -1,0 +1,217 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "INSURANCE BINDER"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "National Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "binder_number": "BND-76775-1234",
+  "binder_date": "2025-08-14",
+  "expiring_carriers": [
+    {
+      "lob": "Workers Compensation",
+      "carrier": "Nationwide Insurance",
+      "policy_number": null
+    },
+    {
+      "lob": "General Liability",
+      "carrier": "Markel Corporation",
+      "policy_number": null
+    },
+    {
+      "lob": "Commercial Auto",
+      "carrier": "Travelers Companies",
+      "policy_number": null
+    },
+    {
+      "lob": "Commercial Property",
+      "carrier": "Zurich Insurance Group",
+      "policy_number": null
+    }
+  ],
+  "endorsements": [
+    {
+      "form_number": null,
+      "title": "Workers' Compensation and Employers Liability Insurance Policy",
+      "coverage": "Workers Compensation"
+    },
+    {
+      "form_number": null,
+      "title": "Experience Rating Modification Factor Endorsement",
+      "coverage": "Workers Compensation"
+    },
+    {
+      "form_number": null,
+      "title": "Pennsylvania Cancellation Condition Endorsement",
+      "coverage": "Workers Compensation"
+    },
+    {
+      "form_number": null,
+      "title": "Contractors General Liability Coverage Form",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Common Policy Conditions",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Amendment of Aggregate Limits of Insurance - Per Project",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Employment-Related Practices Exclusion",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Additional Insured - Owners, Lessees or Contractors - Ongoing Operations",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Additional Insured - Owners, Lessees or Contractors - Completed Operations",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Total Pollution Exclusion With a Hostile Fire Exception",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Designated Construction Project(s) General Aggregate Limit",
+      "coverage": "General Liability"
+    },
+    {
+      "form_number": null,
+      "title": "Business Auto Coverage Form",
+      "coverage": "Business Auto"
+    },
+    {
+      "form_number": null,
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "Business Auto"
+    },
+    {
+      "form_number": null,
+      "title": "Common Policy Conditions",
+      "coverage": "Business Auto"
+    },
+    {
+      "form_number": null,
+      "title": "Fellow Employee Exclusion",
+      "coverage": "Business Auto"
+    },
+    {
+      "form_number": null,
+      "title": "Pollution Liability - Broadened Coverage for Covered Autos",
+      "coverage": "Business Auto"
+    },
+    {
+      "form_number": null,
+      "title": "Building and Personal Property Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": null,
+      "title": "Causes of Loss - Special Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": null,
+      "title": "Business Income (and Extra Expense) Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": null,
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": null,
+      "title": "Common Policy Conditions",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": null,
+      "title": "Ordinance or Law Coverage",
+      "coverage": "Commercial Property"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "Fifth Third Bank",
+      "address": "P.O. Box 20328, Fargo, ND 58102",
+      "loan_number": null
+    },
+    {
+      "name": "De Lage Landen Financial Services",
+      "address": "P.O. Box 67203, Elk Grove, CA 95624",
+      "loan_number": null
+    },
+    {
+      "name": "Riverside Property Management, LLC",
+      "address": "P.O. Box 79873, Spokane, WA 99201",
+      "loan_number": null
+    }
+  ],
+  "property_premium": null,
+  "property_deductible": 25000,
+  "form_type_property": "Special",
+  "limit_property_building": 10500000,
+  "limit_property_contents": 18455000,
+  "limit_property_business_income": 50100000,
+  "limit_property_coinsurance": null,
+  "coinsurance_property": 90,
+  "checkboxes": [
+    {
+      "field": "property_form_basic",
+      "value": "No"
+    },
+    {
+      "field": "property_form_broad",
+      "value": "No"
+    },
+    {
+      "field": "property_form_special",
+      "value": "Yes"
+    },
+    {
+      "field": "general_liability_occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "general_liability_claims_made",
+      "value": "No"
+    },
+    {
+      "field": "workers_comp_per_statute",
+      "value": "Yes"
+    },
+    {
+      "field": "workers_comp_other",
+      "value": "No"
+    }
+  ],
+  "remarks": "General contracting for commercial and institutional construction, including healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania."
+}

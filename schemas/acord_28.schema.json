@@ -1,0 +1,577 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "acord_28",
+  "type": "object",
+  "properties": {
+    "form_info": {
+      "type": "object",
+      "properties": {
+        "form_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "form_edition": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "form_title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "form_number",
+        "form_edition",
+        "form_title"
+      ],
+      "additionalProperties": false
+    },
+    "header": {
+      "type": "object",
+      "properties": {
+        "insured_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_city": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_state": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "AL",
+            "AK",
+            "AZ",
+            "AR",
+            "CA",
+            "CO",
+            "CT",
+            "DE",
+            "FL",
+            "GA",
+            "HI",
+            "ID",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "LA",
+            "ME",
+            "MD",
+            "MA",
+            "MI",
+            "MN",
+            "MS",
+            "MO",
+            "MT",
+            "NE",
+            "NV",
+            "NH",
+            "NJ",
+            "NM",
+            "NY",
+            "NC",
+            "ND",
+            "OH",
+            "OK",
+            "OR",
+            "PA",
+            "RI",
+            "SC",
+            "SD",
+            "TN",
+            "TX",
+            "UT",
+            "VT",
+            "VA",
+            "WA",
+            "WV",
+            "WI",
+            "WY",
+            "DC",
+            "PR",
+            "GU",
+            "VI",
+            "AS",
+            "MP",
+            null
+          ]
+        },
+        "insured_zip": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "carrier_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "effective_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "expiration_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "producer_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "producer_code": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "insured_name",
+        "insured_address",
+        "insured_city",
+        "insured_state",
+        "insured_zip",
+        "carrier_name",
+        "policy_number",
+        "effective_date",
+        "expiration_date",
+        "producer_name",
+        "producer_code"
+      ],
+      "additionalProperties": false
+    },
+    "policy_form_type": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "special",
+        null
+      ]
+    },
+    "cause_of_loss": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "coinsurance": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "naic_code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "cancellation_notice_days": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "loan_number": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "locations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "location_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "address": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "city": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "state": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "AL",
+              "AK",
+              "AZ",
+              "AR",
+              "CA",
+              "CO",
+              "CT",
+              "DE",
+              "FL",
+              "GA",
+              "HI",
+              "ID",
+              "IL",
+              "IN",
+              "IA",
+              "KS",
+              "KY",
+              "LA",
+              "ME",
+              "MD",
+              "MA",
+              "MI",
+              "MN",
+              "MS",
+              "MO",
+              "MT",
+              "NE",
+              "NV",
+              "NH",
+              "NJ",
+              "NM",
+              "NY",
+              "NC",
+              "ND",
+              "OH",
+              "OK",
+              "OR",
+              "PA",
+              "RI",
+              "SC",
+              "SD",
+              "TN",
+              "TX",
+              "UT",
+              "VT",
+              "VA",
+              "WA",
+              "WV",
+              "WI",
+              "WY",
+              "DC",
+              "PR",
+              "GU",
+              "VI",
+              "AS",
+              "MP",
+              null
+            ]
+          },
+          "zip": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "construction": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "Non-Combustible",
+              "Fire Resistive",
+              "Masonry Non-Combustible",
+              "Joisted Masonry",
+              null
+            ]
+          },
+          "occupancy": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "year_built": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "stories": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "square_feet": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "sprinklered": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "roof_type": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "TPO",
+              "EPDM",
+              "Concrete",
+              "Shingle",
+              "Metal",
+              "Single-Ply Membrane",
+              "Built-Up",
+              "Modified Bitumen",
+              null
+            ]
+          },
+          "sprinkler_type": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "Pre-Action",
+              "Wet Pipe",
+              "Deluge",
+              "Dry Pipe",
+              "None",
+              null
+            ]
+          },
+          "fire_alarm_type": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "None",
+              "Central Station Monitored",
+              "Direct to Fire Department",
+              "Proprietary System",
+              "Local Alarm Only",
+              null
+            ]
+          },
+          "building_value": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "contents_value": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "bi_value": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "tiv": {
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "location_number",
+          "address",
+          "city",
+          "state",
+          "zip",
+          "construction",
+          "occupancy",
+          "year_built",
+          "stories",
+          "square_feet",
+          "sprinklered",
+          "roof_type",
+          "sprinkler_type",
+          "fire_alarm_type",
+          "building_value",
+          "contents_value",
+          "bi_value",
+          "tiv"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "location_totals": {
+      "type": "object",
+      "properties": {
+        "building": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "contents": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "business_income": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "tiv": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "building",
+        "contents",
+        "business_income",
+        "tiv"
+      ],
+      "additionalProperties": false
+    },
+    "interest_holders": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "address": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "interest_type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "loan_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "name",
+          "address",
+          "interest_type",
+          "loan_number"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "property_deductible": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "checkboxes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": {
+            "type": "string"
+          },
+          "value": {
+            "type": "string",
+            "enum": [
+              "Yes",
+              "No"
+            ]
+          }
+        },
+        "required": [
+          "field",
+          "value"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "remarks": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "form_info",
+    "header",
+    "policy_form_type",
+    "cause_of_loss",
+    "coinsurance",
+    "naic_code",
+    "cancellation_notice_days",
+    "loan_number",
+    "locations",
+    "location_totals",
+    "interest_holders",
+    "property_deductible",
+    "checkboxes",
+    "remarks"
+  ],
+  "additionalProperties": false
+}

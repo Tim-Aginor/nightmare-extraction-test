@@ -1,0 +1,181 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": null,
+    "form_title": "Certificate of Liability Insurance"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists / David Reinhardt",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": null,
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability - Each Occurrence",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - Damage to Rented Premises",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - Med Exp (Any One Person)",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - Personal & Adv Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability - Products-Comp/Op Agg",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Automobile Liability - Combined Single Limit",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella Liability - Each Occurrence",
+      "limit": 10000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella Liability - Aggregate",
+      "limit": 10000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation - Statutory Limits",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employers Liability - E.L. Each Accident",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employers Liability - E.L. Disease - EA Employee",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employers Liability - E.L. Disease - Policy Limit",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "cgl_claims_made": "unchecked",
+    "cgl_occurrence": "checked",
+    "cgl_gen_agg_limit_per_policy": "checked",
+    "cgl_gen_agg_limit_per_project": "unchecked",
+    "cgl_gen_agg_limit_per_loc": "unchecked",
+    "auto_any_auto": "checked",
+    "auto_owned_autos_only": "unchecked",
+    "auto_scheduled_autos": "unchecked",
+    "auto_hired_autos_only": "unchecked",
+    "auto_non_owned_autos": "unchecked",
+    "umbrella_occur": "checked",
+    "umbrella_claims_made": "unchecked",
+    "umbrella_ded_retention": "checked",
+    "wc_statutory_limits": "checked",
+    "wc_proprietor_partner_executive_excluded": "N/A"
+  },
+  "additional_fields": {
+    "producer_address": "40 South High Street, Suite 2800, Columbus, OH 43215",
+    "producer_phone": "(614) 555-0493",
+    "producer_fax": "(614) 267-6839",
+    "producer_email": "dreinhardt@tisgroup.com",
+    "contact_name": "David Reinhardt",
+    "contact_phone": "(614) 555-0493",
+    "contact_fax": "(614) 267-6839",
+    "contact_email": "dreinhardt@tisgroup.com",
+    "insurer_a_name": "Ohio Bureau of Workers' Compensation",
+    "insurer_a_naic": null,
+    "insurer_b_name": "Standard Insurance Company",
+    "insurer_b_naic": null,
+    "insurer_c_name": "Standard Insurance Company",
+    "insurer_c_naic": null,
+    "insurer_d_name": "Standard Insurance Company",
+    "insurer_d_naic": null,
+    "cgl_insurer_letter": "B",
+    "cgl_policy_number": "GL GLFS 2025 8821",
+    "cgl_effective_date": "2025-06-01",
+    "cgl_expiration_date": "2026-06-01",
+    "cgl_addl_insured": "Yes",
+    "cgl_subrogation_waived": "Yes",
+    "auto_insurer_letter": "C",
+    "auto_policy_number": "CAGLFS202708B05",
+    "auto_effective_date": "2025-06-01",
+    "auto_expiration_date": "2026-06-01",
+    "auto_addl_insured": "Yes",
+    "auto_subrogation_waived": "Yes",
+    "umbrella_insurer_letter": "D",
+    "umbrella_policy_number": "SIC CU6025454",
+    "umbrella_effective_date": "2025-06-01",
+    "umbrella_expiration_date": "2026-06-01",
+    "umbrella_addl_insured": "Yes",
+    "umbrella_subrogation_waived": "Yes",
+    "umbrella_ded_retention_amount": null,
+    "wc_insurer_letter": "A",
+    "wc_policy_number": "WC GLFS 2025 8839",
+    "wc_effective_date": "2025-06-01",
+    "wc_expiration_date": "2026-06-01",
+    "wc_subrogation_waived": "Yes",
+    "certificate_holder_name": "Quantum Realty Management Inc.",
+    "certificate_holder_address": "5050 Summit Avenue",
+    "certificate_holder_city": "Little Rock",
+    "certificate_holder_state": "AR",
+    "certificate_holder_zip": "72201",
+    "additional_insured_name": "Quantum Realty Management Inc.",
+    "cancellation_notice_days": 30,
+    "authorized_representative": "Margaret Sullivan Johnson",
+    "operations_locations": [
+      "Corporate Headquarters & Main Terminal - 1200 Nationwide Boulevard, Columbus, OH 43215",
+      "Rickenbacker Air Hub - 2500 Norton Road, Columbus, OH 43217",
+      "Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131"
+    ]
+  },
+  "remarks": "RE: Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Locations: Corporate Headquarters & Main Terminal - 1200 Nationwide Boulevard, Columbus, OH 43215; Rickenbacker Air Hub - 2500 Norton Road, Columbus, OH 43217; Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131. Quantum Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Buckeye Industrial Properties, LLC",
+    "statement_type": "Financial Statements",
+    "period_end_date": "2026-09-30",
+    "period_type": "FY",
+    "fiscal_year": 2026,
+    "audited": null,
+    "preparer": "Douglas Brennan"
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": 0,
+        "accounts_receivable": 0,
+        "inventory": 8122200,
+        "prepaid_expenses": 65300,
+        "other_current": 1200000,
+        "total_current_assets": 8575100
+      },
+      "fixed_assets": {
+        "property_plant_equipment": 72000000,
+        "accumulated_depreciation": 22398500,
+        "net_fixed_assets": 49601500
+      },
+      "other_assets": 53814000,
+      "total_assets": 111030500
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 0,
+        "accrued_expenses": 12814400,
+        "current_debt": 6289500,
+        "other_current": 2094900,
+        "total_current_liabilities": 21198800
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 9785600,
+        "other_long_term": 2694300,
+        "total_long_term": 12479900
+      },
+      "total_liabilities": 33279900
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 78682400,
+      "total_equity": 78682400
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": 48000000,
+      "net_revenue": 48000000
+    },
+    "cost_of_goods_sold": 19715000,
+    "gross_profit": 27950000,
+    "operating_expenses": {
+      "salaries_wages": 16131300,
+      "rent": 892700,
+      "utilities": null,
+      "depreciation": 1322100,
+      "insurance": null,
+      "other_operating": 11261000,
+      "total_operating_expenses": 27346100
+    },
+    "operating_income": 603900,
+    "interest_expense": 9938900,
+    "income_before_tax": -7200000,
+    "income_tax": 2738900,
+    "net_income": 7114700
+  },
+  "ratios": {
+    "current_ratio": 0.85,
+    "debt_to_equity": 0.43,
+    "profit_margin": 0.15
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "schema_version": "1.0",
+  "seed": 70002,
+  "generated_at": "2026-05-04T23:23:18+00:00",
+  "doc_type": "loss_run_csv",
+  "doc": {
+    "format": "csv",
+    "scan_level": "digital",
+    "strings": [
+      "Claim Ref",
+      "Employee",
+      "DOL",
+      "Claim Status",
+      "Exp. Paid",
+      "O/S Reserve",
+      "Total Inc.",
+      "Property Location",
+      "Cause",
+      "Paid",
+      "MEM-2025-013016",
+      "Buckeye Industrial Properties, LLC",
+      "10/17/2025",
+      "Re-opened",
+      "12636.79",
+      "35679.44",
+      "238554.44",
+      "2100 Kuntz Road, Dayton, OH",
+      "Water Damage",
+      "190238.21",
+      "HTF-2021-013149",
+      "10/09/2021",
+      "Denied",
+      "0.00",
+      "11600 Mosteller Road, Cincinnati, OH",
+      "Equipment Breakdown",
+      "PROPERTY Subtotal",
+      "Grand Total",
+      "*** CONFIDENTIAL \u2014 This report is intended solely for the named insured and authorized representatives.",
+      "*** Data is provided as-is and may not reflect final adjudication of claims.",
+      "*** Report generated from carrier system \u2014 verify all figures against original policy documents."
+    ],
+    "numbers": [
+      2025,
+      13016,
+      12636.79,
+      35679.44,
+      238554.44,
+      2100,
+      190238.21,
+      2021,
+      13149,
+      0.0,
+      11600
+    ],
+    "tokens": [
+      "claim",
+      "ref",
+      "employee",
+      "dol",
+      "status",
+      "exp",
+      "paid",
+      "reserve",
+      "total",
+      "inc",
+      "property",
+      "location",
+      "cause",
+      "mem-2025-013016",
+      "buckeye",
+      "industrial",
+      "properties",
+      "llc",
+      "10",
+      "17",
+      "2025",
+      "re-opened",
+      "12636.79",
+      "35679.44",
+      "238554.44",
+      "2100",
+      "kuntz",
+      "road",
+      "dayton",
+      "oh",
+      "water",
+      "damage",
+      "190238.21",
+      "htf-2021-013149",
+      "09",
+      "2021",
+      "denied",
+      "0.00",
+      "11600",
+      "mosteller",
+      "cincinnati",
+      "equipment",
+      "breakdown",
+      "subtotal",
+      "grand",
+      "confidential",
+      "this",
+      "report",
+      "is",
+      "intended",
+      "solely",
+      "for",
+      "the",
+      "named",
+      "insured",
+      "and",
+      "authorized",
+      "representatives",
+      "data",
+      "provided",
+      "as-is",
+      "may",
+      "not",
+      "reflect",
+      "final",
+      "adjudication",
+      "of",
+      "claims",
+      "generated",
+      "from",
+      "carrier",
+      "system",
+      "verify",
+      "all",
+      "figures",
+      "against",
+      "original",
+      "policy",
+      "documents"
+    ],
+    "rendered_text": "\"Claim Ref\";\"Employee\";\"DOL\";\"Claim Status\";\"Exp. Paid\";\"O/S Reserve\";\"Total Inc.\";\"Property Location\";\"Cause\";\"Paid\"\n\"MEM-2025-013016\";\"Buckeye Industrial Properties, LLC\";\"10/17/2025\";\"Re-opened\";\"12636.79\";\"35679.44\";\"238554.44\";\"2100 Kuntz Road, Dayton, OH\";\"Water Damage\";\"190238.21\"\n\"HTF-2021-013149\";\"Buckeye Industrial Properties, LLC\";\"10/09/2021\";\"Denied\";\"0.00\";\"0.00\";\"0.00\";\"11600 Mosteller Road, Cincinnati, OH\";\"Equipment Breakdown\";\"0.00\"\n\"PROPERTY Subtotal\";\"\";\"\";\"\";\"12636.79\";\"35679.44\";\"238554.44\";\"\";\"\";\"190238.21\"\n\"Grand Total\";\"\";\"\";\"\";\"12636.79\";\"35679.44\";\"238554.44\";\"\";\"\";\"190238.21\"\n\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\"\n\"*** CONFIDENTIAL \ufffd This report is intended solely for the named insured and authorized representatives.\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\"\n\"*** Data is provided as-is and may not reflect final adjudication of claims.\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\"\n\"*** Report generated from carrier system \ufffd verify all figures against original policy documents.\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"\"\n",
+    "elements": [
+      {
+        "value": "Claim Ref",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 1
+      },
+      {
+        "value": "Employee",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 2
+      },
+      {
+        "value": "DOL",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 3
+      },
+      {
+        "value": "Claim Status",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 4
+      },
+      {
+        "value": "Exp. Paid",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 5
+      },
+      {
+        "value": "O/S Reserve",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 6
+      },
+      {
+        "value": "Total Inc.",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 7
+      },
+      {
+        "value": "Property Location",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 8
+      },
+      {
+        "value": "Cause",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 9
+      },
+      {
+        "value": "Paid",
+        "kind": "string",
+        "origin": "csv.header",
+        "csv_row": 1,
+        "csv_col": 10
+      },
+      {
+        "value": "MEM-2025-013016",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 1
+      },
+      {
+        "value": "Buckeye Industrial Properties, LLC",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 2
+      },
+      {
+        "value": "10/17/2025",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 3
+      },
+      {
+        "value": "Re-opened",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 4
+      },
+      {
+        "value": "12636.79",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 5
+      },
+      {
+        "value": "35679.44",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 6
+      },
+      {
+        "value": "238554.44",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 7
+      },
+      {
+        "value": "2100 Kuntz Road, Dayton, OH",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 8
+      },
+      {
+        "value": "Water Damage",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 9
+      },
+      {
+        "value": "190238.21",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 2,
+        "csv_col": 10
+      },
+      {
+        "value": "HTF-2021-013149",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 1
+      },
+      {
+        "value": "Buckeye Industrial Properties, LLC",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 2
+      },
+      {
+        "value": "10/09/2021",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 3
+      },
+      {
+        "value": "Denied",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 4
+      },
+      {
+        "value": "0.00",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 5
+      },
+      {
+        "value": "0.00",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 6
+      },
+      {
+        "value": "0.00",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 7
+      },
+      {
+        "value": "11600 Mosteller Road, Cincinnati, OH",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 8
+      },
+      {
+        "value": "Equipment Breakdown",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 9
+      },
+      {
+        "value": "0.00",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 3,
+        "csv_col": 10
+      },
+      {
+        "value": "PROPERTY Subtotal",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 4,
+        "csv_col": 1
+      },
+      {
+        "value": "12636.79",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 4,
+        "csv_col": 5
+      },
+      {
+        "value": "35679.44",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 4,
+        "csv_col": 6
+      },
+      {
+        "value": "238554.44",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 4,
+        "csv_col": 7
+      },
+      {
+        "value": "190238.21",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 4,
+        "csv_col": 10
+      },
+      {
+        "value": "Grand Total",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 5,
+        "csv_col": 1
+      },
+      {
+        "value": "12636.79",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 5,
+        "csv_col": 5
+      },
+      {
+        "value": "35679.44",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 5,
+        "csv_col": 6
+      },
+      {
+        "value": "238554.44",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 5,
+        "csv_col": 7
+      },
+      {
+        "value": "190238.21",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 5,
+        "csv_col": 10
+      },
+      {
+        "value": "*** CONFIDENTIAL \u2014 This report is intended solely for the named insured and authorized representatives.",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 7,
+        "csv_col": 1
+      },
+      {
+        "value": "*** Data is provided as-is and may not reflect final adjudication of claims.",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 8,
+        "csv_col": 1
+      },
+      {
+        "value": "*** Report generated from carrier system \u2014 verify all figures against original policy documents.",
+        "kind": "string",
+        "origin": "csv.writerow",
+        "csv_row": 9,
+        "csv_col": 1
+      }
+    ],
+    "row_count": 8
+  }
+}

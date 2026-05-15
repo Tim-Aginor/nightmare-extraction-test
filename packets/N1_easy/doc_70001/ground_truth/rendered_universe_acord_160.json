@@ -1,0 +1,5088 @@
+{
+  "schema_version": "1.0",
+  "seed": 70001,
+  "generated_at": "2026-05-04T23:22:59+00:00",
+  "doc_type": "acord_160",
+  "doc": {
+    "format": "pdf",
+    "scan_level": "digital",
+    "strings": [
+      "ACORD 160 (2016/03)",
+      "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+      "The ACORD name and logo are registered marks of ACORD",
+      "ACORD",
+      "\u00ae",
+      "BUSINESSOWNERS APPLICATION",
+      "DATE:",
+      "03/15/2026",
+      "CARRIER:",
+      "Apex Managing General Agency",
+      "AGENCY:",
+      "Texas Commercial Insurance Partners",
+      "CONTACT:",
+      "Sandra Villareal",
+      "I. APPLICANT INFORMATION",
+      "Applicant Name",
+      "Lone Star Property Holdings, LP",
+      "FEIN",
+      "75-4829163",
+      "Mailing Address",
+      "2200 Ross Avenue, Suite 4500",
+      "City / State / Zip",
+      "Dallas, TX 75201",
+      "SIC Code",
+      "6512",
+      "NAICS Code",
+      "531120",
+      "Business Type",
+      "Office",
+      "Entity Type",
+      "Limited Partnership",
+      "Nature of Business",
+      "Commercial real estate investment and property management",
+      "\u2014 office, retail, and mixed-use properties across the Dallas-Fort",
+      "Worth and Houston metropolitan areas",
+      "Years in Business",
+      "24",
+      "Annual Revenue",
+      "$67,000,000.00",
+      "Full-Time Employees",
+      "145",
+      "Part-Time Employees",
+      "28",
+      "Website",
+      "www.lonestarpropertyhold.com",
+      "II. UNDERWRITING QUESTIONS",
+      "1.",
+      "Does the applicant sell or distribute products manufactured by others?",
+      "No",
+      "2.",
+      "Are there any underground storage tanks on premises?",
+      "3.",
+      "Does the applicant store flammable liquids on premises?",
+      "4.",
+      "Are there any alterations or construction in progress?",
+      "5.",
+      "Are there any tenant improvements or betterments?",
+      "6.",
+      "Is the building located within a flood zone?",
+      "7.",
+      "Is the applicant the sole occupant of the building?",
+      "8.",
+      "Is the applicant the building owner or tenant?",
+      "Yes",
+      "9.",
+      "Are there any cooking operations on premises?",
+      "10.",
+      "Does the applicant have any off-premises property exposures?",
+      "11.",
+      "Does the applicant have a burglar alarm system?",
+      "12.",
+      "Are commercial cooking operations (deep fat fryers, char broilers, woks, or commercial kitchen hoods) used on premises?",
+      "13.",
+      "Is the building 100% sprinklered?",
+      "14.",
+      "Does the building have a backup generator?",
+      "III. POLICY INFORMATION",
+      "Policy Number",
+      "CP-LSPH-2025-7801",
+      "NAIC Code",
+      "68074",
+      "Effective Date",
+      "07/01/2025",
+      "Expiration Date",
+      "07/01/2026",
+      "Billing Plan",
+      "Direct Bill \u2014 Quarterly",
+      "Premium",
+      "$403,697.14",
+      "Deductible",
+      "$50,000.00",
+      "Valuation",
+      "Replacement Cost",
+      "IV. COVERAGE / LIMITS",
+      "Property Coverage",
+      "Coverage",
+      "Limit",
+      "Building",
+      "$222,340,000",
+      "Business Personal Property",
+      "$33,432,000",
+      "Business Income with Extra Expense",
+      "$59,212,000",
+      "TOTAL INSURED VALUE",
+      "$314,984,000",
+      "Liability Coverage",
+      "Each Occurrence",
+      "Included",
+      "General Aggregate",
+      "Products/Completed Operations",
+      "Personal & Advertising Injury",
+      "Damage to Premises Rented to You",
+      "Medical Expense (Any One Person)",
+      "V. PREMISES #1 \u2014 LOC-001",
+      "Premises Number",
+      "1",
+      "Location ID",
+      "LOC-001",
+      "Location Address",
+      "8117 Preston Road, Dallas, TX, 75225",
+      "Description / Occupancy",
+      "Construction Details",
+      "Construction Type",
+      "Fire Resistive",
+      "Roof Type",
+      "Shingle",
+      "Protection Class",
+      "4",
+      "Year Built",
+      "2008",
+      "Number of Stories",
+      "18",
+      "Total Area (Sq Ft)",
+      "285,000",
+      "Sprinklered",
+      "Occupancy",
+      "Covered Values",
+      "$62,700,000",
+      "Contents / BPP",
+      "$8,550,000",
+      "Business Income",
+      "$15,200,000",
+      "Total Insured Value",
+      "$86,450,000",
+      "V. PREMISES #2 \u2014 LOC-002",
+      "2",
+      "LOC-002",
+      "5050 Westheimer Road, Houston, TX, 77056",
+      "TPO",
+      "2001",
+      "12",
+      "168,000",
+      "$33,600,000",
+      "$5,040,000",
+      "$8,400,000",
+      "$47,040,000",
+      "V. PREMISES #3 \u2014 LOC-003",
+      "3",
+      "LOC-003",
+      "5060 Westheimer Road, Houston, TX, 77056",
+      "Single-Ply Membrane",
+      "2003",
+      "10",
+      "142,000",
+      "$28,400,000",
+      "$4,260,000",
+      "$7,100,000",
+      "$39,760,000",
+      "V. PREMISES #4 \u2014 LOC-004",
+      "LOC-004",
+      "7301 Lone Star Drive, Plano, TX, 75024",
+      "Mercantile",
+      "Masonry Non-Combustible",
+      "Concrete",
+      "2012",
+      "95,000",
+      "$19,000,000",
+      "$2,850,000",
+      "$5,700,000",
+      "$27,550,000",
+      "V. PREMISES #5 \u2014 LOC-005",
+      "5",
+      "LOC-005",
+      "3200 McKinney Avenue, Dallas, TX, 75204",
+      "2018",
+      "6",
+      "124,000",
+      "$31,000,000",
+      "$4,650,000",
+      "$9,300,000",
+      "$44,950,000",
+      "V. PREMISES #6 \u2014 LOC-006",
+      "LOC-006",
+      "1400 Enclave Parkway, Houston, TX, 77077",
+      "Non-Combustible",
+      "EPDM",
+      "1995",
+      "8",
+      "112,000",
+      "$19,040,000",
+      "$2,856,000",
+      "$5,712,000",
+      "$27,608,000",
+      "V. PREMISES #7 \u2014 LOC-007",
+      "7",
+      "LOC-007",
+      "800 8th Avenue, Fort Worth, TX, 76104",
+      "2015",
+      "78,000",
+      "$17,160,000",
+      "$3,510,000",
+      "$4,680,000",
+      "$25,350,000",
+      "V. PREMISES #8 \u2014 LOC-008",
+      "LOC-008",
+      "1256 Main Street, Southlake, TX, 76092",
+      "2006",
+      "52,000",
+      "$11,440,000",
+      "$1,716,000",
+      "$3,120,000",
+      "$16,276,000",
+      "VI. ADDITIONAL COVERAGES",
+      "Category",
+      "Extra Expense",
+      "Time Element",
+      "$50,000",
+      "DEADBEEF_MISSING_DEDUCTIBLE",
+      "Valuable Papers",
+      "Property",
+      "$25,000",
+      "Applies",
+      "Ordinance or Law \u2014 Coverage A",
+      "Fire Department Service Charge",
+      "$2,500",
+      "Liability",
+      "$1,000,000",
+      "Cyber Liability",
+      "$100,000",
+      "Electronic Data Processing",
+      "Mechanical Breakdown",
+      "Per Project General Aggregate",
+      "Forgery or Alteration",
+      "Crime",
+      "Waiver of Subrogation \u2014 Blanket",
+      "VII. ADDITIONAL INTERESTS",
+      "Type",
+      "Name",
+      "Address",
+      "Loan / Reference Number",
+      "ISAOA/ATIMA",
+      "Huntington National Bank",
+      "P.O. Box 45747, Charlotte, NC 28202",
+      "L-848255659",
+      "As Their Interest May Appear",
+      "M",
+      "&",
+      "T Bank",
+      "P.O. Box 2862, San Francisco, CA 94104",
+      "L-620925734",
+      "First Mortgagee",
+      "First National Bank",
+      "P.O. Box 67759, Minneapolis, MN 55402",
+      "L-951058317",
+      "VIII. SIGNATURE",
+      "Any person who knowingly and with intent to defraud any insurance company or other person files an application for insurance or statement of claim containing any materially false information, or conceals for the purpose of misleading, information concerning any fact material thereto, commits a fraudulent insurance act, which is a crime and subjects such person to criminal and civil penalties.",
+      "Applicant's Signature",
+      "Richard Thornton",
+      "Date",
+      "Print Name",
+      "Title",
+      "Managing Partner",
+      "Agent / Broker Signature",
+      "Agency",
+      "License Number",
+      "AG-225118",
+      "Page 1 of 7",
+      "Page 2 of 7",
+      "Page 3 of 7",
+      "Page 4 of 7",
+      "Page 5 of 7",
+      "Page 6 of 7",
+      "Page 7 of 7"
+    ],
+    "numbers": [
+      160,
+      2016,
+      1993,
+      2026,
+      4829163,
+      2200,
+      4500,
+      75201,
+      6512,
+      531120,
+      67000000.0,
+      145,
+      100,
+      2025,
+      7801,
+      68074,
+      403697.14,
+      50000.0,
+      222340000,
+      33432000,
+      59212000,
+      314984000,
+      1,
+      8117,
+      75225,
+      2008,
+      285000,
+      62700000,
+      8550000,
+      15200000,
+      86450000,
+      2,
+      5050,
+      77056,
+      2001,
+      168000,
+      33600000,
+      5040000,
+      8400000,
+      47040000,
+      3,
+      5060,
+      2003,
+      142000,
+      28400000,
+      4260000,
+      7100000,
+      39760000,
+      4,
+      7301,
+      75024,
+      2012,
+      95000,
+      19000000,
+      2850000,
+      5700000,
+      27550000,
+      5,
+      3200,
+      75204,
+      2018,
+      124000,
+      31000000,
+      4650000,
+      9300000,
+      44950000,
+      6,
+      1400,
+      77077,
+      1995,
+      112000,
+      19040000,
+      2856000,
+      5712000,
+      27608000,
+      7,
+      800,
+      76104,
+      2015,
+      78000,
+      17160000,
+      3510000,
+      4680000,
+      25350000,
+      8,
+      1256,
+      76092,
+      2006,
+      52000,
+      11440000,
+      1716000,
+      3120000,
+      16276000,
+      25000,
+      2500,
+      1000000,
+      100000,
+      45747,
+      28202,
+      848255659,
+      2862,
+      94104,
+      620925734,
+      67759,
+      55402,
+      951058317,
+      225118
+    ],
+    "tokens": [
+      "acord",
+      "160",
+      "2016",
+      "03",
+      "1993-2016",
+      "corporation",
+      "all",
+      "rights",
+      "reserved",
+      "the",
+      "name",
+      "and",
+      "logo",
+      "are",
+      "registered",
+      "marks",
+      "of",
+      "businessowners",
+      "application",
+      "date",
+      "15",
+      "2026",
+      "carrier",
+      "apex",
+      "managing",
+      "general",
+      "agency",
+      "texas",
+      "commercial",
+      "insurance",
+      "partners",
+      "contact",
+      "sandra",
+      "villareal",
+      "applicant",
+      "information",
+      "lone",
+      "star",
+      "property",
+      "holdings",
+      "lp",
+      "fein",
+      "75-4829163",
+      "mailing",
+      "address",
+      "2200",
+      "ross",
+      "avenue",
+      "suite",
+      "4500",
+      "city",
+      "state",
+      "zip",
+      "dallas",
+      "tx",
+      "75201",
+      "sic",
+      "code",
+      "6512",
+      "naics",
+      "531120",
+      "business",
+      "type",
+      "office",
+      "entity",
+      "limited",
+      "partnership",
+      "nature",
+      "real",
+      "estate",
+      "investment",
+      "management",
+      "retail",
+      "mixed-use",
+      "properties",
+      "across",
+      "dallas-fort",
+      "worth",
+      "houston",
+      "metropolitan",
+      "areas",
+      "years",
+      "in",
+      "24",
+      "annual",
+      "revenue",
+      "$67",
+      "000",
+      "000.00",
+      "full-time",
+      "employees",
+      "145",
+      "part-time",
+      "28",
+      "website",
+      "www.lonestarpropertyhold.com",
+      "ii",
+      "underwriting",
+      "questions",
+      "does",
+      "sell",
+      "or",
+      "distribute",
+      "products",
+      "manufactured",
+      "by",
+      "others",
+      "no",
+      "there",
+      "any",
+      "underground",
+      "storage",
+      "tanks",
+      "on",
+      "premises",
+      "store",
+      "flammable",
+      "liquids",
+      "alterations",
+      "construction",
+      "progress",
+      "tenant",
+      "improvements",
+      "betterments",
+      "is",
+      "building",
+      "located",
+      "within",
+      "flood",
+      "zone",
+      "sole",
+      "occupant",
+      "owner",
+      "yes",
+      "cooking",
+      "operations",
+      "10",
+      "have",
+      "off-premises",
+      "exposures",
+      "11",
+      "burglar",
+      "alarm",
+      "system",
+      "12",
+      "deep",
+      "fat",
+      "fryers",
+      "char",
+      "broilers",
+      "woks",
+      "kitchen",
+      "hoods",
+      "used",
+      "13",
+      "100",
+      "sprinklered",
+      "14",
+      "backup",
+      "generator",
+      "iii",
+      "policy",
+      "number",
+      "cp-lsph-2025-7801",
+      "naic",
+      "68074",
+      "effective",
+      "07",
+      "01",
+      "2025",
+      "expiration",
+      "billing",
+      "plan",
+      "direct",
+      "bill",
+      "quarterly",
+      "premium",
+      "$403",
+      "697.14",
+      "deductible",
+      "$50",
+      "valuation",
+      "replacement",
+      "cost",
+      "iv",
+      "coverage",
+      "limits",
+      "limit",
+      "$222",
+      "340",
+      "personal",
+      "$33",
+      "432",
+      "income",
+      "with",
+      "extra",
+      "expense",
+      "$59",
+      "212",
+      "total",
+      "insured",
+      "value",
+      "$314",
+      "984",
+      "liability",
+      "each",
+      "occurrence",
+      "included",
+      "aggregate",
+      "completed",
+      "advertising",
+      "injury",
+      "damage",
+      "to",
+      "rented",
+      "you",
+      "medical",
+      "one",
+      "person",
+      "loc-001",
+      "location",
+      "id",
+      "8117",
+      "preston",
+      "road",
+      "75225",
+      "description",
+      "occupancy",
+      "details",
+      "fire",
+      "resistive",
+      "roof",
+      "shingle",
+      "protection",
+      "class",
+      "year",
+      "built",
+      "2008",
+      "stories",
+      "18",
+      "area",
+      "sq",
+      "ft",
+      "285",
+      "covered",
+      "values",
+      "$62",
+      "700",
+      "contents",
+      "bpp",
+      "$8",
+      "550",
+      "$15",
+      "200",
+      "$86",
+      "450",
+      "loc-002",
+      "5050",
+      "westheimer",
+      "77056",
+      "tpo",
+      "2001",
+      "168",
+      "600",
+      "$5",
+      "040",
+      "400",
+      "$47",
+      "loc-003",
+      "5060",
+      "single-ply",
+      "membrane",
+      "2003",
+      "142",
+      "$28",
+      "$4",
+      "260",
+      "$7",
+      "$39",
+      "760",
+      "loc-004",
+      "7301",
+      "drive",
+      "plano",
+      "75024",
+      "mercantile",
+      "masonry",
+      "non-combustible",
+      "concrete",
+      "2012",
+      "95",
+      "$19",
+      "$2",
+      "850",
+      "$27",
+      "loc-005",
+      "3200",
+      "mckinney",
+      "75204",
+      "2018",
+      "124",
+      "$31",
+      "650",
+      "$9",
+      "300",
+      "$44",
+      "950",
+      "loc-006",
+      "1400",
+      "enclave",
+      "parkway",
+      "77077",
+      "epdm",
+      "1995",
+      "112",
+      "856",
+      "712",
+      "608",
+      "loc-007",
+      "800",
+      "8th",
+      "fort",
+      "76104",
+      "2015",
+      "78",
+      "$17",
+      "$3",
+      "510",
+      "680",
+      "$25",
+      "350",
+      "loc-008",
+      "1256",
+      "main",
+      "street",
+      "southlake",
+      "76092",
+      "2006",
+      "52",
+      "$11",
+      "440",
+      "$1",
+      "716",
+      "120",
+      "$16",
+      "276",
+      "vi",
+      "additional",
+      "coverages",
+      "category",
+      "time",
+      "element",
+      "deadbeef",
+      "missing",
+      "valuable",
+      "papers",
+      "applies",
+      "ordinance",
+      "law",
+      "department",
+      "service",
+      "charge",
+      "500",
+      "cyber",
+      "$100",
+      "electronic",
+      "data",
+      "processing",
+      "mechanical",
+      "breakdown",
+      "per",
+      "project",
+      "forgery",
+      "alteration",
+      "crime",
+      "waiver",
+      "subrogation",
+      "blanket",
+      "vii",
+      "interests",
+      "loan",
+      "reference",
+      "isaoa",
+      "atima",
+      "huntington",
+      "national",
+      "bank",
+      "p.o",
+      "box",
+      "45747",
+      "charlotte",
+      "nc",
+      "28202",
+      "l-848255659",
+      "as",
+      "their",
+      "interest",
+      "may",
+      "appear",
+      "2862",
+      "san",
+      "francisco",
+      "ca",
+      "94104",
+      "l-620925734",
+      "first",
+      "mortgagee",
+      "67759",
+      "minneapolis",
+      "mn",
+      "55402",
+      "l-951058317",
+      "viii",
+      "signature",
+      "who",
+      "knowingly",
+      "intent",
+      "defraud",
+      "company",
+      "other",
+      "files",
+      "an",
+      "for",
+      "statement",
+      "claim",
+      "containing",
+      "materially",
+      "false",
+      "conceals",
+      "purpose",
+      "misleading",
+      "concerning",
+      "fact",
+      "material",
+      "thereto",
+      "commits",
+      "fraudulent",
+      "act",
+      "which",
+      "subjects",
+      "such",
+      "criminal",
+      "civil",
+      "penalties",
+      "richard",
+      "thornton",
+      "print",
+      "title",
+      "partner",
+      "agent",
+      "broker",
+      "license",
+      "ag-225118",
+      "page"
+    ],
+    "rendered_text": "       ACORD BUSINESSOWNERS APPLICATION                                                                                                          ACORD 160 (2016/03)\n       \u00ae\n\n\n       DATE:             03/15/2026                         CARRIER:               Apex Managing General Agency\n\n       AGENCY:              Texas Commercial Insurance Partners                             CONTACT:              Sandra Villareal\n\n         I. APPLICANT INFORMATION\n        Applicant Name                                                                       FEIN\n\n        Lone Star Property Holdings, LP                                                      75-4829163\n        Mailing Address                                                                      City / State / Zip\n\n        2200 Ross Avenue, Suite 4500                                                         Dallas, TX 75201\n        SIC Code                                             NAICS Code                                                   Business Type\n\n        6512                                                 531120                                                       Office\n        Entity Type                                                                          Nature of Business\n\n        Limited Partnership                                                                  Commercial real estate investment and property management\n                                                                                             \u2014 office, retail, and mixed-use properties across the Dallas-Fort\n                                                                                             Worth and Houston metropolitan areas\n        Years in Business                                                                    Annual Revenue\n\n        24                                                                                   $67,000,000.00\n        Full-Time Employees                                  Part-Time Employees                                          Website\n\n        145                                                  28                                                           www.lonestarpropertyhold.com\n\n\n         II. UNDERWRITING QUESTIONS\n           1.      Does the applicant sell or distribute products manufactured by others?                                                                     No\n           2.      Are there any underground storage tanks on premises?                                                                                       No\n           3.      Does the applicant store flammable liquids on premises?                                                                                    No\n           4.      Are there any alterations or construction in progress?                                                                                     No\n           5.      Are there any tenant improvements or betterments?                                                                                          No\n           6.      Is the building located within a flood zone?                                                                                               No\n           7.      Is the applicant the sole occupant of the building?                                                                                        No\n           8.      Is the applicant the building owner or tenant?                                                                                            Yes\n           9.      Are there any cooking operations on premises?                                                                                              No\n          10.      Does the applicant have any off-premises property exposures?                                                                               No\n          11.      Does the applicant have a burglar alarm system?                                                                                           Yes\n                   Are commercial cooking operations (deep fat fryers, char broilers, woks, or commercial kitchen hoods) used on\n          12.                                                                                                                                                 No\n                   premises?\n          13.      Is the building 100% sprinklered?                                                                                                         Yes\n          14.      Does the building have a backup generator?                                                                                                 No\n\n\n         III. POLICY INFORMATION\n        Policy Number                                                                        NAIC Code\n\n        CP-LSPH-2025-7801                                                                    68074\n        Effective Date                                                                       Expiration Date\n\n        07/01/2025                                                                           07/01/2026\n        Billing Plan                                                                         Premium\n\n        Direct Bill \u2014 Quarterly                                                              $403,697.14\n        Deductible                                                                           Valuation\n\n        $50,000.00                                                                           Replacement Cost\n\n\n\n\nACORD 160 (2016/03)                                                                  Page 1 of 7                              \u00a9 1993-2016 ACORD CORPORATION. All rights reserved.\n\n                                                                  The ACORD name and logo are registered marks of ACORD\n\f         IV. COVERAGE / LIMITS\n         Property Coverage\n                                             Coverage                                                                                     Limit\n\n        Building                                                                                                                                      $222,340,000\n\n        Business Personal Property                                                                                                                     $33,432,000\n\n        Business Income with Extra Expense                                                                                                             $59,212,000\n\n        TOTAL INSURED VALUE                                                                                                                           $314,984,000\n\n         Liability Coverage\n                                             Coverage                                                                                     Limit\n\n        Each Occurrence                                                                                                                                    Included\n\n        General Aggregate                                                                                                                                  Included\n\n        Products/Completed Operations                                                                                                                      Included\n\n        Personal & Advertising Injury                                                                                                                      Included\n\n        Damage to Premises Rented to You                                                                                                                   Included\n\n        Medical Expense (Any One Person)                                                                                                                   Included\n\n\n         V. PREMISES #1 \u2014 LOC-001\n        Premises Number                                                                 Location ID\n\n        1                                                                               LOC-001\n        Location Address\n\n        8117 Preston Road, Dallas, TX, 75225\n        Description / Occupancy\n\n        Office\n\n         Construction Details\n        Construction Type                               Roof Type                                                    Protection Class\n\n        Fire Resistive                                  Shingle                                                      4\n        Year Built                                      Number of Stories                                            Total Area (Sq Ft)\n\n        2008                                            18                                                           285,000\n        Sprinklered                                                                     Occupancy\n\n        Yes                                                                             Office\n\n         Covered Values\n        Building                                        Contents / BPP                                               Business Income\n\n        $62,700,000                                     $8,550,000                                                   $15,200,000\n        Total Insured Value\n\n        $86,450,000\n\n\n         V. PREMISES #2 \u2014 LOC-002\n        Premises Number                                                                 Location ID\n\n        2                                                                               LOC-002\n        Location Address\n\n        5050 Westheimer Road, Houston, TX, 77056\n        Description / Occupancy\n\n        Office\n\n         Construction Details\n        Construction Type                               Roof Type                                                    Protection Class\n\n        Fire Resistive                                  TPO                                                          2\n\n\n\n\nACORD 160 (2016/03)                                                             Page 2 of 7                               \u00a9 1993-2016 ACORD CORPORATION. All rights reserved.\n\n                                                             The ACORD name and logo are registered marks of ACORD\n\f        Year Built            Number of Stories                                            Total Area (Sq Ft)\n\n        2001                  12                                                           168,000\n        Sprinklered                                           Occupancy\n\n        Yes                                                   Office\n\n         Covered Values\n        Building              Contents / BPP                                               Business Income\n\n        $33,600,000           $5,040,000                                                   $8,400,000\n        Total Insured Value\n\n        $47,040,000\n\n\n\n\nACORD 160 (2016/03)                                   Page 3 of 7                               \u00a9 1993-2016 ACORD CORPORATION. All rights reserved.\n\n                                   The ACORD name and logo are registered marks of ACORD\n\f         V. PREMISES #3 \u2014 LOC-003\n        Premises Number                                                          Location ID\n\n        3                                                                        LOC-003\n        Location Address\n\n        5060 Westheimer Road, Houston, TX, 77056\n        Description / Occupancy\n\n        Office\n\n         Construction Details\n        Construction Type                        Roof Type                                                    Protection Class\n\n        Fire Resistive                           Single-Ply Membrane                                          1\n        Year Built                               Number of Stories                                            Total Area (Sq Ft)\n\n        2003                                     10                                                           142,000\n        Sprinklered                                                              Occupancy\n\n        Yes                                                                      Office\n\n         Covered Values\n        Building                                 Contents / BPP                                               Business Income\n\n        $28,400,000                              $4,260,000                                                   $7,100,000\n        Total Insured Value\n\n        $39,760,000\n\n\n         V. PREMISES #4 \u2014 LOC-004\n        Premises Number                                                          Location ID\n\n        4                                                                        LOC-004\n        Location Address\n\n        7301 Lone Star Drive, Plano, TX, 75024\n        Description / Occupancy\n\n        Mercantile\n\n         Construction Details\n        Construction Type                        Roof Type                                                    Protection Class\n\n        Masonry Non-Combustible                  Concrete                                                     2\n        Year Built                               Number of Stories                                            Total Area (Sq Ft)\n\n        2012                                     2                                                            95,000\n        Sprinklered                                                              Occupancy\n\n        Yes                                                                      Mercantile\n\n         Covered Values\n        Building                                 Contents / BPP                                               Business Income\n\n        $19,000,000                              $2,850,000                                                   $5,700,000\n        Total Insured Value\n\n        $27,550,000\n\n\n\n\nACORD 160 (2016/03)                                                      Page 4 of 7                               \u00a9 1993-2016 ACORD CORPORATION. All rights reserved.\n\n                                                      The ACORD name and logo are registered marks of ACORD\n\f         V. PREMISES #5 \u2014 LOC-005\n        Premises Number                                                          Location ID\n\n        5                                                                        LOC-005\n        Location Address\n\n        3200 McKinney Avenue, Dallas, TX, 75204\n        Description / Occupancy\n\n        Mercantile\n\n         Construction Details\n        Construction Type                         Roof Type                                                   Protection Class\n\n        Fire Resistive                            TPO                                                         5\n        Year Built                                Number of Stories                                           Total Area (Sq Ft)\n\n        2018                                      6                                                           124,000\n        Sprinklered                                                              Occupancy\n\n        Yes                                                                      Mercantile\n\n         Covered Values\n        Building                                  Contents / BPP                                              Business Income\n\n        $31,000,000                               $4,650,000                                                  $9,300,000\n        Total Insured Value\n\n        $44,950,000\n\n\n         V. PREMISES #6 \u2014 LOC-006\n        Premises Number                                                          Location ID\n\n        6                                                                        LOC-006\n        Location Address\n\n        1400 Enclave Parkway, Houston, TX, 77077\n        Description / Occupancy\n\n        Office\n\n         Construction Details\n        Construction Type                         Roof Type                                                   Protection Class\n\n        Non-Combustible                           EPDM                                                        4\n        Year Built                                Number of Stories                                           Total Area (Sq Ft)\n\n        1995                                      8                                                           112,000\n        Sprinklered                                                              Occupancy\n\n        Yes                                                                      Office\n\n         Covered Values\n        Building                                  Contents / BPP                                              Business Income\n\n        $19,040,000                               $2,856,000                                                  $5,712,000\n        Total Insured Value\n\n        $27,608,000\n\n\n\n\nACORD 160 (2016/03)                                                      Page 5 of 7                               \u00a9 1993-2016 ACORD CORPORATION. All rights reserved.\n\n                                                      The ACORD name and logo are registered marks of ACORD\n\f         V. PREMISES #7 \u2014 LOC-007\n        Premises Number                                                         Location ID\n\n        7                                                                       LOC-007\n        Location Address\n\n        800 8th Avenue, Fort Worth, TX, 76104\n        Description / Occupancy\n\n        Office\n\n         Construction Details\n        Construction Type                        Roof Type                                                   Protection Class\n\n        Fire Resistive                           Shingle                                                     3\n        Year Built                               Number of Stories                                           Total Area (Sq Ft)\n\n        2015                                     5                                                           78,000\n        Sprinklered                                                             Occupancy\n\n        Yes                                                                     Office\n\n         Covered Values\n        Building                                 Contents / BPP                                              Business Income\n\n        $17,160,000                              $3,510,000                                                  $4,680,000\n        Total Insured Value\n\n        $25,350,000\n\n\n         V. PREMISES #8 \u2014 LOC-008\n        Premises Number                                                         Location ID\n\n        8                                                                       LOC-008\n        Location Address\n\n        1256 Main Street, Southlake, TX, 76092\n        Description / Occupancy\n\n        Mercantile\n\n         Construction Details\n        Construction Type                        Roof Type                                                   Protection Class\n\n        Masonry Non-Combustible                  TPO                                                         2\n        Year Built                               Number of Stories                                           Total Area (Sq Ft)\n\n        2006                                     3                                                           52,000\n        Sprinklered                                                             Occupancy\n\n        Yes                                                                     Mercantile\n\n         Covered Values\n        Building                                 Contents / BPP                                              Business Income\n\n        $11,440,000                              $1,716,000                                                  $3,120,000\n        Total Insured Value\n\n        $16,276,000\n\n\n         VI. ADDITIONAL COVERAGES\n                                  Coverage                              Category                             Limit                        Deductible\n\n                                                                                                                                     DEADBEEF_MISSING_DE\n        Extra Expense                                                Time Element                                         $50,000\n                                                                                                                                          DUCTIBLE\n\n        Valuable Papers                                                 Property                                          $25,000          Applies\n\n                                                                                                                                     DEADBEEF_MISSING_DE\n        Ordinance or Law \u2014 Coverage A                                   Property                                          Included\n                                                                                                                                          DUCTIBLE\n\n\n\n\nACORD 160 (2016/03)                                                     Page 6 of 7                               \u00a9 1993-2016 ACORD CORPORATION. All rights reserved.\n\n                                                     The ACORD name and logo are registered marks of ACORD\n\f                                   Coverage                                            Category                             Limit                         Deductible\n\n                                                                                                                                                 DEADBEEF_MISSING_DE\n        Fire Department Service Charge                                                 Property                                        $2,500\n                                                                                                                                                      DUCTIBLE\n\n                                                                                                                                                 DEADBEEF_MISSING_DE\n        Personal & Advertising Injury                                                   Liability                                   $1,000,000\n                                                                                                                                                      DUCTIBLE\n\n        Cyber Liability                                                                 Liability                                    $100,000               Applies\n\n        Electronic Data Processing                                                     Property                                       $50,000               Applies\n\n        Mechanical Breakdown                                                           Property                                      $100,000               Applies\n\n                                                                                                                                                 DEADBEEF_MISSING_DE\n        Per Project General Aggregate                                                   Liability                                     Included\n                                                                                                                                                      DUCTIBLE\n\n        Forgery or Alteration                                                            Crime                                        $25,000               Applies\n\n                                                                                                                                                 DEADBEEF_MISSING_DE\n        Waiver of Subrogation \u2014 Blanket                                                 Liability                                     Included\n                                                                                                                                                      DUCTIBLE\n\n\n         VII. ADDITIONAL INTERESTS\n                     Type                              Name                                                  Address                              Loan / Reference Number\n\n        ISAOA/ATIMA                    Huntington National Bank                  P.O. Box 45747, Charlotte, NC 28202                             L-848255659\n\n        As Their Interest May\n                                       M&T Bank                                  P.O. Box 2862, San Francisco, CA 94104                          L-620925734\n        Appear\n\n        First Mortgagee                First National Bank                       P.O. Box 67759, Minneapolis, MN 55402                           L-951058317\n\n\n         VIII. SIGNATURE\n         Any person who knowingly and with intent to defraud any insurance company or other person files an application for insurance or statement of claim containing any\n         materially false information, or conceals for the purpose of misleading, information concerning any fact material thereto, commits a fraudulent insurance act, which is\n         a crime and subjects such person to criminal and civil penalties.\n\n        Applicant's Signature                                                                  Date\n\n        Richard Thornton                                                                       03/15/2026\n        Print Name                                                                             Title\n\n        Richard Thornton                                                                       Managing Partner\n\n\n        Agent / Broker Signature                                                               Date\n\n        Sandra Villareal                                                                       03/15/2026\n        Agency                                                                                 License Number\n\n        Texas Commercial Insurance Partners                                                    AG-225118\n\n\n\n\nACORD 160 (2016/03)                                                                    Page 7 of 7                             \u00a9 1993-2016 ACORD CORPORATION. All rights reserved.\n\n                                                                    The ACORD name and logo are registered marks of ACORD\n\f",
+    "elements": [
+      {
+        "value": "ACORD 160 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 1,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "ACORD",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 0,
+        "y": 4.0
+      },
+      {
+        "value": "\u00ae",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 0,
+        "y": 4.0
+      },
+      {
+        "value": "BUSINESSOWNERS APPLICATION",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 62.208,
+        "y": 14.0
+      },
+      {
+        "value": "ACORD 160 (2016/03)",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 399.168,
+        "y": 16.0
+      },
+      {
+        "value": "DATE:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 0,
+        "y": 6.0
+      },
+      {
+        "value": "03/15/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 41.472,
+        "y": 4.0
+      },
+      {
+        "value": "CARRIER:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 171.072,
+        "y": 6.0
+      },
+      {
+        "value": "Apex Managing General Agency",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 233.28,
+        "y": 4.0
+      },
+      {
+        "value": "AGENCY:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 0,
+        "y": 5.0
+      },
+      {
+        "value": "Texas Commercial Insurance Partners",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 51.84,
+        "y": 3.0
+      },
+      {
+        "value": "CONTACT:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 259.2,
+        "y": 5.0
+      },
+      {
+        "value": "Sandra Villareal",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 321.408,
+        "y": 3.0
+      },
+      {
+        "value": "I. APPLICANT INFORMATION",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Applicant Name",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Lone Star Property Holdings, LP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "FEIN",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "75-4829163",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Mailing Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2200 Ross Avenue, Suite 4500",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "City / State / Zip",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Dallas, TX 75201",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "SIC Code",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "6512",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "NAICS Code",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "531120",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Entity Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 26
+      },
+      {
+        "value": "Limited Partnership",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 26
+      },
+      {
+        "value": "Nature of Business",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Commercial real estate investment and property management",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "\u2014 office, retail, and mixed-use properties across the Dallas-Fort",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Worth and Houston metropolitan areas",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Years in Business",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "24",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Annual Revenue",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "$67,000,000.00",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Full-Time Employees",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "145",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Part-Time Employees",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "28",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Website",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "www.lonestarpropertyhold.com",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "II. UNDERWRITING QUESTIONS",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "1.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 208.0
+      },
+      {
+        "value": "Does the applicant sell or distribute products manufactured by others?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 208.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 208.0
+      },
+      {
+        "value": "2.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 193.0
+      },
+      {
+        "value": "Are there any underground storage tanks on premises?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 193.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 193.0
+      },
+      {
+        "value": "3.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 178.0
+      },
+      {
+        "value": "Does the applicant store flammable liquids on premises?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 178.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 178.0
+      },
+      {
+        "value": "4.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 163.0
+      },
+      {
+        "value": "Are there any alterations or construction in progress?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 163.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 163.0
+      },
+      {
+        "value": "5.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 148.0
+      },
+      {
+        "value": "Are there any tenant improvements or betterments?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 148.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 148.0
+      },
+      {
+        "value": "6.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 133.0
+      },
+      {
+        "value": "Is the building located within a flood zone?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 133.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 133.0
+      },
+      {
+        "value": "7.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 118.0
+      },
+      {
+        "value": "Is the applicant the sole occupant of the building?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 118.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 118.0
+      },
+      {
+        "value": "8.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 103.0
+      },
+      {
+        "value": "Is the applicant the building owner or tenant?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 103.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 103.0
+      },
+      {
+        "value": "9.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 88.0
+      },
+      {
+        "value": "Are there any cooking operations on premises?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 88.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 88.0
+      },
+      {
+        "value": "10.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 73.0
+      },
+      {
+        "value": "Does the applicant have any off-premises property exposures?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 73.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 73.0
+      },
+      {
+        "value": "11.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 58.0
+      },
+      {
+        "value": "Does the applicant have a burglar alarm system?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 58.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 58.0
+      },
+      {
+        "value": "12.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 37.5
+      },
+      {
+        "value": "Are commercial cooking operations (deep fat fryers, char broilers, woks, or commercial kitchen hoods) used on premises?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 32.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 37.5
+      },
+      {
+        "value": "13.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 17.0
+      },
+      {
+        "value": "Is the building 100% sprinklered?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 17.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 17.0
+      },
+      {
+        "value": "14.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Does the building have a backup generator?",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 29.92,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 455.008,
+        "y": 2.0
+      },
+      {
+        "value": "III. POLICY INFORMATION",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Policy Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "CP-LSPH-2025-7801",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "NAIC Code",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "68074",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Effective Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "07/01/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Expiration Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "07/01/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Billing Plan",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Direct Bill \u2014 Quarterly",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Premium",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "$403,697.14",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Deductible",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$50,000.00",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Valuation",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Replacement Cost",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "ACORD 160 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 2,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "IV. COVERAGE / LIMITS",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Property Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 713.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 71.0
+      },
+      {
+        "value": "Limit",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 71.0
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 54.0
+      },
+      {
+        "value": "$222,340,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 54.0
+      },
+      {
+        "value": "Business Personal Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 37.0
+      },
+      {
+        "value": "$33,432,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 37.0
+      },
+      {
+        "value": "Business Income with Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 20.0
+      },
+      {
+        "value": "$59,212,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 20.0
+      },
+      {
+        "value": "TOTAL INSURED VALUE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "$314,984,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "Liability Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 610.2
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 105.0
+      },
+      {
+        "value": "Limit",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 105.0
+      },
+      {
+        "value": "Each Occurrence",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 88.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 88.0
+      },
+      {
+        "value": "General Aggregate",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 71.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 71.0
+      },
+      {
+        "value": "Products/Completed Operations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 54.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 54.0
+      },
+      {
+        "value": "Personal & Advertising Injury",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 4,
+        "y": 37.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 37.0
+      },
+      {
+        "value": "Damage to Premises Rented to You",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 20.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 20.0
+      },
+      {
+        "value": "Medical Expense (Any One Person)",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 315.04,
+        "y": 3.0
+      },
+      {
+        "value": "V. PREMISES #1 \u2014 LOC-001",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Premises Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Location ID",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "LOC-001",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Location Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "8117 Preston Road, Dallas, TX, 75225",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Description / Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 366.2
+      },
+      {
+        "value": "Construction Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Fire Resistive",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Roof Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Shingle",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Protection Class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Year Built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2008",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Number of Stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "18",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Total Area (Sq Ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "285,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 265.2
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$62,700,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Contents / BPP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "$8,550,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Income",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "$15,200,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Total Insured Value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$86,450,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "V. PREMISES #2 \u2014 LOC-002",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Premises Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Location ID",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "LOC-002",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Location Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "5050 Westheimer Road, Houston, TX, 77056",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Description / Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 84.2
+      },
+      {
+        "value": "Construction Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Fire Resistive",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Roof Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "TPO",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Protection Class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "ACORD 160 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 3,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 3,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 3,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "Year Built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2001",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Number of Stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "12",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Total Area (Sq Ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "168,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 52.8,
+        "y": 667.2
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$33,600,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Contents / BPP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "$5,040,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Income",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "$8,400,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Total Insured Value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$47,040,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "ACORD 160 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 4,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 4,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 4,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "V. PREMISES #3 \u2014 LOC-003",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Premises Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Location ID",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "LOC-003",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Location Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "5060 Westheimer Road, Houston, TX, 77056",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Description / Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 620.2
+      },
+      {
+        "value": "Construction Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Fire Resistive",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Roof Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Single-Ply Membrane",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Protection Class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Year Built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2003",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Number of Stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "10",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Total Area (Sq Ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "142,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 519.2
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$28,400,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Contents / BPP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "$4,260,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Income",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "$7,100,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Total Insured Value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$39,760,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "V. PREMISES #4 \u2014 LOC-004",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Premises Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Location ID",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "LOC-004",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Location Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "7301 Lone Star Drive, Plano, TX, 75024",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Description / Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Mercantile",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 338.2
+      },
+      {
+        "value": "Construction Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Masonry Non-Combustible",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Roof Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Concrete",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Protection Class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Year Built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2012",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Number of Stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Total Area (Sq Ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "95,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Mercantile",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 52.8,
+        "y": 237.2
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$19,000,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Contents / BPP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "$2,850,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Income",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "$5,700,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Total Insured Value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$27,550,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "ACORD 160 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 5,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 5,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 5,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "V. PREMISES #5 \u2014 LOC-005",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Premises Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Location ID",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "LOC-005",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Location Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "3200 McKinney Avenue, Dallas, TX, 75204",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Description / Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Mercantile",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 620.2
+      },
+      {
+        "value": "Construction Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Fire Resistive",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Roof Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "TPO",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Protection Class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Year Built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2018",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Number of Stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "6",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Total Area (Sq Ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "124,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Mercantile",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 519.2
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$31,000,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Contents / BPP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "$4,650,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Income",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "$9,300,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Total Insured Value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$44,950,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "V. PREMISES #6 \u2014 LOC-006",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Premises Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "6",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Location ID",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "LOC-006",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Location Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "1400 Enclave Parkway, Houston, TX, 77077",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Description / Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 338.2
+      },
+      {
+        "value": "Construction Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Non-Combustible",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Roof Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "EPDM",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Protection Class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Year Built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "1995",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Number of Stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "8",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Total Area (Sq Ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "112,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 5,
+        "x": 52.8,
+        "y": 237.2
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$19,040,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Contents / BPP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "$2,856,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Income",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "$5,712,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Total Insured Value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$27,608,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 5,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "ACORD 160 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 6,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 6,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 6,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "V. PREMISES #7 \u2014 LOC-007",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Premises Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "7",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Location ID",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "LOC-007",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Location Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "800 8th Avenue, Fort Worth, TX, 76104",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Description / Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 620.2
+      },
+      {
+        "value": "Construction Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Fire Resistive",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Roof Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Shingle",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Protection Class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Year Built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2015",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Number of Stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Total Area (Sq Ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "78,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Office",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 519.2
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$17,160,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Contents / BPP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "$3,510,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Income",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "$4,680,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Total Insured Value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$25,350,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "V. PREMISES #8 \u2014 LOC-008",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Premises Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "8",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Location ID",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "LOC-008",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Location Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "1256 Main Street, Southlake, TX, 76092",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Description / Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Mercantile",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Construction Details",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 338.2
+      },
+      {
+        "value": "Construction Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Masonry Non-Combustible",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Roof Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "TPO",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Protection Class",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Year Built",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "2006",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Number of Stories",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Total Area (Sq Ft)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "52,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Sprinklered",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Occupancy",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Mercantile",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Covered Values",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 52.8,
+        "y": 237.2
+      },
+      {
+        "value": "Building",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$11,440,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Contents / BPP",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "$1,716,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 174.8,
+        "y": 2
+      },
+      {
+        "value": "Business Income",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "$3,120,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 347.6,
+        "y": 2
+      },
+      {
+        "value": "Total Insured Value",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "$16,276,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 6,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "VI. ADDITIONAL COVERAGES",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 71.0
+      },
+      {
+        "value": "Category",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 211.36,
+        "y": 71.0
+      },
+      {
+        "value": "Limit",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 304.672,
+        "y": 71.0
+      },
+      {
+        "value": "Deductible",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 418.72,
+        "y": 71.0
+      },
+      {
+        "value": "Extra Expense",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 50.0
+      },
+      {
+        "value": "Time Element",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 211.36,
+        "y": 50.0
+      },
+      {
+        "value": "$50,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 304.672,
+        "y": 50.0
+      },
+      {
+        "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 418.72,
+        "y": 45.0
+      },
+      {
+        "value": "Valuable Papers",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 29.0
+      },
+      {
+        "value": "Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 211.36,
+        "y": 29.0
+      },
+      {
+        "value": "$25,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 304.672,
+        "y": 29.0
+      },
+      {
+        "value": "Applies",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 418.72,
+        "y": 29.0
+      },
+      {
+        "value": "Ordinance or Law \u2014 Coverage A",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 4,
+        "y": 8.0
+      },
+      {
+        "value": "Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 211.36,
+        "y": 8.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 304.672,
+        "y": 8.0
+      },
+      {
+        "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 6,
+        "x": 418.72,
+        "y": 3.0
+      },
+      {
+        "value": "ACORD 160 (2016/03)",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 7,
+        "x": 18.0,
+        "y": 15.5
+      },
+      {
+        "value": "\u00a9 1993-2016 ACORD CORPORATION. All rights reserved.",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 7,
+        "x": 594.0,
+        "y": 15.5
+      },
+      {
+        "value": "The ACORD name and logo are registered marks of ACORD",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 7,
+        "x": 306.0,
+        "y": 2.5
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 171.0
+      },
+      {
+        "value": "Category",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 171.0
+      },
+      {
+        "value": "Limit",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 171.0
+      },
+      {
+        "value": "Deductible",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 171.0
+      },
+      {
+        "value": "Fire Department Service Charge",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 150.0
+      },
+      {
+        "value": "Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 150.0
+      },
+      {
+        "value": "$2,500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 150.0
+      },
+      {
+        "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 145.0
+      },
+      {
+        "value": "Personal & Advertising Injury",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 4,
+        "y": 124.0
+      },
+      {
+        "value": "Liability",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 124.0
+      },
+      {
+        "value": "$1,000,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 124.0
+      },
+      {
+        "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 119.0
+      },
+      {
+        "value": "Cyber Liability",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 103.0
+      },
+      {
+        "value": "Liability",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 103.0
+      },
+      {
+        "value": "$100,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 103.0
+      },
+      {
+        "value": "Applies",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 103.0
+      },
+      {
+        "value": "Electronic Data Processing",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 87.0
+      },
+      {
+        "value": "Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 87.0
+      },
+      {
+        "value": "$50,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 87.0
+      },
+      {
+        "value": "Applies",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 87.0
+      },
+      {
+        "value": "Mechanical Breakdown",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 71.0
+      },
+      {
+        "value": "Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 71.0
+      },
+      {
+        "value": "$100,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 71.0
+      },
+      {
+        "value": "Applies",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 71.0
+      },
+      {
+        "value": "Per Project General Aggregate",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 50.0
+      },
+      {
+        "value": "Liability",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 50.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 50.0
+      },
+      {
+        "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 45.0
+      },
+      {
+        "value": "Forgery or Alteration",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 29.0
+      },
+      {
+        "value": "Crime",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 29.0
+      },
+      {
+        "value": "$25,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 29.0
+      },
+      {
+        "value": "Applies",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 29.0
+      },
+      {
+        "value": "Waiver of Subrogation \u2014 Blanket",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 8.0
+      },
+      {
+        "value": "Liability",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 211.36,
+        "y": 8.0
+      },
+      {
+        "value": "Included",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 304.672,
+        "y": 8.0
+      },
+      {
+        "value": "DEADBEEF_MISSING_DEDUCTIBLE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 3.0
+      },
+      {
+        "value": "VII. ADDITIONAL INTERESTS",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 61.0
+      },
+      {
+        "value": "Name",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 97.312,
+        "y": 61.0
+      },
+      {
+        "value": "Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 221.728,
+        "y": 61.0
+      },
+      {
+        "value": "Loan / Reference Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 61.0
+      },
+      {
+        "value": "ISAOA/ATIMA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 45.0
+      },
+      {
+        "value": "Huntington National Bank",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 97.312,
+        "y": 45.0
+      },
+      {
+        "value": "P.O. Box 45747, Charlotte, NC 28202",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 221.728,
+        "y": 45.0
+      },
+      {
+        "value": "L-848255659",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 45.0
+      },
+      {
+        "value": "As Their Interest May Appear",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 19.0
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 97.312,
+        "y": 24.0
+      },
+      {
+        "value": "&",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 97.312,
+        "y": 24.0
+      },
+      {
+        "value": "T Bank",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 97.312,
+        "y": 24.0
+      },
+      {
+        "value": "P.O. Box 2862, San Francisco, CA 94104",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 221.728,
+        "y": 24.0
+      },
+      {
+        "value": "L-620925734",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 24.0
+      },
+      {
+        "value": "First Mortgagee",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "First National Bank",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 97.312,
+        "y": 3.0
+      },
+      {
+        "value": "P.O. Box 67759, Minneapolis, MN 55402",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 221.728,
+        "y": 3.0
+      },
+      {
+        "value": "L-951058317",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 418.72,
+        "y": 3.0
+      },
+      {
+        "value": "VIII. SIGNATURE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 6,
+        "y": 1.0
+      },
+      {
+        "value": "Any person who knowingly and with intent to defraud any insurance company or other person files an application for insurance or statement of claim containing any materially false information, or conceals for the purpose of misleading, information concerning any fact material thereto, commits a fraudulent insurance act, which is a crime and subjects such person to criminal and civil penalties.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 7,
+        "x": 52.8,
+        "y": 404.2
+      },
+      {
+        "value": "Applicant's Signature",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Richard Thornton",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "03/15/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Print Name",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Richard Thornton",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Title",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Managing Partner",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Agent / Broker Signature",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Sandra Villareal",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "03/15/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Agency",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "Texas Commercial Insurance Partners",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "value": "License Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "AG-225118",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 7,
+        "x": 261.2,
+        "y": 2
+      },
+      {
+        "value": "Page 1 of 7",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 1,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 2 of 7",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 2,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 3 of 7",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 3,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 4 of 7",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 4,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 5 of 7",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 5,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 6 of 7",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 6,
+        "x": 306.0,
+        "y": 15.5
+      },
+      {
+        "value": "Page 7 of 7",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 7,
+        "x": 306.0,
+        "y": 15.5
+      }
+    ],
+    "page_count": 7
+  }
+}

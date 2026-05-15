@@ -1,0 +1,74 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": null,
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "AC-0078032",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-KCB-2025-5581",
+    "effective_date": "2025-08-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania."
+  },
+  "coverages_requested": [],
+  "checkboxes": {},
+  "additional_fields": {
+    "naic_code": "28339",
+    "attached_to_form_number": "ACORD 130",
+    "attached_to_form_title": "Workers Compensation Application",
+    "date": "2026-03-14",
+    "endorsement_schedule": [
+      "CG 24 26 04 13 \u2014 Amendment of Aggregate Limits of Insurance - Per Project",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion Endorsement",
+      "CG 25 03 05 09 \u2014 Designated Construction Project(s) General Aggregate Limit",
+      "WC 00 01 00 \u2014 Workers Compensation and Employers Liability Insurance Policy",
+      "CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+      "WC 00 03 01A \u2014 Alternate Employer Endorsement"
+    ],
+    "additional_insured": "Woodbridge Realty Management Inc. as required by written contract. Coverage is primary and non-contributory.",
+    "special_conditions": "Primary and Non-Contributory wording applies per policy endorsement.",
+    "location_descriptions": [
+      {
+        "location_id": "LOC-001",
+        "description": "Corporate Headquarters",
+        "address": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222",
+        "occupancy": "Office"
+      },
+      {
+        "location_id": "LOC-002",
+        "description": "Main Equipment Yard & Warehouse",
+        "address": "4500 Butler Street, Pittsburgh, PA 15201",
+        "occupancy": "Warehouse"
+      },
+      {
+        "location_id": "LOC-003",
+        "description": "Fabrication Shop",
+        "address": "4520 Butler Street, Pittsburgh, PA 15201",
+        "occupancy": "Manufacturing"
+      },
+      {
+        "location_id": "LOC-004",
+        "description": "South Hills Branch Office",
+        "address": "3000 Village Run Road, Wexford, PA 15090",
+        "occupancy": "Office"
+      }
+    ],
+    "subcontractor_requirements": "Evidence of Workers' Compensation coverage is required from all subcontractors prior to commencing work on the project."
+  },
+  "remarks": "Endorsement Schedule, Additional Insured, Special Conditions, Location Descriptions, Subcontractor Requirements, and Nature of Operations as detailed in additional_fields. The insured's principal operations consist of general contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Entity type: Corporation."
+}

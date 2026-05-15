@@ -1,0 +1,64 @@
+{
+  "document_info": {
+    "document_type": "Supplemental fleet and driver schedule",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": 40
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "40 listed drivers with experience ranging from 4 to 33 years",
+      "Fleet includes a mix of newer power units and trailers, with many 2022-2024 model year vehicles",
+      "Several drivers show clear motor vehicle reports"
+    ],
+    "concerns": [
+      "Motor vehicle reports show a high frequency of minor violations across the driver pool",
+      "Two drivers are flagged for major violations",
+      "Multiple drivers have two recorded accidents",
+      "One driver has only 4 years of experience"
+    ],
+    "loss_history_summary": "Motor vehicle reports indicate predominantly minor violations, with 2 drivers showing major violations (Scott Murphy and Jack Reed). Several drivers have accident activity, including Andre Mitchell, Patrick Murphy, Carlos Ramirez, Helen Anderson, Dennis Kelly, Scott Murphy, and Jack Reed with 2 accidents each. A few drivers are listed as clear with no violations or accidents."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH",
+      "PA",
+      "IL",
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": 40,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Motor Vehicle Reports sheet lists each driver with status, violation count, and accident count. Most drivers are marked 'Minor Violations' with 1 violation and 0-2 accidents. Clear drivers include Kevin Anderson, Sean O'Brien, Katherine Taylor, Paul Nelson, and Rebecca Kim. Major violations are shown for Scott Murphy and Jack Reed, each with 3 violations and 2 accidents."
+  }
+}

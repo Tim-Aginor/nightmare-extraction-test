@@ -1,0 +1,105 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance Schedule",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "Policy numbers by year \u2014 2024 (Nationwide): 0000004484; 2023 (Berkshire Hathaway Guard): 7WC0009156; 2022 (Zurich Insurance Group): WC00004453; 2021 (Nationwide Insurance): WC-0005600; 2020 (CNA Financial): WC002734-001. Aggregate program premium reported; per-line premium not itemized."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "Policy numbers by year \u2014 2024 (Nationwide): 7GL0009677; 2023 (Berkshire Hathaway Guard): GL00007868; 2022 (Zurich Insurance Group): GL00005151; 2021 (Nationwide Insurance): GL002774-001; 2020 (CNA Financial): GL-0002491. Aggregate program premium reported; per-line premium not itemized."
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "Policy numbers by year \u2014 2024 (Nationwide): CA002528-001; 2023 (Berkshire Hathaway Guard): 7CA0002407; 2022 (Zurich Insurance Group): 7CA0007230; 2021 (Nationwide Insurance): CA008547-001; 2020 (CNA Financial): 7CA0001189. Aggregate program premium reported; per-line premium not itemized."
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "Policy numbers by year \u2014 2024 (Nationwide): CP00001358; 2023 (Berkshire Hathaway Guard): CP-4153-9932; 2022 (Zurich Insurance Group): CP-2415-5091; 2021 (Nationwide Insurance): CP00004044; 2020 (CNA Financial): CP006087-001. Aggregate program premium reported; per-line premium not itemized."
+    },
+    {
+      "coverage_type": "Commercial Insurance Program (Aggregate \u2014 All Lines)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "Total program premiums by year: 2024 (Nationwide Insurance) $1,634,721.63 \u2014 13 claims \u2014 No cancellation; 2023 (Berkshire Hathaway Guard) $1,476,849.96 \u2014 10 claims \u2014 No cancellation; 2022 (Zurich Insurance Group) $1,369,245.71 \u2014 4 claims \u2014 CANCELLED; 2021 (Nationwide Insurance) $1,487,006.51 \u2014 15 claims \u2014 No cancellation; 2020 (CNA Financial) $1,581,292.51 \u2014 6 claims \u2014 No cancellation. Loss ratios not reported for any year."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellation in 4 of 5 policy years (2020, 2021, 2023, 2024)",
+      "Continuous commercial insurance coverage maintained over the full 5-year period without gaps",
+      "Claim frequency declined sharply in 2022 (4 claims), demonstrating potential responsiveness to loss control",
+      "All carriers are recognized national or specialty insurers (Nationwide, Berkshire Hathaway Guard, Zurich, CNA Financial)",
+      "Premium levels have remained relatively stable over 5 years ($1.37M\u2013$1.63M range)"
+    ],
+    "concerns": [
+      "Policy cancellation by Zurich Insurance Group in 2022 \u2014 reason not disclosed",
+      "Elevated claim count in 2021 (15 claims), the highest in the 5-year window",
+      "Claim count resurging in 2023 (10) and 2024 (13) after the 2022 low of 4",
+      "Four different carriers over five years indicates potential market instability or underwriting concerns",
+      "Loss ratios not provided for any policy year \u2014 limits underwriting assessment",
+      "48 total claims across all lines over 5 years represents meaningful frequency exposure",
+      "No breakdown of claims by line of coverage or severity provided"
+    ],
+    "loss_history_summary": "5-year prior insurance history (2020\u20132024) covering Workers Compensation, General Liability, Commercial Auto, and Commercial Property. Total of 48 claims recorded across all years and lines. Annual claim counts: 2020 \u2014 6; 2021 \u2014 15; 2022 \u2014 4; 2023 \u2014 10; 2024 \u2014 13. Aggregate program premiums: 2020 \u2014 $1,581,292.51; 2021 \u2014 $1,487,006.51; 2022 \u2014 $1,369,245.71; 2023 \u2014 $1,476,849.96; 2024 \u2014 $1,634,721.63. One mid-term or non-renewal cancellation occurred in 2022 (Zurich Insurance Group). Loss ratios, claim severities, and per-line claim breakdowns not reported."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "48 total claims reported over 5 policy years across all lines of coverage. Breakdown by year: 2020 (CNA Financial) \u2014 6 claims; 2021 (Nationwide Insurance) \u2014 15 claims (5-year high); 2022 (Zurich Insurance Group) \u2014 4 claims (5-year low), policy subsequently cancelled; 2023 (Berkshire Hathaway Guard) \u2014 10 claims; 2024 (Nationwide Insurance) \u2014 13 claims. No loss ratio, reserve, or paid/incurred data provided. Claim counts do not distinguish between lines of coverage."
+  }
+}

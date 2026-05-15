@@ -1,0 +1,72 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": "2016/03",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Dwelling / Building",
+      "limit": null,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property / Contents",
+      "limit": 1260000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Loss of Use / Business Income",
+      "limit": 2340000,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "perils_basic": "unchecked",
+    "perils_broad": "unchecked",
+    "perils_special": "checked"
+  },
+  "additional_fields": {
+    "date_issued": "2026-03-16",
+    "agency_contact": "Patricia Nowak",
+    "agency_address": "One PPG Place, Suite 3100, Pittsburgh, PA 15222",
+    "agency_phone": "(412) 555-0287",
+    "naic_code": "28339",
+    "property_location_address": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222",
+    "description_of_property": "Office",
+    "deductible": "25000",
+    "mortgagee_name": "M&T Bank",
+    "mortgagee_rank": "First Mortgagee",
+    "mortgagee_address": "345 Jackson Street",
+    "mortgagee_city_state_zip": "Pittsburgh, PA 15521",
+    "cancellation_days_notice": "30",
+    "authorized_representative": "Joseph Kowalczyk",
+    "authorized_representative_date": "2026-03-16",
+    "dwelling_building_limit_note": "DEADBEEF_MISSING_FIELD"
+  },
+  "remarks": "Coverage provided on Special form. Property is fully sprinklered. Construction type: Fire Resistive."
+}

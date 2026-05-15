@@ -1,0 +1,64 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": "4215",
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": "Building: 84110000; Contents: 30320000; Business Income: 57954000; Coinsurance: 80%; Deductible: 50000",
+      "expiring_premium": 235710.77,
+      "notes": "Building and Personal Property Coverage Form CP 00 10 10 12. Endorsements include Equipment Breakdown Coverage, Business Income and Extra Expense Coverage Form, Agreed Value, and Utility Services \u2014 Direct Damage.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2025-06-18",
+    "document_type": "Commercial Property Policy / Building and Personal Property Coverage Form",
+    "prepared_by": "Standard Insurance Company",
+    "recipient": "Great Lakes Freight Systems, Inc."
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "SIC Code: 4215. Description: Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors",
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": "2026-06-01",
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": 172384000
+  },
+  "risk_highlights": {
+    "concerns": [],
+    "loss_history_summary": null,
+    "positives": [
+      "Agreed Value endorsement included, suspending coinsurance condition for scheduled property during the declarations period.",
+      "Equipment Breakdown Coverage included.",
+      "Business Income and Extra Expense Coverage included.",
+      "Utility Services \u2014 Direct Damage endorsement included."
+    ]
+  }
+}

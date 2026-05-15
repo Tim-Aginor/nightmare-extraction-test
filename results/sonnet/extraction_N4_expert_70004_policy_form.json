@@ -1,0 +1,95 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-08-01",
+    "prepared_by": "Steel City Insurance Group",
+    "recipient": "Keystone Commercial Builders, Inc."
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": 1158173.43,
+      "notes": "Form Number WC 00 00 04. Includes Employers Liability with $1,000,000 limits for EL Each Accident, EL Disease Policy, and EL Disease Each."
+    },
+    {
+      "coverage_type": "Employers Liability - Each Accident",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Policy",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Each",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience Modification Factor of 0.86 indicates below-average loss experience relative to industry",
+      "Waiver of Subrogation endorsement in place",
+      "Alternate Employer Endorsement included for leased/assigned employees",
+      "All States Endorsement provides broad geographic coverage",
+      "Terrorism Risk Insurance Act Endorsement included"
+    ],
+    "concerns": [
+      "Construction operations across multiple trades including carpentry, electrical, plumbing, masonry, and painting \u2014 inherently high-risk work classifications",
+      "Masonry (code 5022) carries the highest rate at 9.15 with a 'G' (governing) classification",
+      "Significant estimated annual remuneration across multiple high-hazard classification codes"
+    ],
+    "loss_history_summary": "Experience Modification Factor of 0.86 suggests favorable loss history relative to industry average."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Workers Compensation and Employers Liability Insurance Policy issued by Hallmark Insurance Group to Keystone Commercial Builders, Inc. Policy Number WC-KCB-2025-5580, effective 08/01/2025 to 08/01/2026. Total premium of $1,158,173.43. Produced by Steel City Insurance Group.",
+    "operations_description": "SIC Code 1521 \u2014 General contracting for commercial and institutional construction including healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Classification codes include: Carpentry NOC (5403), Electrical Wiring (5190), Plumbing NOC (5183), Masonry NOC (5022), Painting Interior (5474), Contractors Project Manager/Superintendent (5606), and Clerical Office Employees NOC (8810).",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

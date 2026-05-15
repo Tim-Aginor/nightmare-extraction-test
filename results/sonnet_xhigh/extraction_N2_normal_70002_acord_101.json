@@ -1,0 +1,144 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2016/03",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": "AC-633272",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Inland Marine Equipment Floater",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "document_date": "2026-03-15",
+    "naic_code": "44251",
+    "attached_to_form_number": "ACORD 126",
+    "attached_form_title": "Commercial General Liability Section",
+    "endorsement_schedule": [
+      {
+        "number": 1,
+        "form": "CA 04 44 10 13",
+        "description": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+      },
+      {
+        "number": 2,
+        "form": "CG 21 39 10 93",
+        "description": "Contractual Liability Limitation"
+      },
+      {
+        "number": 3,
+        "form": "IL 09 35 01 15",
+        "description": "Exclusion of Certified Acts of Terrorism"
+      },
+      {
+        "number": 4,
+        "form": "WC 00 03 01A",
+        "description": "Alternate Employer Endorsement"
+      },
+      {
+        "number": 5,
+        "form": "CG 20 26 04 13",
+        "description": "Additional Insured - Designated Person or Organization"
+      },
+      {
+        "number": 6,
+        "form": "IM 99 01 09 09",
+        "description": "Inland Marine Equipment Floater"
+      }
+    ],
+    "additional_insured": {
+      "name": "Navigator Realty Management Inc.",
+      "coverage_applies_to": [
+        "General Liability",
+        "Umbrella"
+      ],
+      "basis": "As required by the underlying contract"
+    },
+    "special_conditions": [
+      "Primary and Non-Contributory wording applies per policy endorsement.",
+      "Waiver of Subrogation applies in favor of the certificate holder as required by written contract.",
+      "Per Project Aggregate Limit applies as indicated on the endorsement schedule."
+    ],
+    "locations": [
+      {
+        "location_id": "LOC-001",
+        "description": "Rickenbacker Logistics Center - A",
+        "address": "6500 Alum Creek Drive",
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "43217",
+        "occupancy": "Warehouse"
+      },
+      {
+        "location_id": "LOC-002",
+        "description": "Rickenbacker Logistics Center - B",
+        "address": "6600 Alum Creek Drive",
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "43217",
+        "occupancy": "Warehouse"
+      },
+      {
+        "location_id": "LOC-003",
+        "description": "Cleveland Distribution Hub",
+        "address": "4800 Tiedeman Road",
+        "city": "Brooklyn",
+        "state": "OH",
+        "zip": "44144",
+        "occupancy": "Warehouse"
+      },
+      {
+        "location_id": "LOC-004",
+        "description": "Dayton Manufacturing Facility",
+        "address": "2100 Kuntz Road",
+        "city": "Dayton",
+        "state": "OH",
+        "zip": "45404",
+        "occupancy": "Manufacturing"
+      }
+    ],
+    "subcontractor_requirements": {
+      "coverage_type": "Commercial General Liability",
+      "min_per_occurrence_limit": 1000000,
+      "min_general_aggregate_limit": 2000000
+    }
+  },
+  "remarks": "ENDORSEMENT SCHEDULE: (1) CA 04 44 10 13 \u2013 Waiver of Transfer of Rights of Recovery Against Others to Us; (2) CG 21 39 10 93 \u2013 Contractual Liability Limitation; (3) IL 09 35 01 15 \u2013 Exclusion of Certified Acts of Terrorism; (4) WC 00 03 01A \u2013 Alternate Employer Endorsement; (5) CG 20 26 04 13 \u2013 Additional Insured - Designated Person or Organization; (6) IM 99 01 09 09 \u2013 Inland Marine Equipment Floater. ADDITIONAL INSURED: Navigator Realty Management Inc. is an Additional Insured under the General Liability and Umbrella policies as required by the underlying contract. SPECIAL CONDITIONS: Primary and Non-Contributory wording applies per policy endorsement. Waiver of Subrogation applies in favor of the certificate holder as required by written contract. Per Project Aggregate Limit applies as indicated on the endorsement schedule. LOCATION DESCRIPTIONS: LOC-001: Rickenbacker Logistics Center - A \u2013 6500 Alum Creek Drive, Columbus, OH 43217 (Occupancy: Warehouse); LOC-002: Rickenbacker Logistics Center - B \u2013 6600 Alum Creek Drive, Columbus, OH 43217 (Occupancy: Warehouse); LOC-003: Cleveland Distribution Hub \u2013 4800 Tiedeman Road, Brooklyn, OH 44144 (Occupancy: Warehouse); LOC-004: Dayton Manufacturing Facility \u2013 2100 Kuntz Road, Dayton, OH 45404 (Occupancy: Manufacturing). SUBCONTRACTOR REQUIREMENTS: All subcontractors must maintain Commercial General Liability with limits not less than $1,000,000 per occurrence and $2,000,000 general aggregate. NATURE OF OPERATIONS: The insured's principal operations consist of industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio. Entity type: LLC."
+}

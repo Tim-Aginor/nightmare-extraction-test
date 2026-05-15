@@ -1,0 +1,112 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": null,
+    "prepared_by": "Hallmark Insurance Group",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": "7011",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "General Liability - Each Occurrence",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": 108425.47,
+      "notes": "Form GL 00 01 04 13"
+    },
+    {
+      "coverage_type": "General Liability - General Aggregate",
+      "current_limit": 2000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "General Liability - Products Completed Ops Aggregate",
+      "current_limit": 2000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Personal & Advertising Injury",
+      "current_limit": 500000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Damage to Rented Premises",
+      "current_limit": 50000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Medical Expense",
+      "current_limit": 10000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Deductible",
+      "current_limit": 5000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": null
+    }
+  ],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [
+      "Exclusion - Designated Operations/Premises (CG 21 44) attached",
+      "Additional Insured endorsements for Owners, Lessees or Contractors suggest contractor/construction exposure"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

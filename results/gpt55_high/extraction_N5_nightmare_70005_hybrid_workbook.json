@@ -1,0 +1,60 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [],
+  "document_info": {
+    "date": null,
+    "document_type": "Fleet schedule and motor vehicle report extract",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 40,
+    "radius_of_operation": null,
+    "vehicle_count": 37
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": null,
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Motor vehicle reports show 39 total violations across the driver schedule.",
+      "Motor vehicle reports show 40 total accidents across the driver schedule.",
+      "Two drivers are listed with major violations: Scott Murphy and Jack Reed.",
+      "Several drivers have two reported accidents, including Andre Mitchell, Patrick Murphy, Carlos Ramirez, Scott Murphy, Helen Anderson, Jack Reed, and Dennis Kelly.",
+      "Fleet includes substantial heavy-truck exposure, including 12 extra heavy trucks, 3 heavy trucks, and 13 trailers."
+    ],
+    "loss_history_summary": "MVR data lists 40 drivers: 5 clear drivers, 32 drivers with minor violation status, 2 drivers with major violation status, and 1 driver with accident status. Total listed MVR activity includes 39 violations and 40 accidents.",
+    "positives": [
+      "Fleet schedule includes 37 vehicles, with a significant portion being newer model years 2023 and 2024.",
+      "Driver schedule includes 40 drivers with an average listed experience of approximately 19 years.",
+      "Five drivers are listed as clear on the motor vehicle reports."
+    ]
+  }
+}

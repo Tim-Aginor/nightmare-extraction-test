@@ -1,0 +1,503 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "policy_number_property": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "property_deductible": {
+      "value": 75000,
+      "rendered_as": "$75,000.00"
+    },
+    "valuation_method": {
+      "value": "Actual Cash Value"
+    },
+    "coinsurance_property": {
+      "value": 80.0
+    },
+    "location_count": {
+      "value": 9
+    },
+    "blanket_number": {
+      "value": "BLK-5224"
+    },
+    "blanket_type": {
+      "value": "Contents"
+    }
+  },
+  "doc_type": "acord_140",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "name": "Rickenbacker Logistics Center - A",
+      "construction": "Non-Combustible",
+      "roof_type": "Shingle",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 425000,
+      "occupancy": "Warehouse",
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 34000000,
+      "contents_value": 8500000,
+      "bi_value": 12750000,
+      "tiv": 55250000,
+      "rendered_values": {
+        "building_value": "$34,000,000.00",
+        "contents_value": "$8,500,000.00",
+        "bi_value": "$12,750,000.00",
+        "tiv": "$55,250,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "7 miles",
+        "distance_to_hydrant": "2653 ft",
+        "fire_district": "District 6",
+        "sprinkler_type": "Deluge",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2019,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2024
+      }
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "name": "Rickenbacker Logistics Center - B",
+      "construction": "Non-Combustible",
+      "roof_type": "TPO",
+      "year_built": 2016,
+      "stories": 1,
+      "square_feet": 380000,
+      "occupancy": "Warehouse",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 30400000,
+      "contents_value": 7600000,
+      "bi_value": 11400000,
+      "tiv": 49400000,
+      "rendered_values": {
+        "building_value": "$30,400,000.00",
+        "contents_value": "$7,600,000.00",
+        "bi_value": "$11,400,000.00",
+        "tiv": "$49,400,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "2673 ft",
+        "fire_district": "District 16",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2024,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      }
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip_code": "44144",
+      "name": "Cleveland Distribution Hub",
+      "construction": "Non-Combustible",
+      "roof_type": "EPDM",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 295000,
+      "occupancy": "Warehouse",
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 20650000,
+      "contents_value": 5900000,
+      "bi_value": 8850000,
+      "tiv": 35400000,
+      "rendered_values": {
+        "building_value": "$20,650,000.00",
+        "contents_value": "$5,900,000.00",
+        "bi_value": "$8,850,000.00",
+        "tiv": "$35,400,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "2134 ft",
+        "fire_district": "District 15",
+        "sprinkler_type": "Dry Pipe",
+        "sprinkler_coverage": "75%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2013,
+        "plumbing_year": 2014,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      }
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip_code": "45404",
+      "name": "Dayton Manufacturing Facility",
+      "construction": "Joisted Masonry",
+      "roof_type": "Metal",
+      "year_built": 1992,
+      "stories": 1,
+      "square_feet": 185000,
+      "occupancy": "Manufacturing",
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 11100000,
+      "contents_value": 5550000,
+      "bi_value": 6660000,
+      "tiv": 23310000,
+      "rendered_values": {
+        "building_value": "$11,100,000.00",
+        "contents_value": "$5,550,000.00",
+        "bi_value": "$6,660,000.00",
+        "tiv": "$23,310,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Joisted Masonry",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "1482 ft",
+        "fire_district": "District 12",
+        "sprinkler_type": "Dry Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Local Alarm Only"
+      },
+      "improvements": {
+        "heating_year": 2017,
+        "plumbing_year": 2017,
+        "roofing_year": 2009,
+        "wiring_year": 2001
+      }
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip_code": "45241",
+      "name": "Cincinnati Cross-Dock Terminal",
+      "construction": "Non-Combustible",
+      "roof_type": "Built-Up",
+      "year_built": 2019,
+      "stories": 1,
+      "square_feet": 220000,
+      "occupancy": "Warehouse",
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 19800000,
+      "contents_value": 4400000,
+      "bi_value": 7920000,
+      "tiv": 32120000,
+      "rendered_values": {
+        "building_value": "$19,800,000.00",
+        "contents_value": "$4,400,000.00",
+        "bi_value": "$7,920,000.00",
+        "tiv": "$32,120,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "1270 ft",
+        "fire_district": "District 19",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "85%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      }
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "name": "Toledo Industrial Park - Building 1",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "Metal",
+      "year_built": 2004,
+      "stories": 1,
+      "square_feet": 165000,
+      "occupancy": "Warehouse",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 11550000,
+      "contents_value": 3300000,
+      "bi_value": 4950000,
+      "tiv": 19800000,
+      "rendered_values": {
+        "building_value": "$11,550,000.00",
+        "contents_value": "$3,300,000.00",
+        "bi_value": "$4,950,000.00",
+        "tiv": "$19,800,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "8 miles",
+        "distance_to_hydrant": "2454 ft",
+        "fire_district": "District 13",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "75%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2023,
+        "roofing_year": 2026,
+        "wiring_year": 2025
+      }
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43607",
+      "name": "Toledo Industrial Park - Building 2",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "EPDM",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 142000,
+      "occupancy": "Manufacturing",
+      "protection_class": 3,
+      "sprinklered": false,
+      "building_value": 8520000,
+      "contents_value": 4260000,
+      "bi_value": 4260000,
+      "tiv": 17040000,
+      "rendered_values": {
+        "building_value": "$8,520,000.00",
+        "contents_value": "$4,260,000.00",
+        "bi_value": "$4,260,000.00",
+        "tiv": "$17,040,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "2484 ft",
+        "fire_district": "District 7",
+        "sprinkler_type": "None",
+        "sprinkler_coverage": "N/A"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Local Alarm Only"
+      },
+      "improvements": {
+        "heating_year": 2025,
+        "plumbing_year": 2010,
+        "roofing_year": 2021,
+        "wiring_year": 2014
+      }
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "zip_code": "44685",
+      "name": "Akron Flex Space",
+      "construction": "Non-Combustible",
+      "roof_type": "Metal",
+      "year_built": 2011,
+      "stories": 1,
+      "square_feet": 128000,
+      "occupancy": "Warehouse",
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 10240000,
+      "contents_value": 2560000,
+      "bi_value": 5120000,
+      "tiv": 17920000,
+      "rendered_values": {
+        "building_value": "$10,240,000.00",
+        "contents_value": "$2,560,000.00",
+        "bi_value": "$5,120,000.00",
+        "tiv": "$17,920,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "2 miles",
+        "distance_to_hydrant": "2000 ft",
+        "fire_district": "District 9",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      }
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "name": "Corporate Administrative Office",
+      "construction": "Fire Resistive",
+      "roof_type": "TPO",
+      "year_built": 2006,
+      "stories": 1,
+      "square_feet": 8500,
+      "occupancy": "Office",
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 425000,
+      "bi_value": 680000,
+      "tiv": 1105000,
+      "rendered_values": {
+        "building_value": "\u2014",
+        "contents_value": "$425,000.00",
+        "bi_value": "$680,000.00",
+        "tiv": "$1,105,000.00"
+      },
+      "ownership": "Tenant",
+      "construction_type_rendered": "Tenant \u2014 contents & BI only",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "1036 ft",
+        "fire_district": "District 12",
+        "sprinkler_type": "Deluge",
+        "sprinkler_coverage": "90%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2024
+      }
+    }
+  ],
+  "blanket_summary": {
+    "total_building": 146260000.0,
+    "total_contents": 42495000.0,
+    "total_bi": 62590000.0,
+    "total_tiv": 251345000.0,
+    "rendered_values": {
+      "total_building": "$146,260,000.00",
+      "total_contents": "$42,495,000.00",
+      "total_bi": "$62,590,000.00",
+      "total_tiv": "$251,345,000.00"
+    },
+    "blanket_number": "BLK-5224",
+    "blanket_type": "Contents"
+  },
+  "interest_holders": [
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "Regions Bank",
+      "address": "P.O. Box 16098, El Paso, TX 79901",
+      "loan_number": "L-446846716"
+    },
+    {
+      "type": "Loss Payee",
+      "name": "ABC Equipment Leasing Corp.",
+      "address": "P.O. Box 29249, Clarksville, TN 37040",
+      "loan_number": "L-787056076"
+    },
+    {
+      "type": "Additional Insured",
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 41583, Fargo, ND 58102",
+      "loan_number": "L-907030999"
+    }
+  ]
+}

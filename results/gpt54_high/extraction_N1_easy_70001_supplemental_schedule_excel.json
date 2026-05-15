@@ -1,0 +1,55 @@
+{
+  "document_info": {
+    "document_type": "Carrier History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations indicated for policy years 2020 through 2024",
+      "Claim-free years shown for 2021 and 2023"
+    ],
+    "concerns": [
+      "Claims reported in 2020, 2022, and 2024"
+    ],
+    "loss_history_summary": "Prior insurance history shows 1 claim in 2024, 0 claims in 2023, 1 claim in 2022, 0 claims in 2021, and 1 claim in 2020. Loss ratio values were not provided. No cancellations were indicated in any listed year."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Carrier history provided for policy years 2020 through 2024 with carrier, policy number, premium, claims, and cancellation status.",
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "2024: CNA Financial, policy CP-5690-6189, premium 414601.77, 1 claim, no cancellation. 2023: Zurich Insurance Group, policy 7CP0006249, premium 423914.72, 0 claims, no cancellation. 2022: American International Group, policy CP006315-001, premium 447842.42, 1 claim, no cancellation. 2021: Auto-Owners Insurance, policy 0000006024, premium 470199.5, 0 claims, no cancellation. 2020: Berkshire Hathaway Guard, policy 7CP0004214, premium 467047.27, 1 claim, no cancellation."
+  }
+}

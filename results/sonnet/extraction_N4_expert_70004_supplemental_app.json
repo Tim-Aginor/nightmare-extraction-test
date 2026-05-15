@@ -1,0 +1,95 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-14",
+    "prepared_by": "Patricia Nowak",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 42,
+    "annual_revenue": 95000000,
+    "employee_count": 470
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "Policy Number WC-KCB-2025-5580; Effective Date 08/01/2025; 13 claims in 2024, no cancellation"
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Berkshire Hathaway Guard",
+      "expiring_premium": 1476849.96,
+      "notes": "2023 policy; 10 claims, no cancellation"
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 1369245.71,
+      "notes": "2022 policy; 4 claims, policy was cancelled"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "Formal written safety program documented",
+      "Return-to-work or modified duty program in place",
+      "OSHA 300 logs maintained and regular job-site safety audits conducted",
+      "42 years in business with 28 years under current management",
+      "Sprinkler systems present at 4 of 5 locations",
+      "Applicant performs demolition or blasting operations (disclosed)"
+    ],
+    "concerns": [
+      "No written contracts with all subcontractors",
+      "Certificates of insurance not required from all subcontractors before work begins",
+      "Hold-harmless agreements not obtained from all subcontractors",
+      "Hazardous materials used or encountered in operations",
+      "Operations performed above 4 stories",
+      "40% of work performed by subcontractors",
+      "Increasing claims trend: 4 claims (2022), 10 claims (2023), 13 claims (2024)",
+      "Policy cancellation occurred in 2022 with Zurich Insurance Group",
+      "LOC-005 warehouse (28,000 sq ft) is not sprinklered"
+    ],
+    "loss_history_summary": "Three-year loss history: 2022 - 4 claims ($1,369,245.71 premium, cancelled); 2023 - 10 claims ($1,476,849.96 premium, no cancellation); 2024 - 13 claims ($1,634,721.63 premium, no cancellation). Claims trending upward year over year."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Hours of Operation: Mon-Fri 7:00 AM - 3:30 PM. Three largest projects in past 3 years: 1) $1.2M restaurant build-out, 2) $800K medical office renovation, 3) $650K church addition.",
+    "safety_programs": "Formal safety program: Yes. Formal written safety program: Yes. Return-to-work or modified duty program: Yes. OSHA 300 logs maintained and regular job-site safety audits conducted: Yes. Demolition or blasting operations performed: Yes.",
+    "claims_narrative": "2024 (Nationwide Insurance): 13 claims, premium $1,634,721.63, no cancellation. 2023 (Berkshire Hathaway Guard): 10 claims, premium $1,476,849.96, no cancellation. 2022 (Zurich Insurance Group): 4 claims, premium $1,369,245.71, cancellation: Yes."
+  }
+}
