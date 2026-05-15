@@ -75,9 +75,7 @@ results/                  # Pre-run extractions per cohort (5 models × 3 effort
 ├── gemini_pro/, gemini_pro_high/, gemini_pro_xhigh/
 └── analysis/             # Derived analyses (paired stats, recall, alias audit)
 examples/
-├── baseline_N1/          # Slice copy of N1 Easy with extractions inline
-├── hallucinations/       # Two deep-dive cases (financial statement, ACORD 45)
-├── timeouts/             # Source PDFs for the docs that timed out at HIGH/XHIGH
+├── hallucinations/       # Two deep-dive cases (financial statement N3, ACORD 45 N5)
 └── README.md
 results_aggregate/        # Cross-model aggregate outputs (hallucination report, field breakdown, paired stats, etc.)
 fields.json               # Field specification
@@ -176,9 +174,11 @@ export GOOGLE_API_KEY=...
 ```
 
 The extraction runs hit network timeouts on a handful of long
-scan-heavy docs at HIGH/XHIGH effort (see `examples/timeouts/` for the
-seven repeatable cases) — those rows show up as missing entries in the
-per-cohort scores rather than failing the whole run.
+scan-heavy docs at HIGH/XHIGH effort — seven repeatable cases, all in
+`packets/N4_expert/` and `packets/N5_nightmare/`: loss_run + loss_run_excel
+on N4, loss_run + loss_run_excel + loss_run_csv + driver_schedule +
+acord_127 on N5. Those rows show up as missing entries in the per-cohort
+scores rather than failing the whole run.
 
 ### Scoring your own extractor against the sample
 
@@ -195,10 +195,7 @@ python ~/nightmare-benchmark/scripts/score.py \
 
 The 15 frontier-model cohorts under
 `results/<model>[_high|_xhigh]/extraction_<packet>_<doc_key>.json` are
-the side-by-side comparables. The convenience slice under
-`examples/baseline_N1/N1_easy_70001/extractions/<model>/<doc_key>.json`
-keeps the N1 cohort in one place if you only want to spot-check that
-tier.
+the side-by-side comparables.
 
 ## What's measured
 
@@ -375,9 +372,10 @@ for the full list of provider-side asymmetries.
 Anthropic is set explicitly to 300s in default mode and 1200s under
 reasoning — Sonnet 4.6 on N4/N5 loss runs at high effort exceeds the
 SDK default deterministically. The 1200s ceiling covers the slowest
-observed cases; runs above it are reported as timeouts (see `examples/
-timeouts/`). Provider-side asymmetry; called out because we couldn't
-match it without losing Anthropic reasoning runs to the client.
+observed cases; runs above it are reported as timeouts (the seven
+repeatable timeout docs are listed earlier in "Level 3"). Provider-side
+asymmetry; called out because we couldn't match it without losing
+Anthropic reasoning runs to the client.
 
 **Reasoning effort and provider defaults.** The full run tested each
 model at default, HIGH, and XHIGH effort. Default behavior is not
