@@ -1,0 +1,72 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Industrial property portfolio consisting primarily of warehouse/distribution facilities, manufacturing facilities, flex space, and a corporate administrative office in Ohio.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_carrier": "Liberty Mutual Insurance",
+      "current_limit": "251345000 total insured value",
+      "expiring_premium": 392002.31,
+      "notes": "Schedule includes 9 locations in Ohio with building, contents, and business income values. Loss summary shows 2 property claims with 202875 paid and 238554 incurred.",
+      "requested_limit": "251345000 total insured value"
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Property schedule / insurance submission data",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance: 2024 Liberty Mutual Insurance premium 392002.31 with 0 claims; 2023 Hartford Financial Services premium 419914.35 with 0 claims; 2022 Chubb Limited premium 456514.1 with 0 claims; 2021 Hartford Financial Services premium 458666.38 with 1 claim. Loss Summary: Property coverage, 2 claim count, 202875 total paid, 238554 total incurred.",
+    "executive_summary": null,
+    "operations_description": "The insured schedule includes industrial properties in Ohio: warehouse/distribution centers, manufacturing facilities, flex space, and a corporate administrative office. Locations include Rickenbacker Logistics Center A and B in Columbus, Cleveland Distribution Hub in Brooklyn, Dayton Manufacturing Facility, Cincinnati Cross-Dock Terminal, Toledo Industrial Park Buildings 1 and 2, Akron Flex Space in Uniontown, and a Corporate Administrative Office in Columbus.",
+    "safety_programs": "Most locations are sprinklered. LOC-007 Toledo Industrial Park - Building 2 is listed as not sprinklered."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Large property schedule with total insured value of 251345000.",
+      "All scheduled locations are concentrated in Ohio.",
+      "LOC-007 Toledo Industrial Park - Building 2 is not sprinklered.",
+      "Some manufacturing occupancies are present, including Dayton Manufacturing Facility and Toledo Industrial Park - Building 2.",
+      "Property loss summary reports 2 claims with 238554 total incurred."
+    ],
+    "loss_history_summary": "Loss Summary shows Property coverage with 2 claims, 202875 total paid, and 238554 total incurred. Prior insurance table shows 0 claims in 2024, 2023, and 2022, and 1 claim in 2021.",
+    "positives": [
+      "9-location schedule with most properties identified as warehouse/distribution or industrial facilities.",
+      "Most buildings are non-combustible, masonry non-combustible, or fire resistive construction.",
+      "8 of 9 locations are sprinklered.",
+      "Prior insurance history shows no claims in 2024, 2023, or 2022."
+    ]
+  }
+}

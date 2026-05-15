@@ -1,0 +1,69 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "CANCELLATION REQUEST / POLICY RELEASE"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2500",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-HCHP-2025-3350",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Service Insurance Advisors",
+    "producer_code": "AG-550869"
+  },
+  "document_date": "2026-03-15",
+  "producer_phone": "(512) 555-0654",
+  "producer_fax": "(512) 695-7763",
+  "producer_license_number": null,
+  "cancellation_date": "2026-04-01",
+  "cancellation_reason": "Insured's Request",
+  "checkboxes": [
+    {
+      "field": "CGL",
+      "value": "Yes"
+    },
+    {
+      "field": "Auto",
+      "value": "No"
+    },
+    {
+      "field": "WC",
+      "value": "Yes"
+    },
+    {
+      "field": "Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella",
+      "value": "No"
+    },
+    {
+      "field": "Insured's Request",
+      "value": "Yes"
+    },
+    {
+      "field": "Non-Payment of Premium",
+      "value": "No"
+    },
+    {
+      "field": "Underwriting",
+      "value": "No"
+    },
+    {
+      "field": "Non-Renewal",
+      "value": "No"
+    },
+    {
+      "field": "Other",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

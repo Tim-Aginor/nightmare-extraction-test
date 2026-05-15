@@ -1,0 +1,68 @@
+{
+  "checkboxes": [
+    {
+      "field": "Basic",
+      "value": "No"
+    },
+    {
+      "field": "Broad",
+      "value": "No"
+    },
+    {
+      "field": "Special",
+      "value": "Yes"
+    }
+  ],
+  "document_date": "2025-03-10",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 27",
+    "form_title": "Evidence of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "Hillcrest Insurance Group",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "insured_address": "601 Congress Avenue, Suite 2500",
+    "insured_city": "Austin",
+    "insured_name": "HH Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": "CP HCHP-2025-3837",
+    "producer_code": null,
+    "producer_name": "Capital Insurance Advisors"
+  },
+  "interests": [
+    {
+      "address": "1000 Broadway Street, Austin, TX 25444",
+      "interest_type": "Mortgagee; First Mortgage",
+      "loan_number": "2839",
+      "name": "Wells Fargo Bank, N.A."
+    }
+  ],
+  "locations": [
+    {
+      "address": "604 Brazos Street",
+      "bi_value": 10687500,
+      "building_value": 28500000,
+      "city": "Austin",
+      "construction": null,
+      "contents_value": 7125000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Hotel",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": null,
+      "tiv": 46312500,
+      "year_built": null,
+      "zip": "78701"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 25000,
+  "remarks": "Coverage provided on Special Form. Property is fully sprinklered. Coinsurance not applicable."
+}

@@ -1,0 +1,462 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc."
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Boulevard"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "binder_number": {
+      "value": "BND-070005"
+    },
+    "binder_date": {
+      "value": "2026-03-11",
+      "rendered_as": "03/11/2026"
+    },
+    "producer_name": {
+      "value": "Transportation Insurance Specialists"
+    },
+    "producer_contact": {
+      "value": "David Reinhardt",
+      "locations": [
+        {
+          "page": 4,
+          "x": 308.0,
+          "y": 373.7,
+          "width": 64.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_phone": {
+      "value": "(614) 555-0493"
+    },
+    "producer_fax": {
+      "value": "(614) 267-6839"
+    },
+    "producer_email": {
+      "value": "dreinhardt@tisgroup.com"
+    },
+    "policy_number_wc": {
+      "value": "WC GLFS 2025 8820"
+    },
+    "premium_wc": {
+      "value": 1170824.99,
+      "rendered_as": "$1,170,824.99"
+    },
+    "form_type_wc": {
+      "value": "statutory"
+    },
+    "policy_number_gl": {
+      "value": "gl GLFS 2025 8821"
+    },
+    "premium_gl": {
+      "value": 153014.13,
+      "rendered_as": "153,014.13"
+    },
+    "deductible_gl": {
+      "value": 5000,
+      "rendered_as": "5,000.00"
+    },
+    "form_type_gl": {
+      "value": "occurrence"
+    },
+    "limit_gl_each_occurrence": {
+      "value": 2000000.0,
+      "rendered_as": "2,000,000.00"
+    },
+    "limit_gl_general_aggregate": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "limit_gl_products_completed_ops": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "limit_gl_personal_advertising": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "limit_gl_damage_rented_premises": {
+      "value": 500000,
+      "rendered_as": "500,000.00"
+    },
+    "limit_gl_medical_expense": {
+      "value": 5000,
+      "rendered_as": "5,000.00"
+    },
+    "limit_gl_stop_gap_el_each_accident": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "limit_gl_stop_gap_el_disease_policy": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "limit_gl_stop_gap_el_disease_each_employee": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "policy_number_auto": {
+      "value": "CAGLFS20258822"
+    },
+    "premium_auto": {
+      "value": 262046.75,
+      "rendered_as": "$262,046.75"
+    },
+    "deductible_auto": {
+      "value": 5000,
+      "rendered_as": "$5,000.00"
+    },
+    "form_type_auto": {
+      "value": "occurrence"
+    },
+    "limit_auto_combined_single_limit": {
+      "value": 5000000.0,
+      "rendered_as": "$5,000,000.00"
+    },
+    "limit_auto_uninsured_motorist": {
+      "value": 500000.0,
+      "rendered_as": "$500,000.00"
+    },
+    "limit_auto_medical_payments": {
+      "value": 10000.0,
+      "rendered_as": "$10,000.00"
+    },
+    "policy_number_property": {
+      "value": "cpGLFS20258823"
+    },
+    "premium_property": {
+      "value": 235710.77,
+      "rendered_as": "$235,710.77"
+    },
+    "deductible_property": {
+      "value": 50000,
+      "rendered_as": "$50,000.00"
+    },
+    "form_type_property": {
+      "value": "special"
+    },
+    "limit_property_building": {
+      "value": 54110000,
+      "rendered_as": "$54,110,000.00"
+    },
+    "limit_property_contents": {
+      "value": 30320000,
+      "rendered_as": "$30,320,000.00"
+    },
+    "limit_property_business_income": {
+      "value": 57954000,
+      "rendered_as": "$57,954,000.00"
+    },
+    "limit_property_coinsurance": {
+      "value": 80.0,
+      "rendered_as": "80%"
+    },
+    "policy_number_umbrella": {
+      "value": "SIC CU025454"
+    },
+    "premium_umbrella": {
+      "value": 492350.69,
+      "rendered_as": "$492,350.69"
+    },
+    "form_type_umbrella": {
+      "value": "occurrence"
+    },
+    "limit_umbrella_per_occurrence": {
+      "value": 10000000.0,
+      "rendered_as": "$10,000,000.00"
+    },
+    "limit_umbrella_aggregate": {
+      "value": 10000000.0,
+      "rendered_as": "$10,000,000.00"
+    },
+    "limit_umbrella_retention": {
+      "value": 50000.0,
+      "rendered_as": "$50,000.00"
+    },
+    "policy_number_mtc": {
+      "value": "SICMT032788"
+    },
+    "premium_mtc": {
+      "value": 20000.0,
+      "rendered_as": "$20,000.00"
+    },
+    "deductible_mtc": {
+      "value": 1000,
+      "rendered_as": "$1,000.00"
+    },
+    "form_type_mtc": {
+      "value": "occurrence"
+    },
+    "limit_mtc_per_conveyance": {
+      "value": 100000,
+      "rendered_as": "$100,000.00"
+    },
+    "limit_mtc_per_loss": {
+      "value": 1000000,
+      "rendered_as": "$1,000,000.00"
+    },
+    "coinsurance_property": {
+      "value": 80.0,
+      "rendered_as": "80%"
+    }
+  },
+  "doc_type": "acord_75",
+  "expiring_carriers": [
+    {
+      "year": 2024,
+      "carrier": "Hanover Insurance Group",
+      "premium": 2088513.96
+    },
+    {
+      "year": 2023,
+      "carrier": "Hartford Financial Services",
+      "premium": 2074475.35
+    },
+    {
+      "year": 2022,
+      "carrier": "Auto-Owners Insurance",
+      "premium": 2014565.01
+    }
+  ],
+  "endorsements": [
+    {
+      "coverage": "Workers' Compensation",
+      "form_code": "BWC U-153",
+      "description": "Ohio Workers' Compensation Application"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_code": "WC 00 03 01A",
+      "description": "Alternate Employer Endorsement"
+    },
+    {
+      "coverage": "Workers' Compensation",
+      "form_code": "BWC C-5",
+      "description": "Ohio Employer Application for Coverage"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 00 01 04 13",
+      "description": "Commercial General Liability Coverage Form"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "IL 00 21 09 08",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "IL 00 17 11 98",
+      "description": "Common Policy Conditions"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 04 42",
+      "description": "Stop Gap Employers' Liability Coverage Endorsement (OH)"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 20 10 04 13",
+      "description": "Additional Insured \u2014 Owners, Lessees or Contractors"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 24 04 05 09",
+      "description": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 20 37 04 13",
+      "description": "Additional Insured \u2014 Owners, Lessees or Contractors (Completed Ops)"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 20 26 04 13",
+      "description": "Additional Insured - Designated Person or Organization"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "IL 09 85 01 15",
+      "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "General Liability",
+      "form_code": "CG 21 49 09 99",
+      "description": "Total Pollution Exclusion With a Hostile Fire Exception"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "IL 00 21 09 08",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "IL 00 17 11 98",
+      "description": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "CA 34 01 10 13",
+      "description": "Motor Carrier Coverage Form"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "MCS-90 (12 92)",
+      "description": "Endorsement for Motor Carrier Policies of Insurance for Public Liability"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "CA 99 10 10 13",
+      "description": "Drive Other Car Coverage - Broadened Coverage for Named Individuals"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "CA 99 54 03 15",
+      "description": "Hired Auto Physical Damage Coverage"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "CA 04 44 10 13",
+      "description": "Waiver of Transfer of Rights of Recovery Against Others to Us"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "IL 09 85 01 15",
+      "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "CA 99 48 03 06",
+      "description": "Pollution Liability \u2014 Broadened Coverage for Covered Autos"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_code": "CA 20 48 02 99",
+      "description": "Designated Insured"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 00 10 10 12",
+      "description": "Building and Personal Property Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 00 30 10 12",
+      "description": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 10 30 10 12",
+      "description": "Causes of Loss \u2014 Special Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 00 21 09 08",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 00 17 11 98",
+      "description": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 01 40 07 06",
+      "description": "Ordinance or Law Coverage"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 09 85 01 15",
+      "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_code": "CU 00 01 04 13",
+      "description": "Commercial Umbrella Liability Coverage Form"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_code": "CU 21 19 01 15",
+      "description": "Underlying Insurance Schedule"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_code": "CU 21 22 04 13",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_code": "CU 24 01 04 13",
+      "description": "Designated Underlying Insurance Endorsement"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_code": "CU 21 28 04 13",
+      "description": "Exclusion of Specific Accidents, Products, Work or Locations"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_code": "CU 21 34 04 13",
+      "description": "Following Form Endorsement \u2014 GL, Auto, EL"
+    },
+    {
+      "coverage": "Umbrella / Excess",
+      "form_code": "IL 09 85 01 15",
+      "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "mtc",
+      "form_code": "IL 00 17 11 98",
+      "description": "Common Policy Conditions"
+    },
+    {
+      "coverage": "mtc",
+      "form_code": "IL 00 21 09 08",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "mtc",
+      "form_code": "CC 00 01 12 11",
+      "description": "Motor Truck Cargo Coverage Form"
+    },
+    {
+      "coverage": "mtc",
+      "form_code": "CC 70 02 04 13",
+      "description": "Earned Freight Coverage Endorsement"
+    },
+    {
+      "coverage": "mtc",
+      "form_code": "CC 70 06 04 13",
+      "description": "Refrigeration Breakdown Coverage Endorsement"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "Comerica Bank",
+      "address": "P.O. Box 79566",
+      "city_state_zip": "Elk Grove, CA 95624"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Incorporated",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 194.7,
+          "width": 172.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company",
+      "locations": [
+        {
+          "page": 1,
+          "x": 280.1,
+          "y": 106.7,
+          "width": 119.6,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Blvd."
+    },
+    "insured_city": {
+      "value": "Columbus",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 227.7,
+          "width": 40.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_state": {
+      "value": "OH",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 260.7,
+          "width": 13.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "entity_type": {
+      "value": "Corporation",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 293.7,
+          "width": 47.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "fein": {
+      "value": "31-6847291"
+    },
+    "sic_code": {
+      "value": "4215"
+    },
+    "naics_code": {
+      "value": "484110"
+    },
+    "nature_of_business": {
+      "value": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 326.7,
+          "width": 509.2,
+          "height": 21.0
+        }
+      ]
+    },
+    "years_in_business": {
+      "value": 38,
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 404.7,
+          "width": 10.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "annual_revenue": {
+      "value": 78000000,
+      "rendered_as": "$78,000,000.00"
+    },
+    "num_employees_ft": {
+      "value": 485
+    },
+    "num_employees_pt": {
+      "value": 52
+    },
+    "website": {
+      "value": "www.greatlakesfreightsys.com",
+      "locations": [
+        {
+          "page": 1,
+          "x": 394.4,
+          "y": 404.7,
+          "width": 121.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "contact_name": {
+      "value": "Margaret Sullivan"
+    },
+    "contact_title": {
+      "value": "Vice President of Risk Management"
+    },
+    "dot_number": {
+      "value": "6409266"
+    },
+    "mc_number": {
+      "value": "593931"
+    },
+    "producer_name": {
+      "value": "Transportation Insurance Specialists",
+      "locations": [
+        {
+          "page": 1,
+          "x": 98.6,
+          "y": 125.7,
+          "width": 145.6,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_contact": {
+      "value": "David Reinhardt",
+      "locations": [
+        {
+          "page": 1,
+          "x": 368.2,
+          "y": 125.7,
+          "width": 64.5,
+          "height": 9.0
+        }
+      ]
+    }
+  },
+  "doc_type": "acord_125",
+  "uw_questions": [
+    {
+      "question": "Any daycare or childcare operations on premises?",
+      "answer": "No"
+    },
+    {
+      "question": "Any losses or claims in the past 5 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Any operations involving demolition or blasting?",
+      "answer": "No"
+    },
+    {
+      "question": "Any operations on or near water?",
+      "answer": "No"
+    },
+    {
+      "question": "Any work involving asbestos, lead, or mold remediation?",
+      "answer": "No"
+    },
+    {
+      "question": "Any professional services provided?",
+      "answer": "No"
+    },
+    {
+      "question": "Are metal fabrication or welding operations performed on premises?",
+      "answer": "No"
+    },
+    {
+      "question": "Any foreign operations or exposures?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "answer": "No"
+    }
+  ],
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Corporate Headquarters & Main Terminal",
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "building_value": 10000000,
+      "contents_value": 5000000,
+      "bi_value": 9750000,
+      "tiv": 24750000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Rickenbacker Air Hub",
+      "address": "2500 Norton Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "building_value": 14800000,
+      "contents_value": 7400000,
+      "bi_value": 14430000,
+      "tiv": 36630000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Cleveland Distribution Center",
+      "address": "6000 Rockside Woods Boulevard",
+      "city": "Independence",
+      "state": "OH",
+      "zip_code": "44131",
+      "building_value": 6650000,
+      "contents_value": 3800000,
+      "bi_value": 7410000,
+      "tiv": 17860000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "Pittsburgh Regional Terminal",
+      "address": "500 Technology Drive",
+      "city": "Canonsburg",
+      "state": "PA",
+      "zip_code": "15317",
+      "building_value": 5460000,
+      "contents_value": 3120000,
+      "bi_value": 6084000,
+      "tiv": 14664000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "name": "Philadelphia Cross-Dock",
+      "address": "7600 State Road",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "19136",
+      "building_value": 4760000,
+      "contents_value": 2720000,
+      "bi_value": 5304000,
+      "tiv": 12784000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "name": "Harrisburg Consolidation Hub",
+      "address": "4100 Industrial Road",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip_code": "17111",
+      "building_value": 7360000,
+      "contents_value": 3680000,
+      "bi_value": 7176000,
+      "tiv": 18216000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "name": "Toledo Service Center",
+      "address": "3500 Airborne Road",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43609",
+      "building_value": 3120000,
+      "contents_value": 2080000,
+      "bi_value": 4056000,
+      "tiv": 9256000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "name": "Fleet Maintenance Center",
+      "address": "1250 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "building_value": 1960000,
+      "contents_value": 1680000,
+      "bi_value": 2184000,
+      "tiv": 5824000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "name": "Administrative Office",
+      "address": "41 South High Street, Suite 1500",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "building_value": 0,
+      "contents_value": 840000,
+      "bi_value": 1560000,
+      "tiv": 2400000
+    }
+  ]
+}

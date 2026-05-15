@@ -1,0 +1,69 @@
+{
+  "document_info": {
+    "document_type": "PCRB Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Joan Ortiz, Claims Processing Center",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction contractor operations including carpentry, electrical wiring, plumbing, masonry, interior painting, project management/superintendent work, and clerical office employees.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy Number: WC-KCB-2025-5580; Policy Period: 2025-08-01 to 2026-08-01; Pennsylvania Compensation Rating Bureau Risk ID Number: 491498-1604; Rating Plan: Large Risk; Final Experience Modification Factor: 0.86."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor is 0.86, indicating better-than-average loss experience relative to expected losses.",
+      "Interstate rating is listed as No; rating applies to Pennsylvania.",
+      "Calculated mod is 0.8600."
+    ],
+    "concerns": [
+      "Actual loss data shows 20 claims across the three reported policy years.",
+      "Total incurred losses across the three reported policy years are 546731.",
+      "Actual excess losses total 211060 across the three reported policy years."
+    ],
+    "loss_history_summary": "Reported actual loss data: 2023-2024 had 7 claims with total incurred losses of 190770, primary losses of 120455, and excess losses of 70315; 2022-2023 had 3 claims with total incurred losses of 115267, primary losses of 58500, and excess losses of 56767; 2021-2022 had 10 claims with total incurred losses of 240694, primary losses of 156716, and excess losses of 83978. Total actual primary losses are 335671 and total actual excess losses are 211060."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Hallmark Insurance Group PCRB Experience Rating Worksheet for Keystone Commercial Builders, Inc. Policy Number: WC-KCB-2025-5580. Policy Period: 2025-08-01 to 2026-08-01. Valuation Date: 2026-03-15. Final Experience Modification Factor: 0.86.",
+    "operations_description": "Payroll / classification data includes PA class codes 5403 Carpentry \u2014 NOC, 5190 Electrical Wiring, 5183 Plumbing \u2014 NOC, 5022 Masonry \u2014 NOC, 5474 Painting \u2014 Interior, 5606 Contractors \u2014 Project Manager, Superintendent, and 8810 Clerical Office Employees \u2014 NOC. Total payroll is 31594850.",
+    "safety_programs": null,
+    "claims_narrative": "Actual loss data includes three policy years: 2023-2024 with 7 claims and 190770 total incurred; 2022-2023 with 3 claims and 115267 total incurred; and 2021-2022 with 10 claims and 240694 total incurred."
+  }
+}

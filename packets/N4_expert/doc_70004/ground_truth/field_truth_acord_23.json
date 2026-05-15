@@ -1,0 +1,182 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "policy_number_auto": {
+      "value": "CA-KCB-2025-5582"
+    },
+    "auto_limit_combined_single_limit": {
+      "value": 5000000.0,
+      "rendered_as": "$5,000,000.00"
+    },
+    "auto_limit_uninsured_motorist": {
+      "value": 500000.0,
+      "rendered_as": "$500,000.00"
+    },
+    "auto_limit_medical_payments": {
+      "value": 10000.0,
+      "rendered_as": "$10,000.00"
+    },
+    "auto_deductible": {
+      "value": 2500,
+      "rendered_as": "$2,500.00"
+    },
+    "vehicle_count": {
+      "value": 15
+    }
+  },
+  "doc_type": "acord_23",
+  "vehicles": [
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-550",
+      "vin": "1FT35E7C8PH0LL4K8",
+      "vehicle_class": "Medium Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": "1FDKV2R86R5DL10FS",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": "1FD102J3XNDSM34RC",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": "1FT9MUNM1P3F6EW5N",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Ram",
+      "model": "3500",
+      "vin": "3C6C9P801RJL3F37B",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "vin": "1GCRCZVA6PM3DFW12",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2022,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": "3FADD3610NYY8RYCA",
+      "vehicle_class": "Medium Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit 350",
+      "vin": "1FT6S52RXPS878YFF",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": "1FT45NYD3RA3MU1E7",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Express 2500",
+      "vin": "1GA9Y9LD9NZHJLR51",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "vin": "4T1TWN8F5PJSVY0JN",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "2FTB82608RNAB8LHU",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2016,
+      "make": "Fontaine",
+      "model": "Magnitude 55H",
+      "vin": "13NA70526G6K3BFZE",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2023,
+      "make": "Wabash",
+      "model": "Platform",
+      "vin": "1JJ8CJ947PNRSUCDG",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2022,
+      "make": "Great Dane",
+      "model": "Freedom SE",
+      "vin": "5DYZ0JWKXN27P599P",
+      "vehicle_class": "Trailer"
+    }
+  ],
+  "insurer_panel": [
+    {
+      "letter": "A",
+      "name": "Hallmark Insurance Company",
+      "naic": "41837"
+    },
+    {
+      "letter": "B",
+      "name": "Hallmark Indemnity Company",
+      "naic": "41883"
+    },
+    {
+      "letter": "C",
+      "name": "Hallmark Casualty Company",
+      "naic": "41845"
+    },
+    {
+      "letter": "D",
+      "name": "Hallmark Assurance Company",
+      "naic": "42134"
+    }
+  ]
+}

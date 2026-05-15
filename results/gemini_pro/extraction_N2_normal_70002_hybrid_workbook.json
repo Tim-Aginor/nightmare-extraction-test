@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Schedule of Values",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial Properties and Warehousing",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Current 2024 policy carrier; total TIV across 9 locations is $251,345,000."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "8 out of 9 locations are fully sprinklered.",
+      "Predominantly Non-Combustible, Masonry Non-Combustible, or Fire Resistive construction.",
+      "Most recent policy years (2022, 2023, 2024) have zero claims reported."
+    ],
+    "concerns": [
+      "Location 7 (Toledo Industrial Park - Building 2) is manufacturing occupancy and lacks a sprinkler system.",
+      "Historical property claims in 2021."
+    ],
+    "loss_history_summary": "Total of 2 property claims with $202,875 paid and $238,554 total incurred."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Property loss summary indicates 2 claims with a total paid amount of $202,875 and a total incurred amount of $238,554. Only 1 claim occurred in the 2021 policy period with Hartford Financial Services; the 2022-2024 policy years show 0 claims."
+  }
+}

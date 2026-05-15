@@ -1,0 +1,70 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Mutual Insurance Company",
+    "policy_number": "0125 SS 407",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "document_date": "2025-08-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": "1",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15222",
+      "construction": null,
+      "occupancy": "Fire Resistive, Office",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 8500000,
+      "contents_value": 4400000,
+      "bi_value": 3100000,
+      "tiv": 16000000
+    }
+  ],
+  "property_limits": {
+    "building": 8500000,
+    "contents": 4400000,
+    "business_income": 3100000
+  },
+  "property_deductible": 5000,
+  "insurer_panel": [
+    {
+      "carrier": "Mutual Insurance Company",
+      "naic": "45673"
+    },
+    {
+      "carrier": "Mutual Indemnity Company",
+      "naic": null
+    },
+    {
+      "carrier": "Mutual Casualty Company",
+      "naic": "24845"
+    },
+    {
+      "carrier": "Mutual Assurance Company",
+      "naic": "42154"
+    }
+  ],
+  "checkboxes": [],
+  "remarks": null
+}

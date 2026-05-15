@@ -1,0 +1,66 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": null,
+    "prepared_by": "Hallmark Insurance Group",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation and Employers Liability",
+      "current_limit": "EL Each Accident: 1000000; EL Disease Policy: 1000000; EL Disease Each: 1000000",
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy premium estimated at 1158173.43; Experience Modification Factor: 0.86"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience Modification Factor of 0.86 indicates better-than-average loss experience"
+    ],
+    "concerns": [
+      "Construction trades exposure including carpentry, electrical wiring, plumbing, masonry, and painting",
+      "Highest rated classification is Masonry \u2014 NOC (Code 5022) at rate 9.15"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Workers Compensation and Employers Liability Insurance Policy issued by Hallmark Insurance Group to Keystone Commercial Builders, Inc. for the policy period 08/01/2025 to 08/01/2026. Total premium of $1,158,173.43 with $1,000,000 Employers Liability limits (each accident, disease policy, and disease each).",
+    "operations_description": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Classification Schedule includes: Carpentry-NOC (5403) $5,915,000 payroll at 8.24 rate; Electrical Wiring (5190) $4,544,000 at 4.86; Plumbing-NOC (5183) $3,075,000 at 4.52; Masonry-NOC (5022) $6,635,850 at 9.15; Painting-Interior (5474) $1,639,000 at 6.92; Contractors-Project Manager/Superintendent (5606) $4,776,000 at 2.45; Clerical Office Employees-NOC (8810) $5,010,000 at 0.19.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

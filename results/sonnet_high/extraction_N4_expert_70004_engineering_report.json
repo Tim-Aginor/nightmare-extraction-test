@@ -1,0 +1,84 @@
+{
+  "report_info": {
+    "report_type": "sprinkler_inspection",
+    "report_date": "2026-03-15",
+    "inspector_name": "S. Martinez, PE",
+    "inspector_company": "Hallmark Insurance Group",
+    "risk_grade": "3 - Average",
+    "grading_scale": "Best's Hazard Index"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "carrier_info": {
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Keystone Commercial Builders, Inc.",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "construction": null,
+      "occupancy": "SIC Code 1521 - General Building Contractors",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": null,
+      "condition_rating": "Fair",
+      "findings": [
+        "Wet Pipe sprinkler system, 28 years old, manufactured by Viking, NFPA 13 Compliant",
+        "3 control valves inspected \u2014 all found in open position",
+        "Tamper switches connected to monitoring",
+        "Water flow alarm tested \u2014 operational",
+        "Sprinkler heads visual condition: Fair \u2014 minor corrosion observed",
+        "Spare heads in cabinet: Yes \u2014 adequate supply",
+        "Static pressure: 89 psi",
+        "Residual pressure: 59 psi",
+        "Flow: 1923 GPM",
+        "Water supply adequate: Yes"
+      ],
+      "deficiencies": [
+        "Supervisory signal deficiency noted",
+        "[Advisory] Electrical panel clearance obstructed by stored materials",
+        "[Priority] Exposed wiring and missing junction box covers in main electrical room"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "Low",
+      "category": "Electrical",
+      "description": "Clear stored materials obstructing electrical panel clearance",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "High",
+      "category": "Electrical",
+      "description": "Remediate exposed wiring and install missing junction box covers in main electrical room",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Medium",
+      "category": "Fire Protection",
+      "description": "Resolve supervisory signal deficiency noted in alarm devices",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Fire protection system inspection resulted in an overall PASS. The wet pipe system (28 years, Viking) is NFPA 13 compliant with adequate water supply. Minor corrosion observed on sprinkler heads and a supervisory signal deficiency was noted. Two electrical deficiencies were identified \u2014 one advisory and one priority \u2014 requiring corrective action.",
+    "risk_level": "3 - Average",
+    "insurability": "Acceptable"
+  }
+}

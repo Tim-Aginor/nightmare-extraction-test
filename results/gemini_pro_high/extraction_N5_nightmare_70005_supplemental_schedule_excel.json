@@ -1,0 +1,62 @@
+{
+  "document_info": {
+    "document_type": null,
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Blvd.",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Freight Systems / Warehousing",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Package (BWC, GL, CA, CP, CU, MT)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088513.96,
+      "notes": "Policies: BWC-7853-4607, GL-0007119, CA-4481-4597, CP-9793-9090, CU00005026, MT-0006135"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [],
+    "loss_history_summary": "4 claims in 2020; 7 claims in 2021; 12 claims in 2022; 13 claims in 2023; 10 claims in 2024. No policy cancellations recorded."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

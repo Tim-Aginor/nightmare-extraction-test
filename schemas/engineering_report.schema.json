@@ -1,0 +1,462 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "engineering_report",
+  "type": "object",
+  "properties": {
+    "report_info": {
+      "type": "object",
+      "properties": {
+        "report_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "report_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "inspector_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "inspector_company": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "risk_grade": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "grading_scale": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "report_type",
+        "report_date",
+        "inspector_name",
+        "inspector_company",
+        "risk_grade",
+        "grading_scale"
+      ],
+      "additionalProperties": false
+    },
+    "insured": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "city": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "state": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "AL",
+            "AK",
+            "AZ",
+            "AR",
+            "CA",
+            "CO",
+            "CT",
+            "DE",
+            "FL",
+            "GA",
+            "HI",
+            "ID",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "LA",
+            "ME",
+            "MD",
+            "MA",
+            "MI",
+            "MN",
+            "MS",
+            "MO",
+            "MT",
+            "NE",
+            "NV",
+            "NH",
+            "NJ",
+            "NM",
+            "NY",
+            "NC",
+            "ND",
+            "OH",
+            "OK",
+            "OR",
+            "PA",
+            "RI",
+            "SC",
+            "SD",
+            "TN",
+            "TX",
+            "UT",
+            "VT",
+            "VA",
+            "WA",
+            "WV",
+            "WI",
+            "WY",
+            "DC",
+            "PR",
+            "GU",
+            "VI",
+            "AS",
+            "MP",
+            null
+          ]
+        },
+        "zip": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "address",
+        "city",
+        "state",
+        "zip"
+      ],
+      "additionalProperties": false
+    },
+    "carrier_info": {
+      "type": "object",
+      "properties": {
+        "carrier_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_period_start": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_period_end": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "carrier_name",
+        "policy_number",
+        "policy_period_start",
+        "policy_period_end"
+      ],
+      "additionalProperties": false
+    },
+    "locations_inspected": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "address": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "city": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "state": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "AL",
+              "AK",
+              "AZ",
+              "AR",
+              "CA",
+              "CO",
+              "CT",
+              "DE",
+              "FL",
+              "GA",
+              "HI",
+              "ID",
+              "IL",
+              "IN",
+              "IA",
+              "KS",
+              "KY",
+              "LA",
+              "ME",
+              "MD",
+              "MA",
+              "MI",
+              "MN",
+              "MS",
+              "MO",
+              "MT",
+              "NE",
+              "NV",
+              "NH",
+              "NJ",
+              "NM",
+              "NY",
+              "NC",
+              "ND",
+              "OH",
+              "OK",
+              "OR",
+              "PA",
+              "RI",
+              "SC",
+              "SD",
+              "TN",
+              "TX",
+              "UT",
+              "VT",
+              "VA",
+              "WA",
+              "WV",
+              "WI",
+              "WY",
+              "DC",
+              "PR",
+              "GU",
+              "VI",
+              "AS",
+              "MP",
+              null
+            ]
+          },
+          "construction": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "occupancy": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "year_built": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "stories": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "square_feet": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "sprinklered": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "protection_class": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "condition_rating": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "findings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "deficiencies": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "name",
+          "address",
+          "city",
+          "state",
+          "construction",
+          "occupancy",
+          "year_built",
+          "stories",
+          "square_feet",
+          "sprinklered",
+          "protection_class",
+          "condition_rating",
+          "findings",
+          "deficiencies"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "recommendations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "priority": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "Severe",
+              "Necessary",
+              "Advisable",
+              null
+            ]
+          },
+          "category": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "structural",
+              "electrical",
+              "fire_protection",
+              "security",
+              "maintenance",
+              "documentation",
+              null
+            ]
+          },
+          "description": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "estimated_cost": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "deadline": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "priority",
+          "category",
+          "description",
+          "estimated_cost",
+          "deadline"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "overall_assessment": {
+      "type": "object",
+      "properties": {
+        "summary": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "risk_level": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insurability": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "summary",
+        "risk_level",
+        "insurability"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "report_info",
+    "insured",
+    "carrier_info",
+    "locations_inspected",
+    "recommendations",
+    "overall_assessment"
+  ],
+  "additionalProperties": false
+}

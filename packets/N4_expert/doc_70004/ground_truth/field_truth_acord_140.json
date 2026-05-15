@@ -1,0 +1,319 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "policy_number_property": {
+      "value": "CP-KCB-2025-5583"
+    },
+    "property_deductible": {
+      "value": 25000,
+      "rendered_as": "$25,000.00"
+    },
+    "valuation_method": {
+      "value": "Replacement Cost"
+    },
+    "coinsurance_property": {
+      "value": 80.0
+    },
+    "location_count": {
+      "value": 5
+    },
+    "blanket_number": {
+      "value": "BLK-3520"
+    },
+    "blanket_type": {
+      "value": "Contents"
+    }
+  },
+  "doc_type": "acord_140",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15222",
+      "name": "Corporate Headquarters",
+      "construction": "Fire Resistive",
+      "roof_type": "EPDM",
+      "year_built": 2002,
+      "stories": 1,
+      "square_feet": 18000,
+      "occupancy": "Office",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 1260000,
+      "bi_value": 2340000,
+      "tiv": 3600000,
+      "rendered_values": {
+        "building_value": "\u2014",
+        "contents_value": "$1,260,000.00",
+        "bi_value": "$2,340,000.00",
+        "tiv": "$3,600,000.00"
+      },
+      "ownership": "Tenant",
+      "construction_type_rendered": "Tenant \u2014 contents & BI only",
+      "fire_protection": {
+        "distance_to_fire_station": "3 miles",
+        "distance_to_hydrant": "1398 ft",
+        "fire_district": "District 2",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "90%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Proprietary System"
+      },
+      "improvements": {
+        "heating_year": 2018,
+        "plumbing_year": 2007,
+        "roofing_year": 2026,
+        "wiring_year": 2023
+      }
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "name": "Main Equipment Yard & Warehouse",
+      "construction": "Non-Combustible",
+      "roof_type": "EPDM",
+      "year_built": 1995,
+      "stories": 1,
+      "square_feet": 65000,
+      "occupancy": "Warehouse",
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 5200000,
+      "contents_value": 8450000,
+      "bi_value": 3900000,
+      "tiv": 17550000,
+      "rendered_values": {
+        "building_value": "$5,200,000.00",
+        "contents_value": "$8,450,000.00",
+        "bi_value": "$3,900,000.00",
+        "tiv": "$17,550,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "8 miles",
+        "distance_to_hydrant": "1671 ft",
+        "fire_district": "District 7",
+        "sprinkler_type": "Deluge",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Proprietary System"
+      },
+      "improvements": {
+        "heating_year": 2017,
+        "plumbing_year": 2010,
+        "roofing_year": 2026,
+        "wiring_year": 2012
+      }
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "name": "Fabrication Shop",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "TPO",
+      "year_built": 1988,
+      "stories": 1,
+      "square_feet": 32000,
+      "occupancy": "Manufacturing",
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 2240000,
+      "contents_value": 3840000,
+      "bi_value": 1920000,
+      "tiv": 8000000,
+      "rendered_values": {
+        "building_value": "$2,240,000.00",
+        "contents_value": "$3,840,000.00",
+        "bi_value": "$1,920,000.00",
+        "tiv": "$8,000,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "1981 ft",
+        "fire_district": "District 4",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "85%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Local Alarm Only"
+      },
+      "improvements": {
+        "heating_year": 2004,
+        "plumbing_year": 2002,
+        "roofing_year": 2012,
+        "wiring_year": 1995
+      }
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "state": "PA",
+      "zip_code": "15090",
+      "name": "South Hills Branch Office",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "Shingle",
+      "year_built": 2010,
+      "stories": 2,
+      "square_feet": 8500,
+      "occupancy": "Office",
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 1700000,
+      "contents_value": 425000,
+      "bi_value": 850000,
+      "tiv": 2975000,
+      "rendered_values": {
+        "building_value": "$1,700,000.00",
+        "contents_value": "$425,000.00",
+        "bi_value": "$850,000.00",
+        "tiv": "$2,975,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "3 miles",
+        "distance_to_hydrant": "747 ft",
+        "fire_district": "District 8",
+        "sprinkler_type": "Deluge",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2024,
+        "roofing_year": 2026,
+        "wiring_year": 2025
+      }
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "100 Dutilh Road",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "zip_code": "16066",
+      "name": "Equipment Storage - Cranberry",
+      "construction": "Non-Combustible",
+      "roof_type": "Concrete",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 28000,
+      "occupancy": "Warehouse",
+      "protection_class": 1,
+      "sprinklered": false,
+      "building_value": 1680000,
+      "contents_value": 4480000,
+      "bi_value": 1120000,
+      "tiv": 7280000,
+      "rendered_values": {
+        "building_value": "$1,680,000.00",
+        "contents_value": "$4,480,000.00",
+        "bi_value": "$1,120,000.00",
+        "tiv": "$7,280,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "3 miles",
+        "distance_to_hydrant": "2712 ft",
+        "fire_district": "District 12",
+        "sprinkler_type": "None",
+        "sprinkler_coverage": "N/A"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2013,
+        "plumbing_year": 2024,
+        "roofing_year": 2026,
+        "wiring_year": 2025
+      }
+    }
+  ],
+  "blanket_summary": {
+    "total_building": 10820000.0,
+    "total_contents": 18455000.0,
+    "total_bi": 10130000.0,
+    "total_tiv": 39405000.0,
+    "rendered_values": {
+      "total_building": "$10,820,000.00",
+      "total_contents": "$18,455,000.00",
+      "total_bi": "$10,130,000.00",
+      "total_tiv": "$39,405,000.00"
+    },
+    "blanket_number": "BLK-3520",
+    "blanket_type": "Contents"
+  },
+  "interest_holders": [
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "Fifth Third Bank",
+      "address": "P.O. Box 20208, Fargo, ND 58102",
+      "loan_number": "L-238732852"
+    },
+    {
+      "type": "Loss Payee",
+      "name": "De Lage Landen Financial Services",
+      "address": "P.O. Box 67828, Elk Grove, CA 95624",
+      "loan_number": "L-339683025"
+    },
+    {
+      "type": "Additional Insured",
+      "name": "Lakeside Property Management, LLC",
+      "address": "P.O. Box 79073, Spokane, WA 99201",
+      "loan_number": "L-888346814"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "document_info": {
+    "document_type": "PCRB Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Joan Ortiz, Claims Processing Center",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Construction contractor operations including carpentry, electrical wiring, plumbing, masonry, interior painting, project management/supervision, and clerical office employees.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Pennsylvania Compensation Rating Bureau large risk experience rating worksheet. Expected losses 1095520. Final experience modification factor 0.86."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor of 0.86.",
+      "Calculated mod shown as 0.8600 under the Pennsylvania Compensation Rating Bureau large risk plan."
+    ],
+    "concerns": [
+      "Loss activity is shown in all three experience periods: 7 claims in 2023-2024, 3 claims in 2022-2023, and 10 claims in 2021-2022.",
+      "Actual primary losses are 335671 and actual excess losses are 211060."
+    ],
+    "loss_history_summary": "2023-2024: 7 claims, total incurred 190770, primary losses 120455, excess losses 70315; 2022-2023: 3 claims, total incurred 115267, primary losses 58500, excess losses 56767; 2021-2022: 10 claims, total incurred 240694, primary losses 156716, excess losses 83978."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Expected Losses (E) $1,095,520; Actual Primary Losses (Ap) $335,671; Actual Excess Losses (Ae) $211,060; Final Experience Modification Factor 0.86.",
+    "operations_description": "PA classifications: 5403 Carpentry \u2014 NOC; 5190 Electrical Wiring; 5183 Plumbing \u2014 NOC; 5022 Masonry \u2014 NOC; 5474 Painting \u2014 Interior; 5606 Contractors \u2014 Project Manager, Superintendent; 8810 Clerical Office Employees \u2014 NOC.",
+    "safety_programs": null,
+    "claims_narrative": "2023-2024: 7 claims, total paid 190770, total incurred 190770, primary losses 120455, excess losses 70315. 2022-2023: 3 claims, total paid 115267, total incurred 115267, primary losses 58500, excess losses 56767. 2021-2022: 10 claims, total paid 240694, total incurred 240694, primary losses 156716, excess losses 83978."
+  }
+}

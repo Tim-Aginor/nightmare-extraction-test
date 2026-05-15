@@ -1,0 +1,393 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc.",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 194.7,
+          "width": 136.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company",
+      "locations": [
+        {
+          "page": 1,
+          "x": 280.1,
+          "y": 106.7,
+          "width": 119.6,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Boulevard"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "applicant_name": {
+      "value": "Great Lakes Freight Systems, Inc.",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 194.7,
+          "width": 136.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "fein": {
+      "value": "31-6847291"
+    },
+    "sic_code": {
+      "value": "4215"
+    },
+    "entity_type": {
+      "value": "Corporation",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 293.7,
+          "width": 47.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "nature_of_business": {
+      "value": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 293.7,
+          "width": 247.1,
+          "height": 33.0
+        }
+      ]
+    },
+    "years_in_business": {
+      "value": 38,
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 350.7,
+          "width": 10.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "annual_revenue": {
+      "value": 78000000,
+      "rendered_as": "$78,000,000.00"
+    },
+    "dot_number": {
+      "value": "6409266"
+    },
+    "mc_number": {
+      "value": "593931"
+    },
+    "policy_number_property": {
+      "value": "cpGLFS20258823"
+    },
+    "property_premium": {
+      "value": 235710.77,
+      "rendered_as": "$235,710.77"
+    },
+    "property_deductible": {
+      "value": 50000,
+      "rendered_as": "$50,000.00"
+    },
+    "location_count": {
+      "value": 9
+    },
+    "total_tiv": {
+      "value": 142384000,
+      "rendered_as": "$142,384,000"
+    },
+    "policy_number_gl": {
+      "value": "gl GLFS 2025 8821"
+    },
+    "gl_limit_each_occurrence": {
+      "value": 2000000.0,
+      "rendered_as": "2,000,000.00"
+    },
+    "gl_limit_general_aggregate": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "gl_limit_products_completed_ops": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "gl_limit_personal_advertising": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "gl_limit_damage_rented_premises": {
+      "value": 500000,
+      "rendered_as": "500,000.00"
+    },
+    "gl_limit_medical_expense": {
+      "value": 5000,
+      "rendered_as": "5,000.00"
+    },
+    "gl_limit_stop_gap_el_each_accident": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "gl_limit_stop_gap_el_disease_policy": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "gl_limit_stop_gap_el_disease_each_employee": {
+      "value": 1000000,
+      "rendered_as": "1,000,000.00"
+    },
+    "interest_holder_0_name": {
+      "value": "KeyBank National Association",
+      "locations": [
+        {
+          "page": 11,
+          "x": 144.1,
+          "y": 80.4,
+          "width": 100.0,
+          "height": 7.5
+        }
+      ]
+    },
+    "interest_holder_0_loan_number": {
+      "value": "L-480690360"
+    },
+    "interest_holder_1_name": {
+      "value": "Regions Bank",
+      "locations": [
+        {
+          "page": 11,
+          "x": 144.1,
+          "y": 101.4,
+          "width": 46.7,
+          "height": 7.5
+        }
+      ]
+    },
+    "interest_holder_1_loan_number": {
+      "value": "L-327014265"
+    },
+    "valuation_method": {
+      "value": "Agreed Value",
+      "locations": [
+        {
+          "page": 2,
+          "x": 308.0,
+          "y": 132.7,
+          "width": 54.5,
+          "height": 9.0
+        }
+      ]
+    }
+  },
+  "doc_type": "acord_160",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 125000,
+      "sprinklered": true,
+      "building_value": 10000000,
+      "contents_value": 5000000,
+      "bi_value": 9750000,
+      "tiv": 24750000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "2500 Norton Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2012,
+      "stories": 1,
+      "square_feet": 185000,
+      "sprinklered": true,
+      "building_value": 14800000,
+      "contents_value": 7400000,
+      "bi_value": 14430000,
+      "tiv": 36630000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "6000 Rockside Woods Boulevard",
+      "city": "Independence",
+      "state": "OH",
+      "zip_code": "44131",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 95000,
+      "sprinklered": true,
+      "building_value": 6650000,
+      "contents_value": 3800000,
+      "bi_value": 7410000,
+      "tiv": 17860000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "500 Technology Drive",
+      "city": "Canonsburg",
+      "state": "PA",
+      "zip_code": "15317",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 78000,
+      "sprinklered": true,
+      "building_value": 5460000,
+      "contents_value": 3120000,
+      "bi_value": 6084000,
+      "tiv": 14664000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "7600 State Road",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "19136",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2001,
+      "stories": 1,
+      "square_feet": 68000,
+      "sprinklered": true,
+      "building_value": 4760000,
+      "contents_value": 2720000,
+      "bi_value": 5304000,
+      "tiv": 12784000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "4100 Industrial Road",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip_code": "17111",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2015,
+      "stories": 1,
+      "square_feet": 92000,
+      "sprinklered": true,
+      "building_value": 7360000,
+      "contents_value": 3680000,
+      "bi_value": 7176000,
+      "tiv": 18216000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3500 Airborne Road",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43609",
+      "construction": "Joisted Masonry",
+      "occupancy": "Warehouse",
+      "year_built": 1995,
+      "stories": 1,
+      "square_feet": 52000,
+      "sprinklered": true,
+      "building_value": 3120000,
+      "contents_value": 2080000,
+      "bi_value": 4056000,
+      "tiv": 9256000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1250 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Service/Repair",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 28000,
+      "sprinklered": true,
+      "building_value": 1960000,
+      "contents_value": 1680000,
+      "bi_value": 2184000,
+      "tiv": 5824000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "41 South High Street, Suite 1500",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": 12000,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 840000,
+      "bi_value": 1560000,
+      "tiv": 2400000
+    }
+  ],
+  "additional_coverages": [
+    "Earthquake",
+    "Blanket Additional Insured",
+    "Business Income \u2014 Extended Period",
+    "Cyber Liability",
+    "Ordinance or Law \u2014 Coverage C",
+    "Utility Services \u2014 Time Element",
+    "Identity Recovery",
+    "Interior Glass",
+    "Damage to Premises Rented to You",
+    "Employee Dishonesty"
+  ],
+  "interests": [
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "KeyBank National Association",
+      "address": "P.O. Box 12013, Pittsburgh, PA 15222",
+      "loan_number": "L-480690360"
+    },
+    {
+      "type": "As Their Interest May Appear",
+      "name": "Regions Bank",
+      "address": "P.O. Box 4553, Philadelphia, PA 19103",
+      "loan_number": "L-327014265"
+    }
+  ]
+}

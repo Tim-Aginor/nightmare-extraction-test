@@ -1,0 +1,56 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "document_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    },
+    "producer_name": {
+      "value": "Midwest Property & Casualty Group"
+    },
+    "producer_contact": {
+      "value": "Karen Weissman"
+    },
+    "producer_phone": {
+      "value": "(614) 555-0742"
+    },
+    "producer_fax": {
+      "value": "(614) 837-8018"
+    },
+    "producer_email": {
+      "value": "kweissman@mwpcg.com"
+    }
+  },
+  "doc_type": "acord_25",
+  "certificate_holders": [
+    {
+      "name": "Navigator Realty Management Inc.",
+      "address": "5290 Walnut Street, Ste. 159",
+      "city": "Newport News",
+      "state": "VA",
+      "zip_code": "23601"
+    },
+    {
+      "name": "Navigator Properties LLC",
+      "address": "619 Lake Street",
+      "city": "Peoria",
+      "state": "AZ",
+      "zip_code": "85345"
+    }
+  ],
+  "carrier_name_per_lob": {}
+}

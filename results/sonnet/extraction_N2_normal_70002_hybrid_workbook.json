@@ -1,0 +1,78 @@
+{
+  "document_info": {
+    "document_type": "Excel Submission Data (Locations, Prior Insurance, Named Insureds, Loss Summary)",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property ownership and management including warehouse/logistics, manufacturing, flex space, and office facilities across Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": 251345000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "TIV of $251,345,000 across 9 locations. Coverage includes Building Value, Contents, and Business Interruption. Prior carriers include Hartford Financial Services and Chubb Limited."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Majority of locations are Non-Combustible or Masonry Non-Combustible construction",
+      "8 of 9 locations have sprinkler systems installed",
+      "Portfolio is relatively modern with most buildings constructed between 2004 and 2019",
+      "4 consecutive years of low claim activity (0 claims in 2022, 2023, and 2024)",
+      "Diverse roof types across portfolio indicating varied construction quality and age",
+      "All locations are single-story, reducing vertical spread-of-fire risk",
+      "Premium trend shows decreasing premiums from 2021 to 2024, suggesting favorable underwriting history"
+    ],
+    "concerns": [
+      "LOC-007 (Toledo Industrial Park - Building 2) has no sprinkler system",
+      "LOC-004 (Dayton Manufacturing Facility) is Joisted Masonry construction \u2014 oldest and highest fire risk construction class in portfolio",
+      "LOC-004 was built in 1992, the oldest building in the portfolio",
+      "LOC-007 was built in 1998 and combines non-sprinklered status with Manufacturing occupancy",
+      "Property claims incurred ($238,554) exceed paid ($202,875), indicating open/reserved losses",
+      "2021 had 1 property claim; total loss history shows 2 claims with $238,554 total incurred",
+      "Highly concentrated geographic exposure \u2014 all 9 locations in Ohio, creating single-state catastrophe aggregation risk",
+      "Large concentration of TIV in Columbus/Rickenbacker corridor (LOC-001 and LOC-002 represent $104,650,000 combined TIV)"
+    ],
+    "loss_history_summary": "4-year loss history showing 2 property claims total with $202,875 paid and $238,554 incurred. One claim occurred in 2021 under Hartford Financial Services. No claims reported in 2022, 2023, or 2024. Approximately $35,679 in open reserves."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Buckeye Industrial Properties, LLC is the primary named insured for a portfolio of 9 industrial and commercial properties located throughout Ohio. The portfolio includes warehouse/logistics centers, manufacturing facilities, flex space, and a corporate administrative office. Total Insured Value is $251,345,000. The account has been with Liberty Mutual Insurance in 2024 at a premium of $392,002.31 with no claims that year.",
+    "operations_description": "Portfolio consists of: 5 warehouse/logistics facilities (LOC-001 through LOC-003, LOC-005, LOC-008), 2 manufacturing facilities (LOC-004, LOC-007), 1 flex space (LOC-008), and 1 corporate administrative office (LOC-009). Locations span Columbus, Brooklyn, Dayton, Cincinnati, Toledo, Uniontown, and Columbus (office). Square footage ranges from 8,500 SF (corporate office) to 425,000 SF (Rickenbacker Logistics Center - A). Total square footage is approximately 1,953,500 SF across all locations.",
+    "safety_programs": "8 of 9 locations are equipped with automatic sprinkler systems. The sole non-sprinklered location is LOC-007 (Toledo Industrial Park - Building 2), a 1998-built manufacturing facility.",
+    "claims_narrative": "Over the past 4 policy years, the account has experienced 2 property claims with $202,875 paid and $238,554 incurred. The single reported claim event occurred in 2021 during the Hartford Financial Services policy period. The subsequent 3 years (2022, 2023, 2024) were claim-free. There is approximately $35,679 in outstanding incurred-but-not-fully-paid reserves."
+  }
+}

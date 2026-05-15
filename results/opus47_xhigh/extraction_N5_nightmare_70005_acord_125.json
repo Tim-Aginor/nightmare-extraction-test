@@ -1,0 +1,346 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Insurance Application"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": null,
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": "484110",
+    "years_in_business": 38,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": 133977,
+      "expiring_carrier": "Hanover Insurance Group",
+      "expiring_policy_number": "GL-0007119"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 207849,
+      "expiring_carrier": "Zurich Insurance Group",
+      "expiring_policy_number": "CP-9793-9090"
+    },
+    {
+      "coverage_type": "Business Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": 228177,
+      "expiring_carrier": "Travelers Companies",
+      "expiring_policy_number": "CA-4481-4597"
+    },
+    {
+      "coverage_type": "Workers' Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": 1069693,
+      "expiring_carrier": "Ohio Bureau of Workers' Compensation",
+      "expiring_policy_number": "BWC-7853-4607"
+    },
+    {
+      "coverage_type": "Umbrella / Excess",
+      "limit": null,
+      "deductible": null,
+      "premium": 430545,
+      "expiring_carrier": "Hanover Insurance Group",
+      "expiring_policy_number": "CU00005026"
+    }
+  ],
+  "checkboxes": {
+    "general_liability": "checked",
+    "commercial_property": "checked",
+    "business_auto": "checked",
+    "workers_compensation": "checked",
+    "umbrella_excess": "checked",
+    "professional_liability_eo": "unchecked",
+    "daycare_or_childcare_operations": "No",
+    "losses_or_claims_past_5_years": "Yes",
+    "demolition_or_blasting_operations": "No",
+    "operations_on_or_near_water": "No",
+    "asbestos_lead_mold_remediation": "No",
+    "professional_services_provided": "No",
+    "metal_fabrication_or_welding": "No",
+    "foreign_operations_or_exposures": "No",
+    "owns_or_operates_uas_drones": "No"
+  },
+  "additional_fields": {
+    "application_date": "2026-03-15",
+    "agency_contact": "David Reinhardt",
+    "usdot_number": "6409266",
+    "mc_number": "593931",
+    "years_with_current_management": 25,
+    "website": "www.greatlakesfreightsys.com",
+    "annual_revenue": 78000000,
+    "full_time_employees": 485,
+    "part_time_employees": 52,
+    "billing_plan": "Premium Finance \u2014 10 Pay",
+    "payment_plan": "As per billing plan",
+    "applicant_signature": "Margaret Sullivan",
+    "applicant_signature_date": "2026-03-15",
+    "applicant_title": "Vice President of Risk Management",
+    "producer_signature": "David Reinhardt",
+    "producer_signature_date": "2026-03-15",
+    "reviewer_initials": "L. Taylor",
+    "reviewer_date": "2026-03-06",
+    "loss_history_summary": {
+      "workers_compensation": [
+        {
+          "year": 2025,
+          "claims": 4,
+          "total_paid": 188102,
+          "total_reserved": 80657
+        },
+        {
+          "year": 2024,
+          "claims": 8,
+          "total_paid": 368764,
+          "total_reserved": 37702
+        },
+        {
+          "year": 2023,
+          "claims": 3,
+          "total_paid": 89919,
+          "total_reserved": 3431
+        },
+        {
+          "year": 2022,
+          "claims": 8,
+          "total_paid": 241273,
+          "total_reserved": 2070,
+          "total_incurred": 243343
+        },
+        {
+          "year": 2021,
+          "claims": 2,
+          "total_paid": 42912,
+          "total_reserved": 0,
+          "total_incurred": 42912
+        }
+      ],
+      "general_liability": [
+        {
+          "year": 2025,
+          "claims": 1,
+          "total_paid": 7007,
+          "total_reserved": 0,
+          "total_incurred": 7007
+        },
+        {
+          "year": 2024,
+          "claims": 1,
+          "total_paid": 14169,
+          "total_reserved": 0,
+          "total_incurred": 14169
+        },
+        {
+          "year": 2023,
+          "claims": 1,
+          "total_paid": 9627,
+          "total_reserved": 0,
+          "total_incurred": 9627
+        },
+        {
+          "year": 2021,
+          "claims": 2,
+          "total_paid": 23324,
+          "total_reserved": 0,
+          "total_incurred": 23324
+        }
+      ],
+      "business_auto": [
+        {
+          "year": 2025,
+          "claims": 4,
+          "total_paid": 27152,
+          "total_reserved": 57599,
+          "total_incurred": 84751
+        },
+        {
+          "year": 2024,
+          "claims": 2,
+          "total_paid": 171434,
+          "total_reserved": 0,
+          "total_incurred": 171434
+        },
+        {
+          "year": 2023,
+          "claims": 4,
+          "total_paid": 33699,
+          "total_reserved": 4575,
+          "total_incurred": 38274
+        },
+        {
+          "year": 2022,
+          "claims": 3,
+          "total_paid": 143715,
+          "total_reserved": 0,
+          "total_incurred": 143715
+        },
+        {
+          "year": 2021,
+          "claims": 3,
+          "total_paid": 11376,
+          "total_reserved": 0,
+          "total_incurred": 11376
+        }
+      ],
+      "commercial_property": [
+        {
+          "year": 2025,
+          "claims": 1,
+          "total_paid": 85327,
+          "total_reserved": 0,
+          "total_incurred": 85327
+        },
+        {
+          "year": 2022,
+          "claims": null,
+          "total_paid": 52500,
+          "total_reserved": 0,
+          "total_incurred": 52500
+        },
+        {
+          "year": 2021,
+          "claims": 1,
+          "total_paid": 54191,
+          "total_reserved": 0,
+          "total_incurred": 54191
+        }
+      ],
+      "umbrella_excess": [
+        {
+          "year": 2025,
+          "claims": 0,
+          "total_paid": 0,
+          "total_reserved": 0,
+          "total_incurred": 0
+        },
+        {
+          "year": 2023,
+          "claims": 1,
+          "total_paid": 0,
+          "total_reserved": 0,
+          "total_incurred": 0
+        },
+        {
+          "year": 2022,
+          "claims": 2,
+          "total_paid": 3916,
+          "total_reserved": 0,
+          "total_incurred": 3916
+        }
+      ],
+      "totals": {
+        "claims": 51,
+        "total_paid": 1568428,
+        "total_reserved": 186034,
+        "total_incurred": 1754462
+      }
+    },
+    "premises": [
+      {
+        "loc": "LOC-001",
+        "address": "1200 Nationwide Boulevard, Columbus, OH, 43215",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2005,
+        "sq_ft": 125000,
+        "stories": 1
+      },
+      {
+        "loc": "LOC-002",
+        "address": "2500 Norton Road, Columbus, OH, 43217",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2012,
+        "sq_ft": 185000,
+        "stories": 1
+      },
+      {
+        "loc": "LOC-003",
+        "address": "6000 Rockside Woods Boulevard, Independence, OH, 44131",
+        "occupancy": "Warehouse",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 1998,
+        "sq_ft": 95000,
+        "stories": 1
+      },
+      {
+        "loc": "LOC-004",
+        "address": "500 Technology Drive, Canonsburg, PA, 15317",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2008,
+        "sq_ft": 78000,
+        "stories": 1
+      },
+      {
+        "loc": "LOC-005",
+        "address": "7600 State Road, Philadelphia, PA, 19136",
+        "occupancy": "Warehouse",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 2001,
+        "sq_ft": 68000,
+        "stories": 1
+      },
+      {
+        "loc": "LOC-006",
+        "address": "4100 Industrial Road, Harrisburg, PA, 17111",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2015,
+        "sq_ft": 92000,
+        "stories": null
+      },
+      {
+        "loc": "LOC-007",
+        "address": "3500 Airborne Road, Toledo, OH, 43609",
+        "occupancy": "Warehouse",
+        "construction": "Joisted Masonry",
+        "year_built": 1995,
+        "sq_ft": 52000,
+        "stories": null
+      },
+      {
+        "loc": "LOC-008",
+        "address": "1250 Nationwide Boulevard, Columbus, OH, 43215",
+        "occupancy": "Service/Repair",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 2005,
+        "sq_ft": 28000,
+        "stories": null
+      },
+      {
+        "loc": "LOC-009",
+        "address": "41 South High Street, Suite 1500, Columbus, OH, 43215",
+        "occupancy": "Office",
+        "construction": "Fire Resistive",
+        "year_built": 2010,
+        "sq_ft": 12000,
+        "stories": null
+      }
+    ]
+  },
+  "remarks": null
+}

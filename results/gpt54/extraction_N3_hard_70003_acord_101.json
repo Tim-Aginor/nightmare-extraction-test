@@ -1,0 +1,76 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2008/01",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2650",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-RHCP-2025-3551",
+    "effective_date": "2025-05-01",
+    "expiration_date": null,
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": "28339"
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "The insured's principal operations consist of boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Entity type: LLC.",
+    "entity_type": "LLC"
+  },
+  "additional_remarks": [
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "WC 00 03 13A - Alternate Employer Endorsement"
+    },
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "WC 00 03 13 - Waiver of Our Right to Recover From Others Endorsement"
+    },
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "IL 09 85 05 15 - Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "CG 21 47 12 07 - Employment-Related Practices Exclusion Endorsement"
+    },
+    {
+      "section_reference": "ADDITIONAL INSURED",
+      "remark": "Drisk, Realty Management LLC is included as Additional Insured per written contract, agreement, or permit as respects General Liability."
+    },
+    {
+      "section_reference": "SPECIAL CONDITIONS",
+      "remark": "Waiver of subrogation applies in favor of the certificate holder as required by written contract."
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-001: Downtown Austin Annex - 604 Brazos Street, Austin, TX 78701 (Occupancy: Hotel)"
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-002: Riverside South San Antonio - 1740 Loop South, San Antonio, TX 78216 (Occupancy: Hotel)"
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-003: Fredericksburg Inn & Spa - 245 East Main Street, Fredericksburg, TX 78624 (Occupancy: Hotel)"
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-004: South Congress Micro Hotel - 2201 South Congress Avenue, Austin, TX 78704 (Occupancy: Hotel)"
+    },
+    {
+      "section_reference": "NATURE OF OPERATIONS",
+      "remark": "The insured's principal operations consist of boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Entity type: LLC."
+    }
+  ],
+  "checkboxes": [],
+  "remarks": "ENDORSEMENT SCHEDULE: 1. WC 00 03 13A - Alternate Employer Endorsement 2. WC 00 03 13 - Waiver of Our Right to Recover From Others Endorsement 3. IL 09 85 05 15 - Disclosure Pursuant to Terrorism Risk Insurance Act 4. CG 21 47 12 07 - Employment-Related Practices Exclusion Endorsement. ADDITIONAL INSURED: Drisk, Realty Management LLC is included as Additional Insured per written contract, agreement, or permit as respects General Liability. SPECIAL CONDITIONS: Waiver of subrogation applies in favor of the certificate holder as required by written contract. LOCATION DESCRIPTIONS: LOC-001 Downtown Austin Annex - 604 Brazos Street, Austin, TX 78701 (Occupancy: Hotel); LOC-002 Riverside South San Antonio - 1740 Loop South, San Antonio, TX 78216 (Occupancy: Hotel); LOC-003 Fredericksburg Inn & Spa - 245 East Main Street, Fredericksburg, TX 78624 (Occupancy: Hotel); LOC-004 South Congress Micro Hotel - 2201 South Congress Avenue, Austin, TX 78704 (Occupancy: Hotel). NATURE OF OPERATIONS: The insured's principal operations consist of boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Entity type: LLC."
+}

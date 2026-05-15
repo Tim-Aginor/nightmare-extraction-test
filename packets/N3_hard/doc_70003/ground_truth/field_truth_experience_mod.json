@@ -1,0 +1,381 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC",
+      "locations": [
+        {
+          "page": 1,
+          "x": 98.6,
+          "y": 111.7,
+          "width": 148.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group",
+      "locations": [
+        {
+          "page": 1,
+          "x": 98.6,
+          "y": 91.7,
+          "width": 105.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_state": {
+      "value": "TX",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 232.7,
+          "width": 11.5,
+          "height": 9.0
+        },
+        {
+          "page": 1,
+          "x": 66.1,
+          "y": 297.4,
+          "width": 9.6,
+          "height": 7.5
+        },
+        {
+          "page": 1,
+          "x": 66.1,
+          "y": 319.4,
+          "width": 9.6,
+          "height": 7.5
+        },
+        {
+          "page": 1,
+          "x": 66.1,
+          "y": 341.4,
+          "width": 9.6,
+          "height": 7.5
+        },
+        {
+          "page": 1,
+          "x": 66.1,
+          "y": 363.4,
+          "width": 9.6,
+          "height": 7.5
+        }
+      ]
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "experience_mod": {
+      "value": 0.94
+    },
+    "rating_organization": {
+      "value": "Texas Department of Insurance",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 172.7,
+          "width": 126.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "risk_id": {
+      "value": "201435-1808"
+    },
+    "rating_plan": {
+      "value": "Large Risk",
+      "locations": [
+        {
+          "page": 1,
+          "x": 394.4,
+          "y": 232.7,
+          "width": 43.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "interstate": {
+      "value": "No",
+      "locations": [
+        {
+          "page": 1,
+          "x": 221.6,
+          "y": 232.7,
+          "width": 11.5,
+          "height": 9.0
+        }
+      ]
+    }
+  },
+  "doc_type": "experience_mod",
+  "wc_premium_waterfall": {
+    "manual_premium": 379487.0,
+    "experience_mod": 0.94,
+    "modified_premium": 356717.78,
+    "schedule_credit": -0.1584,
+    "schedule_credit_amount": -56504.1,
+    "standard_premium": 300213.68,
+    "premium_discount": 23044.02,
+    "expense_constant": 120.0,
+    "tria_surcharge": 9238.0,
+    "final_premium": 286527.66,
+    "minimum_premium_applied": false
+  },
+  "wc_class_codes": [
+    {
+      "class_code": "9052",
+      "description": "Hotel \u2014 All Other Employees",
+      "state": "TX",
+      "num_employees": 257,
+      "payroll": 9207271,
+      "rate": 2.85,
+      "premium": 262407.0,
+      "governing_class": true,
+      "rendered_values": {
+        "payroll": "$9,207,271.00",
+        "premium": "$262,407.00"
+      },
+      "locations": {
+        "description": [
+          {
+            "page": 1,
+            "x": 161.3,
+            "y": 297.4,
+            "width": 97.5,
+            "height": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "class_code": "9060",
+      "description": "Hotel \u2014 Bellhops, Doorpersons",
+      "state": "TX",
+      "num_employees": 44,
+      "payroll": 1454400,
+      "rate": 2.45,
+      "premium": 35633.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$1,454,400.00",
+        "premium": "$35,633.00"
+      },
+      "locations": {
+        "description": [
+          {
+            "page": 1,
+            "x": 161.3,
+            "y": 319.4,
+            "width": 105.0,
+            "height": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "class_code": "9082",
+      "description": "Restaurant \u2014 NOC",
+      "state": "TX",
+      "num_employees": 117,
+      "payroll": 3678800,
+      "rate": 2.12,
+      "premium": 77991.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$3,678,800.00",
+        "premium": "$77,991.00"
+      },
+      "locations": {
+        "description": [
+          {
+            "page": 1,
+            "x": 161.3,
+            "y": 341.4,
+            "width": 65.0,
+            "height": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2014 NOC",
+      "state": "TX",
+      "num_employees": 32,
+      "payroll": 1920000,
+      "rate": 0.18,
+      "premium": 3456.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$1,920,000.00",
+        "premium": "$3,456.00"
+      },
+      "locations": {
+        "description": [
+          {
+            "page": 1,
+            "x": 161.3,
+            "y": 363.4,
+            "width": 114.2,
+            "height": 7.5
+          }
+        ]
+      }
+    }
+  ],
+  "classification_data": [
+    {
+      "class_code": "9052",
+      "expected_loss_rate": 1.63,
+      "expected_losses": 150078.5173,
+      "d_ratio": 0.28
+    },
+    {
+      "class_code": "9060",
+      "expected_loss_rate": 1.95,
+      "expected_losses": 28360.8,
+      "d_ratio": 0.29
+    },
+    {
+      "class_code": "9082",
+      "expected_loss_rate": 1.55,
+      "expected_losses": 57021.4,
+      "d_ratio": 0.28
+    },
+    {
+      "class_code": "8810",
+      "expected_loss_rate": 0.195,
+      "expected_losses": 3744.0,
+      "d_ratio": 0.17
+    }
+  ],
+  "formula_components": {
+    "expected_losses": 361805.7641351065,
+    "actual_primary": 92944.87,
+    "actual_excess": 0.0,
+    "expected_excess": 422385.04,
+    "ballast": 29114.0,
+    "weighting": 0.419,
+    "numerator": 367464.58,
+    "denominator": 390919.7641351065,
+    "computed_mod": 0.94,
+    "final_mod": 0.94,
+    "rendered_values": {
+      "expected_losses": "$361,805.76",
+      "actual_primary": "$92,944.87",
+      "actual_excess": "$0.00",
+      "expected_excess": "$422,385.04",
+      "numerator": "$367,464.58",
+      "denominator": "$390,919.76"
+    }
+  },
+  "loss_years": [
+    {
+      "year": "2023-2024",
+      "claims": 2,
+      "total_paid": 9939.83,
+      "total_incurred": 9939.83,
+      "primary_losses": 9939.83,
+      "excess_losses": 0.0,
+      "window_start": "2023-05-01",
+      "window_end": "2024-05-01",
+      "rendered_values": {
+        "total_paid": "$9,939.83",
+        "total_incurred": "$9,939.83",
+        "primary_losses": "$9,939.83",
+        "excess_losses": "$0.00"
+      }
+    },
+    {
+      "year": "2022-2023",
+      "claims": 6,
+      "total_paid": 26661.96,
+      "total_incurred": 26661.96,
+      "primary_losses": 26661.96,
+      "excess_losses": 0.0,
+      "window_start": "2022-05-01",
+      "window_end": "2023-05-01",
+      "rendered_values": {
+        "total_paid": "$26,661.96",
+        "total_incurred": "$26,661.96",
+        "primary_losses": "$26,661.96",
+        "excess_losses": "$0.00"
+      }
+    },
+    {
+      "year": "2021-2022",
+      "claims": 8,
+      "total_paid": 56343.08,
+      "total_incurred": 56343.08,
+      "primary_losses": 56343.08,
+      "excess_losses": 0.0,
+      "window_start": "2021-05-01",
+      "window_end": "2022-05-01",
+      "rendered_values": {
+        "total_paid": "$56,343.08",
+        "total_incurred": "$56,343.08",
+        "primary_losses": "$56,343.08",
+        "excess_losses": "$0.00"
+      }
+    }
+  ],
+  "ncci_formula_constants": {
+    "state": "TX",
+    "G_state_expected_loss": 240000,
+    "B_ballast": 8400,
+    "W_table_thresholds": [
+      [
+        4800,
+        0.0
+      ],
+      [
+        24000,
+        0.05
+      ],
+      [
+        48000,
+        0.1
+      ],
+      [
+        144000,
+        0.2
+      ],
+      [
+        480000,
+        0.4
+      ],
+      [
+        1440000,
+        0.55
+      ],
+      [
+        4800000,
+        0.7
+      ],
+      [
+        14400000,
+        0.82
+      ],
+      [
+        48000000,
+        0.92
+      ],
+      [
+        192000000,
+        1.0
+      ]
+    ],
+    "primary_loss_cap": 17000,
+    "max_credibility": 1.0,
+    "expense_constant": 200,
+    "source": "estimate_from_industry_textbook"
+  }
+}

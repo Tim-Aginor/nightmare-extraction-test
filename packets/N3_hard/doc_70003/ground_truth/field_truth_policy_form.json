@@ -1,0 +1,234 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "policy_number_wc": {
+      "value": "WC-HCHP-2025-3350"
+    },
+    "policy_number_gl": {
+      "value": "GL-HCHP-2025-3351"
+    },
+    "policy_number_property": {
+      "value": "CP-HCHP-2025-3352"
+    },
+    "form_number": {
+      "value": "GL 00 01 04 13"
+    },
+    "edition": {
+      "value": "04 13"
+    },
+    "lob": {
+      "value": "gl"
+    }
+  },
+  "doc_type": "policy_form",
+  "section_titles": [
+    "COVERAGE A \u2014 BODILY INJURY AND PROPERTY DAMAGE LIABILITY",
+    "COVERAGE B \u2014 PERSONAL AND ADVERTISING INJURY LIABILITY",
+    "COVERAGE C \u2014 MEDICAL PAYMENTS",
+    "SUPPLEMENTARY PAYMENTS \u2014 COVERAGES A AND B",
+    "WHO IS AN INSURED",
+    "LIMITS OF INSURANCE",
+    "COMMERCIAL GENERAL LIABILITY CONDITIONS",
+    "DEFINITIONS"
+  ],
+  "condition_titles": [
+    "1. Bankruptcy",
+    "2. Duties In The Event Of Occurrence, Offense, Claim Or Suit",
+    "3. Legal Action Against Us",
+    "4. Other Insurance",
+    "5. Premium Audit",
+    "6. Representations",
+    "7. Separation Of Insureds",
+    "8. Transfer Of Rights Of Recovery Against Others To Us",
+    "9. Non-Renewal"
+  ],
+  "exclusion_titles": [
+    "Expected Or Intended Injury",
+    "Contractual Liability",
+    "Liquor Liability",
+    "Workers Compensation And Similar Laws",
+    "Employer's Liability",
+    "Pollution",
+    "Aircraft, Auto Or Watercraft",
+    "Mobile Equipment",
+    "Damage To Property",
+    "Damage To Your Product",
+    "Damage To Your Work",
+    "Damage To Impaired Property Or Property Not Physically Injured",
+    "Recall Of Products, Work Or Impaired Property",
+    "Personal And Advertising Injury",
+    "Electronic Data",
+    "Recording And Distribution Of Material Or Information In Violation Of Law",
+    "Knowing Violation Of Rights Of Another",
+    "Material Published With Knowledge Of Falsity",
+    "Material Published Prior To Policy Period",
+    "Criminal Acts",
+    "Contractual Liability",
+    "Breach Of Contract",
+    "Quality Or Performance Of Goods \u2014 Failure To Conform To Statements",
+    "Wrong Description Of Prices",
+    "Infringement Of Copyright, Patent, Trademark Or Trade Secret",
+    "Insureds In Media And Internet Type Businesses",
+    "Electronic Chatrooms Or Bulletin Boards",
+    "Unauthorized Use Of Another's Name Or Product",
+    "Pollution",
+    "Pollution-Related",
+    "War",
+    "Any Insured",
+    "Hired Person",
+    "Injury On Normally Occupied Premises",
+    "Workers Compensation And Similar Laws",
+    "Athletic Activities",
+    "Products-Completed Operations Hazard",
+    "Coverage A Exclusions"
+  ],
+  "definition_terms": [
+    "Advertisement",
+    "Auto",
+    "Bodily Injury",
+    "Coverage Territory",
+    "Electronic Data",
+    "Employee",
+    "Executive Officer",
+    "Hostile Fire",
+    "Impaired Property",
+    "Insured Contract",
+    "Leased Worker",
+    "Loading Or Unloading",
+    "Mobile Equipment",
+    "Occurrence",
+    "Personal And Advertising Injury",
+    "Pollutants",
+    "Products-Completed Operations Hazard",
+    "Property Damage",
+    "Suit",
+    "Temporary Worker",
+    "Volunteer Worker",
+    "Your Product",
+    "Your Work"
+  ],
+  "endorsement_schedule": [
+    {
+      "form_number": "CG 20 10",
+      "edition": "04 13",
+      "title": "Additional Insured \u2014 Owners, Lessees Or Contractors \u2014 Scheduled Person Or Organization"
+    },
+    {
+      "form_number": "CG 24 04",
+      "edition": "05 09",
+      "title": "Waiver Of Transfer Of Rights Of Recovery Against Others To Us"
+    },
+    {
+      "form_number": "CG 25 03",
+      "edition": "05 09",
+      "title": "Designated Construction Project(s) General Aggregate Limit"
+    },
+    {
+      "form_number": "CG 20 37",
+      "edition": "04 13",
+      "title": "Additional Insured \u2014 Owners, Lessees Or Contractors \u2014 Completed Operations"
+    },
+    {
+      "form_number": "CG 21 44",
+      "edition": "07 98",
+      "title": "Exclusion \u2014 Designated Operations/Premises"
+    }
+  ],
+  "endorsement_details": [
+    {
+      "form_number": "CG 20 10",
+      "edition": "04 13",
+      "title": "Additional Insured \u2014 Owners, Lessees Or Contractors \u2014 Scheduled Person Or Organization",
+      "named_insured": "Hill Country Hospitality Partners, LLC",
+      "policy_number": "GL-HCHP-2025-3351"
+    },
+    {
+      "form_number": "CG 24 04",
+      "edition": "05 09",
+      "title": "Waiver Of Transfer Of Rights Of Recovery Against Others To Us",
+      "named_insured": "Hill Country Hospitality Partners, LLC",
+      "policy_number": "GL-HCHP-2025-3351"
+    },
+    {
+      "form_number": "CG 25 03",
+      "edition": "05 09",
+      "title": "Designated Construction Project(s) General Aggregate Limit",
+      "named_insured": "Hill Country Hospitality Partners, LLC",
+      "policy_number": "GL-HCHP-2025-3351"
+    },
+    {
+      "form_number": "CG 20 37",
+      "edition": "04 13",
+      "title": "Additional Insured \u2014 Owners, Lessees Or Contractors \u2014 Completed Operations",
+      "named_insured": "Hill Country Hospitality Partners, LLC",
+      "policy_number": "GL-HCHP-2025-3351"
+    },
+    {
+      "form_number": "CG 21 44",
+      "edition": "07 98",
+      "title": "Exclusion \u2014 Designated Operations/Premises",
+      "named_insured": "Hill Country Hospitality Partners, LLC",
+      "policy_number": "GL-HCHP-2025-3351"
+    }
+  ],
+  "table_of_contents": [
+    {
+      "title": "COMMON POLICY DECLARATIONS"
+    },
+    {
+      "title": "COMMON POLICY CONDITIONS"
+    },
+    {
+      "title": "COVERAGE A \u2014 BODILY INJURY AND PROPERTY DAMAGE LIABILITY"
+    },
+    {
+      "title": "COVERAGE B \u2014 PERSONAL AND ADVERTISING INJURY LIABILITY"
+    },
+    {
+      "title": "COVERAGE C \u2014 MEDICAL PAYMENTS"
+    },
+    {
+      "title": "SUPPLEMENTARY PAYMENTS \u2014 COVERAGES A AND B"
+    },
+    {
+      "title": "WHO IS AN INSURED"
+    },
+    {
+      "title": "LIMITS OF INSURANCE"
+    },
+    {
+      "title": "COMMERCIAL GENERAL LIABILITY CONDITIONS"
+    },
+    {
+      "title": "DEFINITIONS"
+    },
+    {
+      "title": "ENDORSEMENT SCHEDULE"
+    }
+  ]
+}

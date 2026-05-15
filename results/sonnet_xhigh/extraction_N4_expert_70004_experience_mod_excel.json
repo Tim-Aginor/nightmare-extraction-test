@@ -1,0 +1,72 @@
+{
+  "document_info": {
+    "document_type": "Experience Modification Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Joan Ortiz, Claims Processing Center",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction contractor operating across multiple skilled trades including carpentry, electrical wiring, plumbing, masonry, interior painting, and project management",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": "Statutory",
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy Number WC-KCB-2025-5580; PCRB Large Risk rating plan; Risk ID 491498-1604; Interstate Rating: No; Total subject payroll $31,594,850 across 7 classification codes; Final Experience Modification Factor 0.86 (credit mod)"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Favorable experience modification factor of 0.86, reflecting actual losses below expected \u2014 represents a premium credit",
+      "2022-2023 policy year demonstrated strong loss control with only 3 claims and $116,479 total incurred",
+      "Large, diversified payroll base of $31,594,850 spread across seven PCRB classification codes indicates an established, multi-trade operation",
+      "Actual primary losses ($335,671) and excess losses ($212,733) are well below the expected excess loss load ($1,132,496), driving the favorable mod",
+      "Calculated mod of 0.8600 confirmed and rounded to 0.86 \u2014 no adverse rounding impact"
+    ],
+    "concerns": [
+      "2021-2022 policy year recorded 10 claims \u2014 highest claim frequency in the three-year experience period \u2014 with $240,694 total incurred",
+      "2023-2024 rebounded to 7 claims ($191,231 incurred), suggesting frequency has not fully stabilized following the 2021-2022 spike",
+      "Total incurred losses across all three experience years: $548,404 across 20 claims",
+      "High-hazard trade classifications (Masonry 5022, Carpentry 5403, Plumbing 5183) represent the largest payroll concentrations with elevated expected loss rates"
+    ],
+    "loss_history_summary": "Three-year PCRB experience period: 2021-2022 (10 claims, $240,694 incurred, $156,716 primary / $83,978 excess); 2022-2023 (3 claims, $116,479 incurred, $58,500 primary / $57,979 excess); 2023-2024 (7 claims, $191,231 incurred, $120,455 primary / $70,776 excess). Aggregate: 20 claims, $548,404 total incurred, $335,671 actual primary losses, $212,733 actual excess losses. Expected losses per rating calculation: $1,095,520. Final experience mod: 0.86."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Pennsylvania commercial construction contractor classified under seven PCRB codes: Class 5403 Carpentry NOC ($5,915,000 payroll, ELR 5.2); Class 5190 Electrical Wiring ($4,544,000, ELR 2.6); Class 5183 Plumbing NOC ($3,075,000, ELR 2.4); Class 5022 Masonry NOC ($6,635,850, ELR 4.8); Class 5474 Painting Interior ($1,639,000, ELR 3.2); Class 5606 Contractors Project Manager/Superintendent ($4,776,000, ELR 1.5); Class 8810 Clerical Office Employees NOC ($5,010,000, ELR 0.195). Total payroll: $31,594,850. Total classification-level expected losses: $951,902.",
+    "safety_programs": null,
+    "claims_narrative": "2023-2024: 7 claims, $190,770 paid, $191,231 incurred, $120,455 primary losses, $70,776 excess losses. 2022-2023: 3 claims, $115,267 paid, $116,479 incurred, $58,500 primary losses, $57,979 excess losses. 2021-2022: 10 claims, $240,694 paid, $240,694 incurred, $156,716 primary losses, $83,978 excess losses. Rating calculation: Ap=$335,671, Ae=$212,733, E=$1,095,520, W=0.574, Ee=$1,132,496, B=$13,748. Numerator=$953,971; Denominator=$1,109,268; Calculated Mod=0.8600."
+  }
+}

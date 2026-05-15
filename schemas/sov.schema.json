@@ -1,0 +1,289 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "sov",
+  "type": "object",
+  "properties": {
+    "header": {
+      "type": "object",
+      "properties": {
+        "insured_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "insured_address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_period_start": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_period_end": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "carrier_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "insured_name",
+        "insured_address",
+        "policy_number",
+        "policy_period_start",
+        "policy_period_end",
+        "carrier_name"
+      ],
+      "additionalProperties": false
+    },
+    "locations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "location_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "name": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "address": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "city": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "state": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "AL",
+              "AK",
+              "AZ",
+              "AR",
+              "CA",
+              "CO",
+              "CT",
+              "DE",
+              "FL",
+              "GA",
+              "HI",
+              "ID",
+              "IL",
+              "IN",
+              "IA",
+              "KS",
+              "KY",
+              "LA",
+              "ME",
+              "MD",
+              "MA",
+              "MI",
+              "MN",
+              "MS",
+              "MO",
+              "MT",
+              "NE",
+              "NV",
+              "NH",
+              "NJ",
+              "NM",
+              "NY",
+              "NC",
+              "ND",
+              "OH",
+              "OK",
+              "OR",
+              "PA",
+              "RI",
+              "SC",
+              "SD",
+              "TN",
+              "TX",
+              "UT",
+              "VT",
+              "VA",
+              "WA",
+              "WV",
+              "WI",
+              "WY",
+              "DC",
+              "PR",
+              "GU",
+              "VI",
+              "AS",
+              "MP",
+              "",
+              null
+            ]
+          },
+          "zip": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "construction": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "occupancy": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "year_built": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "stories": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "square_feet": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "sprinklered": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "building_value": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "contents_value": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "bi_value": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "tiv": {
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "location_id",
+          "name",
+          "address",
+          "city",
+          "state",
+          "zip",
+          "construction",
+          "occupancy",
+          "year_built",
+          "stories",
+          "square_feet",
+          "sprinklered",
+          "building_value",
+          "contents_value",
+          "bi_value",
+          "tiv"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "totals": {
+      "type": "object",
+      "properties": {
+        "building_value": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "contents_value": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "bi_value": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "tiv": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "location_count": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "building_value",
+        "contents_value",
+        "bi_value",
+        "tiv",
+        "location_count"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "header",
+    "locations",
+    "totals"
+  ],
+  "additionalProperties": false
+}

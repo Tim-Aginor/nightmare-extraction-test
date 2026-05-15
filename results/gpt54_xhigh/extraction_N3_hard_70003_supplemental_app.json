@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "date": "2026-03-14",
+    "prepared_by": "Marcus Jennings",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 16,
+    "annual_revenue": 42000000,
+    "employee_count": 450
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "16 years in business with 16 years under current management",
+      "Formal safety program in place",
+      "Written contracts with subcontractors and contractor indemnification required",
+      "24-hour doorman or security on premises",
+      "90% of units are regularly occupied",
+      "No commercial occupancy within the building",
+      "Fire alarms are hard-wired with central station monitoring"
+    ],
+    "concerns": [
+      "Short-term rentals are permitted",
+      "Swimming pools, exercise rooms, or other amenities are present",
+      "HVAC replaced in 2022, but plumbing and electrical are original from 2005",
+      "EV charging stations are installed on the premises",
+      "Risk management section indicates the building is not fully sprinklered per NFPA 13 or 13R",
+      "Cyber liability protections are not in place",
+      "Prior insurance history reflects multiple claims and a 2022 cancellation"
+    ],
+    "loss_history_summary": "Claims counts by year were 11 in 2024, 3 in 2023, and 6 in 2022. The 2022 Zurich Insurance Group policy shows a cancellation."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Nature of business: Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Years in business: 16. Years with current management: 16. Employees: 285 full-time and 165 part-time. Annual revenue / gross receipts: 42000000. Hours of operation: Mon-Fri 8:00 AM - 5:00 PM.",
+    "safety_programs": "Formal safety program: Yes. Written contracts with all subcontractors: Yes. Written contracts with indemnification required from all contractors: Yes. 24-hour doorman or security on premises: Yes. Fire alarms hard-wired with central station monitoring: Yes.",
+    "claims_narrative": "Prior insurance history: 2024 Travelers Companies premium 686236.25, 11 claims, cancellation No; 2023 Markel Corporation premium 619820.26, 3 claims, cancellation No; 2022 Zurich Insurance Group premium 607294.45, 6 claims, cancellation Yes."
+  }
+}

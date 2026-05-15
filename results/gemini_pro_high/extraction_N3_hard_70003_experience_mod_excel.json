@@ -1,0 +1,65 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Marilyn Rocha, Claims Adjustment Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hotel and Restaurant",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Experience Modification Factor: 0.94. Interstate Rating: Yes. Rating Plan: Large Risk."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final Experience Modification Factor is a credit mod of 0.94",
+      "Zero Actual Excess Losses",
+      "Claim count and incurred losses have decreased each year over the 3-year experience period"
+    ],
+    "concerns": [],
+    "loss_history_summary": "16 total claims over three policy years (2021-2024) with total incurred losses of 92945. All losses were primary losses with 0 in excess losses."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Payroll Classifications: 9052 Hotel - All Other Employees, 9060 Hotel - Bellhops, Doorpersons, 9082 Restaurant - NOC, 8810 Clerical Office Employees - NOC.",
+    "safety_programs": null,
+    "claims_narrative": "Policy Year 2023-2024: 2 claims, 9940 Paid/Incurred. Policy Year 2022-2023: 6 claims, 26662 Paid/Incurred. Policy Year 2021-2022: 8 claims, 56343 Paid/Incurred."
+  }
+}

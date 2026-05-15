@@ -1,0 +1,84 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-14",
+    "prepared_by": "Marcus Jennings",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 16,
+    "annual_revenue": 42000000,
+    "employee_count": 450
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "Policy Number WC-HCHP-2025-3350, effective 05/01/2025. Prior carriers: Markel Corporation (2023, premium $619,820.26, 3 claims, no cancellation); Zurich Insurance Group (2022, premium $607,294.45, 6 claims, cancelled). 285 full-time and 165 part-time employees."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "Written contracts maintained with all subcontractors",
+      "24-hour doorperson/security on all premises",
+      "90% unit occupancy rate",
+      "Written indemnification contracts required from all contractors",
+      "Fire alarms hard-wired with central station monitoring",
+      "Material Safety Data Sheets (MSDS) maintained",
+      "HVAC systems replaced in 2020",
+      "All 8 premises locations reported as fully sprinklered",
+      "16 years in business with consistent management tenure",
+      "No commercial co-occupancy within hotel buildings"
+    ],
+    "concerns": [
+      "Plumbing and electrical systems original from 2005 \u2014 not updated in over 20 years",
+      "Short-term rentals (less than 1 year) permitted \u2014 elevated liability exposure",
+      "Buildings may not fully meet NFPA 13 or 13R sprinkler standards per Q9 response",
+      "No quality control/quality assurance program in place",
+      "OSHA citations received within the past 3 years",
+      "No cyber liability protections in place",
+      "Significant claims spike in 2024: 11 claims vs. 3 in 2023",
+      "Policy cancellation by prior carrier Zurich Insurance Group in 2022",
+      "Swimming pools, exercise rooms, and amenities present \u2014 slip/fall and premises liability exposure",
+      "EV charging stations installed \u2014 additional electrical fire and liability exposure"
+    ],
+    "loss_history_summary": "2024 (Travelers Companies): 11 claims, premium $686,236.25, no cancellation. 2023 (Markel Corporation): 3 claims, premium $619,820.26, no cancellation. 2022 (Zurich Insurance Group): 6 claims, premium $607,294.45, policy cancelled. Three-year total: 20 claims. Notable adverse trend with claims tripling from 2023 to 2024."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. 16 years in business under consistent management. Portfolio includes 4 hotel properties (LOC-001: 604 Brazos St Austin 95,000 sqft built 2010; LOC-002: 112 College St San Antonio 142,000 sqft built 2006; LOC-003: 245 E Main St Fredericksburg 48,000 sqft built 1998; LOC-004: 1220 S Congress Ave Austin 62,000 sqft built 2015), 3 restaurant locations (LOC-005: 608 Brazos St Austin 8,500 sqft; LOC-006: 6550 Comanche Trail Austin 12,000 sqft; LOC-007: 303 Pearl Pkwy San Antonio 6,800 sqft), and 1 corporate office (LOC-008: 401 Congress Ave Suite 2800 Austin 6,200 sqft built 2008). 285 full-time and 165 part-time employees. Annual revenue $42,000,000. Corporate office hours: Mon-Fri 8:00 AM - 5:00 PM.",
+    "safety_programs": "Formal safety program in place. Written contracts maintained with all subcontractors. Written indemnification contracts required from all contractors. 24-hour doorperson/security on premises. Material Safety Data Sheets (MSDS) maintained. All 8 locations reported as fully sprinklered. Fire alarms hard-wired with central station monitoring. HVAC replaced 2020. No OSHA citations \u2014 contradicted by Q13 answer of Yes (citations present within past 3 years).",
+    "claims_narrative": "Three-year prior insurance history: 2024 \u2014 Travelers Companies, $686,236.25 premium, 11 claims, no cancellation. 2023 \u2014 Markel Corporation, $619,820.26 premium, 3 claims, no cancellation. 2022 \u2014 Zurich Insurance Group, $607,294.45 premium, 6 claims, policy cancelled. Premiums have increased approximately 13% over three years. Claims frequency increased sharply in 2024 (11 claims), representing a 267% increase over 2023."
+  }
+}

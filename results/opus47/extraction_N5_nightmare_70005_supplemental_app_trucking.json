@@ -1,0 +1,60 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2025-06-18",
+    "prepared_by": "M. Johnson",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Incorporated",
+    "address": null,
+    "city": null,
+    "state": "OH",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Trucking",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "38 years in business",
+      "Active operating authority",
+      "Average 15 years driver experience",
+      "All drivers are CDL drivers"
+    ],
+    "concerns": [
+      "Hauls Hazmat Class 2 Compressed Gases (Machinery commodity)",
+      "Driver documentation still needed (noted 'Need docs')"
+    ],
+    "loss_history_summary": "See attached loss runs for the most recent five (5) policy years. Report date: 03/15/2026"
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 25,
+    "driver_count": 40,
+    "radius_of_operation": "Over 200 miles"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Trucking operation domiciled in OH with 12 power units and 13 trailers operating over 200 miles radius. Interstate: No. Commodities hauled include General Freight, Beverages, Machinery, and Hazmat Class 2 Compressed Gases.",
+    "safety_programs": null,
+    "claims_narrative": "See attached loss runs for the most recent five (5) policy years. Report date: 03/15/2026"
+  }
+}

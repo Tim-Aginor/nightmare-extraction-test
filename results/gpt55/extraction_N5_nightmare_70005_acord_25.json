@@ -1,0 +1,138 @@
+{
+  "carrier_name_per_lob": [
+    {
+      "carrier": "Standard Insurance Company",
+      "lob": "Commercial General Liability",
+      "naic": null,
+      "policy_number": "GLPS 2019 8821"
+    },
+    {
+      "carrier": "Standard Insurance Company",
+      "lob": "Automobile Liability",
+      "naic": null,
+      "policy_number": "CARS2019AUTO"
+    },
+    {
+      "carrier": "Standard Insurance Company",
+      "lob": "Umbrella Liability",
+      "naic": null,
+      "policy_number": "XC GL2019UMB"
+    },
+    {
+      "carrier": "Ohio Bureau of Worker's Compensation",
+      "lob": "Workers Compensation and Employers Liability",
+      "naic": null,
+      "policy_number": "WC GLS 2019 8820"
+    }
+  ],
+  "certificate_holders": [
+    {
+      "address": "5317 Summit Avenue, Little Rock, AR 72201",
+      "name": "Quantum Realty Management Inc."
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Commercial General Liability - Claims Made",
+      "value": "No"
+    },
+    {
+      "field": "Commercial General Liability - Occur",
+      "value": "Yes"
+    },
+    {
+      "field": "General Aggregate Limit Applies Per Policy",
+      "value": "Yes"
+    },
+    {
+      "field": "General Aggregate Limit Applies Per Project",
+      "value": "No"
+    },
+    {
+      "field": "General Aggregate Limit Applies Per Location",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Any Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Automobile Liability - Owned Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Scheduled Autos",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Hired Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Non-Owned Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Umbrella Liability - Occur",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella Liability - Claims Made",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - Statutory Limits",
+      "value": "Yes"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "effective_date": "2019-09-01",
+      "expiration_date": "2020-09-01",
+      "limit": "Each occurrence 2000000; damage to rented premises 500000; med exp 5000; personal and advertising injury 2000000; general aggregate 4000000; products completed operations aggregate 4000000",
+      "policy_number": "GLPS 2019 8821"
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "effective_date": "2019-09-01",
+      "expiration_date": "2020-09-01",
+      "limit": "Combined single limit 5000000",
+      "policy_number": "CARS2019AUTO"
+    },
+    {
+      "coverage_type": "Umbrella Liability",
+      "effective_date": "2019-09-01",
+      "expiration_date": "2020-09-01",
+      "limit": "Each occurrence 10000000; aggregate 10000000",
+      "policy_number": "XC GL2019UMB"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers Liability",
+      "effective_date": "2019-06-01",
+      "expiration_date": "2020-06-01",
+      "limit": null,
+      "policy_number": "WC GLS 2019 8820"
+    }
+  ],
+  "document_date": "2019-09-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 25",
+    "form_title": "Certificate of Liability Insurance"
+  },
+  "header": {
+    "carrier_name": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Transportation Insurance Specialists"
+  },
+  "remarks": "RE: Regional trucking and freight logistics -- LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Locations: Corporate Headquarters & Main Terminal - 1200 Nationwide Boulevard, Columbus, OH 43215; Riverbend Logistics Park - 2500 Norton Road, Columbus, OH 43217; Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131. Quantum Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

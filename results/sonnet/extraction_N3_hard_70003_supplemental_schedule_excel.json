@@ -1,0 +1,101 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation / General Liability / Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "2024 policy numbers: WC-8098-9663, 0000005824, CP003220-001; 11 claims; no cancellation; premium not provided"
+    },
+    {
+      "coverage_type": "Workers Compensation / General Liability / Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Markel Corporation",
+      "expiring_premium": 619820.26,
+      "notes": "2023 policy numbers: 7WC0009522, 0000002291, CP-1970-9645; 3 claims; no cancellation"
+    },
+    {
+      "coverage_type": "Workers Compensation / General Liability / Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 607294.45,
+      "notes": "2022 policy numbers: 0000004808, GL-0002700, 7CP0001066; 6 claims; policy was cancelled"
+    },
+    {
+      "coverage_type": "Workers Compensation / General Liability / Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Chubb Limited",
+      "expiring_premium": 630843.2,
+      "notes": "2021 policy numbers: 0000008163, GL-8167-3439, CP-0009781; 9 claims; no cancellation"
+    },
+    {
+      "coverage_type": "Workers Compensation / General Liability / Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "EMPLOYERS Insurance Group",
+      "expiring_premium": 580805.53,
+      "notes": "2020 policy numbers: WC008082-001, GL-4906-7512, CP00007431; 2 claims; no cancellation"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations in 2020, 2021, 2023, and 2024",
+      "Low claim count in 2020 (2 claims) and 2023 (3 claims)",
+      "Consistent multi-line insurance program maintained across all years"
+    ],
+    "concerns": [
+      "Policy cancellation occurred in 2022 with Zurich Insurance Group",
+      "Elevated claim count in 2021 (9 claims)",
+      "2024 premium data is missing, limiting year-over-year comparison",
+      "11 claims reported in 2024, the highest count across all years",
+      "Loss ratios not populated for any policy year"
+    ],
+    "loss_history_summary": "Five-year claim history shows total of 31 claims across 2020-2024. Claim counts by year: 2020=2, 2021=9, 2022=6, 2023=3, 2024=11. One cancellation on record in 2022 with Zurich Insurance Group. Loss ratio data was not provided for any year."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Prior insurance history spanning 2020-2024 across five carriers (EMPLOYERS Insurance Group, Chubb Limited, Zurich Insurance Group, Markel Corporation, and a 2024 carrier not yet named). Total premiums where available range from $580,805.53 to $630,843.20. A cancellation was recorded in 2022 under Zurich Insurance Group. Claim counts fluctuate significantly year over year: 2 (2020), 9 (2021), 6 (2022), 3 (2023), 11 (2024)."
+  }
+}

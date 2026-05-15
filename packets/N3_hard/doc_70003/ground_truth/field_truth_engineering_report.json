@@ -1,0 +1,329 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "risk_grade": {
+      "value": "PPC 5"
+    },
+    "grading_scale": {
+      "value": "ISO Public Protection Class"
+    },
+    "inspector_name": {
+      "value": "L. Thompson, CSP"
+    }
+  },
+  "doc_type": "engineering_report",
+  "locations_inspected": 8,
+  "locations": [
+    {
+      "name": "The Driskill Austin",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "year_built": 2010,
+      "stories": 8,
+      "sprinklered": true,
+      "protection_class": 5
+    },
+    {
+      "name": "Riverwalk Suites San Antonio",
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "year_built": 2006,
+      "stories": 12,
+      "sprinklered": true,
+      "protection_class": 2
+    },
+    {
+      "name": "Fredericksburg Inn & Spa",
+      "address": "245 East Main Street",
+      "city": "Fredericksburg",
+      "state": "TX",
+      "construction": "Masonry Non-Combustible",
+      "year_built": 1998,
+      "stories": 3,
+      "sprinklered": true,
+      "protection_class": 1
+    },
+    {
+      "name": "South Congress Motor Hotel",
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Masonry Non-Combustible",
+      "year_built": 2015,
+      "stories": 4,
+      "sprinklered": true,
+      "protection_class": 2
+    },
+    {
+      "name": "Blanco River Steakhouse",
+      "address": "608 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "year_built": 2010,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 2
+    },
+    {
+      "name": "The Oasis at Lake Travis",
+      "address": "6550 Comanche Trail",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Non-Combustible",
+      "year_built": 2012,
+      "stories": 2,
+      "sprinklered": true,
+      "protection_class": 5
+    },
+    {
+      "name": "Mission Cantina - Pearl District",
+      "address": "303 Pearl Parkway",
+      "city": "San Antonio",
+      "state": "TX",
+      "construction": "Joisted Masonry",
+      "year_built": 2014,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 4
+    },
+    {
+      "name": "Corporate Headquarters",
+      "address": "401 Congress Avenue, Suite 2800",
+      "city": "Austin",
+      "state": "TX",
+      "construction": "Fire Resistive",
+      "year_built": 2008,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 5
+    }
+  ],
+  "recommendation_count": 6,
+  "recommendations": [
+    {
+      "priority": "Severe",
+      "category": "structural",
+      "condition": "Visible roof deck sagging and water damage indicating potential structural compromise",
+      "action": "Engage structural engineer for immediate assessment; restrict access to affected area pending evaluation",
+      "days": 30
+    },
+    {
+      "priority": "Necessary",
+      "category": "electrical",
+      "condition": "Electrical panel clearance obstructed by stored materials",
+      "action": "Maintain minimum 36-inch clearance in front of all electrical panels per NEC Article 110.26",
+      "days": 90
+    },
+    {
+      "priority": "Necessary",
+      "category": "fire_protection",
+      "condition": "Hood suppression system in kitchen area has expired inspection tag",
+      "action": "Schedule semi-annual inspection of kitchen hood suppression system per NFPA 96 Section 12.2",
+      "days": 90
+    },
+    {
+      "priority": "Advisable",
+      "category": "security",
+      "condition": "Exterior lighting inadequate in parking area and loading dock",
+      "action": "Install additional lighting to maintain minimum 1 foot-candle at ground level in all exterior areas",
+      "days": 180
+    },
+    {
+      "priority": "Advisable",
+      "category": "maintenance",
+      "condition": "HVAC rooftop units show signs of deferred maintenance and corrosion",
+      "action": "Establish quarterly preventive maintenance program for all mechanical equipment",
+      "days": 180
+    },
+    {
+      "priority": "Advisable",
+      "category": "documentation",
+      "condition": "Hot work permit program not formally documented",
+      "action": "Implement written hot work permit program per NFPA 51B; train all affected personnel",
+      "days": 180
+    }
+  ],
+  "body_content": {
+    "cover": {
+      "Insured": "Hill Country Hospitality Partners, LLC",
+      "Policy Number": "CP-HCHP-2025-3352",
+      "Address": "604 Brazos Street",
+      "City, State, ZIP": "Austin, TX 78701",
+      "SIC Code": "7011",
+      "Inspector": "L. Thompson, CSP",
+      "Inspection Date": "02/10/2026",
+      "Report Date": "03/15/2026",
+      "Report Title": "Roof Condition Certification Report",
+      "Overall Risk Grade": "PPC 5",
+      "Grading Scale": "ISO Public Protection Class"
+    },
+    "locations_inspected": {
+      "count": "8",
+      "entries": [
+        {
+          "name": "The Driskill Austin",
+          "address": "604 Brazos Street",
+          "city": "Austin",
+          "state": "TX",
+          "zip_code": "78701",
+          "construction": "Fire Resistive",
+          "year_built": "2010",
+          "stories": "8",
+          "sprinklered": "Yes",
+          "protection_class": "5"
+        },
+        {
+          "name": "Riverwalk Suites San Antonio",
+          "address": "112 College Street",
+          "city": "San Antonio",
+          "state": "TX",
+          "zip_code": "78205",
+          "construction": "Fire Resistive",
+          "year_built": "2006",
+          "stories": "12",
+          "sprinklered": "Yes",
+          "protection_class": "2"
+        },
+        {
+          "name": "Fredericksburg Inn & Spa",
+          "address": "245 East Main Street",
+          "city": "Fredericksburg",
+          "state": "TX",
+          "zip_code": "78624",
+          "construction": "Masonry Non-Combustible",
+          "year_built": "1998",
+          "stories": "3",
+          "sprinklered": "Yes",
+          "protection_class": "1"
+        },
+        {
+          "name": "South Congress Motor Hotel",
+          "address": "1220 South Congress Avenue",
+          "city": "Austin",
+          "state": "TX",
+          "zip_code": "78704",
+          "construction": "Masonry Non-Combustible",
+          "year_built": "2015",
+          "stories": "4",
+          "sprinklered": "Yes",
+          "protection_class": "2"
+        },
+        {
+          "name": "Blanco River Steakhouse",
+          "address": "608 Brazos Street",
+          "city": "Austin",
+          "state": "TX",
+          "zip_code": "78701",
+          "construction": "Fire Resistive",
+          "year_built": "2010",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "2"
+        },
+        {
+          "name": "The Oasis at Lake Travis",
+          "address": "6550 Comanche Trail",
+          "city": "Austin",
+          "state": "TX",
+          "zip_code": "78732",
+          "construction": "Non-Combustible",
+          "year_built": "2012",
+          "stories": "2",
+          "sprinklered": "Yes",
+          "protection_class": "5"
+        },
+        {
+          "name": "Mission Cantina - Pearl District",
+          "address": "303 Pearl Parkway",
+          "city": "San Antonio",
+          "state": "TX",
+          "zip_code": "78215",
+          "construction": "Joisted Masonry",
+          "year_built": "2014",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "4"
+        },
+        {
+          "name": "Corporate Headquarters",
+          "address": "401 Congress Avenue, Suite 2800",
+          "city": "Austin",
+          "state": "TX",
+          "zip_code": "78701",
+          "construction": "Fire Resistive",
+          "year_built": "2008",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "5"
+        }
+      ]
+    },
+    "property_information": {
+      "Insured": "Hill Country Hospitality Partners, LLC",
+      "Policy Number": "CP-HCHP-2025-3352",
+      "Address": "604 Brazos Street, Austin, TX 78701"
+    },
+    "roofing": {
+      "Roof Type": "TPO",
+      "Roof Age": "16 years",
+      "Condition Rating": "Severe",
+      "Estimated Remaining Useful Life": "0 years"
+    },
+    "roof_condition_rating": {
+      "Overall Roof Condition": "Excellent",
+      "Estimated Remaining Useful Life": "7 years"
+    },
+    "components_assessment": {
+      "Decking": "Poor",
+      "Flashings": "Good",
+      "Penetrations": "Good",
+      "Drainage": "Adequate",
+      "Parapet Walls": "Cracking"
+    },
+    "deficiencies": {
+      "items": [
+        "[Code] Multiple areas of ponding water observed on flat roof sections"
+      ]
+    },
+    "deficiency_log": {
+      "items": [
+        "[Code] Multiple areas of ponding water observed on flat roof sections"
+      ]
+    },
+    "wind_mitigation": {
+      "Roof Deck Attachment": "B - Nails (6\" o.c.)",
+      "Roof-to-Wall Connection": "Single Wraps",
+      "Roof Geometry": "Gable",
+      "Secondary Water Resistance": "No",
+      "Opening Protection": "Impact-Rated"
+    }
+  },
+  "sections_rendered": [
+    "components_assessment",
+    "cover",
+    "deficiencies",
+    "deficiency_log",
+    "locations_inspected",
+    "property_information",
+    "roof_condition_rating",
+    "roofing",
+    "wind_mitigation"
+  ],
+  "component_ratings": {
+    "Decking": "Poor",
+    "Flashings": "Good",
+    "Penetrations": "Good",
+    "Drainage": "Adequate",
+    "Parapet Walls": "Cracking"
+  },
+  "deficiencies": [
+    "[Code] Multiple areas of ponding water observed on flat roof sections"
+  ]
+}

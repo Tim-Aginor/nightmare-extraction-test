@@ -1,0 +1,74 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": 95,
+    "naics_code": null,
+    "nature_of_business": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio, headquartered in Columbus.",
+    "sic_code": null,
+    "years_in_business": 31
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Property coverage on a blanket basis with agreed value endorsement. Wind/hail deductible applies per schedule.",
+      "requested_limit": "Blanket basis with agreed value endorsement"
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Transfer Submission",
+    "prepared_by": "Karen Weissman, Account Executive, Midwest Property & Casualty Group",
+    "recipient": "Underwriting Department, Maine Employers Mutual"
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "The loss experience reflects a mixed trend with some large individual claims in the review period. Over the review period, the insured has incurred 2 total claims with $202,875.00 in total paid losses and $238,554.44 total incurred. Currently, 1 claim remains open and 1 has been closed.\n\nAnnualized loss ratio is 28.1% (avg annual incurred $119,277.22 against current annual premium $424,883.27 over 2 loss years).",
+    "executive_summary": "We are pleased to submit Buckeye Industrial Properties, LLC for your review and consideration. The insured is a industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio, headquartered in Columbus, with approximately 31 years of operating history. Coverage is requested for Commercial Property.",
+    "operations_description": "The insured is a industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio, headquartered in Columbus, with approximately 31 years of operating history.",
+    "safety_programs": "The insured maintains a formal business continuity and disaster recovery plan tested annually. An employee assistance program and workplace wellness initiative have been in place for over five years. All facilities maintain current fire suppression and sprinkler systems inspected annually by certified contractors. The insured carries contractual risk transfer provisions in all subcontractor and vendor agreements. All locations are equipped with security camera systems and 24/7 monitoring services. The insured has implemented a formal return-to-work program that has reduced lost-time claims by over 30%. The organization has achieved ISO 9001 certification, reflecting a commitment to quality and process control. With 95 employees and a structured HR program, the insured maintains low turnover and consistent safety training."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Loss experience reflects a mixed trend with some large individual claims in the review period.",
+      "The insured has incurred 2 total claims with 238554.44 total incurred, and 1 claim remains open."
+    ],
+    "loss_history_summary": "The insured incurred 2 total claims over the review period with 202875.00 in total paid losses and 238554.44 total incurred. One claim remains open and one has been closed. Annualized loss ratio is 28.1%, with average annual incurred of 119277.22 against current annual premium of 424883.27 over 2 loss years.",
+    "positives": [
+      "Formal business continuity and disaster recovery plan tested annually.",
+      "Employee assistance program and workplace wellness initiative in place for over five years.",
+      "All facilities maintain current fire suppression and sprinkler systems inspected annually by certified contractors.",
+      "Contractual risk transfer provisions in all subcontractor and vendor agreements.",
+      "All locations equipped with security camera systems and 24/7 monitoring services.",
+      "Formal return-to-work program has reduced lost-time claims by over 30%.",
+      "ISO 9001 certification reflects commitment to quality and process control.",
+      "31 years of continuous operations under consistent management demonstrates operational stability.",
+      "95 employees with a structured HR program, low turnover, and consistent safety training."
+    ]
+  }
+}

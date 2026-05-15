@@ -1,0 +1,444 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "dec_page",
+  "type": "object",
+  "properties": {
+    "policy_info": {
+      "type": "object",
+      "properties": {
+        "policy_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "effective_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "expiration_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "carrier_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "carrier_naic": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "policy_number",
+        "policy_type",
+        "effective_date",
+        "expiration_date",
+        "carrier_name",
+        "carrier_naic"
+      ],
+      "additionalProperties": false
+    },
+    "insured": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "dba": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "city": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "state": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "AL",
+            "AK",
+            "AZ",
+            "AR",
+            "CA",
+            "CO",
+            "CT",
+            "DE",
+            "FL",
+            "GA",
+            "HI",
+            "ID",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "LA",
+            "ME",
+            "MD",
+            "MA",
+            "MI",
+            "MN",
+            "MS",
+            "MO",
+            "MT",
+            "NE",
+            "NV",
+            "NH",
+            "NJ",
+            "NM",
+            "NY",
+            "NC",
+            "ND",
+            "OH",
+            "OK",
+            "OR",
+            "PA",
+            "RI",
+            "SC",
+            "SD",
+            "TN",
+            "TX",
+            "UT",
+            "VT",
+            "VA",
+            "WA",
+            "WV",
+            "WI",
+            "WY",
+            "DC",
+            "PR",
+            "GU",
+            "VI",
+            "AS",
+            "MP",
+            null
+          ]
+        },
+        "zip": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "entity_type": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "Corporation",
+            "LLC",
+            "Limited Partnership",
+            null
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "dba",
+        "address",
+        "city",
+        "state",
+        "zip",
+        "entity_type"
+      ],
+      "additionalProperties": false
+    },
+    "producer": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "code": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "address",
+        "code"
+      ],
+      "additionalProperties": false
+    },
+    "coverages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "coverage_type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "coverage_code": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "limit": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "deductible": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "premium": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "form_numbers": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "coverage_type",
+          "coverage_code",
+          "limit",
+          "deductible",
+          "premium",
+          "form_numbers"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "locations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "location_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "address": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "city": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "state": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "AL",
+              "AK",
+              "AZ",
+              "AR",
+              "CA",
+              "CO",
+              "CT",
+              "DE",
+              "FL",
+              "GA",
+              "HI",
+              "ID",
+              "IL",
+              "IN",
+              "IA",
+              "KS",
+              "KY",
+              "LA",
+              "ME",
+              "MD",
+              "MA",
+              "MI",
+              "MN",
+              "MS",
+              "MO",
+              "MT",
+              "NE",
+              "NV",
+              "NH",
+              "NJ",
+              "NM",
+              "NY",
+              "NC",
+              "ND",
+              "OH",
+              "OK",
+              "OR",
+              "PA",
+              "RI",
+              "SC",
+              "SD",
+              "TN",
+              "TX",
+              "UT",
+              "VT",
+              "VA",
+              "WA",
+              "WV",
+              "WI",
+              "WY",
+              "DC",
+              "PR",
+              "GU",
+              "VI",
+              "AS",
+              "MP",
+              null
+            ]
+          },
+          "zip": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "description": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "location_number",
+          "address",
+          "city",
+          "state",
+          "zip",
+          "description"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "premium_summary": {
+      "type": "object",
+      "properties": {
+        "total_premium": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "taxes_fees": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "total_due": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "total_premium",
+        "taxes_fees",
+        "total_due"
+      ],
+      "additionalProperties": false
+    },
+    "endorsements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "form_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "title": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "form_number",
+          "title"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "forms_attached": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "policy_info",
+    "insured",
+    "producer",
+    "coverages",
+    "locations",
+    "premium_summary",
+    "endorsements",
+    "forms_attached"
+  ],
+  "additionalProperties": false
+}

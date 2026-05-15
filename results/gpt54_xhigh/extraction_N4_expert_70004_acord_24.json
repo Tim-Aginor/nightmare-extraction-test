@@ -1,0 +1,83 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "National Insurance Company",
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "document_date": "2016-08-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15222",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 10000000,
+      "contents_value": 1450000,
+      "bi_value": 500000,
+      "tiv": 11950000
+    }
+  ],
+  "property_limits": {
+    "building": 10000000,
+    "contents": 1450000,
+    "business_income": 500000
+  },
+  "property_deductible": 5000,
+  "insurer_panel": [
+    {
+      "carrier": "National Insurance Company",
+      "naic": null
+    },
+    {
+      "carrier": "National Indemnity Company",
+      "naic": null
+    },
+    {
+      "carrier": "National Casualty Company",
+      "naic": null
+    },
+    {
+      "carrier": "National Assurance Company",
+      "naic": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "basic_form",
+      "value": "No"
+    },
+    {
+      "field": "broad_form",
+      "value": "No"
+    },
+    {
+      "field": "special_form",
+      "value": "Yes"
+    }
+  ],
+  "remarks": null
+}

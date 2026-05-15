@@ -12,7 +12,7 @@ Return a single JSON object:
 {
   "policy_info": {
     "policy_number": "<string>",
-    "policy_type": "<Commercial Package|BOP|Workers Comp|Auto|Umbrella|etc.>",
+    "policy_type": "<string>",
     "effective_date": "<YYYY-MM-DD>",
     "expiration_date": "<YYYY-MM-DD>",
     "carrier_name": "<string>",
@@ -25,7 +25,7 @@ Return a single JSON object:
     "city": "<string>",
     "state": "<string>",
     "zip": "<string>",
-    "entity_type": "<Corporation|LLC|etc. or null>"
+    "entity_type": "<Corporation|LLC|Limited Partnership or null>"
   },
   "producer": {
     "name": "<string or null>",

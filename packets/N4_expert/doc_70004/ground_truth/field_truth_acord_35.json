@@ -1,0 +1,60 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    },
+    "producer_name": {
+      "value": "Steel City Insurance Group"
+    },
+    "producer_contact": {
+      "value": "Patricia Nowak"
+    },
+    "producer_phone": {
+      "value": "(412) 555-0287"
+    },
+    "producer_fax": {
+      "value": "(412) 580-2110"
+    },
+    "producer_license_number": {
+      "value": "AG-7721034"
+    },
+    "policy_number": {
+      "value": "WC-KCB-2025-5580"
+    },
+    "cancellation_date": {
+      "value": "2026-07-29",
+      "rendered_as": "07/29/2026"
+    },
+    "cancellation_reason": {
+      "value": "Non-Renewal"
+    }
+  },
+  "doc_type": "acord_35"
+}

@@ -1,0 +1,63 @@
+{
+  "document_type": "financial_statement",
+  "template": "hallmark_style",
+  "seed": 70003,
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800, Austin, TX, 78701",
+    "street": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip_code": "78701"
+  },
+  "carrier": "Hallmark Insurance Group",
+  "policy_period": {
+    "start": "2025-05-01",
+    "end": "2026-05-01"
+  },
+  "policy_numbers": {
+    "wc": "WC-HCHP-2025-3350",
+    "gl": "GL-HCHP-2025-3351",
+    "property": "CP-HCHP-2025-3352"
+  },
+  "summary": {
+    "annual_revenue": 42000000,
+    "num_employees": 285,
+    "balance_sheet": {
+      "cash": 8884400.0,
+      "accounts_receivable": 4766200.0,
+      "inventory": 377700.0,
+      "prepaid_expenses": 1050000.0,
+      "ppe_net": 42000000.0,
+      "other_assets": 19926000.0,
+      "total_assets": 77004300.0,
+      "accounts_payable": 7467100.0,
+      "accrued_expenses": 5014800.0,
+      "current_lt_debt": 3486000.0,
+      "long_term_debt": 6543500.0,
+      "other_liabilities": 1957500.0,
+      "total_liabilities": 24468900.0,
+      "equity": 52535400.0
+    },
+    "income_statement": {
+      "revenue": 42000000,
+      "cogs": 22444200.0,
+      "gross_profit": 19555800.0,
+      "operating_expenses": 12809400.0,
+      "depreciation": 1657000.0,
+      "ebit": 5089400.0,
+      "interest_expense": 951500.0,
+      "ebt": 4137900.0,
+      "tax_rate": 0.2217,
+      "tax_provision": 917300.0,
+      "net_income": 3220600.0
+    },
+    "ratios": {
+      "current_ratio": 0.9443,
+      "debt_to_equity": 0.4658,
+      "profit_margin": 0.0767,
+      "return_on_assets": 0.0418
+    }
+  },
+  "page_count": 2
+}

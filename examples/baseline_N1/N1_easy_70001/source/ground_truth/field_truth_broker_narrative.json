@@ -1,0 +1,85 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP"
+    },
+    "carrier_name": {
+      "value": "Apex Managing General Agency"
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500"
+    },
+    "insured_city": {
+      "value": "Dallas"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "75201"
+    },
+    "producer_name": {
+      "value": "Texas Commercial Insurance Partners",
+      "locations": [
+        {
+          "page": 1,
+          "x": 52.8,
+          "y": 56.2,
+          "width": 298.9,
+          "height": 14.0
+        },
+        {
+          "page": 2,
+          "x": 52.8,
+          "y": 349.2,
+          "width": 190.1,
+          "height": 10.0
+        }
+      ]
+    },
+    "producer_contact": {
+      "value": "Sandra Villareal",
+      "locations": [
+        {
+          "page": 2,
+          "x": 52.8,
+          "y": 317.2,
+          "width": 90.0,
+          "height": 10.0
+        }
+      ]
+    },
+    "premium_property": {
+      "value": 403697.14,
+      "rendered_as": "$403,697.14"
+    },
+    "account_type": {
+      "value": "Transfer"
+    }
+  },
+  "doc_type": "broker_narrative",
+  "sections_rendered": [
+    "account_summary",
+    "coverage_overview",
+    "loss_history",
+    "risk_highlights",
+    "recommendation"
+  ],
+  "loss_summary": {
+    "total_claims": 3,
+    "total_paid": 259081.54,
+    "total_incurred": 303232.6,
+    "open_claims": 1,
+    "closed_claims": 2,
+    "per_coverage": [
+      {
+        "coverage": "property",
+        "claims": 3,
+        "paid": 259081.54,
+        "incurred": 303232.6,
+        "open": 1,
+        "closed": 2
+      }
+    ]
+  }
+}

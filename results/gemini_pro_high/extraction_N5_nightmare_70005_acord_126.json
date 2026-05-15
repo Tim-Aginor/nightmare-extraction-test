@@ -1,0 +1,119 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": null,
+    "form_title": "COMMERCIAL GENERAL LIABILITY SECTION"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "gl-GLFS-2025-8821",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": null,
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "31-6847291",
+    "sic_code": null,
+    "naics_code": "484121",
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "gl_class_codes": [
+    {
+      "class_code": "67419",
+      "description": "Truckers - Long Haul",
+      "premium_basis": "Payroll",
+      "exposure": 16000000,
+      "rate": 8.75,
+      "premium": 145775
+    },
+    {
+      "class_code": "52451",
+      "description": "Warehouse - Private",
+      "premium_basis": "Area",
+      "exposure": 695000,
+      "rate": 1.25,
+      "premium": 869
+    }
+  ],
+  "gl_limits": {
+    "each_occurrence": 2000000,
+    "general_aggregate": 4000000,
+    "products_completed_ops": 4000000,
+    "personal_advertising": 2000000,
+    "damage_rented_premises": 300000,
+    "medical_expense": 10000
+  },
+  "gl_premium": {
+    "base_premium": 146644,
+    "tria_surcharge": 6370,
+    "total_premium": 153014,
+    "deductible": 5000,
+    "form_type": "Occurrence"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Hired & Non-Owned Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "1. Does the applicant perform any demolition work?",
+      "value": "No"
+    },
+    {
+      "field": "2. Are products manufactured, sold, or distributed?",
+      "value": "Yes"
+    },
+    {
+      "field": "3. Are any operations conducted outside the United States?",
+      "value": "No"
+    },
+    {
+      "field": "4. Does the applicant have any work performed by subcontractors?",
+      "value": "No"
+    },
+    {
+      "field": "5. Is there any work performed on or near bodies of water?",
+      "value": "No"
+    },
+    {
+      "field": "6. Are written contracts/agreements required from all subcontractors?",
+      "value": "No"
+    },
+    {
+      "field": "7. Is there any underground storage of hazardous substances?",
+      "value": "No"
+    },
+    {
+      "field": "8. Are there any completed operations exposures?",
+      "value": "No"
+    },
+    {
+      "field": "9. Are any premises/operations rented or leased to others?",
+      "value": "No"
+    },
+    {
+      "field": "10. Does the applicant provide professional services or advice?",
+      "value": "No"
+    },
+    {
+      "field": "11. Are there any athletic or recreational facilities on premises?",
+      "value": "No"
+    },
+    {
+      "field": "12. Are there swimming pools, hot tubs, or diving boards on premises?",
+      "value": "No"
+    }
+  ],
+  "remarks": "Need docs"
+}

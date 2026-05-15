@@ -1,0 +1,470 @@
+{
+  "form_info": {
+    "form_number": "ACORD 140",
+    "form_edition": "2016/03",
+    "form_title": "Property Section"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "ACT-276136",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "cpGLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 54110000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property",
+      "limit": 30320000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense",
+      "limit": 57954000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "loc_001_sprinklered": "Yes",
+    "loc_001_burglar_alarm": null,
+    "loc_001_fire_alarm": "Yes",
+    "loc_002_sprinklered": "Yes",
+    "loc_002_burglar_alarm": "No",
+    "loc_002_fire_alarm": "Yes",
+    "loc_003_sprinklered": "Yes",
+    "loc_003_burglar_alarm": "Yes",
+    "loc_003_fire_alarm": "No",
+    "loc_004_sprinklered": "Yes",
+    "loc_004_burglar_alarm": "Yes",
+    "loc_004_fire_alarm": "Yes",
+    "loc_005_sprinklered": "Yes",
+    "loc_005_burglar_alarm": "Yes",
+    "loc_005_fire_alarm": "Yes",
+    "loc_006_sprinklered": "Yes",
+    "loc_006_burglar_alarm": "Yes",
+    "loc_006_fire_alarm": "Yes",
+    "loc_007_sprinklered": "Yes",
+    "loc_007_burglar_alarm": "Yes",
+    "loc_007_fire_alarm": "Yes",
+    "loc_008_sprinklered": "Yes",
+    "loc_008_burglar_alarm": "Yes",
+    "loc_008_fire_alarm": "Yes",
+    "loc_009_sprinklered": "Yes",
+    "loc_009_burglar_alarm": "No",
+    "loc_009_fire_alarm": "Yes"
+  },
+  "additional_fields": {
+    "date_prepared": "2026-03-15",
+    "contact_name": "David Reinhardt",
+    "agency_customer_id": "ACT-276136",
+    "carrier_naic_code": "24281",
+    "policy_deductible": 50000,
+    "valuation_method": "Actual Cash Value",
+    "blanket_summary": {
+      "blanket_number": null,
+      "blanket_type": "Building",
+      "number_of_locations": 9,
+      "total_insured_value": 142384000,
+      "building_total": 54110000,
+      "contents_bpp_total": 30320000,
+      "bi_ee_total": 57954000
+    },
+    "interests": [
+      {
+        "type": "ISAOA/ATIMA",
+        "name": "Comerica Bank",
+        "address": "P.O. Box 79568, Elk Grove, CA 95624",
+        "loan_reference_number": "L-179672716"
+      }
+    ],
+    "signature": {
+      "signed_by": "L. Taylor",
+      "signed_date": "2026-03-06"
+    },
+    "schedule_of_locations": [
+      {
+        "building_number": 1,
+        "premises_number": "LOC-001",
+        "location_address": "1200 Nationwide Boulevard, Columbus, OH 43215",
+        "location_description": "Corporate Headquarters & Main Terminal",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": 5,
+        "year_built": 2005,
+        "number_of_stories": 1,
+        "total_area_sqft": 125000,
+        "occupancy": "Warehouse",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2026,
+          "plumbing_year_updated": 2019,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2018
+        },
+        "fire_protection": {
+          "distance_to_fire_station": null,
+          "distance_to_hydrant_ft": 1410,
+          "fire_district": "District 5",
+          "sprinkler_system": "Wet Pipe",
+          "sprinkler_coverage_pct": 75,
+          "protection_class": 5
+        },
+        "alarm_systems": {
+          "burglar_alarm": null,
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Direct to Fire Department"
+        },
+        "covered_values": {
+          "building": 10000000,
+          "contents_bpp": 5000000,
+          "bi_ee": 9750000,
+          "total_insured_value": 24750000
+        }
+      },
+      {
+        "building_number": 2,
+        "premises_number": "LOC-002",
+        "location_address": "2500 Norton Road, Columbus, OH 43217",
+        "location_description": "Rickenbacker Air Hub",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": 5,
+        "year_built": 2012,
+        "number_of_stories": 1,
+        "total_area_sqft": 185000,
+        "occupancy": "Warehouse",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2021,
+          "plumbing_year_updated": 2025,
+          "roofing_year_updated": 2022,
+          "wiring_year_updated": 2023
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "2 miles",
+          "distance_to_hydrant_ft": 2485,
+          "fire_district": "District 1",
+          "sprinkler_system": null,
+          "sprinkler_coverage_pct": 100,
+          "protection_class": 5
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Direct to Fire Department"
+        },
+        "covered_values": {
+          "building": 14800000,
+          "contents_bpp": 7400000,
+          "bi_ee": 14430000,
+          "total_insured_value": 36630000
+        }
+      },
+      {
+        "building_number": 3,
+        "premises_number": "LOC-003",
+        "location_address": "6000 Rockside Woods Boulevard, Independence, OH 44131",
+        "location_description": "Cleveland Distribution Center",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": 3,
+        "year_built": 1998,
+        "number_of_stories": 1,
+        "total_area_sqft": 95000,
+        "occupancy": "Warehouse",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2024,
+          "plumbing_year_updated": 2003,
+          "roofing_year_updated": 2008,
+          "wiring_year_updated": 2003
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "4 miles",
+          "distance_to_hydrant_ft": 531,
+          "fire_district": "District 3",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_pct": 100,
+          "protection_class": 3
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "No",
+          "fire_alarm_type": "None"
+        },
+        "covered_values": {
+          "building": 6650000,
+          "contents_bpp": 3800000,
+          "bi_ee": 7410000,
+          "total_insured_value": 17860000
+        }
+      },
+      {
+        "building_number": 4,
+        "premises_number": "LOC-004",
+        "location_address": "800 Technology Drive, Canonsburg, PA 15317",
+        "location_description": "Pittsburgh Regional Terminal",
+        "construction_type": "Non-Combustible",
+        "roof_type": "TPO",
+        "protection_class": 1,
+        "year_built": 2008,
+        "number_of_stories": 1,
+        "total_area_sqft": 78000,
+        "occupancy": "Warehouse",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2026,
+          "plumbing_year_updated": 2026,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2021
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "3 miles",
+          "distance_to_hydrant_ft": 844,
+          "fire_district": "District 2",
+          "sprinkler_system": "Wet Pipe",
+          "sprinkler_coverage_pct": 100,
+          "protection_class": 1
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Proprietary System"
+        },
+        "covered_values": {
+          "building": 5460000,
+          "contents_bpp": 3120000,
+          "bi_ee": 6084000,
+          "total_insured_value": 14664000
+        }
+      },
+      {
+        "building_number": 5,
+        "premises_number": "LOC-005",
+        "location_address": "State Road, Philadelphia, PA 19136",
+        "location_description": "Philadelphia Cross-Dock",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Single-Ply Membrane",
+        "protection_class": 1,
+        "year_built": 2001,
+        "number_of_stories": 1,
+        "total_area_sqft": 68000,
+        "occupancy": "Warehouse",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2013,
+          "plumbing_year_updated": 2022,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2019
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "7 miles",
+          "distance_to_hydrant_ft": 2967,
+          "fire_district": "District 3",
+          "sprinkler_system": "Dry Pipe",
+          "sprinkler_coverage_pct": 100,
+          "protection_class": 1
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Local Alarm Only"
+        },
+        "covered_values": {
+          "building": 4760000,
+          "contents_bpp": 2720000,
+          "bi_ee": 5304000,
+          "total_insured_value": 12784000
+        }
+      },
+      {
+        "building_number": 6,
+        "premises_number": "LOC-006",
+        "location_address": "Industrial Road, Harrisburg, PA 17111",
+        "location_description": "Harrisburg Consolidation Hub",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Modified Bitumen",
+        "protection_class": 5,
+        "year_built": 2015,
+        "number_of_stories": 1,
+        "total_area_sqft": 92000,
+        "occupancy": "Warehouse",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2026,
+          "plumbing_year_updated": 2025,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2026
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "5 miles",
+          "distance_to_hydrant_ft": 1994,
+          "fire_district": "District 1",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_pct": 90,
+          "protection_class": 5
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Proprietary System"
+        },
+        "covered_values": {
+          "building": 7360000,
+          "contents_bpp": 3680000,
+          "bi_ee": 7176000,
+          "total_insured_value": 18216000
+        }
+      },
+      {
+        "building_number": 7,
+        "premises_number": "LOC-007",
+        "location_address": "3500 Airborne Road, Toledo, OH 43609",
+        "location_description": "Toledo Service Center",
+        "construction_type": "Joisted Masonry",
+        "roof_type": "TPO",
+        "protection_class": 3,
+        "year_built": 1995,
+        "number_of_stories": 1,
+        "total_area_sqft": 52000,
+        "occupancy": "Warehouse",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2010,
+          "plumbing_year_updated": 2008,
+          "roofing_year_updated": 2005,
+          "wiring_year_updated": 2000
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "8 miles",
+          "distance_to_hydrant_ft": 1577,
+          "fire_district": "District 7",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_pct": 90,
+          "protection_class": 3
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Local Alarm Only"
+        },
+        "covered_values": {
+          "building": 3120000,
+          "contents_bpp": 2080000,
+          "bi_ee": 4056000,
+          "total_insured_value": 9256000
+        }
+      },
+      {
+        "building_number": 8,
+        "premises_number": "LOC-008",
+        "location_address": "1200 Nationwide Boulevard, Columbus, OH 43215",
+        "location_description": "Fleet Maintenance Center",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "TPO",
+        "protection_class": 5,
+        "year_built": 2005,
+        "number_of_stories": 1,
+        "total_area_sqft": 28000,
+        "occupancy": "Service/Repair",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "building_improvements": {
+          "heating_year_updated": 2026,
+          "plumbing_year_updated": 2015,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2026
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "6 miles",
+          "distance_to_hydrant_ft": 1020,
+          "fire_district": "District 7",
+          "sprinkler_system": "Dry Pipe",
+          "sprinkler_coverage_pct": 100,
+          "protection_class": 5
+        },
+        "alarm_systems": {
+          "burglar_alarm": "Yes",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Central Station Monitored"
+        },
+        "covered_values": {
+          "building": 1960000,
+          "contents_bpp": 1680000,
+          "bi_ee": 2184000,
+          "total_insured_value": 5824000
+        }
+      },
+      {
+        "building_number": 9,
+        "premises_number": "LOC-009",
+        "location_address": "41 South High Street, Suite 1500, Columbus, OH 43215",
+        "location_description": "Administrative Office",
+        "construction_type": "Tenant \u2014 contents & BI only",
+        "roof_type": "Modified Bitumen",
+        "protection_class": 3,
+        "year_built": 2010,
+        "number_of_stories": 1,
+        "total_area_sqft": 12000,
+        "occupancy": "Office",
+        "sprinklered": "Yes",
+        "ownership": "Tenant",
+        "building_improvements": {
+          "heating_year_updated": 2026,
+          "plumbing_year_updated": 2026,
+          "roofing_year_updated": 2026,
+          "wiring_year_updated": 2026
+        },
+        "fire_protection": {
+          "distance_to_fire_station": "5 miles",
+          "distance_to_hydrant_ft": 1402,
+          "fire_district": "District 6",
+          "sprinkler_system": "Pre-Action",
+          "sprinkler_coverage_pct": 85,
+          "protection_class": 3
+        },
+        "alarm_systems": {
+          "burglar_alarm": "No",
+          "fire_alarm": "Yes",
+          "fire_alarm_type": "Proprietary System"
+        },
+        "covered_values": {
+          "building": 0,
+          "building_note": "Tenant-Occupied \u2014 N/A",
+          "contents_bpp": 840000,
+          "bi_ee": 1560000,
+          "total_insured_value": 2400000
+        }
+      }
+    ]
+  },
+  "remarks": "Policy deductible $50,000 per occurrence; valuation method Actual Cash Value. Blanket coverage type: Building; total blanket insured value $142,384,000 across 9 locations (Building $54,110,000 + Contents/BPP $30,320,000 + BI/EE $57,954,000). LOC-009 is tenant-occupied; building coverage not applicable ($0). Mortgagee: Comerica Bank (ISAOA/ATIMA), Loan No. L-179672716, P.O. Box 79568, Elk Grove, CA 95624. Signed by L. Taylor on 2026-03-06. Several pages partially obscured by scan quality; some street numbers and select field values for LOC-001 burglar alarm, LOC-002 sprinkler system type, and partial addresses for LOC-004, LOC-005, and LOC-006 could not be confirmed with full certainty."
+}

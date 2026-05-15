@@ -1,0 +1,198 @@
+{
+  "form_info": {
+    "form_number": "ACORD 23",
+    "form_edition": "05/2016",
+    "form_title": "CERTIFICATE OF AUTOMOBILE INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Holdings, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Specialty Company",
+    "policy_number": "CPT 4078204-04-05",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2022,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2021,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Express 2500",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2020,
+      "make": "Featherlite",
+      "model": "Magnets 169",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "14",
+      "year": 2021,
+      "make": "T&M",
+      "model": "Trailer",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Carry-On",
+      "model": "Package SC",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 1000000,
+    "uninsured_motorist": null,
+    "medical_payments": null
+  },
+  "auto_deductible": null,
+  "insurer_panel": [
+    {
+      "carrier": "Hallmark Specialty Company",
+      "naic": "41840"
+    },
+    {
+      "carrier": "Hallmark Indemnity Company",
+      "naic": "43430"
+    },
+    {
+      "carrier": "Hallmark County Company",
+      "naic": "43565"
+    },
+    {
+      "carrier": "Hallmark American E&S Company",
+      "naic": "41858"
+    }
+  ],
+  "checkboxes": [],
+  "remarks": null
+}

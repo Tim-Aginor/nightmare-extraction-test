@@ -1,0 +1,360 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP",
+      "locations": [
+        {
+          "page": 1,
+          "x": 50.8,
+          "y": 178.1,
+          "width": 135.8,
+          "height": 7.5
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Apex Managing General Agency",
+      "locations": [
+        {
+          "page": 1,
+          "x": 370.3,
+          "y": 226.4,
+          "width": 104.2,
+          "height": 6.5
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500",
+      "locations": [
+        {
+          "page": 1,
+          "x": 50.8,
+          "y": 187.6,
+          "width": 115.2,
+          "height": 7.5
+        }
+      ]
+    },
+    "insured_city": {
+      "value": "Dallas"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "75201"
+    },
+    "policy_period_start": {
+      "value": "2025-07-01",
+      "rendered_as": "07/01/2025",
+      "locations": [
+        {
+          "page": 1,
+          "x": 277.9,
+          "y": 448.4,
+          "width": 37.5,
+          "height": 6.5
+        }
+      ]
+    },
+    "policy_period_end": {
+      "value": "2026-07-01",
+      "rendered_as": "07/01/2026",
+      "locations": [
+        {
+          "page": 1,
+          "x": 334.9,
+          "y": 448.4,
+          "width": 37.5,
+          "height": 6.5
+        }
+      ]
+    },
+    "document_date": {
+      "value": "2026-03-16",
+      "rendered_as": "03/16/2026",
+      "locations": [
+        {
+          "page": 1,
+          "x": 513.1,
+          "y": 75.7,
+          "width": 46.1,
+          "height": 8.0
+        }
+      ]
+    },
+    "producer_name": {
+      "value": "Texas Commercial Insurance Partners",
+      "locations": [
+        {
+          "page": 1,
+          "x": 50.8,
+          "y": 134.6,
+          "width": 160.1,
+          "height": 7.5
+        }
+      ]
+    },
+    "producer_contact": {
+      "value": "Sandra Villareal",
+      "locations": [
+        {
+          "page": 1,
+          "x": 335.9,
+          "y": 134.3,
+          "width": 55.3,
+          "height": 7.0
+        }
+      ]
+    },
+    "producer_phone": {
+      "value": "(214) 555-0918",
+      "locations": [
+        {
+          "page": 1,
+          "x": 335.9,
+          "y": 156.3,
+          "width": 54.7,
+          "height": 7.0
+        }
+      ]
+    },
+    "producer_fax": {
+      "value": "(214) 273-7259",
+      "locations": [
+        {
+          "page": 1,
+          "x": 462.0,
+          "y": 156.3,
+          "width": 54.7,
+          "height": 7.0
+        }
+      ]
+    },
+    "producer_email": {
+      "value": "svillareal@txcip.com",
+      "locations": [
+        {
+          "page": 1,
+          "x": 335.9,
+          "y": 178.3,
+          "width": 72.6,
+          "height": 7.0
+        }
+      ]
+    },
+    "producer_address": {
+      "value": "1700 Pacific Avenue, Suite 3200",
+      "locations": [
+        {
+          "page": 1,
+          "x": 50.8,
+          "y": 144.1,
+          "width": 121.7,
+          "height": 7.5
+        }
+      ]
+    },
+    "producer_license_number": {
+      "value": "AG-7703921",
+      "locations": [
+        {
+          "page": 1,
+          "x": 335.9,
+          "y": 200.3,
+          "width": 43.9,
+          "height": 7.0
+        }
+      ]
+    },
+    "policy_number_property": {
+      "value": "CP-LSPH-2025-7801",
+      "locations": [
+        {
+          "page": 1,
+          "x": 189.8,
+          "y": 448.4,
+          "width": 65.1,
+          "height": 6.5
+        }
+      ]
+    },
+    "policy_form_type": {
+      "value": "special"
+    },
+    "property_deductible": {
+      "value": 50000,
+      "rendered_as": "$50,000.00"
+    },
+    "property_limit_building": {
+      "value": 222340000,
+      "rendered_as": "$222,340,000.00"
+    },
+    "property_limit_contents": {
+      "value": 33432000,
+      "rendered_as": "$33,432,000.00"
+    },
+    "property_limit_business_income": {
+      "value": 59212000,
+      "rendered_as": "$59,212,000.00"
+    },
+    "location_count": {
+      "value": 8
+    }
+  },
+  "doc_type": "acord_24",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75225",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2008,
+      "stories": 18,
+      "square_feet": 285000,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 62700000,
+      "contents_value": 8550000,
+      "bi_value": 15200000,
+      "tiv": 86450000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "5050 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77056",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2001,
+      "stories": 12,
+      "square_feet": 168000,
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 33600000,
+      "contents_value": 5040000,
+      "bi_value": 8400000,
+      "tiv": 47040000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "5060 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77056",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2003,
+      "stories": 10,
+      "square_feet": 142000,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 28400000,
+      "contents_value": 4260000,
+      "bi_value": 7100000,
+      "tiv": 39760000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "7301 Lone Star Drive",
+      "city": "Plano",
+      "state": "TX",
+      "zip_code": "75024",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Mercantile",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 95000,
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 19000000,
+      "contents_value": 2850000,
+      "bi_value": 5700000,
+      "tiv": 27550000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "3200 McKinney Avenue",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75204",
+      "construction": "Fire Resistive",
+      "occupancy": "Mercantile",
+      "year_built": 2018,
+      "stories": 6,
+      "square_feet": 124000,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 31000000,
+      "contents_value": 4650000,
+      "bi_value": 9300000,
+      "tiv": 44950000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "1400 Enclave Parkway",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77077",
+      "construction": "Non-Combustible",
+      "occupancy": "Office",
+      "year_built": 1995,
+      "stories": 8,
+      "square_feet": 112000,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 19040000,
+      "contents_value": 2856000,
+      "bi_value": 5712000,
+      "tiv": 27608000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "800 8th Avenue",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip_code": "76104",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2015,
+      "stories": 5,
+      "square_feet": 78000,
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 17160000,
+      "contents_value": 3510000,
+      "bi_value": 4680000,
+      "tiv": 25350000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1256 Main Street",
+      "city": "Southlake",
+      "state": "TX",
+      "zip_code": "76092",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Mercantile",
+      "year_built": 2006,
+      "stories": 3,
+      "square_feet": 52000,
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 11440000,
+      "contents_value": 1716000,
+      "bi_value": 3120000,
+      "tiv": 16276000
+    }
+  ],
+  "insurer_panel": [
+    {
+      "letter": "A",
+      "name": "Apex Managing General Agency Insurance Company",
+      "naic": "22682"
+    }
+  ]
+}

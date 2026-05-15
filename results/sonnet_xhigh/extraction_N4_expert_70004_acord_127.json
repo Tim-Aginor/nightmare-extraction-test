@@ -1,0 +1,384 @@
+{
+  "form_info": {
+    "form_number": "ACORD 127",
+    "form_edition": "2016/03",
+    "form_title": "Business Auto Section"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CA-KCB-2025-5582",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Combined Single Limit (Ea Accident)",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Payments (Per Person)",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Uninsured Motorist",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "all_vehicles_owned_by_named_insured": "No",
+    "all_drivers_required_valid_cdl_where_applicable": "Yes",
+    "uses_subcontracted_or_independent_owner_operators": "No",
+    "maintains_written_vehicle_safety_and_maintenance_programs": "No",
+    "operates_under_federal_or_state_motor_carrier_authority": "No",
+    "vehicles_leased_or_rented_to_others": "No",
+    "vehicles_garaged_at_locations_other_than_insured_premises": "No",
+    "mvr_checks_performed_on_all_drivers_at_least_annually": "Yes",
+    "vehicles_used_for_livery_or_passenger_conveyance": "No"
+  },
+  "additional_fields": {
+    "form_date": "2026-03-14",
+    "policy_form_type": "occurrence",
+    "total_premium": 57889.77,
+    "driver_schedule": [
+      {
+        "driver_name": "Michael Petroski",
+        "date_of_birth": "1975-08-14",
+        "license_number": "PA-28371945",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2004-03-15",
+        "yrs_exp": 22,
+        "mvr_status": "Clear"
+      },
+      {
+        "driver_name": "Robert Mazur",
+        "date_of_birth": "1982-11-28",
+        "license_number": "PA-39482796",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2012-08-01",
+        "yrs_exp": 18,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Anthony DiNardo",
+        "date_of_birth": "1979-03-07",
+        "license_number": "PA-47593867",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2008-05-20",
+        "yrs_exp": 18,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "James Yutkovich",
+        "date_of_birth": "1985-08-22",
+        "license_number": "PA-58604978",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2015-02-10",
+        "yrs_exp": 11,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "David Krynicki",
+        "date_of_birth": "1988-01-15",
+        "license_number": "PA-69718089",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2019-08-01",
+        "yrs_exp": 8,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Thomas Babich",
+        "date_of_birth": "1973-05-30",
+        "license_number": "PA-70827190",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2001-09-15",
+        "yrs_exp": 25,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Steven Novak",
+        "date_of_birth": "1990-04-18",
+        "license_number": "PA-81938201",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2019-11-01",
+        "yrs_exp": 7,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Jennifer Pawlowski",
+        "date_of_birth": "1986-12-05",
+        "license_number": "PA-92049312",
+        "license_state": "PA",
+        "sex": "F",
+        "hire_date": "2018-04-10",
+        "yrs_exp": 18,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Mark Wierszewski",
+        "date_of_birth": "1983-07-19",
+        "license_number": "PA-03160423",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2013-10-01",
+        "yrs_exp": 13,
+        "mvr_status": "Clear"
+      },
+      {
+        "driver_name": "Paul Staniszewski",
+        "date_of_birth": "1991-02-28",
+        "license_number": "PA-14271534",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2020-03-15",
+        "yrs_exp": 17,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Gregory Kozlowski",
+        "date_of_birth": "1978-11-14",
+        "license_number": "PA-25382645",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2007-06-01",
+        "yrs_exp": 21,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Daniel Kowalski",
+        "date_of_birth": "1987-04-22",
+        "license_number": "PA-36493756",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2018-09-15",
+        "yrs_exp": 10,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Richard Jankowski",
+        "date_of_birth": "1980-09-05",
+        "license_number": "PA-47904867",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2010-01-15",
+        "yrs_exp": 26,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Kevin Zielinski",
+        "date_of_birth": "1993-08-13",
+        "license_number": "PA-58615978",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2021-08-01",
+        "yrs_exp": 6,
+        "mvr_status": "Minor Violations"
+      },
+      {
+        "driver_name": "Andrew Grabowski",
+        "date_of_birth": "1984-12-30",
+        "license_number": "PA-69726089",
+        "license_state": "PA",
+        "sex": "M",
+        "hire_date": "2014-11-15",
+        "yrs_exp": 12,
+        "mvr_status": "Clear"
+      }
+    ],
+    "vehicle_schedule": [
+      {
+        "unit_number": 1,
+        "year": 2023,
+        "make": "Ford",
+        "model": "F-550",
+        "vin": "1FT3E7C8PHDLL4K8",
+        "body_type": "Utility",
+        "cost_new": 82387.0,
+        "gvw": 19500,
+        "radius": "51 - 200 miles"
+      },
+      {
+        "unit_number": 2,
+        "year": 2024,
+        "make": "Ford",
+        "model": "F-350",
+        "vin": "1FDKV2R8MR5DL10F5",
+        "body_type": "Pickup",
+        "cost_new": 53837.0,
+        "gvw": 11500,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 3,
+        "year": 2022,
+        "make": "Ford",
+        "model": "F-350",
+        "vin": "1FD102JSKNDSM334RC",
+        "body_type": "Pickup",
+        "cost_new": 52449.0,
+        "gvw": 11500,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 4,
+        "year": 2020,
+        "make": "Ford",
+        "model": "F-250",
+        "vin": "1FT8MUNM1P3F6EWSN",
+        "body_type": "Pickup",
+        "cost_new": 47746.0,
+        "gvw": 10000,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 5,
+        "year": 2024,
+        "make": "Ram",
+        "model": "3500",
+        "vin": "3C6C9P801RJLSF37B",
+        "body_type": "Pickup",
+        "cost_new": 58782.0,
+        "gvw": 11500,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 6,
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Silverado 2500",
+        "vin": "1GCRCZVA6PM3DFW12",
+        "body_type": "Pickup",
+        "cost_new": 47691.0,
+        "gvw": 10000,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 7,
+        "year": 2023,
+        "make": "Ford",
+        "model": "E-450",
+        "vin": "3FADD3610NYY9RYCA",
+        "body_type": "Box Truck",
+        "cost_new": 63398.0,
+        "gvw": 14500,
+        "radius": "51 - 200 miles"
+      },
+      {
+        "unit_number": 8,
+        "year": 2023,
+        "make": "Ford",
+        "model": "Transit 350",
+        "vin": "1FT6S52RXPS8781YFF",
+        "body_type": "Cargo Van",
+        "cost_new": 48930.0,
+        "gvw": 8500,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 9,
+        "year": 2024,
+        "make": "Ford",
+        "model": "Transit 250",
+        "vin": "1FT45NYD3RA3MU1E7",
+        "body_type": "Cargo Van",
+        "cost_new": 45599.0,
+        "gvw": 9000,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 10,
+        "year": 2022,
+        "make": "Chevrolet",
+        "model": "Express 2500",
+        "vin": "1GASY9LDINZHJLRS1",
+        "body_type": "Cargo Van",
+        "cost_new": 50561.0,
+        "gvw": 8600,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 11,
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Tacoma",
+        "vin": "4T1TWNBF5PJSVYGJN",
+        "body_type": "Pickup",
+        "cost_new": 38157.0,
+        "gvw": 6400,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 12,
+        "year": 2024,
+        "make": "Ford",
+        "model": "F-150",
+        "vin": "2FTB8260BRNAB9LJ61",
+        "body_type": "Pickup",
+        "cost_new": 41174.0,
+        "gvw": 6800,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 13,
+        "year": 2016,
+        "make": "Fontaine",
+        "model": "Magnitude 55H",
+        "vin": "13NA70526G8K3BFZE",
+        "body_type": "Flatbed Trailer",
+        "cost_new": 20000.0,
+        "gvw": null,
+        "radius": "51 - 200 miles"
+      },
+      {
+        "unit_number": 14,
+        "year": 2023,
+        "make": "Wabash",
+        "model": "Platform",
+        "vin": "1J8CJ947PNRSUCD9G",
+        "body_type": "Flatbed Trailer",
+        "cost_new": 20000.0,
+        "gvw": null,
+        "radius": "0 - 50 miles"
+      },
+      {
+        "unit_number": 15,
+        "year": 2022,
+        "make": "Great Dane",
+        "model": "Freedom SE",
+        "vin": "5DY2G3RK0N27PS99P",
+        "body_type": "Flatbed Trailer",
+        "cost_new": 20000.0,
+        "gvw": null,
+        "radius": "51 - 200 miles"
+      }
+    ]
+  },
+  "remarks": null
+}

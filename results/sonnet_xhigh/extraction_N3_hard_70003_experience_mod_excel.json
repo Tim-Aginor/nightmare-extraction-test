@@ -1,0 +1,69 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Marilyn Rocha, Claims Adjustment Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hotel and restaurant operations; payroll classifications include Hotel All Other Employees (Class 9052), Hotel Bellhops and Doorpersons (Class 9060), Restaurant NOC (Class 9082), and Clerical Office Employees NOC (Class 8810)",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy Number WC-HCHP-2025-3350; policy period 2025-05-01 to 2026-05-01; rating organization Texas Department of Insurance; Risk ID 308382-9453; Large Risk Rating Plan; Interstate Rating applies; Experience Modification Factor 0.94; total TX payroll 16260471"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Favorable experience modification factor of 0.94, reflecting actual losses 6% below industry expected level",
+      "All claims fully closed with no open reserves \u2014 paid losses equal incurred losses across all three policy years",
+      "Zero excess losses reported; entire actual loss volume falls within the primary loss layer",
+      "Improving claim frequency trend: 8 claims in 2021-2022, declining to 6 in 2022-2023, and 2 in 2023-2024",
+      "Actual primary losses of $92,945 are substantially below expected losses of $361,806"
+    ],
+    "concerns": [
+      "Sixteen total claims recorded across the three-year experience period"
+    ],
+    "loss_history_summary": "Policy year 2023-2024: 2 claims, $9,940 total paid and incurred, all primary, zero excess. Policy year 2022-2023: 6 claims, $26,662 total paid and incurred, all primary, zero excess. Policy year 2021-2022: 8 claims, $56,343 total paid and incurred, all primary, zero excess. Combined actual primary losses of $92,945 against expected losses of $361,806 yield a calculated experience modification factor of 0.94."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Hotel and restaurant operations in Texas with interstate rating designation. Payroll by classification: Class 9052 (Hotel All Other Employees) $9,207,271; Class 9060 (Hotel Bellhops and Doorpersons) $1,454,400; Class 9082 (Restaurant NOC) $3,678,800; Class 8810 (Clerical Office Employees NOC) $1,920,000. Total reported TX payroll: $16,260,471. Rating parameters: Weighting Factor (W) 0.419, Ballast Value (B) $29,114, Expected Excess Losses (Ee) $422,385.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

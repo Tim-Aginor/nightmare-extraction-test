@@ -1,0 +1,148 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "annual_revenue": {
+      "value": 48000000,
+      "rendered_as": "$48,000,000.00"
+    },
+    "entity_type": {
+      "value": "LLC"
+    },
+    "nature_of_business": {
+      "value": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+    },
+    "bs_cash": {
+      "value": 8122200.0,
+      "rendered_as": "$8,122,200.00"
+    },
+    "bs_accounts_receivable": {
+      "value": 8575100.0,
+      "rendered_as": "$8,575,100.00"
+    },
+    "bs_inventory": {
+      "value": 65300.0,
+      "rendered_as": "$65,300.00"
+    },
+    "bs_prepaid_expenses": {
+      "value": 1200000.0,
+      "rendered_as": "$1,200,000.00"
+    },
+    "bs_ppe_net": {
+      "value": 72000000.0,
+      "rendered_as": "$72,000,000.00"
+    },
+    "bs_other_assets": {
+      "value": 22398500.0,
+      "rendered_as": "$22,398,500.00"
+    },
+    "bs_total_assets": {
+      "value": 112361100.0,
+      "rendered_as": "$112,361,100.00"
+    },
+    "bs_accounts_payable": {
+      "value": 12814400.0,
+      "rendered_as": "$12,814,400.00"
+    },
+    "bs_accrued_expenses": {
+      "value": 6289500.0,
+      "rendered_as": "$6,289,500.00"
+    },
+    "bs_current_lt_debt": {
+      "value": 2094900.0,
+      "rendered_as": "$2,094,900.00"
+    },
+    "bs_long_term_debt": {
+      "value": 9785600.0,
+      "rendered_as": "$9,785,600.00"
+    },
+    "bs_other_liabilities": {
+      "value": 2694300.0,
+      "rendered_as": "$2,694,300.00"
+    },
+    "bs_total_liabilities": {
+      "value": 33678700.0,
+      "rendered_as": "$33,678,700.00"
+    },
+    "bs_equity": {
+      "value": 78682400.0,
+      "rendered_as": "$78,682,400.00"
+    },
+    "is_revenue": {
+      "value": 48000000,
+      "rendered_as": "$48,000,000.00"
+    },
+    "is_cogs": {
+      "value": 19715000.0,
+      "rendered_as": "$19,715,000.00"
+    },
+    "is_gross_profit": {
+      "value": 28285000.0,
+      "rendered_as": "$28,285,000.00"
+    },
+    "is_operating_expenses": {
+      "value": 16131300.0,
+      "rendered_as": "$16,131,300.00"
+    },
+    "is_depreciation": {
+      "value": 892700.0,
+      "rendered_as": "$892,700.00"
+    },
+    "is_ebit": {
+      "value": 11261000.0,
+      "rendered_as": "$11,261,000.00"
+    },
+    "is_interest_expense": {
+      "value": 1322100.0,
+      "rendered_as": "$1,322,100.00"
+    },
+    "is_ebt": {
+      "value": 9938900.0,
+      "rendered_as": "$9,938,900.00"
+    },
+    "is_tax_provision": {
+      "value": 2738900.0,
+      "rendered_as": "$2,738,900.00"
+    },
+    "is_net_income": {
+      "value": 7200000.0,
+      "rendered_as": "$7,200,000.00"
+    },
+    "is_tax_rate": {
+      "value": 0.2756,
+      "rendered_as": "27.6%"
+    }
+  },
+  "doc_type": "financial_statement",
+  "financial_ratios": {
+    "current_ratio": {
+      "value": 0.8473,
+      "rendered_as": "0.85"
+    },
+    "debt_to_equity": {
+      "value": 0.428,
+      "rendered_as": "0.43"
+    },
+    "profit_margin": {
+      "value": 0.15,
+      "rendered_as": "15.00%"
+    },
+    "return_on_assets": {
+      "value": 0.0641,
+      "rendered_as": "6.41%"
+    }
+  }
+}

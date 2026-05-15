@@ -1,0 +1,103 @@
+{
+  "business_description": {
+    "annual_revenue": 95000000,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Commercial builders with office, warehouse/equipment yard, fabrication/manufacturing shop, and equipment storage locations.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Overall insurance program",
+      "current_carrier": "Nationwide Insurance",
+      "current_limit": null,
+      "expiring_premium": 1634721.63,
+      "notes": "2024 insurance history shows Nationwide Insurance with premium of 1634721.63 and 13 claims.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary: 35 claims, 1126509 total paid, 1176100 total incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary: 8 claims, 105421 total paid, 176947 total incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Auto",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary: 8 claims, 47076 total paid, 99900 total incurred. Driver schedule includes 15 drivers.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Property",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary: 1 claim, 36750 total paid, 36750 total incurred. Schedule of values total insured value is 39405000 across 5 Pennsylvania locations.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Insurance submission workbook",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 15,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "name": "Keystone Commercial Builders, Inc.",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Workers Compensation loss activity is the largest loss category with 35 claims and 1176100 total incurred.",
+      "Equipment Storage - Cranberry location is not sprinklered.",
+      "Insurance history shows claim counts ranging from 4 to 15 annually over 2020-2024.",
+      "Property values are concentrated in Pennsylvania, including multiple Pittsburgh/Butler Street locations."
+    ],
+    "loss_history_summary": "Loss summary by coverage: Workers Compensation 35 claims, 1126509 paid and 1176100 incurred; General Liability 8 claims, 105421 paid and 176947 incurred; Auto 8 claims, 47076 paid and 99900 incurred; Property 1 claim, 36750 paid and 36750 incurred. Insurance history shows 2024 Nationwide Insurance premium of 1634721.63 with 13 claims, 2023 Berkshire Hathaway Guard premium of 1476849.96 with 10 claims, 2022 Zurich Insurance Group premium of 1369245.71 with 4 claims, 2021 Nationwide Insurance premium of 1487006.51 with 15 claims, and 2020 CNA Financial premium of 1581292.51 with 6 claims.",
+    "positives": [
+      "Five scheduled locations with total insured value of 39405000.",
+      "Four of five locations are sprinklered.",
+      "Driver schedule lists 15 drivers, most with substantial years of experience.",
+      "Financial summary reports 95000000 revenue, 5997400 net income, and 34373200 equity."
+    ]
+  }
+}

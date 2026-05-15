@@ -1,0 +1,140 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "Insurance Binder"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": null,
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "BND-88364-6825",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "limit": 146260000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial Property - Business Personal Property",
+      "limit": 42495000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial Property - Business Income",
+      "limit": 62590000,
+      "deductible": 75000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_basic": "unchecked",
+    "causes_of_loss_broad": "unchecked",
+    "causes_of_loss_special": "checked"
+  },
+  "additional_fields": {
+    "document_date": "2026-03-11",
+    "binder_number": "BND-88364-6825",
+    "binder_date": "2025-09-01",
+    "naic_code": "44251",
+    "coinsurance": "80%",
+    "agency_contact_name": "Karen Weissman",
+    "agency_phone": "(614) 555-0742",
+    "agency_fax": "(614) 837-8018",
+    "agency_email": "kweissman@mwpcg.com",
+    "agency_address": "175 South Third Street, Suite 1400",
+    "agency_city_state_zip": "Columbus, OH 43215",
+    "expiring_coverage": "Commercial Property",
+    "expiring_carrier": "Liberty Mutual Insurance",
+    "expiring_policy_number": "CP00007001",
+    "authorized_representative_name": "Douglas Brennan",
+    "authorized_representative_title": "Chief Operating Officer",
+    "authorized_representative_date": "2026-03-11",
+    "mortgagees": [
+      {
+        "mortgagee_number": 1,
+        "name": "Regions Bank",
+        "address": "P.O. Box 16098",
+        "city_state_zip": "El Paso, TX 79901"
+      },
+      {
+        "mortgagee_number": 2,
+        "name": "ABC Equipment Leasing Corp.",
+        "address": "P.O. Box 29249",
+        "city_state_zip": "Clarksville, TN 37040"
+      },
+      {
+        "mortgagee_number": 3,
+        "name": "Pinnacle Investors Group, Inc.",
+        "address": "P.O. Box 41583",
+        "city_state_zip": "Fargo, ND 58102"
+      }
+    ],
+    "forms_and_endorsements": [
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 00 10 10 12",
+        "description": "Building and Personal Property Coverage Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 00 30 10 12",
+        "description": "Business Income (and Extra Expense) Coverage Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 10 30 10 12",
+        "description": "Causes of Loss - Special Form"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "IL 00 21 09 08",
+        "description": "Nuclear Energy Liability Exclusion"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "IL 00 17 11 98",
+        "description": "Common Policy Conditions"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 12 18 06 07",
+        "description": "Loss Payable Provisions"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 01 40 07 06",
+        "description": "Ordinance or Law Coverage"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "CP 04 09",
+        "description": "Equipment Breakdown Coverage"
+      },
+      {
+        "coverage": "Commercial Property",
+        "form_code": "IL 09 85 01 15",
+        "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+      }
+    ]
+  },
+  "remarks": "This binder is issued as a temporary contract of insurance. Expiring policy CP00007001 with Liberty Mutual Insurance replaced by Maine Employers Mutual (NAIC 44251). Three mortgagees listed: Regions Bank (El Paso, TX), ABC Equipment Leasing Corp. (Clarksville, TN), and Pinnacle Investors Group, Inc. (Fargo, ND). Authorized representative Douglas Brennan, Chief Operating Officer, signed 03/11/2026."
+}

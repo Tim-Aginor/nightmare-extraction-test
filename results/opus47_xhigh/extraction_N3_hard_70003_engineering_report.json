@@ -1,0 +1,107 @@
+{
+  "report_info": {
+    "report_type": "roof_condition_certification",
+    "report_date": "2026-03-15",
+    "inspector_name": "L. Thompson, CSP",
+    "inspector_company": "Hallmark Insurance Group",
+    "risk_grade": "PPC 5",
+    "grading_scale": "ISO Public Protection Class"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "604 Brazos Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "carrier_info": {
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-HCHP-2025-3352",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Hill Country Hospitality Partners, LLC",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "construction": null,
+      "occupancy": "Hotels/Motels (SIC 7011)",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "protection_class": 5,
+      "condition_rating": "Severe",
+      "findings": [
+        "Roof Type: TPO",
+        "Roof Age: 16 years",
+        "Estimated Remaining Useful Life: 0 years (per Roofing section); 7 years (per Roof Condition Rating)",
+        "Overall Roof Condition: Excellent",
+        "Decking: Poor",
+        "Flashings: Good",
+        "Penetrations: Good",
+        "Drainage: Adequate",
+        "Parapet Walls: Cracking",
+        "Roof Deck Attachment: B - Nails (6\" o.c.)",
+        "Roof Geometry: Gable",
+        "Opening Protection: Impact-Rated",
+        "Roof-to-Wall Connection: Single Wraps",
+        "Secondary Water Resistance: No"
+      ],
+      "deficiencies": [
+        "Multiple areas of ponding water observed on flat roof sections"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "Critical",
+      "category": "Structural",
+      "description": "Visible roof deck sagging and water damage indicating potential structural issues - engage structural engineer for immediate assessment; restrict access to affected areas pending evaluation",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "High",
+      "category": "Electrical",
+      "description": "Electrical panel clearance obstructed by stored materials - maintain minimum 36-inch clearance in front of all electrical panels per NEC Article 110.26",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "High",
+      "category": "Fire Protection",
+      "description": "Hood suppression system in kitchen area has expired - schedule annual inspection of kitchen hood suppression system per NFPA 96 Section 12.2",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Medium",
+      "category": "Security/Lighting",
+      "description": "Exterior lighting inadequate in parking area and loading dock - install additional lighting to maintain minimum 1 foot-candle at ground level in all exterior areas",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Medium",
+      "category": "Mechanical",
+      "description": "HVAC rooftop units show signs of deferred maintenance - establish quarterly preventive maintenance program for all mechanical equipment",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Medium",
+      "category": "Fire Protection",
+      "description": "Hot work permit program not formally documented - implement written hot work permit program per NFPA 51B; train all affected personnel",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Roof condition certification report for hospitality property with conflicting condition ratings (Severe vs Excellent) and multiple deficiencies including ponding water, structural concerns, electrical clearance issues, and expired fire suppression system inspection.",
+    "risk_level": "PPC 5",
+    "insurability": "Conditional"
+  }
+}

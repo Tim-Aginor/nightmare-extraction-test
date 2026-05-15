@@ -1,0 +1,98 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Prior insurance history - 2024",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Policy numbers: WC-8098-9663, 0000005824, CP003220-001. Claims: 11. Cancellation: No.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior insurance history - 2023",
+      "current_carrier": "Markel Corporation",
+      "current_limit": null,
+      "expiring_premium": 619820.26,
+      "notes": "Policy numbers: 7WC0009522, 0000002291, CP-1970-9645. Claims: 3. Cancellation: No.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior insurance history - 2022",
+      "current_carrier": "Zurich Insurance Group",
+      "current_limit": null,
+      "expiring_premium": 607294.45,
+      "notes": "Policy numbers: 0000004808, GL-0002700, 7CP0001066. Claims: 6. Cancellation: Yes.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior insurance history - 2021",
+      "current_carrier": "Chubb Limited",
+      "current_limit": null,
+      "expiring_premium": 630843.2,
+      "notes": "Policy numbers: 0000008163, GL-8167-3439, CP-0009781. Claims: 9. Cancellation: No.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior insurance history - 2020",
+      "current_carrier": "EMPLOYERS Insurance Group",
+      "current_limit": null,
+      "expiring_premium": 580805.53,
+      "notes": "Policy numbers: WC008082-001, GL-4906-7512, CP00007431. Claims: 2. Cancellation: No.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Prior Insurance History",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history lists claims by year: 2024 - 11 claims; 2023 - 3 claims; 2022 - 6 claims; 2021 - 9 claims; 2020 - 2 claims.",
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": null,
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "2022 prior insurance history indicates cancellation: Yes.",
+      "2024 shows 11 claims, the highest claim count in the provided five-year history.",
+      "2024 carrier and premium are not provided."
+    ],
+    "loss_history_summary": "Five-year prior insurance history provided for 2020-2024. Claims reported by year: 2024 - 11, 2023 - 3, 2022 - 6, 2021 - 9, 2020 - 2. Premiums reported for 2020-2023 range from 580805.53 to 630843.2. Loss ratios are not provided.",
+    "positives": [
+      "No cancellation indicated for 2020, 2021, 2023, and 2024.",
+      "Prior carriers listed for 2020-2023: EMPLOYERS Insurance Group, Chubb Limited, Zurich Insurance Group, and Markel Corporation."
+    ]
+  }
+}

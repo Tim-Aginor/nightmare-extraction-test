@@ -1,0 +1,289 @@
+{
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "26-7194638",
+    "naics_code": "236220",
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 Healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "years_in_business": 42
+  },
+  "checkboxes": [
+    {
+      "field": "General Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Business Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Workers' Compensation",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella / Excess",
+      "value": "No"
+    },
+    {
+      "field": "Professional Liability / E&O",
+      "value": "No"
+    },
+    {
+      "field": "Any past bankruptcies, receiverships, or reorganizations?",
+      "value": "No"
+    },
+    {
+      "field": "Any losses or claims in the past 5 years?",
+      "value": "Yes"
+    },
+    {
+      "field": "Any pending litigation or regulatory actions?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any regulated chemicals (EPA RCRA, TSCA, OSHA, HCS) stored, used, or disposed of on premises?",
+      "value": "Yes"
+    },
+    {
+      "field": "Any work involving asbestos, lead, or mold remediation?",
+      "value": "No"
+    },
+    {
+      "field": "Are metal fabrication or welding operations performed on premises?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does applicant lease employees to or from other firms?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant prepare, handle, or serve food for human consumption?",
+      "value": "No"
+    },
+    {
+      "field": "Any recall of products in the past 5 years?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant operate as a franchisor or sell franchise rights to franchisees?",
+      "value": "No"
+    },
+    {
+      "field": "Any daycares or childcare operations on premises?",
+      "value": "No"
+    },
+    {
+      "field": "Is applicant involved in any joint ventures?",
+      "value": "No"
+    },
+    {
+      "field": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "value": "No"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "General Liability",
+      "deductible": null,
+      "limit": null,
+      "premium": 298415
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "deductible": null,
+      "limit": null,
+      "premium": 134065
+    },
+    {
+      "coverage_type": "Business Auto",
+      "deductible": null,
+      "limit": null,
+      "premium": 87795
+    },
+    {
+      "coverage_type": "Workers' Compensation",
+      "deductible": null,
+      "limit": null,
+      "premium": 1114562
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 125",
+    "form_title": "Commercial Insurance Application"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Steel City Insurance Group"
+  },
+  "premises": [
+    {
+      "address": "300 Liberty Avenue, Suite 1200",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Pittsburgh",
+      "construction": "Fire Resistive",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC 001",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 18000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 2000,
+      "zip": "15222"
+    },
+    {
+      "address": "4500 Butler Street",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Pittsburgh",
+      "construction": "Joisted Masonry",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC 002",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 65000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 1985,
+      "zip": "15201"
+    },
+    {
+      "address": "4520 Butler Street",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Pittsburgh",
+      "construction": null,
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC 003",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 32000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 1988,
+      "zip": "15201"
+    },
+    {
+      "address": "200 Bridge Pier Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "McKees Rocks",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC 004",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 6500,
+      "state": "PA",
+      "stories": 2,
+      "tiv": null,
+      "year_built": 2010,
+      "zip": "15136"
+    },
+    {
+      "address": "100 Dunn Road",
+      "bi_value": null,
+      "building_value": null,
+      "city": "Cranberry Township",
+      "construction": "Non-Combustible",
+      "contents_value": null,
+      "fire_alarm_type": null,
+      "location_number": "LOC 005",
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": 28000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": null,
+      "year_built": 2020,
+      "zip": "16066"
+    }
+  ],
+  "remarks": "Application dated 2026-03-15. Contact: Patricia Nowak. Prior/expiring coverage shown: General Liability - Market Corporation, policy 700-0008677; Commercial Property - Zurich Insurance Group, policy CPP0001234; Business Auto - Travelers Companies, policy CA00333-001; Workers' Compensation - Nationwide Insurance, policy 8000008484. Loss history table shows totals of 40 claims, total paid 1039786, total reserved 172841, total incurred 1448607.",
+  "uw_questions": [
+    {
+      "answer": "No",
+      "question": "Any past bankruptcies, receiverships, or reorganizations?"
+    },
+    {
+      "answer": "Yes",
+      "question": "Any losses or claims in the past 5 years?"
+    },
+    {
+      "answer": "Yes",
+      "question": "Any pending litigation or regulatory actions?"
+    },
+    {
+      "answer": "Yes",
+      "question": "Are any regulated chemicals (EPA RCRA, TSCA, OSHA, HCS) stored, used, or disposed of on premises?"
+    },
+    {
+      "answer": "No",
+      "question": "Any work involving asbestos, lead, or mold remediation?"
+    },
+    {
+      "answer": "Yes",
+      "question": "Are metal fabrication or welding operations performed on premises?"
+    },
+    {
+      "answer": "No",
+      "question": "Does applicant lease employees to or from other firms?"
+    },
+    {
+      "answer": "No",
+      "question": "Does the applicant prepare, handle, or serve food for human consumption?"
+    },
+    {
+      "answer": "No",
+      "question": "Any recall of products in the past 5 years?"
+    },
+    {
+      "answer": "No",
+      "question": "Does the applicant operate as a franchisor or sell franchise rights to franchisees?"
+    },
+    {
+      "answer": "No",
+      "question": "Any daycares or childcare operations on premises?"
+    },
+    {
+      "answer": "No",
+      "question": "Is applicant involved in any joint ventures?"
+    },
+    {
+      "answer": "No",
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?"
+    }
+  ]
+}

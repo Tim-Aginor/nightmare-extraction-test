@@ -1,0 +1,61 @@
+{
+  "document_type": "financial_statement",
+  "template": "maine_employers_mutual_sta",
+  "seed": 70002,
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600, Columbus, OH, 43215",
+    "street": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip_code": "43215"
+  },
+  "carrier": "Maine Employers Mutual",
+  "policy_period": {
+    "start": "2025-09-01",
+    "end": "2026-09-01"
+  },
+  "policy_numbers": {
+    "property": "CP-BIP-2025-4420"
+  },
+  "summary": {
+    "annual_revenue": 48000000,
+    "num_employees": 95,
+    "balance_sheet": {
+      "cash": 8122200.0,
+      "accounts_receivable": 8575100.0,
+      "inventory": 65300.0,
+      "prepaid_expenses": 1200000.0,
+      "ppe_net": 72000000.0,
+      "other_assets": 22398500.0,
+      "total_assets": 112361100.0,
+      "accounts_payable": 12814400.0,
+      "accrued_expenses": 6289500.0,
+      "current_lt_debt": 2094900.0,
+      "long_term_debt": 9785600.0,
+      "other_liabilities": 2694300.0,
+      "total_liabilities": 33678700.0,
+      "equity": 78682400.0
+    },
+    "income_statement": {
+      "revenue": 48000000,
+      "cogs": 19715000.0,
+      "gross_profit": 28285000.0,
+      "operating_expenses": 16131300.0,
+      "depreciation": 892700.0,
+      "ebit": 11261000.0,
+      "interest_expense": 1322100.0,
+      "ebt": 9938900.0,
+      "tax_rate": 0.2756,
+      "tax_provision": 2738900.0,
+      "net_income": 7200000.0
+    },
+    "ratios": {
+      "current_ratio": 0.8473,
+      "debt_to_equity": 0.428,
+      "profit_margin": 0.15,
+      "return_on_assets": 0.0641
+    }
+  },
+  "page_count": 2
+}

@@ -1,0 +1,67 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Texas Department of Insurance",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality (Hotel and Restaurant operations)",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Experience Modification Factor of 0.94; Large Risk rating plan; total payroll $16,260,471; expected losses $361,806"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience modification factor below 1.00 (0.94), indicating better-than-average loss experience",
+      "Actual excess losses of $0",
+      "Actual primary losses ($92,945) well below expected"
+    ],
+    "concerns": [
+      "2021-2022 policy year reported 8 claims totaling $56,343"
+    ],
+    "loss_history_summary": "2021-2022: 8 claims, $56,343 total paid/incurred, all primary losses, $0 excess losses"
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": "2025-05-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Final Experience Modification Factor of 0.94 effective 05/01/2025 for Hill Country Hospitality Partners, LLC, approved by Texas Department of Insurance.",
+    "operations_description": "Classifications include Restaurant - NOC (Class Code 9082) with payroll of $3,678,800, along with Hotel - All Other Employees, Hotel - Banquet/Beverage, and Clerical Office Employees classifications.",
+    "safety_programs": null,
+    "claims_narrative": "Policy year 2021-2022 reported 8 claims with total paid and incurred of $56,343, all classified as primary losses with no excess losses."
+  }
+}

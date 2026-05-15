@@ -1,0 +1,332 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 256.0,
+          "width": 142.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Apex Managing General Agency",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 363.0,
+          "width": 144.3,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 283.0,
+          "width": 138.2,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_city": {
+      "value": "Dallas",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 283.0,
+          "width": 27.7,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_state": {
+      "value": "TX",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 310.0,
+          "width": 11.7,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_zip": {
+      "value": "75201",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 310.0,
+          "width": 28.6,
+          "height": 9.0
+        }
+      ]
+    },
+    "policy_period_start": {
+      "value": "2025-07-01",
+      "rendered_as": "07/01/2025",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 416.0,
+          "width": 51.9,
+          "height": 9.0
+        },
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 443.0,
+          "width": 51.9,
+          "height": 9.0
+        }
+      ]
+    },
+    "policy_period_end": {
+      "value": "2026-07-01",
+      "rendered_as": "07/01/2026",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 443.0,
+          "width": 51.9,
+          "height": 9.0
+        }
+      ]
+    },
+    "binder_number": {
+      "value": "BND-070001"
+    },
+    "binder_date": {
+      "value": "2026-03-04",
+      "rendered_as": "03/04/2026",
+      "locations": [
+        {
+          "page": 1,
+          "x": 513.1,
+          "y": 75.7,
+          "width": 46.1,
+          "height": 8.0
+        },
+        {
+          "page": 2,
+          "x": 48.8,
+          "y": 364.0,
+          "width": 51.9,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_name": {
+      "value": "Texas Commercial Insurance Partners",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 149.0,
+          "width": 171.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_contact": {
+      "value": "Sandra Villareal",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 149.0,
+          "width": 71.1,
+          "height": 9.0
+        },
+        {
+          "page": 2,
+          "x": 308.0,
+          "y": 364.0,
+          "width": 71.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_phone": {
+      "value": "(214) 555-0918",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 203.0,
+          "width": 70.4,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_fax": {
+      "value": "(214) 273-7259",
+      "locations": [
+        {
+          "page": 1,
+          "x": 221.6,
+          "y": 203.0,
+          "width": 70.4,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_email": {
+      "value": "svillareal@txcip.com",
+      "locations": [
+        {
+          "page": 1,
+          "x": 394.4,
+          "y": 203.0,
+          "width": 93.4,
+          "height": 9.0
+        }
+      ]
+    },
+    "policy_number_property": {
+      "value": "CP-LSPH-2025-7801"
+    },
+    "premium_property": {
+      "value": 403697.14,
+      "rendered_as": "$403,697.14"
+    },
+    "deductible_property": {
+      "value": 50000,
+      "rendered_as": "$50,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 619.0,
+          "width": 51.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "form_type_property": {
+      "value": "special"
+    },
+    "limit_property_building": {
+      "value": 222340000,
+      "rendered_as": "$222,340,000.00"
+    },
+    "limit_property_contents": {
+      "value": 33432000,
+      "rendered_as": "$33,432,000.00"
+    },
+    "limit_property_business_income": {
+      "value": 59212000,
+      "rendered_as": "$59,212,000.00"
+    },
+    "limit_property_coinsurance": {
+      "value": 90.0,
+      "rendered_as": "90%",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 619.0,
+          "width": 20.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "coinsurance_property": {
+      "value": 90.0,
+      "rendered_as": "90%",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 619.0,
+          "width": 20.0,
+          "height": 9.0
+        }
+      ]
+    }
+  },
+  "doc_type": "acord_75",
+  "expiring_carriers": [
+    {
+      "year": 2024,
+      "carrier": "CNA Financial",
+      "premium": 414601.77
+    },
+    {
+      "year": 2023,
+      "carrier": "Zurich Insurance Group",
+      "premium": 423914.72
+    },
+    {
+      "year": 2022,
+      "carrier": "American International Group",
+      "premium": 447842.42
+    }
+  ],
+  "endorsements": [
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 00 10 10 12",
+      "description": "Building and Personal Property Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 00 30 10 12",
+      "description": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 10 30 10 12",
+      "description": "Causes of Loss \u2014 Special Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 00 21 09 08",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 00 17 11 98",
+      "description": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 01 40 07 06",
+      "description": "Ordinance or Law Coverage"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 09 85 01 15",
+      "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 03 21 06 07",
+      "description": "Windstorm or Hail Percentage Deductible"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "M&T Bank Corporation",
+      "address": "P.O. Box 40172",
+      "city_state_zip": "Philadelphia, PA 19101"
+    },
+    {
+      "name": "Stearns Bank, N.A.",
+      "address": "P.O. Box 92568",
+      "city_state_zip": "El Paso, TX 79901"
+    }
+  ]
+}

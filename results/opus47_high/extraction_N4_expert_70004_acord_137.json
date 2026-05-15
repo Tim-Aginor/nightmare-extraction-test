@@ -1,0 +1,269 @@
+{
+  "form_info": {
+    "form_number": "ACORD 137",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Auto Supplement"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CA-KCB-2025-5582",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "25-7194638",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Combined Single Limit (Ea Accident) - Liability",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Injury Protection (PIP)",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Uninsured Motorist (UM)",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Underinsured Motorist (UIM)",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "form_type_occurrence": "checked",
+    "gps_tracking_installed_all_vehicles": "Yes",
+    "drivers_under_age_21": "No",
+    "provides_delivery_services": "Yes",
+    "vehicles_used_to_tow": "No",
+    "operates_across_state_lines": "No",
+    "hired_auto_liability": "Not Covered",
+    "non_owned_auto_liability": "Not Covered",
+    "hired_auto_physical_damage": "Not Covered",
+    "endorsement_PA_01_01_Uninsured_Motorist": "Yes",
+    "endorsement_PA_02_01_Underinsured_Motorist": "Yes",
+    "endorsement_PA_03_01_Personal_Injury_Protection": "Yes",
+    "endorsement_PA_99_01_State_Specific_Amendatory": "Optional"
+  },
+  "additional_fields": {
+    "date": "2026-03-14",
+    "contact": "Patricia Nowak",
+    "naic_code": "28339",
+    "premium": "57889.77",
+    "coverage_symbols": [
+      {
+        "symbol": "1",
+        "description": "Any Auto",
+        "liability": "X",
+        "pip": "X",
+        "um_uim": "X",
+        "phys_dam": "X"
+      },
+      {
+        "symbol": "12",
+        "description": "Non-Owned Autos -- Employees Only",
+        "liability": "X",
+        "pip": "",
+        "um_uim": "",
+        "phys_dam": ""
+      },
+      {
+        "symbol": "20",
+        "description": "Dealer Autos -- Physical Damage",
+        "liability": "",
+        "pip": "",
+        "um_uim": "",
+        "phys_dam": "X"
+      },
+      {
+        "symbol": "17",
+        "description": "Public/Livery Passenger Autos",
+        "liability": "X",
+        "pip": "X",
+        "um_uim": "",
+        "phys_dam": ""
+      },
+      {
+        "symbol": "5",
+        "description": "Owned Autos Subject to No-Fault",
+        "liability": "",
+        "pip": "X",
+        "um_uim": "",
+        "phys_dam": ""
+      },
+      {
+        "symbol": "19",
+        "description": "Garage Operations -- Non-Owned",
+        "liability": "X",
+        "pip": "",
+        "um_uim": "",
+        "phys_dam": ""
+      },
+      {
+        "symbol": "15",
+        "description": "Leased or Financed Autos",
+        "liability": "X",
+        "pip": "",
+        "um_uim": "",
+        "phys_dam": "X"
+      },
+      {
+        "symbol": "4",
+        "description": "Owned Autos Other Than Private Passenger",
+        "liability": "X",
+        "pip": "",
+        "um_uim": "",
+        "phys_dam": ""
+      }
+    ],
+    "physical_damage_schedule": [
+      {
+        "veh": 1,
+        "year": 2023,
+        "make_model": "Ford F-550",
+        "comp_ded": 1000,
+        "coll_ded": 2500,
+        "stated_amt": 82387
+      },
+      {
+        "veh": 2,
+        "year": 2024,
+        "make_model": "Ford F-350",
+        "comp_ded": 500,
+        "coll_ded": 1000,
+        "stated_amt": 53837
+      },
+      {
+        "veh": 3,
+        "year": 2022,
+        "make_model": "Ford F-350",
+        "comp_ded": 1000,
+        "coll_ded": 2500,
+        "stated_amt": 52449
+      },
+      {
+        "veh": 4,
+        "year": 2023,
+        "make_model": "Ford F-250",
+        "comp_ded": 500,
+        "coll_ded": 1000,
+        "stated_amt": 47746
+      },
+      {
+        "veh": 5,
+        "year": 2024,
+        "make_model": "Ram 3500",
+        "comp_ded": 500,
+        "coll_ded": 500,
+        "stated_amt": 58782
+      },
+      {
+        "veh": 6,
+        "year": 2023,
+        "make_model": "Chevrolet Silverado 2500",
+        "comp_ded": 1000,
+        "coll_ded": 1000,
+        "stated_amt": 47691
+      },
+      {
+        "veh": 7,
+        "year": 2022,
+        "make_model": "Ford E-450",
+        "comp_ded": 1000,
+        "coll_ded": 2500,
+        "stated_amt": 63398
+      },
+      {
+        "veh": 8,
+        "year": 2023,
+        "make_model": "Ford Transit 350",
+        "comp_ded": 500,
+        "coll_ded": 1000,
+        "stated_amt": 48930
+      },
+      {
+        "veh": 9,
+        "year": 2024,
+        "make_model": "Ford Transit 250",
+        "comp_ded": 250,
+        "coll_ded": 500,
+        "stated_amt": 45599
+      },
+      {
+        "veh": 10,
+        "year": 2022,
+        "make_model": "Chevrolet Express 2500",
+        "comp_ded": 1000,
+        "coll_ded": 2500,
+        "stated_amt": 50581
+      },
+      {
+        "veh": 11,
+        "year": 2023,
+        "make_model": "Toyota Tacoma",
+        "comp_ded": 250,
+        "coll_ded": 500,
+        "stated_amt": 39157
+      },
+      {
+        "veh": 12,
+        "year": 2024,
+        "make_model": "Ford F-150",
+        "comp_ded": 100,
+        "coll_ded": 250,
+        "stated_amt": 41174
+      },
+      {
+        "veh": 13,
+        "year": 2016,
+        "make_model": "Fontaine Magnitude 55H",
+        "comp_ded": 0,
+        "coll_ded": 0,
+        "stated_amt": 20000
+      },
+      {
+        "veh": 14,
+        "year": 2023,
+        "make_model": "Wabash Platform",
+        "comp_ded": 1000,
+        "coll_ded": 1000,
+        "stated_amt": 20000
+      },
+      {
+        "veh": 15,
+        "year": 2022,
+        "make_model": "Great Dane Freedom SE",
+        "comp_ded": 2500,
+        "coll_ded": 5000,
+        "stated_amt": 20000
+      }
+    ],
+    "cost_of_hire": 100000,
+    "hired_auto_states": "PA",
+    "pip_coverage": "Required",
+    "um_coverage": "Required",
+    "uim_coverage": "Required"
+  },
+  "remarks": null
+}

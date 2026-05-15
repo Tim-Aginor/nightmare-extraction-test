@@ -1,0 +1,79 @@
+{
+  "document_info": {
+    "document_type": "Submission Memo",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction operations with corporate offices, equipment yard/warehouse, fabrication shop, branch office, and equipment storage",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 95000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": 39405000,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": null,
+      "notes": "Total Insured Value across 5 locations"
+    },
+    {
+      "coverage_type": "Package",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "2024 total premium with Nationwide"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Four of five locations are sprinklered",
+      "Majority of buildings are Fire Resistive, Non-Combustible, or Masonry Non-Combustible construction",
+      "Experienced driver roster with average tenure exceeding 15 years",
+      "Strong equity position of approximately $34.4M"
+    ],
+    "concerns": [
+      "LOC-005 Equipment Storage in Cranberry Township is not sprinklered",
+      "Elevated Workers' Compensation claim frequency (35 claims)",
+      "Auto claim frequency of 8 claims",
+      "Claim count trending upward in recent policy years (15 claims in 2021, 13 in 2024)"
+    ],
+    "loss_history_summary": "WC: 35 claims, $1,171,607 incurred; GL: 8 claims, $176,947 incurred; Auto: 8 claims, $99,900 incurred; Property: 1 claim, $36,750 incurred"
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 15,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

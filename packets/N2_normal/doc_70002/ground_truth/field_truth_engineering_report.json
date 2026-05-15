@@ -1,0 +1,347 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "risk_grade": {
+      "value": "Average"
+    },
+    "grading_scale": {
+      "value": "Travelers Risk Assessment"
+    },
+    "inspector_name": {
+      "value": "S. Martinez, PE"
+    }
+  },
+  "doc_type": "engineering_report",
+  "locations_inspected": 9,
+  "locations": [
+    {
+      "name": "Rickenbacker Logistics Center - A",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "construction": "Non-Combustible",
+      "year_built": 2014,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 1
+    },
+    {
+      "name": "Rickenbacker Logistics Center - B",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "construction": "Non-Combustible",
+      "year_built": 2016,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 5
+    },
+    {
+      "name": "Cleveland Distribution Hub",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "construction": "Non-Combustible",
+      "year_built": 2008,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 3
+    },
+    {
+      "name": "Dayton Manufacturing Facility",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "construction": "Joisted Masonry",
+      "year_built": 1992,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 4
+    },
+    {
+      "name": "Cincinnati Cross-Dock Terminal",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "construction": "Non-Combustible",
+      "year_built": 2019,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 4
+    },
+    {
+      "name": "Toledo Industrial Park - Building 1",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "construction": "Masonry Non-Combustible",
+      "year_built": 2004,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 5
+    },
+    {
+      "name": "Toledo Industrial Park - Building 2",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "construction": "Masonry Non-Combustible",
+      "year_built": 1998,
+      "stories": 1,
+      "sprinklered": false,
+      "protection_class": 3
+    },
+    {
+      "name": "Akron Flex Space",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "construction": "Non-Combustible",
+      "year_built": 2011,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 4
+    },
+    {
+      "name": "Corporate Administrative Office",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "construction": "Fire Resistive",
+      "year_built": 2006,
+      "stories": 1,
+      "sprinklered": true,
+      "protection_class": 1
+    }
+  ],
+  "recommendation_count": 0,
+  "recommendations": [],
+  "body_content": {
+    "cover": {
+      "Insured": "Buckeye Industrial Properties, LLC",
+      "Policy Number": "CP-BIP-2025-4420",
+      "Address": "6500 Alum Creek Drive",
+      "City, State, ZIP": "Columbus, OH 43217",
+      "SIC Code": "6512",
+      "Inspector": "S. Martinez, PE",
+      "Inspection Date": "01/18/2026",
+      "Report Date": "03/15/2026",
+      "Report Title": "Property Condition Assessment",
+      "Overall Risk Grade": "Average",
+      "Grading Scale": "Travelers Risk Assessment"
+    },
+    "locations_inspected": {
+      "count": "9",
+      "entries": [
+        {
+          "name": "Rickenbacker Logistics Center - A",
+          "address": "6500 Alum Creek Drive",
+          "city": "Columbus",
+          "state": "OH",
+          "zip_code": "43217",
+          "construction": "Non-Combustible",
+          "year_built": "2014",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "1"
+        },
+        {
+          "name": "Rickenbacker Logistics Center - B",
+          "address": "6600 Alum Creek Drive",
+          "city": "Columbus",
+          "state": "OH",
+          "zip_code": "43217",
+          "construction": "Non-Combustible",
+          "year_built": "2016",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "5"
+        },
+        {
+          "name": "Cleveland Distribution Hub",
+          "address": "4800 Tiedeman Road",
+          "city": "Brooklyn",
+          "state": "OH",
+          "zip_code": "44144",
+          "construction": "Non-Combustible",
+          "year_built": "2008",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "3"
+        },
+        {
+          "name": "Dayton Manufacturing Facility",
+          "address": "2100 Kuntz Road",
+          "city": "Dayton",
+          "state": "OH",
+          "zip_code": "45404",
+          "construction": "Joisted Masonry",
+          "year_built": "1992",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "4"
+        },
+        {
+          "name": "Cincinnati Cross-Dock Terminal",
+          "address": "11600 Mosteller Road",
+          "city": "Cincinnati",
+          "state": "OH",
+          "zip_code": "45241",
+          "construction": "Non-Combustible",
+          "year_built": "2019",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "4"
+        },
+        {
+          "name": "Toledo Industrial Park - Building 1",
+          "address": "3200 Hill Avenue",
+          "city": "Toledo",
+          "state": "OH",
+          "zip_code": "43607",
+          "construction": "Masonry Non-Combustible",
+          "year_built": "2004",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "5"
+        },
+        {
+          "name": "Toledo Industrial Park - Building 2",
+          "address": "3250 Hill Avenue",
+          "city": "Toledo",
+          "state": "OH",
+          "zip_code": "43607",
+          "construction": "Masonry Non-Combustible",
+          "year_built": "1998",
+          "stories": "1",
+          "sprinklered": "No",
+          "protection_class": "3"
+        },
+        {
+          "name": "Akron Flex Space",
+          "address": "1475 Corporate Woods Parkway",
+          "city": "Uniontown",
+          "state": "OH",
+          "zip_code": "44685",
+          "construction": "Non-Combustible",
+          "year_built": "2011",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "4"
+        },
+        {
+          "name": "Corporate Administrative Office",
+          "address": "250 Civic Center Drive, Suite 600",
+          "city": "Columbus",
+          "state": "OH",
+          "zip_code": "43215",
+          "construction": "Fire Resistive",
+          "year_built": "2006",
+          "stories": "1",
+          "sprinklered": "Yes",
+          "protection_class": "1"
+        }
+      ]
+    },
+    "site_assessment": {
+      "Paving / Parking": "Good",
+      "Landscaping": "Good",
+      "Drainage": "Fair",
+      "Fencing / Security": "Fair"
+    },
+    "structural_envelope": {
+      "Foundation": "Fair",
+      "Exterior Walls": "Good",
+      "Windows / Doors": "Good",
+      "Building Envelope Integrity": "Deteriorating"
+    },
+    "roofing": {
+      "Roof Type": "Shingle",
+      "Roof Age": "14 years",
+      "Condition Rating": "Poor",
+      "Estimated Remaining Useful Life": "0 years"
+    },
+    "plumbing": {
+      "Water Supply": "Fair",
+      "Waste / Drain": "Deteriorating",
+      "Water Heaters": "Electric",
+      "Pipe Material": "PVC"
+    },
+    "hvac": {
+      "HVAC System Type": "Split System",
+      "System Condition": "Needs Service",
+      "System Age": "18 years",
+      "Maintenance Program": "Yes"
+    },
+    "electrical": {
+      "Service Entrance": "400 Amp",
+      "Panel Condition": "Fair",
+      "Emergency / Standby Power": "No",
+      "GFCI Protection": "Yes"
+    },
+    "fire_protection": {
+      "Sprinkler Type": "Wet Pipe",
+      "Sprinkler Coverage": "N/A",
+      "Last Sprinkler Inspection Months Ago": "1",
+      "Sprinkler Compliance": "NFPA 25 compliant",
+      "Fire Extinguisher Count": "11",
+      "Fire Extinguisher Tags": "some tags expired"
+    },
+    "cost_tables": {
+      "capex": [
+        {
+          "system": "Plumbing",
+          "immediate": 4147,
+          "short_term": 9627,
+          "reserve": 334094
+        },
+        {
+          "system": "Roofing",
+          "immediate": 21480,
+          "short_term": 28469,
+          "reserve": 385980
+        },
+        {
+          "system": "Fire Protection",
+          "immediate": 38234,
+          "short_term": 79399,
+          "reserve": 167216
+        }
+      ]
+    }
+  },
+  "sections_rendered": [
+    "cost_tables",
+    "cover",
+    "electrical",
+    "fire_protection",
+    "hvac",
+    "locations_inspected",
+    "plumbing",
+    "roofing",
+    "site_assessment",
+    "structural_envelope"
+  ],
+  "capex_forecast": [
+    {
+      "system": "Plumbing",
+      "immediate": 4147,
+      "short_term": 9627,
+      "reserve": 334094
+    },
+    {
+      "system": "Roofing",
+      "immediate": 21480,
+      "short_term": 28469,
+      "reserve": 385980
+    },
+    {
+      "system": "Fire Protection",
+      "immediate": 38234,
+      "short_term": 79399,
+      "reserve": 167216
+    }
+  ]
+}

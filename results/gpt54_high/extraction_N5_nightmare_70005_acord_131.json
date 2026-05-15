@@ -1,0 +1,99 @@
+{
+  "form_info": {
+    "form_number": "ACORD 131",
+    "form_edition": null,
+    "form_title": "UMBRELLA / EXCESS LIABILITY"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": null,
+    "insured_city": null,
+    "insured_state": null,
+    "insured_zip": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "SIC CU025454",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": null,
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "underlying_policies": [
+    {
+      "carrier": "Standard Insurance Company",
+      "policy_number": null,
+      "coverage_type": "GL",
+      "limit": 4000000
+    },
+    {
+      "carrier": "Standard Insurance Company",
+      "policy_number": null,
+      "coverage_type": "Auto",
+      "limit": 6000000
+    }
+  ],
+  "umbrella_limits": {
+    "per_occurrence": 10000000,
+    "aggregate": 10000000,
+    "retention": 50000
+  },
+  "umbrella_premium": 492351,
+  "umbrella_form_type": "Occurrence",
+  "checkboxes": [
+    {
+      "field": "General Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Professional Liability",
+      "value": "No"
+    },
+    {
+      "field": "Aviation",
+      "value": "No"
+    },
+    {
+      "field": "Foreign Liability",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Railroad Protective",
+      "value": "No"
+    },
+    {
+      "field": "Products Liability",
+      "value": "No"
+    },
+    {
+      "field": "Employers' Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Marine",
+      "value": "No"
+    },
+    {
+      "field": "Liquor Liability",
+      "value": "No"
+    },
+    {
+      "field": "Pollution Liability",
+      "value": "No"
+    }
+  ],
+  "remarks": "Self-insured retention applies per occurrence to all coverages unless otherwise stated. Loss history summary totals: 51 claims, total paid 1568428, total reserved 178523, total incurred 1746951."
+}

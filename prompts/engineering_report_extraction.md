@@ -11,7 +11,7 @@ Return a single JSON object:
 ```json
 {
   "report_info": {
-    "report_type": "<sprinkler_inspection|property_survey|loss_control|boiler_inspection|etc.>",
+    "report_type": "<string>",
     "report_date": "<YYYY-MM-DD>",
     "inspector_name": "<string or null>",
     "inspector_company": "<string or null>",
@@ -37,7 +37,7 @@ Return a single JSON object:
       "address": "<string>",
       "city": "<string>",
       "state": "<string>",
-      "construction": "<string or null>",
+      "construction": "<construction class as written on the document — keep abbreviations or codes verbatim, do not coerce; null if missing>",
       "occupancy": "<string or null>",
       "year_built": "<number or null>",
       "stories": "<number or null>",
@@ -51,8 +51,8 @@ Return a single JSON object:
   ],
   "recommendations": [
     {
-      "priority": "<Critical|High|Medium|Low or null>",
-      "category": "<Fire Protection|Electrical|Structural|etc. or null>",
+      "priority": "<Severe|Necessary|Advisable or null>",
+      "category": "<structural|electrical|fire_protection|security|maintenance|documentation or null>",
       "description": "<string>",
       "estimated_cost": "<number or null>",
       "deadline": "<YYYY-MM-DD or null>"
@@ -61,7 +61,7 @@ Return a single JSON object:
   "overall_assessment": {
     "summary": "<string or null>",
     "risk_level": "<string or null>",
-    "insurability": "<Acceptable|Conditional|Unacceptable or null>"
+    "insurability": "<string or null>"
   }
 }
 ```

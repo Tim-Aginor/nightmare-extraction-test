@@ -1,0 +1,117 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": null,
+    "prepared_by": "Maine Employers Mutual",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Building",
+      "current_limit": 146260000.0,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Contents",
+      "current_limit": 42495000.0,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 62590000.0,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Business Income And Extra Expense Coverage Form CP 15 08"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": 424883.27,
+      "notes": "Form CP 00 10 10 12; Coinsurance 80%; Deductible $75,000"
+    },
+    {
+      "coverage_type": "Ordinance Or Law Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05"
+    },
+    {
+      "coverage_type": "Utility Services - Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17"
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000.0
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

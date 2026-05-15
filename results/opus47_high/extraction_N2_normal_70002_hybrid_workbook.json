@@ -1,0 +1,72 @@
+{
+  "document_info": {
+    "document_type": "Submission Memo",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": null,
+    "city": null,
+    "state": "OH",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property ownership with warehouse, manufacturing, and office operations across Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": 251345000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Total Insured Value across 9 locations includes Building, Contents, and BI values"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Majority of locations are Non-Combustible or Masonry Non-Combustible construction",
+      "8 of 9 locations are sprinklered",
+      "Mix of relatively modern construction (several post-2000 builds)",
+      "Low claim frequency over prior 4 years (only 1 claim in 2021 prior term shown)",
+      "Fire Resistive construction at Corporate Administrative Office"
+    ],
+    "concerns": [
+      "LOC-007 Toledo Industrial Park - Building 2 is not sprinklered",
+      "Older construction at Dayton Manufacturing Facility (1992) and Toledo Building 2 (1998)",
+      "Manufacturing occupancy at two locations presents higher hazard than warehouse",
+      "Two property claims in loss history with total incurred of $238,554"
+    ],
+    "loss_history_summary": "2 property claims with $202,875 paid and $238,554 incurred; 1 claim in 2021, no claims in 2022-2024 policy years"
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

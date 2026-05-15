@@ -1,0 +1,99 @@
+{
+  "document_info": {
+    "document_type": "SOV / Schedule of Values with Modifications Log",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate ownership and operation including office, retail, and mixed-use properties",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "current_limit": 222140000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Aggregate building value across 8 locations per current SOV. Prior year aggregate building value was 199124688."
+    },
+    {
+      "coverage_type": "Commercial Property - Contents",
+      "current_limit": 33432000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Aggregate contents value across 8 locations per current SOV. Prior year aggregate contents value was 29928511."
+    },
+    {
+      "coverage_type": "Business Interruption / BI",
+      "current_limit": 59212000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Aggregate BI value across 8 locations per current SOV."
+    },
+    {
+      "coverage_type": "Total Insured Value (TIV)",
+      "current_limit": 314784000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Aggregate TIV across 8 locations per current SOV. Prior year aggregate TIV was 229053199."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations have sprinkler systems installed",
+      "Construction classes are predominantly Fire Resistive and Masonry Non-Combustible",
+      "Portfolio is geographically concentrated in major Texas metros (Dallas, Houston, Plano, Fort Worth, Southlake) with strong market fundamentals",
+      "Mix of modern buildings; several built post-2000 with newer construction standards",
+      "Diverse occupancy mix including office, mercantile, and mixed-use"
+    ],
+    "concerns": [
+      "Significant TIV increase year-over-year: prior year aggregate TIV was approximately 229053199 vs. current 314784000, representing a ~37.4% increase",
+      "LOC-006 Energy Corridor Business Center built in 1995 is the oldest property in the portfolio",
+      "Pending addition of a new warehouse facility (effective 2026-03-15) introduces a new occupancy/construction risk not yet detailed in the SOV",
+      "A location deletion is noted (lease expired) which may indicate portfolio instability or tenant concentration risk",
+      "TIV update per appraisal for Lone Star Property Holdings, LP suggests prior values may have been underinsured",
+      "LOC-001 Preston Center Tower carries the largest single-location TIV at 86450000, representing significant concentration risk",
+      "Houston locations (LOC-002, LOC-003, LOC-006) carry combined TIV of 114408000 with exposure to hurricane and flood risk"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314784000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Portfolio consists of 8 commercial properties across Texas including fire resistive office towers, masonry non-combustible retail centers, and mixed-use developments. Properties range from 52000 to 285000 square feet, built between 1995 and 2018, spanning 2 to 18 stories. All locations are 100% sprinklered. Modifications include addition of a new warehouse facility, deletion of a closed location, and a TIV update per appraisal, all effective 2026-03-15.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

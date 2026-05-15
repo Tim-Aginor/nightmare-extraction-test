@@ -195,7 +195,7 @@
         "nature_of_operations": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
         "entity_type": "Limited Partnership"
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_101_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_101_70001.pdf"
     },
     "acord_125": {
       "doc_type": "acord_125",
@@ -759,7 +759,7 @@
           "tiv": 16276000
         }
       ],
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_125_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_125_70001.pdf"
     },
     "acord_140": {
       "doc_type": "acord_140",
@@ -2328,7 +2328,7 @@
           }
         }
       ],
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_140_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_140_70001.pdf"
     },
     "acord_160": {
       "doc_type": "acord_160",
@@ -3165,7 +3165,7 @@
           }
         }
       ],
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_160_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_160_70001.pdf"
     },
     "acord_24": {
       "doc_type": "acord_24",
@@ -3720,7 +3720,7 @@
           "tiv": 16276000
         }
       ],
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_24_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_24_70001.pdf"
     },
     "acord_25": {
       "doc_type": "acord_25",
@@ -3889,7 +3889,7 @@
         "producer_fax": "(214) 273-7259",
         "producer_email": "svillareal@txcip.com"
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_25_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_25_70001.pdf"
     },
     "acord_27": {
       "doc_type": "acord_27",
@@ -4258,7 +4258,7 @@
           "tiv": 16276000
         }
       ],
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_27_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_27_70001.pdf"
     },
     "acord_28": {
       "doc_type": "acord_28",
@@ -5124,7 +5124,7 @@
           }
         }
       ],
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_28_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_28_70001.pdf"
     },
     "acord_35": {
       "doc_type": "acord_35",
@@ -5371,7 +5371,7 @@
         "cancellation_date": "2026-06-07",
         "cancellation_reason": "Underwriting"
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_35_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_35_70001.pdf"
     },
     "acord_45": {
       "doc_type": "acord_45",
@@ -5671,7 +5671,7 @@
           "occupancy": "Mercantile"
         }
       ],
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_45_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_45_70001.pdf"
     },
     "acord_75": {
       "doc_type": "acord_75",
@@ -6053,7 +6053,7 @@
         "limit_property_coinsurance": 90.0,
         "coinsurance_property": 90.0
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/acord_75_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/acord_75_70001.pdf"
     },
     "broker_narrative": {
       "doc_type": "broker_narrative",
@@ -6155,7 +6155,7 @@
         "policy_period_start": null,
         "policy_period_end": null
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/broker_narrative_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/broker_narrative_70001.pdf"
     },
     "dec_page": {
       "doc_type": "dec_page",
@@ -6297,7 +6297,7 @@
           "CP 03 21 06 07 \u2014 Windstorm or Hail Percentage Deductible"
         ]
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/dec_page_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/dec_page_70001.pdf"
     },
     "engineering_report": {
       "doc_type": "engineering_report",
@@ -6605,7 +6605,7 @@
         "location_count": 8,
         "recommendation_count": 0
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/engineering_report_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/engineering_report_70001.pdf"
     },
     "financial_statement": {
       "doc_type": "financial_statement",
@@ -7039,7 +7039,7 @@
       "balance_sheet": {},
       "income_statement": {},
       "ratios": {},
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/financial_statement_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/financial_statement_70001.pdf"
     },
     "financial_statement_excel": {
       "doc_type": "financial_statement_excel",
@@ -7227,7 +7227,7 @@
       "balance_sheet": {},
       "income_statement": {},
       "ratios": {},
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/financial_statement_excel_70001.xlsx"
+      "document_path": "packets/N1_easy/doc_70001/documents/financial_statement_excel_70001.xlsx"
     },
     "hybrid_workbook": {
       "doc_type": "hybrid_workbook",
@@ -7498,7 +7498,7 @@
         "policy_period_start": null,
         "policy_period_end": null
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/hybrid_workbook_70001.xlsx"
+      "document_path": "packets/N1_easy/doc_70001/documents/hybrid_workbook_70001.xlsx"
     },
     "loss_run": {
       "doc_type": "loss_run",
@@ -7986,7 +7986,7 @@
           "property"
         ]
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/loss_run_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/loss_run_70001.pdf"
     },
     "loss_run_csv": {
       "doc_type": "loss_run_csv",
@@ -8323,7 +8323,7 @@
           "property"
         ]
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/loss_run_csv_70001.csv"
+      "document_path": "packets/N1_easy/doc_70001/documents/loss_run_csv_70001.csv"
     },
     "loss_run_excel": {
       "doc_type": "loss_run_excel",
@@ -8835,7 +8835,7 @@
           "property"
         ]
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/loss_run_excel_70001.xlsx"
+      "document_path": "packets/N1_easy/doc_70001/documents/loss_run_excel_70001.xlsx"
     },
     "policy_form": {
       "doc_type": "policy_form",
@@ -9290,7 +9290,7 @@
           "property": "CP-LSPH-2025-7801"
         }
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/policy_form_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/policy_form_70001.pdf"
     },
     "sov": {
       "doc_type": "sov",
@@ -9931,7 +9931,7 @@
         "has_sub_buildings": false,
         "has_zero_building_value": false
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/sov_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/sov_70001.pdf"
     },
     "sov_excel": {
       "doc_type": "sov_excel",
@@ -10571,7 +10571,7 @@
         "has_sub_buildings": false,
         "has_zero_building_value": false
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/sov_excel_70001.xlsx"
+      "document_path": "packets/N1_easy/doc_70001/documents/sov_excel_70001.xlsx"
     },
     "supplemental_app": {
       "doc_type": "supplemental_app",
@@ -11172,7 +11172,7 @@
           "property": "CP-LSPH-2025-7801"
         }
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/supplemental_app_70001.pdf"
+      "document_path": "packets/N1_easy/doc_70001/documents/supplemental_app_70001.pdf"
     },
     "supplemental_schedule_excel": {
       "doc_type": "supplemental_schedule_excel",
@@ -11273,7 +11273,7 @@
         "policy_period_start": null,
         "policy_period_end": null
       },
-      "document_path": "/home/test/Desktop/villify/output/nightmare/N1_easy/doc_70001/documents/supplemental_schedule_excel_70001.xlsx"
+      "document_path": "packets/N1_easy/doc_70001/documents/supplemental_schedule_excel_70001.xlsx"
     }
   },
   "summary": {

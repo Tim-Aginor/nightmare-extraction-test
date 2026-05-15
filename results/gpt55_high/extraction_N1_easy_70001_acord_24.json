@@ -1,0 +1,83 @@
+{
+  "checkboxes": [
+    {
+      "field": "Causes of Loss - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "Causes of Loss - Earthquake",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Wind",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Flood",
+      "value": "No"
+    }
+  ],
+  "document_date": "2026-03-16",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "carrier_name": "Apex Managing General Agency Insurance Company",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "policy_number": "CP-LSPH-2025-7801",
+    "producer_code": "AG-7703921",
+    "producer_name": "Texas Commercial Insurance Partners"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "Apex Managing General Agency Insurance Company",
+      "naic": "22682"
+    }
+  ],
+  "locations": [
+    {
+      "address": "8117 Preston Road",
+      "bi_value": 59212000,
+      "building_value": 222340000,
+      "city": "Dallas",
+      "construction": "Fire Resistive",
+      "contents_value": 33432000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "TX",
+      "stories": null,
+      "tiv": 314984000,
+      "year_built": null,
+      "zip": "75225"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 50000,
+  "property_limits": {
+    "building": 222340000,
+    "business_income": 59212000,
+    "contents": 33432000
+  },
+  "remarks": null
+}

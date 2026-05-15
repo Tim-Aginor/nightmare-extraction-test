@@ -1,0 +1,98 @@
+{
+  "document_info": {
+    "document_type": "Transfer Submission",
+    "date": "2026-03-15",
+    "prepared_by": "Patricia Nowak",
+    "recipient": "Underwriting Department, Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 42,
+    "annual_revenue": null,
+    "employee_count": 425
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Requested for approximately 425 employees across all operations."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": "$2,000,000.00 per occurrence and $4,000,000.00 aggregate",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Including standard premises/operations and products/completed operations."
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Coverage for 15 vehicles including hired and non-owned auto."
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Coverage for all scheduled locations on a special form with replacement cost valuation."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Implemented a formal return-to-work program that has reduced lost-time claims by over 30%.",
+      "Maintains a dedicated safety committee that meets monthly and conducts quarterly site audits.",
+      "Management has invested significantly in employee safety training, with all field personnel OSHA-certified.",
+      "Maintains a formal business continuity and disaster recovery plan tested annually.",
+      "Organization has achieved ISO 9001 certification, reflecting a commitment to quality and process control.",
+      "Carries contractual risk transfer provisions in all subcontractor and vendor agreements.",
+      "Background checks and MVR reviews are conducted annually for all employees in safety-sensitive positions.",
+      "Structured HR program, low turnover and consistent safety training.",
+      "42 years of continuous operations under consistent management demonstrates operational stability."
+    ],
+    "concerns": [
+      "Account experienced a cancellation in 2022-2023 with Zurich Insurance Group due to carrier non-renewed - book of business exit.",
+      "52 total claims over the review period with $1,489,697.06 total incurred."
+    ],
+    "loss_history_summary": "Over the review period, the insured has incurred 52 total claims with $1,315,756.27 in total paid losses and $1,489,697.06 total incurred. Currently, 12 claims remain open and 40 have been closed. Annualized loss ratio is 18.7% (avg annual incurred $297,939.41 against current annual premium $1,589,164.70 over 5 loss years)."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 15,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "We are pleased to submit Keystone Commercial Builders, Inc. for your review and consideration. The insured is a general contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania, headquartered in Pittsburgh, with approximately 42 years of operating history. Coverage is requested for Workers' Compensation, General Liability, Commercial Auto, Commercial Property.",
+    "operations_description": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania.",
+    "safety_programs": "The insured has implemented a formal return-to-work program that has reduced lost-time claims by over 30%. The insured maintains a dedicated safety committee that meets monthly and conducts quarterly site audits. Management has invested significantly in employee safety training, with all field personnel OSHA-certified.",
+    "claims_narrative": "The claims history warrants review; management has implemented corrective measures to address identified exposures. Over the review period, the insured has incurred 52 total claims with $1,315,756.27 in total paid losses and $1,489,697.06 total incurred. Currently, 12 claims remain open and 40 have been closed. Annualized loss ratio is 18.7%."
+  }
+}

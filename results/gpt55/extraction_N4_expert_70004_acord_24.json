@@ -1,0 +1,107 @@
+{
+  "checkboxes": [
+    {
+      "field": "PROPERTY",
+      "value": "Yes"
+    },
+    {
+      "field": "BASIC",
+      "value": "No"
+    },
+    {
+      "field": "BROAD",
+      "value": "No"
+    },
+    {
+      "field": "SPECIAL",
+      "value": "Yes"
+    },
+    {
+      "field": "EARTHQUAKE",
+      "value": "No"
+    },
+    {
+      "field": "FLOOD",
+      "value": "No"
+    },
+    {
+      "field": "INLAND MARINE",
+      "value": "No"
+    },
+    {
+      "field": "CRIME",
+      "value": "No"
+    },
+    {
+      "field": "BOILER & MACHINERY / EQUIPMENT BREAKDOWN",
+      "value": "No"
+    }
+  ],
+  "document_date": "2024-08-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "National Insurance Company",
+    "effective_date": "2024-08-15",
+    "expiration_date": "2025-08-15",
+    "insured_address": "100 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Ward Clay Insurance Group"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "National Insurance Company",
+      "naic": null
+    },
+    {
+      "carrier": "National Indemnity Company",
+      "naic": null
+    },
+    {
+      "carrier": "National Casualty Company",
+      "naic": null
+    },
+    {
+      "carrier": "National American Company",
+      "naic": null
+    }
+  ],
+  "locations": [
+    {
+      "address": "100 Liberty Avenue, Suite 1200",
+      "bi_value": null,
+      "building_value": 5000000,
+      "city": "Pittsburgh",
+      "construction": null,
+      "contents_value": 1000000,
+      "fire_alarm_type": null,
+      "location_number": "1",
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "PA",
+      "stories": null,
+      "tiv": null,
+      "year_built": null,
+      "zip": "15222"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 10000,
+  "property_limits": {
+    "building": 5000000,
+    "business_income": null,
+    "contents": 1000000
+  },
+  "remarks": "Location of premises / description of property: 100 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222. For Revision, Office. Certificate holder: Woodbridge Realty Management Inc., 675 Maple Avenue, Unit 129, Birmingham, AL 35203."
+}

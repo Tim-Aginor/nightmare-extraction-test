@@ -1,0 +1,55 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": "2016/03",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Bedford Insurance Group",
+    "policy_number": "CP-KCY-2025-4583",
+    "effective_date": "2025-03-01",
+    "expiration_date": "2026-03-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "28339"
+  },
+  "document_date": "2025-01-16",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": "1",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15222",
+      "construction": null,
+      "occupancy": "Office",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": 1200000,
+      "bi_value": 2500000,
+      "tiv": 3700000
+    }
+  ],
+  "property_deductible": 25000,
+  "interests": [
+    {
+      "name": "M&T Bank",
+      "address": "6261 Jackson Street, Pittsburgh, PA 15221",
+      "interest_type": "First Mortgagee",
+      "loan_number": null
+    }
+  ],
+  "checkboxes": [],
+  "remarks": "Coverage applies to Special Form. Property is fully sprinklered. Coverage sign for FE 1234567."
+}

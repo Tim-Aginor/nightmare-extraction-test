@@ -1,0 +1,72 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": null,
+    "city": null,
+    "state": "OH",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property ownership and operations including warehousing, logistics/distribution, manufacturing, and corporate administrative office operations",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": 251345000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Total Insured Value across 9 locations: Building $146,260,000; Contents $42,495,000; BI $62,590,000"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Majority of locations are Non-Combustible or Masonry Non-Combustible/Fire Resistive construction",
+      "8 of 9 locations are sprinklered",
+      "Most facilities are relatively modern (built 1992-2019, with several post-2010 buildings)",
+      "Favorable recent loss history - zero claims reported in 2022, 2023, and 2024 policy years",
+      "Diversified portfolio of warehouse, manufacturing, and office occupancies"
+    ],
+    "concerns": [
+      "LOC-007 (Toledo Industrial Park - Building 2) is not sprinklered",
+      "LOC-004 (Dayton Manufacturing Facility) is the oldest building (1992) and is Joisted Masonry construction with manufacturing occupancy",
+      "Carrier turnover - three different carriers across the last four policy terms (Hartford, Chubb, Hartford, Liberty Mutual)",
+      "Prior loss in 2021 policy term"
+    ],
+    "loss_history_summary": "Property coverage shows 2 claims with $202,875 paid and $238,554 total incurred. Prior insurance history reflects 1 claim in 2021 and zero claims in 2022, 2023, and 2024 policy years."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Portfolio comprises 9 Ohio-based industrial/commercial locations including Rickenbacker Logistics Center Buildings A & B (Columbus), Cleveland Distribution Hub (Brooklyn), Dayton Manufacturing Facility, Cincinnati Cross-Dock Terminal, Toledo Industrial Park Buildings 1 & 2, Akron Flex Space (Uniontown), and a Corporate Administrative Office in Columbus.",
+    "safety_programs": null,
+    "claims_narrative": "Property losses total 2 claims with $202,875 paid and $238,554 incurred. One claim occurred during the 2021 Hartford policy term; no losses reported in 2022, 2023, or 2024."
+  }
+}

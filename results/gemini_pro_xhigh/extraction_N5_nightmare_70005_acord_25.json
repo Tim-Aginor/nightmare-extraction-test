@@ -1,0 +1,110 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": null,
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "GLPS 2025 8821",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null
+  },
+  "document_date": "2025-03-18",
+  "certificate_holders": [
+    {
+      "name": "Quantum Realty Management Inc.",
+      "address": "1000 Summit Avenue\nLittle Rock, AR 72201"
+    }
+  ],
+  "carrier_name_per_lob": [
+    {
+      "lob": "Commercial General Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": "GLPS 2025 8821"
+    },
+    {
+      "lob": "Automobile Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": "CAGLPS20256821"
+    },
+    {
+      "lob": "Umbrella Liability",
+      "carrier": "Standard Insurance Company",
+      "naic": null,
+      "policy_number": "SIC CU025454"
+    },
+    {
+      "lob": "Workers Compensation and Employers' Liability",
+      "carrier": "Ohio Bureau of Workers' Compensation",
+      "naic": null,
+      "policy_number": "WC GLPS 2025 8820"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "policy_number": "GLPS 2025 8821",
+      "effective_date": "2025-06-01",
+      "expiration_date": "2026-06-01",
+      "limit": "2000000"
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "policy_number": "CAGLPS20256821",
+      "effective_date": "2025-06-01",
+      "expiration_date": "2026-06-01",
+      "limit": "5000000"
+    },
+    {
+      "coverage_type": "Umbrella Liability",
+      "policy_number": "SIC CU025454",
+      "effective_date": "2025-06-01",
+      "expiration_date": "2026-06-01",
+      "limit": "10000000"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers' Liability",
+      "policy_number": "WC GLPS 2025 8820",
+      "effective_date": "2025-06-01",
+      "expiration_date": "2026-06-01",
+      "limit": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Commercial General Liability - OCCUR",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial General Liability - CLAIMS-MADE",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - ANY AUTO",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella Liability - OCCUR",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella Liability - CLAIMS-MADE",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - WC STATUTORY LIMITS",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "RE: Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Locations: Corporate Headquarters & Main Terminal - 1200 Nationwide Boulevard, Columbus, OH 43215; Rickenbacker Air Hub - 2500 Norton Road, Columbus, OH 43217; Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131. Quantum Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

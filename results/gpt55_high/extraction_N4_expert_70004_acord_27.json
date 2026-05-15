@@ -1,0 +1,68 @@
+{
+  "checkboxes": [
+    {
+      "field": "Perils Insured Against - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Perils Insured Against - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Perils Insured Against - Special",
+      "value": "Yes"
+    }
+  ],
+  "document_date": "2026-01-15",
+  "form_info": {
+    "form_edition": "2009/12",
+    "form_number": "ACORD 27",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "carrier_name": "Midwest Insurance Group",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "CPKC1-3076-4581",
+    "producer_code": null,
+    "producer_name": "Real City Insurance Group"
+  },
+  "interests": [
+    {
+      "address": "367 Forbes Avenue, Pittsburgh, PA 15221",
+      "interest_type": "Mortgagee - First Mortgagee",
+      "loan_number": "2339",
+      "name": "S&T Bank"
+    }
+  ],
+  "locations": [
+    {
+      "address": "300 Liberty Avenue, Suite 1200",
+      "bi_value": 2500000,
+      "building_value": null,
+      "city": "Pittsburgh",
+      "construction": null,
+      "contents_value": 1200000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "PA",
+      "stories": null,
+      "tiv": null,
+      "year_built": null,
+      "zip": "15222"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 25000,
+  "remarks": "Coverage provided by Special Form. Property is fully sprinklered."
+}

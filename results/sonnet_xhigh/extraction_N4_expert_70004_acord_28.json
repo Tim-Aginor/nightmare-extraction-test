@@ -1,0 +1,180 @@
+{
+  "form_info": {
+    "form_number": "ACORD 28",
+    "form_edition": "2016/09",
+    "form_title": "Evidence of Commercial Property Insurance"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 10820000,
+      "deductible": 27000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents",
+      "limit": 10455000,
+      "deductible": 27000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 10130000,
+      "deductible": 27000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "cause_of_loss_basic": "No",
+    "cause_of_loss_broad": "No",
+    "cause_of_loss_special": "Yes",
+    "sprinklered_loc001": "Yes",
+    "sprinklered_loc002": "Yes",
+    "sprinklered_loc003": "Yes",
+    "sprinklered_loc004": "Yes",
+    "sprinklered_loc005": "No"
+  },
+  "additional_fields": {
+    "date_issued": "2026-03-15",
+    "naic_code": "28339",
+    "policy_type": "Special",
+    "loan_number": "LN-609402",
+    "cause_of_loss": "Special",
+    "coinsurance_percentage": "90.0%",
+    "producer_contact_person": "Patricia Nowak",
+    "producer_address": "One PPG Place, Suite 3100, Pittsburgh, PA 15222",
+    "producer_phone": "(412) 555-0287",
+    "producer_fax": "(412) 580-2110",
+    "producer_email": "pnowak@steelcityins.com",
+    "mortgagee": {
+      "name": "KeyBank National Association",
+      "interest_type": "First Mortgage",
+      "address": "540 School Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "30078"
+    },
+    "authorized_representative": "Joseph Kowalczyk",
+    "authorized_representative_date": "2026-03-15",
+    "schedule_of_locations": [
+      {
+        "loc_number": "LOC-001",
+        "address": "300 Liberty Avenue, Suite 1200",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15222",
+        "building_value": null,
+        "contents_value": 1260000,
+        "business_income_value": 2340000,
+        "total_insured_value": 3600000,
+        "construction_type": "Fire Resistive",
+        "occupancy": "Office",
+        "year_built": 1960,
+        "stories": 5,
+        "square_footage": 10000,
+        "protection_class": "1",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-002",
+        "address": "4500 Butler Street",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15201",
+        "building_value": 9100000,
+        "contents_value": 6430000,
+        "business_income_value": 2000000,
+        "total_insured_value": 17530000,
+        "construction_type": "Non-Combustible",
+        "occupancy": "Warehouse",
+        "year_built": 1980,
+        "stories": 1,
+        "square_footage": 62000,
+        "protection_class": "1",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-003",
+        "address": "4520 Butler Street",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15216",
+        "building_value": null,
+        "contents_value": null,
+        "business_income_value": null,
+        "total_insured_value": 8000000,
+        "construction_type": "Masonry Non-Combustible",
+        "occupancy": "Manufacturing",
+        "year_built": null,
+        "stories": 1,
+        "square_footage": null,
+        "protection_class": "1",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-004",
+        "address": "3000 Village Run Road",
+        "city": "Wexford",
+        "state": "PA",
+        "zip": "15090",
+        "building_value": 1700000,
+        "contents_value": 675000,
+        "business_income_value": 600000,
+        "total_insured_value": 2975000,
+        "construction_type": "Masonry Non-Combustible",
+        "occupancy": "Office",
+        "year_built": 2010,
+        "stories": 2,
+        "square_footage": 3500,
+        "protection_class": "4",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-005",
+        "address": "100 Draft Road",
+        "city": "Cranberry Township",
+        "state": "PA",
+        "zip": "16066",
+        "building_value": 1080000,
+        "contents_value": 4000000,
+        "business_income_value": 2120000,
+        "total_insured_value": 7200000,
+        "construction_type": "Non-Combustible",
+        "occupancy": "Warehouse",
+        "year_built": null,
+        "stories": 1,
+        "square_footage": 35000,
+        "protection_class": "1",
+        "sprinklered": "No"
+      }
+    ],
+    "portfolio_totals": {
+      "total_building": 10820000,
+      "total_contents": 10455000,
+      "total_business_income": 10130000,
+      "grand_total_insured_value": 39405000
+    }
+  },
+  "remarks": "This evidence of property insurance is issued as a matter of information only and confers no rights upon the additional interest named above. This evidence does not amend, extend, or alter the coverage afforded by the policy referenced herein. Should any of the above described policies be cancelled before the expiration date thereof, the issuing company will endeavor to mail 30 days written notice to the certificate holder named herein, but failure to mail such notice shall impose no obligation or liability of any kind upon the company, its agents or representatives."
+}

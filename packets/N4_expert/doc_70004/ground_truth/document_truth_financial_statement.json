@@ -1,0 +1,64 @@
+{
+  "document_type": "financial_statement",
+  "template": "hallmark_style",
+  "seed": 70004,
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA, 15222",
+    "street": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip_code": "15222"
+  },
+  "carrier": "Hallmark Insurance Group",
+  "policy_period": {
+    "start": "2025-08-01",
+    "end": "2026-08-01"
+  },
+  "policy_numbers": {
+    "wc": "WC-KCB-2025-5580",
+    "gl": "GL-KCB-2025-5581",
+    "auto": "CA-KCB-2025-5582",
+    "property": "CP-KCB-2025-5583"
+  },
+  "summary": {
+    "annual_revenue": 95000000,
+    "num_employees": 425,
+    "balance_sheet": {
+      "cash": 22187700.0,
+      "accounts_receivable": 28366800.0,
+      "inventory": 11400000.0,
+      "prepaid_expenses": 2375000.0,
+      "ppe_net": 7911100.0,
+      "other_assets": 31096100.0,
+      "total_assets": 103336700.0,
+      "accounts_payable": 19502100.0,
+      "accrued_expenses": 14166000.0,
+      "current_lt_debt": 3982600.0,
+      "long_term_debt": 25795700.0,
+      "other_liabilities": 5517100.0,
+      "total_liabilities": 68963500.0,
+      "equity": 34373200.0
+    },
+    "income_statement": {
+      "revenue": 95000000,
+      "cogs": 69425900.0,
+      "gross_profit": 25574100.0,
+      "operating_expenses": 8394300.0,
+      "depreciation": 6127600.0,
+      "ebit": 11052200.0,
+      "interest_expense": 3019600.0,
+      "ebt": 8032600.0,
+      "tax_rate": 0.2534,
+      "tax_provision": 2035200.0,
+      "net_income": 5997400.0
+    },
+    "ratios": {
+      "current_ratio": 1.7086,
+      "debt_to_equity": 2.0063,
+      "profit_margin": 0.0631,
+      "return_on_assets": 0.058
+    }
+  },
+  "page_count": 2
+}

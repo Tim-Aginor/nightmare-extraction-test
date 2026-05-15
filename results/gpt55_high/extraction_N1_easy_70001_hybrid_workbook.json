@@ -1,0 +1,68 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Commercial property portfolio with office and mercantile occupancies",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Current statement of values lists 8 Texas locations with total insured value of 314984000, including building, contents, and business income values. Modifications note updated TIV per appraisal effective 2026-03-15.",
+      "requested_limit": "314984000"
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel statement of values and modifications schedule",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "Schedule includes 8 Texas commercial property locations: office and mercantile occupancies in Dallas, Houston, Plano, Fort Worth, and Southlake. Construction types include Fire Resistive, Masonry Non-Combustible, and Non-Combustible. All listed locations are sprinklered.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": "Lone Star Property Holdings, LP",
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Schedule notes an added warehouse facility and a deleted/closed location, but the provided current location schedule lists only the 8 displayed locations.",
+      "Total insured values were updated per appraisal effective 2026-03-15."
+    ],
+    "loss_history_summary": null,
+    "positives": [
+      "All listed locations are sprinklered.",
+      "Portfolio consists of commercial office and mercantile properties in Texas.",
+      "Most listed buildings were constructed from 2001 onward, with the oldest listed building built in 1995."
+    ]
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "form_info": {
+    "form_number": "ACORD 137",
+    "form_edition": "2016/03",
+    "form_title": "COMMERCIAL AUTO SUPPLEMENT"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CAGLFS20258822",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 122185
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2023,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 118431
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2023,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 121494
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2024,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 117867
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2022,
+      "make": "Peterbilt",
+      "model": "579",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 129900
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2023,
+      "make": "Peterbilt",
+      "model": "579",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 118867
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2021,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 110564
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "VNL 860",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 112290
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2022,
+      "make": "International",
+      "model": "LT",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 116064
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2023,
+      "make": "Mack",
+      "model": "Anthem",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 121946
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia Day Cab",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 123356
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2024,
+      "make": "Kenworth",
+      "model": "T880 Day Cab",
+      "vin": null,
+      "vehicle_class": "Extra Heavy Truck",
+      "garage_state": null,
+      "stated_value": 116753
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2021,
+      "make": "Freightliner",
+      "model": "M2 112",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 84772
+    },
+    {
+      "vehicle_id": "14",
+      "year": 2023,
+      "make": "International",
+      "model": "MV607",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 56957
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Hino",
+      "model": "338",
+      "vin": null,
+      "vehicle_class": "Heavy Truck",
+      "garage_state": null,
+      "stated_value": 35850
+    },
+    {
+      "vehicle_id": "16",
+      "year": 2024,
+      "make": "Isuzu",
+      "model": "NPR-HD",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 35493
+    },
+    {
+      "vehicle_id": "17",
+      "year": 2023,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": 54468
+    },
+    {
+      "vehicle_id": "18",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Transit 350",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 53196
+    },
+    {
+      "vehicle_id": "19",
+      "year": 2023,
+      "make": "Ram",
+      "model": "ProMaster 2500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 46582
+    },
+    {
+      "vehicle_id": "20",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 48402
+    },
+    {
+      "vehicle_id": "21",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 50267
+    },
+    {
+      "vehicle_id": "22",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": 39001
+    },
+    {
+      "vehicle_id": "23",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Camry",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": 27970
+    },
+    {
+      "vehicle_id": "24",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "vin": null,
+      "vehicle_class": "Private Passenger",
+      "garage_state": null,
+      "stated_value": 41016
+    },
+    {
+      "vehicle_id": "25",
+      "year": 2024,
+      "make": "Great Dane",
+      "model": "Champion SE",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "26",
+      "year": 2023,
+      "make": "Great Dane",
+      "model": "Champion SE",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "27",
+      "year": 2023,
+      "make": "Wabash",
+      "model": "DuraPlate HD",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "28",
+      "year": 2024,
+      "make": "Wabash",
+      "model": "DuraPlate HD",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "29",
+      "year": 2025,
+      "make": "Utility",
+      "model": "4000D-X Composite",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "30",
+      "year": 2025,
+      "make": "Utility",
+      "model": "4000D-X Composite",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "31",
+      "year": 2025,
+      "make": "Morgan",
+      "model": "Translead Dry Van",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "32",
+      "year": 2022,
+      "make": "Morgan",
+      "model": "Translead Dry Van",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 58202
+    },
+    {
+      "vehicle_id": "33",
+      "year": 2023,
+      "make": "Fontaine",
+      "model": "Revolution",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 66496
+    },
+    {
+      "vehicle_id": "34",
+      "year": 2021,
+      "make": "Fontaine",
+      "model": "Infinity",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 63754
+    },
+    {
+      "vehicle_id": "35",
+      "year": 2017,
+      "make": "Fontaine",
+      "model": "Genesis",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "36",
+      "year": 2024,
+      "make": "Great Dane",
+      "model": "Everest TL",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 52223
+    },
+    {
+      "vehicle_id": "37",
+      "year": 2023,
+      "make": "Utility",
+      "model": "3000R",
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": 23225
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 5000000,
+    "uninsured_motorist": 50000,
+    "medical_payments": 10000
+  },
+  "auto_premium": {
+    "base_premium": null,
+    "tria_surcharge": null,
+    "total_premium": 262046.75,
+    "deductible": null,
+    "form_type": "occurrence"
+  },
+  "checkboxes": [
+    {
+      "field": "Are any vehicles used for snow removal or similar seasonal operations?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any drivers under age 21?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured transport passengers for a fee?",
+      "value": "No"
+    },
+    {
+      "field": "Are dashcams or telematics installed in any vehicles?",
+      "value": "No"
+    },
+    {
+      "field": "Has the insured had any DOT violations in the past 3 years?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

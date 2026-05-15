@@ -1,0 +1,1532 @@
+{
+  "model": "analysis",
+  "packets": {
+    "N1_easy_70001": {
+      "difficulty": "N1_easy",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "engineering_report": {
+          "category": "engineering_report",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "policy_form": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov_excel": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        }
+      }
+    },
+    "N2_normal_70002": {
+      "difficulty": "N2_normal",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "engineering_report": {
+          "category": "engineering_report",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "policy_form": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov_excel": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        }
+      }
+    },
+    "N3_hard_70003": {
+      "difficulty": "N3_hard",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_126": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_130": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_133": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "engineering_report": {
+          "category": "engineering_report",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "experience_mod": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "experience_mod_excel": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "policy_form": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov_excel": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        }
+      }
+    },
+    "N4_expert_70004": {
+      "difficulty": "N4_expert",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_126": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_127": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_130": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_133": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_137": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_23": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_823": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "driver_schedule": {
+          "category": "driver_schedule",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "driver_schedule_excel": {
+          "category": "driver_schedule",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "engineering_report": {
+          "category": "engineering_report",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "experience_mod": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "experience_mod_excel": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "policy_form": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov_excel": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        }
+      }
+    },
+    "N5_nightmare_70005": {
+      "difficulty": "N5_nightmare",
+      "documents": {
+        "acord_101": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_125": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_126": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_127": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_131": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_137": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_140": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_160": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_23": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_24": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_25": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_27": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_28": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_35": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_45": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "acord_75": {
+          "category": "acord_form",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "broker_narrative": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "dec_page": {
+          "category": "dec_page",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "driver_schedule": {
+          "category": "driver_schedule",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "driver_schedule_excel": {
+          "category": "driver_schedule",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "financial_statement_excel": {
+          "category": "financial_statement",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "hybrid_workbook": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_csv": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "loss_run_excel": {
+          "category": "loss_run",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "policy_form": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "sov_excel": {
+          "category": "sov",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_app": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_app_trucking": {
+          "category": "narrative",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        },
+        "supplemental_schedule_excel": {
+          "category": "workbook",
+          "composite_score": 0.0,
+          "error": "extraction not found",
+          "catastrophic_errors": [
+            "extraction_missing"
+          ],
+          "catastrophic_count": 1
+        }
+      }
+    }
+  },
+  "aggregate": {
+    "acord_form": {
+      "count": 67,
+      "scored": 0,
+      "errored": 67,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 67,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "narrative": {
+      "count": 21,
+      "scored": 0,
+      "errored": 21,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 21,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "dec_page": {
+      "count": 5,
+      "scored": 0,
+      "errored": 5,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 5,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "engineering_report": {
+      "count": 4,
+      "scored": 0,
+      "errored": 4,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 4,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "financial_statement": {
+      "count": 10,
+      "scored": 0,
+      "errored": 10,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 10,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "workbook": {
+      "count": 12,
+      "scored": 0,
+      "errored": 12,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 12,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "loss_run": {
+      "count": 15,
+      "scored": 0,
+      "errored": 15,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 15,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "sov": {
+      "count": 10,
+      "scored": 0,
+      "errored": 10,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 10,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "driver_schedule": {
+      "count": 4,
+      "scored": 0,
+      "errored": 4,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "min_composite": 0.0,
+      "max_composite": 0.0,
+      "total_catastrophic": 4,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    },
+    "overall": {
+      "total_documents": 148,
+      "scored_documents": 0,
+      "errored_documents": 148,
+      "avg_composite": 0.0,
+      "avg_composite_scored": null,
+      "total_catastrophic": 148,
+      "fields_scored_total": 0,
+      "fields_correct_total": 0,
+      "fields_wrong_total": 0,
+      "fields_omitted_total": 0,
+      "wrong_value_rate_micro": null,
+      "omission_rate_micro": null,
+      "any_error_rate_micro": null
+    }
+  }
+}

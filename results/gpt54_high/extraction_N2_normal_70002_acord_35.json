@@ -1,0 +1,69 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "CANCELLATION REQUEST / POLICY RELEASE"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": "AG-6645310"
+  },
+  "document_date": "2026-03-16",
+  "producer_phone": "(614) 555-0742",
+  "producer_fax": "(614) 837-8018",
+  "producer_license_number": null,
+  "cancellation_date": "2026-08-30",
+  "cancellation_reason": "Other",
+  "checkboxes": [
+    {
+      "field": "policy_type_cgl",
+      "value": "No"
+    },
+    {
+      "field": "policy_type_auto",
+      "value": "No"
+    },
+    {
+      "field": "policy_type_wc",
+      "value": "No"
+    },
+    {
+      "field": "policy_type_property",
+      "value": "Yes"
+    },
+    {
+      "field": "policy_type_umbrella",
+      "value": "No"
+    },
+    {
+      "field": "reason_insured_request",
+      "value": "No"
+    },
+    {
+      "field": "reason_non_payment_of_premium",
+      "value": "No"
+    },
+    {
+      "field": "reason_underwriting",
+      "value": "No"
+    },
+    {
+      "field": "reason_non_renewal",
+      "value": "No"
+    },
+    {
+      "field": "reason_other",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "The above-named insured/agent requests cancellation of the policy described above. Any return premium due is to be calculated on a pro-rata basis unless otherwise indicated."
+}

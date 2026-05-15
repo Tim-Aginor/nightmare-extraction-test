@@ -1,0 +1,37 @@
+{
+  "form_info": {
+    "form_number": null,
+    "form_edition": null,
+    "form_title": null
+  },
+  "header": {
+    "insured_name": null,
+    "insured_address": null,
+    "insured_city": null,
+    "insured_state": null,
+    "insured_zip": null,
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": null,
+    "producer_code": null
+  },
+  "policy_form_type": null,
+  "cause_of_loss": null,
+  "coinsurance": null,
+  "naic_code": null,
+  "cancellation_notice_days": null,
+  "loan_number": null,
+  "locations": [],
+  "location_totals": {
+    "building": null,
+    "contents": null,
+    "business_income": null,
+    "tiv": null
+  },
+  "interest_holders": [],
+  "property_deductible": null,
+  "checkboxes": [],
+  "remarks": null
+}

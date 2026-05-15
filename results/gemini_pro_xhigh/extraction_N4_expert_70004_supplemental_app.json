@@ -1,0 +1,72 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application - Commercial Lines",
+    "date": "2026-03-14",
+    "prepared_by": "Patricia Nowak",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 42,
+    "annual_revenue": 95000000,
+    "employee_count": 470
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "Policy Number: WC-KCB-2025-5580"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal return-to-work or modified duty program in place",
+      "Maintains OSHA 300 logs and conducts regular job-site safety audits",
+      "Formal written safety program in place"
+    ],
+    "concerns": [
+      "Certificates of insurance are not required from all subcontractors before work begins",
+      "Hold-harmless agreements are not obtained from all subcontractors",
+      "Hazardous materials are used or encountered in operations",
+      "Performs demolition or blasting operations",
+      "Operations performed above 4 stories",
+      "Prior policy with Zurich Insurance Group was cancelled in 2022"
+    ],
+    "loss_history_summary": "13 claims in 2024 with Nationwide Insurance, 10 claims in 2023 with Berkshire Hathaway Guard, and 4 claims in 2022 with Zurich Insurance Group (cancelled)."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2025-08-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. 40% of work is performed by subcontractors vs. own employees.",
+    "safety_programs": "Applicant maintains a formal safety program, a formal return-to-work or modified duty program, maintains OSHA 300 logs, and conducts regular job-site safety audits.",
+    "claims_narrative": "Prior insurance history shows 13 claims in 2024, 10 claims in 2023, and 4 claims in 2022. The 2022 policy with Zurich Insurance Group was cancelled."
+  }
+}

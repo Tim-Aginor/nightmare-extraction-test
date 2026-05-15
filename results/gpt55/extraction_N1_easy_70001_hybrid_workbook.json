@@ -1,0 +1,69 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Commercial real estate/property holdings with office and mercantile locations.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Schedule includes building, contents, and business income values across 8 Texas locations. Current total insured value is 314984000. Prior year total insured value shown is 229053199. Modifications note updated TIV per appraisal effective 2026-03-15.",
+      "requested_limit": "314984000"
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Statement of Values / Property Schedule",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "Portfolio consists of 8 commercial property locations in Texas, including office and mercantile occupancies in Dallas, Houston, Plano, Fort Worth, and Southlake. Construction types include Fire Resistive, Masonry Non-Combustible, and Non-Combustible. All listed locations are sprinklered.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": "Lone Star Property Holdings, LP",
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Material increase in total insured value from prior year schedule to current schedule.",
+      "Portfolio includes multiple high-value commercial properties, including high-rise office buildings.",
+      "Modification sheet notes addition of a new warehouse facility and deletion of an old location, but the new warehouse is not listed in the provided current location schedule."
+    ],
+    "loss_history_summary": null,
+    "positives": [
+      "All listed locations are sprinklered.",
+      "Majority of locations are Fire Resistive or Masonry Non-Combustible construction.",
+      "Current TIV updated per appraisal effective 2026-03-15."
+    ]
+  }
+}

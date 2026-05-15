@@ -1,0 +1,294 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_number_wc": {
+      "value": "WC-HCHP-2025-3350"
+    },
+    "policy_number_gl": {
+      "value": "GL-HCHP-2025-3351"
+    },
+    "policy_number_property": {
+      "value": "CP-HCHP-2025-3352"
+    },
+    "nature_of_business": {
+      "value": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+    },
+    "years_in_business": {
+      "value": 16
+    },
+    "years_current_mgmt": {
+      "value": 16
+    },
+    "num_employees_ft": {
+      "value": 285
+    },
+    "num_employees_pt": {
+      "value": 165
+    },
+    "annual_revenue": {
+      "value": 42000000,
+      "rendered_as": "$42,000,000.00"
+    },
+    "hours_of_operation": {
+      "value": "Mon-Fri 8:00 AM - 5:00 PM"
+    },
+    "safety_program": {
+      "value": "Yes"
+    },
+    "written_contracts": {
+      "value": "Yes"
+    }
+  },
+  "doc_type": "supplemental_app",
+  "premises": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "construction": "Fire Resistive",
+      "stories": 8,
+      "square_feet": 95000,
+      "occupancy": "Hotel",
+      "year_built": 2010,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 28500000,
+      "contents_value": 7125000,
+      "bi_value": 10687500,
+      "tiv": 46312500
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78205",
+      "construction": "Fire Resistive",
+      "stories": 12,
+      "square_feet": 142000,
+      "occupancy": "Hotel",
+      "year_built": 2006,
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 39760000,
+      "contents_value": 9940000,
+      "bi_value": 14910000,
+      "tiv": 64610000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "245 East Main Street",
+      "city": "Fredericksburg",
+      "state": "TX",
+      "zip_code": "78624",
+      "construction": "Masonry Non-Combustible",
+      "stories": 3,
+      "square_feet": 48000,
+      "occupancy": "Hotel",
+      "year_built": 1998,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 10560000,
+      "contents_value": 2640000,
+      "bi_value": 3960000,
+      "tiv": 17160000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78704",
+      "construction": "Masonry Non-Combustible",
+      "stories": 4,
+      "square_feet": 62000,
+      "occupancy": "Hotel",
+      "year_built": 2015,
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 15500000,
+      "contents_value": 3875000,
+      "bi_value": 5812500,
+      "tiv": 25187500
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "608 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "construction": "Fire Resistive",
+      "stories": 1,
+      "square_feet": 8500,
+      "occupancy": "Restaurant",
+      "year_built": 2010,
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 2550000,
+      "contents_value": 850000,
+      "bi_value": 1700000,
+      "tiv": 5100000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "6550 Comanche Trail",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78732",
+      "construction": "Non-Combustible",
+      "stories": 2,
+      "square_feet": 12000,
+      "occupancy": "Restaurant",
+      "year_built": 2012,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 3000000,
+      "contents_value": 900000,
+      "bi_value": 1800000,
+      "tiv": 5700000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "303 Pearl Parkway",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78215",
+      "construction": "Joisted Masonry",
+      "stories": 1,
+      "square_feet": 6800,
+      "occupancy": "Restaurant",
+      "year_built": 2014,
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 1700000,
+      "contents_value": 510000,
+      "bi_value": 1020000,
+      "tiv": 3230000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "401 Congress Avenue, Suite 2800",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701",
+      "construction": "Fire Resistive",
+      "stories": 1,
+      "square_feet": 6200,
+      "occupancy": "Office",
+      "year_built": 2008,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 310000,
+      "bi_value": 620000,
+      "tiv": 930000
+    }
+  ],
+  "risk_management": [
+    {
+      "question": "Are short-term rentals (less than 1 year) permitted?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Is there 24-hour doorperson or security on premises?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What percentage of units are regularly occupied vs. vacant?",
+      "answer": "90%"
+    },
+    {
+      "question": "Is there any commercial occupancy within the building?",
+      "answer": "No"
+    },
+    {
+      "question": "Are there swimming pools, exercise rooms, or other amenities?",
+      "answer": "Yes"
+    },
+    {
+      "question": "When was the last plumbing, HVAC, and electrical system update?",
+      "answer": "HVAC replaced 2020; plumbing and electrical original (2005)"
+    },
+    {
+      "question": "Are written contracts with indemnification required from all contractors?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are EV charging stations installed on the premises?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Is the building fully sprinklered per NFPA 13 or 13R?",
+      "answer": "No"
+    },
+    {
+      "question": "Are fire alarms hard-wired with central station monitoring?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Is there a quality control / quality assurance program?",
+      "answer": "No"
+    },
+    {
+      "question": "Are Material Safety Data Sheets (MSDS) maintained?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Have there been any OSHA citations in the past 3 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are cyber liability protections in place?",
+      "answer": "No"
+    }
+  ],
+  "prior_insurance": [
+    {
+      "year": 2024,
+      "carrier": "Travelers Companies",
+      "premium": 686236.25,
+      "claims": 11,
+      "cancellation": "No",
+      "premium_rendered": "$686,236.25"
+    },
+    {
+      "year": 2023,
+      "carrier": "Markel Corporation",
+      "premium": 619820.26,
+      "claims": 3,
+      "cancellation": "No",
+      "premium_rendered": "$619,820.26"
+    },
+    {
+      "year": 2022,
+      "carrier": "Zurich Insurance Group",
+      "premium": 607294.45,
+      "claims": 6,
+      "cancellation": "Yes",
+      "premium_rendered": "$607,294.45"
+    }
+  ]
+}

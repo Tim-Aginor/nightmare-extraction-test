@@ -1,0 +1,97 @@
+{
+  "business_description": {
+    "annual_revenue": 42000000,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Hospitality portfolio consisting of hotels, restaurants, and a corporate office in Texas.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_carrier": "Travelers Companies",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Property schedule includes 8 locations with total insured value of 168230000. Loss summary shows 2 property claims with 178566 paid and 215927 incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_carrier": "Travelers Companies",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 28 WC claims with 324545 paid and 415934 incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_carrier": "Travelers Companies",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 8 GL claims with 8780 paid and 82656 incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Insurance Program",
+      "current_carrier": "Travelers Companies",
+      "current_limit": null,
+      "expiring_premium": 686236.25,
+      "notes": "2024 insurance history lists Travelers Companies as carrier, premium of 686236.25, and 11 claims.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Insurance submission workbook",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 0,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "name": "Hill Country Hospitality Partners, LLC",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Hospitality portfolio includes hotel and restaurant occupancies, including restaurant/cooking exposures.",
+      "Total insured value of 168230000 is concentrated in Texas.",
+      "Loss summary reflects 38 total claims with 511891 paid and 714517 incurred.",
+      "WC loss frequency is the largest component, with 28 claims and 415934 incurred.",
+      "2024 insurance history shows 11 claims, higher than 2020, 2021, 2022, and 2023 claim counts."
+    ],
+    "loss_history_summary": "Loss summary lists WC: 28 claims, 324545 paid, 415934 incurred; GL: 8 claims, 8780 paid, 82656 incurred; Property: 2 claims, 178566 paid, 215927 incurred. Total loss summary is 38 claims, 511891 paid, and 714517 incurred. Insurance history from 2020-2024 shows annual premiums ranging from 580805.53 to 686236.25 and claim counts ranging from 2 to 11.",
+    "positives": [
+      "All 8 scheduled locations are sprinklered.",
+      "Construction is primarily fire resistive, masonry non-combustible, non-combustible, or joisted masonry.",
+      "Annual revenue is 42000000 with positive net income of 3220600.",
+      "Financial summary reports total assets of 77004300 and equity of 52535400.",
+      "Portfolio includes established operating locations with years built ranging from 1998 to 2015."
+    ]
+  }
+}

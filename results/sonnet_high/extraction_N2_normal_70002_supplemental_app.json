@@ -1,0 +1,100 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Karen Weissman",
+    "recipient": "Maine Employers Mutual"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 31,
+    "annual_revenue": 48000000,
+    "employee_count": 113
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Policy number CP-BIP-2025-4420; effective 09/01/2025; prior year 2024 carrier"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hartford Financial Services",
+      "expiring_premium": 419914.35,
+      "notes": "2023 prior carrier"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Chubb Limited",
+      "expiring_premium": 456514.1,
+      "notes": "2022 prior carrier"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "90% occupancy rate across portfolio",
+      "Fire alarms hard-wired with central station monitoring",
+      "24-hour doorperson or security on premises",
+      "Formal safety program in place",
+      "Written contracts with indemnification required from all contractors",
+      "Most locations sprinklered (8 of 9 locations)",
+      "Electrical system updated in 2023",
+      "HVAC updated in 2018",
+      "Zero claims in prior three policy years (2022, 2023, 2024)",
+      "No policy cancellations in prior three years",
+      "22 years with current management",
+      "Short-term rentals permitted (less than 1 year)",
+      "Commercial occupancy within buildings confirmed"
+    ],
+    "concerns": [
+      "LOC-007 (3250 Hill Avenue, Toledo, OH) is not sprinklered",
+      "Building is not fully sprinklered per NFPA 13 or 13R across all locations",
+      "Material Safety Data Sheets (MSDS) not maintained",
+      "Lockout/tagout procedures not in place",
+      "No written contracts with all subcontractors",
+      "Plumbing last updated in 2015 (oldest system update)",
+      "Two manufacturing facilities in portfolio (LOC-004 and LOC-007)",
+      "LOC-004 built in 1992 and LOC-007 built in 1998 are older buildings"
+    ],
+    "loss_history_summary": "No claims reported in 2022, 2023, or 2024. No policy cancellations across all three prior years. Carriers include Chubb Limited (2022, $456,514.10 premium), Hartford Financial Services (2023, $419,914.35 premium), and Liberty Mutual Insurance (2024, $392,002.31 premium)."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio. Hours of Operation: Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 1:00 PM. 95 full-time employees, 18 part-time employees. Annual Revenue: $48,000,000. 31 years in business, 22 years with current management.",
+    "safety_programs": "Formal safety program in place. Fire alarms hard-wired with central station monitoring. 24-hour doorperson or security on premises. Written contracts with indemnification required from all contractors. EV charging stations not installed. Lockout/tagout procedures not in place. MSDS not maintained.",
+    "claims_narrative": "Zero claims across 2022, 2023, and 2024. No cancellations. Premiums have decreased year-over-year from $456,514.10 (2022, Chubb) to $419,914.35 (2023, Hartford Financial Services) to $392,002.31 (2024, Liberty Mutual Insurance)."
+  }
+}

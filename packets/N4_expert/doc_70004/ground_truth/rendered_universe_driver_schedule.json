@@ -1,0 +1,5779 @@
+{
+  "schema_version": "1.0",
+  "seed": 70004,
+  "generated_at": "2026-05-04T23:24:01+00:00",
+  "doc_type": "driver_schedule",
+  "doc": {
+    "format": "pdf",
+    "scan_level": "digital",
+    "strings": [
+      "DRIVER SCHEDULE + MVR REPORT",
+      "Hallmark Insurance Group",
+      "DRIVER SCHEDULE AND MOTOR VEHICLE REPORT",
+      "Report ID: LR-2026-53671",
+      "DATE:",
+      "03/14/2026",
+      "CARRIER:",
+      "INSURED:",
+      "Keystone Commercial Builders, Inc.",
+      "POLICY PERIOD:",
+      "08/01/2025 to 08/01/2026",
+      "I. POLICY INFORMATION",
+      "Named Insured",
+      "Policy Number",
+      "CA-KCB-2025-5582",
+      "Effective Date",
+      "08/01/2025",
+      "Expiration Date",
+      "08/01/2026",
+      "Mailing Address",
+      "300 Liberty Avenue, Suite 1200",
+      "City / State / Zip",
+      "Pittsburgh, PA 15222",
+      "Vehicle Count",
+      "15",
+      "Driver Count",
+      "Premium",
+      "$57,889.77",
+      "II. DRIVER SCHEDULE",
+      "1",
+      "Michael Petroski",
+      "06/14/1975",
+      "PA-28371945",
+      "PA",
+      "M",
+      "Single",
+      "03/15/2004",
+      "22",
+      "2",
+      "Robert Mazur",
+      "11/28/1982",
+      "PA-39482756",
+      "Married",
+      "08/01/2012",
+      "16",
+      "3",
+      "Anthony DiNardo",
+      "03/07/1979",
+      "PA-47593867",
+      "Domestic Partner",
+      "05/20/2008",
+      "18",
+      "4",
+      "James Yurkovich",
+      "09/22/1985",
+      "PA-58604978",
+      "02/10/2015",
+      "11",
+      "5",
+      "David Krynicki",
+      "01/15/1988",
+      "PA-69716089",
+      "06/01/2018",
+      "8",
+      "6",
+      "Thomas Babich",
+      "08/30/1972",
+      "PA-70827190",
+      "Divorced",
+      "09/15/2001",
+      "25",
+      "7",
+      "Steven Novak",
+      "04/18/1990",
+      "PA-81938201",
+      "11/01/2019",
+      "Jennifer Pawlowski",
+      "12/05/1986",
+      "PA-92049312",
+      "F",
+      "04/15/2016",
+      "9",
+      "Mark Wisnewski",
+      "07/19/1983",
+      "PA-03160423",
+      "Widowed",
+      "10/01/2013",
+      "13",
+      "10",
+      "Paul Staniszewski",
+      "02/28/1991",
+      "PA-14271534",
+      "03/15/2020",
+      "17",
+      "Gregory Kozlowski",
+      "11/14/1978",
+      "PA-25382645",
+      "06/01/2007",
+      "21",
+      "12",
+      "Daniel Kovalski",
+      "04/22/1987",
+      "PA-36493756",
+      "09/15/2016",
+      "Richard Jankowski",
+      "09/05/1980",
+      "PA-47504867",
+      "01/15/2010",
+      "28",
+      "14",
+      "Kevin Zielinski",
+      "06/17/1993",
+      "PA-58615978",
+      "08/01/2021",
+      "Andrew Grabowski",
+      "12/30/1984",
+      "PA-69726089",
+      "11/15/2014",
+      "Driver #",
+      "Name",
+      "Date of Birth",
+      "License Number",
+      "License State",
+      "Sex",
+      "Marital Status",
+      "Hire Date",
+      "Yrs Exp",
+      "III. MOTOR VEHICLE REPORTS",
+      "Driver 1: Michael Petroski",
+      "License #:",
+      " PA-28371945",
+      "State:",
+      " PA",
+      "MVR Status:",
+      "Clear",
+      "# Violations:",
+      "0",
+      "# Accidents:",
+      "Driver 2: Robert Mazur",
+      " PA-39482756",
+      "Minor Violations",
+      "Date",
+      "Type",
+      "Points",
+      "Disposition",
+      "01/13/2026",
+      "Failure to Signal",
+      "Deferred",
+      "Description",
+      "At Fault",
+      "04/05/2025",
+      "Single vehicle rollover",
+      "Yes",
+      "08/05/2024",
+      "Head-on collision",
+      "No",
+      "Driver 3: Anthony DiNardo",
+      " PA-47593867",
+      "03/16/2024",
+      "Illegal U-Turn",
+      "04/28/2023",
+      "Backing accident",
+      "Driver 4: James Yurkovich",
+      " PA-58604978",
+      "12/05/2025",
+      "Operating Without Insurance",
+      "Guilty",
+      "11/16/2023",
+      "Driver 5: David Krynicki",
+      " PA-69716089",
+      "08/20/2023",
+      "Failure to Yield",
+      "Dismissed",
+      "06/19/2025",
+      "11/07/2024",
+      "Intersection collision",
+      "Driver 6: Thomas Babich",
+      " PA-70827190",
+      "03/29/2024",
+      "Running Red Light",
+      "10/12/2025",
+      "01/04/2026",
+      "T-bone collision",
+      "Driver 7: Steven Novak",
+      " PA-81938201",
+      "11/12/2025",
+      "Speeding",
+      "05/21/2023",
+      "Driver 8: Jennifer Pawlowski",
+      " PA-92049312",
+      "07/04/2023",
+      "Following Too Close",
+      "07/30/2024",
+      "Driver 9: Mark Wisnewski",
+      " PA-03160423",
+      "Driver 10: Paul Staniszewski",
+      " PA-14271534",
+      "11/21/2024",
+      "09/27/2025",
+      "Driver 11: Gregory Kozlowski",
+      " PA-25382645",
+      "09/06/2024",
+      "Driving Without Seatbelt",
+      "01/17/2025",
+      "Rear-end collision",
+      "Driver 12: Daniel Kovalski",
+      " PA-36493756",
+      "08/18/2024",
+      "03/30/2023",
+      "Side-swipe",
+      "Driver 13: Richard Jankowski",
+      " PA-47504867",
+      "06/10/2025",
+      "06/10/2023",
+      "Driver 14: Kevin Zielinski",
+      " PA-58615978",
+      "09/09/2024",
+      "11/08/2024",
+      "Driver 15: Andrew Grabowski",
+      " PA-69726089",
+      "IV. VEHICLE-DRIVER ASSIGNMENT",
+      "2023 Ford F-550",
+      "2024 Ford F-350",
+      "2022 Ford F-350",
+      "2023 Ford F-250",
+      "2024 Ram 3500",
+      "2023 Chevrolet Silverado 2500",
+      "2022 Ford E-450",
+      "2023 Ford Transit 350",
+      "2024 Ford Transit 250",
+      "2022 Chevrolet Express 2500",
+      "2023 Toyota Tacoma",
+      "2024 Ford F-150",
+      "2016 Fontaine Magnitude 55H",
+      "2023 Wabash Platform",
+      "2022 Great Dane Freedom SE",
+      "Vehicle #",
+      "Year Make Model",
+      "Primary Driver",
+      "V. SUMMARY",
+      "Total Drivers",
+      "Total Vehicles",
+      "Drivers with Clear MVR",
+      "3 (20.0%)",
+      "Average Years Experience",
+      "15.4",
+      "Page 1 of 4",
+      "Page 2 of 4",
+      "Page 3 of 4",
+      "Page 4 of 4"
+    ],
+    "numbers": [
+      2026,
+      53671,
+      2025,
+      5582,
+      300,
+      1200,
+      15222,
+      57889.77,
+      1975,
+      28371945,
+      2004,
+      1982,
+      39482756,
+      2012,
+      1979,
+      47593867,
+      2008,
+      1985,
+      58604978,
+      2015,
+      1988,
+      69716089,
+      2018,
+      1972,
+      70827190,
+      2001,
+      1990,
+      81938201,
+      2019,
+      1986,
+      92049312,
+      2016,
+      1983,
+      3160423,
+      2013,
+      1991,
+      14271534,
+      2020,
+      1978,
+      25382645,
+      2007,
+      1987,
+      36493756,
+      1980,
+      47504867,
+      2010,
+      1993,
+      58615978,
+      2021,
+      1984,
+      69726089,
+      2014,
+      2024,
+      2023,
+      550,
+      350,
+      2022,
+      250,
+      3500,
+      2500,
+      450,
+      150,
+      20.0,
+      15.4
+    ],
+    "tokens": [
+      "driver",
+      "schedule",
+      "mvr",
+      "report",
+      "hallmark",
+      "insurance",
+      "group",
+      "and",
+      "motor",
+      "vehicle",
+      "id",
+      "lr-2026-53671",
+      "date",
+      "03",
+      "14",
+      "2026",
+      "carrier",
+      "insured",
+      "keystone",
+      "commercial",
+      "builders",
+      "inc",
+      "policy",
+      "period",
+      "08",
+      "01",
+      "2025",
+      "to",
+      "information",
+      "named",
+      "number",
+      "ca-kcb-2025-5582",
+      "effective",
+      "expiration",
+      "mailing",
+      "address",
+      "300",
+      "liberty",
+      "avenue",
+      "suite",
+      "1200",
+      "city",
+      "state",
+      "zip",
+      "pittsburgh",
+      "pa",
+      "15222",
+      "count",
+      "15",
+      "premium",
+      "$57",
+      "889.77",
+      "ii",
+      "michael",
+      "petroski",
+      "06",
+      "1975",
+      "pa-28371945",
+      "single",
+      "2004",
+      "22",
+      "robert",
+      "mazur",
+      "11",
+      "28",
+      "1982",
+      "pa-39482756",
+      "married",
+      "2012",
+      "16",
+      "anthony",
+      "dinardo",
+      "07",
+      "1979",
+      "pa-47593867",
+      "domestic",
+      "partner",
+      "05",
+      "20",
+      "2008",
+      "18",
+      "james",
+      "yurkovich",
+      "09",
+      "1985",
+      "pa-58604978",
+      "02",
+      "10",
+      "2015",
+      "david",
+      "krynicki",
+      "1988",
+      "pa-69716089",
+      "2018",
+      "thomas",
+      "babich",
+      "30",
+      "1972",
+      "pa-70827190",
+      "divorced",
+      "2001",
+      "25",
+      "steven",
+      "novak",
+      "04",
+      "1990",
+      "pa-81938201",
+      "2019",
+      "jennifer",
+      "pawlowski",
+      "12",
+      "1986",
+      "pa-92049312",
+      "2016",
+      "mark",
+      "wisnewski",
+      "19",
+      "1983",
+      "pa-03160423",
+      "widowed",
+      "2013",
+      "13",
+      "paul",
+      "staniszewski",
+      "1991",
+      "pa-14271534",
+      "2020",
+      "17",
+      "gregory",
+      "kozlowski",
+      "1978",
+      "pa-25382645",
+      "2007",
+      "21",
+      "daniel",
+      "kovalski",
+      "1987",
+      "pa-36493756",
+      "richard",
+      "jankowski",
+      "1980",
+      "pa-47504867",
+      "2010",
+      "kevin",
+      "zielinski",
+      "1993",
+      "pa-58615978",
+      "2021",
+      "andrew",
+      "grabowski",
+      "1984",
+      "pa-69726089",
+      "2014",
+      "name",
+      "of",
+      "birth",
+      "license",
+      "sex",
+      "marital",
+      "status",
+      "hire",
+      "yrs",
+      "exp",
+      "iii",
+      "reports",
+      "clear",
+      "violations",
+      "accidents",
+      "minor",
+      "type",
+      "points",
+      "disposition",
+      "failure",
+      "signal",
+      "deferred",
+      "description",
+      "at",
+      "fault",
+      "rollover",
+      "yes",
+      "2024",
+      "head-on",
+      "collision",
+      "no",
+      "illegal",
+      "u-turn",
+      "2023",
+      "backing",
+      "accident",
+      "operating",
+      "without",
+      "guilty",
+      "yield",
+      "dismissed",
+      "intersection",
+      "29",
+      "running",
+      "red",
+      "light",
+      "t-bone",
+      "speeding",
+      "following",
+      "too",
+      "close",
+      "27",
+      "driving",
+      "seatbelt",
+      "rear-end",
+      "side-swipe",
+      "iv",
+      "vehicle-driver",
+      "assignment",
+      "ford",
+      "f-550",
+      "f-350",
+      "2022",
+      "f-250",
+      "ram",
+      "3500",
+      "chevrolet",
+      "silverado",
+      "2500",
+      "e-450",
+      "transit",
+      "350",
+      "250",
+      "express",
+      "toyota",
+      "tacoma",
+      "f-150",
+      "fontaine",
+      "magnitude",
+      "55h",
+      "wabash",
+      "platform",
+      "great",
+      "dane",
+      "freedom",
+      "se",
+      "year",
+      "make",
+      "model",
+      "primary",
+      "summary",
+      "total",
+      "drivers",
+      "vehicles",
+      "with",
+      "20.0",
+      "average",
+      "years",
+      "experience",
+      "15.4",
+      "page"
+    ],
+    "rendered_text": "\f III. MOTOR VEHICLE REPORTS\n\nDriver 1: Michael Petroski                                  License #: PA-283\ufffd194\ufffd                                State: PA\n\n              MVR Status:       Clear                            # Violations:        \ufffd            # Accidents:         \ufffd\n\n\nDriver 2: Robert Mazur                                      License #: PA-39482\ufffd\ufffd6                                State: PA\n\n              MVR Status:       Minor Violations                 # Violations:        1            # Accidents:         2\n\n       Date                                        Type                                   Points                              Disposition\n     \ufffd1/13/2\ufffd26      Failure to Signal                                                      1                                  Deferred\n\n       Date                                               Description                                                          At Fault\n     \ufffd4/\ufffd\ufffd/2\ufffd2\ufffd      Single vehicle rollover                                                                                     Yes\n     \ufffd8/\ufffd\ufffd/2\ufffd24      Head-on collision                                                                                           No\n\n\nDriver 3: Anthony DiNardo                                   License #: PA-4\ufffd\ufffd9386\ufffd                                State: PA\n\n              MVR Status:       Minor Violations                 # Violations:        1            # Accidents:         1\n\n       Date                                        Type                                   Points                              Disposition\n     \ufffd3/16/2\ufffd24      Illegal U-Turn                                                         \ufffd                                  Deferred\n\n       Date                                               Description                                                          At Fault\n     \ufffd4/28/2\ufffd23      Backing accident                                                                                            Yes\n\n\nDriver 4: James Yurkovich                                   License #: PA-\ufffd86\ufffd49\ufffd8                                State: PA\n\n              MVR Status:       Minor Violations                 # Violations:        1            # Accidents:         1\n\n       Date                                        Type                                   Points                              Disposition\n     12/\ufffd\ufffd/2\ufffd2\ufffd      Operating Without Insurance                                            1                                   Guilty\n\n       Date                                               Description                                                          At Fault\n     11/16/2\ufffd23      Head-on collision                                                                                           No\n\n\nDriver \ufffd: David Krynicki                                    License #: PA-69\ufffd16\ufffd89                                State: PA\n\n              MVR Status:       Minor Violations                 # Violations:        1            # Accidents:         2\n\n       Date                                        Type                                   Points                              Disposition\n     \ufffd8/2\ufffd/2\ufffd23      Failure to Yield                                                       2                                 Dismissed\n\n       Date                                               Description                                                          At Fault\n     \ufffd6/19/2\ufffd2\ufffd      Backing accident                                                                                            Yes\n     11/\ufffd\ufffd/2\ufffd24      Intersection collision                                                                                      No\n\n\nDriver 6: Thomas Babich                                     License #: PA-\ufffd\ufffd82\ufffd19\ufffd                                State: PA\n\n              MVR Status:       Minor Violations                 # Violations:        1            # Accidents:         2\n\n       Date                                        Type                                   Points                              Disposition\n     \ufffd3/29/2\ufffd24      Running Red Light                                                      6                                  Deferred\n\n       Date                                               Description                                                          At Fault\n     1\ufffd/12/2\ufffd2\ufffd      Single vehicle rollover                                                                                     No\n     \ufffd1/\ufffd4/2\ufffd26      T-bone collision                                                                                            No\n\n\nDriver \ufffd: Steven Novak                                      License #: PA-819382\ufffd1                                State: PA\n\n              MVR Status:       Minor Violations                 # Violations:        1            # Accidents:         1\n\n       Date                                        Type                                   Points                              Disposition\n     11/12/2\ufffd2\ufffd      Speeding                                                               1                                 Dismissed\n\n       Date                                               Description                                                          At Fault\n     \ufffd\ufffd/21/2\ufffd23      Intersection collision                                                                                      No\n\n\n\n\nDRIVER SCHEDULE + MVR REPORT                                            Page 2 of 4                                                 Hallmark Insurance Group\n\fDriver 8: Jennifer Pawlowski                                  License #: PA-92\ufffd49312                                State: PA\n\n              MVR Status:         Minor Violations                 # Violations:        1            # Accidents:         1\n\n       Date                                          Type                                   Points                              Disposition\n     \ufffd\ufffd/\ufffd4/2\ufffd23      Following Too Close                                                      2                                   Guilty\n\n       Date                                                 Description                                                          At Fault\n     \ufffd\ufffd/3\ufffd/2\ufffd24      Intersection collision                                                                                        No\n\n\nDriver 9: Mark Wisnewski                                      License #: PA-\ufffd316\ufffd423                                State: PA\n\n              MVR Status:         Clear                            # Violations:        \ufffd            # Accidents:         \ufffd\n\n\nDriver 1\ufffd: Paul Staniszewski                                  License #: PA-142\ufffd1\ufffd34                                State: PA\n\n              MVR Status:         Minor Violations                 # Violations:        1            # Accidents:         1\n\n       Date                                          Type                                   Points                              Disposition\n     11/21/2\ufffd24      Failure to Yield                                                         4                                 Dismissed\n\n       Date                                                 Description                                                          At Fault\n     \ufffd9/2\ufffd/2\ufffd2\ufffd      Head-on collision                                                                                             No\n\n\nDriver 11: Gregory Kozlowski                                  License #: PA-2\ufffd38264\ufffd                                State: PA\n\n              MVR Status:         Minor Violations                 # Violations:        1            # Accidents:         1\n\n       Date                                          Type                                   Points                              Disposition\n     \ufffd9/\ufffd6/2\ufffd24      Driving Without Seatbelt                                                 2                                  Deferred\n\n       Date                                                 Description                                                          At Fault\n     \ufffd1/1\ufffd/2\ufffd2\ufffd      Rear-end collision                                                                                            Yes\n\n\nDriver 12: Daniel Kovalski                                    License #: PA-36493\ufffd\ufffd6                                State: PA\n\n              MVR Status:         Minor Violations                 # Violations:        1            # Accidents:         1\n\n       Date                                          Type                                   Points                              Disposition\n     \ufffd8/18/2\ufffd24      Operating Without Insurance                                              3                                 Dismissed\n\n       Date                                                 Description                                                          At Fault\n     \ufffd3/3\ufffd/2\ufffd23      Side-swipe                                                                                                    Yes\n\n\nDriver 13: Richard Jankowski                                  License #: PA-4\ufffd\ufffd\ufffd486\ufffd                                State: PA\n\n              MVR Status:         Minor Violations                 # Violations:        1            # Accidents:         1\n       Date                                          Type                                   Points                              Disposition\n     \ufffd6/1\ufffd/2\ufffd2\ufffd      Driving Without Seatbelt                                                 2                                   Guilty\n\n       Date                                                 Description                                                          At Fault\n     \ufffd6/1\ufffd/2\ufffd23      Backing accident                                                                                              No\n\n\nDriver 14: Kevin Zielinski                                    License #: PA-\ufffd861\ufffd9\ufffd8                                State: PA\n\n              MVR Status:         Minor Violations                 # Violations:        1            # Accidents:         1\n\n       Date                                          Type                                   Points                              Disposition\n     \ufffd9/\ufffd9/2\ufffd24      Failure to Signal                                                        4                                   Guilty\n\n       Date                                                 Description                                                          At Fault\n     11/\ufffd8/2\ufffd24      T-bone collision                                                                                              Yes\n\n\nDriver 1\ufffd: Andrew Grabowski                                   License #: PA-69\ufffd26\ufffd89                                State: PA\n\n              MVR Status:         Clear                            # Violations:        \ufffd            # Accidents:         \ufffd\n\n\n\n IV. VEHICLE-DRIVER ASSIGNMENT\n\n\n\n\nDRIVER SCHEDULE + MVR REPORT                                              Page 3 of 4                                                 Hallmark Insurance Group\n\f            1            2\ufffd23 Ford F-\ufffd\ufffd\ufffd                                                    Michael Petroski\n\n\n            2            2\ufffd24 Ford F-3\ufffd\ufffd                                                    Robert Mazur\n\n\n            3            2\ufffd22 Ford F-3\ufffd\ufffd                                                    Anthony DiNardo\n\n\n            4            2\ufffd23 Ford F-2\ufffd\ufffd                                                    James Yurkovich\n\n\n            \ufffd            2\ufffd24 Ram 3\ufffd\ufffd\ufffd                                                      David Krynicki\n\n\n            6            2\ufffd23 Chevrolet Silverado 2\ufffd\ufffd\ufffd                                      Thomas Babich\n\n\n            \ufffd            2\ufffd22 Ford E-4\ufffd\ufffd                                                    Steven Novak\n\n\n            8            2\ufffd23 Ford Transit 3\ufffd\ufffd                                              Jennifer Pawlowski\n\n\n            9            2\ufffd24 Ford Transit 2\ufffd\ufffd                                              Mark Wisnewski\n\n\n            1\ufffd           2\ufffd22 Chevrolet Express 2\ufffd\ufffd\ufffd                                        Paul Staniszewski\n\n\n            11           2\ufffd23 Toyota Tacoma                                                 Gregory Kozlowski\n\n\n            12           2\ufffd24 Ford F-1\ufffd\ufffd                                                    Daniel Kovalski\n\n\n            13           2\ufffd16 Fontaine Magnitude \ufffd\ufffdH                                        Richard Jankowski\n\n\n            14           2\ufffd23 Wabash Platform                                               Kevin Zielinski\n\n\n            1\ufffd           2\ufffd22 Great Dane Freedom SE                                         Andrew Grabowski\n\n      Vehicle #                                   Year Make Model                                                Primary Driver\n\n\n\n V. SUMMARY\n\nTotal Drivers                                                             Total Vehicles\n\n1\ufffd                                                                        1\ufffd\n\nDrivers with Clear MVR                                                    Average Years Experience\n\n3 (2\ufffd.\ufffd%)                                                                 1\ufffd.4\n\n\n\n\nDRIVER SCHEDULE + MVR REPORT                                        Page 4 of 4                                                   Hallmark Insurance Group\n\f",
+    "elements": [
+      {
+        "value": "DRIVER SCHEDULE + MVR REPORT",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 46.8,
+        "y": 18.72
+      },
+      {
+        "value": "Hallmark Insurance Group",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 565.2,
+        "y": 18.72
+      },
+      {
+        "value": "DRIVER SCHEDULE AND MOTOR VEHICLE REPORT",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 0,
+        "y": 4.0
+      },
+      {
+        "value": "Report ID: LR-2026-53671",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 362.88,
+        "y": 6.5
+      },
+      {
+        "value": "DATE:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 0,
+        "y": 6.0
+      },
+      {
+        "value": "03/14/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 41.472,
+        "y": 4.0
+      },
+      {
+        "value": "CARRIER:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 171.072,
+        "y": 6.0
+      },
+      {
+        "value": "Hallmark Insurance Group",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 233.28,
+        "y": 4.0
+      },
+      {
+        "value": "INSURED:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 0,
+        "y": 6.0
+      },
+      {
+        "value": "Keystone Commercial Builders, Inc.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 51.84,
+        "y": 4.0
+      },
+      {
+        "value": "POLICY PERIOD:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 259.2,
+        "y": 6.0
+      },
+      {
+        "value": "08/01/2025 to 08/01/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 336.96,
+        "y": 4.0
+      },
+      {
+        "value": "I. POLICY INFORMATION",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 6,
+        "y": 4.0
+      },
+      {
+        "value": "Named Insured",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "Keystone Commercial Builders, Inc.",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "Policy Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "CA-KCB-2025-5582",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "Effective Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "08/01/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "Expiration Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "08/01/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "Mailing Address",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "300 Liberty Avenue, Suite 1200",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "City / State / Zip",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "Pittsburgh, PA 15222",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "Vehicle Count",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "15",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "Driver Count",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "15",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "Premium",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "$57,889.77",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "II. DRIVER SCHEDULE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 6,
+        "y": 4.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 354
+      },
+      {
+        "value": "Michael Petroski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 354
+      },
+      {
+        "value": "06/14/1975",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 354
+      },
+      {
+        "value": "PA-28371945",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 354
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 354
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 354
+      },
+      {
+        "value": "Single",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 354
+      },
+      {
+        "value": "03/15/2004",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 354
+      },
+      {
+        "value": "22",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 354
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 333
+      },
+      {
+        "value": "Robert Mazur",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 333
+      },
+      {
+        "value": "11/28/1982",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 333
+      },
+      {
+        "value": "PA-39482756",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 333
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 333
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 333
+      },
+      {
+        "value": "Married",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 333
+      },
+      {
+        "value": "08/01/2012",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 333
+      },
+      {
+        "value": "16",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 333
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 312
+      },
+      {
+        "value": "Anthony DiNardo",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 312
+      },
+      {
+        "value": "03/07/1979",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 312
+      },
+      {
+        "value": "PA-47593867",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 312
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 312
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 312
+      },
+      {
+        "value": "Domestic Partner",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 303
+      },
+      {
+        "value": "05/20/2008",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 312
+      },
+      {
+        "value": "18",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 312
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 282
+      },
+      {
+        "value": "James Yurkovich",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 282
+      },
+      {
+        "value": "09/22/1985",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 282
+      },
+      {
+        "value": "PA-58604978",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 282
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 282
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 282
+      },
+      {
+        "value": "Domestic Partner",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 273
+      },
+      {
+        "value": "02/10/2015",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 282
+      },
+      {
+        "value": "11",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 282
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 252
+      },
+      {
+        "value": "David Krynicki",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 252
+      },
+      {
+        "value": "01/15/1988",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 252
+      },
+      {
+        "value": "PA-69716089",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 252
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 252
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 252
+      },
+      {
+        "value": "Single",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 252
+      },
+      {
+        "value": "06/01/2018",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 252
+      },
+      {
+        "value": "8",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 252
+      },
+      {
+        "value": "6",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 231
+      },
+      {
+        "value": "Thomas Babich",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 231
+      },
+      {
+        "value": "08/30/1972",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 231
+      },
+      {
+        "value": "PA-70827190",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 231
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 231
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 231
+      },
+      {
+        "value": "Divorced",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 231
+      },
+      {
+        "value": "09/15/2001",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 231
+      },
+      {
+        "value": "25",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 231
+      },
+      {
+        "value": "7",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 210
+      },
+      {
+        "value": "Steven Novak",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 210
+      },
+      {
+        "value": "04/18/1990",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 210
+      },
+      {
+        "value": "PA-81938201",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 210
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 210
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 210
+      },
+      {
+        "value": "Divorced",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 210
+      },
+      {
+        "value": "11/01/2019",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 210
+      },
+      {
+        "value": "7",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 210
+      },
+      {
+        "value": "8",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 189
+      },
+      {
+        "value": "Jennifer Pawlowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 189
+      },
+      {
+        "value": "12/05/1986",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 189
+      },
+      {
+        "value": "PA-92049312",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 189
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 189
+      },
+      {
+        "value": "F",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 189
+      },
+      {
+        "value": "Domestic Partner",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 180
+      },
+      {
+        "value": "04/15/2016",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 189
+      },
+      {
+        "value": "18",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 189
+      },
+      {
+        "value": "9",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 159
+      },
+      {
+        "value": "Mark Wisnewski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 159
+      },
+      {
+        "value": "07/19/1983",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 159
+      },
+      {
+        "value": "PA-03160423",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 159
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 159
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 159
+      },
+      {
+        "value": "Widowed",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 159
+      },
+      {
+        "value": "10/01/2013",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 159
+      },
+      {
+        "value": "13",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 159
+      },
+      {
+        "value": "10",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 138
+      },
+      {
+        "value": "Paul Staniszewski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 138
+      },
+      {
+        "value": "02/28/1991",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 138
+      },
+      {
+        "value": "PA-14271534",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 138
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 138
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 138
+      },
+      {
+        "value": "Married",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 138
+      },
+      {
+        "value": "03/15/2020",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 138
+      },
+      {
+        "value": "17",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 138
+      },
+      {
+        "value": "11",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 117
+      },
+      {
+        "value": "Gregory Kozlowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 117
+      },
+      {
+        "value": "11/14/1978",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 117
+      },
+      {
+        "value": "PA-25382645",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 117
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 117
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 117
+      },
+      {
+        "value": "Divorced",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 117
+      },
+      {
+        "value": "06/01/2007",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 117
+      },
+      {
+        "value": "21",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 117
+      },
+      {
+        "value": "12",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 96
+      },
+      {
+        "value": "Daniel Kovalski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 96
+      },
+      {
+        "value": "04/22/1987",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 96
+      },
+      {
+        "value": "PA-36493756",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 96
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 96
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 96
+      },
+      {
+        "value": "Divorced",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 96
+      },
+      {
+        "value": "09/15/2016",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 96
+      },
+      {
+        "value": "10",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 96
+      },
+      {
+        "value": "13",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 75
+      },
+      {
+        "value": "Richard Jankowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 75
+      },
+      {
+        "value": "09/05/1980",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 75
+      },
+      {
+        "value": "PA-47504867",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 75
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 75
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 75
+      },
+      {
+        "value": "Domestic Partner",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 66
+      },
+      {
+        "value": "01/15/2010",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 75
+      },
+      {
+        "value": "28",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 75
+      },
+      {
+        "value": "14",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 45
+      },
+      {
+        "value": "Kevin Zielinski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 45
+      },
+      {
+        "value": "06/17/1993",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 45
+      },
+      {
+        "value": "PA-58615978",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 45
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 45
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 45
+      },
+      {
+        "value": "Domestic Partner",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 36
+      },
+      {
+        "value": "08/01/2021",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 45
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 45
+      },
+      {
+        "value": "15",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 15
+      },
+      {
+        "value": "Andrew Grabowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 45.892,
+        "y": 15
+      },
+      {
+        "value": "12/30/1984",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 144.9,
+        "y": 15
+      },
+      {
+        "value": "PA-69726089",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 185.993,
+        "y": 15
+      },
+      {
+        "value": "PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 248.846,
+        "y": 15
+      },
+      {
+        "value": "M",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.314,
+        "y": 15
+      },
+      {
+        "value": "Domestic Partner",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318.842,
+        "y": 6
+      },
+      {
+        "value": "11/15/2014",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 357.388,
+        "y": 15
+      },
+      {
+        "value": "12",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 400.343,
+        "y": 15
+      },
+      {
+        "value": "Driver #",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 7.0
+      },
+      {
+        "value": "Name",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 34.104,
+        "y": 7.0
+      },
+      {
+        "value": "Date of Birth",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 117.048,
+        "y": 7.0
+      },
+      {
+        "value": "License Number",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 168.888,
+        "y": 7.0
+      },
+      {
+        "value": "License State",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 241.464,
+        "y": 3.0
+      },
+      {
+        "value": "Sex",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 282.936,
+        "y": 7.0
+      },
+      {
+        "value": "Marital Status",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 308.856,
+        "y": 7.0
+      },
+      {
+        "value": "Hire Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 360.696,
+        "y": 7.0
+      },
+      {
+        "value": "Yrs Exp",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 412.536,
+        "y": 7.0
+      },
+      {
+        "value": "DRIVER SCHEDULE + MVR REPORT",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 46.8,
+        "y": 18.72
+      },
+      {
+        "value": "Hallmark Insurance Group",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 565.2,
+        "y": 18.72
+      },
+      {
+        "value": "III. MOTOR VEHICLE REPORTS",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 6,
+        "y": 4.0
+      },
+      {
+        "value": "Driver 1: Michael Petroski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-28371945",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Clear",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "0",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "0",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 2: Robert Mazur",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-39482756",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "01/13/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Failure to Signal",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Deferred",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 28.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 28.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 28.0
+      },
+      {
+        "value": "04/05/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Single vehicle rollover",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "08/05/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Head-on collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 3: Anthony DiNardo",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-47593867",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "03/16/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Illegal U-Turn",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Deferred",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "04/28/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Backing accident",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 4: James Yurkovich",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-58604978",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "12/05/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Operating Without Insurance",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Guilty",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "11/16/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Head-on collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 5: David Krynicki",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-69716089",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "08/20/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Failure to Yield",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Dismissed",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 28.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 28.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 28.0
+      },
+      {
+        "value": "06/19/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Backing accident",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "11/07/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Intersection collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 6: Thomas Babich",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-70827190",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "03/29/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Running Red Light",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "6",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Deferred",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 28.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 28.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 28.0
+      },
+      {
+        "value": "10/12/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Single vehicle rollover",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "01/04/2026",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "T-bone collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 7: Steven Novak",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-81938201",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 2,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "11/12/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Speeding",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Dismissed",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "05/21/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Intersection collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "DRIVER SCHEDULE + MVR REPORT",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 3,
+        "x": 46.8,
+        "y": 18.72
+      },
+      {
+        "value": "Hallmark Insurance Group",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 3,
+        "x": 565.2,
+        "y": 18.72
+      },
+      {
+        "value": "Driver 8: Jennifer Pawlowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-92049312",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "07/04/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Following Too Close",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Guilty",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "07/30/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Intersection collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 9: Mark Wisnewski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-03160423",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Clear",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "0",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "0",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 10: Paul Staniszewski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-14271534",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "11/21/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Failure to Yield",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Dismissed",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "09/27/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Head-on collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 11: Gregory Kozlowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-25382645",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "09/06/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Driving Without Seatbelt",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Deferred",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "01/17/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Rear-end collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 12: Daniel Kovalski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-36493756",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "08/18/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Operating Without Insurance",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Dismissed",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "03/30/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Side-swipe",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 13: Richard Jankowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-47504867",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "06/10/2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Driving Without Seatbelt",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Guilty",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "06/10/2023",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Backing accident",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "No",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 14: Kevin Zielinski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-58615978",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Minor Violations",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Type",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "Points",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 15.0
+      },
+      {
+        "value": "Disposition",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "09/09/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "Failure to Signal",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 288.12,
+        "y": 2.0
+      },
+      {
+        "value": "Guilty",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 15.0
+      },
+      {
+        "value": "Description",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 15.0
+      },
+      {
+        "value": "At Fault",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 15.0
+      },
+      {
+        "value": "11/08/2024",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 3,
+        "y": 2.0
+      },
+      {
+        "value": "T-bone collision",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 80.76,
+        "y": 2.0
+      },
+      {
+        "value": "Yes",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 365.88,
+        "y": 2.0
+      },
+      {
+        "value": "Driver 15: Andrew Grabowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 4,
+        "y": 3.0
+      },
+      {
+        "value": "License #:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": " PA-69726089",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 211.36,
+        "y": 4.0
+      },
+      {
+        "value": "State:",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": " PA",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 3,
+        "x": 392.8,
+        "y": 4.0
+      },
+      {
+        "value": "MVR Status:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 4,
+        "y": 2.0
+      },
+      {
+        "value": "Clear",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 66.208,
+        "y": 2.0
+      },
+      {
+        "value": "# Violations:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 180.256,
+        "y": 2.0
+      },
+      {
+        "value": "0",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 242.464,
+        "y": 2.0
+      },
+      {
+        "value": "# Accidents:",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 304.672,
+        "y": 2.0
+      },
+      {
+        "value": "0",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 366.88,
+        "y": 2.0
+      },
+      {
+        "value": "IV. VEHICLE-DRIVER ASSIGNMENT",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 3,
+        "x": 6,
+        "y": 4.0
+      },
+      {
+        "value": "DRIVER SCHEDULE + MVR REPORT",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 4,
+        "x": 46.8,
+        "y": 18.72
+      },
+      {
+        "value": "Hallmark Insurance Group",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 4,
+        "x": 565.2,
+        "y": 18.72
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 300
+      },
+      {
+        "value": "2023 Ford F-550",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 300
+      },
+      {
+        "value": "Michael Petroski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 300
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 279
+      },
+      {
+        "value": "2024 Ford F-350",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 279
+      },
+      {
+        "value": "Robert Mazur",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 279
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 258
+      },
+      {
+        "value": "2022 Ford F-350",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 258
+      },
+      {
+        "value": "Anthony DiNardo",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 258
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 237
+      },
+      {
+        "value": "2023 Ford F-250",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 237
+      },
+      {
+        "value": "James Yurkovich",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 237
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 216
+      },
+      {
+        "value": "2024 Ram 3500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 216
+      },
+      {
+        "value": "David Krynicki",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 216
+      },
+      {
+        "value": "6",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 195
+      },
+      {
+        "value": "2023 Chevrolet Silverado 2500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 195
+      },
+      {
+        "value": "Thomas Babich",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 195
+      },
+      {
+        "value": "7",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 174
+      },
+      {
+        "value": "2022 Ford E-450",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 174
+      },
+      {
+        "value": "Steven Novak",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 174
+      },
+      {
+        "value": "8",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 153
+      },
+      {
+        "value": "2023 Ford Transit 350",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 153
+      },
+      {
+        "value": "Jennifer Pawlowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 153
+      },
+      {
+        "value": "9",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 132
+      },
+      {
+        "value": "2024 Ford Transit 250",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 132
+      },
+      {
+        "value": "Mark Wisnewski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 132
+      },
+      {
+        "value": "10",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 111
+      },
+      {
+        "value": "2022 Chevrolet Express 2500",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 111
+      },
+      {
+        "value": "Paul Staniszewski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 111
+      },
+      {
+        "value": "11",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 90
+      },
+      {
+        "value": "2023 Toyota Tacoma",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 90
+      },
+      {
+        "value": "Gregory Kozlowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 90
+      },
+      {
+        "value": "12",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 69
+      },
+      {
+        "value": "2024 Ford F-150",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 69
+      },
+      {
+        "value": "Daniel Kovalski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 69
+      },
+      {
+        "value": "13",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 48
+      },
+      {
+        "value": "2016 Fontaine Magnitude 55H",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 48
+      },
+      {
+        "value": "Richard Jankowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 48
+      },
+      {
+        "value": "14",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 27
+      },
+      {
+        "value": "2023 Wabash Platform",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 27
+      },
+      {
+        "value": "Kevin Zielinski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 27
+      },
+      {
+        "value": "15",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 6
+      },
+      {
+        "value": "2022 Great Dane Freedom SE",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 74.364,
+        "y": 6
+      },
+      {
+        "value": "Andrew Grabowski",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 310.487,
+        "y": 6
+      },
+      {
+        "value": "Vehicle #",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 3,
+        "y": 3.0
+      },
+      {
+        "value": "Year Make Model",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 65.208,
+        "y": 3.0
+      },
+      {
+        "value": "Primary Driver",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 293.304,
+        "y": 3.0
+      },
+      {
+        "value": "V. SUMMARY",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 4,
+        "x": 6,
+        "y": 4.0
+      },
+      {
+        "value": "Total Drivers",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "15",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "Total Vehicles",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "15",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "Drivers with Clear MVR",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "3 (20.0%)",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "value": "Average Years Experience",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "15.4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 4,
+        "x": 261.2,
+        "y": 4
+      },
+      {
+        "value": "Page 1 of 4",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 1,
+        "x": 306.0,
+        "y": 18.72
+      },
+      {
+        "value": "Page 2 of 4",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 2,
+        "x": 306.0,
+        "y": 18.72
+      },
+      {
+        "value": "Page 3 of 4",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 3,
+        "x": 306.0,
+        "y": 18.72
+      },
+      {
+        "value": "Page 4 of 4",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 4,
+        "x": 306.0,
+        "y": 18.72
+      }
+    ],
+    "corrupted_view": {
+      "transforms_applied": [
+        "p42_font_corrupt"
+      ],
+      "strings": [
+        "DRIVER SCHEDULE + MVR REPORT",
+        "Hallmark Insurance Group",
+        "DRIVER SCHEDULE AND MOTOR VEHICLE REPORT",
+        "Report ID: LR-2\ufffd26-\ufffd36\ufffd1",
+        "DATE:",
+        "\ufffd3/14/2\ufffd26",
+        "CARRIER:",
+        "INSURED:",
+        "Keystone Commercial Builders, Inc.",
+        "POLICY PERIOD:",
+        "\ufffd8/\ufffd1/2\ufffd2\ufffd to \ufffd8/\ufffd1/2\ufffd26",
+        "I. POLICY INFORMATION",
+        "Named Insured",
+        "Policy Number",
+        "CA-KCB-2\ufffd2\ufffd-\ufffd\ufffd82",
+        "Effective Date",
+        "\ufffd8/\ufffd1/2\ufffd2\ufffd",
+        "Expiration Date",
+        "\ufffd8/\ufffd1/2\ufffd26",
+        "Mailing Address",
+        "3\ufffd\ufffd Liberty Avenue, Suite 12\ufffd\ufffd",
+        "City / State / Zip",
+        "Pittsburgh, PA 1\ufffd222",
+        "Vehicle Count",
+        "1\ufffd",
+        "Driver Count",
+        "Premium",
+        "$\ufffd\ufffd,889.\ufffd\ufffd",
+        "II. DRIVER SCHEDULE",
+        "1",
+        "Michael Petroski",
+        "\ufffd6/14/19\ufffd\ufffd",
+        "PA-283\ufffd194\ufffd",
+        "PA",
+        "M",
+        "Single",
+        "\ufffd3/1\ufffd/2\ufffd\ufffd4",
+        "22",
+        "2",
+        "Robert Mazur",
+        "11/28/1982",
+        "PA-39482\ufffd\ufffd6",
+        "Married",
+        "\ufffd8/\ufffd1/2\ufffd12",
+        "16",
+        "3",
+        "Anthony DiNardo",
+        "\ufffd3/\ufffd\ufffd/19\ufffd9",
+        "PA-4\ufffd\ufffd9386\ufffd",
+        "Domestic Partner",
+        "\ufffd\ufffd/2\ufffd/2\ufffd\ufffd8",
+        "18",
+        "4",
+        "James Yurkovich",
+        "\ufffd9/22/198\ufffd",
+        "PA-\ufffd86\ufffd49\ufffd8",
+        "\ufffd2/1\ufffd/2\ufffd1\ufffd",
+        "11",
+        "\ufffd",
+        "David Krynicki",
+        "\ufffd1/1\ufffd/1988",
+        "PA-69\ufffd16\ufffd89",
+        "\ufffd6/\ufffd1/2\ufffd18",
+        "8",
+        "6",
+        "Thomas Babich",
+        "\ufffd8/3\ufffd/19\ufffd2",
+        "PA-\ufffd\ufffd82\ufffd19\ufffd",
+        "Divorced",
+        "\ufffd9/1\ufffd/2\ufffd\ufffd1",
+        "2\ufffd",
+        "Steven Novak",
+        "\ufffd4/18/199\ufffd",
+        "PA-819382\ufffd1",
+        "11/\ufffd1/2\ufffd19",
+        "Jennifer Pawlowski",
+        "12/\ufffd\ufffd/1986",
+        "PA-92\ufffd49312",
+        "F",
+        "\ufffd4/1\ufffd/2\ufffd16",
+        "9",
+        "Mark Wisnewski",
+        "\ufffd\ufffd/19/1983",
+        "PA-\ufffd316\ufffd423",
+        "Widowed",
+        "1\ufffd/\ufffd1/2\ufffd13",
+        "13",
+        "Paul Staniszewski",
+        "\ufffd2/28/1991",
+        "PA-142\ufffd1\ufffd34",
+        "\ufffd3/1\ufffd/2\ufffd2\ufffd",
+        "Gregory Kozlowski",
+        "11/14/19\ufffd8",
+        "PA-2\ufffd38264\ufffd",
+        "\ufffd6/\ufffd1/2\ufffd\ufffd\ufffd",
+        "21",
+        "12",
+        "Daniel Kovalski",
+        "\ufffd4/22/198\ufffd",
+        "PA-36493\ufffd\ufffd6",
+        "\ufffd9/1\ufffd/2\ufffd16",
+        "Richard Jankowski",
+        "\ufffd9/\ufffd\ufffd/198\ufffd",
+        "PA-4\ufffd\ufffd\ufffd486\ufffd",
+        "\ufffd1/1\ufffd/2\ufffd1\ufffd",
+        "28",
+        "14",
+        "Kevin Zielinski",
+        "\ufffd6/1\ufffd/1993",
+        "PA-\ufffd861\ufffd9\ufffd8",
+        "\ufffd8/\ufffd1/2\ufffd21",
+        "Andrew Grabowski",
+        "12/3\ufffd/1984",
+        "PA-69\ufffd26\ufffd89",
+        "11/1\ufffd/2\ufffd14",
+        "Driver #",
+        "Name",
+        "Date of Birth",
+        "License Number",
+        "License State",
+        "Sex",
+        "Marital Status",
+        "Hire Date",
+        "Yrs Exp",
+        "III. MOTOR VEHICLE REPORTS",
+        "Driver 1: Michael Petroski",
+        "License #:",
+        " PA-283\ufffd194\ufffd",
+        "State:",
+        " PA",
+        "MVR Status:",
+        "Clear",
+        "# Violations:",
+        "# Accidents:",
+        "Driver 2: Robert Mazur",
+        " PA-39482\ufffd\ufffd6",
+        "Minor Violations",
+        "Date",
+        "Type",
+        "Points",
+        "Disposition",
+        "\ufffd1/13/2\ufffd26",
+        "Failure to Signal",
+        "Deferred",
+        "Description",
+        "At Fault",
+        "\ufffd4/\ufffd\ufffd/2\ufffd2\ufffd",
+        "Single vehicle rollover",
+        "Yes",
+        "\ufffd8/\ufffd\ufffd/2\ufffd24",
+        "Head-on collision",
+        "No",
+        "Driver 3: Anthony DiNardo",
+        " PA-4\ufffd\ufffd9386\ufffd",
+        "\ufffd3/16/2\ufffd24",
+        "Illegal U-Turn",
+        "\ufffd4/28/2\ufffd23",
+        "Backing accident",
+        "Driver 4: James Yurkovich",
+        " PA-\ufffd86\ufffd49\ufffd8",
+        "12/\ufffd\ufffd/2\ufffd2\ufffd",
+        "Operating Without Insurance",
+        "Guilty",
+        "11/16/2\ufffd23",
+        "Driver \ufffd: David Krynicki",
+        " PA-69\ufffd16\ufffd89",
+        "\ufffd8/2\ufffd/2\ufffd23",
+        "Failure to Yield",
+        "Dismissed",
+        "\ufffd6/19/2\ufffd2\ufffd",
+        "11/\ufffd\ufffd/2\ufffd24",
+        "Intersection collision",
+        "Driver 6: Thomas Babich",
+        " PA-\ufffd\ufffd82\ufffd19\ufffd",
+        "\ufffd3/29/2\ufffd24",
+        "Running Red Light",
+        "1\ufffd/12/2\ufffd2\ufffd",
+        "\ufffd1/\ufffd4/2\ufffd26",
+        "T-bone collision",
+        "Driver \ufffd: Steven Novak",
+        " PA-819382\ufffd1",
+        "11/12/2\ufffd2\ufffd",
+        "Speeding",
+        "\ufffd\ufffd/21/2\ufffd23",
+        "Driver 8: Jennifer Pawlowski",
+        " PA-92\ufffd49312",
+        "\ufffd\ufffd/\ufffd4/2\ufffd23",
+        "Following Too Close",
+        "\ufffd\ufffd/3\ufffd/2\ufffd24",
+        "Driver 9: Mark Wisnewski",
+        " PA-\ufffd316\ufffd423",
+        "Driver 1\ufffd: Paul Staniszewski",
+        " PA-142\ufffd1\ufffd34",
+        "11/21/2\ufffd24",
+        "\ufffd9/2\ufffd/2\ufffd2\ufffd",
+        "Driver 11: Gregory Kozlowski",
+        " PA-2\ufffd38264\ufffd",
+        "\ufffd9/\ufffd6/2\ufffd24",
+        "Driving Without Seatbelt",
+        "\ufffd1/1\ufffd/2\ufffd2\ufffd",
+        "Rear-end collision",
+        "Driver 12: Daniel Kovalski",
+        " PA-36493\ufffd\ufffd6",
+        "\ufffd8/18/2\ufffd24",
+        "\ufffd3/3\ufffd/2\ufffd23",
+        "Side-swipe",
+        "Driver 13: Richard Jankowski",
+        " PA-4\ufffd\ufffd\ufffd486\ufffd",
+        "\ufffd6/1\ufffd/2\ufffd2\ufffd",
+        "\ufffd6/1\ufffd/2\ufffd23",
+        "Driver 14: Kevin Zielinski",
+        " PA-\ufffd861\ufffd9\ufffd8",
+        "\ufffd9/\ufffd9/2\ufffd24",
+        "11/\ufffd8/2\ufffd24",
+        "Driver 1\ufffd: Andrew Grabowski",
+        " PA-69\ufffd26\ufffd89",
+        "IV. VEHICLE-DRIVER ASSIGNMENT",
+        "2\ufffd23 Ford F-\ufffd\ufffd\ufffd",
+        "2\ufffd24 Ford F-3\ufffd\ufffd",
+        "2\ufffd22 Ford F-3\ufffd\ufffd",
+        "2\ufffd23 Ford F-2\ufffd\ufffd",
+        "2\ufffd24 Ram 3\ufffd\ufffd\ufffd",
+        "2\ufffd23 Chevrolet Silverado 2\ufffd\ufffd\ufffd",
+        "2\ufffd22 Ford E-4\ufffd\ufffd",
+        "2\ufffd23 Ford Transit 3\ufffd\ufffd",
+        "2\ufffd24 Ford Transit 2\ufffd\ufffd",
+        "2\ufffd22 Chevrolet Express 2\ufffd\ufffd\ufffd",
+        "2\ufffd23 Toyota Tacoma",
+        "2\ufffd24 Ford F-1\ufffd\ufffd",
+        "2\ufffd16 Fontaine Magnitude \ufffd\ufffdH",
+        "2\ufffd23 Wabash Platform",
+        "2\ufffd22 Great Dane Freedom SE",
+        "Vehicle #",
+        "Year Make Model",
+        "Primary Driver",
+        "V. SUMMARY",
+        "Total Drivers",
+        "Total Vehicles",
+        "Drivers with Clear MVR",
+        "3 (2\ufffd.\ufffd%)",
+        "Average Years Experience",
+        "1\ufffd.4",
+        "Page 1 of 4",
+        "Page 2 of 4",
+        "Page 3 of 4",
+        "Page 4 of 4"
+      ],
+      "numbers": [
+        222,
+        889,
+        283,
+        194,
+        1982,
+        39482,
+        9386,
+        198,
+        1988,
+        199,
+        819382,
+        1986,
+        49312,
+        1983,
+        316,
+        423,
+        1991,
+        142,
+        38264,
+        36493,
+        486,
+        1993,
+        861,
+        1984
+      ],
+      "tokens": [
+        "driver",
+        "schedule",
+        "mvr",
+        "report",
+        "hallmark",
+        "insurance",
+        "group",
+        "and",
+        "motor",
+        "vehicle",
+        "id",
+        "lr-2",
+        "26",
+        "36",
+        "date",
+        "14",
+        "carrier",
+        "insured",
+        "keystone",
+        "commercial",
+        "builders",
+        "inc",
+        "policy",
+        "period",
+        "to",
+        "information",
+        "named",
+        "number",
+        "ca-kcb-2",
+        "82",
+        "effective",
+        "expiration",
+        "mailing",
+        "address",
+        "liberty",
+        "avenue",
+        "suite",
+        "12",
+        "city",
+        "state",
+        "zip",
+        "pittsburgh",
+        "pa",
+        "222",
+        "count",
+        "premium",
+        "889",
+        "ii",
+        "michael",
+        "petroski",
+        "19",
+        "pa-283",
+        "194",
+        "single",
+        "22",
+        "robert",
+        "mazur",
+        "11",
+        "28",
+        "1982",
+        "pa-39482",
+        "married",
+        "16",
+        "anthony",
+        "dinardo",
+        "pa-4",
+        "9386",
+        "domestic",
+        "partner",
+        "18",
+        "james",
+        "yurkovich",
+        "198",
+        "86",
+        "49",
+        "david",
+        "krynicki",
+        "1988",
+        "pa-69",
+        "89",
+        "thomas",
+        "babich",
+        "divorced",
+        "steven",
+        "novak",
+        "199",
+        "pa-819382",
+        "jennifer",
+        "pawlowski",
+        "1986",
+        "pa-92",
+        "49312",
+        "mark",
+        "wisnewski",
+        "1983",
+        "316",
+        "423",
+        "widowed",
+        "13",
+        "paul",
+        "staniszewski",
+        "1991",
+        "pa-142",
+        "34",
+        "gregory",
+        "kozlowski",
+        "pa-2",
+        "38264",
+        "21",
+        "daniel",
+        "kovalski",
+        "pa-36493",
+        "richard",
+        "jankowski",
+        "486",
+        "kevin",
+        "zielinski",
+        "1993",
+        "861",
+        "andrew",
+        "grabowski",
+        "1984",
+        "name",
+        "of",
+        "birth",
+        "license",
+        "sex",
+        "marital",
+        "status",
+        "hire",
+        "yrs",
+        "exp",
+        "iii",
+        "reports",
+        "clear",
+        "violations",
+        "accidents",
+        "minor",
+        "type",
+        "points",
+        "disposition",
+        "failure",
+        "signal",
+        "deferred",
+        "description",
+        "at",
+        "fault",
+        "rollover",
+        "yes",
+        "24",
+        "head-on",
+        "collision",
+        "no",
+        "illegal",
+        "u-turn",
+        "23",
+        "backing",
+        "accident",
+        "operating",
+        "without",
+        "guilty",
+        "yield",
+        "dismissed",
+        "intersection",
+        "29",
+        "running",
+        "red",
+        "light",
+        "t-bone",
+        "speeding",
+        "following",
+        "too",
+        "close",
+        "driving",
+        "seatbelt",
+        "rear-end",
+        "side-swipe",
+        "iv",
+        "vehicle-driver",
+        "assignment",
+        "ford",
+        "f-3",
+        "f-2",
+        "ram",
+        "chevrolet",
+        "silverado",
+        "e-4",
+        "transit",
+        "express",
+        "toyota",
+        "tacoma",
+        "f-1",
+        "fontaine",
+        "magnitude",
+        "wabash",
+        "platform",
+        "great",
+        "dane",
+        "freedom",
+        "se",
+        "year",
+        "make",
+        "model",
+        "primary",
+        "summary",
+        "total",
+        "drivers",
+        "vehicles",
+        "with",
+        "average",
+        "years",
+        "experience",
+        "page"
+      ],
+      "rendered_text": "DRIVER SCHEDULE + MVR REPORT\nHallmark Insurance Group\nDRIVER SCHEDULE AND MOTOR VEHICLE REPORT\nReport ID: LR-2\ufffd26-\ufffd36\ufffd1\nDATE:\n\ufffd3/14/2\ufffd26\nCARRIER:\nINSURED:\nKeystone Commercial Builders, Inc.\nPOLICY PERIOD:\n\ufffd8/\ufffd1/2\ufffd2\ufffd to \ufffd8/\ufffd1/2\ufffd26\nI. POLICY INFORMATION\nNamed Insured\nPolicy Number\nCA-KCB-2\ufffd2\ufffd-\ufffd\ufffd82\nEffective Date\n\ufffd8/\ufffd1/2\ufffd2\ufffd\nExpiration Date\n\ufffd8/\ufffd1/2\ufffd26\nMailing Address\n3\ufffd\ufffd Liberty Avenue, Suite 12\ufffd\ufffd\nCity / State / Zip\nPittsburgh, PA 1\ufffd222\nVehicle Count\n1\ufffd\nDriver Count\nPremium\n$\ufffd\ufffd,889.\ufffd\ufffd\nII. DRIVER SCHEDULE\n1\nMichael Petroski\n\ufffd6/14/19\ufffd\ufffd\nPA-283\ufffd194\ufffd\nPA\nM\nSingle\n\ufffd3/1\ufffd/2\ufffd\ufffd4\n22\n2\nRobert Mazur\n11/28/1982\nPA-39482\ufffd\ufffd6\nMarried\n\ufffd8/\ufffd1/2\ufffd12\n16\n3\nAnthony DiNardo\n\ufffd3/\ufffd\ufffd/19\ufffd9\nPA-4\ufffd\ufffd9386\ufffd\nDomestic Partner\n\ufffd\ufffd/2\ufffd/2\ufffd\ufffd8\n18\n4\nJames Yurkovich\n\ufffd9/22/198\ufffd\nPA-\ufffd86\ufffd49\ufffd8\n\ufffd2/1\ufffd/2\ufffd1\ufffd\n11\n\ufffd\nDavid Krynicki\n\ufffd1/1\ufffd/1988\nPA-69\ufffd16\ufffd89\n\ufffd6/\ufffd1/2\ufffd18\n8\n6\nThomas Babich\n\ufffd8/3\ufffd/19\ufffd2\nPA-\ufffd\ufffd82\ufffd19\ufffd\nDivorced\n\ufffd9/1\ufffd/2\ufffd\ufffd1\n2\ufffd\nSteven Novak\n\ufffd4/18/199\ufffd\nPA-819382\ufffd1\n11/\ufffd1/2\ufffd19\nJennifer Pawlowski\n12/\ufffd\ufffd/1986\nPA-92\ufffd49312\nF\n\ufffd4/1\ufffd/2\ufffd16\n9\nMark Wisnewski\n\ufffd\ufffd/19/1983\nPA-\ufffd316\ufffd423\nWidowed\n1\ufffd/\ufffd1/2\ufffd13\n13\nPaul Staniszewski\n\ufffd2/28/1991\nPA-142\ufffd1\ufffd34\n\ufffd3/1\ufffd/2\ufffd2\ufffd\nGregory Kozlowski\n11/14/19\ufffd8\nPA-2\ufffd38264\ufffd\n\ufffd6/\ufffd1/2\ufffd\ufffd\ufffd\n21\n12\nDaniel Kovalski\n\ufffd4/22/198\ufffd\nPA-36493\ufffd\ufffd6\n\ufffd9/1\ufffd/2\ufffd16\nRichard Jankowski\n\ufffd9/\ufffd\ufffd/198\ufffd\nPA-4\ufffd\ufffd\ufffd486\ufffd\n\ufffd1/1\ufffd/2\ufffd1\ufffd\n28\n14\nKevin Zielinski\n\ufffd6/1\ufffd/1993\nPA-\ufffd861\ufffd9\ufffd8\n\ufffd8/\ufffd1/2\ufffd21\nAndrew Grabowski\n12/3\ufffd/1984\nPA-69\ufffd26\ufffd89\n11/1\ufffd/2\ufffd14\nDriver #\nName\nDate of Birth\nLicense Number\nLicense State\nSex\nMarital Status\nHire Date\nYrs Exp\nIII. MOTOR VEHICLE REPORTS\nDriver 1: Michael Petroski\nLicense #:\n PA-283\ufffd194\ufffd\nState:\n PA\nMVR Status:\nClear\n# Violations:\n# Accidents:\nDriver 2: Robert Mazur\n PA-39482\ufffd\ufffd6\nMinor Violations\nDate\nType\nPoints\nDisposition\n\ufffd1/13/2\ufffd26\nFailure to Signal\nDeferred\nDescription\nAt Fault\n\ufffd4/\ufffd\ufffd/2\ufffd2\ufffd\nSingle vehicle rollover\nYes\n\ufffd8/\ufffd\ufffd/2\ufffd24\nHead-on collision\nNo\nDriver 3: Anthony DiNardo\n PA-4\ufffd\ufffd9386\ufffd\n\ufffd3/16/2\ufffd24\nIllegal U-Turn\n\ufffd4/28/2\ufffd23\nBacking accident\nDriver 4: James Yurkovich\n PA-\ufffd86\ufffd49\ufffd8\n12/\ufffd\ufffd/2\ufffd2\ufffd\nOperating Without Insurance\nGuilty\n11/16/2\ufffd23\nDriver \ufffd: David Krynicki\n PA-69\ufffd16\ufffd89\n\ufffd8/2\ufffd/2\ufffd23\nFailure to Yield\nDismissed\n\ufffd6/19/2\ufffd2\ufffd\n11/\ufffd\ufffd/2\ufffd24\nIntersection collision\nDriver 6: Thomas Babich\n PA-\ufffd\ufffd82\ufffd19\ufffd\n\ufffd3/29/2\ufffd24\nRunning Red Light\n1\ufffd/12/2\ufffd2\ufffd\n\ufffd1/\ufffd4/2\ufffd26\nT-bone collision\nDriver \ufffd: Steven Novak\n PA-819382\ufffd1\n11/12/2\ufffd2\ufffd\nSpeeding\n\ufffd\ufffd/21/2\ufffd23\nDriver 8: Jennifer Pawlowski\n PA-92\ufffd49312\n\ufffd\ufffd/\ufffd4/2\ufffd23\nFollowing Too Close\n\ufffd\ufffd/3\ufffd/2\ufffd24\nDriver 9: Mark Wisnewski\n PA-\ufffd316\ufffd423\nDriver 1\ufffd: Paul Staniszewski\n PA-142\ufffd1\ufffd34\n11/21/2\ufffd24\n\ufffd9/2\ufffd/2\ufffd2\ufffd\nDriver 11: Gregory Kozlowski\n PA-2\ufffd38264\ufffd\n\ufffd9/\ufffd6/2\ufffd24\nDriving Without Seatbelt\n\ufffd1/1\ufffd/2\ufffd2\ufffd\nRear-end collision\nDriver 12: Daniel Kovalski\n PA-36493\ufffd\ufffd6\n\ufffd8/18/2\ufffd24\n\ufffd3/3\ufffd/2\ufffd23\nSide-swipe\nDriver 13: Richard Jankowski\n PA-4\ufffd\ufffd\ufffd486\ufffd\n\ufffd6/1\ufffd/2\ufffd2\ufffd\n\ufffd6/1\ufffd/2\ufffd23\nDriver 14: Kevin Zielinski\n PA-\ufffd861\ufffd9\ufffd8\n\ufffd9/\ufffd9/2\ufffd24\n11/\ufffd8/2\ufffd24\nDriver 1\ufffd: Andrew Grabowski\n PA-69\ufffd26\ufffd89\nIV. VEHICLE-DRIVER ASSIGNMENT\n2\ufffd23 Ford F-\ufffd\ufffd\ufffd\n2\ufffd24 Ford F-3\ufffd\ufffd\n2\ufffd22 Ford F-3\ufffd\ufffd\n2\ufffd23 Ford F-2\ufffd\ufffd\n2\ufffd24 Ram 3\ufffd\ufffd\ufffd\n2\ufffd23 Chevrolet Silverado 2\ufffd\ufffd\ufffd\n2\ufffd22 Ford E-4\ufffd\ufffd\n2\ufffd23 Ford Transit 3\ufffd\ufffd\n2\ufffd24 Ford Transit 2\ufffd\ufffd\n2\ufffd22 Chevrolet Express 2\ufffd\ufffd\ufffd\n2\ufffd23 Toyota Tacoma\n2\ufffd24 Ford F-1\ufffd\ufffd\n2\ufffd16 Fontaine Magnitude \ufffd\ufffdH\n2\ufffd23 Wabash Platform\n2\ufffd22 Great Dane Freedom SE\nVehicle #\nYear Make Model\nPrimary Driver\nV. SUMMARY\nTotal Drivers\nTotal Vehicles\nDrivers with Clear MVR\n3 (2\ufffd.\ufffd%)\nAverage Years Experience\n1\ufffd.4\nPage 1 of 4\nPage 2 of 4\nPage 3 of 4\nPage 4 of 4"
+    },
+    "page_count": 4
+  }
+}

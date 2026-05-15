@@ -1,0 +1,60 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [],
+  "document_info": {
+    "date": null,
+    "document_type": "Fleet schedule and motor vehicle reports",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 40,
+    "radius_of_operation": null,
+    "vehicle_count": 37
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": null,
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Motor Vehicle Reports show 35 of 40 drivers are not clear: 32 with minor violations, 2 with major violations, and 1 with accident status.",
+      "Motor Vehicle Reports list 39 total violations and 40 total accidents.",
+      "Two drivers have major violations: Scott Murphy and Jack Reed.",
+      "Seven drivers show two accidents."
+    ],
+    "loss_history_summary": "No insurance loss history or claims narrative was provided. Motor Vehicle Reports list 40 total accidents among the scheduled drivers.",
+    "positives": [
+      "Fleet schedule lists 37 total units, including 24 powered vehicles and 13 trailers.",
+      "29 of 37 scheduled vehicles are model year 2023 or newer.",
+      "Driver roster lists 40 drivers with experience ranging from 4 to 33 years; 35 drivers have at least 10 years of experience.",
+      "Five drivers have clear Motor Vehicle Report status."
+    ]
+  }
+}

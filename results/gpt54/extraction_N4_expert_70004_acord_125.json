@@ -1,0 +1,301 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": null,
+    "form_title": "Commercial Insurance Application"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "25-7194638",
+    "sic_code": "1521",
+    "naics_code": "236220",
+    "years_in_business": 42,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "entity_type": "Corporation"
+  },
+  "premises": [
+    {
+      "location_number": "LOC-001",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15222",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2000,
+      "stories": 1,
+      "square_feet": 12000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-002",
+      "address": "450 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15201",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 45000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-003",
+      "address": "6200 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15201",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Storage Yard",
+      "year_built": 1995,
+      "stories": 1,
+      "square_feet": 30000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-004",
+      "address": "3900 Irwin Run Road",
+      "city": "Dravosburg",
+      "state": "PA",
+      "zip": "15034",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Office",
+      "year_built": 2010,
+      "stories": 2,
+      "square_feet": 8500,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-005",
+      "address": "100 Dutch Road",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "zip": "16066",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 28000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    }
+  ],
+  "uw_questions": [
+    {
+      "question": "Any past bankruptcies, receiverships, or reorganizations?",
+      "answer": "No"
+    },
+    {
+      "question": "Any losses or claims in the past 5 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Any pending litigation or regulatory actions?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are any regulated chemicals (EPA, RCRA, TSCA, OSHA, HCS) stored, used, or disposed of on premises?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Any work involving asbestos, lead, or mold remediation?",
+      "answer": "No"
+    },
+    {
+      "question": "Are metal fabrication or welding operations performed on premises?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does applicant lease employees to or from other firms?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant prepare, handle, or serve food for human consumption?",
+      "answer": "No"
+    },
+    {
+      "question": "Any recall of products in the past 5 years?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant operate as a franchisor or sell franchise rights to franchisees?",
+      "answer": "No"
+    },
+    {
+      "question": "Any firearms or childcare operations on premises?",
+      "answer": "No"
+    },
+    {
+      "question": "Is the applicant involved in any joint ventures?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "answer": "No"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": 206415
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 134083
+    },
+    {
+      "coverage_type": "Business Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": 57389
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": 1116456
+    },
+    {
+      "coverage_type": "Umbrella / Excess",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Professional Liability / E&O",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "General Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Business Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Workers Compensation",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella / Excess",
+      "value": "No"
+    },
+    {
+      "field": "Professional Liability / E&O",
+      "value": "No"
+    },
+    {
+      "field": "Any past bankruptcies, receiverships, or reorganizations?",
+      "value": "No"
+    },
+    {
+      "field": "Any losses or claims in the past 5 years?",
+      "value": "Yes"
+    },
+    {
+      "field": "Any pending litigation or regulatory actions?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any regulated chemicals (EPA, RCRA, TSCA, OSHA, HCS) stored, used, or disposed of on premises?",
+      "value": "Yes"
+    },
+    {
+      "field": "Any work involving asbestos, lead, or mold remediation?",
+      "value": "No"
+    },
+    {
+      "field": "Are metal fabrication or welding operations performed on premises?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does applicant lease employees to or from other firms?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant prepare, handle, or serve food for human consumption?",
+      "value": "No"
+    },
+    {
+      "field": "Any recall of products in the past 5 years?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant operate as a franchisor or sell franchise rights to franchisees?",
+      "value": "No"
+    },
+    {
+      "field": "Any firearms or childcare operations on premises?",
+      "value": "No"
+    },
+    {
+      "field": "Is the applicant involved in any joint ventures?",
+      "value": "No"
+    },
+    {
+      "field": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

@@ -1,0 +1,87 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": "2016/03",
+    "form_title": "Evidence of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": null,
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Warehouse"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Dwelling / Building",
+      "limit": 34000000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property / Contents",
+      "limit": 8500000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Loss of Use / Business Income",
+      "limit": 12750000,
+      "deductible": 75000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "peril_basic": "unchecked",
+    "peril_broad": "unchecked",
+    "peril_special": "checked"
+  },
+  "additional_fields": {
+    "document_date": "2026-03-15",
+    "naic_code": "44251",
+    "agency_contact_name": "Karen Weissman",
+    "agency_address": "175 South Third Street, Suite 1400",
+    "agency_city": "Columbus",
+    "agency_state": "OH",
+    "agency_zip": "43215",
+    "agency_phone": "(614) 555-0742",
+    "property_location_address": "6500 Alum Creek Drive",
+    "property_location_city": "Columbus",
+    "property_location_state": "OH",
+    "property_location_zip": "43217",
+    "property_description": "Warehouse",
+    "policy_deductible": 75000,
+    "mortgagee_name": "TD Bank, N.A.",
+    "mortgagee_rank": "First Mortgagee",
+    "mortgagee_address": "5925 Main Street",
+    "mortgagee_city": "Columbus",
+    "mortgagee_state": "OH",
+    "mortgagee_zip": "96796",
+    "loss_payee_name": "Stearns Bank, N.A.",
+    "loss_payee_clause": "Loss Payable Clause",
+    "loss_payee_address": "2679 Spring Street",
+    "loss_payee_city": "Tacoma",
+    "loss_payee_state": "WA",
+    "loss_payee_zip": "15297",
+    "cancellation_notice_days": 30,
+    "authorized_representative": "Douglas Brennan",
+    "authorized_representative_date": "2026-03-15",
+    "construction_type": "Non-Combustible",
+    "sprinkler_system": "Yes"
+  },
+  "remarks": "Coverage provided on Special form. Property is fully sprinklered. Construction type: Non-Combustible."
+}

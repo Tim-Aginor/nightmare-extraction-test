@@ -1,0 +1,64 @@
+{
+  "document_info": {
+    "document_type": "PCRB Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Pennsylvania Compensation Rating Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction contractor operations reflected by payroll classifications including Plumbing \u2014 NOC, Painting \u2014 Interior, and Clerical Office Employees \u2014 NOC.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation Experience Rating",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "PCRB experience modification worksheet for policy period 2025-08-01 to 2026-08-01. Final experience modification factor is 0.86. Rating plan is Large Risk. State is PA. Risk ID number is 609402-1243."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor is 0.86, below 1.00.",
+      "Experience rating worksheet was reviewed and approved by the rating bureau."
+    ],
+    "concerns": [],
+    "loss_history_summary": "Worksheet reports actual primary losses of 335671 and actual excess losses of 211060. Expected losses are 1095520. Computed modification factor is 0.8600 and final modification factor is 0.86. The actual loss data includes 2021-2022 with 10 claims, total paid and incurred losses of 240694, primary losses of 156716, and excess losses of 83978."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Final Experience Modification Factor: 0.86. Effective Date: 2025-08-01. Expiration Date: 2026-08-01. State: PA.",
+    "operations_description": "Payroll classification data includes PA class code 5183 Plumbing \u2014 NOC with payroll 3075000, expected losses 73800, and D-ratio 0.340; PA class code 5474 Painting \u2014 Interior with payroll 1639000, expected losses 52448, and D-ratio 0.360; and PA class code 8810 Clerical Office Employees \u2014 NOC with payroll 5010000, expected losses 9770, and D-ratio 0.170.",
+    "safety_programs": null,
+    "claims_narrative": "Actual Primary Losses Ap: 335671. Actual Excess Losses Ae: 211060. Expected Excess Losses Ee: 1134750. Ballast Value B: 13748. Weighting Value W: 0.574. Numerator Ap plus W x Ae plus 1-W x Ee plus B: 953971. Denominator E plus B: 1109268. Computed Modification Factor: 0.8600. Final Experience Modification Factor: 0.86. Expected Losses E: 1095520."
+  }
+}

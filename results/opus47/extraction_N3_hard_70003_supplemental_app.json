@@ -1,0 +1,98 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application",
+    "date": "2026-03-14",
+    "prepared_by": "Marcus Jennings",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 16,
+    "annual_revenue": 42000000,
+    "employee_count": 450
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Prior Insurance (2024)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "11 claims; no cancellations"
+    },
+    {
+      "coverage_type": "Prior Insurance (2023)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Markel Corporation",
+      "expiring_premium": 619820.26,
+      "notes": "3 claims; no cancellations"
+    },
+    {
+      "coverage_type": "Prior Insurance (2022)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 607294.45,
+      "notes": "6 claims; cancellations: Yes"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "Written contracts with all subcontractors",
+      "Written contracts with indemnification required from all contractors",
+      "All 8 premises are sprinklered",
+      "Fire alarms hard-wired with central station monitoring",
+      "Material Safety Data Sheets (MSDS) maintained",
+      "24-hour doorperson/security on premises",
+      "HVAC system replaced in 2020",
+      "16 years in business with same management",
+      "90% occupancy rate"
+    ],
+    "concerns": [
+      "Plumbing and electrical systems are original (2005)",
+      "Building not fully sprinklered per NFPA 13 or 13R",
+      "No quality control / quality assurance program",
+      "OSHA citations in the past 3 years",
+      "No cyber liability protections in place",
+      "No EV charging stations",
+      "Short-term rentals (less than 1 year) permitted",
+      "Prior carrier cancellation in 2022 (Zurich)",
+      "Elevated claim count in 2024 (11 claims)"
+    ],
+    "loss_history_summary": "Three-year claim history: 11 claims in 2024 (Travelers), 3 claims in 2023 (Markel), 6 claims in 2022 (Zurich, with cancellation)."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": null,
+    "requested_effective": "2025-05-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Operates 4 hotels (Austin, San Antonio, Fredericksburg), 3 restaurants, and 1 corporate office totaling approximately 381,000 sq ft across 8 locations. 285 full-time and 165 part-time employees. Annual revenue $42,000,000.",
+    "safety_programs": "Formal safety program in place. Written contracts with indemnification required from all contractors and subcontractors. All premises sprinklered with hard-wired fire alarms and central station monitoring. MSDS maintained. 24-hour doorperson/security on premises.",
+    "claims_narrative": "Prior insurance history: 2024 Travelers ($686,236.25 premium, 11 claims, no cancellation); 2023 Markel ($619,820.26 premium, 3 claims, no cancellation); 2022 Zurich ($607,294.45 premium, 6 claims, policy cancelled). OSHA citations reported within the past 3 years."
+  }
+}

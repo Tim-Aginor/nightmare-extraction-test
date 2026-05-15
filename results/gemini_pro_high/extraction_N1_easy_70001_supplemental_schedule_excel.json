@@ -1,0 +1,61 @@
+{
+  "document_info": {
+    "document_type": "Carrier History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": null,
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "2024 Policy Number: CP-5690-6189"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No policy cancellations in the past 5 years"
+    ],
+    "concerns": [],
+    "loss_history_summary": "5 years of prior insurance history provided (2020-2024) showing a total of 3 claims (1 in 2024, 1 in 2022, 1 in 2020) and 0 cancellations."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "PRIOR INSURANCE HISTORY: 2024 CNA Financial (1 claim), 2023 Zurich Insurance Group (0 claims), 2022 American International Group (1 claim), 2021 Auto-Owners Insurance (0 claims), 2020 Berkshire Hathaway Guard (1 claim)."
+  }
+}

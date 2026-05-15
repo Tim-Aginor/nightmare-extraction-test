@@ -1,0 +1,186 @@
+{
+  "policy_info": {
+    "policy_number": "WC-KCB-2025-5580; GL-KCB-2025-5581; CA-KCB-2025-5582; CP-KCB-2025-5583",
+    "policy_type": "Workers' Compensation and Employers' Liability; Commercial General Liability; Business Auto; Commercial Property",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "carrier_name": "Hallmark Insurance Group",
+    "carrier_naic": "28339"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "dba": null,
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222",
+    "entity_type": "Corporation"
+  },
+  "producer": {
+    "name": null,
+    "address": null,
+    "code": null
+  },
+  "coverages": [
+    {
+      "coverage_type": "Workers' Compensation and Employers' Liability",
+      "coverage_code": "WC 00 00 04",
+      "limit": "Workers' Compensation Statutory; Employers' Liability: Bodily Injury by Accident 1000000; Bodily Injury by Disease - Policy Limit 1000000; Bodily Injury by Disease - Each Employee 1000000",
+      "deductible": null,
+      "premium": 1158173,
+      "form_numbers": [
+        "WC 00 00 04",
+        "WC 00 04 22",
+        "WC 36 03 01"
+      ]
+    },
+    {
+      "coverage_type": "Commercial General Liability",
+      "coverage_code": "CG 00 01 04 13",
+      "limit": "Each Occurrence 2000000; General Aggregate 4000000; Products-Completed Operations Aggregate 4000000; Personal & Advertising Injury 2000000; Damage to Rented Premises 300000; Medical Expense (Any One Person) 15000",
+      "deductible": 10000,
+      "premium": 297028,
+      "form_numbers": [
+        "CG 00 01 04 13",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "CG 24 26 04 13",
+        "CG 21 47 12 07",
+        "CG 20 10 04 13",
+        "CG 20 37 04 13",
+        "CG 20 33 04 13",
+        "IL 09 85 01 15",
+        "CG 21 49 09 99",
+        "CG 21 14 01 18",
+        "CG 25 03 05 09"
+      ]
+    },
+    {
+      "coverage_type": "Business Auto",
+      "coverage_code": "CA 00 01 03 13",
+      "limit": "Combined Single Limit 5000000; Uninsured/Underinsured Motorist 500000; Medical Payments 10000",
+      "deductible": 2500,
+      "premium": 57890,
+      "form_numbers": [
+        "CA 00 01 03 13",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "IL 09 85 01 15",
+        "CA 99 48 03 06",
+        "CA 20 48 02 99"
+      ]
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "coverage_code": "CP 00 10 12 12",
+      "limit": "Building 10820000; Business Personal Property 18455000; Business Income with Extra Expense 10130000; Coinsurance 80%",
+      "deductible": 25000,
+      "premium": 76074,
+      "form_numbers": [
+        "CP 00 10 12 12",
+        "CP 00 30 10 12",
+        "CP 10 30 10 12",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "CP 01 40 07 06",
+        "IL 09 85 01 15"
+      ]
+    }
+  ],
+  "locations": [],
+  "premium_summary": {
+    "total_premium": 1589165,
+    "taxes_fees": null,
+    "total_due": null
+  },
+  "endorsements": [
+    {
+      "form_number": "WC 00 04 22",
+      "title": "Experience Rating Modification Factor Endorsement"
+    },
+    {
+      "form_number": "WC 36 03 01",
+      "title": "Pennsylvania Cancellation Condition Endorsement"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "form_number": "CG 24 26 04 13",
+      "title": "Amendment of Aggregate Limits of Insurance - Per Project"
+    },
+    {
+      "form_number": "CG 21 47 12 07",
+      "title": "Employment-Related Practices Exclusion"
+    },
+    {
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors"
+    },
+    {
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors (Completed Ops)"
+    },
+    {
+      "form_number": "CG 20 33 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors - Automatic Status When Required in Construction Agreement"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "form_number": "CG 21 49 09 99",
+      "title": "Total Pollution Exclusion With a Hostile Fire Exception"
+    },
+    {
+      "form_number": "CG 21 14 01 18",
+      "title": "Silica or Silica-Related Dust Exclusion"
+    },
+    {
+      "form_number": "CG 25 03 05 09",
+      "title": "Designated Construction Project(s) General Aggregate Limit"
+    },
+    {
+      "form_number": "CA 99 48 03 06",
+      "title": "Pollution Liability - Broadened Coverage for Covered Autos"
+    },
+    {
+      "form_number": "CA 20 48 02 99",
+      "title": "Designated Insured"
+    },
+    {
+      "form_number": "CP 01 40 07 06",
+      "title": "Ordinance or Law Coverage"
+    }
+  ],
+  "forms_attached": [
+    "WC 00 00 04",
+    "WC 00 04 22",
+    "WC 36 03 01",
+    "CG 00 01 04 13",
+    "IL 00 21 09 08",
+    "IL 00 17 11 98",
+    "CG 24 26 04 13",
+    "CG 21 47 12 07",
+    "CG 20 10 04 13",
+    "CG 20 37 04 13",
+    "CG 20 33 04 13",
+    "IL 09 85 01 15",
+    "CG 21 49 09 99",
+    "CG 21 14 01 18",
+    "CG 25 03 05 09",
+    "CA 00 01 03 13",
+    "CA 99 48 03 06",
+    "CA 20 48 02 99",
+    "CP 00 10 12 12",
+    "CP 00 30 10 12",
+    "CP 10 30 10 12",
+    "CP 01 40 07 06"
+  ]
+}

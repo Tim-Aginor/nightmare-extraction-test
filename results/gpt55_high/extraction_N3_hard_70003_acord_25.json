@@ -1,0 +1,92 @@
+{
+  "carrier_name_per_lob": [
+    {
+      "carrier": "Hallmark Insurance Group",
+      "lob": "Commercial General Liability",
+      "naic": "18617",
+      "policy_number": "HLH-CGL-2025-1381"
+    },
+    {
+      "carrier": "Hallmark Insurance Group",
+      "lob": "Workers Compensation and Employers' Liability",
+      "naic": "36839",
+      "policy_number": "WC-HCMP-2025-3198"
+    }
+  ],
+  "certificate_holders": [
+    {
+      "address": "910 Lake Street, Springfield, MO 65801",
+      "name": "Dusk Realty Management Inc."
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Commercial General Liability Claims-Made",
+      "value": "No"
+    },
+    {
+      "field": "Commercial General Liability Occur",
+      "value": "Yes"
+    },
+    {
+      "field": "General Aggregate Limit Applies Per Policy",
+      "value": "Yes"
+    },
+    {
+      "field": "General Aggregate Limit Applies Per Project",
+      "value": "No"
+    },
+    {
+      "field": "General Aggregate Limit Applies Per Location",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation Per Statute",
+      "value": "Yes"
+    },
+    {
+      "field": "Workers Compensation Other",
+      "value": "No"
+    },
+    {
+      "field": "Proprietor/Partner/Executive Officer/Member Excluded",
+      "value": "No"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "effective_date": "2025-05-01",
+      "expiration_date": "2026-05-01",
+      "limit": "Each occurrence: 1000000; Damage to rented premises: 50000; Med exp: 10000; Personal and adv injury: 500000; General aggregate: 2000000; Products-comp/op aggregate: 2000000",
+      "policy_number": "HLH-CGL-2025-1381"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers' Liability",
+      "effective_date": "2025-05-01",
+      "expiration_date": "2026-05-01",
+      "limit": "WC statutory limits; E.L. each accident: 1000000; E.L. disease ea employee: 1000000; E.L. disease policy limit: 1000000",
+      "policy_number": "WC-HCMP-2025-3198"
+    }
+  ],
+  "document_date": "2025-03-13",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 25",
+    "form_title": "Certificate of Liability Insurance"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "insured_address": "483 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_name": "GG Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Capitol Insurance Advisors"
+  },
+  "remarks": "RE: Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas Locations: The Driskill Austin - 604 Brazos Street, Austin, TX 78701; Riverwalk Suites San Antonio - 112 College Street, San Antonio, TX 78205; Fredericksburg Inn & Spa - 245 East Main Street, Fredericksburg, TX 78624. Dusk Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

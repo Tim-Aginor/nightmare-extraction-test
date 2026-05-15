@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Great Lakes Freight Systems, Inc.",
+    "statement_type": "Combined",
+    "period_end_date": "2026-01-31",
+    "period_type": "Annual",
+    "fiscal_year": 2026,
+    "audited": null,
+    "preparer": "Margaret Sullivan"
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": null,
+        "accounts_receivable": 13376400.0,
+        "inventory": null,
+        "prepaid_expenses": 1950000.0,
+        "other_current": null,
+        "total_current_assets": null
+      },
+      "fixed_assets": {
+        "property_plant_equipment": null,
+        "accumulated_depreciation": null,
+        "net_fixed_assets": null
+      },
+      "other_assets": 21934300.0,
+      "total_assets": null
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 11238800.0,
+        "accrued_expenses": null,
+        "current_debt": 25224200.0,
+        "other_current": null,
+        "total_current_liabilities": null
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 56983700.0,
+        "other_long_term": null,
+        "total_long_term": null
+      },
+      "total_liabilities": 56983700.0
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 56411300.0,
+      "total_equity": 56411300.0
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": 15060800.0,
+      "net_revenue": 15060800.0
+    },
+    "cost_of_goods_sold": null,
+    "gross_profit": 6146500.0,
+    "operating_expenses": {
+      "salaries_wages": null,
+      "rent": null,
+      "utilities": null,
+      "depreciation": null,
+      "insurance": null,
+      "other_operating": null,
+      "total_operating_expenses": 3579900.0
+    },
+    "operating_income": null,
+    "interest_expense": null,
+    "income_before_tax": null,
+    "income_tax": null,
+    "net_income": null
+  },
+  "ratios": {
+    "current_ratio": null,
+    "debt_to_equity": null,
+    "profit_margin": 0.03
+  }
+}

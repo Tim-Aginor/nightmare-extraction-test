@@ -1,0 +1,138 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "policy_number_gl": {
+      "value": "GL-HCHP-2025-3351"
+    },
+    "gl_limit_each_occurrence": {
+      "value": 1000000.0,
+      "rendered_as": "1,000,000.00"
+    },
+    "gl_limit_general_aggregate": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "gl_limit_products_completed_ops": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "gl_limit_personal_advertising": {
+      "value": 500000,
+      "rendered_as": "500,000.00"
+    },
+    "gl_limit_damage_rented_premises": {
+      "value": 50000,
+      "rendered_as": "50,000.00"
+    },
+    "gl_limit_medical_expense": {
+      "value": 10000,
+      "rendered_as": "10,000.00"
+    },
+    "gl_deductible": {
+      "value": 5000,
+      "rendered_as": "5,000.00"
+    },
+    "gl_form_type": {
+      "value": "occurrence"
+    },
+    "gl_premium": {
+      "value": 108425.47,
+      "rendered_as": "108,425.47"
+    },
+    "gl_base_premium": {
+      "value": 104900.0,
+      "rendered_as": "104,900.00"
+    },
+    "gl_tria_surcharge": {
+      "value": 3525.47,
+      "rendered_as": "3,525.47"
+    }
+  },
+  "doc_type": "acord_126",
+  "gl_class_codes": [
+    {
+      "class_code": "66561",
+      "description": "Hotels \u2014 NOC",
+      "premium_basis": "Revenue",
+      "exposure": 32000000,
+      "rate": 1.95,
+      "premium": 62400.0
+    },
+    {
+      "class_code": "66572",
+      "description": "Restaurants or Taverns \u2014 NOC",
+      "premium_basis": "Sales",
+      "exposure": 10000000,
+      "rate": 4.25,
+      "premium": 42500.0
+    }
+  ],
+  "uw_questions": [
+    {
+      "question": "Is there any work performed on or near bodies of water?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant have any work performed by subcontractors?",
+      "answer": "No"
+    },
+    {
+      "question": "Is there any underground storage of hazardous substances?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant perform any demolition work?",
+      "answer": "No"
+    },
+    {
+      "question": "Are products manufactured, sold, or distributed?",
+      "answer": "No"
+    },
+    {
+      "question": "Are there any completed operations exposures?",
+      "answer": "No"
+    },
+    {
+      "question": "Are any operations conducted outside the United States?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant have operations involving hazardous materials?",
+      "answer": "No"
+    }
+  ],
+  "additional_coverages": [
+    "Contractual Liability",
+    "Hired & Non-Owned Auto"
+  ],
+  "uw_answers": {
+    "products_distributed": false,
+    "safety_program": true,
+    "subcontractors_used": true
+  }
+}

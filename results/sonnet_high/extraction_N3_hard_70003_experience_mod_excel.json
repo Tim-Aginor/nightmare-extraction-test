@@ -1,0 +1,72 @@
+{
+  "document_info": {
+    "document_type": "Experience Modification Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Marilyn Rocha, Claims Adjustment Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality operations including hotel staff (general, bellhops, doorpersons), restaurant employees, and clerical office personnel",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": "Statutory",
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy Number: WC-HCHP-2025-3350. Rating plan: Large Risk. Interstate rating applies. Experience Modification Factor: 0.94. Total payroll across all classifications: $16,260,471. Expected Losses: $361,806. Classifications rated: 9052 (Hotel \u2014 All Other Employees), 9060 (Hotel \u2014 Bellhops/Doorpersons), 9082 (Restaurant \u2014 NOC), 8810 (Clerical Office Employees \u2014 NOC). Calculated Mod Numerator: $367,465; Denominator: $390,920."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience modification of 0.94 is below 1.0, indicating better-than-average loss performance relative to peers",
+      "Improving claim frequency trend over experience period: 8 claims (2021-2022) \u2192 6 claims (2022-2023) \u2192 2 claims (2023-2024)",
+      "Zero excess losses across all three experience years; all losses are primary",
+      "No open or incurred-but-not-reported reserves; total paid equals total incurred for all years",
+      "Weighting factor of 0.419 under Large Risk rating plan reflects credible loss experience",
+      "Interstate rating qualification indicates multi-state operational scale"
+    ],
+    "concerns": [
+      "Claims present in all three experience years indicating recurring exposure to worker injuries",
+      "Highest single-year loss total of $56,343 in 2021-2022 with 8 claims suggests elevated frequency in earlier period",
+      "Restaurant (NOC) classification 9082 carries elevated payroll exposure of $3,678,800"
+    ],
+    "loss_history_summary": "Three-year experience period (2021-2024) reflects 16 total claims with $92,945 total incurred losses across all years. All losses are fully paid with no open reserves. Year-by-year: 2021-2022 \u2014 8 claims, $56,343 incurred; 2022-2023 \u2014 6 claims, $26,662 incurred; 2023-2024 \u2014 2 claims, $9,940 incurred. All incurred losses classified as primary; no excess losses recorded. Valuation date: 2026-03-15."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Insured operates in the hospitality sector under four workers compensation classifications: Class 9052 \u2014 Hotel All Other Employees ($9,207,271 payroll, ELR 1.63, D-Ratio 0.28); Class 9060 \u2014 Hotel Bellhops and Doorpersons ($1,454,400 payroll, ELR 1.95, D-Ratio 0.29); Class 9082 \u2014 Restaurant NOC ($3,678,800 payroll, ELR 1.55, D-Ratio 0.28); Class 8810 \u2014 Clerical Office Employees NOC ($1,920,000 payroll, ELR 0.195, D-Ratio 0.17).",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

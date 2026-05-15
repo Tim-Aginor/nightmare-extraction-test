@@ -1,0 +1,91 @@
+{
+  "form_info": {
+    "form_number": "ACORD 133",
+    "form_edition": "2013/09",
+    "form_title": "Workers Compensation Assigned Risk"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null,
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "sic_code": "7011",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Workers Compensation - NCCI Assigned Risk Plan (TX)",
+      "limit": null,
+      "deductible": null,
+      "premium": 379487.0
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "application_date": "2026-03-15",
+    "assigned_risk_plan": "NCCI Assigned Risk Plan",
+    "state": "TX",
+    "classification_schedule": [
+      {
+        "class_code": "9052",
+        "description": "Hotel \u2014 All Other Employees",
+        "num_employees": 207,
+        "payroll": 9207271.0,
+        "rate": 2.85,
+        "premium": 262407.0
+      },
+      {
+        "class_code": "9060",
+        "description": "Hotel \u2014 Bellhops, Doorpersons",
+        "num_employees": 44,
+        "payroll": 1454400.0,
+        "rate": 2.45,
+        "premium": 35633.0
+      },
+      {
+        "class_code": "9082",
+        "description": "Restaurant \u2014 NOC",
+        "num_employees": 117,
+        "payroll": 3678800.0,
+        "rate": 2.12,
+        "premium": 77991.0
+      },
+      {
+        "class_code": "8810",
+        "description": "Clerical Office Employees \u2014 NOC",
+        "num_employees": 32,
+        "payroll": 1920000.0,
+        "rate": 0.18,
+        "premium": 3456.0
+      }
+    ],
+    "total_payroll": 16260471.0,
+    "total_premium": 379487.0,
+    "current_experience_mod": 0.94,
+    "proposed_experience_mod": 0.89,
+    "rating_bureau": "MWCIA (MN)",
+    "prior_coverage_carriers": [
+      "Travelers Companies",
+      "Markel Corporation",
+      "Zurich Insurance Group"
+    ],
+    "applicant_signature": "Hill Country Hospitality Partners, LLC",
+    "applicant_signature_date": "2026-03-15",
+    "agent_broker_signature": "Marcus Jennings",
+    "agent_broker_signature_date": "2026-03-15"
+  },
+  "remarks": "SIC: 7011. Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+}

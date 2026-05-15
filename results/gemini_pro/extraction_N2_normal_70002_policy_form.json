@@ -1,0 +1,61 @@
+{
+  "document_info": {
+    "document_type": "Commercial Property Policy",
+    "date": null,
+    "prepared_by": "Maine Employers Mutual",
+    "recipient": "Buckeye Industrial Properties, LLC"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": "Building: $146,260,000.00; Contents: $42,495,000.00; Business Income: $62,590,000.00",
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Current Policy Premium: $424,883.27. Coinsurance: 80.00%. Deductible: $75,000.00."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

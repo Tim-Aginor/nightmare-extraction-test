@@ -1,0 +1,84 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "producer_name": {
+      "value": "Capitol Insurance Advisors"
+    },
+    "producer_contact": {
+      "value": "Marcus Jennings"
+    },
+    "premium_wc": {
+      "value": 286527.66,
+      "rendered_as": "$286,527.66"
+    },
+    "premium_gl": {
+      "value": 108425.47,
+      "rendered_as": "108,425.47"
+    },
+    "premium_property": {
+      "value": 265469.62,
+      "rendered_as": "$265,469.62"
+    },
+    "account_type": {
+      "value": "Transfer"
+    }
+  },
+  "doc_type": "broker_narrative",
+  "sections_rendered": [
+    "account_summary",
+    "coverage_overview",
+    "loss_history",
+    "risk_highlights",
+    "recommendation"
+  ],
+  "loss_summary": {
+    "total_claims": 38,
+    "total_paid": 511891.2,
+    "total_incurred": 714517.96,
+    "open_claims": 11,
+    "closed_claims": 27,
+    "per_coverage": [
+      {
+        "coverage": "wc",
+        "claims": 28,
+        "paid": 324545.3,
+        "incurred": 415934.5,
+        "open": 7,
+        "closed": 21
+      },
+      {
+        "coverage": "gl",
+        "claims": 8,
+        "paid": 8779.76,
+        "incurred": 82656.15,
+        "open": 2,
+        "closed": 6
+      },
+      {
+        "coverage": "property",
+        "claims": 2,
+        "paid": 178566.14,
+        "incurred": 215927.31,
+        "open": 2,
+        "closed": 0
+      }
+    ]
+  }
+}

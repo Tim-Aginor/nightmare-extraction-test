@@ -1,0 +1,69 @@
+{
+  "document_info": {
+    "document_type": "PCRB Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Joan Ortiz, Claims Processing Center",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction operations including carpentry, electrical wiring, plumbing, masonry, interior painting, project management/supervision, and clerical office employees.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation Experience Modification",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "PCRB Large Risk experience rating worksheet for Pennsylvania. Final Experience Modification Factor: 0.86."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor is 0.86, indicating favorable loss experience relative to expected losses.",
+      "Interstate rating is listed as No, indicating Pennsylvania-only rating exposure on this worksheet.",
+      "Diverse construction classifications are supported by clerical and project management payroll classes."
+    ],
+    "concerns": [
+      "Actual losses are present in each of the three experience years.",
+      "Construction operations include higher-hazard classes such as carpentry, masonry, electrical wiring, plumbing, and painting.",
+      "Ten claims were reported in policy year 2021-2022."
+    ],
+    "loss_history_summary": "Three policy years of actual loss data are shown: 2023-2024 with 7 claims and total incurred losses of 190770; 2022-2023 with 3 claims and total incurred losses of 115267; and 2021-2022 with 10 claims and total incurred losses of 240694. Total actual primary losses are 335671 and actual excess losses are 211060."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": "PCRB Experience Rating Worksheet for Keystone Commercial Builders, Inc. under the Pennsylvania Compensation Rating Bureau, Rating Plan: Large Risk, Effective Date: 2026-03-15. Calculated Mod: 0.8600. Final Experience Modification Factor: 0.86.",
+    "operations_description": "PAYROLL / CLASSIFICATION DATA: Carpentry \u2014 NOC; Electrical Wiring; Plumbing \u2014 NOC; Masonry \u2014 NOC; Painting \u2014 Interior; Contractors \u2014 Project Manager, Superintendent; Clerical Office Employees \u2014 NOC.",
+    "safety_programs": null,
+    "claims_narrative": "ACTUAL LOSS DATA: 2023-2024: 7 claims, total paid 190770, total incurred 190770, primary losses 120455, excess losses 70315. 2022-2023: 3 claims, total paid 115267, total incurred 115267, primary losses 58500, excess losses 56767. 2021-2022: 10 claims, total paid 240694, total incurred 240694, primary losses 156716, excess losses 83978."
+  }
+}

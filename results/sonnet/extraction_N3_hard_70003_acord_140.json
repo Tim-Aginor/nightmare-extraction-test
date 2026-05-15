@@ -1,0 +1,446 @@
+{
+  "form_info": {
+    "form_number": "ACORD 140",
+    "form_edition": "2016/03",
+    "form_title": "Property Section"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-HCHP-2025-3352",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Hotel / Hospitality"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building - LOC-001 (The Driskill Austin)",
+      "limit": 28500000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-001 (The Driskill Austin)",
+      "limit": 7125000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-001 (The Driskill Austin)",
+      "limit": 10687500,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-002 (Riverwalk Suites San Antonio)",
+      "limit": 39750000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-002 (Riverwalk Suites San Antonio)",
+      "limit": 9940000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-002 (Riverwalk Suites San Antonio)",
+      "limit": 14910000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-003 (Fredericksburg Inn & Spa)",
+      "limit": 10560000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-003 (Fredericksburg Inn & Spa)",
+      "limit": 2640000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-003 (Fredericksburg Inn & Spa)",
+      "limit": 3960000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-004 (South Congress Motor Hotel)",
+      "limit": 15500000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-004 (South Congress Motor Hotel)",
+      "limit": 3875000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-004 (South Congress Motor Hotel)",
+      "limit": 5812500,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-005 (Blanco River Steakhouse)",
+      "limit": 2550000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-005 (Blanco River Steakhouse)",
+      "limit": 850000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-005 (Blanco River Steakhouse)",
+      "limit": 1700000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-006 (The Oasis at Lake Travis)",
+      "limit": 3000000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-006 (The Oasis at Lake Travis)",
+      "limit": 900000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-006 (The Oasis at Lake Travis)",
+      "limit": 1800000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building - LOC-007 (Mission Cantina - Pearl District)",
+      "limit": 1700000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-007 (Mission Cantina - Pearl District)",
+      "limit": 510000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-007 (Mission Cantina - Pearl District)",
+      "limit": 1020000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Building (Tenant-Occupied - N/A) - LOC-008 (Corporate Headquarters)",
+      "limit": 0,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Contents / Business Personal Property - LOC-008 (Corporate Headquarters)",
+      "limit": 310000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense - LOC-008 (Corporate Headquarters)",
+      "limit": 620000,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "agency_customer_id": "ACT-201435",
+    "naic_code": "28339",
+    "contact_name": "Marcus Jennings",
+    "valuation": "Replacement Cost",
+    "date": "2026-03-14",
+    "locations": [
+      {
+        "building_number": 1,
+        "premises_number": "LOC-001",
+        "location_address": "604 Brazos Street, Austin, TX, 78701",
+        "location_description": "The Driskill Austin",
+        "construction_type": "Fire Resistive",
+        "roof_type": "TPO",
+        "protection_class": "5",
+        "year_built": 2010,
+        "number_of_stories": 8,
+        "total_area_sqft": 95000,
+        "occupancy": "Hotel",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "heating_year_updated": 2026,
+        "plumbing_year_updated": 2018,
+        "roofing_year_updated": 2026,
+        "wiring_year_updated": 2021,
+        "distance_to_fire_station": "1 miles",
+        "distance_to_hydrant": "2103 ft",
+        "fire_district": "District 19",
+        "sprinkler_system": "Wet Pipe",
+        "sprinkler_coverage": "100%",
+        "fire_protection_class": "5",
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored",
+        "total_insured_value": 46312500
+      },
+      {
+        "building_number": 2,
+        "premises_number": "LOC-002",
+        "location_address": "112 College Street, San Antonio, TX, 78205",
+        "location_description": "Riverwalk Suites San Antonio",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Metal",
+        "protection_class": "2",
+        "year_built": 2006,
+        "number_of_stories": 12,
+        "total_area_sqft": 142000,
+        "occupancy": "Hotel",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "heating_year_updated": 2026,
+        "plumbing_year_updated": 2017,
+        "roofing_year_updated": 2026,
+        "wiring_year_updated": 2014,
+        "distance_to_fire_station": "2 miles",
+        "distance_to_hydrant": "994 ft",
+        "fire_district": "District 13",
+        "sprinkler_system": "Wet Pipe",
+        "sprinkler_coverage": "100%",
+        "fire_protection_class": "2",
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Proprietary System",
+        "total_insured_value": 64610000
+      },
+      {
+        "building_number": 3,
+        "premises_number": "LOC-003",
+        "location_address": "245 East Main Street, Fredericksburg, TX, 78624",
+        "location_description": "Fredericksburg Inn & Spa",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Built-Up",
+        "protection_class": "1",
+        "year_built": 1998,
+        "number_of_stories": 3,
+        "total_area_sqft": 48000,
+        "occupancy": "Hotel",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "heating_year_updated": 2022,
+        "plumbing_year_updated": 2010,
+        "roofing_year_updated": 2017,
+        "wiring_year_updated": 2017,
+        "distance_to_fire_station": "3 miles",
+        "distance_to_hydrant": "1418 ft",
+        "fire_district": "District 3",
+        "sprinkler_system": "Pre-Action",
+        "sprinkler_coverage": "100%",
+        "fire_protection_class": "1",
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None",
+        "total_insured_value": 17160000
+      },
+      {
+        "building_number": 4,
+        "premises_number": "LOC-004",
+        "location_address": "1220 South Congress Avenue, Austin, TX, 78704",
+        "location_description": "South Congress Motor Hotel",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Concrete",
+        "protection_class": "2",
+        "year_built": 2015,
+        "number_of_stories": 4,
+        "total_area_sqft": 62000,
+        "occupancy": "Hotel",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "heating_year_updated": 2026,
+        "plumbing_year_updated": 2026,
+        "roofing_year_updated": 2026,
+        "wiring_year_updated": 2025,
+        "distance_to_fire_station": "2 miles",
+        "distance_to_hydrant": "2844 ft",
+        "fire_district": "District 4",
+        "sprinkler_system": "Wet Pipe",
+        "sprinkler_coverage": "100%",
+        "fire_protection_class": "2",
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department",
+        "total_insured_value": 25187500
+      },
+      {
+        "building_number": 5,
+        "premises_number": "LOC-005",
+        "location_address": "608 Brazos Street, Austin, TX, 78701",
+        "location_description": "Blanco River Steakhouse",
+        "construction_type": "Fire Resistive",
+        "roof_type": "Metal",
+        "protection_class": "2",
+        "year_built": 2010,
+        "number_of_stories": 1,
+        "total_area_sqft": 8500,
+        "occupancy": "Restaurant",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "heating_year_updated": 2026,
+        "plumbing_year_updated": 2023,
+        "roofing_year_updated": 2026,
+        "wiring_year_updated": 2018,
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "730 ft",
+        "fire_district": "District 17",
+        "sprinkler_system": "Pre-Action",
+        "sprinkler_coverage": "100%",
+        "fire_protection_class": "2",
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department",
+        "total_insured_value": 5100000
+      },
+      {
+        "building_number": 6,
+        "premises_number": "LOC-006",
+        "location_address": "6550 Comanche Trail, Austin, TX, 78732",
+        "location_description": "The Oasis at Lake Travis",
+        "construction_type": "Non-Combustible",
+        "roof_type": "EPDM",
+        "protection_class": "5",
+        "year_built": 2012,
+        "number_of_stories": 2,
+        "total_area_sqft": 12000,
+        "occupancy": "Restaurant",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "heating_year_updated": 2026,
+        "plumbing_year_updated": 2026,
+        "roofing_year_updated": 2026,
+        "wiring_year_updated": 2018,
+        "distance_to_fire_station": "8 miles",
+        "distance_to_hydrant": "2909 ft",
+        "fire_district": "District 8",
+        "sprinkler_system": "Wet Pipe",
+        "sprinkler_coverage": "100%",
+        "fire_protection_class": "5",
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored",
+        "total_insured_value": 5700000
+      },
+      {
+        "building_number": 7,
+        "premises_number": "LOC-007",
+        "location_address": "303 Pearl Parkway, San Antonio, TX, 78215",
+        "location_description": "Mission Cantina - Pearl District",
+        "construction_type": "Joisted Masonry",
+        "roof_type": "EPDM",
+        "protection_class": "4",
+        "year_built": 2014,
+        "number_of_stories": 1,
+        "total_area_sqft": 6800,
+        "occupancy": "Restaurant",
+        "sprinklered": "Yes",
+        "ownership": "Owned",
+        "heating_year_updated": 2026,
+        "plumbing_year_updated": 2022,
+        "roofing_year_updated": 2025,
+        "wiring_year_updated": 2026,
+        "distance_to_fire_station": "1 miles",
+        "distance_to_hydrant": "2903 ft",
+        "fire_district": "District 4",
+        "sprinkler_system": "Pre-Action",
+        "sprinkler_coverage": "75%",
+        "fire_protection_class": "4",
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None",
+        "total_insured_value": 3230000
+      },
+      {
+        "building_number": 8,
+        "premises_number": "LOC-008",
+        "location_address": "401 Congress Avenue, Suite 2800, Austin, TX, 78701",
+        "location_description": "Corporate Headquarters",
+        "construction_type": "Tenant - contents & BI only",
+        "roof_type": "Shingle",
+        "protection_class": "5",
+        "year_built": 2008,
+        "number_of_stories": 1,
+        "total_area_sqft": 6200,
+        "occupancy": "Office",
+        "sprinklered": "Yes",
+        "ownership": "Tenant",
+        "heating_year_updated": 2015,
+        "plumbing_year_updated": 2025,
+        "roofing_year_updated": 2026,
+        "wiring_year_updated": 2013,
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "2590 ft",
+        "fire_district": "District 19",
+        "sprinkler_system": "Dry Pipe",
+        "sprinkler_coverage": "75%",
+        "fire_protection_class": "5",
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Direct to Fire Department",
+        "total_insured_value": 930000
+      }
+    ],
+    "blanket_summary": {
+      "blanket_number": "BLK-3399",
+      "blanket_type": "Building, Contents & BI",
+      "number_of_locations": 8,
+      "total_insured_value": 168230000,
+      "building_total": 101570000,
+      "contents_business_personal_property_total": 26150000,
+      "business_income_with_extra_expense_total": 40510000
+    },
+    "interests": [
+      {
+        "type": "ISAOA/ATIMA",
+        "name": "KeyBank National Association",
+        "address": "P.O. Box 38199, Clarksville, TN 37040",
+        "loan_reference_number": "L-897629120"
+      },
+      {
+        "type": "Loss Payee",
+        "name": "Stearns Bank, N.A.",
+        "address": "P.O. Box 25349, Fargo, ND 58102",
+        "loan_reference_number": "L-496809647"
+      },
+      {
+        "type": "Additional Insured",
+        "name": "Pinnacle Investors Group, Inc.",
+        "address": "P.O. Box 55869, Elk Grove, CA 95624",
+        "loan_reference_number": "L-041498258"
+      }
+    ]
+  },
+  "remarks": null
+}

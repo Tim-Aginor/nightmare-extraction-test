@@ -1,0 +1,635 @@
+{
+  "claims": [
+    {
+      "claim_number": "HMK-2025-039474",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2025-11-24",
+      "description": "Overexertion",
+      "incurred": 15244.54,
+      "paid": 6299.43,
+      "reserved": 8945.11,
+      "status": "Open"
+    },
+    {
+      "claim_number": "ZIG-2023-039485",
+      "claimant": "John Johnson",
+      "coverage": "wc",
+      "date_of_loss": "2023-02-24",
+      "description": "Fall from Height",
+      "incurred": 30839.01,
+      "paid": 30839.01,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2025-039582",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2025-02-10",
+      "description": "Fall from Height",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Denied"
+    },
+    {
+      "claim_number": "NWI-2022-039790",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2022-07-01",
+      "description": "Slip & Fall (WC)",
+      "incurred": 44026.47,
+      "paid": 44026.47,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2021-040109",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2021-08-11",
+      "description": "Struck By Object",
+      "incurred": 11643.64,
+      "paid": 11643.64,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2023-040159",
+      "claimant": "William Garcia",
+      "coverage": "wc",
+      "date_of_loss": "2023-01-20",
+      "description": "Slip & Fall (WC)",
+      "incurred": 58869.06,
+      "paid": 58869.06,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2021-040485",
+      "claimant": "Richard Miller",
+      "coverage": "wc",
+      "date_of_loss": "2021-08-16",
+      "description": "Slip & Fall (WC)",
+      "incurred": 24087.67,
+      "paid": 24087.67,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2021-040971",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2021-12-16",
+      "description": "Caught In/Between",
+      "incurred": 3675.28,
+      "paid": 3675.28,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HTF-2024-041287",
+      "claimant": "Thomas Rodriguez",
+      "coverage": "wc",
+      "date_of_loss": "2024-07-03",
+      "description": "Overexertion",
+      "incurred": 25381.42,
+      "paid": 25381.42,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "MRK-2021-041602",
+      "claimant": "Charles Martinez",
+      "coverage": "wc",
+      "date_of_loss": "2021-07-13",
+      "description": "Puncture",
+      "incurred": 74593.95,
+      "paid": 74593.95,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2021-041762",
+      "claimant": "Christopher Hernandez",
+      "coverage": "wc",
+      "date_of_loss": "2021-11-15",
+      "description": "Overexertion",
+      "incurred": 38736.9,
+      "paid": 38736.9,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HTF-2023-041943",
+      "claimant": "Daniel Lopez",
+      "coverage": "wc",
+      "date_of_loss": "2023-11-18",
+      "description": "Fall from Height",
+      "incurred": 40169.6,
+      "paid": 40169.6,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "MRK-2021-042434",
+      "claimant": "Matthew Gonzalez",
+      "coverage": "wc",
+      "date_of_loss": "2021-06-18",
+      "description": "Slip & Fall (WC)",
+      "incurred": 34593.93,
+      "paid": 34593.93,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "MRK-2021-042709",
+      "claimant": "Anthony Wilson",
+      "coverage": "wc",
+      "date_of_loss": "2021-03-21",
+      "description": "Slip & Fall (WC)",
+      "incurred": 60415.16,
+      "paid": 60415.16,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HMK-2025-042857",
+      "claimant": "Mark Anderson",
+      "coverage": "wc",
+      "date_of_loss": "2025-08-12",
+      "description": "Overexertion",
+      "incurred": 34704.28,
+      "paid": 23136.19,
+      "reserved": 11568.09,
+      "status": "Open"
+    },
+    {
+      "claim_number": "MRK-2021-043002",
+      "claimant": "Donald Thomas",
+      "coverage": "wc",
+      "date_of_loss": "2021-01-03",
+      "description": "Caught In/Between",
+      "incurred": 30056.67,
+      "paid": 30056.67,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HTF-2024-043328",
+      "claimant": "Steven Taylor",
+      "coverage": "wc",
+      "date_of_loss": "2024-01-05",
+      "description": "Slip & Fall (WC)",
+      "incurred": 3455.01,
+      "paid": 3455.01,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HTF-2024-043705",
+      "claimant": "Paul Moore",
+      "coverage": "wc",
+      "date_of_loss": "2024-03-29",
+      "description": "Overexertion",
+      "incurred": 29748.17,
+      "paid": 29748.17,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2021-043761",
+      "claimant": "Andrew Jackson",
+      "coverage": "wc",
+      "date_of_loss": "2021-08-01",
+      "description": "Overexertion",
+      "incurred": 33701.56,
+      "paid": 33701.56,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2024-043887",
+      "claimant": "Joshua Martin",
+      "coverage": "wc",
+      "date_of_loss": "2024-09-21",
+      "description": "Slip & Fall (WC)",
+      "incurred": 30002.18,
+      "paid": 20001.45,
+      "reserved": 10000.73,
+      "status": "Open"
+    },
+    {
+      "claim_number": "MRK-2021-044382",
+      "claimant": "Kenneth Lee",
+      "coverage": "wc",
+      "date_of_loss": "2021-04-29",
+      "description": "Overexertion",
+      "incurred": 22804.31,
+      "paid": 22804.31,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2024-044745",
+      "claimant": "Kevin Perez",
+      "coverage": "wc",
+      "date_of_loss": "2024-08-23",
+      "description": "Slip & Fall (WC)",
+      "incurred": 36235.37,
+      "paid": 36235.37,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2021-044922",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2021-11-01",
+      "description": "Fall from Height",
+      "incurred": 27815.6,
+      "paid": 27815.6,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2022-044980",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2022-06-24",
+      "description": "Slip & Fall (WC)",
+      "incurred": 28478.9,
+      "paid": 28478.9,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2024-045138",
+      "claimant": "Timothy Harris",
+      "coverage": "wc",
+      "date_of_loss": "2024-11-12",
+      "description": "Slip & Fall (WC)",
+      "incurred": 1000.75,
+      "paid": 1000.75,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2025-045458",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2025-07-15",
+      "description": "Overexertion",
+      "incurred": 17667.01,
+      "paid": 10174.81,
+      "reserved": 7492.2,
+      "status": "Open"
+    },
+    {
+      "claim_number": "NWI-2022-045916",
+      "claimant": "Edward Clark",
+      "coverage": "wc",
+      "date_of_loss": "2022-07-05",
+      "description": "Slip & Fall (WC)",
+      "incurred": 23630.91,
+      "paid": 23630.91,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2023-045941",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2023-06-15",
+      "description": "Fall from Height",
+      "incurred": 25558.69,
+      "paid": 25558.69,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HTF-2024-046192",
+      "claimant": "Jeffrey Lewis",
+      "coverage": "wc",
+      "date_of_loss": "2024-03-09",
+      "description": "Overexertion",
+      "incurred": 36189.96,
+      "paid": 36189.96,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2024-046450",
+      "claimant": "Ryan Robinson",
+      "coverage": "wc",
+      "date_of_loss": "2024-08-15",
+      "description": "Puncture",
+      "incurred": 209796.39,
+      "paid": 199806.09,
+      "reserved": 9990.3,
+      "status": "Open"
+    },
+    {
+      "claim_number": "NWI-2021-046889",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2021-10-10",
+      "description": "Caught In/Between",
+      "incurred": 4897.23,
+      "paid": 4897.23,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2025-047175",
+      "claimant": "Gary Young",
+      "coverage": "wc",
+      "date_of_loss": "2025-07-04",
+      "description": "Burn",
+      "incurred": 33490.66,
+      "paid": 31895.87,
+      "reserved": 1594.79,
+      "status": "Open"
+    },
+    {
+      "claim_number": "HTF-2024-047429",
+      "claimant": "Nicholas Allen",
+      "coverage": "wc",
+      "date_of_loss": "2024-03-13",
+      "description": "Slip & Fall (WC)",
+      "incurred": 26035.11,
+      "paid": 26035.11,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2025-047924",
+      "claimant": "Eric King",
+      "coverage": "wc",
+      "date_of_loss": "2025-04-12",
+      "description": "Slip & Fall (WC)",
+      "incurred": 28764.4,
+      "paid": 28764.4,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HTF-2024-048031",
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2024-07-30",
+      "description": "Overexertion",
+      "incurred": 29790.62,
+      "paid": 29790.62,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "CNA-2022-028776",
+      "claimant": "Keystone Commercial Builders, Inc.",
+      "coverage": "property",
+      "date_of_loss": "2022-05-22",
+      "description": "Wind/Hail",
+      "incurred": 36750,
+      "paid": 36750,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "ZIG-2023-039474",
+      "claimant": null,
+      "coverage": "gl",
+      "date_of_loss": "2023-01-25",
+      "description": "Customer at the facility was...",
+      "incurred": 12196.48,
+      "paid": 12196.48,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2022-039582",
+      "claimant": "James Sanchez",
+      "coverage": "gl",
+      "date_of_loss": "2022-07-25",
+      "description": "Customer at the facility was cut by a jagged product packaging edge that gave way when the customer leaned on it, requiring 8 stitches.",
+      "incurred": 11608.95,
+      "paid": 11608.95,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "MRK-2025-040109",
+      "claimant": null,
+      "coverage": "gl",
+      "date_of_loss": "2025-06-14",
+      "description": "A neighboring tenant alleged...",
+      "incurred": 41584.16,
+      "paid": 11669.57,
+      "reserved": 29914.59,
+      "status": "Open"
+    },
+    {
+      "claim_number": "CNA-2021-040159",
+      "claimant": "Michael Lewis",
+      "coverage": "gl",
+      "date_of_loss": "2021-04-10",
+      "description": "A homeowner alleged foundation...",
+      "incurred": 11867.11,
+      "paid": 11867.11,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2022-041602",
+      "claimant": "William Walker",
+      "coverage": "gl",
+      "date_of_loss": "2022-07-30",
+      "description": "A neighboring property owner's vehicle was damaged by concrete dust and overspray from the insured's exterior painting operations.",
+      "incurred": 8907.4,
+      "paid": 6775.2,
+      "reserved": 2132.2,
+      "status": "Subrogation"
+    },
+    {
+      "claim_number": "MRK-2024-042434",
+      "claimant": null,
+      "coverage": "gl",
+      "date_of_loss": "2024-10-17",
+      "description": "A building inspector fell through an unprotected...",
+      "incurred": 57873.28,
+      "paid": 18394.16,
+      "reserved": 39479.12,
+      "status": "Open"
+    },
+    {
+      "claim_number": "HMK-2025-043002",
+      "claimant": "Christopher Scott",
+      "coverage": "gl",
+      "date_of_loss": "2025-08-12",
+      "description": "A contractor working at the...",
+      "incurred": 16235.81,
+      "paid": 16235.81,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "NWI-2021-043705",
+      "claimant": "Matthew Nguyen",
+      "coverage": "gl",
+      "date_of_loss": "2021-08-24",
+      "description": "A delivery driver tripped over...",
+      "incurred": 16673.42,
+      "paid": 16673.42,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "TRV-2024-039474",
+      "claimant": "Daniel Kovalski",
+      "coverage": "auto",
+      "date_of_loss": "2024-11-23",
+      "description": null,
+      "incurred": 14338.97,
+      "paid": 14338.97,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "HMK-2025-040159",
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": "2025-11-18",
+      "description": null,
+      "incurred": 2616.15,
+      "paid": 1103.36,
+      "reserved": 1512.79,
+      "status": "Open"
+    },
+    {
+      "claim_number": "TRV-2024-043002",
+      "claimant": "Keystone Commercial Builders, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2024-12-24",
+      "description": null,
+      "incurred": 69864.17,
+      "paid": 20134.93,
+      "reserved": 49729.24,
+      "status": "Re-opened"
+    },
+    {
+      "claim_number": "TRV-2024-046889",
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": "2024-09-28",
+      "description": null,
+      "incurred": 2616.15,
+      "paid": 1034.52,
+      "reserved": 1581.63,
+      "status": "Open"
+    },
+    {
+      "claim_number": "BHG-2024-039790",
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": "2024-04-15",
+      "description": null,
+      "incurred": 2616.15,
+      "paid": 2616.15,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "AIG-2021-044980",
+      "claimant": "Keystone Commercial Builders, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2021-08-30",
+      "description": null,
+      "incurred": 2616.15,
+      "paid": 2616.15,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BHG-2023-039582",
+      "claimant": "Keystone Commercial Builders, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2023-08-22",
+      "description": null,
+      "incurred": 2616.15,
+      "paid": 2616.15,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BHG-2024-043761",
+      "claimant": "Keystone Commercial Builders, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2024-06-09",
+      "description": null,
+      "incurred": 2616.15,
+      "paid": 2616.15,
+      "reserved": 0,
+      "status": "Closed"
+    }
+  ],
+  "grand_totals": {
+    "claim_count": 52,
+    "incurred": 1489697.06,
+    "paid": 1315756.27,
+    "reserved": 173940.79
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group; Omaha National Insurance Company; Republic Indemnity Group",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "policy_numbers": {
+      "auto": "CA-KCB-2025-5582",
+      "gl": "GL-KCB-2025-5581",
+      "mtc": null,
+      "property": "CP-KCB-2025-5583",
+      "umbrella": null,
+      "wc": "WC-KCB-2025-5580"
+    },
+    "policy_period_end": null,
+    "policy_period_start": null,
+    "report_date": "2025-06-28"
+  },
+  "subtotals_by_coverage": {
+    "auto": {
+      "claim_count": 8,
+      "incurred": 99900.04,
+      "paid": 47076.38,
+      "reserved": 52823.66
+    },
+    "gl": {
+      "claim_count": 8,
+      "incurred": 176946.61,
+      "paid": 105420.7,
+      "reserved": 71525.91
+    },
+    "mtc": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "property": {
+      "claim_count": 1,
+      "incurred": 36750,
+      "paid": 36750,
+      "reserved": 0
+    },
+    "umbrella": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "wc": {
+      "claim_count": 35,
+      "incurred": 1176100.41,
+      "paid": 1126509.19,
+      "reserved": 49591.22
+    }
+  }
+}

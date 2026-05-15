@@ -1,0 +1,121 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": "2016/03",
+    "form_title": "Commercial General Liability Section"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2000",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-HCHP-2025-3331",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": null,
+    "producer_code": "74-6195832"
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": "7011",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "gl_class_codes": [
+    {
+      "class_code": "68561",
+      "description": "Hotels - NOC",
+      "premium_basis": "Receipts",
+      "exposure": 12000000,
+      "rate": 3.56,
+      "premium": 62400
+    },
+    {
+      "class_code": "96872",
+      "description": "Restaurants & Taverns - NOC",
+      "premium_basis": "Sales",
+      "exposure": 3500000,
+      "rate": 12,
+      "premium": 42000
+    }
+  ],
+  "gl_limits": {
+    "each_occurrence": 1000000,
+    "general_aggregate": 2000000,
+    "products_completed_ops": 1000000,
+    "personal_advertising": 1000000,
+    "damage_rented_premises": 500000,
+    "medical_expense": 5000
+  },
+  "gl_premium": {
+    "base_premium": 104900,
+    "tria_surcharge": 3525,
+    "total_premium": 108425,
+    "deductible": 5000,
+    "form_type": "Occurrence"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Employee Benefits Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Pollution Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Hired & Non-Owned Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employee Practices Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Any work performed on or near bodies of water",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant have any work performed by subcontractors",
+      "value": "No"
+    },
+    {
+      "field": "Is there any underground storage of hazardous substances",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant perform any demolition work",
+      "value": "No"
+    },
+    {
+      "field": "Are products manufactured, sold, or distributed",
+      "value": "No"
+    },
+    {
+      "field": "Are there any completed operations exposures",
+      "value": "No"
+    },
+    {
+      "field": "Are any operations conducted outside the United States",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant have operations involving hazardous materials",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

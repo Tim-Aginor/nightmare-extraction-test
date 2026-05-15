@@ -1,0 +1,147 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": null,
+    "form_title": "Certificate of Liability Insurance"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists / David Reinhardt",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "policy_number": "GLFS 2025 8821",
+      "effective_date": "2025-08-01",
+      "expiration_date": "2026-08-01",
+      "insurer": "Insurer B - Standard Insurance Company",
+      "claims_made": false,
+      "occur": true,
+      "limits": {
+        "each_occurrence": 2000000,
+        "damage_to_rented_premises": 500000,
+        "med_exp_any_one_person": 5000,
+        "personal_and_advertising_injury": 2000000,
+        "general_aggregate": 4000000,
+        "products_completed_ops_aggregate": 4000000
+      },
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "policy_number": "CAGLFS202598821",
+      "effective_date": "2025-08-01",
+      "expiration_date": "2026-08-01",
+      "insurer": "Insurer C - Standard Insurance Company",
+      "any_auto": true,
+      "owned_autos_only": false,
+      "scheduled_autos": false,
+      "hired_autos_only": false,
+      "non_owned_autos": false,
+      "limits": {
+        "combined_single_limit": 5000000
+      },
+      "limit": 5000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella Liability",
+      "policy_number": "SIC CU0225454",
+      "effective_date": "2025-08-01",
+      "expiration_date": "2026-08-01",
+      "insurer": "Insurer D - Standard Insurance Company",
+      "occur": true,
+      "claims_made": false,
+      "limits": {
+        "each_occurrence": 10000000,
+        "aggregate": null
+      },
+      "limit": 10000000,
+      "deductible": null,
+      "retention": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers Liability",
+      "policy_number": "WC GLFS 2025 8830",
+      "effective_date": "2025-08-01",
+      "expiration_date": "2026-08-01",
+      "insurer": "Insurer A - Ohio Bureau of Workers Compensation",
+      "any_proprietor_partner_executive_officer_member_excluded": false,
+      "limits": {
+        "el_each_accident": null,
+        "el_disease_ea_employee": null,
+        "el_disease_policy_limit": null
+      },
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "commercial_general_liability_claims_made": "unchecked",
+    "commercial_general_liability_occur": "checked",
+    "auto_liability_any_auto": "checked",
+    "auto_liability_owned_autos_only": "unchecked",
+    "auto_liability_scheduled_autos": "unchecked",
+    "auto_liability_hired_autos_only": "unchecked",
+    "auto_liability_non_owned_autos": "unchecked",
+    "umbrella_liab_occur": "checked",
+    "umbrella_liab_claims_made": "unchecked",
+    "workers_comp_any_proprietor_excluded": "unchecked",
+    "subrogation_waived_cgl": "Yes",
+    "subrogation_waived_auto": "Yes",
+    "subrogation_waived_umbrella": "Yes",
+    "subrogation_waived_workers_comp": "Yes"
+  },
+  "additional_fields": {
+    "producer_phone": "(614) 555-0493",
+    "producer_fax": "(614) 267-6839",
+    "producer_email": "dreinhardt@tisgroup.com",
+    "producer_address": "40 South High Street, Suite 2800, Columbus, OH 43215",
+    "contact_name": "David Reinhardt",
+    "contact_phone": "(614) 555-0493",
+    "contact_fax": "(614) 267-6839",
+    "contact_email": "dreinhardt@tisgroup.com",
+    "insurer_a": "Ohio Bureau of Workers Compensation",
+    "insurer_b": "Standard Insurance Company",
+    "insurer_c": "Standard Insurance Company",
+    "insurer_d": "Standard Insurance Company",
+    "insurer_e": null,
+    "insurer_f": null,
+    "certificate_holder_name": "Quantum Realty Management Inc.",
+    "certificate_holder_address": "5050 Summit Avenue",
+    "certificate_holder_city": "Little Rock",
+    "certificate_holder_state": "AR",
+    "certificate_holder_zip": "72201",
+    "authorized_representative": "Margaret Sullivan Johnson",
+    "additional_insured": "Quantum Realty Management Inc.",
+    "cancellation_notice_days": 30,
+    "locations": [
+      "Corporate Headquarters & Main Terminal - 1200 Nationwide Boulevard, Columbus, OH 43215",
+      "Rickenbacker Air Hub - 2500 Norton Road, Columbus, OH 43217",
+      "Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131"
+    ]
+  },
+  "remarks": "RE: Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Locations: Corporate Headquarters & Main Terminal - 1200 Nationwide Boulevard, Columbus, OH 43215; Rickenbacker Air Hub - 2500 Norton Road, Columbus, OH 43217; Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131. Quantum Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

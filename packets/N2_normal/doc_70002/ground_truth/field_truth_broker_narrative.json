@@ -1,0 +1,60 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "producer_name": {
+      "value": "Midwest Property & Casualty Group"
+    },
+    "producer_contact": {
+      "value": "Karen Weissman"
+    },
+    "premium_property": {
+      "value": 424883.27,
+      "rendered_as": "$424,883.27"
+    },
+    "account_type": {
+      "value": "Transfer"
+    }
+  },
+  "doc_type": "broker_narrative",
+  "sections_rendered": [
+    "account_summary",
+    "coverage_overview",
+    "loss_history",
+    "risk_highlights",
+    "recommendation"
+  ],
+  "loss_summary": {
+    "total_claims": 2,
+    "total_paid": 202875.0,
+    "total_incurred": 238554.44,
+    "open_claims": 1,
+    "closed_claims": 1,
+    "per_coverage": [
+      {
+        "coverage": "property",
+        "claims": 2,
+        "paid": 202875.0,
+        "incurred": 238554.44,
+        "open": 1,
+        "closed": 1
+      }
+    ]
+  }
+}

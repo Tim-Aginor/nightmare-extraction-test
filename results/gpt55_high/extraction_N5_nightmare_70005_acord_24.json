@@ -1,0 +1,123 @@
+{
+  "checkboxes": [
+    {
+      "field": "Causes of Loss - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Causes of Loss - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "Building",
+      "value": "Yes"
+    },
+    {
+      "field": "Personal Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Business Income",
+      "value": "Yes"
+    },
+    {
+      "field": "Extra Expense",
+      "value": "No"
+    },
+    {
+      "field": "Rental Value",
+      "value": "No"
+    },
+    {
+      "field": "Blanket Building",
+      "value": "No"
+    },
+    {
+      "field": "Blanket Personal Property",
+      "value": "No"
+    },
+    {
+      "field": "Blanket Building & Personal Property",
+      "value": "No"
+    }
+  ],
+  "document_date": "2025-06-18",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "Sentinel Insurance Company",
+    "effective_date": null,
+    "expiration_date": null,
+    "insured_address": "1200 Nationwide Blvd",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": null,
+    "producer_code": "AG-441503",
+    "producer_name": "Transportation Insurance Specialists"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "Sentinel Insurance Company",
+      "naic": "21008"
+    },
+    {
+      "carrier": "Broadway Indemnity Company",
+      "naic": "21093"
+    },
+    {
+      "carrier": "Standard Casualty Company",
+      "naic": "25008"
+    },
+    {
+      "carrier": "Sentinel Assurance Company",
+      "naic": "27208"
+    },
+    {
+      "carrier": "Sentinel Surety Company",
+      "naic": "21156"
+    },
+    {
+      "carrier": "Sentinel Insurance Company",
+      "naic": "21158"
+    }
+  ],
+  "locations": [
+    {
+      "address": "1200 Nationwide Boulevard",
+      "bi_value": 87584000,
+      "building_value": 641150,
+      "city": "Columbus",
+      "construction": "Non-Combustible",
+      "contents_value": 221000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "OH",
+      "stories": null,
+      "tiv": 88446150,
+      "year_built": null,
+      "zip": "43215"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 10000,
+  "property_limits": {
+    "building": 641150,
+    "business_income": 87584000,
+    "contents": 221000
+  },
+  "remarks": "Certificate holder: Bourbon Realty Management Inc., 1116 Summit Avenue, Little Rock, AR 72201. Handwritten note near property limits: \"Need docs\"."
+}

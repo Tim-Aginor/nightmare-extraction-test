@@ -1,0 +1,68 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": null,
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "cpGLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "24281"
+  },
+  "document_date": "2025-03-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 10000000,
+      "contents_value": 5000000,
+      "bi_value": 9750000,
+      "tiv": 24750000
+    }
+  ],
+  "property_deductible": 50000,
+  "interests": [
+    {
+      "name": "Bank of America, N.A.",
+      "address": null,
+      "interest_type": "First Mortgagee",
+      "loan_number": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Basic",
+      "value": "No"
+    },
+    {
+      "field": "Broad",
+      "value": "No"
+    },
+    {
+      "field": "Special",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "Coverage provided on Special form. Property is fully sprinklered. Construction type: Non-Combustible."
+}

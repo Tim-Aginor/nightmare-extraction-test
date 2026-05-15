@@ -1,0 +1,22 @@
+{
+  "total_packets": 5,
+  "total_documents": 148,
+  "by_category": {
+    "acord_form": 67,
+    "narrative": 21,
+    "dec_page": 5,
+    "engineering_report": 4,
+    "financial_statement": 10,
+    "workbook": 12,
+    "loss_run": 15,
+    "sov": 10,
+    "driver_schedule": 4
+  },
+  "by_difficulty": {
+    "N1_easy": 25,
+    "N2_normal": 25,
+    "N3_hard": 30,
+    "N4_expert": 36,
+    "N5_nightmare": 32
+  }
+}

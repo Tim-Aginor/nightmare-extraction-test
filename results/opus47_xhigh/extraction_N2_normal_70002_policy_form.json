@@ -1,0 +1,117 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": null,
+    "prepared_by": "Maine Employers Mutual",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "current_limit": 146260000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Part of Commercial Property coverage with total premium of 424883.27"
+    },
+    {
+      "coverage_type": "Commercial Property - Contents",
+      "current_limit": 42495000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 62590000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Business Income and Extra Expense Coverage Form CP 15 08 attached"
+    },
+    {
+      "coverage_type": "Ordinance Or Law Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 - Coverage for Loss to Undamaged Portion of Building"
+    },
+    {
+      "coverage_type": "Utility Services - Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 - includes water supply, communication supply, and power supply services"
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 - Coinsurance Additional Condition suspended"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 - includes mechanical, electrical, or pressure equipment"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Agreed Value endorsement suspends coinsurance condition",
+      "Comprehensive coverage package with Equipment Breakdown, Utility Services, and Ordinance or Law endorsements",
+      "80% Coinsurance level"
+    ],
+    "concerns": [
+      "75000 deductible applies",
+      "Vacancy condition: coverage limitations apply after 60 consecutive days of vacancy",
+      "Pollutant Clean Up limited to 10000 per premises per 12-month period"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

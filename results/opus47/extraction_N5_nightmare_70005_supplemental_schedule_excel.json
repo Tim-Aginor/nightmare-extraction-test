@@ -1,0 +1,110 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Blvd.",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Freight/Trucking - Warehousing and Distribution",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy BWC-7853-4607"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy GL-0007119"
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy CA-4481-4597"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy CP-9793-9090"
+    },
+    {
+      "coverage_type": "Commercial Umbrella",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy CU00005026"
+    },
+    {
+      "coverage_type": "Motor Truck Cargo",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2088513.96,
+      "notes": "Policy MT-0006135; total 2024 program premium"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations in the past 5 years",
+      "Stable insurance program with consistent annual premiums (~$2M)",
+      "Diversified warehouse portfolio across OH and PA"
+    ],
+    "concerns": [
+      "Claim frequency trending upward in recent years (4 in 2020, 7 in 2021, 12 in 2022, 13 in 2023, 10 in 2024)",
+      "Multiple carrier changes over the 5-year history",
+      "Loss ratio not disclosed in prior insurance history"
+    ],
+    "loss_history_summary": "5-year claim count: 2020 (4), 2021 (7), 2022 (12), 2023 (13), 2024 (10). No cancellations. Loss ratios not provided."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Operations include 7 warehouse locations (Columbus OH x2, Independence OH, Toledo OH, Canonsburg PA, Philadelphia PA, Harrisburg PA), 1 service/repair facility (Columbus OH), and 1 office (Columbus OH). Mix of owned and leased properties totaling approximately 735,000 square feet.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

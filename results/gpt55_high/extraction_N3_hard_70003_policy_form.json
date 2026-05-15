@@ -1,0 +1,68 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": "7011",
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "current_carrier": "Hallmark Insurance Group",
+      "current_limit": "Each Occurrence: 1000000; General Aggregate: 2000000; Products Completed Ops: 2000000; Personal Advertising: 500000; Damage Rented Premises: 50000; Medical Expense: 10000; Deductible: 5000",
+      "expiring_premium": 108425.47,
+      "notes": "Policy number GL-HCHP-2025-3351. Coverage form GL 00 01 04 13. Endorsements include Additional Insured \u2014 Owners, Lessees Or Contractors \u2014 Scheduled Person Or Organization; Waiver Of Transfer Of Rights Of Recovery Against Others To Us; Designated Construction Project(s) General Aggregate Limit; Additional Insured \u2014 Owners, Lessees Or Contractors \u2014 Completed Operations; Exclusion \u2014 Designated Operations/Premises.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Commercial General Liability Coverage Form / Common Policy Declarations",
+    "prepared_by": "Hallmark Insurance Group",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "SIC Code: 7011 | Description: Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "name": "Hill Country Hospitality Partners, LLC",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Endorsement schedule includes Exclusion \u2014 Designated Operations/Premises (CG 21 44 07 98).",
+      "Operations include integrated restaurant and event operations in addition to boutique hotel ownership and management."
+    ],
+    "loss_history_summary": null,
+    "positives": [
+      "Commercial General Liability coverage in force for the 2025-05-01 to 2026-05-01 policy period.",
+      "Policy includes Additional Insured endorsements and Waiver Of Transfer Of Rights Of Recovery Against Others To Us.",
+      "Business description indicates operations are across Central and South Texas."
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "form_info": {
+    "form_number": "ACORD 36",
+    "form_edition": "2014/01",
+    "form_title": "EVIDENCE OF COMMERCIAL PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group / Patricia Nowak",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Special",
+      "limit": 39405000,
+      "deductible": 27000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "naic_code": "28339",
+    "loan_number": "LN-609402",
+    "carrier_on_loan": "Hallmark Insurance Group",
+    "policy_type": "Special",
+    "coinsurance": "90.0%",
+    "producer_address": "One PPG Place, Suite 3100, Pittsburgh, PA 15222",
+    "producer_phone": "(412) 555-0287",
+    "producer_fax": "(412) 580-2110",
+    "producer_email": "pnowak@steelcityins.com",
+    "mortgagee_name": "KeyBank National Association",
+    "mortgagee_role": "First Mortgagee",
+    "mortgagee_address": "540 School Street",
+    "mortgagee_city_state_zip": "Pittsburgh, PA 30078",
+    "authorized_representative": "Joseph Kowalczyk",
+    "signature_date": "2026-03-15",
+    "locations": [
+      {
+        "loc_number": "LOC-001",
+        "address": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222",
+        "building_value": null,
+        "contents_value": 1260000,
+        "business_income_value": 2340000,
+        "total_insured_value": 3600000,
+        "construction": "Fire Resistive",
+        "occupancy": "Office",
+        "year_built": 1990,
+        "stories": 4,
+        "sq_ft": 18000,
+        "protection_class": 1,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-002",
+        "address": "4500 Butler Street, Pittsburgh, PA 15201",
+        "building_value": 9300000,
+        "contents_value": 4650000,
+        "business_income_value": 3600000,
+        "total_insured_value": 17550000,
+        "construction": "Non-Combustible",
+        "occupancy": "Warehouse",
+        "year_built": 1985,
+        "stories": 1,
+        "sq_ft": 62000,
+        "protection_class": 3,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-003",
+        "address": "4526 Butler Street, Pittsburgh, PA 15201",
+        "building_value": 2340000,
+        "contents_value": 3840000,
+        "business_income_value": 1820000,
+        "total_insured_value": 8000000,
+        "construction": "Masonry Non-Combustible",
+        "occupancy": "Manufacturing",
+        "year_built": 1990,
+        "stories": 4,
+        "sq_ft": 37000,
+        "protection_class": 1,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-004",
+        "address": "3000 Village Run Road, Wexford, PA 15090",
+        "building_value": 1750000,
+        "contents_value": 425000,
+        "business_income_value": 800000,
+        "total_insured_value": 2975000,
+        "construction": "Masonry Non-Combustible",
+        "occupancy": "Office",
+        "year_built": 2010,
+        "stories": 2,
+        "sq_ft": 8500,
+        "protection_class": 4,
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-005",
+        "address": "180 Death Road, Cranberry Township, PA 16066",
+        "building_value": 1080000,
+        "contents_value": 2480000,
+        "business_income_value": 1720000,
+        "total_insured_value": 7280000,
+        "construction": "Non-Combustible",
+        "occupancy": "Warehouse",
+        "year_built": 1990,
+        "stories": 4,
+        "sq_ft": 38000,
+        "protection_class": 1,
+        "sprinklered": "No"
+      }
+    ],
+    "totals": {
+      "total_building_value": 10820000,
+      "total_contents_value": 10455000,
+      "total_business_income_value": 10130000,
+      "total_insured_value": 39405000
+    }
+  },
+  "remarks": "This evidence of property insurance is issued as a matter of information only and confers no rights upon the additional interest named above. This evidence does not amend, extend, or alter the coverage afforded by the policy referenced herein. Should any of the above described policies be cancelled before the expiration date thereof, the issuing company will endeavor to mail 30 days written notice to the certificate holder named herein, but failure to mail such notice shall impose no obligation or liability of any kind upon the company, its agents or representatives."
+}

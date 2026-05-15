@@ -1,0 +1,91 @@
+{
+  "checkboxes": [
+    {
+      "field": "Basic causes of loss",
+      "value": "No"
+    },
+    {
+      "field": "Broad causes of loss",
+      "value": "No"
+    },
+    {
+      "field": "Special causes of loss",
+      "value": "Yes"
+    }
+  ],
+  "document_date": "2025-06-18",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 24",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "Stardust Insurance Company",
+    "effective_date": "2025-06-18",
+    "expiration_date": "2026-06-18",
+    "insured_address": "1200 Nationwide Blvd",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": "PROP-70005",
+    "producer_code": "AG-481018",
+    "producer_name": "Quantum Insurance Specialists"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "Stardust Insurance Company",
+      "naic": "27008"
+    },
+    {
+      "carrier": "Stardust Indemnity Company",
+      "naic": "21093"
+    },
+    {
+      "carrier": "Stardust Casualty Company",
+      "naic": "25045"
+    },
+    {
+      "carrier": "Stardust Assurance Company",
+      "naic": "27206"
+    },
+    {
+      "carrier": "Stardust Surety Company",
+      "naic": "27152"
+    },
+    {
+      "carrier": "Stardust Insurance Company",
+      "naic": "21158"
+    }
+  ],
+  "locations": [
+    {
+      "address": "1200 Nationwide Boulevard",
+      "bi_value": 87984000,
+      "building_value": 84150000,
+      "city": "Columbus",
+      "construction": "Non-Combustible",
+      "contents_value": 27500000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Warehouse",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "OH",
+      "stories": null,
+      "tiv": 199634000,
+      "year_built": null,
+      "zip": "43215"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 50000,
+  "property_limits": {
+    "building": 84150000,
+    "business_income": 87984000,
+    "contents": 27500000
+  },
+  "remarks": "Certificate holder: Quantum Realty Management Inc., 2100 Summit Avenue, Little Rock, AR 72201. Handwritten note near limits reads \"Need docs\"."
+}

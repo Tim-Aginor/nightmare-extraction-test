@@ -1,0 +1,78 @@
+{
+  "report_info": {
+    "report_type": "sprinkler_inspection",
+    "report_date": "2026-03-15",
+    "inspector_name": "D. Wilson, ARM",
+    "inspector_company": "Apex Managing General Agency",
+    "risk_grade": "Below Average",
+    "grading_scale": "Travelers Risk Assessment"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "8117 Preston Road",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75225"
+  },
+  "carrier_info": {
+    "carrier_name": null,
+    "policy_number": "CP-LSPH-2025-7801",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Lone Star Property Holdings, LP",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "construction": null,
+      "occupancy": "SIC 6512",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": null,
+      "condition_rating": "Fair",
+      "findings": [
+        "Dry Pipe sprinkler system, 20 years old, manufactured by Reliable, NFPA 13 Compliant",
+        "6 control valves inspected \u2014 all found in open position",
+        "Tamper switches: Not all connected",
+        "Water flow alarm: Tested \u2014 operational",
+        "Supervisory signal: Tested \u2014 operational",
+        "Sprinkler heads visual condition: Fair \u2014 minor corrosion observed",
+        "Spare heads in cabinet: Yes \u2014 adequate supply",
+        "Static Pressure: 42 psi",
+        "Residual Pressure: 49 psi",
+        "Flow: 1029 GPM",
+        "Water supply: Adequate",
+        "Overall System Status: PASS"
+      ],
+      "deficiencies": [
+        "[Priority] Combustible storage within 18 inches of sprinkler deflectors",
+        "[Code] Exposed wiring and missing junction box covers in main electrical room"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "High",
+      "category": "Fire Protection",
+      "description": "Combustible storage within 18 inches of sprinkler deflectors must be relocated to maintain required clearance",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "Medium",
+      "category": "Electrical",
+      "description": "Exposed wiring and missing junction box covers in main electrical room must be remediated to meet code requirements",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Inspection conducted on 01/14/2026 at 8117 Preston Road, Dallas, TX. The 20-year-old dry pipe sprinkler system received an overall system status of PASS; however, the property was graded Below Average on the Travelers Risk Assessment scale. Key concerns include tamper switches not fully connected on control valves, minor corrosion on sprinkler heads, combustible storage encroaching within 18 inches of sprinkler deflectors, and exposed wiring with missing junction box covers in the main electrical room.",
+    "risk_level": "Below Average",
+    "insurability": "Conditional"
+  }
+}

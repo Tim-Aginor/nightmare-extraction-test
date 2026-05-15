@@ -1,0 +1,101 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Prior Insurance",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Markel Corporation",
+      "expiring_premium": 619820.26,
+      "notes": "2023 prior insurance history; policy numbers: 7WC0009522, 0000002291, CP-1970-9645; claims: 3; cancellation: No"
+    },
+    {
+      "coverage_type": "Prior Insurance",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 607294.45,
+      "notes": "2022 prior insurance history; policy numbers: 0000004808, GL-0002700, 7CP0001066; claims: 6; cancellation: Yes"
+    },
+    {
+      "coverage_type": "Prior Insurance",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Chubb Limited",
+      "expiring_premium": 630843.2,
+      "notes": "2021 prior insurance history; policy numbers: 0000008163, GL-8167-3439, CP-0009781; claims: 9; cancellation: No"
+    },
+    {
+      "coverage_type": "Prior Insurance",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "EMPLOYERS Insurance Group",
+      "expiring_premium": 580805.53,
+      "notes": "2020 prior insurance history; policy numbers: WC008082-001, GL-4906-7512, CP00007431; claims: 2; cancellation: No"
+    },
+    {
+      "coverage_type": "Prior Insurance",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "2024 prior insurance history; policy numbers: WC-8098-9663, 0000005824, CP003220-001; claims: 11; cancellation: No"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellation in 2024",
+      "No cancellation in 2023",
+      "No cancellation in 2021",
+      "No cancellation in 2020"
+    ],
+    "concerns": [
+      "Cancellation reported in 2022",
+      "Elevated claim count in 2024 (11 claims)",
+      "Elevated claim count in 2021 (9 claims)",
+      "Multiple claims reported across all listed years"
+    ],
+    "loss_history_summary": "Prior insurance history shows claims of 11 in 2024, 3 in 2023, 6 in 2022, 9 in 2021, and 2 in 2020. Cancellation was reported only in 2022; all other listed years show no cancellation. Premiums listed were 619820.26 (2023), 607294.45 (2022), 630843.2 (2021), and 580805.53 (2020); 2024 premium was not provided."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "PRIOR INSURANCE HISTORY\nYear\tCarrier\tPolicy Number\tPremium\tClaims\tLoss Ratio\tCancellation\n2024\t\tWC-8098-9663, 0000005824, CP003220-001\t\t11\t\tNo\n2023\tMarkel Corporation\t7WC0009522, 0000002291, CP-1970-9645\t619820.26\t3\t\tNo\n2022\tZurich Insurance Group\t0000004808, GL-0002700, 7CP0001066\t607294.45\t6\t\tYes\n2021\tChubb Limited\t0000008163, GL-8167-3439, CP-0009781\t630843.2\t9\t\tNo\n2020\tEMPLOYERS Insurance Group\tWC008082-001, GL-4906-7512, CP00007431\t580805.53\t2\t\tNo",
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "Claims by year from prior insurance history: 2024 - 11 claims; 2023 - 3 claims; 2022 - 6 claims; 2021 - 9 claims; 2020 - 2 claims. Cancellation indicated Yes for 2022 and No for all other listed years."
+  }
+}

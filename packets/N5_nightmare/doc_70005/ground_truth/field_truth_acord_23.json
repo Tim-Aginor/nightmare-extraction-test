@@ -1,0 +1,341 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc."
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Boulevard"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "policy_number_auto": {
+      "value": "CAGLFS20258822"
+    },
+    "auto_limit_combined_single_limit": {
+      "value": 5000000.0,
+      "rendered_as": "$5,000,000.00"
+    },
+    "auto_limit_uninsured_motorist": {
+      "value": 500000.0,
+      "rendered_as": "$500,000.00"
+    },
+    "auto_limit_medical_payments": {
+      "value": 10000.0,
+      "rendered_as": "$10,000.00"
+    },
+    "auto_deductible": {
+      "value": 5000,
+      "rendered_as": "$5,000.00"
+    },
+    "vehicle_count": {
+      "value": 37
+    }
+  },
+  "doc_type": "acord_23",
+  "vehicles": [
+    {
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": "1FVS4N1K5RGPW7JTN",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": "1FUDVZ930PCMMA0LV",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": "1XKKNUPR9PHM5J2NN",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Kenworth",
+      "model": "T680",
+      "vin": "1XKLCRA94RTU0BN7F",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2022,
+      "make": "Peterbilt",
+      "model": "579",
+      "vin": "1XPXFMKWXNR7W8BZY",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Peterbilt",
+      "model": "579",
+      "vin": "2XPXJNHR6PMN6H7Z3",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2021,
+      "make": "Freightliner",
+      "model": "Cascadia",
+      "vin": "1FU8XED43M71YRRZ8",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Volvo",
+      "model": "VNL 860",
+      "vin": "YV14NFBP1RFV2PRL7",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2022,
+      "make": "International",
+      "model": "LT",
+      "vin": "1HTJ10Z70NH04FY6B",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Mack",
+      "model": "Anthem",
+      "vin": "1M18LK171P28ZTML9",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "Cascadia Day Cab",
+      "vin": "1FVCH64J9RS7SHCCW",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Kenworth",
+      "model": "T680 Day Cab",
+      "vin": "5PKYH81C6P2YNTG27",
+      "vehicle_class": "Extra Heavy Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Freightliner",
+      "model": "M2 112",
+      "vin": "1FU5771Z8R3BP3ZM3",
+      "vehicle_class": "Heavy Truck"
+    },
+    {
+      "year": 2023,
+      "make": "International",
+      "model": "MV607",
+      "vin": "1HTD435M5PS62B8VF",
+      "vehicle_class": "Heavy Truck"
+    },
+    {
+      "year": 2022,
+      "make": "Hino",
+      "model": "338",
+      "vin": "5PVG93Y9XN5L1Y95M",
+      "vehicle_class": "Heavy Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Isuzu",
+      "model": "NPR-HD",
+      "vin": "4NBKYAJY1RLNPG26P",
+      "vehicle_class": "Medium Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": "3FAZY0ED7PM8HJH3G",
+      "vehicle_class": "Medium Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "Transit 350",
+      "vin": "1FT04DPR6RVZ8E451",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Ram",
+      "model": "ProMaster 2500",
+      "vin": "3C6DNS3F5PCAY3LC4",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": "1FTBCYYV8R979632U",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "vin": "1GCPHDGJ7PHR5WPT2",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "1FTFACP48RFVK2FEP",
+      "vehicle_class": "Light Truck"
+    },
+    {
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Camry",
+      "vin": "1T00LE410PHTC7EFT",
+      "vehicle_class": "Private Passenger"
+    },
+    {
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "vin": "1GN11NDT8RJXMNFA4",
+      "vehicle_class": "Private Passenger"
+    },
+    {
+      "year": 2024,
+      "make": "Great Dane",
+      "model": "Champion SE",
+      "vin": "5DYP2E5G2RANB2ZZ6",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2023,
+      "make": "Great Dane",
+      "model": "Champion SE",
+      "vin": "5DYYY2544PXS2G25U",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2023,
+      "make": "Wabash",
+      "model": "DuraPlate HD",
+      "vin": "5VHNP5PN9PPS6TL1T",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2024,
+      "make": "Wabash",
+      "model": "DuraPlate HD",
+      "vin": "1JJPMRBN8R7R1CR8G",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2022,
+      "make": "Utility",
+      "model": "4000D-X Composite",
+      "vin": "5VLVC6ZT1N68DUG0A",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2023,
+      "make": "Utility",
+      "model": "4000D-X Composite",
+      "vin": "1UYU7DUX3P0WF21XF",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2015,
+      "make": "Hyundai Translead",
+      "model": "Dry Van",
+      "vin": "3H3LEPH34FD7MWPPL",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2022,
+      "make": "Hyundai Translead",
+      "model": "Dry Van",
+      "vin": "5TULXRPT3NSTFND18",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2024,
+      "make": "Fontaine",
+      "model": "Revolution 51",
+      "vin": "4LFD18RR7R9R6JSSM",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2023,
+      "make": "Fontaine",
+      "model": "Infinity 48",
+      "vin": "13NCE49D0P7644DAM",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2017,
+      "make": "Fontaine",
+      "model": "Genesis",
+      "vin": "4LF72T447HVHUPLAH",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2024,
+      "make": "Great Dane",
+      "model": "Everest TL",
+      "vin": "1GRK0MHCXR6BYB582",
+      "vehicle_class": "Trailer"
+    },
+    {
+      "year": 2023,
+      "make": "Utility",
+      "model": "3000R",
+      "vin": "1UYM15RS7PCYWR3X9",
+      "vehicle_class": "Trailer"
+    }
+  ],
+  "insurer_panel": [
+    {
+      "letter": "A",
+      "name": "Standard Company Insurance Company",
+      "naic": "21008"
+    },
+    {
+      "letter": "B",
+      "name": "Standard Company Indemnity Company",
+      "naic": "21093"
+    },
+    {
+      "letter": "C",
+      "name": "Standard Company Casualty Company",
+      "naic": "21088"
+    },
+    {
+      "letter": "D",
+      "name": "Standard Company Assurance Company",
+      "naic": "21206"
+    },
+    {
+      "letter": "E",
+      "name": "Standard Company Surety Company",
+      "naic": "21152"
+    }
+  ]
+}

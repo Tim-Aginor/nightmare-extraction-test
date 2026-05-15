@@ -1,0 +1,327 @@
+{
+  "form_info": {
+    "form_number": "ACORD 160",
+    "form_edition": "2016/03",
+    "form_title": "BUSINESSOWNERS APPLICATION"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "cpGLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": "484110",
+    "years_in_business": 38,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "entity_type": "Corporation"
+  },
+  "locations": [
+    {
+      "location_number": "1",
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 125000,
+      "sprinklered": true,
+      "roof_type": "Concrete",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 54110000,
+      "contents_value": 5000000,
+      "bi_value": 9750000,
+      "tiv": 68860000
+    },
+    {
+      "location_number": "2",
+      "address": "2500 Norton Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2012,
+      "stories": 1,
+      "square_feet": 185000,
+      "sprinklered": true,
+      "roof_type": "Concrete",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 14800000,
+      "contents_value": 7400000,
+      "bi_value": 14430000,
+      "tiv": 36630000
+    },
+    {
+      "location_number": "3",
+      "address": "6800 Rockside Woods Boulevard",
+      "city": "Independence",
+      "state": "OH",
+      "zip": "44131",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 95000,
+      "sprinklered": true,
+      "roof_type": "Concrete",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 6650000,
+      "contents_value": 3800000,
+      "bi_value": 7410000,
+      "tiv": 17860000
+    },
+    {
+      "location_number": "4",
+      "address": "500 Technology Drive",
+      "city": "Canonsburg",
+      "state": "PA",
+      "zip": "15317",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 78000,
+      "sprinklered": true,
+      "roof_type": "TPO",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 4680000,
+      "contents_value": 3120000,
+      "bi_value": 6084000,
+      "tiv": 13884000
+    },
+    {
+      "location_number": "5",
+      "address": "2200 State Road",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19136",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2001,
+      "stories": 1,
+      "square_feet": 68000,
+      "sprinklered": true,
+      "roof_type": "Single-Ply Membrane",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 4760000,
+      "contents_value": 2720000,
+      "bi_value": 5304000,
+      "tiv": 12784000
+    },
+    {
+      "location_number": "6",
+      "address": "4100 Industrial Road",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip": "17111",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2015,
+      "stories": 1,
+      "square_feet": 92000,
+      "sprinklered": true,
+      "roof_type": "Modified Bitumen",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 5520000,
+      "contents_value": 3680000,
+      "bi_value": 7176000,
+      "tiv": 16376000
+    },
+    {
+      "location_number": "7",
+      "address": "845 Airborne Road",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43609",
+      "construction": "Joisted Masonry",
+      "occupancy": "Warehouse",
+      "year_built": 1995,
+      "stories": 1,
+      "square_feet": 52000,
+      "sprinklered": true,
+      "roof_type": "TPO",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 3120000,
+      "contents_value": 2080000,
+      "bi_value": 4056000,
+      "tiv": 9256000
+    },
+    {
+      "location_number": "8",
+      "address": "1250 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Service/Repair",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 28000,
+      "sprinklered": true,
+      "roof_type": "TPO",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 840000,
+      "contents_value": 1680000,
+      "bi_value": 2184000,
+      "tiv": 4704000
+    },
+    {
+      "location_number": "9",
+      "address": "87 South High Street, Suite 1500",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": 12000,
+      "sprinklered": true,
+      "roof_type": "Modified Bitumen",
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 0,
+      "contents_value": 840000,
+      "bi_value": 1560000,
+      "tiv": 2400000
+    }
+  ],
+  "additional_coverages": [
+    {
+      "coverage_type": "Earthquake",
+      "limit": 100000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Additional Insured",
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income \u2014 Extended Period",
+      "limit": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Cyber Liability",
+      "limit": 100000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Ordinance or Law \u2014 Coverage C",
+      "limit": 250000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Utility Services \u2014 Time Element",
+      "limit": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Identity Recovery",
+      "limit": 2500,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Premises Rented to You",
+      "limit": 300000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employee Dishonesty",
+      "limit": 25000,
+      "premium": null
+    }
+  ],
+  "interests": [
+    {
+      "name": "KeyBank National Association",
+      "loan_number": "L-480690360",
+      "interest_type": "ISAOA/ATIMA"
+    },
+    {
+      "name": "Regions Bank",
+      "loan_number": "L-327014265",
+      "interest_type": "As Their Interest May Appear"
+    }
+  ],
+  "property_premium": 235710.77,
+  "property_deductible": 50000,
+  "total_tiv": 142384000,
+  "checkboxes": [
+    {
+      "field": "Is the building located within a flood zone?",
+      "value": "No"
+    },
+    {
+      "field": "Is the applicant the sole occupant of the building?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any alterations or construction in progress?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any underground storage tanks on premises?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are there any cooking operations on premises?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant store flammable liquids on premises?",
+      "value": "Yes"
+    },
+    {
+      "field": "Is the applicant the building owner or tenant?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does the applicant have a burglar alarm system?",
+      "value": "No"
+    },
+    {
+      "field": "Are there any tenant improvements or betterments?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant sell or distribute products manufactured by others?",
+      "value": "Yes"
+    },
+    {
+      "field": "Is the applicant responsible for building maintenance?",
+      "value": "Yes"
+    },
+    {
+      "field": "Does the building have a backup generator?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are commercial cooking operations (deep fat fryers, char broilers, woks, or commercial kitchen hoods) used on premises?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

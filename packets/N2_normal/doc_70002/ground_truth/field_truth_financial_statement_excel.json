@@ -1,0 +1,198 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "bs_cash": {
+      "value": 8122200.0,
+      "rendered_as": "$8,122,200.00"
+    },
+    "bs_accounts_receivable": {
+      "value": 8575100.0,
+      "rendered_as": "$8,575,100.00"
+    },
+    "bs_total_assets": {
+      "value": 112361100.0,
+      "rendered_as": "$112,361,100.00"
+    },
+    "bs_total_liabilities": {
+      "value": 33678700.0,
+      "rendered_as": "$33,678,700.00"
+    },
+    "bs_equity": {
+      "value": 78682400.0,
+      "rendered_as": "$78,682,400.00"
+    },
+    "is_revenue": {
+      "value": 48000000,
+      "rendered_as": "$48,000,000.00"
+    },
+    "is_net_income": {
+      "value": 7200000.0,
+      "rendered_as": "$7,200,000.00"
+    }
+  },
+  "doc_type": "financial_statement_excel",
+  "excel_metadata": {
+    "tab_name": "Financial Statements",
+    "statement_type": "balance_sheet_and_income_statement",
+    "balance_sheet": {
+      "total_assets": 112361100.0,
+      "total_liabilities": 33678700.0,
+      "equity": 78682400.0
+    },
+    "income_statement": {
+      "revenue": 48000000,
+      "net_income": 7200000.0,
+      "gross_profit": 28285000.0
+    },
+    "ratios": {
+      "current_ratio": 0.8473404154952167,
+      "debt_to_equity": 0.4280334611043893,
+      "profit_margin": 0.15,
+      "return_on_assets": 0.06407911634898555
+    },
+    "audit_status": "reviewed",
+    "fiscal_year_end": 9,
+    "account_hierarchy": {
+      "ASSETS": {
+        "Current Assets": [
+          "Cash & Equivalents",
+          "Accounts Receivable",
+          "Properties Held for Sale",
+          "Prepaid Expenses"
+        ],
+        "Non-Current Assets": [
+          "Property, Plant & Equipment (net)",
+          "Other Assets"
+        ]
+      },
+      "LIABILITIES": [
+        "Accounts Payable",
+        "Accrued Expenses",
+        "Current Portion of Long-Term Debt",
+        "Long-Term Debt",
+        "Other Liabilities"
+      ],
+      "EQUITY": [
+        "Equity"
+      ],
+      "INCOME_STATEMENT": [
+        "Revenue",
+        "Cost of Operations",
+        "Gross Profit",
+        "Operating Expenses",
+        "Depreciation & Amortization",
+        "EBIT",
+        "Interest Expense",
+        "Earnings Before Tax",
+        "Tax Provision",
+        "Net Income"
+      ]
+    },
+    "period_columns": {
+      "2": "FY2026 (ending 9/30)",
+      "3": "Budget FY2026",
+      "5": "FY2025 (ending 9/30)"
+    },
+    "villification": {
+      "multi_period": true,
+      "formula_cells": true,
+      "negative_parens": false,
+      "rounding_discrepancy": false,
+      "outline_grouping": false,
+      "draft_marker": false,
+      "hidden_cols": false,
+      "comments": false,
+      "sheet_protection": true,
+      "alternating_rows": false,
+      "spreading_tab": false
+    },
+    "formula_cell_map": [
+      {
+        "cell": "B18",
+        "formula": "=SUM(B12:B15)+B16+B17",
+        "purpose": "Total Assets"
+      },
+      {
+        "cell": "B26",
+        "formula": "=SUM(B21:B25)",
+        "purpose": "Total Liabilities"
+      },
+      {
+        "cell": "B35",
+        "formula": "=B33-B34",
+        "purpose": "Gross Profit"
+      },
+      {
+        "cell": "B42",
+        "formula": "=B40-B41",
+        "purpose": "Net Income"
+      }
+    ],
+    "merged_regions": [
+      {
+        "range": "A1:E1",
+        "value": "Buckeye Industrial Properties, LLC"
+      },
+      {
+        "range": "A2:E2",
+        "value": "FINANCIAL STATEMENTS"
+      },
+      {
+        "range": "B3:D3",
+        "value": "Buckeye Industrial Properties, LLC"
+      },
+      {
+        "range": "B4:D4",
+        "value": "250 Civic Center Drive, Suite 600, Columbus, OH, 43215"
+      },
+      {
+        "range": "B5:D5",
+        "value": "2026-02-23"
+      },
+      {
+        "range": "B6:D6",
+        "value": "Douglas Brennan"
+      },
+      {
+        "range": "A9:E9",
+        "value": "BALANCE SHEET"
+      },
+      {
+        "range": "A32:E32",
+        "value": "INCOME STATEMENT"
+      },
+      {
+        "range": "A45:E45",
+        "value": "KEY FINANCIAL RATIOS"
+      }
+    ],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {},
+    "post_processing": {
+      "background_image": {
+        "background_image": true,
+        "sheet_index": 0,
+        "image_size_bytes": 59834
+      }
+    }
+  },
+  "format": "xlsx"
+}

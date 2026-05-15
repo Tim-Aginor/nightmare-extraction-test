@@ -1,0 +1,369 @@
+{
+  "seed": 70001,
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "full_address": "2200 Ross Avenue, Suite 4500, Dallas, TX, 75201"
+  },
+  "carrier": "Apex Managing General Agency",
+  "is_monopolistic_wc": false,
+  "business_info": {
+    "entity_type": "Limited Partnership",
+    "fein": "75-4829163",
+    "sic_code": "6512",
+    "naics_code": "531120",
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "years_in_business": 24,
+    "years_current_mgmt": 18,
+    "annual_revenue": 67000000,
+    "num_employees_ft": 145,
+    "num_employees_pt": 28,
+    "contact_name": "Richard Thornton",
+    "contact_title": "Managing Partner",
+    "website": "www.lonestarpropertyhold.com"
+  },
+  "producer": {
+    "agency": "Texas Commercial Insurance Partners",
+    "contact": "Sandra Villareal",
+    "phone": "(214) 555-0918",
+    "email": "svillareal@txcip.com",
+    "address": "1700 Pacific Avenue, Suite 3200, Dallas, TX, 75201",
+    "license_number": "AG-7703921"
+  },
+  "policies": {
+    "property": {
+      "policy_number": "CP-LSPH-2025-7801",
+      "carrier": "Apex Managing General Agency",
+      "period_start": "2025-07-01",
+      "period_end": "2026-07-01",
+      "premium": 403697.14,
+      "form_type": "special",
+      "limits": {
+        "building": 222340000,
+        "contents": 33432000,
+        "business_income": 59212000,
+        "coinsurance": 90.0
+      },
+      "deductible": 50000,
+      "billing_plan": "Direct Bill \u2014 Quarterly"
+    }
+  },
+  "coverages": [
+    "property"
+  ],
+  "loss_summary": {
+    "total_claims": 3,
+    "coverages": [
+      "property"
+    ],
+    "total_paid": 259081.54,
+    "total_reserved": 44151.06,
+    "total_incurred": 303232.6,
+    "open_claims": 1,
+    "closed_claims": 2
+  },
+  "experience_mod": 1.0,
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Preston Center Tower",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75225",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2008,
+      "stories": 18,
+      "square_feet": 285000,
+      "sprinklered": true,
+      "protection_class": 4,
+      "building_value": 62700000,
+      "contents_value": 8550000,
+      "bi_value": 15200000,
+      "tiv": 86450000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Galleria Office Park - Building A",
+      "address": "5050 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77056",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2001,
+      "stories": 12,
+      "square_feet": 168000,
+      "sprinklered": true,
+      "protection_class": 2,
+      "building_value": 33600000,
+      "contents_value": 5040000,
+      "bi_value": 8400000,
+      "tiv": 47040000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Galleria Office Park - Building B",
+      "address": "5060 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77056",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2003,
+      "stories": 10,
+      "square_feet": 142000,
+      "sprinklered": true,
+      "protection_class": 1,
+      "building_value": 28400000,
+      "contents_value": 4260000,
+      "bi_value": 7100000,
+      "tiv": 39760000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "Legacy Town Center Retail",
+      "address": "7301 Lone Star Drive",
+      "city": "Plano",
+      "state": "TX",
+      "zip_code": "75024",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Mercantile",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 95000,
+      "sprinklered": true,
+      "protection_class": 2,
+      "building_value": 19000000,
+      "contents_value": 2850000,
+      "bi_value": 5700000,
+      "tiv": 27550000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "name": "Uptown Mixed-Use Development",
+      "address": "3200 McKinney Avenue",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75204",
+      "construction": "Fire Resistive",
+      "occupancy": "Mercantile",
+      "year_built": 2018,
+      "stories": 6,
+      "square_feet": 124000,
+      "sprinklered": true,
+      "protection_class": 5,
+      "building_value": 31000000,
+      "contents_value": 4650000,
+      "bi_value": 9300000,
+      "tiv": 44950000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "name": "Energy Corridor Business Center",
+      "address": "1400 Enclave Parkway",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77077",
+      "construction": "Non-Combustible",
+      "occupancy": "Office",
+      "year_built": 1995,
+      "stories": 8,
+      "square_feet": 112000,
+      "sprinklered": true,
+      "protection_class": 4,
+      "building_value": 19040000,
+      "contents_value": 2856000,
+      "bi_value": 5712000,
+      "tiv": 27608000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "name": "Fort Worth Medical Office Building",
+      "address": "800 8th Avenue",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip_code": "76104",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2015,
+      "stories": 5,
+      "square_feet": 78000,
+      "sprinklered": true,
+      "protection_class": 3,
+      "building_value": 17160000,
+      "contents_value": 3510000,
+      "bi_value": 4680000,
+      "tiv": 25350000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "name": "Southlake Town Square - East Wing",
+      "address": "1256 Main Street",
+      "city": "Southlake",
+      "state": "TX",
+      "zip_code": "76092",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Mercantile",
+      "year_built": 2006,
+      "stories": 3,
+      "square_feet": 52000,
+      "sprinklered": true,
+      "protection_class": 2,
+      "building_value": 11440000,
+      "contents_value": 1716000,
+      "bi_value": 3120000,
+      "tiv": 16276000
+    }
+  ],
+  "uw_answers": {
+    "mvr_checks_annual": false,
+    "cdl_required": false,
+    "products_distributed": false,
+    "safety_program": false,
+    "written_safety_manual": false,
+    "driver_training": false,
+    "fleet_gps_tracking": false,
+    "subcontractors_used": false,
+    "prior_claims_disputed": false,
+    "hazmat": false,
+    "flammable_liquids": false,
+    "building_owner": true,
+    "building_maintenance": true
+  },
+  "prior_carrier_history": [
+    {
+      "year": 2024,
+      "year_range": "2024-2025",
+      "premium": 414601.77,
+      "per_coverage_premiums": {
+        "property": 414601.77
+      },
+      "per_coverage_policy_numbers": {
+        "property": "CP-5690-6189"
+      },
+      "per_coverage_carriers": {
+        "property": "CNA Financial"
+      },
+      "claims": 1,
+      "mod_factor": 1.07,
+      "cancellation": "No"
+    },
+    {
+      "year": 2023,
+      "year_range": "2023-2024",
+      "premium": 423914.72,
+      "per_coverage_premiums": {
+        "property": 423914.72
+      },
+      "per_coverage_policy_numbers": {
+        "property": "7CP0006249"
+      },
+      "per_coverage_carriers": {
+        "property": "Zurich Insurance Group"
+      },
+      "claims": 0,
+      "mod_factor": 1.0,
+      "cancellation": "No"
+    },
+    {
+      "year": 2022,
+      "year_range": "2022-2023",
+      "premium": 447842.42,
+      "per_coverage_premiums": {
+        "property": 447842.42
+      },
+      "per_coverage_policy_numbers": {
+        "property": "CP006315-001"
+      },
+      "per_coverage_carriers": {
+        "property": "American International Group"
+      },
+      "claims": 1,
+      "mod_factor": 1.09,
+      "cancellation": "No"
+    },
+    {
+      "year": 2021,
+      "year_range": "2021-2022",
+      "premium": 470199.5,
+      "per_coverage_premiums": {
+        "property": 470199.5
+      },
+      "per_coverage_policy_numbers": {
+        "property": "0000006024"
+      },
+      "per_coverage_carriers": {
+        "property": "Auto-Owners Insurance"
+      },
+      "claims": 0,
+      "mod_factor": 1.0,
+      "cancellation": "No"
+    },
+    {
+      "year": 2020,
+      "year_range": "2020-2021",
+      "premium": 467047.27,
+      "per_coverage_premiums": {
+        "property": 467047.27
+      },
+      "per_coverage_policy_numbers": {
+        "property": "7CP0004214"
+      },
+      "per_coverage_carriers": {
+        "property": "Berkshire Hathaway Guard"
+      },
+      "claims": 1,
+      "mod_factor": 1.12,
+      "cancellation": "No"
+    }
+  ],
+  "certificate_holders": [
+    {
+      "name": "Summit Properties LLC",
+      "address": "1919 Adams Street",
+      "city": "Olathe",
+      "state": "KS",
+      "zip_code": "66061"
+    },
+    {
+      "name": "Summit Capital Group",
+      "address": "5290 Walnut Street, Ste. 159",
+      "city": "Santa Clarita",
+      "state": "CA",
+      "zip_code": "91350"
+    }
+  ],
+  "interest_holders": [
+    {
+      "name": "M&T Bank Corporation",
+      "address": "P.O. Box 40172",
+      "city_state_zip": "Philadelphia, PA 19101",
+      "type": "ISAOA/ATIMA",
+      "loan_number": "L-878545464"
+    },
+    {
+      "name": "Stearns Bank, N.A.",
+      "address": "P.O. Box 92568",
+      "city_state_zip": "El Paso, TX 79901",
+      "type": "Loss Payee",
+      "loan_number": "L-547393167"
+    }
+  ],
+  "endorsements": {
+    "property": [
+      "CP 00 10 10 12 \u2014 Building and Personal Property Coverage Form",
+      "CP 00 30 10 12 \u2014 Business Income (and Extra Expense) Coverage Form",
+      "CP 10 30 10 12 \u2014 Causes of Loss \u2014 Special Form",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+      "IL 00 17 11 98 \u2014 Common Policy Conditions",
+      "CP 01 40 07 06 \u2014 Ordinance or Law Coverage",
+      "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "CP 03 21 06 07 \u2014 Windstorm or Hail Percentage Deductible"
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "binder_date": "2026-05-14",
+  "binder_number": "BND-77875-1245",
+  "checkboxes": [
+    {
+      "field": "Property Coverage - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Property Coverage - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Property Coverage - Special",
+      "value": "Yes"
+    },
+    {
+      "field": "General Liability - Occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "General Liability - Claims-Made",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - Per Statute",
+      "value": "Yes"
+    }
+  ],
+  "coinsurance_property": 80,
+  "endorsements": [
+    {
+      "coverage": "Workers Compensation",
+      "form_number": "WC 00 00 00",
+      "title": "Workers Compensation and Employers Liability Insurance Policy"
+    },
+    {
+      "coverage": "Workers Compensation",
+      "form_number": "WC 00 04 42",
+      "title": "Employee Injury Exclusion Endorsement"
+    },
+    {
+      "coverage": "Workers Compensation",
+      "form_number": "WC 38 03 01",
+      "title": "Pennsylvania Cancellation Conditions Endorsement"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 00 01 04 13",
+      "title": "Commercial General Liability Coverage Form"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 24 26 04 13",
+      "title": "Amendment of Aggregate Limits of Insurance - Per Project"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 21 47 12 07",
+      "title": "Employment-Related Practices Exclusion"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors - Scheduled Person or Organization"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors - Completed Ops"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "IL 00 03 09 08",
+      "title": "Calculation of Premium"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 21 06 05 14",
+      "title": "Total Pollution Exclusion With a Hostile Fire Exception"
+    },
+    {
+      "coverage": "General Liability",
+      "form_number": "CG 25 03 05 09",
+      "title": "Designated Construction Projects General Aggregate Limit"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 00 01 10 13",
+      "title": "Business Auto Coverage Form"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 99 48 03 06",
+      "title": "Pollution Liability - Broadened Coverage for Covered Autos"
+    },
+    {
+      "coverage": "Business Auto",
+      "form_number": "CA 99 33 10 13",
+      "title": "Employees as Insureds"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 00 90 07 88",
+      "title": "Commercial Property Conditions"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "CP 04 40 10 12",
+      "title": "Ordinance or Law Coverage"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_number": "IL 09 35 07 02",
+      "title": "Exclusion of Certain Computer-Related Losses"
+    }
+  ],
+  "expiring_carriers": [
+    {
+      "carrier": "Nationwide Insurance",
+      "lob": "Workers Compensation",
+      "policy_number": "091833456"
+    },
+    {
+      "carrier": "Markel Corporation",
+      "lob": "General Liability",
+      "policy_number": "XGL888977"
+    },
+    {
+      "carrier": "Travelers Companies",
+      "lob": "Business Auto",
+      "policy_number": "CA777923-01"
+    },
+    {
+      "carrier": "Zurich Insurance Group",
+      "lob": "Commercial Property",
+      "policy_number": "CPO002138"
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 75",
+    "form_title": "INSURANCE BINDER"
+  },
+  "form_type_property": "Special",
+  "header": {
+    "carrier_name": "Millbrook Insurance Group",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Street City Insurance Group"
+  },
+  "limit_property_building": 10500000,
+  "limit_property_business_income": 10180000,
+  "limit_property_coinsurance": 80,
+  "limit_property_contents": 18455000,
+  "mortgagees": [
+    {
+      "address": "P.O. Box 20202, Fargo, ND 58102",
+      "loan_number": null,
+      "name": "First Third Bank"
+    },
+    {
+      "address": "P.O. Box 67323, Elk Grove, CA 95624",
+      "loan_number": null,
+      "name": "De Lage Landen Financial Services"
+    },
+    {
+      "address": "P.O. Box 79873, Spokane, WA 99201",
+      "loan_number": null,
+      "name": "Landmark Property Management, LLC"
+    }
+  ],
+  "property_deductible": 25000,
+  "property_premium": null,
+  "remarks": "Description of operations: General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania."
+}

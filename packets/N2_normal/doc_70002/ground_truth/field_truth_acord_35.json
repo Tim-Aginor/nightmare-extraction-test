@@ -1,0 +1,60 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-16",
+      "rendered_as": "03/16/2026"
+    },
+    "producer_name": {
+      "value": "Midwest Property & Casualty Group"
+    },
+    "producer_contact": {
+      "value": "Karen Weissman"
+    },
+    "producer_phone": {
+      "value": "(614) 555-0742"
+    },
+    "producer_fax": {
+      "value": "(614) 837-8018"
+    },
+    "producer_license_number": {
+      "value": "AG-6645310"
+    },
+    "policy_number": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "cancellation_date": {
+      "value": "2026-08-30",
+      "rendered_as": "08/30/2026"
+    },
+    "cancellation_reason": {
+      "value": "Other"
+    }
+  },
+  "doc_type": "acord_35"
+}

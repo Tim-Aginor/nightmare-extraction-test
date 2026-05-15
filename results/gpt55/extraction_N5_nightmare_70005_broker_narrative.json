@@ -1,0 +1,115 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": 485,
+    "naics_code": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors, headquartered in Columbus, Ohio.",
+    "sic_code": null,
+    "years_in_business": 38
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_carrier": "Ohio Bureau of Workers' Compensation",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Workers' Compensation coverage is provided through Ohio Bureau of Workers' Compensation per state statute.",
+      "requested_limit": "Statutory basis with employers' liability of $1,000,000/$1,000,000/$1,000,000"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Occurrence form, including standard premises/operations and products/completed operations.",
+      "requested_limit": "$2,000,000 per occurrence / $4,000,000 aggregate"
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Business Auto covering all owned, hired, and non-owned vehicles.",
+      "requested_limit": "$5,000,000 combined single limit"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Coverage for all scheduled locations on a special form with replacement cost valuation.",
+      "requested_limit": "Special form; replacement cost valuation"
+    },
+    {
+      "coverage_type": "Umbrella / Excess",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Following form over primary General Liability, Auto, and Employers Liability.",
+      "requested_limit": "$10,000,000 occurrence / $10,000,000 aggregate"
+    },
+    {
+      "coverage_type": "Motor Truck Cargo",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Motor Truck Cargo coverage as per expiring program.",
+      "requested_limit": "As per expiring program"
+    }
+  ],
+  "document_info": {
+    "date": "2025-06-18",
+    "document_type": "Broker narrative / transfer submission",
+    "prepared_by": "David Reinhardt, Vice President, Transportation Insurance Specialists",
+    "recipient": "Underwriting Department, Standard Insurance Company"
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "The loss experience reflects a mixed trend with some large individual claims in the review period. Over the review period, the insured has incurred 48 total claims with $1,378,733.13 in total paid losses and $1,503,069.19 total incurred. Currently, 10 claims remain open and 38 have been closed. Annualized loss ratio is 12.9% (avg annual incurred $300,613.84 against current annual premium $2,330,887.36 over 5-year period). Breakdown by coverage line: Workers' Compensation: 24 claims, $826,622.56 paid, $888,785.06 incurred; General Liability: 5 claims, $54,126.51 paid, $54,126.51 incurred; Commercial Auto: 16 claims, $387,376.46 paid, $449,550.02 incurred; Commercial Property: 2 claims, $106,691.36 paid, $106,691.36 incurred; Umbrella / Excess: 0 claims, $0.00 paid, $0.00 incurred; Motor Truck Cargo: 1 claim, $3,916.24 paid, $3,916.24 incurred.",
+    "executive_summary": "We are pleased to submit Great Lakes Freight Systems, Inc. for your review and consideration. The insured is a regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors, headquartered in Columbus, with approximately 38 years of operating history. Coverage is requested for Workers' Compensation, General Liability, Commercial Auto, Commercial Property, Umbrella / Excess, Motor Truck Cargo.",
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors, headquartered in Columbus, Ohio.",
+    "safety_programs": "The insured maintains a formal business continuity and disaster recovery plan tested annually. The insured maintains a dedicated safety committee that meets monthly and conducts quarterly site audits. An employee assistance program and workplace wellness initiative have been in place for over five years. The insured carries contractual risk transfer provisions in all subcontractor and vendor agreements. A third-party risk control survey was completed within the past 12 months with favorable results. The insured has implemented a formal return-to-work program that has reduced lost-time claims by over 30%. All locations are equipped with security camera systems and 24/7 monitored alarms. With 485 employees and structured HR practices, the insured manages low turnover and consistent safety training. The insured's fleet of 37 vehicles is maintained under a documented preventive maintenance schedule."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors",
+    "vehicle_count": 37
+  },
+  "insured": {
+    "address": "9840 Nationwide Boulevard",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Loss experience reflects a mixed trend with some large individual claims in the review period.",
+      "10 claims remain open."
+    ],
+    "loss_history_summary": "Over the review period, the insured incurred 48 total claims with $1,378,733.13 in total paid losses and $1,503,069.19 total incurred. Currently, 10 claims remain open and 38 have been closed. Annualized loss ratio is 12.9%.",
+    "positives": [
+      "Formal business continuity and disaster recovery plan tested annually.",
+      "Dedicated safety committee meets monthly and conducts quarterly site audits.",
+      "Employee assistance program and workplace wellness initiative in place for over five years.",
+      "Contractual risk transfer provisions in all subcontractor and vendor agreements.",
+      "Third-party risk control survey completed within the past 12 months with favorable results.",
+      "Formal return-to-work program reduced lost-time claims by over 30%.",
+      "All locations equipped with security camera systems and 24/7 monitored alarms.",
+      "Structured HR practices support low turnover and consistent safety training.",
+      "Fleet of 37 vehicles maintained under a documented preventive maintenance schedule.",
+      "Broker characterizes the loss history as favorable and notes proactive risk management."
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "Cancellation Request / Policy Release"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": "AG-6645310",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "CGL",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "WC",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Umbrella",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "reason_insureds_request": "unchecked",
+    "reason_non_payment_of_premium": "unchecked",
+    "reason_underwriting": "unchecked",
+    "reason_non_renewal": "unchecked",
+    "reason_other": "checked"
+  },
+  "additional_fields": {
+    "agency_phone": "(614) 555-0742",
+    "agency_fax": "(614) 837-8018",
+    "naic_code": "44251",
+    "policy_type": "CGL Auto WC X Property Umbrella",
+    "cancellation_date": "2026-08-30",
+    "cancellation_time": "08:38 AM",
+    "agent_broker_signature": "Karen Weissman",
+    "signature_date": "2026-03-16",
+    "return_premium_basis": "pro-rata"
+  },
+  "remarks": "The above-named insured/agent requests cancellation of the policy described above. Any return premium due is to be calculated on a pro-rata basis unless otherwise indicated."
+}

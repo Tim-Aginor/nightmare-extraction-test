@@ -1,0 +1,311 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Insurance Application"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": null,
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "31-5847293",
+    "sic_code": "6512",
+    "naics_code": "531130",
+    "years_in_business": 31,
+    "nature_of_business": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "entity_type": "LLC"
+  },
+  "premises": [
+    {
+      "location_number": "LOC-001",
+      "address": "6500 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 425000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-002",
+      "address": "6600 Alum Creek Drive",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43217",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2016,
+      "stories": 1,
+      "square_feet": 380000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-003",
+      "address": "4800 Tiedeman Road",
+      "city": "Brooklyn",
+      "state": "OH",
+      "zip": "44144",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 295000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-004",
+      "address": "2100 Kuntz Road",
+      "city": "Dayton",
+      "state": "OH",
+      "zip": "45404",
+      "construction": "Joisted Masonry",
+      "occupancy": "Manufacturing",
+      "year_built": 1992,
+      "stories": 1,
+      "square_feet": 185000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-005",
+      "address": "11600 Mosteller Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45241",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2019,
+      "stories": 1,
+      "square_feet": 220000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-006",
+      "address": "3200 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43607",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2004,
+      "stories": 1,
+      "square_feet": 165000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-007",
+      "address": "3250 Hill Avenue",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43607",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Manufacturing",
+      "year_built": 1998,
+      "stories": 1,
+      "square_feet": 142000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-008",
+      "address": "1475 Corporate Woods Parkway",
+      "city": "Uniontown",
+      "state": "OH",
+      "zip": "44685",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2011,
+      "stories": 1,
+      "square_feet": 128000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-009",
+      "address": "250 Civic Center Drive, Suite 600",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2006,
+      "stories": 1,
+      "square_feet": 8500,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    }
+  ],
+  "uw_questions": [
+    {
+      "question": "Any work performed underground or above 3 stories?",
+      "answer": "No"
+    },
+    {
+      "question": "Any operations involving hazardous materials?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant prepare, handle, or serve food for human consumption?",
+      "answer": "No"
+    },
+    {
+      "question": "Any swimming pools, playgrounds, or athletic facilities?",
+      "answer": "No"
+    },
+    {
+      "question": "Any work involving asbestos, lead, or mold remediation?",
+      "answer": "No"
+    },
+    {
+      "question": "Any losses or claims in the past 5 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Any past bankruptcies, receivership, or reorganization?",
+      "answer": "No"
+    },
+    {
+      "question": "Any professional services provided?",
+      "answer": "No"
+    },
+    {
+      "question": "Are products manufactured, sold, or distributed?",
+      "answer": "No"
+    },
+    {
+      "question": "Any foreign operations or exposures?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "answer": "No"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 392002
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Any work performed underground or above 3 stories?",
+      "value": "No"
+    },
+    {
+      "field": "Any operations involving hazardous materials?",
+      "value": "No"
+    },
+    {
+      "field": "Does the applicant prepare, handle, or serve food for human consumption?",
+      "value": "No"
+    },
+    {
+      "field": "Any swimming pools, playgrounds, or athletic facilities?",
+      "value": "No"
+    },
+    {
+      "field": "Any work involving asbestos, lead, or mold remediation?",
+      "value": "No"
+    },
+    {
+      "field": "Any losses or claims in the past 5 years?",
+      "value": "Yes"
+    },
+    {
+      "field": "Any past bankruptcies, receivership, or reorganization?",
+      "value": "No"
+    },
+    {
+      "field": "Any professional services provided?",
+      "value": "No"
+    },
+    {
+      "field": "Are products manufactured, sold, or distributed?",
+      "value": "No"
+    },
+    {
+      "field": "Any foreign operations or exposures?",
+      "value": "No"
+    },
+    {
+      "field": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "value": "No"
+    }
+  ],
+  "remarks": "Agency contact: Karen Weissman; website: www.buckeyeindustrialpro.com; years with current management: 22; annual revenue: 48000000; employees: FT 95, PT 18; billing plan: Direct Bill - Monthly; payment plan: As per billing plan; prior carrier history: Commercial Property with Liberty Mutual Insurance, policy CP00007001, expiring premium 392002; loss history: 2025 - 1 claim, paid 202875, reserved 35679, incurred 238554; 2021 - 1 claim, paid 0, reserved 0, incurred 0; totals - 2 claims, paid 202875, reserved 35679, incurred 238554; applicant signatory: Douglas Brennan, Chief Operating Officer, signed 2026-03-14; producer signature: Karen Weissman, dated 2026-03-14."
+}

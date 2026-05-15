@@ -1,0 +1,64 @@
+{
+  "document_info": {
+    "document_type": "Carrier History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": null,
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "2024 Policy Number CP-5690-6189. 1 Claim. No Cancellation."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No policy cancellations in the past 5 years",
+      "0 claims in 2021 and 2023"
+    ],
+    "concerns": [
+      "Carrier changes every year for the past 5 years"
+    ],
+    "loss_history_summary": "Prior insurance history from 2020 to 2024 shows a total of 3 claims. Premium decreased from $467,047 in 2020 to $414,601 in 2024. No policies were cancelled."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

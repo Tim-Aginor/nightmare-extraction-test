@@ -1,0 +1,68 @@
+{
+  "checkboxes": [
+    {
+      "field": "Basic",
+      "value": "No"
+    },
+    {
+      "field": "Broad",
+      "value": "No"
+    },
+    {
+      "field": "Special",
+      "value": "Yes"
+    }
+  ],
+  "document_date": "2026-06-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 27",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "carrier_name": "Midwest Insurance Group",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "CP-KCI-2025-4553",
+    "producer_code": "C2339",
+    "producer_name": "Steel City Insurance Group"
+  },
+  "interests": [
+    {
+      "address": "857 Jenkins Street, Pittsburgh, PA 15221",
+      "interest_type": "First Mortgagee",
+      "loan_number": null,
+      "name": "M&T Bank"
+    }
+  ],
+  "locations": [
+    {
+      "address": "300 Liberty Avenue, Suite 1200",
+      "bi_value": 2500000,
+      "building_value": null,
+      "city": "Pittsburgh",
+      "construction": null,
+      "contents_value": 1200000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": "Wet Pipe",
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "PA",
+      "stories": null,
+      "tiv": null,
+      "year_built": null,
+      "zip": "15222"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 25000,
+  "remarks": "Coverage provided via Special form. Property has sprinklered construction, type: Wet System."
+}

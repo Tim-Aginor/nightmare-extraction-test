@@ -1,0 +1,219 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "policy_number_wc": {
+      "value": "WC-KCB-2025-5580"
+    },
+    "wc_premium": {
+      "value": 1158173.43,
+      "rendered_as": "$1,158,173.43"
+    },
+    "wc_base_premium": {
+      "value": 1102733.73,
+      "rendered_as": "$1,102,733.73"
+    },
+    "wc_tria_surcharge": {
+      "value": 55439.7,
+      "rendered_as": "$55,439.70"
+    },
+    "wc_limit_el_each_accident": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "wc_limit_el_disease_policy": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "wc_limit_el_disease_each": {
+      "value": 1000000.0,
+      "rendered_as": "$1,000,000.00"
+    },
+    "contact_name": {
+      "value": "Joseph Kowalczyk"
+    },
+    "experience_mod": {
+      "value": 0.86
+    },
+    "wc_manual_premium": {
+      "value": 1694354.0,
+      "rendered_as": "$1,694,354.00"
+    },
+    "wc_modified_premium": {
+      "value": 1457144.44,
+      "rendered_as": "$1,457,144.44"
+    },
+    "individual_0_name": {
+      "value": "Joseph Kowalczyk"
+    },
+    "individual_0_title": {
+      "value": "President & CEO"
+    },
+    "individual_0_status": {
+      "value": "Included"
+    },
+    "individual_1_name": {
+      "value": "Jerry Perez"
+    },
+    "individual_1_title": {
+      "value": "CEO"
+    },
+    "individual_1_status": {
+      "value": "Excluded"
+    }
+  },
+  "doc_type": "acord_130",
+  "wc_premium_waterfall": {
+    "manual_premium": 1694354.0,
+    "experience_mod": 0.86,
+    "modified_premium": 1457144.44,
+    "schedule_credit": -0.1585,
+    "schedule_credit_amount": -230957.39,
+    "standard_premium": 1226187.05,
+    "premium_discount": 123610.32,
+    "expense_constant": 157.0,
+    "tria_surcharge": 55439.7,
+    "final_premium": 1158173.43,
+    "minimum_premium_applied": false
+  },
+  "wc_class_codes": [
+    {
+      "class_code": "5403",
+      "description": "Carpentry \u2014 NOC",
+      "state": "PA",
+      "num_employees": 95,
+      "payroll": 5915000,
+      "rate": 8.24,
+      "premium": 487396.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$5,915,000.00",
+        "premium": "$487,396.00"
+      }
+    },
+    {
+      "class_code": "5190",
+      "description": "Electrical Wiring",
+      "state": "PA",
+      "num_employees": 60,
+      "payroll": 4544000,
+      "rate": 4.86,
+      "premium": 220838.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$4,544,000.00",
+        "premium": "$220,838.00"
+      }
+    },
+    {
+      "class_code": "5183",
+      "description": "Plumbing \u2014 NOC",
+      "state": "PA",
+      "num_employees": 43,
+      "payroll": 3075000,
+      "rate": 4.52,
+      "premium": 138990.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$3,075,000.00",
+        "premium": "$138,990.00"
+      }
+    },
+    {
+      "class_code": "5022",
+      "description": "Masonry \u2014 NOC",
+      "state": "PA",
+      "num_employees": 111,
+      "payroll": 6635850,
+      "rate": 9.15,
+      "premium": 607180.0,
+      "governing_class": true,
+      "rendered_values": {
+        "payroll": "$6,635,850.00",
+        "premium": "$607,180.00"
+      }
+    },
+    {
+      "class_code": "5474",
+      "description": "Painting \u2014 Interior",
+      "state": "PA",
+      "num_employees": 31,
+      "payroll": 1639000,
+      "rate": 6.92,
+      "premium": 113419.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$1,639,000.00",
+        "premium": "$113,419.00"
+      }
+    },
+    {
+      "class_code": "5606",
+      "description": "Contractors \u2014 Project Manager, Superintendent",
+      "state": "PA",
+      "num_employees": 43,
+      "payroll": 4776000,
+      "rate": 2.45,
+      "premium": 117012.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$4,776,000.00",
+        "premium": "$117,012.00"
+      }
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2014 NOC",
+      "state": "PA",
+      "num_employees": 87,
+      "payroll": 5010000,
+      "rate": 0.19,
+      "premium": 9519.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$5,010,000.00",
+        "premium": "$9,519.00"
+      }
+    }
+  ],
+  "individuals": [
+    {
+      "name": "Joseph Kowalczyk",
+      "title": "President & CEO",
+      "dob": "08/01/1966",
+      "ownership_pct": "25",
+      "status": "Included"
+    },
+    {
+      "name": "Jerry Perez",
+      "title": "CEO",
+      "dob": "01/28/1963",
+      "ownership_pct": "75",
+      "status": "Excluded"
+    }
+  ]
+}

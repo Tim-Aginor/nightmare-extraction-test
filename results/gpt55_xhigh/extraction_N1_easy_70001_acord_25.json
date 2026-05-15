@@ -1,0 +1,64 @@
+{
+  "carrier_name_per_lob": [],
+  "certificate_holders": [
+    {
+      "address": "1919 Adams Street, Olathe, KS 66061",
+      "name": "Summit Properties LLC"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Commercial General Liability - ADDL INSD",
+      "value": "No"
+    },
+    {
+      "field": "Commercial General Liability - SUBR WVD",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - ADDL INSD",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - SUBR WVD",
+      "value": "No"
+    },
+    {
+      "field": "Umbrella Liability - ADDL INSD",
+      "value": "No"
+    },
+    {
+      "field": "Umbrella Liability - SUBR WVD",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation and Employers' Liability - ADDL INSD",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation and Employers' Liability - SUBR WVD",
+      "value": "No"
+    }
+  ],
+  "coverages_certified": [],
+  "document_date": "2026-03-16",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 25",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "carrier_name": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Texas Commercial Insurance Partners"
+  },
+  "remarks": "RE: Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas Locations: Preston Center Tower - 8117 Preston Road, Dallas, TX 75225; Galleria Office Park - Building A - 5050 Westheimer Road, Houston, TX 77056; Galleria Office Park - Building B - 5060 Westheimer Road, Houston, TX 77056 Summit Properties LLC is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

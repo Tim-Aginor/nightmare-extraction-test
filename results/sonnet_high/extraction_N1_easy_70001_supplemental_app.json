@@ -1,0 +1,98 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Sandra Villareal",
+    "recipient": "Apex Managing General Agency"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 24,
+    "annual_revenue": 67000000,
+    "employee_count": 173
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "Policy number CP-LSPH-2025-7801, effective 07/01/2025; 1 claim in 2024; no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 423914.72,
+      "notes": "2023 policy year; 0 claims; no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "American International Group",
+      "expiring_premium": 447842.42,
+      "notes": "2022 policy year; 1 claim; no cancellations"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations fully sprinklered per NFPA 13 or 13R",
+      "24-hour doorperson or security on all premises",
+      "Written contracts with indemnification required from all contractors",
+      "Written contracts in place with all subcontractors",
+      "Fire alarms hard-wired with central station monitoring",
+      "No OSHA citations in the past 3 years",
+      "No policy cancellations in prior 3 years",
+      "95% occupancy rate across portfolio",
+      "Short-term rentals (less than 1 year) not permitted",
+      "Recent system updates: Plumbing 2015, HVAC 2018, Electrical 2023",
+      "24 years in business with 18 years of stable current management",
+      "Commercial occupancy confirmed across properties"
+    ],
+    "concerns": [
+      "No formal safety program in place",
+      "EV charging stations installed on premises \u2014 elevated fire and liability exposure",
+      "Swimming pools, exercise rooms, or other amenities present \u2014 increased premises liability exposure",
+      "2 claims reported over the prior 3 policy years (2022 and 2024)",
+      "LOC-006 (1400 Enclave Parkway, Houston) built in 1995 \u2014 oldest building in portfolio",
+      "Plumbing last updated in 2015 \u2014 approaching age threshold for potential risk concerns",
+      "Hours of operation Mon\u2013Sat only; no Sunday coverage noted"
+    ],
+    "loss_history_summary": "2 claims over 3 years: 1 claim in 2022 (AIG, premium $447,842.42), 0 claims in 2023 (Zurich, premium $423,914.72), 1 claim in 2024 (CNA Financial, premium $414,601.77). No cancellations in any year. Premiums trending downward year-over-year."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. Portfolio consists of 8 locations totaling 1,056,000 square feet across office and mercantile occupancies in Dallas, Houston, Plano, Fort Worth, and Southlake, TX. Annual revenue of $67,000,000 with 145 full-time and 28 part-time employees. Hours of operation are Monday through Saturday, 7:00 AM to 7:00 PM.",
+    "safety_programs": "No formal safety program in place. Written contracts with indemnification clauses required from all contractors. Written contracts maintained with all subcontractors. All locations fully sprinklered per NFPA 13 or 13R. Fire alarms hard-wired with central station monitoring. 24-hour doorperson or security on premises. No OSHA citations in the past 3 years. Last system updates: Plumbing 2015, HVAC 2018, Electrical 2023.",
+    "claims_narrative": "Three-year loss history: 2022 \u2014 1 claim with American International Group (premium $447,842.42, no cancellation); 2023 \u2014 0 claims with Zurich Insurance Group (premium $423,914.72, no cancellation); 2024 \u2014 1 claim with CNA Financial (premium $414,601.77, no cancellation). Total of 2 claims across 3 policy years with no carrier cancellations."
+  }
+}

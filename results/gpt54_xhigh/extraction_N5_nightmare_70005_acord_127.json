@@ -1,0 +1,92 @@
+{
+  "form_info": {
+    "form_number": "ACORD 127",
+    "form_edition": "2016/03",
+    "form_title": "BUSINESS AUTO SECTION"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "CAGLFS20258822",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": null,
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "vehicles": [],
+  "drivers": [],
+  "auto_limits": {
+    "combined_single_limit": 5000000,
+    "uninsured_motorist": 500000,
+    "medical_payments": 10000
+  },
+  "auto_premium": {
+    "base_premium": null,
+    "tria_surcharge": null,
+    "total_premium": 262046.75,
+    "deductible": null,
+    "form_type": "occurrence"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Combined Single Limit (Ea Accident)",
+      "limit": "5000000",
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Payments (Per Person)",
+      "limit": "10000",
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Uninsured Motorist",
+      "limit": "500000",
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Does the insured maintain written vehicle safety, accident & loss prevention program?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured operate under any federal or state motor carrier authority?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any vehicles garaged at locations other than the named insured's address?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any vehicles leased or rented to others?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured use any subcontracted or independent owner operators?",
+      "value": "No"
+    },
+    {
+      "field": "Are all drivers required to have valid CDL licenses where applicable?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are all vehicles owned by the named insured?",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

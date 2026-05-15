@@ -1,0 +1,92 @@
+{
+  "document_info": {
+    "document_type": "Submission Data (Excel Spreadsheet)",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate ownership and management of industrial, warehouse, distribution, manufacturing, and office properties throughout Ohio, operated through a network of related LLCs, joint ventures, and corporate entities",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property \u2013 Building",
+      "current_limit": 146260000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Building value across 9 locations; LOC-009 (Corporate Administrative Office) carries $0 building value. Locations include Non-Combustible, Masonry Non-Combustible, Joisted Masonry, and Fire Resistive construction."
+    },
+    {
+      "coverage_type": "Commercial Property \u2013 Contents",
+      "current_limit": 42495000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": null,
+      "notes": "Contents values span all 9 locations. Highest concentration at LOC-001 ($8,500,000) and LOC-002 ($7,600,000) at Rickenbacker Logistics Center."
+    },
+    {
+      "coverage_type": "Business Income (BI)",
+      "current_limit": 62590000,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": null,
+      "notes": "Business Income values across all 9 locations. Largest BI exposures at LOC-001 ($12,750,000) and LOC-002 ($11,400,000)."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "8 of 9 locations (89%) are protected by automatic sprinkler systems",
+      "Majority of portfolio is Non-Combustible or Masonry Non-Combustible construction \u2014 the two most favorable construction classes represented",
+      "6 of 9 buildings constructed in 2004 or later, reflecting a predominantly modern portfolio",
+      "Zero claims reported in 2022, 2023, and 2024 \u2014 three consecutive clean years",
+      "Favorable 4-year loss history with only 2 property claims totaling $238,554 incurred across a $251,345,000 TIV portfolio",
+      "All 9 properties located in Ohio, limiting geographic spread risk and simplifying regulatory compliance",
+      "TPO, Metal, and EPDM roofing types predominate, consistent with modern commercial industrial construction standards"
+    ],
+    "concerns": [
+      "LOC-007 (Toledo Industrial Park - Building 2, 3250 Hill Avenue) has NO sprinkler system \u2014 the sole unsprinklered location in the portfolio",
+      "LOC-007 is also used for Manufacturing occupancy (higher hazard than Warehouse) with Masonry Non-Combustible construction and EPDM roof, compounding the sprinkler deficiency",
+      "LOC-004 (Dayton Manufacturing Facility) is Joisted Masonry construction \u2014 the least favorable construction class in the portfolio \u2014 and is the oldest building (1992)",
+      "LOC-004 is a Manufacturing occupancy, presenting higher fire and equipment breakdown exposure relative to warehouse peers",
+      "Prior insurance reflects four different carriers over four years (Liberty Mutual, Hartford, Chubb, Hartford), suggesting potential market instability or coverage-driven remarketing",
+      "Annual premium has declined from $458,666 (2021) to $392,002 (2024) \u2014 a 14.5% decrease \u2014 despite no underlying TIV reduction noted; warrants review for adequacy of coverage terms"
+    ],
+    "loss_history_summary": "Over the 4-year period 2021\u20132024, the insured reported 2 property claims with $202,875 paid and $238,554 total incurred. All loss activity occurred in 2021 (1 claim per the Prior Insurance sheet; 2 claims per the Loss Summary, suggesting one additional claim may predate 2021 or the counts differ by reporting basis). Policy years 2022, 2023, and 2024 were claim-free."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Buckeye Industrial Properties, LLC is the primary named insured for a 9-location Ohio commercial real estate portfolio with a combined Total Insured Value (TIV) of $251,345,000. The portfolio encompasses approximately 1,948,500 square feet of warehouse, distribution, manufacturing, and office space. Current property coverage is placed with Liberty Mutual Insurance at an expiring premium of $392,002.31. The account has a favorable 4-year loss history with 2 property claims totaling $238,554 incurred.",
+    "operations_description": "The insured operates a portfolio of 9 commercial properties across 6 Ohio markets: Columbus (3 locations \u2014 Rickenbacker Logistics Center A & B, Corporate Office), Toledo (2 locations \u2014 Toledo Industrial Park Buildings 1 & 2), Brooklyn/Cleveland (1 location \u2014 Cleveland Distribution Hub), Dayton (1 location \u2014 Dayton Manufacturing Facility), Cincinnati (1 location \u2014 Cincinnati Cross-Dock Terminal), and Uniontown/Akron (1 location \u2014 Akron Flex Space). Occupancy types include Warehouse (6), Manufacturing (2), and Office (1). Building sizes range from 8,500 sq ft (Corporate Office) to 425,000 sq ft (Rickenbacker Logistics Center A). Year-built ranges from 1992 to 2019. The portfolio is structured through a network of 10 distinct legal entities including the Named Insured, Managing Members, Joint Venture Partners, Additional Named Insureds, General Partners, and Property Owners.",
+    "safety_programs": null,
+    "claims_narrative": "The insured has reported 2 total property claims over the available loss history with $202,875 paid and $238,554 total incurred. Per the Prior Insurance schedule, 1 claim was recorded in 2021 during the Hartford Financial Services policy year. Policy years 2022 (Chubb Limited), 2023 (Hartford Financial Services), and 2024 (Liberty Mutual Insurance) each recorded zero claims. The discrepancy between 1 claim in the Prior Insurance schedule for 2021 and 2 total claims in the Loss Summary may indicate one claim occurred outside the 4-year window or is attributed to a different policy year."
+  }
+}

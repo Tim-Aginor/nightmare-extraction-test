@@ -1,0 +1,909 @@
+{
+  "schema_version": "1.0",
+  "seed": 70002,
+  "generated_at": "2026-05-04T23:23:11+00:00",
+  "doc_type": "loss_run",
+  "doc": {
+    "format": "pdf",
+    "scan_level": "scan_clean",
+    "strings": [
+      "Maine Employers Mutual",
+      "Buckeye Industrial Properties, LLC",
+      "Report: LR-2026-64342",
+      "CONFIDENTIAL",
+      "MAINE EMPLOYERS MUTUAL",
+      "MEM LOSS RUN REPORT",
+      "All Claims",
+      "Policy: CP-BIP-2025-4420 \u00a0",
+      "|",
+      "\u00a0 Coverage: Commercial Property \u00a0",
+      "\u00a0 Claims shown: 2 \u00a0",
+      "\u00a0 Deductible: $75,000",
+      "Identification",
+      "Financial Summary",
+      "Claim No.",
+      "Injured Party",
+      "Date Occurred",
+      "File Status",
+      "Paid to Date",
+      "Case Reserve",
+      "Total",
+      "Incurred",
+      "3",
+      "HTF-2021-013149",
+      "09-Oct-2021",
+      "05",
+      "\u2014",
+      "MEM-2025-013016",
+      "17-Oct-2025",
+      "03",
+      "4",
+      "$202,875.00",
+      "5",
+      "$35,679.44",
+      "$238,554.44",
+      "1",
+      " All figures are for informational purposes only. ",
+      "2",
+      " Subject to the terms and conditions of the policy. ",
+      " Values may be",
+      "rounded to the nearest dollar. ",
+      " Claim data is preliminary and subject to revision. ",
+      " Amounts reflect payments through",
+      "valuation date only.",
+      "Status Codes: 01=Open \u00a0 02=Closed \u00a0 03=Re-opened \u00a0 04=Subrogation \u00a0 05=Denied \u00a0 06=Closed Without Payment",
+      "DRAFT \u2014 NOT FOR UNDERWRITING",
+      "Summary \u2014 All Coverage Lines",
+      "Coverage",
+      "Claims",
+      "Open",
+      "Closed",
+      "Total Paid",
+      "Total Reserved",
+      "Total Incurred",
+      "Commercial Property",
+      "TOTAL",
+      "This report is confidential and intended solely for the named insured. Information contained herein is subject to the terms and conditions of the applicable insurance policies. Past loss experience is not necessarily indicative of future results.",
+      "Page 1 of 2",
+      "Page 2 of 2"
+    ],
+    "numbers": [
+      2026,
+      64342,
+      2025,
+      4420,
+      75000,
+      2021,
+      13149,
+      13016,
+      202875.0,
+      35679.44,
+      238554.44
+    ],
+    "tokens": [
+      "maine",
+      "employers",
+      "mutual",
+      "buckeye",
+      "industrial",
+      "properties",
+      "llc",
+      "report",
+      "lr-2026-64342",
+      "confidential",
+      "mem",
+      "loss",
+      "run",
+      "all",
+      "claims",
+      "policy",
+      "cp-bip-2025-4420",
+      "coverage",
+      "commercial",
+      "property",
+      "shown",
+      "deductible",
+      "$75",
+      "000",
+      "identification",
+      "financial",
+      "summary",
+      "claim",
+      "no",
+      "injured",
+      "party",
+      "date",
+      "occurred",
+      "file",
+      "status",
+      "paid",
+      "to",
+      "case",
+      "reserve",
+      "total",
+      "incurred",
+      "htf-2021-013149",
+      "09-oct-2021",
+      "05",
+      "mem-2025-013016",
+      "17-oct-2025",
+      "03",
+      "$202",
+      "875.00",
+      "$35",
+      "679.44",
+      "$238",
+      "554.44",
+      "figures",
+      "are",
+      "for",
+      "informational",
+      "purposes",
+      "only",
+      "subject",
+      "the",
+      "terms",
+      "and",
+      "conditions",
+      "of",
+      "values",
+      "may",
+      "be",
+      "rounded",
+      "nearest",
+      "dollar",
+      "data",
+      "is",
+      "preliminary",
+      "revision",
+      "amounts",
+      "reflect",
+      "payments",
+      "through",
+      "valuation",
+      "codes",
+      "01",
+      "open",
+      "02",
+      "closed",
+      "re-opened",
+      "04",
+      "subrogation",
+      "denied",
+      "06",
+      "without",
+      "payment",
+      "draft",
+      "not",
+      "underwriting",
+      "lines",
+      "reserved",
+      "this",
+      "intended",
+      "solely",
+      "named",
+      "insured",
+      "information",
+      "contained",
+      "herein",
+      "applicable",
+      "insurance",
+      "policies",
+      "past",
+      "experience",
+      "necessarily",
+      "indicative",
+      "future",
+      "results",
+      "page"
+    ],
+    "rendered_text": "\f\f",
+    "elements": [
+      {
+        "value": "Maine Employers Mutual",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 46.8,
+        "y": 757.2
+      },
+      {
+        "value": "Buckeye Industrial Properties, LLC",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 46.8,
+        "y": 747.2
+      },
+      {
+        "value": "Report: LR-2026-64342",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 565.2,
+        "y": 757.2
+      },
+      {
+        "value": "CONFIDENTIAL",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 1,
+        "x": 46.8,
+        "y": 28.8
+      },
+      {
+        "value": "MAINE EMPLOYERS MUTUAL",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 565.2,
+        "y": 20.8
+      },
+      {
+        "value": "MEM LOSS RUN REPORT",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 1,
+        "x": 565.2,
+        "y": 13.8
+      },
+      {
+        "value": "All Claims",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 8,
+        "y": 4.0
+      },
+      {
+        "value": "Policy: CP-BIP-2025-4420 \u00a0",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 685.2
+      },
+      {
+        "value": "|",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 685.2
+      },
+      {
+        "value": "\u00a0 Coverage: Commercial Property \u00a0",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 685.2
+      },
+      {
+        "value": "|",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 685.2
+      },
+      {
+        "value": "\u00a0 Claims shown: 2 \u00a0",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 685.2
+      },
+      {
+        "value": "|",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 685.2
+      },
+      {
+        "value": "\u00a0 Deductible: $75,000",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 685.2
+      },
+      {
+        "value": "Identification",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 100.0
+      },
+      {
+        "value": "Financial Summary",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 265,
+        "y": 100.0
+      },
+      {
+        "value": "Claim No.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 80
+      },
+      {
+        "value": "Injured Party",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 103,
+        "y": 80
+      },
+      {
+        "value": "Date Occurred",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 203,
+        "y": 70
+      },
+      {
+        "value": "File Status",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 265,
+        "y": 70
+      },
+      {
+        "value": "Paid to Date",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318,
+        "y": 80
+      },
+      {
+        "value": "Case Reserve",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 385,
+        "y": 80
+      },
+      {
+        "value": "Total",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 452,
+        "y": 70
+      },
+      {
+        "value": "Incurred",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 452,
+        "y": 70
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 452,
+        "y": 70
+      },
+      {
+        "value": "HTF-2021-013149",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 48
+      },
+      {
+        "value": "Buckeye Industrial Properties, LLC",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 103,
+        "y": 38
+      },
+      {
+        "value": "09-Oct-2021",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 203,
+        "y": 48
+      },
+      {
+        "value": "05",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 265,
+        "y": 48
+      },
+      {
+        "value": "\u2014",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 318,
+        "y": 48
+      },
+      {
+        "value": "\u2014",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 385,
+        "y": 48
+      },
+      {
+        "value": "\u2014",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 452,
+        "y": 48
+      },
+      {
+        "value": "MEM-2025-013016",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 3,
+        "y": 16
+      },
+      {
+        "value": "Buckeye Industrial Properties, LLC",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 103,
+        "y": 6
+      },
+      {
+        "value": "17-Oct-2025",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 203,
+        "y": 16
+      },
+      {
+        "value": "03",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 265,
+        "y": 16
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 265,
+        "y": 16
+      },
+      {
+        "value": "$202,875.00",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 318,
+        "y": 16
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 318,
+        "y": 16
+      },
+      {
+        "value": "$35,679.44",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 1,
+        "x": 385,
+        "y": 16
+      },
+      {
+        "value": "$238,554.44",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 452,
+        "y": 16
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 452,
+        "y": 16
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": " All figures are for informational purposes only. ",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": " Subject to the terms and conditions of the policy. ",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "3",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": " Values may be",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "rounded to the nearest dollar. ",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "4",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": " Claim data is preliminary and subject to revision. ",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "5",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": " Amounts reflect payments through",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "valuation date only.",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 536.2
+      },
+      {
+        "value": "Status Codes: 01=Open \u00a0 02=Closed \u00a0 03=Re-opened \u00a0 04=Subrogation \u00a0 05=Denied \u00a0 06=Closed Without Payment",
+        "kind": "string",
+        "origin": "reportlab.paragraph.frag",
+        "page": 1,
+        "x": 52.8,
+        "y": 525.2
+      },
+      {
+        "value": "DRAFT \u2014 NOT FOR UNDERWRITING",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 1,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "value": "Maine Employers Mutual",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 46.8,
+        "y": 757.2
+      },
+      {
+        "value": "Buckeye Industrial Properties, LLC",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 46.8,
+        "y": 747.2
+      },
+      {
+        "value": "Report: LR-2026-64342",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 565.2,
+        "y": 757.2
+      },
+      {
+        "value": "CONFIDENTIAL",
+        "kind": "string",
+        "origin": "canvas.drawString",
+        "page": 2,
+        "x": 46.8,
+        "y": 28.8
+      },
+      {
+        "value": "MAINE EMPLOYERS MUTUAL",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 565.2,
+        "y": 20.8
+      },
+      {
+        "value": "MEM LOSS RUN REPORT",
+        "kind": "string",
+        "origin": "canvas.drawRightString",
+        "page": 2,
+        "x": 565.2,
+        "y": 13.8
+      },
+      {
+        "value": "Summary \u2014 All Coverage Lines",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 8,
+        "y": 4.0
+      },
+      {
+        "value": "Coverage",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 5.0,
+        "y": 61.0
+      },
+      {
+        "value": "Claims",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 99.2,
+        "y": 61.0
+      },
+      {
+        "value": "Open",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 149.4,
+        "y": 61.0
+      },
+      {
+        "value": "Closed",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 196.6,
+        "y": 61.0
+      },
+      {
+        "value": "Total Paid",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 271.5,
+        "y": 61.0
+      },
+      {
+        "value": "Total Reserved",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 337.7,
+        "y": 56.0
+      },
+      {
+        "value": "Total Incurred",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 412.3,
+        "y": 56.0
+      },
+      {
+        "value": "Commercial Property",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 5.0,
+        "y": 26.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 99.2,
+        "y": 31.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 149.4,
+        "y": 31.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 196.6,
+        "y": 31.0
+      },
+      {
+        "value": "$202,875.00",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 271.5,
+        "y": 31.0
+      },
+      {
+        "value": "$35,679.44",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 337.7,
+        "y": 31.0
+      },
+      {
+        "value": "$238,554.44",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 412.3,
+        "y": 31.0
+      },
+      {
+        "value": "TOTAL",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 5.0,
+        "y": 5.0
+      },
+      {
+        "value": "2",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 99.2,
+        "y": 5.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 149.4,
+        "y": 5.0
+      },
+      {
+        "value": "1",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 196.6,
+        "y": 5.0
+      },
+      {
+        "value": "$202,875.00",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 271.5,
+        "y": 5.0
+      },
+      {
+        "value": "$35,679.44",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 337.7,
+        "y": 5.0
+      },
+      {
+        "value": "$238,554.44",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 412.3,
+        "y": 5.0
+      },
+      {
+        "value": "This report is confidential and intended solely for the named insured. Information contained herein is subject to the terms and conditions of the applicable insurance policies. Past loss experience is not necessarily indicative of future results.",
+        "kind": "string",
+        "origin": "reportlab.paragraph",
+        "page": 2,
+        "x": 52.8,
+        "y": 571.5
+      },
+      {
+        "value": "DRAFT \u2014 NOT FOR UNDERWRITING",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 2,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "value": "Page 1 of 2",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 1,
+        "x": 306.0,
+        "y": 28.8
+      },
+      {
+        "value": "Page 2 of 2",
+        "kind": "string",
+        "origin": "canvas.drawCentredString",
+        "page": 2,
+        "x": 306.0,
+        "y": 28.8
+      }
+    ],
+    "page_count": 2
+  }
+}

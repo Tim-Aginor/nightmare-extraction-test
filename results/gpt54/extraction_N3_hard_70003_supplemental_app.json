@@ -1,0 +1,79 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "date": "2026-03-14",
+    "prepared_by": "Marcus Jennings",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 16,
+    "annual_revenue": 42000000,
+    "employee_count": 450
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "Policy number WC-HCHP-2025-3350 shown on application. Prior insurance history lists 2024 Travelers Companies premium 686236.25 with 11 claims and no cancellation; 2023 Markel Corporation premium 619820.26 with 3 claims and no cancellation; 2022 Zurich Insurance Group premium 607294.45 with 6 claims and cancellation yes."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "Written contracts with subcontractors/contractors required",
+      "24-hour doorperson or security on premises",
+      "90% of units regularly occupied",
+      "Most listed premises are sprinklered",
+      "Fire alarms hard-wired with central station monitoring",
+      "Quality control / quality assurance program in place",
+      "MSDS maintained",
+      "No OSHA citations in the past 3 years"
+    ],
+    "concerns": [
+      "Short-term rentals (less than 1 year) are permitted",
+      "EV charging stations installed on the premises",
+      "Building not fully sprinklered per NFPA 13 or 13R",
+      "Cyber liability protections not in place",
+      "Prior insurance history shows multiple claims over three years",
+      "One prior policy year indicates cancellation",
+      "Electrical system update noted as original (2005)"
+    ],
+    "loss_history_summary": "Prior insurance history on page 2 shows 11 claims in 2024 with Travelers Companies, 3 claims in 2023 with Markel Corporation, and 6 claims in 2022 with Zurich Insurance Group. 2022 indicates a cancellation; 2023 and 2024 indicate no cancellation."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": null,
+    "requested_effective": "2025-05-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "safety_programs": "Do you have a formal safety program? Yes. Do you have written contracts with all subcontractors? Yes. 24-hour doorperson or security on premises: Yes. Fire alarms hard-wired with central station monitoring: Yes. Quality control / quality assurance program: Yes. Material Safety Data Sheets (MSDS) maintained: Yes. OSHA citations in past 3 years: No. Cyber liability protections in place: No.",
+    "claims_narrative": "Prior insurance history: 2024 Travelers Companies premium 686236.25, 11 claims, no cancellation; 2023 Markel Corporation premium 619820.26, 3 claims, no cancellation; 2022 Zurich Insurance Group premium 607294.45, 6 claims, cancellation yes."
+  }
+}

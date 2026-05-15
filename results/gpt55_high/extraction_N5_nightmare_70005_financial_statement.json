@@ -1,0 +1,77 @@
+{
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "accounts_receivable": 13376400,
+        "cash": null,
+        "inventory": null,
+        "other_current": null,
+        "prepaid_expenses": 1960000,
+        "total_current_assets": null
+      },
+      "fixed_assets": {
+        "accumulated_depreciation": null,
+        "net_fixed_assets": null,
+        "property_plant_equipment": null
+      },
+      "other_assets": 21934500,
+      "total_assets": 77137448
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 10173748,
+      "total_equity": 10173748
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 500700,
+        "accrued_expenses": 11228800,
+        "current_debt": null,
+        "other_current": null,
+        "total_current_liabilities": 11729500
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 55234200,
+        "other_long_term": null,
+        "total_long_term": 55234200
+      },
+      "total_liabilities": 66963700
+    }
+  },
+  "header": {
+    "audited": null,
+    "company_name": "Great Lakes Freight Systems, Inc.",
+    "fiscal_year": 2026,
+    "period_end_date": "2026-01-31",
+    "period_type": "Fiscal Year",
+    "preparer": "Margaret Sullivan",
+    "statement_type": "Financial Statement"
+  },
+  "income_statement": {
+    "cost_of_goods_sold": null,
+    "gross_profit": 15694200,
+    "income_before_tax": null,
+    "income_tax": null,
+    "interest_expense": null,
+    "net_income": 10173748,
+    "operating_expenses": {
+      "depreciation": 1379952,
+      "insurance": null,
+      "other_operating": 4140500,
+      "rent": null,
+      "salaries_wages": null,
+      "total_operating_expenses": 5520452,
+      "utilities": null
+    },
+    "operating_income": 10173748,
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": null
+    }
+  },
+  "ratios": {
+    "current_ratio": null,
+    "debt_to_equity": null,
+    "profit_margin": 3.9
+  }
+}

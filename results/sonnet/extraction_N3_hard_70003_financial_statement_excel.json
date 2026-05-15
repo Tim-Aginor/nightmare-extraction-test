@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Hill Country Hospitality Partners, LLC",
+    "statement_type": "Combined",
+    "period_end_date": "2026-01-30",
+    "period_type": null,
+    "fiscal_year": 2026,
+    "audited": null,
+    "preparer": "Christina Montoya"
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": 8884400,
+        "accounts_receivable": 4766200,
+        "inventory": null,
+        "prepaid_expenses": 1050000,
+        "other_current": 377700,
+        "total_current_assets": 15078300
+      },
+      "fixed_assets": {
+        "property_plant_equipment": 42000000,
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 42000000
+      },
+      "other_assets": 19926000,
+      "total_assets": 77004300
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 7467100,
+        "accrued_expenses": 5014800,
+        "current_debt": 3486000,
+        "other_current": null,
+        "total_current_liabilities": 15967900
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 6543500,
+        "other_long_term": 1957500,
+        "total_long_term": 8501000
+      },
+      "total_liabilities": 24468900
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": null,
+      "total_equity": 52535400
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": 42000000,
+      "net_revenue": 42000000
+    },
+    "cost_of_goods_sold": 22444200,
+    "gross_profit": 19555800,
+    "operating_expenses": {
+      "salaries_wages": null,
+      "rent": null,
+      "utilities": null,
+      "depreciation": 1657000,
+      "insurance": null,
+      "other_operating": 12809400,
+      "total_operating_expenses": 14466400
+    },
+    "operating_income": 5089400,
+    "interest_expense": 951500,
+    "income_before_tax": 4137900,
+    "income_tax": 917300,
+    "net_income": 3220600
+  },
+  "ratios": {
+    "current_ratio": 0.94,
+    "debt_to_equity": 0.47,
+    "profit_margin": 0.077
+  }
+}

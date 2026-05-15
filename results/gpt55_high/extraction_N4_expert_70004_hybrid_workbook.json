@@ -1,0 +1,104 @@
+{
+  "business_description": {
+    "annual_revenue": 95000000,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Commercial builders/contractor; operations shown include corporate office, branch office, main equipment yard and warehouse, fabrication shop, and equipment storage.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Insurance Program",
+      "current_carrier": "Nationwide Insurance",
+      "current_limit": null,
+      "expiring_premium": 1634721.63,
+      "notes": "2024 insurance history shows Nationwide Insurance with premium of 1634721.63 and 13 claims.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Property",
+      "current_carrier": null,
+      "current_limit": "TIV 39405000",
+      "expiring_premium": null,
+      "notes": "Schedule of values lists 5 Pennsylvania locations with total insured value of 39405000. Loss summary shows 1 property claim with 36750 paid and 36750 incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 35 workers compensation claims with 1126509 paid and 1176100 incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 8 general liability claims with 105421 paid and 176947 incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Driver schedule lists 15 drivers. Loss summary shows 8 auto claims with 47076 paid and 99900 incurred.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel submission workbook",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 15,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "name": "Keystone Commercial Builders, Inc.",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Workers compensation loss activity is the largest loss category, with 35 claims and 1176100 total incurred.",
+      "Insurance history shows 48 claims across years 2020 through 2024, including 13 claims in 2024 and 15 claims in 2021.",
+      "One listed location, Equipment Storage - Cranberry, is not sprinklered.",
+      "Operations include equipment yard, warehouse, fabrication shop, and equipment storage exposures."
+    ],
+    "loss_history_summary": "Loss summary totals 52 claims with 1315756 paid and 1489697 incurred: Workers Compensation 35 claims, 1126509 paid, 1176100 incurred; General Liability 8 claims, 105421 paid, 176947 incurred; Auto 8 claims, 47076 paid, 99900 incurred; Property 1 claim, 36750 paid and incurred. Insurance history shows 2024 Nationwide Insurance premium 1634721.63 with 13 claims; 2023 Berkshire Hathaway Guard premium 1476849.96 with 10 claims; 2022 Zurich Insurance Group premium 1369245.71 with 4 claims; 2021 Nationwide Insurance premium 1487006.51 with 15 claims; 2020 CNA Financial premium 1581292.51 with 6 claims.",
+    "positives": [
+      "All scheduled locations are in Pennsylvania.",
+      "Four of five scheduled locations are sprinklered.",
+      "Driver schedule lists 15 drivers with reported experience ranging from 5 to 28 years.",
+      "Financial summary shows annual revenue of 95000000, net income of 5997400, and equity of 34373200.",
+      "Property loss summary shows only 1 property claim."
+    ]
+  }
+}

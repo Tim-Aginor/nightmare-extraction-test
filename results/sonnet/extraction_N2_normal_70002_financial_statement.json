@@ -1,0 +1,77 @@
+{
+  "header": {
+    "company_name": "Buckeye Industrial Properties, LLC",
+    "statement_type": "Combined",
+    "period_end_date": "2026-01-31",
+    "period_type": "Annual",
+    "fiscal_year": 2026,
+    "audited": false,
+    "preparer": "Douglas Brennan"
+  },
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "cash": 8122200.0,
+        "accounts_receivable": 8575100.0,
+        "inventory": null,
+        "prepaid_expenses": 1200000.0,
+        "other_current": 65300.0,
+        "total_current_assets": null
+      },
+      "fixed_assets": {
+        "property_plant_equipment": null,
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 72000000.0
+      },
+      "other_assets": 22398500.0,
+      "total_assets": 112361100.0
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 12814400.0,
+        "accrued_expenses": 6289500.0,
+        "current_debt": 2094900.0,
+        "other_current": null,
+        "total_current_liabilities": null
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 9785600.0,
+        "other_long_term": 2694300.0,
+        "total_long_term": null
+      },
+      "total_liabilities": 33678700.0
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 78682400.0,
+      "total_equity": 78682400.0
+    }
+  },
+  "income_statement": {
+    "revenue": {
+      "gross_revenue": 48000000.0,
+      "net_revenue": 48000000.0
+    },
+    "cost_of_goods_sold": 19715000.0,
+    "gross_profit": 28285000.0,
+    "operating_expenses": {
+      "salaries_wages": null,
+      "rent": null,
+      "utilities": null,
+      "depreciation": 892700.0,
+      "insurance": null,
+      "other_operating": 16131300.0,
+      "total_operating_expenses": 17024000.0
+    },
+    "operating_income": 11261000.0,
+    "interest_expense": 1322100.0,
+    "income_before_tax": 9938900.0,
+    "income_tax": 2738900.0,
+    "net_income": 7200000.0
+  },
+  "ratios": {
+    "current_ratio": 0.85,
+    "debt_to_equity": 0.43,
+    "profit_margin": 0.15
+  }
+}

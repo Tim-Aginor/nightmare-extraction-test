@@ -1,0 +1,279 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": "2016/03",
+    "form_title": "COMMERCIAL INSURANCE APPLICATION"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": "74-6195832",
+    "sic_code": "7011",
+    "naics_code": "721110",
+    "years_in_business": 16,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "entity_type": "LLC"
+  },
+  "premises": [
+    {
+      "location_number": "LOC-001",
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": 2010,
+      "stories": 8,
+      "square_feet": 95000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-002",
+      "address": "112 College Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78205",
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": 2006,
+      "stories": 12,
+      "square_feet": 142000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-003",
+      "address": "245 East Main Street",
+      "city": "Fredericksburg",
+      "state": "TX",
+      "zip": "78624",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Hotel",
+      "year_built": 1998,
+      "stories": 3,
+      "square_feet": 48000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-004",
+      "address": "1220 South Congress Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78704",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Hotel",
+      "year_built": 2015,
+      "stories": 4,
+      "square_feet": 82000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-005",
+      "address": "608 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Restaurant",
+      "year_built": 2010,
+      "stories": 1,
+      "square_feet": 8500,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-006",
+      "address": "6550 Comanche Trail",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78732",
+      "construction": "Non-Combustible",
+      "occupancy": "Restaurant",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 12000,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-007",
+      "address": "303 Pearl Parkway",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78215",
+      "construction": "Joisted Masonry",
+      "occupancy": "Restaurant",
+      "year_built": 2014,
+      "stories": 1,
+      "square_feet": 6800,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    },
+    {
+      "location_number": "LOC-008",
+      "address": "401 Congress Avenue, Suite 2800",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2008,
+      "stories": 1,
+      "square_feet": 6200,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    }
+  ],
+  "uw_questions": [
+    {
+      "question": "1. Any recall of products in the past 5 years?",
+      "answer": "No"
+    },
+    {
+      "question": "2. Any foreign operations or exposures?",
+      "answer": "No"
+    },
+    {
+      "question": "3. Any daycare or childcare operations on premises?",
+      "answer": "No"
+    },
+    {
+      "question": "4. Are products manufactured, sold, or distributed?",
+      "answer": "No"
+    },
+    {
+      "question": "5. Any losses or claims in the past 5 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "6. Does the applicant operate as a franchisor or sell franchise rights to franchisees?",
+      "answer": "No"
+    },
+    {
+      "question": "7. Any pending litigation or regulatory actions?",
+      "answer": "No"
+    },
+    {
+      "question": "8. Is applicant involved in any joint ventures?",
+      "answer": "No"
+    },
+    {
+      "question": "9. Does the applicant prepare, handle, or serve food for human consumption?",
+      "answer": "No"
+    },
+    {
+      "question": "10. Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "answer": "No"
+    }
+  ],
+  "coverages_requested": [
+    {
+      "coverage_type": "General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": 111274
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 280824
+    },
+    {
+      "coverage_type": "Workers' Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": 294139
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "General Liability",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial Property",
+      "value": "Yes"
+    },
+    {
+      "field": "Business Auto",
+      "value": "No"
+    },
+    {
+      "field": "Workers' Compensation",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella / Excess",
+      "value": "No"
+    },
+    {
+      "field": "Professional Liability / E&O",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

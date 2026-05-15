@@ -1,0 +1,219 @@
+{
+  "auto_deductible": 1000,
+  "auto_limits": {
+    "combined_single_limit": 1000000,
+    "medical_payments": null,
+    "uninsured_motorist": null
+  },
+  "checkboxes": [
+    {
+      "field": "ANY AUTO",
+      "value": "Yes"
+    },
+    {
+      "field": "OWNED AUTOS ONLY",
+      "value": "No"
+    },
+    {
+      "field": "SCHEDULED AUTOS",
+      "value": "No"
+    },
+    {
+      "field": "HIRED AUTOS ONLY",
+      "value": "No"
+    },
+    {
+      "field": "NON-OWNED AUTOS ONLY",
+      "value": "No"
+    }
+  ],
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 23",
+    "form_title": "CERTIFICATE OF AUTOMOBILE INSURANCE"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Company",
+    "effective_date": "2020-05-01",
+    "expiration_date": "2021-05-01",
+    "insured_address": "301 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "World City Insurance Group"
+  },
+  "insurer_panel": [
+    {
+      "carrier": "Hallmark Insurance Company",
+      "naic": "41817"
+    },
+    {
+      "carrier": "Hallmark Indemnity Company",
+      "naic": "41883"
+    },
+    {
+      "carrier": "Hallmark Casualty Company",
+      "naic": "42385"
+    },
+    {
+      "carrier": "Hallmark American Company",
+      "naic": "43418"
+    }
+  ],
+  "remarks": null,
+  "vehicles": [
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-350",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "1",
+      "vin": null,
+      "year": 2020
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-150",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "2",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-150",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "3",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-250",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "4",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Ram",
+      "model": "3500",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "5",
+      "vin": null,
+      "year": 2020
+    },
+    {
+      "garage_state": null,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "6",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "E-450",
+      "stated_value": null,
+      "vehicle_class": "Medium Truck",
+      "vehicle_id": "7",
+      "vin": null,
+      "year": 2022
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "Transit 350",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "8",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "Transit 250",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "9",
+      "vin": null,
+      "year": 2020
+    },
+    {
+      "garage_state": null,
+      "make": "Chevrolet",
+      "model": "Express 3500",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "10",
+      "vin": null,
+      "year": 2020
+    },
+    {
+      "garage_state": null,
+      "make": "Isuzu",
+      "model": "N-Series",
+      "stated_value": null,
+      "vehicle_class": "Medium Truck",
+      "vehicle_id": "11",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Ford",
+      "model": "F-550",
+      "stated_value": null,
+      "vehicle_class": "Light Truck",
+      "vehicle_id": "12",
+      "vin": null,
+      "year": 2020
+    },
+    {
+      "garage_state": null,
+      "make": "Fontaine",
+      "model": "Magnitude 55",
+      "stated_value": null,
+      "vehicle_class": "Trailer",
+      "vehicle_id": "13",
+      "vin": null,
+      "year": 2020
+    },
+    {
+      "garage_state": null,
+      "make": "Wabash",
+      "model": "DuraPlate",
+      "stated_value": null,
+      "vehicle_class": "Trailer",
+      "vehicle_id": "14",
+      "vin": null,
+      "year": 2021
+    },
+    {
+      "garage_state": null,
+      "make": "Great Dane",
+      "model": "Freedom SE",
+      "stated_value": null,
+      "vehicle_class": "Trailer",
+      "vehicle_id": "15",
+      "vin": null,
+      "year": 2022
+    }
+  ]
+}

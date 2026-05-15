@@ -1,0 +1,308 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Insurance Application"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "25-7194638",
+    "sic_code": "1521",
+    "naics_code": "236220",
+    "years_in_business": 42,
+    "nature_of_business": "General contracting for commercial and institutional construction -- healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": 296415
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 134062
+    },
+    {
+      "coverage_type": "Business Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": 57708
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": 1146540
+    }
+  ],
+  "checkboxes": {
+    "coverage_general_liability": "X",
+    "coverage_commercial_property": "X",
+    "coverage_business_auto": "X",
+    "coverage_workers_compensation": "X",
+    "coverage_umbrella_excess": "unchecked",
+    "coverage_professional_liability_eao": "unchecked",
+    "q1_past_bankruptcies_receivership_reorganization": "No",
+    "q2_losses_or_claims_past_5_years": "Yes",
+    "q3_pending_litigation_or_regulatory_actions": "Yes",
+    "q4_regulated_chemicals_stored_used_disposed": "Yes",
+    "q5_work_involving_asbestos_lead_mold_remediation": "No",
+    "q6_metal_fabrication_or_welding_on_premises": "Yes",
+    "q7_lease_employees_to_or_from_other_firms": "No",
+    "q8_prepare_handle_serve_food_for_consumption": "No",
+    "q9_product_recall_past_5_years": "No",
+    "q10_operate_as_franchisor_sell_franchise_rights": "No",
+    "q11_daycare_or_childcare_operations_on_premises": "No",
+    "q12_involved_in_joint_ventures": "No",
+    "q13_own_or_operate_uas_drones": "No"
+  },
+  "additional_fields": {
+    "application_date": "2026-03-15",
+    "contact_name": "Patricia Nowak",
+    "years_with_current_agent": 28,
+    "website": "www.keystonecommercialbu.com",
+    "annual_revenue": 95000000,
+    "employees_full_time": 425,
+    "employees_part_time": 45,
+    "billing_plan": "Agency Bill -- Semi-Annual",
+    "payment_plan": "As per billing plan",
+    "applicant_signature_name": "Joseph Kowalczyk",
+    "applicant_title": "President & CEO",
+    "applicant_signature_date": "2026-03-15",
+    "producer_signature_name": "Patricia Nowak",
+    "producer_signature_date": "2026-03-15",
+    "expiring_policies": [
+      {
+        "coverage_type": "General Liability",
+        "expiring_carrier": "Markel Corporation",
+        "expiring_policy_number": "7GL0009577",
+        "expiring_premium": 296415
+      },
+      {
+        "coverage_type": "Commercial Property",
+        "expiring_carrier": "Zurich Insurance Group",
+        "expiring_policy_number": "CP00001358",
+        "expiring_premium": 134062
+      },
+      {
+        "coverage_type": "Business Auto",
+        "expiring_carrier": "Travelers Companies",
+        "expiring_policy_number": "CA002528-001",
+        "expiring_premium": 57708
+      },
+      {
+        "coverage_type": "Workers Compensation",
+        "expiring_carrier": "Nationwide Insurance",
+        "expiring_policy_number": "0000004484",
+        "expiring_premium": 1146540
+      }
+    ],
+    "loss_history": [
+      {
+        "coverage": "Workers Compensation",
+        "year": 2025,
+        "num_claims": 6,
+        "total_paid": 100271,
+        "total_reserved": 29678,
+        "total_incurred": 129949
+      },
+      {
+        "coverage": "Workers Compensation",
+        "year": 2024,
+        "num_claims": 10,
+        "total_paid": 407644,
+        "total_reserved": 11212,
+        "total_incurred": 418856
+      },
+      {
+        "coverage": "Workers Compensation",
+        "year": 2023,
+        "num_claims": 4,
+        "total_paid": 155436,
+        "total_reserved": 1212,
+        "total_incurred": 156648
+      },
+      {
+        "coverage": "Workers Compensation",
+        "year": 2022,
+        "num_claims": 3,
+        "total_paid": 96136,
+        "total_reserved": 0,
+        "total_incurred": 96136
+      },
+      {
+        "coverage": "Workers Compensation",
+        "year": 2021,
+        "num_claims": 12,
+        "total_paid": 367022,
+        "total_reserved": 2995,
+        "total_incurred": 370017
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2025,
+        "num_claims": 2,
+        "total_paid": 27905,
+        "total_reserved": 29915,
+        "total_incurred": 57820
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2024,
+        "num_claims": 1,
+        "total_paid": 18394,
+        "total_reserved": 39479,
+        "total_incurred": 57873
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2023,
+        "num_claims": 1,
+        "total_paid": 12196,
+        "total_reserved": 0,
+        "total_incurred": 12196
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2022,
+        "num_claims": 2,
+        "total_paid": 18384,
+        "total_reserved": 2132,
+        "total_incurred": 20516
+      },
+      {
+        "coverage": "General Liability",
+        "year": 2021,
+        "num_claims": 2,
+        "total_paid": 28541,
+        "total_reserved": 0,
+        "total_incurred": 28541
+      },
+      {
+        "coverage": "Business Auto",
+        "year": 2025,
+        "num_claims": 1,
+        "total_paid": 1103,
+        "total_reserved": 1513,
+        "total_incurred": 2616
+      },
+      {
+        "coverage": "Business Auto",
+        "year": 2024,
+        "num_claims": 5,
+        "total_paid": 40741,
+        "total_reserved": 51311,
+        "total_incurred": 92052
+      },
+      {
+        "coverage": "Business Auto",
+        "year": 2023,
+        "num_claims": 1,
+        "total_paid": 2616,
+        "total_reserved": 0,
+        "total_incurred": 2616
+      },
+      {
+        "coverage": "Business Auto",
+        "year": 2021,
+        "num_claims": 1,
+        "total_paid": 2616,
+        "total_reserved": 0,
+        "total_incurred": 2616
+      },
+      {
+        "coverage": "Commercial Property",
+        "year": 2022,
+        "num_claims": 1,
+        "total_paid": 36750,
+        "total_reserved": 0,
+        "total_incurred": 36750
+      }
+    ],
+    "loss_history_totals": {
+      "num_claims": 82,
+      "total_paid": 1315756,
+      "total_reserved": 169447,
+      "total_incurred": 1485204
+    },
+    "premises": [
+      {
+        "loc_number": "LOC-001",
+        "address": "300 Liberty Avenue, Suite 1200",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15222",
+        "occupancy": "Office",
+        "construction": "Fire Resistive",
+        "year_built": 2002,
+        "sq_ft": 18000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-002",
+        "address": "4500 Butler Street",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15201",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 1988,
+        "sq_ft": 60000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-003",
+        "address": "4520 Butler Street",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15201",
+        "occupancy": "Manufacturing",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 1988,
+        "sq_ft": 32000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-004",
+        "address": "3000 Village Run Road",
+        "city": "Wexford",
+        "state": "PA",
+        "zip": "15090",
+        "occupancy": "Office",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 2010,
+        "sq_ft": 8500,
+        "num_stories": 2
+      },
+      {
+        "loc_number": "LOC-005",
+        "address": "100 Dusith Road",
+        "city": "Cranberry Township",
+        "state": "PA",
+        "zip": "16066",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2000,
+        "sq_ft": 28000,
+        "num_stories": 1
+      }
+    ]
+  },
+  "remarks": null
+}

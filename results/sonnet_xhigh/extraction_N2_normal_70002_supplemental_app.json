@@ -1,0 +1,83 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Karen Weissman",
+    "recipient": "Maine Employers Mutual"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 31,
+    "annual_revenue": 48000000,
+    "employee_count": 113
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Policy Number CP-BIP-2025-4420, effective 09/01/2025. Submitted to Maine Employers Mutual. Prior carriers: Hartford Financial Services (2023, $419,914.35), Chubb Limited (2022, $456,514.10). Zero claims across all three prior policy years. No cancellations."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "90% portfolio occupancy rate",
+      "Formal safety program in place",
+      "Fire alarms hard-wired with central station monitoring",
+      "24-hour doorperson or security on premises",
+      "Written contracts with indemnification required from all contractors",
+      "8 of 9 locations are sprinklered",
+      "Zero claims reported in 2022, 2023, and 2024",
+      "No policy cancellations in any prior year",
+      "Electrical system updated in 2023",
+      "HVAC updated in 2018",
+      "22 years under current management indicating operational stability",
+      "31 years in business with $48M annual revenue"
+    ],
+    "concerns": [
+      "Portfolio not fully sprinklered per NFPA 13 or 13R",
+      "LOC-007 (3250 Hill Avenue, Toledo, OH \u2014 1998 Manufacturing) is the sole unsprinklered location",
+      "LOC-004 (2100 Kuntz Road, Dayton \u2014 Manufacturing, built 1992) is the oldest facility in the portfolio",
+      "No written contracts with all subcontractors",
+      "Material Safety Data Sheets (MSDS) not maintained",
+      "No lockout/tagout procedures in place",
+      "Plumbing last updated in 2015 \u2014 oldest of the three major systems",
+      "Short-term rentals (less than 1 year) permitted, introducing variable occupancy hazards"
+    ],
+    "loss_history_summary": "No claims reported for 2022 (Chubb Limited, $456,514.10 premium), 2023 (Hartford Financial Services, $419,914.35 premium), or 2024 (Liberty Mutual Insurance, $392,002.31 premium). No cancellations in any prior year. Three-year premium trend shows decline from $456,514 to $392,002."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio. Portfolio consists of 9 locations: 6 warehouses, 2 manufacturing facilities, and 1 office. Total square footage spans from 8,500 sq ft (office) to 425,000 sq ft (warehouse). Properties built between 1992 and 2019. Hours of Operation: Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 1:00 PM. 95 full-time and 18 part-time employees. Annual revenue $48,000,000.",
+    "safety_programs": "Formal safety program: Yes. Fire alarms hard-wired with central station monitoring: Yes. 24-hour doorperson or security on premises: Yes. Written contracts with indemnification required from all contractors: Yes. Written contracts with all subcontractors: No. Material Safety Data Sheets (MSDS) maintained: No. Lockout/tagout procedures in place: No. Last system updates: Plumbing 2015, HVAC 2018, Electrical 2023.",
+    "claims_narrative": "No claims reported in 2022 (Chubb Limited, premium $456,514.10), 2023 (Hartford Financial Services, premium $419,914.35), or 2024 (Liberty Mutual Insurance, premium $392,002.31). No policy cancellations in any of the three prior years reviewed."
+  }
+}

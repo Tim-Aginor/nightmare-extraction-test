@@ -1,0 +1,131 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": "AG-6645310",
+    "carrier_name": "Maine Employers Mutual Insurance Company",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Non-Combustible, Warehouse"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 146260000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property",
+      "limit": 42495000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 62590000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Extra Expense",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Rental Value",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Building",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Pers Prop",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Bldg & PP",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Inland Marine",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Crime",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Boiler & Machinery / Equipment Breakdown",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_basic": "checked",
+    "causes_of_loss_broad": "checked",
+    "causes_of_loss_x_special": "checked",
+    "earthquake": "checked",
+    "wind": "checked",
+    "flood": "checked"
+  },
+  "additional_fields": {
+    "certificate_number": "CERT-738762",
+    "revision_number": "2",
+    "date_issued": "2026-03-16",
+    "naic_number": "49182",
+    "insurer_a": "Maine Employers Mutual Insurance Company",
+    "insurer_b": null,
+    "insurer_c": null,
+    "insurer_d": null,
+    "insurer_e": null,
+    "insurer_f": null,
+    "insured_ltr": "A",
+    "property_location": "6500 Alum Creek Drive, Columbus, OH 43217",
+    "property_description": "Non-Combustible, Warehouse",
+    "deductible_building": 75000,
+    "deductible_contents": 75000,
+    "certificate_holder_name": "Navigator Realty Management Inc.",
+    "certificate_holder_address": "5290 Walnut Street, Ste. 159",
+    "certificate_holder_city_state_zip": "Newport News, VA 23601",
+    "authorized_representative": "Douglas Brennan",
+    "contact_name": "Karen Weissman",
+    "producer_phone": "(614) 555-0742",
+    "producer_fax": "(614) 837-8018",
+    "producer_email": "kweissman@mwpcg.com",
+    "producer_address": "175 South Third Street, Suite 1400, Columbus, OH 43215"
+  },
+  "remarks": null
+}

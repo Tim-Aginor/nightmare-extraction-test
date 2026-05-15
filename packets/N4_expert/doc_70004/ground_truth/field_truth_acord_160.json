@@ -1,0 +1,243 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "applicant_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "fein": {
+      "value": "25-7194638"
+    },
+    "sic_code": {
+      "value": "1521"
+    },
+    "entity_type": {
+      "value": "Corporation"
+    },
+    "nature_of_business": {
+      "value": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+    },
+    "years_in_business": {
+      "value": 42
+    },
+    "annual_revenue": {
+      "value": 95000000,
+      "rendered_as": "$95,000,000.00"
+    },
+    "policy_number_property": {
+      "value": "CP-KCB-2025-5583"
+    },
+    "property_premium": {
+      "value": 76073.77,
+      "rendered_as": "$76,073.77"
+    },
+    "property_deductible": {
+      "value": 25000,
+      "rendered_as": "$25,000.00"
+    },
+    "location_count": {
+      "value": 5
+    },
+    "total_tiv": {
+      "value": 39405000,
+      "rendered_as": "$39,405,000"
+    },
+    "policy_number_gl": {
+      "value": "GL-KCB-2025-5581"
+    },
+    "gl_limit_each_occurrence": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "gl_limit_general_aggregate": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "gl_limit_products_completed_ops": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "gl_limit_personal_advertising": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "gl_limit_damage_rented_premises": {
+      "value": 300000,
+      "rendered_as": "300,000.00"
+    },
+    "gl_limit_medical_expense": {
+      "value": 15000,
+      "rendered_as": "15,000.00"
+    },
+    "interest_holder_0_name": {
+      "value": "M&T Bank"
+    },
+    "interest_holder_0_loan_number": {
+      "value": "L-326713166"
+    },
+    "interest_holder_1_name": {
+      "value": "Fifth Third Bank"
+    },
+    "interest_holder_1_loan_number": {
+      "value": "L-167025479"
+    },
+    "interest_holder_2_name": {
+      "value": "Regions Bank"
+    },
+    "interest_holder_2_loan_number": {
+      "value": "L-575765254"
+    },
+    "valuation_method": {
+      "value": "Agreed Value"
+    }
+  },
+  "doc_type": "acord_160",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15222",
+      "construction": "Fire Resistive",
+      "occupancy": "Office",
+      "year_built": 2002,
+      "stories": 1,
+      "square_feet": 18000,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 1260000,
+      "bi_value": 2340000,
+      "tiv": 3600000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 1995,
+      "stories": 1,
+      "square_feet": 65000,
+      "sprinklered": true,
+      "building_value": 5200000,
+      "contents_value": 8450000,
+      "bi_value": 3900000,
+      "tiv": 17550000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": "15201",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Manufacturing",
+      "year_built": 1988,
+      "stories": 1,
+      "square_feet": 32000,
+      "sprinklered": true,
+      "building_value": 2240000,
+      "contents_value": 3840000,
+      "bi_value": 1920000,
+      "tiv": 8000000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "state": "PA",
+      "zip_code": "15090",
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Office",
+      "year_built": 2010,
+      "stories": 2,
+      "square_feet": 8500,
+      "sprinklered": true,
+      "building_value": 1700000,
+      "contents_value": 425000,
+      "bi_value": 850000,
+      "tiv": 2975000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "100 Dutilh Road",
+      "city": "Cranberry Township",
+      "state": "PA",
+      "zip_code": "16066",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": 2005,
+      "stories": 1,
+      "square_feet": 28000,
+      "sprinklered": false,
+      "building_value": 1680000,
+      "contents_value": 4480000,
+      "bi_value": 1120000,
+      "tiv": 7280000
+    }
+  ],
+  "additional_coverages": [
+    "Employee Dishonesty",
+    "Personal Effects & Property of Others",
+    "Forgery or Alteration",
+    "Cyber Liability",
+    "Accounts Receivable",
+    "Utility Services \u2014 Time Element",
+    "Computer Fraud",
+    "Ordinance or Law \u2014 Coverage C",
+    "Stop Gap / Employers Liability",
+    "Debris Removal \u2014 Additional",
+    "Primary & Non-Contributory",
+    "Employment Practices Liability",
+    "Tenant Legal Liability",
+    "Extra Expense",
+    "Pollutant Cleanup and Removal"
+  ],
+  "interests": [
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "M&T Bank",
+      "address": "P.O. Box 83702, Philadelphia, PA 19103",
+      "loan_number": "L-326713166"
+    },
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "Fifth Third Bank",
+      "address": "P.O. Box 8480, Detroit, MI 48226",
+      "loan_number": "L-167025479"
+    },
+    {
+      "type": "First Mortgagee",
+      "name": "Regions Bank",
+      "address": "P.O. Box 40745, Dallas, TX 75201",
+      "loan_number": "L-575765254"
+    }
+  ]
+}

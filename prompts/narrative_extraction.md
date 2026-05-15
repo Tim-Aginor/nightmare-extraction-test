@@ -11,7 +11,7 @@ Return a single JSON object:
 ```json
 {
   "document_info": {
-    "document_type": "<Broker Narrative|Submission Memo|Supplemental App|Policy Form|etc.>",
+    "document_type": "<string>",
     "date": "<YYYY-MM-DD or null>",
     "prepared_by": "<string or null>",
     "recipient": "<string or null>"

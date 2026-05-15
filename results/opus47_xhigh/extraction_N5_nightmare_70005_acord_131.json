@@ -1,0 +1,140 @@
+{
+  "form_info": {
+    "form_number": "ACORD 131",
+    "form_edition": "2016/03",
+    "form_title": "Umbrella / Excess Liability"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": null,
+    "insured_city": null,
+    "insured_state": null,
+    "insured_zip": null,
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "SIC CU025454",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Umbrella/Excess Liability - Each Occurrence",
+      "limit": 10000000,
+      "deductible": 50000,
+      "premium": 492351
+    },
+    {
+      "coverage_type": "Umbrella/Excess Liability - Aggregate",
+      "limit": 10000000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "general_liability": "checked",
+    "automobile_liability": "checked",
+    "employers_liability": "checked",
+    "professional_liability": "unchecked",
+    "commercial_property": "checked",
+    "marine": "unchecked",
+    "aviation": "unchecked",
+    "railroad_protective": "unchecked",
+    "liquor_liability": "unchecked",
+    "foreign_liability": "unchecked",
+    "products_liability": "unchecked",
+    "pollution_liability": "unchecked"
+  },
+  "additional_fields": {
+    "form_type": "occurrence",
+    "date": "2026-03-15",
+    "self_insured_retention": 50000,
+    "retention_applies": "Per Occurrence",
+    "sir_applies_to": "All coverages unless otherwise stated",
+    "underlying_insurance": [
+      {
+        "coverage_type": "GL",
+        "carrier": "Standard Insurance Company",
+        "policy_number": "gl GLFS 2025 8821",
+        "effective_date": "2025-06-01",
+        "expiration_date": "2026-06-01",
+        "per_occurrence": 2000000,
+        "aggregate": 4000000,
+        "premium": 153014
+      },
+      {
+        "coverage_type": "Auto",
+        "carrier": "Standard Insurance Company",
+        "policy_number": "CAGLFS20258822",
+        "effective_date": "2025-06-01",
+        "expiration_date": "2026-06-01",
+        "per_occurrence": 5000000,
+        "aggregate": null,
+        "premium": 262047
+      }
+    ],
+    "loss_history_summary": [
+      {
+        "coverage": "Workers Compensation - Employers' Liability",
+        "num_claims": 25,
+        "total_paid": 930991,
+        "total_reserved": 123860,
+        "total_incurred": null
+      },
+      {
+        "coverage": "General Liability",
+        "num_claims": 5,
+        "total_paid": 54127,
+        "total_reserved": 0,
+        "total_incurred": null
+      },
+      {
+        "coverage": "Automobile Liability",
+        "num_claims": 16,
+        "total_paid": 387376,
+        "total_reserved": 62174,
+        "total_incurred": null
+      },
+      {
+        "coverage": "Commercial Property",
+        "num_claims": 3,
+        "total_paid": 192018,
+        "total_reserved": 0,
+        "total_incurred": null
+      },
+      {
+        "coverage": "Umbrella / Excess Liability",
+        "num_claims": 0,
+        "total_paid": 0,
+        "total_reserved": 0,
+        "total_incurred": null
+      },
+      {
+        "coverage": "Other",
+        "num_claims": 2,
+        "total_paid": 3916,
+        "total_reserved": 0,
+        "total_incurred": 3916
+      },
+      {
+        "coverage": "TOTALS",
+        "num_claims": 51,
+        "total_paid": 1568428,
+        "total_reserved": 186034,
+        "total_incurred": 1754462
+      }
+    ],
+    "signature": "M. Johnson",
+    "signature_date": "2025-06-18",
+    "handwritten_note": "Need docs"
+  },
+  "remarks": "Handwritten note 'Need docs' present on page 2. Signed by M. Johnson on 6/18/2025. Page 2 loss history partially obscured/faded."
+}

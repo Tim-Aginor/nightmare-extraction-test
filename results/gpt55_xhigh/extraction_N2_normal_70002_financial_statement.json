@@ -1,0 +1,77 @@
+{
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "accounts_receivable": 8575100,
+        "cash": 8122900,
+        "inventory": null,
+        "other_current": 65300,
+        "prepaid_expenses": 1200000,
+        "total_current_assets": 17963300
+      },
+      "fixed_assets": {
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 72000000,
+        "property_plant_equipment": null
+      },
+      "other_assets": 22397800,
+      "total_assets": 112361100
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 78682400,
+      "total_equity": 78682400
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 12814400,
+        "accrued_expenses": 6289500,
+        "current_debt": 2094900,
+        "other_current": null,
+        "total_current_liabilities": 21198800
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 9785600,
+        "other_long_term": 2694300,
+        "total_long_term": 12479900
+      },
+      "total_liabilities": 33678700
+    }
+  },
+  "header": {
+    "audited": null,
+    "company_name": "Buckeye Industrial Properties, LLC",
+    "fiscal_year": 2026,
+    "period_end_date": "2026-01-31",
+    "period_type": "Fiscal Year",
+    "preparer": null,
+    "statement_type": "Financial Statement"
+  },
+  "income_statement": {
+    "cost_of_goods_sold": 19715000,
+    "gross_profit": 28285000,
+    "income_before_tax": 9938900,
+    "income_tax": 2738900,
+    "interest_expense": 1322100,
+    "net_income": 7200000,
+    "operating_expenses": {
+      "depreciation": 892700,
+      "insurance": null,
+      "other_operating": 16131300,
+      "rent": null,
+      "salaries_wages": null,
+      "total_operating_expenses": 17024000,
+      "utilities": null
+    },
+    "operating_income": 11261000,
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": 48000000
+    }
+  },
+  "ratios": {
+    "current_ratio": 0.85,
+    "debt_to_equity": 0.43,
+    "profit_margin": 15
+  }
+}

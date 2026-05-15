@@ -1,0 +1,61 @@
+{
+  "document_info": {
+    "document_type": "Property Statement of Values",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate/property holdings with office, mercantile, and mixed-use properties",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "All scheduled locations are sprinklered.",
+      "Portfolio is primarily fire resistive, masonry non-combustible, or non-combustible construction.",
+      "Buildings are relatively modern, with years built ranging from 1995 to 2018.",
+      "TIV was updated per appraisal."
+    ],
+    "concerns": [
+      "All scheduled locations are concentrated in Texas.",
+      "Prior-year modifications indicate an added warehouse facility effective 2026-03-15.",
+      "Prior-year modifications also indicate a location closure due to lease expiration effective 2026-03-15."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Changes from Prior Year: Addition - New Location - Added warehouse facility; Deletion - Old Location - Lease expired, location closed; Update - Lone Star Property Holdings, LP - Updated TIV per appraisal.",
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

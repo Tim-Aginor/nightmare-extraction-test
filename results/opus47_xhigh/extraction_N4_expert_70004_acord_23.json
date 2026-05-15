@@ -1,0 +1,183 @@
+{
+  "form_info": {
+    "form_number": "ACORD 23",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF AUTOMOBILE INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CA-KCB-2025-5582",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Automobile Liability - Combined Single Limit",
+      "limit": 5000000,
+      "deductible": 2500,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "any_auto": "checked",
+    "owned_autos_only": "unchecked",
+    "hired_autos_only": "unchecked",
+    "scheduled_autos": "unchecked",
+    "non_owned_autos_only": "unchecked"
+  },
+  "additional_fields": {
+    "certificate_number": "CERT-000700004-9405",
+    "certificate_date": "2026-03-16",
+    "producer_contact": "Patricia Nowak",
+    "producer_address": "One PPG Place, Suite 3100, Pittsburgh, PA 15222",
+    "producer_phone": "(412) 555-0287",
+    "producer_fax": "(412) 580-2110",
+    "producer_email": "pnowak@steelcityins.com",
+    "insurer_a": "Hallmark Insurance Company (NAIC 41837)",
+    "insurer_b": "Hallmark Indemnity Company (NAIC 41883)",
+    "insurer_c": "Hallmark Casualty Company (NAIC 41845)",
+    "insurer_d": "Hallmark Assurance Company (NAIC 42134)",
+    "insurer_letter": "A",
+    "certificate_holder_name": "Woodbridge Realty Management Inc.",
+    "certificate_holder_address": "4715 Maple Avenue, Unit 129, Birmingham, AL 35201",
+    "authorized_representative": "Joseph Kowalczyk",
+    "vehicles": [
+      {
+        "vehicle_number": 1,
+        "year": 2023,
+        "make": "Ford",
+        "model": "F-550",
+        "vin": "1FT5W5DT9PEEL4K1",
+        "body_type": "Utility"
+      },
+      {
+        "vehicle_number": 2,
+        "year": 2024,
+        "make": "Ford",
+        "model": "F-350",
+        "vin": "1FD8X3H6RSEB5AP5",
+        "body_type": "Pickup"
+      },
+      {
+        "vehicle_number": 3,
+        "year": 2022,
+        "make": "Ford",
+        "model": "F-350",
+        "vin": "1FD8X3G5NGEB54BC",
+        "body_type": "Pickup"
+      },
+      {
+        "vehicle_number": 4,
+        "year": 2023,
+        "make": "Ford",
+        "model": "F-250",
+        "vin": "1FTNR5ENR4PFB4DCN",
+        "body_type": "Pickup"
+      },
+      {
+        "vehicle_number": 5,
+        "year": 2024,
+        "make": "Ram",
+        "model": "3500",
+        "vin": "3C6UR5HL8EJ5V7B",
+        "body_type": "Pickup"
+      },
+      {
+        "vehicle_number": 6,
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Silverado 2500",
+        "vin": "1GC4CYEA6PF6DFW12",
+        "body_type": "Pickup"
+      },
+      {
+        "vehicle_number": 7,
+        "year": 2022,
+        "make": "Ford",
+        "model": "E-450",
+        "vin": "1FADE6D69NTCBFSCA",
+        "body_type": "Box Truck"
+      },
+      {
+        "vehicle_number": 8,
+        "year": 2023,
+        "make": "Ford",
+        "model": "Transit 250",
+        "vin": "1FTBR2CEKPSDEWSTF",
+        "body_type": "Cargo Van"
+      },
+      {
+        "vehicle_number": 9,
+        "year": 2024,
+        "make": "Ford",
+        "model": "Transit 250",
+        "vin": "1FT4S5YED9RA1ME1H7",
+        "body_type": "Cargo Van"
+      },
+      {
+        "vehicle_number": 10,
+        "year": 2022,
+        "make": "Chevrolet",
+        "model": "Express 2500",
+        "vin": "1GAZV9CD9N1Z8SLR52",
+        "body_type": "Cargo Van"
+      },
+      {
+        "vehicle_number": 11,
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Tacoma",
+        "vin": "3T1TPN5BE3PH5V5SJV",
+        "body_type": "Pickup"
+      },
+      {
+        "vehicle_number": 12,
+        "year": 2024,
+        "make": "Ford",
+        "model": "F-150",
+        "vin": "1FTBR3SBR8NA840L9U",
+        "body_type": "Pickup"
+      },
+      {
+        "vehicle_number": 13,
+        "year": 2016,
+        "make": "Fontaine",
+        "model": "Magnitude 55L",
+        "vin": "13N1A5702GK6R3BFZE",
+        "body_type": "Flatbed Trailer"
+      },
+      {
+        "vehicle_number": 14,
+        "year": 2021,
+        "make": "Wabash",
+        "model": "Platinum",
+        "vin": "1JJBC2547PNE3UCOKJ",
+        "body_type": "Flatbed Trailer"
+      },
+      {
+        "vehicle_number": 15,
+        "year": 2022,
+        "make": "Great Dane",
+        "model": "Freedom SE",
+        "vin": "1DVZ05FWKXN21P9J09P",
+        "body_type": "Flatbed Trailer"
+      }
+    ]
+  },
+  "remarks": "Certificate issued as a matter of information only and confers no rights upon the certificate holder. Cancellation: Should any of the above described policies be cancelled before the expiration date thereof, notice will be delivered in accordance with the policy provisions."
+}

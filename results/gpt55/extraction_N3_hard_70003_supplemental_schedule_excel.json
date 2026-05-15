@@ -1,0 +1,100 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Prior Insurance History - 2024",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Policy numbers listed: WC-8098-9663, 0000005824, CP003220-001. Claims: 11. Cancellation: No. Loss ratio not provided.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior Insurance History - 2023",
+      "current_carrier": "Markel Corporation",
+      "current_limit": null,
+      "expiring_premium": 619820.26,
+      "notes": "Policy numbers listed: 7WC0009522, 0000002291, CP-1970-9645. Claims: 3. Cancellation: No. Loss ratio not provided.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior Insurance History - 2022",
+      "current_carrier": "Zurich Insurance Group",
+      "current_limit": null,
+      "expiring_premium": 607294.45,
+      "notes": "Policy numbers listed: 0000004808, GL-0002700, 7CP0001066. Claims: 6. Cancellation: Yes. Loss ratio not provided.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior Insurance History - 2021",
+      "current_carrier": "Chubb Limited",
+      "current_limit": null,
+      "expiring_premium": 630843.2,
+      "notes": "Policy numbers listed: 0000008163, GL-8167-3439, CP-0009781. Claims: 9. Cancellation: No. Loss ratio not provided.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Prior Insurance History - 2020",
+      "current_carrier": "EMPLOYERS Insurance Group",
+      "current_limit": null,
+      "expiring_premium": 580805.53,
+      "notes": "Policy numbers listed: WC008082-001, GL-4906-7512, CP00007431. Claims: 2. Cancellation: No. Loss ratio not provided.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Prior Insurance History",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history shows 31 total claims from 2020 through 2024: 11 in 2024, 3 in 2023, 6 in 2022, 9 in 2021, and 2 in 2020. Loss ratios were not provided. One cancellation is shown in 2022 with Zurich Insurance Group.",
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": null,
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "2022 prior policy year indicates cancellation: Yes.",
+      "31 total claims reported across 2020-2024.",
+      "Highest claim count shown in 2024 with 11 claims; 2021 also shows 9 claims.",
+      "Loss ratios were not provided."
+    ],
+    "loss_history_summary": "Prior insurance history reports claims by year as follows: 2024: 11, 2023: 3, 2022: 6, 2021: 9, 2020: 2. Total reported claims across the five-year period: 31. Premiums provided for 2020-2023 range from 580805.53 to 630843.2. 2024 premium and all loss ratios are not provided. Cancellation is marked Yes for 2022 and No for 2020, 2021, 2023, and 2024.",
+    "positives": [
+      "No cancellation reported for 2020, 2021, 2023, or 2024.",
+      "Prior carrier history is provided for 2020-2023.",
+      "Reported claims decreased from 6 in 2022 to 3 in 2023."
+    ]
+  }
+}

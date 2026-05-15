@@ -1,0 +1,78 @@
+{
+  "business_description": {
+    "annual_revenue": 95000000,
+    "employee_count": 470,
+    "naics_code": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": null,
+    "years_in_business": 42
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Supplemental application for policy number WC-KCB-2025-5580. No coverage limits or requested limits shown.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-14",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Patricia Nowak",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior Insurance History: 2024 Nationwide Insurance premium 1634721.63, claims 13, cancellations No; 2023 Berkshire Hathaway Guard premium 1476849.96, claims 10, cancellations Yes; 2022 Zurich Insurance Group premium 1369245.71, claims 4, cancellations Yes.",
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Years in business: 42; years with current management: 28; full-time employees: 425; part-time employees: 45; annual revenue/gross receipts: 95000000; hours of operation: Mon-Fri 7:00 AM - 3:30 PM. Three largest projects completed in the past 3 years: 1200000 restaurant build-out; 800000 medical office renovation; 650000 church addition.",
+    "safety_programs": "Formal safety program: Yes; written contracts with all subcontractors: No; hazardous materials used or encountered in operations: Yes; certificates of insurance required from all subcontractors before work begins: No; percentage of work performed by subcontractors vs. own employees: 40%; formal return-to-work or modified duty program: Yes; maintains OSHA 300 logs and conducts regular job-site safety audits: Yes; formal written safety program: Yes; hold-harmless agreements obtained from all subcontractors: No; demolition or blasting operations: Yes; operations performed above 4 stories: Yes."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "name": "Keystone Commercial Builders, Inc.",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Hazardous materials are used or encountered in operations.",
+      "Written contracts are not in place with all subcontractors.",
+      "Certificates of insurance are not required from all subcontractors before work begins.",
+      "Hold-harmless agreements are not obtained from all subcontractors.",
+      "Demolition or blasting operations are performed.",
+      "Operations are performed above 4 stories.",
+      "40% of work is performed by subcontractors.",
+      "One listed premises location is not sprinklered.",
+      "Cancellations are marked Yes for 2022 and 2023 in the prior insurance history.",
+      "Claims increased from 4 in 2022 to 10 in 2023 and 13 in 2024."
+    ],
+    "loss_history_summary": "Prior insurance history shows 27 total claims over 2022-2024: 4 in 2022 with Zurich Insurance Group, 10 in 2023 with Berkshire Hathaway Guard, and 13 in 2024 with Nationwide Insurance. Premiums shown were 1369245.71 for 2022, 1476849.96 for 2023, and 1634721.63 for 2024. Cancellations are marked Yes for 2022 and 2023, and No for 2024.",
+    "positives": [
+      "42 years in business and 28 years with current management.",
+      "Formal safety program and formal written safety program are indicated.",
+      "Formal return-to-work or modified duty program is in place.",
+      "Applicant maintains OSHA 300 logs and conducts regular job-site safety audits.",
+      "Four of five listed premises are sprinklered."
+    ]
+  }
+}

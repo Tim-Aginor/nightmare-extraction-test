@@ -1,0 +1,101 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-14",
+    "prepared_by": "Marcus Jennings",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 16,
+    "annual_revenue": 42000000,
+    "employee_count": 450
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines (Workers Compensation / Multi-Line)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "Policy number WC-HCHP-2025-3350; effective 05/01/2025; 11 claims reported in 2024 policy year"
+    },
+    {
+      "coverage_type": "Commercial Lines (Prior Year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Markel Corporation",
+      "expiring_premium": 619820.26,
+      "notes": "2023 policy year; 3 claims; no cancellation"
+    },
+    {
+      "coverage_type": "Commercial Lines (Prior Year)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 607294.45,
+      "notes": "2022 policy year; 6 claims; policy was cancelled"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "Written contracts maintained with all subcontractors",
+      "Written contracts with indemnification required from all contractors",
+      "24-hour doorperson or security on premises",
+      "90% unit occupancy rate",
+      "All 8 premises locations are sprinklered (per premises schedule)",
+      "Fire alarms are hard-wired with central station monitoring",
+      "Material Safety Data Sheets (MSDS) maintained",
+      "HVAC systems replaced in 2020",
+      "No commercial occupancy within buildings",
+      "16 years in business with consistent management team",
+      "No policy cancellations in 2023 or 2024"
+    ],
+    "concerns": [
+      "Plumbing and electrical systems are original from 2005 \u2014 potentially outdated infrastructure",
+      "OSHA citations received within the past 3 years",
+      "No cyber liability protections in place",
+      "No quality control / quality assurance program",
+      "2022 policy with Zurich Insurance Group was cancelled",
+      "Claim count increased significantly in 2024 (11 claims vs. 3 in 2023)",
+      "Building not fully sprinklered per NFPA 13 or 13R (question 9 answered No)",
+      "EV charging stations installed on premises (added liability exposure)",
+      "Swimming pools, exercise rooms, and other amenities present (added liability exposure)",
+      "Short-term rentals (less than 1 year) are permitted"
+    ],
+    "loss_history_summary": "Three-year loss history: 2024 \u2013 Travelers Companies, $686,236.25 premium, 11 claims, no cancellation; 2023 \u2013 Markel Corporation, $619,820.26 premium, 3 claims, no cancellation; 2022 \u2013 Zurich Insurance Group, $607,294.45 premium, 6 claims, policy cancelled. Total of 20 claims over 3 years with premiums trending upward year-over-year."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Operations include 4 hotel locations, 3 restaurant locations, and 1 corporate office. Total square footage across all locations is approximately 380,500 sq ft. Hours of operation: Mon-Fri 8:00 AM - 5:00 PM (administrative). 285 full-time and 165 part-time employees. Annual revenue of $42,000,000.",
+    "safety_programs": "Formal safety program in place. Written contracts maintained with all subcontractors. Written contracts with indemnification required from all contractors. MSDS maintained. Fire alarms hard-wired with central station monitoring. All premises are sprinklered per premises schedule. No QC/QA program reported.",
+    "claims_narrative": "2024: 11 claims with Travelers Companies (premium $686,236.25, no cancellation). 2023: 3 claims with Markel Corporation (premium $619,820.26, no cancellation). 2022: 6 claims with Zurich Insurance Group (premium $607,294.45, policy cancelled). OSHA citations reported within the past 3 years."
+  }
+}

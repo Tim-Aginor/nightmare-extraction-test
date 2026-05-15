@@ -1,0 +1,221 @@
+{
+  "applicant_info": {
+    "fein": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "blanket_summary": {
+    "blanket_limit": 39405000,
+    "blanket_number": "BLK-5830",
+    "blanket_type": "Contents"
+  },
+  "checkboxes": [
+    {
+      "field": "LOC-001 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-001 Burglar Alarm",
+      "value": "No"
+    },
+    {
+      "field": "LOC-001 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-002 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-002 Burglar Alarm",
+      "value": "No"
+    },
+    {
+      "field": "LOC-002 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-003 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-003 Burglar Alarm",
+      "value": "No"
+    },
+    {
+      "field": "LOC-003 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-004 Sprinklered",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-004 Burglar Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-004 Fire Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-005 Sprinklered",
+      "value": "No"
+    },
+    {
+      "field": "LOC-005 Burglar Alarm",
+      "value": "Yes"
+    },
+    {
+      "field": "LOC-005 Fire Alarm",
+      "value": "No"
+    }
+  ],
+  "coinsurance": null,
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 140",
+    "form_title": "PROPERTY SECTION"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "CP-KCB-2025-5583",
+    "producer_code": "ACT-609402",
+    "producer_name": "Steel City Insurance Group"
+  },
+  "interest_holders": [
+    {
+      "address": "P.O. Box 20508, Bryan, ND 14109",
+      "interest_type": "ISAOA/ATIMA",
+      "loan_number": "L-23073902",
+      "name": "Fifth Third Bank"
+    },
+    {
+      "address": "P.O. Box 41602, Elk Grove, CA 95624",
+      "interest_type": "Loss Payee",
+      "loan_number": "L-339683025",
+      "name": "De Lage Landen Financial Services"
+    },
+    {
+      "address": "P.O. Box 76073, Spokane, WA 99208",
+      "interest_type": "Additional Insured",
+      "loan_number": "L-68894814",
+      "name": "Lakeside Property Management, LLC"
+    }
+  ],
+  "locations": [
+    {
+      "address": "300 Liberty Avenue, Suite 1200",
+      "bi_value": 2340000,
+      "building_value": 0,
+      "city": "Pittsburgh",
+      "construction": null,
+      "contents_value": 1260000,
+      "fire_alarm_type": "Proprietary System",
+      "location_number": "LOC-001",
+      "occupancy": "Office",
+      "roof_type": "EPDM",
+      "sprinkler_type": "Pre-Action",
+      "sprinklered": true,
+      "square_feet": 15000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": 3600000,
+      "year_built": 2002,
+      "zip": "15222"
+    },
+    {
+      "address": "4500 Butler Street",
+      "bi_value": 3900000,
+      "building_value": 5270000,
+      "city": "Pittsburgh",
+      "construction": "Non-Combustible",
+      "contents_value": 8380000,
+      "fire_alarm_type": "Proprietary System",
+      "location_number": "LOC-002",
+      "occupancy": "Warehouse",
+      "roof_type": "EPDM",
+      "sprinkler_type": "Deluge",
+      "sprinklered": true,
+      "square_feet": 65000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": 17550000,
+      "year_built": 1995,
+      "zip": "15201"
+    },
+    {
+      "address": "2200 Butler Street",
+      "bi_value": 1920000,
+      "building_value": 2240000,
+      "city": "Pittsburgh",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": 3840000,
+      "fire_alarm_type": "Local Alarm Only",
+      "location_number": "LOC-003",
+      "occupancy": "Manufacturing",
+      "roof_type": "TPO",
+      "sprinkler_type": "Pre-Action",
+      "sprinklered": true,
+      "square_feet": 32000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": 8000000,
+      "year_built": 1988,
+      "zip": "15201"
+    },
+    {
+      "address": "3300 Village Run Road",
+      "bi_value": 600000,
+      "building_value": 1700000,
+      "city": "Wexford",
+      "construction": "Masonry Non-Combustible",
+      "contents_value": 675000,
+      "fire_alarm_type": "Central Station Monitored",
+      "location_number": "LOC-004",
+      "occupancy": "Office",
+      "roof_type": "Shingle",
+      "sprinkler_type": "Deluge",
+      "sprinklered": true,
+      "square_feet": 8500,
+      "state": "PA",
+      "stories": 2,
+      "tiv": 2975000,
+      "year_built": 2010,
+      "zip": "15090"
+    },
+    {
+      "address": "1100 Dutilh Road",
+      "bi_value": 1120000,
+      "building_value": 1850000,
+      "city": "Cranberry Township",
+      "construction": "Non-Combustible",
+      "contents_value": 4310000,
+      "fire_alarm_type": "None",
+      "location_number": "LOC-005",
+      "occupancy": "Warehouse",
+      "roof_type": "Concrete",
+      "sprinkler_type": "None",
+      "sprinklered": false,
+      "square_feet": 28000,
+      "state": "PA",
+      "stories": 1,
+      "tiv": 7280000,
+      "year_built": 2005,
+      "zip": "16066"
+    }
+  ],
+  "property_deductible": 25000,
+  "property_premium": null,
+  "remarks": null,
+  "valuation_method": "Replacement Cost"
+}

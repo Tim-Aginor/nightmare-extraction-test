@@ -1,0 +1,69 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application",
+    "date": "2026-03-15",
+    "prepared_by": "Margaret Sullivan",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": 78000000,
+    "employee_count": 485
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": 2586013,
+      "notes": "2024 expiring policy; 10 claims reported, no cancellations."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Maintains a formal safety program",
+      "GPS tracking or ELD devices installed in all vehicles",
+      "MVR checks performed on all drivers at least annually",
+      "CDL licenses verified for all drivers at time of hire"
+    ],
+    "concerns": [
+      "Most recent CSA BASIC score in Crash Indicator is above intervention threshold (currently being addressed)"
+    ],
+    "loss_history_summary": "Prior insurance history indicates 10 claims in 2024, 13 claims in 2023, and 12 claims in 2022. There have been no policy cancellations in the past three years."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors (Interstate FMCSA)"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2025-08-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Operates interstate (FMCSA) only, utilizing sleeper-cab tractors for long-haul operations. Primary commodities hauled include dry van (general freight, packaged goods) and flatbed (steel, lumber, machinery). Also hauls refrigerated reefer units carrying perishable freight.",
+    "safety_programs": "The applicant has a formal safety program in place. GPS tracking or ELD devices are installed in all vehicles. MVR checks are performed on all drivers at least annually, and CDL licenses are verified for all drivers at time of hire.",
+    "claims_narrative": "Loss history shows 10 claims under Hanover Insurance Group in 2024, 13 claims under Hartford Financial Services in 2023, and 12 claims under Auto-Owners Insurance in 2022. No cancellations were reported during this period."
+  }
+}

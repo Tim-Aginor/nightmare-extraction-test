@@ -1,0 +1,91 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CP-HCHP-2025-7552",
+    "effective_date": "2020-05-01",
+    "expiration_date": "2021-05-01",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": "AG-3508569"
+  },
+  "document_date": "2020-03-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "604 Brazos Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": 101570000,
+      "contents_value": 26180000,
+      "bi_value": 40510000,
+      "tiv": null
+    }
+  ],
+  "property_limits": {
+    "building": 101570000,
+    "contents": 26180000,
+    "business_income": 40510000
+  },
+  "property_deductible": 25000,
+  "insurer_panel": [
+    {
+      "carrier": "Hallmark Insurance Company",
+      "naic": "16339"
+    },
+    {
+      "carrier": "Hallmark Indemnity Company",
+      "naic": "16412"
+    },
+    {
+      "carrier": "Hallmark County Company",
+      "naic": "16371"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "BASIC",
+      "value": "No"
+    },
+    {
+      "field": "BROAD",
+      "value": "No"
+    },
+    {
+      "field": "SPECIAL",
+      "value": "Yes"
+    },
+    {
+      "field": "EARTHQUAKE",
+      "value": "No"
+    },
+    {
+      "field": "WIND",
+      "value": "No"
+    },
+    {
+      "field": "FLOOD",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

@@ -1,0 +1,68 @@
+{
+  "checkboxes": [
+    {
+      "field": "Basic",
+      "value": "No"
+    },
+    {
+      "field": "Broad",
+      "value": "No"
+    },
+    {
+      "field": "Special",
+      "value": "Yes"
+    }
+  ],
+  "document_date": "2025-06-30",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 27",
+    "form_title": "Evidence of Property Insurance"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "insured_address": "401 Congress Avenue, Suite 2500",
+    "insured_city": "Austin",
+    "insured_name": "RSH Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": "CP-HCIP-2025-3357",
+    "producer_code": "2C339",
+    "producer_name": "Capital Insurance Advisors"
+  },
+  "interests": [
+    {
+      "address": "608 Baylor Street, Austin, TX 78744",
+      "interest_type": "Mortgagee - First Mortgage",
+      "loan_number": null,
+      "name": "Wells Fargo Bank, N.A."
+    }
+  ],
+  "locations": [
+    {
+      "address": "604 Brazos Street",
+      "bi_value": 18647500,
+      "building_value": 28800000,
+      "city": "Austin",
+      "construction": null,
+      "contents_value": 7125000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Hotel",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": null,
+      "square_feet": null,
+      "state": "TX",
+      "stories": null,
+      "tiv": 54572500,
+      "year_built": null,
+      "zip": "78701"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 25000,
+  "remarks": "Coverage provided on Special Form. Property with Equipment Breakdown and Ordinance or Law Included"
+}

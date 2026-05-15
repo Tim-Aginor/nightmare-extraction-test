@@ -1,0 +1,63 @@
+{
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "naics_code": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": "7011",
+    "years_in_business": null
+  },
+  "checkboxes": [],
+  "class_codes": [
+    {
+      "class_code": "9052",
+      "description": "Hotel -- All Other Employees",
+      "payroll": 8207271,
+      "premium": 234407,
+      "rate": 2.86
+    },
+    {
+      "class_code": "9060",
+      "description": "Hotel -- Restaurant, Operations",
+      "payroll": 1353409,
+      "premium": 100833,
+      "rate": 7.45
+    },
+    {
+      "class_code": "9082",
+      "description": "Restaurant -- NOC",
+      "payroll": 1879960,
+      "premium": 37761,
+      "rate": 2.12
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees -- NOC",
+      "payroll": 1035006,
+      "premium": 5486,
+      "rate": 0.53
+    }
+  ],
+  "experience_mod": 0.94,
+  "form_info": {
+    "form_edition": "2009/09",
+    "form_number": "ACORD 133",
+    "form_title": "Workers Compensation Assigned Risk"
+  },
+  "header": {
+    "carrier_name": null,
+    "effective_date": "2005-05-01",
+    "expiration_date": "2006-05-01",
+    "insured_address": "401 Congress Avenue, Suite 2500",
+    "insured_city": "Austin",
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Capitol Insurance Advisors"
+  },
+  "remarks": "SIC: 7011. Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas.",
+  "state": "TX",
+  "total_premium": 378487
+}

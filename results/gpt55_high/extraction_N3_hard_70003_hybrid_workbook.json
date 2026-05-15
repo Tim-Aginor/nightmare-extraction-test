@@ -1,0 +1,96 @@
+{
+  "business_description": {
+    "annual_revenue": 42000000,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Hospitality operations including hotels, restaurants, and a corporate office based on the scheduled occupancies.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": null,
+      "current_limit": "Total insured value 168230000",
+      "expiring_premium": null,
+      "notes": "Property schedule includes 8 Texas locations with total building value 101570000, contents value 26150000, and business income value 40510000. Property loss summary shows 2 claims, 178566 paid, and 215927 incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 28 claims, 324545 total paid, and 415934 total incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 8 claims, 8780 total paid, and 82656 total incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Overall insurance program",
+      "current_carrier": "Travelers Companies",
+      "current_limit": null,
+      "expiring_premium": 686236.25,
+      "notes": "Insurance history lists 2024 carrier Travelers Companies, premium 686236.25, and 11 claims. Coverage-specific allocation was not provided.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel insurance submission workbook",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 0,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "name": "Hill Country Hospitality Partners, LLC",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Hospitality and restaurant occupancies present hotel, food service, guest, and public-access exposures.",
+      "Total insured value is 168230000, with significant values concentrated in Texas locations.",
+      "Largest scheduled locations are Riverwalk Suites San Antonio with TIV 64610000 and The Driskill Austin with TIV 46312500.",
+      "Loss summary includes 28 workers compensation claims totaling 415934 incurred and 2 property claims totaling 215927 incurred.",
+      "Insurance history shows 11 claims in 2024, higher than 3 claims in 2023."
+    ],
+    "loss_history_summary": "Loss summary shows Workers Compensation: 28 claims, 324545 paid, 415934 incurred; General Liability: 8 claims, 8780 paid, 82656 incurred; Property: 2 claims, 178566 paid, 215927 incurred. Insurance history from 2020 to 2024 lists 31 total claims, with 2024 carrier Travelers Companies and premium 686236.25.",
+    "positives": [
+      "All 8 scheduled locations are sprinklered.",
+      "Most scheduled square footage is in fire resistive, non-combustible, or masonry non-combustible construction.",
+      "Operations are documented with a detailed property schedule including construction, occupancy, roof type, values, and business income.",
+      "Financial statements show annual revenue of 42000000, total assets of 77004300, equity of 52535400, and net income of 3220600."
+    ]
+  }
+}

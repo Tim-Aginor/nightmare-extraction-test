@@ -1,0 +1,103 @@
+{
+  "document_info": {
+    "document_type": "Excel workbook",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial builders",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 95000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "All Lines Program",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "Most recent Insurance History entry is 2024 with 13 claims. Prior carriers were Berkshire Hathaway Guard (2023), Zurich Insurance Group (2022), Nationwide Insurance (2021), and CNA Financial (2020)."
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss Summary shows 35 claims, 1126509 paid, and 1176100 incurred."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss Summary shows 8 claims, 105421 paid, and 176947 incurred."
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss Summary shows 8 claims, 47076 paid, and 99900 incurred. Driver schedule lists 15 drivers."
+    },
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "SOV lists 5 Pennsylvania locations with total TIV of 39405000. Loss Summary shows 1 claim, 36750 paid, and 36750 incurred."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All scheduled locations are fire resistive, non-combustible, or masonry non-combustible construction.",
+      "Four of five locations are sprinklered, including the largest TIV site.",
+      "Driver schedule lists 15 Pennsylvania-licensed drivers with 5 to 28 years of experience.",
+      "Financials show 95000000 in revenue, 5997400 net income, and 34373200 in equity."
+    ],
+    "concerns": [
+      "Equipment Storage - Cranberry is unsprinklered and carries 7280000 of TIV.",
+      "Workers Compensation drives the loss profile with 35 claims and 1176100 incurred.",
+      "Main Equipment Yard & Warehouse concentrates 17550000 of TIV at a single location.",
+      "Annual claim counts were elevated in 2021 (15) and 2024 (13)."
+    ],
+    "loss_history_summary": "Insurance History shows annual claim counts of 6 in 2020, 15 in 2021, 4 in 2022, 10 in 2023, and 13 in 2024, with premiums ranging from 1369245.71 to 1634721.63. Separate Loss Summary totals 52 claims, 1315756 paid, and 1489697 incurred, driven primarily by Workers Compensation."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 15,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "carrier_info": {
+    "carrier_name": "Midwest Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "policy_period_end": null,
+    "policy_period_start": null
+  },
+  "insured": {
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "name": "Keystone Commercial Builders, Inc.",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "locations_inspected": [
+    {
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "condition_rating": null,
+      "construction": "Fire Resistive",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Corporate Headquarters",
+      "occupancy": null,
+      "protection_class": 3,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "PA",
+      "stories": 1,
+      "year_built": 2002
+    },
+    {
+      "address": "4500 Butler Street",
+      "city": "Pittsburgh",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Main Equipment Yard & Warehouse",
+      "occupancy": null,
+      "protection_class": 3,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "PA",
+      "stories": 1,
+      "year_built": 1995
+    },
+    {
+      "address": "4520 Butler Street",
+      "city": "Pittsburgh",
+      "condition_rating": null,
+      "construction": "Masonry Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Fabrication Shop",
+      "occupancy": null,
+      "protection_class": 1,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "PA",
+      "stories": 1,
+      "year_built": 1988
+    },
+    {
+      "address": "3000 Village Run Road",
+      "city": "Wexford",
+      "condition_rating": null,
+      "construction": "Masonry Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "South Hills Branch Office",
+      "occupancy": null,
+      "protection_class": 4,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "PA",
+      "stories": 2,
+      "year_built": 2010
+    },
+    {
+      "address": "100 Dutill Road",
+      "city": "Cranberry Township",
+      "condition_rating": null,
+      "construction": "Non-Combustible",
+      "deficiencies": [],
+      "findings": [],
+      "name": "Equipment Storage - Cranberry",
+      "occupancy": null,
+      "protection_class": 1,
+      "sprinklered": false,
+      "square_feet": null,
+      "state": "PA",
+      "stories": 1,
+      "year_built": 2005
+    }
+  ],
+  "overall_assessment": {
+    "insurability": "PASS",
+    "risk_level": "3 - Average",
+    "summary": "Fire protection system inspection status was PASS. Wet pipe system, approximately 28 years old, manufacturer Viking, NFPA 13 compliant. Three control valves were inspected and found open; tamper switches were connected to monitoring. Water flow alarm tested operational, supervisory signal deficiency noted. Sprinkler heads were in fair visual condition with minor corrosion observed, spare heads were adequate, and water supply was adequate."
+  },
+  "recommendations": [
+    {
+      "category": "fire_protection",
+      "deadline": null,
+      "description": "Correct supervisory signal deficiency noted during alarm device inspection.",
+      "estimated_cost": null,
+      "priority": null
+    },
+    {
+      "category": "electrical",
+      "deadline": null,
+      "description": "Electrical panel clearance obstructed by stored materials.",
+      "estimated_cost": null,
+      "priority": "Advisable"
+    },
+    {
+      "category": "electrical",
+      "deadline": null,
+      "description": "Exposed wiring and missing junction box covers in main electrical room.",
+      "estimated_cost": null,
+      "priority": "Necessary"
+    }
+  ],
+  "report_info": {
+    "grading_scale": "Best's Hazard Index",
+    "inspector_company": "Midwest Insurance Group",
+    "inspector_name": "S. Martinez, PE",
+    "report_date": "2026-03-15",
+    "report_type": "Fire Protection System Inspection Report",
+    "risk_grade": "3 - Average"
+  }
+}

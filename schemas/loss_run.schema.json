@@ -1,0 +1,466 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "loss_run",
+  "type": "object",
+  "properties": {
+    "header": {
+      "type": "object",
+      "properties": {
+        "insured_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "carrier_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_numbers": {
+          "type": "object",
+          "properties": {
+            "wc": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "gl": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "auto": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "property": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "umbrella": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "mtc": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "wc",
+            "gl",
+            "auto",
+            "property",
+            "umbrella",
+            "mtc"
+          ],
+          "additionalProperties": false
+        },
+        "report_date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_period_start": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "policy_period_end": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "insured_name",
+        "carrier_name",
+        "policy_numbers",
+        "report_date",
+        "policy_period_start",
+        "policy_period_end"
+      ],
+      "additionalProperties": false
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "claim_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "date_of_loss": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "claimant": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "status": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "Open",
+              "Closed",
+              "Denied",
+              "Subrogation",
+              "Re-opened",
+              "Closed Without Payment",
+              null
+            ]
+          },
+          "coverage": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "wc",
+              "gl",
+              "auto",
+              "property",
+              "umbrella",
+              "mtc",
+              null
+            ]
+          },
+          "paid": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "reserved": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "incurred": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "description": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "claim_number",
+          "date_of_loss",
+          "claimant",
+          "status",
+          "coverage",
+          "paid",
+          "reserved",
+          "incurred",
+          "description"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "subtotals_by_coverage": {
+      "type": "object",
+      "properties": {
+        "wc": {
+          "type": "object",
+          "properties": {
+            "paid": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "reserved": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "incurred": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "claim_count": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "paid",
+            "reserved",
+            "incurred",
+            "claim_count"
+          ],
+          "additionalProperties": false
+        },
+        "gl": {
+          "type": "object",
+          "properties": {
+            "paid": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "reserved": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "incurred": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "claim_count": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "paid",
+            "reserved",
+            "incurred",
+            "claim_count"
+          ],
+          "additionalProperties": false
+        },
+        "auto": {
+          "type": "object",
+          "properties": {
+            "paid": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "reserved": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "incurred": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "claim_count": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "paid",
+            "reserved",
+            "incurred",
+            "claim_count"
+          ],
+          "additionalProperties": false
+        },
+        "property": {
+          "type": "object",
+          "properties": {
+            "paid": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "reserved": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "incurred": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "claim_count": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "paid",
+            "reserved",
+            "incurred",
+            "claim_count"
+          ],
+          "additionalProperties": false
+        },
+        "umbrella": {
+          "type": "object",
+          "properties": {
+            "paid": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "reserved": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "incurred": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "claim_count": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "paid",
+            "reserved",
+            "incurred",
+            "claim_count"
+          ],
+          "additionalProperties": false
+        },
+        "mtc": {
+          "type": "object",
+          "properties": {
+            "paid": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "reserved": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "incurred": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "claim_count": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "paid",
+            "reserved",
+            "incurred",
+            "claim_count"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "wc",
+        "gl",
+        "auto",
+        "property",
+        "umbrella",
+        "mtc"
+      ],
+      "additionalProperties": false
+    },
+    "grand_totals": {
+      "type": "object",
+      "properties": {
+        "paid": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "reserved": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "incurred": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "claim_count": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "paid",
+        "reserved",
+        "incurred",
+        "claim_count"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "header",
+    "claims",
+    "subtotals_by_coverage",
+    "grand_totals"
+  ],
+  "additionalProperties": false
+}

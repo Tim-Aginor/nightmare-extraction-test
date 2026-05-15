@@ -1,0 +1,96 @@
+{
+  "claims": [
+    {
+      "claim_number": "CNA-2025-033500",
+      "claimant": "Lone Star Property Holdings, LP",
+      "coverage": "property",
+      "date_of_loss": "2025-06-13",
+      "description": "Fire; Location: 8117 Preston Road, Dallas, TX",
+      "incurred": 197782.57,
+      "paid": 153631.51,
+      "reserved": 44151.06,
+      "status": "Open"
+    },
+    {
+      "claim_number": "AIG-2023-033710",
+      "claimant": "Lone Star Property Holdings, LP",
+      "coverage": "property",
+      "date_of_loss": "2023-06-09",
+      "description": "Lightning; Location: 800 8th Avenue, Fort Worth, TX",
+      "incurred": 105450.03,
+      "paid": 105450.03,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "BHG-2021-033637",
+      "claimant": "Lone Star Property Holdings, LP",
+      "coverage": "property",
+      "date_of_loss": "2021-06-30",
+      "description": "Vandalism; Location: 5060 Westheimer Road, Houston, TX",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Denied"
+    }
+  ],
+  "grand_totals": {
+    "claim_count": 3,
+    "incurred": 303232.6,
+    "paid": 259081.54,
+    "reserved": 44151.06
+  },
+  "header": {
+    "carrier_name": null,
+    "insured_name": "Lone Star Property Holdings, LP",
+    "policy_numbers": {
+      "auto": null,
+      "gl": null,
+      "mtc": null,
+      "property": null,
+      "umbrella": null,
+      "wc": null
+    },
+    "policy_period_end": null,
+    "policy_period_start": null,
+    "report_date": null
+  },
+  "subtotals_by_coverage": {
+    "auto": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "gl": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "mtc": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "property": {
+      "claim_count": 3,
+      "incurred": 303232.6,
+      "paid": 259081.54,
+      "reserved": 44151.06
+    },
+    "umbrella": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "wc": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    }
+  }
+}

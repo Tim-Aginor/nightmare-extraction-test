@@ -1,0 +1,127 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": null,
+    "form_title": "Commercial General Liability Section"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "GL-GLFS-2025-8821",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01",
+    "producer_name": null,
+    "producer_code": "71-667291"
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "gl_class_codes": [
+    {
+      "class_code": "67419",
+      "description": "Trucking - Long Haul",
+      "premium_basis": "Payroll",
+      "exposure": 8500000,
+      "rate": 0.75,
+      "premium": 145775
+    },
+    {
+      "class_code": "52451",
+      "description": "Warehouse - Private",
+      "premium_basis": "Sales",
+      "exposure": 850000,
+      "rate": 1.25,
+      "premium": 6370
+    }
+  ],
+  "gl_limits": {
+    "each_occurrence": 2000000,
+    "general_aggregate": 4000000,
+    "products_completed_ops": 4000000,
+    "personal_advertising": 1000000,
+    "damage_rented_premises": 1000000,
+    "medical_expense": 5000
+  },
+  "gl_premium": {
+    "base_premium": 146644,
+    "tria_surcharge": 6370,
+    "total_premium": 153014,
+    "deductible": 5000,
+    "form_type": "Occurrence"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Hired & Non-Owned Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "claims_made",
+      "value": "No"
+    },
+    {
+      "field": "occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "applicant_perform_any_demolition_work",
+      "value": "No"
+    },
+    {
+      "field": "products_manufactured_sold_or_distributed",
+      "value": "Yes"
+    },
+    {
+      "field": "operations_conducted_outside_united_states",
+      "value": "No"
+    },
+    {
+      "field": "work_performed_by_subcontractors",
+      "value": "No"
+    },
+    {
+      "field": "work_performed_on_or_near_bodies_of_water",
+      "value": "No"
+    },
+    {
+      "field": "written_contractual_requirements_from_all_subcontractors",
+      "value": "No"
+    },
+    {
+      "field": "underground_storage_of_hazardous_substances",
+      "value": "No"
+    },
+    {
+      "field": "completed_operations_exposure",
+      "value": "No"
+    },
+    {
+      "field": "premises_operations_rented_or_leased_to_others",
+      "value": "No"
+    },
+    {
+      "field": "provide_professional_services_or_advice",
+      "value": "No"
+    },
+    {
+      "field": "athletic_or_recreational_facilities_on_premises",
+      "value": "No"
+    },
+    {
+      "field": "swimming_pools_hot_tubs_or_diving_boards_on_premises",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

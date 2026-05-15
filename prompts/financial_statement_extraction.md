@@ -12,9 +12,9 @@ Return a single JSON object:
 {
   "header": {
     "company_name": "<string>",
-    "statement_type": "<Balance Sheet|Income Statement|Combined|Annual Report>",
+    "statement_type": "<string>",
     "period_end_date": "<YYYY-MM-DD>",
-    "period_type": "<Annual|Quarterly|Monthly or null>",
+    "period_type": "<string or null>",
     "fiscal_year": "<number or null>",
     "audited": "<boolean or null>",
     "preparer": "<string or null>"

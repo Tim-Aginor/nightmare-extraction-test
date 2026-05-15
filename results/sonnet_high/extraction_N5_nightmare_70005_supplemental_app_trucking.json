@@ -1,0 +1,106 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2025-06-18",
+    "prepared_by": "M. Johnson",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Incorporated",
+    "address": null,
+    "city": null,
+    "state": "OH",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Trucking / Freight Carrier",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Trucking (Commercial Auto / Cargo)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Supplemental application submitted; loss runs attached for most recent five policy years; report date 03/15/2026"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "38 years in business \u2014 established carrier",
+      "Active operating authority (MC/MX: 593931)",
+      "Majority of commodities are non-hazmat (General Freight, Beverages, Machinery)",
+      "High average driver experience (approx. 18 years)",
+      "Relatively small fleet (12 power units, 13 trailers)"
+    ],
+    "concerns": [
+      "Hauls Hazmat Class 2 Compressed Gases (UN Class 2) \u2014 elevated risk commodity",
+      "Driver Profile section flagged internally with 'Need docs' notation \u2014 supporting documentation outstanding",
+      "Operating radius over 200 miles despite Interstate designation marked as No \u2014 potential inconsistency",
+      "Loss run report date (03/15/2026) post-dates document signature date (06/18/2025) \u2014 warrants clarification"
+    ],
+    "loss_history_summary": "See attached loss runs for the most recent five (5) policy years. Report date: 03/15/2026."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 12,
+    "driver_count": 40,
+    "radius_of_operation": "Over 200 miles"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Carrier operates 12 power units and 13 trailers with a radius of over 200 miles. State of domicile is Ohio. Commodities hauled include General Freight (non-hazmat), Beverages (non-hazmat), Machinery (non-hazmat), and Hazmat Class 2 Compressed Gases (UN Class 2). Interstate operations: No.",
+    "safety_programs": null,
+    "claims_narrative": "See attached loss runs for the most recent five (5) policy years. Report date: 03/15/2026."
+  },
+  "carrier_identifiers": {
+    "usdot_number": "6409266",
+    "mc_mx_number": "593931",
+    "fein": "31-6847291",
+    "operating_authority_status": "Active"
+  },
+  "cargo_profile": [
+    {
+      "commodity": "General Freight",
+      "hazmat": false,
+      "un_class": null
+    },
+    {
+      "commodity": "Beverages",
+      "hazmat": false,
+      "un_class": null
+    },
+    {
+      "commodity": "Machinery",
+      "hazmat": false,
+      "un_class": null
+    },
+    {
+      "commodity": "Hazmat Class 2 Compressed Gases",
+      "hazmat": true,
+      "un_class": "2"
+    }
+  ],
+  "driver_profile": {
+    "total_drivers": 40,
+    "cdl_drivers": 40,
+    "avg_years_experience": 18,
+    "documentation_status": "Missing \u2014 flagged as 'Need docs'"
+  }
+}

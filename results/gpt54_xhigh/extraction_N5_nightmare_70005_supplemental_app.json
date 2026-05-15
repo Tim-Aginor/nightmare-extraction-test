@@ -1,0 +1,66 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application - Commercial Lines",
+    "date": "2026-03-15",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": 78000000,
+    "employee_count": 485
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place.",
+      "No subcontracted drivers or independent contractors indicated.",
+      "No DOT violations or out-of-service orders in the past 3 years.",
+      "Fleet is in compliance with FMCSA Hours-of-Service regulations.",
+      "GPS tracking / ELD devices are installed in all vehicles.",
+      "MVR checks are performed on all drivers at least annually.",
+      "Applicant maintains a valid DOT number and MC authority.",
+      "CDL licenses are verified for all drivers at time of hire.",
+      "Warehouse and service/repair locations are sprinklered."
+    ],
+    "concerns": [
+      "CSA BASIC Crash Indicator is above intervention threshold and is currently being addressed.",
+      "Prior insurance history reflects 10 to 13 claims annually from 2022 through 2024."
+    ],
+    "loss_history_summary": "Prior insurance history shows 12 claims in 2022, 13 claims in 2023, and 10 claims in 2024; no cancellations reported."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": "Regional - Midwest and Mid-Atlantic corridors"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Nature of Business: Regional trucking and freight logistics - LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Primary commodities hauled by vehicle type: Dry van: general freight, packaged goods. Flatbed: steel, lumber, machinery.",
+    "safety_programs": "Do you have a formal safety program? Yes. Is fleet in compliance with FMCSA Hours-of-Service (HOS) regulations? Yes. Are GPS tracking or ELD devices installed in all vehicles? Yes. Are MVR checks performed on all drivers at least annually? Yes. Does the applicant maintain a valid DOT number and MC authority? Yes. Are CDL licenses verified for all drivers at time of hire? Yes.",
+    "claims_narrative": "Prior insurance history table shows: 2024 Hanover Insurance Group - 10 claims, no cancellations; 2023 Hartford Financial Services - 13 claims, no cancellations; 2022 Auto-Owners Insurance - 12 claims, no cancellations."
+  }
+}

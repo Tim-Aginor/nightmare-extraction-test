@@ -1,0 +1,52 @@
+{
+  "additional_remarks": [
+    {
+      "remark": "1. WC 00 03 01 A - Alternate Employer Endorsement\n2. WC 00 03 13 - Waiver of Our Right to Recover from Others Endorsement\n3. IL 09 85 01 15 - Disclosure Pursuant to Terrorism Risk Insurance Act\n4. CG 21 47 12 07 - Employment-Related Practices Exclusion",
+      "section_reference": "ENDORSEMENT SCHEDULE"
+    },
+    {
+      "remark": "Duke Realty Management Inc. is included as Additional Insured per written contract, agreement, or permit as respects General Liability.",
+      "section_reference": "ADDITIONAL DATA RE"
+    },
+    {
+      "remark": "Waiver of Subrogation applies in favor of the certificate holder as required by written contract.",
+      "section_reference": "SPECIAL CONDITIONS"
+    },
+    {
+      "remark": "LOC-001: The Driskill Austin - 604 Brazos Street, Austin, TX 78701 (Occupancy: Hotel)\nLOC-002: Riverwalk Suites San Antonio - 112 E Commerce Street, San Antonio, TX 78205 (Occupancy: Hotel)\nLOC-003: Fredericksburg Inn & Spa - 201 South Main Street, Fredericksburg, TX 78624 (Occupancy: Hotel)\nLOC-004: South Congress Motor Hotel - 1220 South Congress Avenue, Austin, TX 78704 (Occupancy: Hotel)",
+      "section_reference": "LOCATION DESCRIPTIONS"
+    },
+    {
+      "remark": "The insured's principal operations consist of boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Entity type: LLC.",
+      "section_reference": "NATURE OF OPERATIONS"
+    }
+  ],
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "naics_code": null,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "checkboxes": [],
+  "form_info": {
+    "form_edition": "2008/01",
+    "form_number": "ACORD 101",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-05-31",
+    "expiration_date": null,
+    "insured_address": "401 Congress Avenue, Suite 2000",
+    "insured_city": "Austin",
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "policy_number": "GL-HCHP-2025-3351",
+    "producer_code": null,
+    "producer_name": "Capital Insurance Advisors"
+  },
+  "remarks": "ENDORSEMENT SCHEDULE: 1. WC 00 03 01 A - Alternate Employer Endorsement; 2. WC 00 03 13 - Waiver of Our Right to Recover from Others Endorsement; 3. IL 09 85 01 15 - Disclosure Pursuant to Terrorism Risk Insurance Act; 4. CG 21 47 12 07 - Employment-Related Practices Exclusion.\nADDITIONAL DATA RE: Duke Realty Management Inc. is included as Additional Insured per written contract, agreement, or permit as respects General Liability.\nSPECIAL CONDITIONS: Waiver of Subrogation applies in favor of the certificate holder as required by written contract.\nLOCATION DESCRIPTIONS: LOC-001: The Driskill Austin - 604 Brazos Street, Austin, TX 78701 (Occupancy: Hotel); LOC-002: Riverwalk Suites San Antonio - 112 E Commerce Street, San Antonio, TX 78205 (Occupancy: Hotel); LOC-003: Fredericksburg Inn & Spa - 201 South Main Street, Fredericksburg, TX 78624 (Occupancy: Hotel); LOC-004: South Congress Motor Hotel - 1220 South Congress Avenue, Austin, TX 78704 (Occupancy: Hotel).\nNATURE OF OPERATIONS: The insured's principal operations consist of boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas. Entity type: LLC."
+}

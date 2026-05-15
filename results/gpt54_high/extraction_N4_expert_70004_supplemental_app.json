@@ -1,0 +1,69 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application - Commercial Lines",
+    "date": "2026-03-14",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 42,
+    "annual_revenue": 95000000,
+    "employee_count": 470
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "42 years in business with 28 years under current management",
+      "Formal safety program is in place",
+      "Formal written safety program is in place",
+      "Formal return-to-work or modified duty program is in place",
+      "Maintains OSHA 300 logs and conducts regular job-site safety audits",
+      "Four of five listed locations are sprinklered"
+    ],
+    "concerns": [
+      "Hazardous materials are used or encountered in operations",
+      "Certificates of insurance are not required from all subcontractors before work begins",
+      "Written contracts are not in place with all subcontractors",
+      "40% of work is performed by subcontractors",
+      "Hold-harmless agreements are not obtained from all subcontractors",
+      "Applicant performs demolition or blasting operations",
+      "Operations are performed above 4 stories",
+      "One warehouse location is not sprinklered",
+      "Prior insurance history shows relatively high claim counts and a 2022 cancellation"
+    ],
+    "loss_history_summary": "Prior insurance history shows 13 claims in 2024 with Nationwide Insurance, 10 claims in 2023 with Berkshire Hathaway Guard, and 4 claims in 2022 with Zurich Insurance Group. The 2022 policy reflects a cancellation."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Hours of operation: Mon-Fri 7:00 AM - 3:30 PM. Three largest projects completed in the past 3 years: 1200000 restaurant build-out, 800000 medical office renovation, 650000 church addition.",
+    "safety_programs": "Formal safety program: Yes. Formal written safety program: Yes. Return-to-work or modified duty program: Yes. Maintains OSHA 300 logs and conducts regular job-site safety audits: Yes. Certificates of insurance required from all subcontractors before work begins: No. Written contracts with all subcontractors: No. Hold-harmless agreements obtained from all subcontractors: No.",
+    "claims_narrative": "2024 - Nationwide Insurance - premium 1634721.63 - 13 claims - cancellations: No. 2023 - Berkshire Hathaway Guard - premium 1476849.96 - 10 claims - cancellations: No. 2022 - Zurich Insurance Group - premium 1366245.71 - 4 claims - cancellations: Yes."
+  }
+}

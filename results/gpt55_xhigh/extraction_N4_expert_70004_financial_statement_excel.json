@@ -1,0 +1,77 @@
+{
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "accounts_receivable": 28366800,
+        "cash": 22187700,
+        "inventory": null,
+        "other_current": 11400000,
+        "prepaid_expenses": 2375000,
+        "total_current_assets": 64329500
+      },
+      "fixed_assets": {
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 7911100,
+        "property_plant_equipment": null
+      },
+      "other_assets": 31096100,
+      "total_assets": 103336700
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": null,
+      "total_equity": 34373200
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 19502100,
+        "accrued_expenses": 14166000,
+        "current_debt": 3982600,
+        "other_current": null,
+        "total_current_liabilities": 37650700
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 25795700,
+        "other_long_term": 5517100,
+        "total_long_term": 31312800
+      },
+      "total_liabilities": 68963500
+    }
+  },
+  "header": {
+    "audited": null,
+    "company_name": "Keystone Commercial Builders, Inc.",
+    "fiscal_year": 2026,
+    "period_end_date": "2026-02-16",
+    "period_type": null,
+    "preparer": "Joseph Kowalczyk",
+    "statement_type": "Financial Statements"
+  },
+  "income_statement": {
+    "cost_of_goods_sold": 69425900,
+    "gross_profit": 25574100,
+    "income_before_tax": 8032600,
+    "income_tax": 2035200,
+    "interest_expense": 3019600,
+    "net_income": 5997400,
+    "operating_expenses": {
+      "depreciation": 6127600,
+      "insurance": null,
+      "other_operating": 8394300,
+      "rent": null,
+      "salaries_wages": null,
+      "total_operating_expenses": 14521900,
+      "utilities": null
+    },
+    "operating_income": 11052200,
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": 95000000
+    }
+  },
+  "ratios": {
+    "current_ratio": 1.71,
+    "debt_to_equity": 2.01,
+    "profit_margin": 0.063
+  }
+}

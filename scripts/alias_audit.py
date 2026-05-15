@@ -152,10 +152,12 @@ def classify(value: str, universe: set[str]) -> dict:
             "unmatched": unmatched[:10]}
 
 
-def audit_doc(extraction: dict, universe: tuple) -> dict:
+def audit_doc(extraction: dict, universe) -> dict:
     """For one extraction, re-flag strings exactly as the analyzer does,
     then classify each flagged string."""
-    strings, _ = universe
+    # build_packet_universe returns a PacketUniverse NamedTuple; we only
+    # need the raw normalized strings for the token-coverage classifier.
+    strings = universe.strings
     buckets = {"composed_string": 0, "format_variance": 0,
                "partial_overlap": 0, "true_fabrication": 0,
                "non_meaningful": 0}

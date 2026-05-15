@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "description": "Field specification for Nightmare Benchmark v1 - Multi-LOB commercial insurance extraction",
+  "version": "1.1",
+  "description": "Field specification for Nightmare Extraction Test v1.0 - Multi-LOB commercial insurance extraction. v1.1 bumps loss_run.claim_fields.categorical.status from the 2-value (Open|Closed) enum to the 6-value GT-observed set; see schema rebuild plan §1-D / §2-A.",
 
   "sov": {
     "description": "Schedule of Values / Property Schedule extraction",
@@ -37,7 +37,7 @@
       "optional": ["claimant", "paid", "reserved", "description"],
       "numeric": ["paid", "reserved", "incurred"],
       "categorical": {
-        "status": ["Open", "Closed"],
+        "status": ["Open", "Closed", "Denied", "Subrogation", "Re-opened", "Closed Without Payment"],
         "coverage": ["wc", "gl", "auto", "property", "umbrella", "mtc"]
       }
     },

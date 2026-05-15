@@ -1,0 +1,128 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Midwest Property & Casualty Group",
+    "producer_code": "AC-070002",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "44251",
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Special Causes of Loss",
+      "limit": 251345000,
+      "deductible": 75000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "causes_of_loss": "Special",
+    "valuation": "Agreed Value",
+    "coinsurance": "100%",
+    "deductible": "75000.00",
+    "additional_interest": "Rickenbacker Logistics Center - A",
+    "building_location_schedule": [
+      {
+        "location_number": 1,
+        "location": "Rickenbacker Logistics Center - A",
+        "building": 34000000.0,
+        "contents": 8500000.0,
+        "business_income": 12750000.0,
+        "tiv": 55250000.0
+      },
+      {
+        "location_number": 2,
+        "location": "Rickenbacker Logistics Center - B",
+        "building": 30400000.0,
+        "contents": 7600000.0,
+        "business_income": 11400000.0,
+        "tiv": 49400000.0
+      },
+      {
+        "location_number": 3,
+        "location": "Cleveland Distribution Hub",
+        "building": 20650000.0,
+        "contents": 5900000.0,
+        "business_income": 8850000.0,
+        "tiv": 35400000.0
+      },
+      {
+        "location_number": 4,
+        "location": "Dayton Manufacturing Facility",
+        "building": 11100000.0,
+        "contents": 5550000.0,
+        "business_income": 6660000.0,
+        "tiv": 23310000.0
+      },
+      {
+        "location_number": 5,
+        "location": "Cincinnati Cross-Dock Terminal",
+        "building": 19800000.0,
+        "contents": 4400000.0,
+        "business_income": 7920000.0,
+        "tiv": 32120000.0
+      },
+      {
+        "location_number": 6,
+        "location": "Toledo Industrial Park - Building 1",
+        "building": 11550000.0,
+        "contents": 3300000.0,
+        "business_income": 4950000.0,
+        "tiv": 19800000.0
+      },
+      {
+        "location_number": 7,
+        "location": "Toledo Industrial Park - Building 2",
+        "building": 8520000.0,
+        "contents": 4260000.0,
+        "business_income": 4260000.0,
+        "tiv": 17040000.0
+      },
+      {
+        "location_number": 8,
+        "location": "Akron Flex Space",
+        "building": 10240000.0,
+        "contents": 2560000.0,
+        "business_income": 5120000.0,
+        "tiv": 17920000.0
+      },
+      {
+        "location_number": 9,
+        "location": "Corporate Administrative Office",
+        "building": 0.0,
+        "contents": 425000.0,
+        "business_income": 680000.0,
+        "tiv": 1105000.0
+      },
+      {
+        "location_number": "TOTAL",
+        "location": "TOTAL",
+        "building": 146260000.0,
+        "contents": 42495000.0,
+        "business_income": 62590000.0,
+        "tiv": 251345000.0
+      }
+    ],
+    "form_date": "2026-03-16"
+  },
+  "remarks": null
+}

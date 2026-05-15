@@ -1,0 +1,22 @@
+{
+  "model": "sonnet_xhigh",
+  "provider": "anthropic",
+  "total_docs": 1,
+  "ok": 1,
+  "failed": 0,
+  "total_cost_usd": 1.154,
+  "total_time_s": 1031.92,
+  "results": [
+    {
+      "packet_id": "N3_hard_70003",
+      "doc_type": "loss_run",
+      "model": "sonnet_xhigh",
+      "success": true,
+      "error": null,
+      "input_tokens": 15151,
+      "output_tokens": 73900,
+      "cost_usd": 1.153953,
+      "elapsed_s": 1031.9239218235016
+    }
+  ]
+}

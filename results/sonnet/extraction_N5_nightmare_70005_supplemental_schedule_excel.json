@@ -1,0 +1,114 @@
+{
+  "document_info": {
+    "document_type": "Excel Submission Data (Additional Insureds, Insurance History, Insured Locations)",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Blvd.",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Freight / Transportation \u2014 operates warehouse and service/repair facilities across Ohio and Pennsylvania",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy number BWC-7853-4607 (2024); prior carriers: Hartford BWC-1879-5462, Auto-Owners BWC-6082-7301, Markel BWC-8729-1826, CNA BWC-2661-3820"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy number GL-0007119 (2024); prior carriers: Hartford GL-0008063, Auto-Owners 0000003334, Markel 0000001612, CNA 0000006691"
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy number CA-4481-4597 (2024); prior carriers: Hartford CA-9059-7564, Auto-Owners CA00003272, Markel CA004074-001, CNA CA001347-001"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy number CP-9793-9090 (2024); prior carriers: Hartford CP007509-001, Auto-Owners CP001105-001, Markel CP-0002302, CNA CP-3821-6899"
+    },
+    {
+      "coverage_type": "Commercial Umbrella",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy number CU00005026 (2024); prior carriers: Hartford CU-0006463, Auto-Owners CU00005651, Markel CU-5016-4404, CNA 7CU0008415"
+    },
+    {
+      "coverage_type": "Motor Truck Cargo",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy number MT-0006135 (2024); prior carriers: Hartford 7MT0008387, Auto-Owners 0000009568, Markel MT00006769, CNA MT-0008150"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations in any of the five prior policy years (2020\u20132024)",
+      "Stable insurance tenure \u2014 maintained continuous coverage with reputable carriers",
+      "Declining claim count trend: 4 claims (2020) rising to 13 (2023) but back to 10 (2024); low base year of 4 claims in 2020",
+      "Premium growth relatively modest over five years (~$73K increase from 2020 to 2024), suggesting controlled exposure growth",
+      "Mix of owned and leased locations indicates operational flexibility"
+    ],
+    "concerns": [
+      "Claims count peaked at 13 in 2023, representing the highest frequency in the five-year period",
+      "Loss ratio data is missing for all five years, limiting loss performance assessment",
+      "Several locations have missing Own/Lease designation (LOC-002, LOC-004, LOC-005), indicating incomplete location schedule data",
+      "Large total square footage across nine locations (735,000 sq ft) spread across two states increases property and liability exposure",
+      "Carrier changes every year for five consecutive years may suggest adverse experience or market-driven placement challenges"
+    ],
+    "loss_history_summary": "Five-year loss history from 2020 to 2024 shows claim counts of 4, 7, 12, 13, and 10 respectively. Total claims over the period: 46. Loss ratios were not provided. No policy cancellations. Total premiums over five years: $10,263,788.25. Annual premiums ranged from $2,014,565.01 (2022) to $2,088,513.96 (2024)."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Great Lakes Freight Systems, Inc. operates nine locations across Ohio and Pennsylvania totaling approximately 735,000 square feet. Location types include warehouse (8 locations), service/repair (1 location), and office (1 location). Ohio locations are in Columbus, Independence, and Toledo. Pennsylvania locations are in Canonsburg, Philadelphia, and Harrisburg. The named insured maintains both owned and leased facilities.",
+    "safety_programs": null,
+    "claims_narrative": "Claim counts over the five most recent policy years are as follows: 2020 (CNA Financial) \u2014 4 claims; 2021 (Markel Corporation) \u2014 7 claims; 2022 (Auto-Owners Insurance) \u2014 12 claims; 2023 (Hartford Financial Services) \u2014 13 claims; 2024 (Hanover Insurance Group) \u2014 10 claims. No loss ratios were provided. No cancellations were reported across any policy year."
+  }
+}

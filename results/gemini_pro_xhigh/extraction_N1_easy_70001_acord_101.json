@@ -1,0 +1,52 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2016/03",
+    "form_title": "ADDITIONAL REMARKS SCHEDULE"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": null,
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Commercial real estate investment and property management - office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas.",
+    "entity_type": "Limited Partnership"
+  },
+  "additional_remarks": [
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "1. CG 21 39 10 93 - Contractual Liability Limitation 2. CG 20 37 04 13 - Additional Insured - Owners, Lessees or Contractors - Completed Operations 3. WC 00 01 00 - Workers Compensation and Employers Liability Insurance Policy 4. CP 12 18 06 07 - Loss Payable Provisions 5. IM 99 01 09 09 - Inland Marine Equipment Floater 6. IL 00 17 11 98 - Common Policy Conditions"
+    },
+    {
+      "section_reference": "ADDITIONAL INSURED",
+      "remark": "Summit Properties LLC is included as Additional Insured per written contract, agreement, or permit as respects General Liability."
+    },
+    {
+      "section_reference": "SPECIAL CONDITIONS",
+      "remark": "- 30 days advance written notice of cancellation will be provided to the certificate holder. - Waiver of Subrogation applies in favor of the certificate holder as required by written contract."
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-001: Preston Center Tower - 8117 Preston Road, Dallas, TX 75225 (Occupancy: Office) LOC-002: Galleria Office Park - Building A - 5050 Westheimer Road, Houston, TX 77056 (Occupancy: Office) LOC-003: Galleria Office Park - Building B - 5060 Westheimer Road, Houston, TX 77056 (Occupancy: Office) LOC-004: Legacy Town Center Retail - 7301 Lone Star Drive, Plano, TX 75024 (Occupancy: Mercantile)"
+    },
+    {
+      "section_reference": "NATURE OF OPERATIONS",
+      "remark": "The insured's principal operations consist of: Commercial real estate investment and property management - office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. Entity type: Limited Partnership."
+    }
+  ],
+  "checkboxes": [],
+  "remarks": "ENDORSEMENT SCHEDULE: 1. CG 21 39 10 93 - Contractual Liability Limitation 2. CG 20 37 04 13 - Additional Insured - Owners, Lessees or Contractors - Completed Operations 3. WC 00 01 00 - Workers Compensation and Employers Liability Insurance Policy 4. CP 12 18 06 07 - Loss Payable Provisions 5. IM 99 01 09 09 - Inland Marine Equipment Floater 6. IL 00 17 11 98 - Common Policy Conditions ADDITIONAL INSURED: Summit Properties LLC is included as Additional Insured per written contract, agreement, or permit as respects General Liability. SPECIAL CONDITIONS: - 30 days advance written notice of cancellation will be provided to the certificate holder. - Waiver of Subrogation applies in favor of the certificate holder as required by written contract. LOCATION DESCRIPTIONS: LOC-001: Preston Center Tower - 8117 Preston Road, Dallas, TX 75225 (Occupancy: Office) LOC-002: Galleria Office Park - Building A - 5050 Westheimer Road, Houston, TX 77056 (Occupancy: Office) LOC-003: Galleria Office Park - Building B - 5060 Westheimer Road, Houston, TX 77056 (Occupancy: Office) LOC-004: Legacy Town Center Retail - 7301 Lone Star Drive, Plano, TX 75024 (Occupancy: Mercantile) NATURE OF OPERATIONS: The insured's principal operations consist of: Commercial real estate investment and property management - office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. Entity type: Limited Partnership."
+}

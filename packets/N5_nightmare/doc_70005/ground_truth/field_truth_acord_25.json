@@ -1,0 +1,138 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Incorporated"
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Blvd."
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-16",
+      "rendered_as": "03/16/2026"
+    },
+    "producer_name": {
+      "value": "Transportation Insurance Specialists"
+    },
+    "producer_contact": {
+      "value": "David Reinhardt"
+    },
+    "producer_phone": {
+      "value": "(614) 555-0493"
+    },
+    "producer_fax": {
+      "value": "(614) 267-6839"
+    },
+    "producer_email": {
+      "value": "dreinhardt@tisgroup.com"
+    },
+    "policy_number_wc": {
+      "value": "WC GLFS 2025 8820"
+    },
+    "policy_number_gl": {
+      "value": "gl GLFS 2025 8821"
+    },
+    "cert_limit_gl_each_occurrence": {
+      "value": 2000000.0,
+      "rendered_as": "2,000,000.00"
+    },
+    "cert_limit_gl_general_aggregate": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "cert_limit_gl_products_completed_ops": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "cert_limit_gl_medical_expense": {
+      "value": 5000,
+      "rendered_as": "5,000.00"
+    },
+    "policy_number_auto": {
+      "value": "CAGLFS20258822"
+    },
+    "cert_limit_auto_combined_single_limit": {
+      "value": 5000000.0,
+      "rendered_as": "$5,000,000.00"
+    },
+    "policy_number_umbrella": {
+      "value": "SIC CU025454"
+    },
+    "cert_limit_umbrella_per_occurrence": {
+      "value": 10000000.0,
+      "rendered_as": "$10,000,000.00"
+    },
+    "cert_limit_umbrella_aggregate": {
+      "value": 10000000.0,
+      "rendered_as": "$10,000,000.00"
+    }
+  },
+  "doc_type": "acord_25",
+  "certificate_holders": [
+    {
+      "name": "Quantum Realty Management Inc.",
+      "address": "5158 Summit Avenue",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip_code": "72201"
+    },
+    {
+      "name": "Rapid Capital Group",
+      "address": "8852 Union Avenue, Ste. 168",
+      "city": "Plano",
+      "state": "TX",
+      "zip_code": "75023"
+    }
+  ],
+  "insurer_panel": [
+    {
+      "letter": "A",
+      "name": "Ohio Bureau of Workers' Compensation",
+      "naic": "21008",
+      "coverage": "wc"
+    },
+    {
+      "letter": "B",
+      "name": "Standard Insurance Company",
+      "naic": "21093",
+      "coverage": "gl"
+    },
+    {
+      "letter": "C",
+      "name": "Standard Insurance Company",
+      "naic": "21088",
+      "coverage": "auto"
+    },
+    {
+      "letter": "D",
+      "name": "Standard Insurance Company",
+      "naic": "21206",
+      "coverage": "umbrella"
+    }
+  ],
+  "carrier_name_per_lob": {
+    "wc": "Ohio Bureau of Workers' Compensation",
+    "gl": "Standard Insurance Company",
+    "auto": "Standard Insurance Company",
+    "umbrella": "Standard Insurance Company"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "document_info": {
+    "document_type": "Submission Schedules",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property management and leasing; portfolio includes warehouse, manufacturing, and office facilities across Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Expiring policy number CP00007001 (2024). Prior carriers: Hartford Financial Services (2023, CP-5666-6137, premium 419914.35; 2021, 0000007099, premium 458666.38), Chubb Limited (2022, 7CP0004662, premium 456514.10). No cancellations across all four policy years. Loss ratios not provided."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Only 1 claim reported across 4 years of loss history (2021\u20132024)",
+      "Zero claims in 2022, 2023, and 2024",
+      "No policy cancellations in any policy year",
+      "Premium trending downward year-over-year from 458666 (2021) to 392002 (2024)",
+      "Continuous coverage maintained with admitted, A-rated carriers: Hartford Financial Services, Chubb Limited, and Liberty Mutual Insurance"
+    ],
+    "concerns": [
+      "LOC-008 (1475 Corporate Woods Parkway, Uniontown, OH 44685) is missing Own/Lease designation",
+      "Two manufacturing locations (LOC-004 Dayton, LOC-007 Toledo) introduce elevated risk profile relative to warehouse-only operations",
+      "Large multi-location portfolio spanning 9 sites and approximately 1,948,500 total square feet",
+      "Mix of owned and leased properties may complicate insurable interest and valuation structure"
+    ],
+    "loss_history_summary": "Four-year loss history (2021\u20132024): 1 claim reported in 2021 under Hartford Financial Services (policy 0000007099); 0 claims in 2022 (Chubb Limited), 2023 (Hartford Financial Services), and 2024 (Liberty Mutual Insurance). No cancellations in any year. Loss ratios not provided for any year."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Buckeye Industrial Properties, LLC manages a 9-location Ohio portfolio totaling approximately 1,948,500 square feet. The portfolio comprises 6 warehouse facilities (LOC-001, LOC-002, LOC-003, LOC-005, LOC-006, LOC-008), 2 manufacturing facilities (LOC-004, LOC-007), and 1 office location serving as corporate headquarters (LOC-009). Geographic distribution: Columbus (3 locations \u2014 LOC-001, LOC-002, LOC-009), Toledo (2 \u2014 LOC-006, LOC-007), Brooklyn (1 \u2014 LOC-003), Dayton (1 \u2014 LOC-004), Cincinnati (1 \u2014 LOC-005), and Uniontown (1 \u2014 LOC-008). One property is owned outright (LOC-006, 3200 Hill Avenue, Toledo), 7 are leased, and 1 has an undetermined ownership/tenancy status (LOC-008, 1475 Corporate Woods Parkway, Uniontown). Six additional insured/interested parties are scheduled, including 2 Additional Named Insureds, 1 Loss Payee, 1 Mortgagee, and 2 Certificate Holders.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

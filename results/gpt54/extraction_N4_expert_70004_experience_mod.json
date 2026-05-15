@@ -1,0 +1,67 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Pennsylvania Compensation Rating Bureau",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": null,
+    "city": null,
+    "state": "PA",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction operations with payroll classifications including plumbing, interior painting, and clerical office employees.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation Experience Modification",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy period 2025-08-01 to 2026-08-01; final experience modification factor 0.86 effective 2025-08-01."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor of 0.86 is below 1.00.",
+      "Computed modification factor shown as 0.8600."
+    ],
+    "concerns": [
+      "Actual loss data reflects 10 claims in policy year 2021-2022.",
+      "Total incurred losses of 240694 with primary losses of 156716 and excess losses of 83978."
+    ],
+    "loss_history_summary": "Actual loss data shown for policy year 2021-2022: 10 claims, total paid 240694, total incurred 240694, primary losses 156716, excess losses 83978."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": "2025-08-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Final Experience Modification Factor: 0.86. Effective Date: 2025-08-01. Expiration Date: 2026-08-01. State: PA.",
+    "operations_description": "Payroll / classification data includes PA class code 5183 Plumbing - NOC with payroll 1075000, class code 5474 Painting - Interior with payroll 1639000, and class code 8810 Clerical Office Employees - NOC with payroll 5010000.",
+    "safety_programs": null,
+    "claims_narrative": "The experience rating modification worksheet has been reviewed and approved in accordance with applicable state rating laws and regulations. The experience modification factor of 0.86 is effective as of 2025-08-01. The insured may request a review or appeal of this rating within 90 days of the effective date."
+  }
+}

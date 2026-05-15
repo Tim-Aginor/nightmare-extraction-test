@@ -1,0 +1,86 @@
+{
+  "document_info": {
+    "document_type": "Statement of Values",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate portfolio (office, mercantile/mixed-use, and medical office properties)",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property - Building",
+      "current_limit": 222340000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Sum of building values across 8 locations"
+    },
+    {
+      "coverage_type": "Property - Contents",
+      "current_limit": 33432000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Sum of contents values across 8 locations"
+    },
+    {
+      "coverage_type": "Business Interruption",
+      "current_limit": 59212000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Sum of BI values across 8 locations"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All locations are sprinklered",
+      "Majority of buildings are Fire Resistive or Masonry/Non-Combustible construction",
+      "Relatively modern building stock (most built 1995-2018)",
+      "Diversified portfolio across office, mercantile, and medical office occupancies"
+    ],
+    "concerns": [
+      "Concentration of risk in Texas (all 8 locations)",
+      "Significant TIV growth year-over-year suggesting potential valuation adjustments",
+      "One location (LOC-006) built in 1995 is the oldest in the portfolio"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Portfolio of 8 commercial properties across Texas including office towers, mixed-use developments, retail centers, and medical office buildings located in Dallas, Houston, Plano, Fort Worth, and Southlake.",
+    "safety_programs": "All 8 locations reported as sprinklered.",
+    "claims_narrative": null
+  }
+}

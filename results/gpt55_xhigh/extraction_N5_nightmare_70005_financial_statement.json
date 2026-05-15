@@ -1,0 +1,77 @@
+{
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "accounts_receivable": 13376400,
+        "cash": null,
+        "inventory": null,
+        "other_current": null,
+        "prepaid_expenses": 1960000,
+        "total_current_assets": 15336400
+      },
+      "fixed_assets": {
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 50624300,
+        "property_plant_equipment": 50624300
+      },
+      "other_assets": 21934300,
+      "total_assets": 87895000
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 20911300,
+      "total_equity": 20911300
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": null,
+        "accrued_expenses": 11749400,
+        "current_debt": null,
+        "other_current": null,
+        "total_current_liabilities": 11749400
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 55234300,
+        "other_long_term": null,
+        "total_long_term": 55234300
+      },
+      "total_liabilities": 66983700
+    }
+  },
+  "header": {
+    "audited": false,
+    "company_name": "Great Lakes Freight Systems, Inc.",
+    "fiscal_year": 2026,
+    "period_end_date": "2026-01-31",
+    "period_type": "Fiscal Year Ended",
+    "preparer": "Margaret Sullivan",
+    "statement_type": "Financial Statement"
+  },
+  "income_statement": {
+    "cost_of_goods_sold": 93915800,
+    "gross_profit": 56148500,
+    "income_before_tax": null,
+    "income_tax": null,
+    "interest_expense": null,
+    "net_income": 5888700,
+    "operating_expenses": {
+      "depreciation": 18679900,
+      "insurance": null,
+      "other_operating": 31579900,
+      "rent": null,
+      "salaries_wages": null,
+      "total_operating_expenses": 50259800,
+      "utilities": null
+    },
+    "operating_income": 5888700,
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": 150064300
+    }
+  },
+  "ratios": {
+    "current_ratio": null,
+    "debt_to_equity": null,
+    "profit_margin": 3.9
+  }
+}

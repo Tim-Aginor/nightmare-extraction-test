@@ -75,14 +75,79 @@ def normalize_date(val: Any) -> str | None:
     return s
 
 
-def compare_values(ext_val: Any, gt_val: Any, field_type: str = "string") -> bool:
+# ACORD strict-enum recovery table. ACORD 125/140/160/24/27/28/45 hard-enum
+# `construction` and `roof_type` to short ACORD-formal lists; SOV / engineering-
+# report schemas leave them as free strings. OpenAI/Gemini run those schemas
+# in strict-mode and silently null off-enum values; Anthropic tool_use is
+# best-effort and emits the literal. Either way, a model that emits a real
+# but off-enum value ("MNC" for Masonry Non-Combustible, "III-B" for a class)
+# would score as wrong here. Audit 2026-05-11: accept the documented
+# abbreviation/full-name mappings.
+_ENUM_ALIASES: dict[str, dict[str, str]] = {
+    "construction": {
+        "mnc": "masonry non-combustible",
+        "nc": "non-combustible",
+        "fr": "fire resistive",
+        "jm": "joisted masonry",
+        "iso 1": "non-combustible",
+        "iso 2": "non-combustible",
+        "iso 3": "masonry non-combustible",
+        "iso 4": "masonry non-combustible",
+        "iso 5": "fire resistive",
+        "iso 6": "fire resistive",
+        "iii-b": "non-combustible",
+        "iii a": "non-combustible",
+        "iv": "joisted masonry",
+        "v-b": "joisted masonry",
+    },
+    "roof_type": {
+        "tpo membrane": "tpo",
+        "single ply": "single-ply membrane",
+        "single-ply": "single-ply membrane",
+        "epdm rubber": "epdm",
+        "mod bit": "modified bitumen",
+        "modified bit": "modified bitumen",
+        "asphalt shingle": "shingle",
+        "composition shingle": "shingle",
+        "metal panel": "metal",
+        "standing seam": "metal",
+        "concrete tile": "concrete",
+    },
+}
+
+
+def _resolve_enum_alias(val: Any, leaf_name: str) -> Any:
+    """Map an off-enum free-form abbreviation to the ACORD-formal label.
+
+    Returns the original value if no alias matches, so non-enum fields are
+    untouched.
+    """
+    if not isinstance(val, str):
+        return val
+    table = _ENUM_ALIASES.get(leaf_name)
+    if not table:
+        return val
+    norm = normalize_string(val)
+    if not norm:
+        return val
+    return table.get(norm, val)
+
+
+def compare_values(ext_val: Any, gt_val: Any, field_type: str = "string",
+                   leaf_name: str = "") -> bool:
     """Compare extracted vs ground truth values.
 
     Auto-promote to numeric when gt_val is a Python int/float: the
     field_type heuristic misses fields like bs_cash, is_net_income,
     annual_revenue, etc. (stored as native floats in raw_ground_truth),
     and the string-normalization path strips '.' which mangles decimals.
+
+    leaf_name: optional field-leaf name. Used to apply ACORD strict-enum
+    aliasing (e.g., "MNC" → "Masonry Non-Combustible") via _ENUM_ALIASES.
     """
+    if leaf_name and leaf_name in _ENUM_ALIASES:
+        ext_val = _resolve_enum_alias(ext_val, leaf_name)
+        gt_val = _resolve_enum_alias(gt_val, leaf_name)
     if field_type != "date":
         if isinstance(gt_val, (int, float)) and not isinstance(gt_val, bool):
             field_type = "numeric"
@@ -111,15 +176,38 @@ def compare_values(ext_val: Any, gt_val: Any, field_type: str = "string") -> boo
             return ext_f is None
         if ext_f is None:
             return False
-        if gt_f == 0:
-            return ext_f == 0
-        return abs(ext_f - gt_f) / abs(gt_f) <= 0.01  # 1% tolerance
+        # Exact match after to_float() normalization. The prior 1% tolerance
+        # was masking real precision loss (model returning $24.3M when the
+        # rendered doc shows $24.5M, or cents-truncation like $153,631 for
+        # $153,631.51). Villify renders exact numeric values and GT mirrors
+        # them, so any mismatch is a model error.
+        return ext_f == gt_f
 
     elif field_type == "date":
         return normalize_date(ext_val) == normalize_date(gt_val)
 
     else:  # string
         return normalize_string(ext_val) == normalize_string(gt_val)
+
+
+def classify_field(ext_val: Any, gt_val: Any, field_type: str = "string",
+                   leaf_name: str = "") -> str:
+    """Three-way classification of a single GT-populated field.
+
+    - "omitted": model returned null / missing where GT has a value
+    - "correct": model returned a value that matches GT (under the
+                 normalization + tolerance rules in compare_values)
+    - "wrong":   model returned a non-null value that doesn't match GT
+
+    Used to split the headline field-accuracy metric (which only reports
+    correct/total) into precision-vs-recall components, so a model that
+    answers "null" on hard fields isn't credited with a free pass.
+    """
+    if ext_val is None:
+        return "omitted"
+    if compare_values(ext_val, gt_val, field_type, leaf_name=leaf_name):
+        return "correct"
+    return "wrong"
 
 
 # ── Field lookup across nested extraction schemas ─────────────────────
@@ -179,6 +267,29 @@ FIELD_ALIASES = {
         "total_premium", "premium_info.total_premium",
         "premium_summary.total_premium", "premium.total",
     ],
+    # Financial-statement flat-vs-nested mismatch (audit 2026-05-14): GT
+    # records `is_revenue` and `is_operating_expenses` as flat scalars, but
+    # financial_statement_extraction.md nests them under
+    # income_statement.revenue.{net,gross}_revenue and
+    # income_statement.operating_expenses.total_operating_expenses. Without
+    # these aliases, _leaf_search can't reach the values because path[-1]
+    # ("net_revenue", "total_operating_expenses") isn't in the prefix-strip
+    # or synonym candidate set. Pre-fix every model scored as `omitted` on
+    # both fields across all 22 financial-statement docs, hiding both
+    # correct emissions (Anthropic/Gemini on revenue) and wrong-value
+    # emissions (OpenAI on revenue) in the omission bucket.
+    "is_revenue": [
+        "is_revenue",
+        "income_statement.revenue.net_revenue",
+        "income_statement.revenue.gross_revenue",
+        "income_statement.net_revenue",
+        "income_statement.gross_revenue",
+    ],
+    "is_operating_expenses": [
+        "is_operating_expenses",
+        "income_statement.operating_expenses.total_operating_expenses",
+        "income_statement.total_operating_expenses",
+    ],
 }
 
 # Heuristic: if a GT field isn't in the alias table, try flat lookup
@@ -207,7 +318,12 @@ _GT_PREFIX_EXPANSIONS = {
 }
 
 _LEAF_SYNONYMS = {
-    "revenue": {"net_revenue", "gross_revenue", "total_revenue"},
+    # Audit 2026-05-11: "revenue" previously accepted {net_revenue,
+    # gross_revenue, total_revenue} as equivalent. They are not in accounting
+    # — net ≠ gross — so a model returning gross when GT had net used to
+    # score correct. Removed. "annual_revenue" also de-aliased from
+    # "net_revenue" for the same reason.
+    "revenue": {"total_revenue"},  # synonymous accounting label only
     "cogs": {"cost_of_goods_sold", "cost_of_sales"},
     "ebit": {"operating_income"},
     "ebt": {"income_before_tax", "pre_tax_income"},
@@ -216,7 +332,7 @@ _LEAF_SYNONYMS = {
     "current_lt_debt": {"current_debt", "current_portion_long_term_debt"},
     "equity": {"total_equity"},
     "num_employees_ft": {"employee_count", "full_time_employees", "num_employees"},
-    "annual_revenue": {"annual_revenue", "revenue", "net_revenue"},
+    "annual_revenue": {"annual_revenue"},
     "nature_of_business": {"nature_of_business", "business_description"},
     "entity_type": {"entity_type", "organization_type"},
 }
@@ -453,6 +569,8 @@ def score_header_fields(extracted: dict, ground_truth: dict) -> dict:
     ]
 
     correct = 0
+    wrong = 0
+    omitted = 0
     total = 0
 
     for field, ftype in fields_to_check:
@@ -461,8 +579,13 @@ def score_header_fields(extracted: dict, ground_truth: dict) -> dict:
             continue
         total += 1
         ext_val = lookup_field(extracted, field)
-        if compare_values(ext_val, gt_val, ftype):
+        cls = classify_field(ext_val, gt_val, ftype, leaf_name=field)
+        if cls == "correct":
             correct += 1
+        elif cls == "omitted":
+            omitted += 1
+        else:
+            wrong += 1
 
     return {
         # None (not 1.0) when no header fields existed in GT, so downstream
@@ -472,6 +595,8 @@ def score_header_fields(extracted: dict, ground_truth: dict) -> dict:
         "header_accuracy": (correct / total) if total else None,
         "header_fields_scored": total,
         "header_fields_correct": correct,
+        "header_fields_wrong": wrong,
+        "header_fields_omitted": omitted,
     }
 
 
@@ -522,21 +647,25 @@ def score_sov(extracted: dict, ground_truth: dict) -> dict:
     # Field accuracy
     numeric_fields = ["building_value", "contents_value", "bi_value", "tiv", "year_built", "square_feet"]
     string_fields = ["construction", "occupancy", "state"]
-    correct, total = 0, 0
+    correct, wrong, omitted, total = 0, 0, 0, 0
 
     for ext_loc, gt_loc in matches:
         for fld in numeric_fields:
             gt_val = gt_loc.get(fld)
             if gt_val is not None:
                 total += 1
-                if compare_values(ext_loc.get(fld), gt_val, "numeric"):
-                    correct += 1
+                cls = classify_field(ext_loc.get(fld), gt_val, "numeric", leaf_name=fld)
+                if cls == "correct": correct += 1
+                elif cls == "omitted": omitted += 1
+                else: wrong += 1
         for fld in string_fields:
             gt_val = gt_loc.get(fld)
             if gt_val is not None:
                 total += 1
-                if compare_values(ext_loc.get(fld), gt_val, "string"):
-                    correct += 1
+                cls = classify_field(ext_loc.get(fld), gt_val, "string", leaf_name=fld)
+                if cls == "correct": correct += 1
+                elif cls == "omitted": omitted += 1
+                else: wrong += 1
 
     field_accuracy = correct / total if total else None
 
@@ -593,6 +722,10 @@ def score_sov(extracted: dict, ground_truth: dict) -> dict:
         "composite_score": round(composite, 4),
         "catastrophic_errors": catastrophic,
         "catastrophic_count": len(catastrophic),
+        "fields_scored": total,
+        "fields_correct": correct,
+        "fields_wrong": wrong,
+        "fields_omitted": omitted,
         "details": {
             "gt_locations": len(gt_locations),
             "ext_locations": len(ext_locations),
@@ -635,25 +768,70 @@ def score_loss_run(extracted: dict, ground_truth: dict) -> dict:
     matches = match_claims(ext_claims, gt_claims)
     claim_coverage = len(matches) / len(gt_claims) if gt_claims else 1.0
 
-    # Field accuracy
+    # Field accuracy. status added 2026-05-08 (plan §4-K) so the rebuild's
+    # 6-value status enum carries scoring signal — pre-rebuild status was
+    # never compared, which made the schema bug invisible in headline rates.
+    # Tracked as its own counter (not folded into the numeric/date pool) so
+    # the ablation table in §6-B can isolate the status contribution from
+    # the strict-schema and matcher-tightening effects.
     correct, total, cov_correct, cov_total = 0, 0, 0, 0
+    status_correct, status_total = 0, 0
+    # Recall-side rollup counters. Track these in parallel to the
+    # existing field_accuracy / coverage_accuracy / status_accuracy
+    # metrics so the published values don't shift, but every
+    # GT-populated field (numeric, date, AND coverage/status enums)
+    # contributes to the wrong-vs-omitted breakdown.
+    rs_correct, rs_wrong, rs_omitted, rs_total = 0, 0, 0, 0
     for ext, gt in matches:
         for fld in ["paid", "reserved", "incurred"]:
             if gt.get(fld) is not None:
                 total += 1
-                if compare_values(ext.get(fld), gt.get(fld), "numeric"):
+                rs_total += 1
+                cls = classify_field(ext.get(fld), gt.get(fld), "numeric")
+                if cls == "correct":
                     correct += 1
+                    rs_correct += 1
+                elif cls == "omitted":
+                    rs_omitted += 1
+                else:
+                    rs_wrong += 1
         if gt.get("date_of_loss"):
             total += 1
-            if compare_values(ext.get("date_of_loss"), gt.get("date_of_loss"), "date"):
+            rs_total += 1
+            cls = classify_field(ext.get("date_of_loss"), gt.get("date_of_loss"), "date")
+            if cls == "correct":
                 correct += 1
+                rs_correct += 1
+            elif cls == "omitted":
+                rs_omitted += 1
+            else:
+                rs_wrong += 1
         if gt.get("coverage"):
             cov_total += 1
-            if normalize_string(ext.get("coverage")) == normalize_string(gt.get("coverage")):
+            rs_total += 1
+            cls = classify_field(ext.get("coverage"), gt.get("coverage"), "string", leaf_name="coverage")
+            if cls == "correct":
                 cov_correct += 1
+                rs_correct += 1
+            elif cls == "omitted":
+                rs_omitted += 1
+            else:
+                rs_wrong += 1
+        if gt.get("status"):
+            status_total += 1
+            rs_total += 1
+            cls = classify_field(ext.get("status"), gt.get("status"), "string", leaf_name="status")
+            if cls == "correct":
+                status_correct += 1
+                rs_correct += 1
+            elif cls == "omitted":
+                rs_omitted += 1
+            else:
+                rs_wrong += 1
 
     field_accuracy = correct / total if total else None
     coverage_accuracy = cov_correct / cov_total if cov_total else None
+    status_accuracy = status_correct / status_total if status_total else None
 
     # Totals accuracy. Same rule as SOV TIV: drop from composite when GT
     # doesn't carry the total, rather than awarding free 1.0.
@@ -676,15 +854,20 @@ def score_loss_run(extracted: dict, ground_truth: dict) -> dict:
     if incurred_accuracy is not None and gt_incurred_raw and abs((ext_incurred_raw or 0) - gt_incurred_raw) / gt_incurred_raw > 0.15:
         catastrophic.append("incurred_off_15pct")
 
-    # Composite with component rebalance + catastrophic term. Weights sum
-    # to 1.00 when every component is present (claim_coverage 0.30 + field
-    # 0.30 + incurred 0.20 + coverage 0.10 + catastrophic 0.10). Prior to
-    # 2026-04-17 audit 2 they summed to 1.10 - math still normalized via
-    # total_w but the effective weighting diverged from the documented
-    # scheme, which a researcher cross-checking would flag.
+    # Composite with component rebalance + catastrophic term. The 2026-05-08
+    # rebuild adds status_accuracy as a 0.05 sliver, taken pro-rata from
+    # field_accuracy (0.30 → 0.25) so the rest of the published weighting
+    # holds. status carries less signal per row than paid/reserved/incurred
+    # but more than zero (the pre-rebuild value), and the ablation in plan
+    # §6-B reports the delta vs. the no-status scorer.
+    # Weights sum to 1.00 when every component is present (claim_coverage
+    # 0.30 + field 0.25 + status 0.05 + incurred 0.20 + coverage 0.10 +
+    # catastrophic 0.10).
     components: list[tuple[float, float]] = [(claim_coverage, 0.30)]
     if field_accuracy is not None:
-        components.append((field_accuracy, 0.30))
+        components.append((field_accuracy, 0.25))
+    if status_accuracy is not None:
+        components.append((status_accuracy, 0.05))
     if incurred_accuracy is not None:
         components.append((incurred_accuracy, 0.20))
     if coverage_accuracy is not None:
@@ -698,14 +881,21 @@ def score_loss_run(extracted: dict, ground_truth: dict) -> dict:
         "claim_coverage": round(claim_coverage, 4),
         "field_accuracy": round(field_accuracy, 4) if field_accuracy is not None else None,
         "coverage_accuracy": round(coverage_accuracy, 4) if coverage_accuracy is not None else None,
+        "status_accuracy": round(status_accuracy, 4) if status_accuracy is not None else None,
         "incurred_accuracy": round(incurred_accuracy, 4) if incurred_accuracy is not None else None,
         "composite_score": round(composite, 4),
         "catastrophic_errors": catastrophic,
         "catastrophic_count": len(catastrophic),
+        "fields_scored": rs_total,
+        "fields_correct": rs_correct,
+        "fields_wrong": rs_wrong,
+        "fields_omitted": rs_omitted,
         "details": {
             "gt_claims": len(gt_claims),
             "ext_claims": len(ext_claims),
             "matched": len(matches),
+            "status_compared": status_total,
+            "status_correct": status_correct,
         }
     }
 
@@ -729,17 +919,21 @@ def score_driver_schedule(extracted: dict, ground_truth: dict) -> dict:
     driver_coverage = len(matches) / len(gt_drivers) if gt_drivers else 1.0
 
     # Field accuracy
-    correct, total = 0, 0
+    correct, wrong, omitted, total = 0, 0, 0, 0
     for ext, gt in matches:
         for fld in ["license_state", "sex", "mvr_status"]:
             if gt.get(fld):
                 total += 1
-                if normalize_string(ext.get(fld)) == normalize_string(gt.get(fld)):
-                    correct += 1
+                cls = classify_field(ext.get(fld), gt.get(fld), "string", leaf_name=fld)
+                if cls == "correct": correct += 1
+                elif cls == "omitted": omitted += 1
+                else: wrong += 1
         if gt.get("license_number"):
             total += 1
-            if normalize_string(ext.get("license_number")) == normalize_string(gt.get("license_number")):
-                correct += 1
+            cls = classify_field(ext.get("license_number"), gt.get("license_number"), "string", leaf_name="license_number")
+            if cls == "correct": correct += 1
+            elif cls == "omitted": omitted += 1
+            else: wrong += 1
 
     field_accuracy = correct / total if total else None
 
@@ -761,6 +955,10 @@ def score_driver_schedule(extracted: dict, ground_truth: dict) -> dict:
         "composite_score": round(composite, 4),
         "catastrophic_errors": catastrophic,
         "catastrophic_count": len(catastrophic),
+        "fields_scored": total,
+        "fields_correct": correct,
+        "fields_wrong": wrong,
+        "fields_omitted": omitted,
         "details": {
             "gt_drivers": len(gt_drivers),
             "ext_drivers": len(ext_drivers),
@@ -832,6 +1030,8 @@ def score_generic(extracted: dict, ground_truth: dict, category: str) -> dict:
     # Score all raw_ground_truth.fields using the aliased lookup.
     gt_raw = ground_truth.get("raw_ground_truth", {}).get("fields", {})
     field_hits = 0
+    field_wrong = 0
+    field_omitted = 0
     field_total = 0
     for key, val in gt_raw.items():
         gt_val = val.get("value") if isinstance(val, dict) else val
@@ -839,8 +1039,10 @@ def score_generic(extracted: dict, ground_truth: dict, category: str) -> dict:
             continue
         field_total += 1
         ext_val = lookup_field(extracted, key)
-        if compare_values(ext_val, gt_val, _field_type(key)):
-            field_hits += 1
+        cls = classify_field(ext_val, gt_val, _field_type(key), leaf_name=key)
+        if cls == "correct": field_hits += 1
+        elif cls == "omitted": field_omitted += 1
+        else: field_wrong += 1
 
     field_accuracy = field_hits / field_total if field_total else None
 
@@ -871,6 +1073,16 @@ def score_generic(extracted: dict, ground_truth: dict, category: str) -> dict:
     if field_total >= 5 and field_hits == 0:
         catastrophic.append("zero_field_recall")
 
+    # Combine raw-field and header counters: both contribute to
+    # field_accuracy's intent (how many GT-populated fields the model
+    # nailed). Surfacing the combined total lets the omission-breakdown
+    # aggregator roll up correct/wrong/omitted across all field-style
+    # comparisons in the doc.
+    combined_scored = field_total + header_score["header_fields_scored"]
+    combined_correct = field_hits + header_score["header_fields_correct"]
+    combined_wrong = field_wrong + header_score["header_fields_wrong"]
+    combined_omitted = field_omitted + header_score["header_fields_omitted"]
+
     return {
         "category": category,
         "header_accuracy": (
@@ -882,6 +1094,10 @@ def score_generic(extracted: dict, ground_truth: dict, category: str) -> dict:
         "composite_score": round(composite, 4) if composite is not None else None,
         "catastrophic_errors": catastrophic,
         "catastrophic_count": len(catastrophic),
+        "fields_scored": combined_scored,
+        "fields_correct": combined_correct,
+        "fields_wrong": combined_wrong,
+        "fields_omitted": combined_omitted,
         "details": {
             "header_fields": header_score["header_fields_scored"],
             "raw_fields_checked": field_total,
@@ -1007,6 +1223,17 @@ def main():
         errored = sum(1 for s in scores if isinstance(s, dict) and "error" in s)
         scored = len(scores) - errored
 
+        # Field-level outcome counts: micro-aggregate the per-doc
+        # correct/wrong/omitted counters. Lets the supplementary table
+        # surface the recall-side breakdown (omissions counted as
+        # failures) alongside the headline fabrication rate from
+        # hallucination_analysis, which is precision-side
+        # (denominator = values the model emitted).
+        fields_scored = sum(s.get("fields_scored", 0) for s in scores if isinstance(s, dict))
+        fields_correct = sum(s.get("fields_correct", 0) for s in scores if isinstance(s, dict))
+        fields_wrong = sum(s.get("fields_wrong", 0) for s in scores if isinstance(s, dict))
+        fields_omitted = sum(s.get("fields_omitted", 0) for s in scores if isinstance(s, dict))
+
         agg = {
             "count": len(scores),              # all attempts (denominator)
             "scored": scored,                  # extractions that scored cleanly
@@ -1024,6 +1251,13 @@ def main():
             "min_composite": round(min(composites_all), 4) if composites_all else 0,
             "max_composite": round(max(composites_all), 4) if composites_all else 0,
             "total_catastrophic": catastrophic,
+            "fields_scored_total": fields_scored,
+            "fields_correct_total": fields_correct,
+            "fields_wrong_total": fields_wrong,
+            "fields_omitted_total": fields_omitted,
+            "wrong_value_rate_micro": round(fields_wrong / fields_scored, 4) if fields_scored else None,
+            "omission_rate_micro": round(fields_omitted / fields_scored, 4) if fields_scored else None,
+            "any_error_rate_micro": round((fields_wrong + fields_omitted) / fields_scored, 4) if fields_scored else None,
         }
         for k in _PER_METRIC_KEYS:
             v = _avg_present(scores, k)
@@ -1037,6 +1271,10 @@ def main():
     if all_composites:
         total_docs = sum(len(scores) for scores in category_scores.values())
         total_errored = sum(1 for scores in category_scores.values() for s in scores if isinstance(s, dict) and "error" in s)
+        all_scored_fields = sum(r.get("fields_scored_total", 0) for k, r in results["aggregate"].items() if isinstance(r, dict) and k != "overall")
+        all_correct_fields = sum(r.get("fields_correct_total", 0) for k, r in results["aggregate"].items() if isinstance(r, dict) and k != "overall")
+        all_wrong_fields = sum(r.get("fields_wrong_total", 0) for k, r in results["aggregate"].items() if isinstance(r, dict) and k != "overall")
+        all_omitted_fields = sum(r.get("fields_omitted_total", 0) for k, r in results["aggregate"].items() if isinstance(r, dict) and k != "overall")
         results["aggregate"]["overall"] = {
             "total_documents": total_docs,
             "scored_documents": total_docs - total_errored,
@@ -1048,6 +1286,13 @@ def main():
                 for k, r in results["aggregate"].items()
                 if isinstance(r, dict) and k != "overall"
             ),
+            "fields_scored_total": all_scored_fields,
+            "fields_correct_total": all_correct_fields,
+            "fields_wrong_total": all_wrong_fields,
+            "fields_omitted_total": all_omitted_fields,
+            "wrong_value_rate_micro": round(all_wrong_fields / all_scored_fields, 4) if all_scored_fields else None,
+            "omission_rate_micro": round(all_omitted_fields / all_scored_fields, 4) if all_scored_fields else None,
+            "any_error_rate_micro": round((all_wrong_fields + all_omitted_fields) / all_scored_fields, 4) if all_scored_fields else None,
         }
 
     # Output

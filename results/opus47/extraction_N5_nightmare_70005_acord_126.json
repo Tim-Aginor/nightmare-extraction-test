@@ -1,0 +1,105 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": "2016/03",
+    "form_title": "Commercial General Liability Section"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "gl-GLFS-2025-8821",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": 2000000,
+      "deductible": 5000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Rented Premises (Ea Occurrence)",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Med Exp (Any One Person)",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Adv Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products / Completed Operations Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "occurrence": "X",
+    "claims_made": "unchecked",
+    "demolition_work": "Yes",
+    "products_manufactured_sold_distributed": "No",
+    "operations_outside_us": "No",
+    "work_by_subcontractors": "No",
+    "work_near_bodies_of_water": "No",
+    "written_contracts_required_from_subcontractors": "No",
+    "underground_storage_hazardous_substances": "No",
+    "completed_operations_exposures": "No",
+    "premises_operations_rented_or_leased": "No",
+    "professional_services_or_advice": "No",
+    "athletic_or_recreational_facilities": "No",
+    "swimming_pools_hot_tubs_diving_boards": "No",
+    "additional_coverage_hired_non_owned_auto": "X"
+  },
+  "additional_fields": {
+    "class_code_1": "67419",
+    "class_description_1": "Truckers \u2014 Long Haul",
+    "premium_basis_1": "Payroll",
+    "exposure_1": "16660000",
+    "rate_1": "8.750",
+    "premium_1": "145775",
+    "class_code_2": "52451",
+    "class_description_2": "Warehouse \u2014 Private",
+    "premium_basis_2": "Area",
+    "exposure_2": "695000",
+    "rate_2": "1.250",
+    "premium_2": "869",
+    "total_premium": "146644",
+    "tria_surcharge": "6370",
+    "total_with_tria": "153014",
+    "deductible_applies_to": "Per Occurrence",
+    "signature": "M. Johnson",
+    "signature_date": "2025-06-18",
+    "underwriter_note": "Need docs (on Additional Coverage section - items without checkbox indication require documentation)"
+  },
+  "remarks": "Page 2 contains a handwritten note 'Need docs' next to the Additional Coverage section. Signed by M. Johnson on 6/18/2025. Page 2 image appears degraded/scanned with some fields difficult to read clearly."
+}

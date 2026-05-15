@@ -1,0 +1,102 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Incorporated"
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Blvd."
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_number": {
+      "value": "WC GLFS 2025 8820"
+    },
+    "parent_form_reference": {
+      "value": "ACORD 126"
+    },
+    "agency_name": {
+      "value": "Transportation Insurance Specialists"
+    },
+    "nature_of_operations": {
+      "value": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+    },
+    "entity_type": {
+      "value": "Corporation"
+    }
+  },
+  "doc_type": "acord_101",
+  "endorsements": [
+    "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+    "CG 20 26 04 13 \u2014 Additional Insured - Designated Person or Organization",
+    "WC 00 03 13 \u2014 Waiver of Our Right to Recover From Others Endorsement",
+    "CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+    "IM 99 01 09 09 \u2014 Inland Marine Equipment Floater",
+    "CP 10 30 06 07 \u2014 Causes of Loss - Special Form"
+  ],
+  "additional_insureds": [
+    {
+      "name": "Quantum Realty Management Inc.",
+      "address": "5158 Summit Avenue, Little Rock, AR, 72201"
+    },
+    {
+      "name": "Rapid Capital Group",
+      "address": "8852 Union Avenue, Ste. 168, Plano, TX, 75023"
+    }
+  ],
+  "special_conditions": [
+    "Primary and Non-Contributory wording applies per policy endorsement.",
+    "Per Project Aggregate Limit applies as indicated on the endorsement schedule."
+  ],
+  "location_descriptions": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Corporate Headquarters & Main Terminal",
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Rickenbacker Air Hub",
+      "address": "2500 Norton Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Cleveland Distribution Center",
+      "address": "6000 Rockside Woods Boulevard",
+      "city": "Independence",
+      "state": "OH",
+      "zip_code": "44131",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "Pittsburgh Regional Terminal",
+      "address": "500 Technology Drive",
+      "city": "Canonsburg",
+      "state": "PA",
+      "zip_code": "15317",
+      "occupancy": "Warehouse"
+    }
+  ]
+}

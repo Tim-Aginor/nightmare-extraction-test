@@ -1,0 +1,70 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Industrial property owner/operator with warehouse, manufacturing, cross-dock terminal, flex space, and office locations.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_carrier": "Liberty Mutual Insurance",
+      "current_limit": "251345000 total insured value",
+      "expiring_premium": 392002.31,
+      "notes": "Property schedule includes 9 Ohio locations. Loss summary shows 2 property claims with 202875 total paid and 238554 total incurred.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel property submission schedule and supplemental data",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history shows 2024 Liberty Mutual Insurance premium 392002.31 with 0 claims; 2023 Hartford Financial Services premium 419914.35 with 0 claims; 2022 Chubb Limited premium 456514.1 with 0 claims; 2021 Hartford Financial Services premium 458666.38 with 1 claim. Loss Summary shows Property: 2 claims, 202875 total paid, 238554 total incurred.",
+    "executive_summary": null,
+    "operations_description": "Schedule includes industrial real estate locations in Ohio: warehouses, manufacturing facilities, a cross-dock terminal, flex space, and a corporate administrative office.",
+    "safety_programs": "8 of 9 scheduled locations are sprinklered; LOC-007 Toledo Industrial Park - Building 2 is not sprinklered."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "LOC-007 Toledo Industrial Park - Building 2 is not sprinklered.",
+      "LOC-004 Dayton Manufacturing Facility is joisted masonry construction.",
+      "Property loss summary reports 2 claims with 238554 total incurred."
+    ],
+    "loss_history_summary": "Loss Summary reports Property coverage with 2 claims, 202875 total paid, and 238554 total incurred. Prior insurance table reports 0 claims in 2024, 2023, and 2022, and 1 claim in 2021.",
+    "positives": [
+      "9-location Ohio property schedule with total insured value of 251345000.",
+      "8 of 9 locations are sprinklered.",
+      "Most locations are non-combustible, masonry non-combustible, or fire resistive construction.",
+      "Prior insurance history shows no claims reported for 2024, 2023, and 2022."
+    ]
+  }
+}

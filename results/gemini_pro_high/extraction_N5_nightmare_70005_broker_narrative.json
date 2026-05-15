@@ -1,0 +1,111 @@
+{
+  "document_info": {
+    "document_type": "Transfer Submission",
+    "date": "2025-06-18",
+    "prepared_by": "David Reinhardt",
+    "recipient": "Underwriting Department, Standard Insurance Company"
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": null,
+    "employee_count": 485
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": "Statutory limits with employer's liability of $1M/$1M/$1M",
+      "current_carrier": "Ohio Bureau of Workers' Compensation",
+      "expiring_premium": null,
+      "notes": "Workers' Compensation coverage is provided through Ohio Bureau of Workers' Compensation per state statute."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": "$2,000,000.00 per occurrence and $4,000,000.00 aggregate",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Requested on an occurrence form including standard premises/operations and products/completed operations."
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": "$5,000,000.00 combined single limit",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Covering all owned, hired, and non-owned vehicles."
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Commercial Property coverage for all scheduled locations on a special form with replacement cost valuation."
+    },
+    {
+      "coverage_type": "Umbrella / Excess",
+      "current_limit": null,
+      "requested_limit": "$10,000,000.00 occurrence/$10,000,000.00 aggregate limit",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Following form over primary GL, Auto, and Employer's Liability."
+    },
+    {
+      "coverage_type": "Motor Truck Cargo",
+      "current_limit": null,
+      "requested_limit": "as per expiring program",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Motor Truck Cargo coverage as per expiring program."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Maintains a formal business continuity and disaster recovery plan tested annually.",
+      "Dedicated safety committee that meets monthly and conducts quarterly site audits.",
+      "Employee assistance program and workplace wellness initiative have been in place for over five years.",
+      "Carries contractual risk transfer provisions in all subcontractor and vendor agreements.",
+      "A third-party risk control survey was completed within the past 12 months with favorable results.",
+      "Has implemented a formal return-to-work program that has reduced lost-time claims by over 30%.",
+      "All locations are equipped with security camera systems and 24/7 monitoring services.",
+      "Maintains low turnover and consistent safety training.",
+      "Fleet of 37 vehicles is maintained under a documented preventive maintenance schedule."
+    ],
+    "concerns": [],
+    "loss_history_summary": "The loss experience reflects a mixed trend with some large individual claims in the review period. Over the review period, the insured has incurred 48 total claims with $1,378,733.13 in total paid losses and $1,503,069.19 incurred. Currently, 10 claims remain open and 38 have been closed. Annualized loss ratio is 12.9% (avg annual incurred $300,613.84 against current annual premium $2,333,947.33 over 5 loss years)."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "We are pleased to submit Great Lakes Freight Systems, Inc. for your review and consideration. The insured is a regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors, headquartered in Columbus, with approximately 38 years of operating history. Coverage is requested for Workers' Compensation, General Liability, Commercial Auto, Commercial Property, Umbrella / Excess, Motor Truck Cargo.",
+    "operations_description": "regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "safety_programs": "The insured maintains a dedicated safety committee that meets monthly and conducts quarterly site audits. An employee assistance program and workplace wellness initiative have been in place for over five years. The insured has implemented a formal return-to-work program that has reduced lost-time claims by over 30%. With 485 employees and a structured HR program, the insured maintains low turnover and consistent safety training. The insured's fleet of 37 vehicles is maintained under a documented preventive maintenance schedule.",
+    "claims_narrative": "The loss experience reflects a mixed trend with some large individual claims in the review period. Over the review period, the insured has incurred 48 total claims with $1,378,733.13 in total paid losses and $1,503,069.19 incurred. Currently, 10 claims remain open and 38 have been closed. Annualized loss ratio is 12.9% (avg annual incurred $300,613.84 against current annual premium $2,333,947.33 over 5 loss years)."
+  }
+}

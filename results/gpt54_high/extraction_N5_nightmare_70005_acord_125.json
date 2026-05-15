@@ -1,0 +1,33 @@
+{
+  "form_info": {
+    "form_number": null,
+    "form_edition": null,
+    "form_title": null
+  },
+  "header": {
+    "insured_name": null,
+    "insured_address": null,
+    "insured_city": null,
+    "insured_state": null,
+    "insured_zip": null,
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": null,
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null,
+    "entity_type": null
+  },
+  "premises": [],
+  "uw_questions": [],
+  "coverages_requested": [],
+  "checkboxes": [],
+  "remarks": null
+}

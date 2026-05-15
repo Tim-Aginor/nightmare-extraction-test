@@ -1,0 +1,85 @@
+{
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "carrier_name": "Maine Employers Mutual",
+    "policy_numbers": {
+      "wc": null,
+      "gl": null,
+      "auto": null,
+      "property": "CP-BIP-2025-4420",
+      "umbrella": null,
+      "mtc": null
+    },
+    "report_date": "2026-03-15",
+    "policy_period_start": "2025-09-01",
+    "policy_period_end": "2026-09-01"
+  },
+  "claims": [
+    {
+      "claim_number": "MEM-2025-013016",
+      "date_of_loss": "2025-10-17",
+      "claimant": "Buckeye Industrial Properties, LLC",
+      "status": "Open",
+      "coverage": "property",
+      "paid": 202875.0,
+      "reserved": 35679.44,
+      "incurred": 238554.44,
+      "description": "Water Damage; Location: 2100 Kuntz Road, Dayton, OH; File Status: Re-opened"
+    },
+    {
+      "claim_number": "HTF-2021-013149",
+      "date_of_loss": "2021-10-09",
+      "claimant": "Buckeye Industrial Properties, LLC",
+      "status": "Closed",
+      "coverage": "property",
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "description": "Equipment Breakdown; Location: 11600 Mosteller Road, Cincinnati, OH; File Status: Denied"
+    }
+  ],
+  "subtotals_by_coverage": {
+    "wc": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "gl": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "auto": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "property": {
+      "paid": 202875.0,
+      "reserved": 35679.44,
+      "incurred": 238554.44,
+      "claim_count": 2
+    },
+    "umbrella": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    },
+    "mtc": {
+      "paid": 0.0,
+      "reserved": 0.0,
+      "incurred": 0.0,
+      "claim_count": 0
+    }
+  },
+  "grand_totals": {
+    "paid": 202875.0,
+    "reserved": 35679.44,
+    "incurred": 238554.44,
+    "claim_count": 2
+  }
+}

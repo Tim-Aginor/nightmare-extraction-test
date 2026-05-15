@@ -1,0 +1,101 @@
+{
+  "policy_info": {
+    "policy_number": "CP-BIP-2025-4420",
+    "policy_type": "COMMERCIAL PROPERTY",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "carrier_name": "Maine Employers Mutual",
+    "carrier_naic": "44251"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "dba": null,
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "entity_type": "LLC"
+  },
+  "producer": {
+    "name": null,
+    "address": null,
+    "code": null
+  },
+  "coverages": [
+    {
+      "coverage_type": "Building",
+      "coverage_code": "CP 00 10 10 12",
+      "limit": "146260000",
+      "deductible": 75000,
+      "premium": 424883,
+      "form_numbers": [
+        "CP 00 10 10 12"
+      ]
+    },
+    {
+      "coverage_type": "Business Personal Property",
+      "coverage_code": "CP 00 10 10 12",
+      "limit": "42495000",
+      "deductible": 75000,
+      "premium": null,
+      "form_numbers": [
+        "CP 00 10 10 12"
+      ]
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense",
+      "coverage_code": "CP 00 30 10 12",
+      "limit": "62590000",
+      "deductible": 75000,
+      "premium": null,
+      "form_numbers": [
+        "CP 00 30 10 12"
+      ]
+    }
+  ],
+  "locations": [],
+  "premium_summary": {
+    "total_premium": 424883,
+    "taxes_fees": null,
+    "total_due": 424883
+  },
+  "endorsements": [
+    {
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "form_number": "CP 04 09",
+      "title": "Equipment Breakdown Coverage"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    }
+  ],
+  "forms_attached": [
+    "CP 00 10 10 12",
+    "CP 00 30 10 12",
+    "CP 10 30 10 12",
+    "IL 00 21 09 08",
+    "IL 00 17 11 98",
+    "CP 04 09",
+    "IL 09 85 01 15"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Modification Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Analyst ID: RA-9405",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": null,
+    "city": null,
+    "state": "PA",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction contracting \u2014 operations include carpentry, electrical wiring, plumbing, masonry, interior painting, project management, and clerical support",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Experience modification factor of 0.86 effective 08/01/2025; rating plan is Large Risk; administered by Pennsylvania Compensation Rating Bureau (PCRB); Risk ID 609402-1243; interstate rating: No"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor of 0.86 \u2014 a credit mod indicating better-than-average loss experience relative to industry peers",
+      "Qualifies under Large Risk Rating Plan, reflecting significant premium volume",
+      "Computed mod of 0.8600 provides measurable premium savings for the insured",
+      "Most recent policy year (2021-2022) total incurred losses equal total paid, suggesting no significant open reserves beyond paid amounts for that year"
+    ],
+    "concerns": [
+      "Twenty or more claims across the three-year experience period",
+      "High-hazard trade classifications dominate payroll: Masonry NOC (rate 4.8000), Painting \u2014 Interior (rate 3.2000), Electrical Wiring (rate 2.6000), Plumbing NOC (rate 2.4000), and Carpentry NOC (rate 2.2000)",
+      "Total actual incurred losses of approximately $548,404 across three policy years",
+      "Actual excess losses of $212,733 indicate the presence of large individual claims",
+      "2021-2022 policy year alone produced 10 claims and $240,694 in incurred losses"
+    ],
+    "loss_history_summary": "Three-year experience period (2021-2024): approximately 20+ total claims. Total actual primary losses: $335,671; total actual excess losses: $212,733; combined actual incurred losses: approximately $548,404. Policy year 2021-2022 was the most adverse, with 10 claims and $240,694 incurred ($156,716 primary / $83,978 excess). Policy year 2022-2023 had 3 claims and $116,409 incurred. Policy year 2023-2024 had $191,231 incurred. Against total expected losses (E) of $1,095,520, the favorable mod of 0.86 reflects actual losses running well below expectation."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "PCRB Experience Rating Worksheet for Keystone Commercial Builders, Inc. issued by Hallmark Insurance Group dated 03/15/2026. Final Experience Modification Factor: 0.86, effective 08/01/2025 through 08/01/2026. Approved by PCRB Analyst RA-9405 on 03/15/2026 in accordance with applicable state rating laws and regulations. The insured may request a review or appeal within 90 days of the effective date.",
+    "operations_description": "Payroll classifications: PA 5403 Carpentry NOC ($5,910,000 payroll, ELR 2.2000, D-ratio 0.430); PA 5190 Electrical Wiring ($4,544,000 payroll, ELR 2.6000, D-ratio 0.300); PA 5183 Plumbing NOC ($3,075,000 payroll, ELR 2.4000, D-ratio 0.340); PA 5022 Masonry NOC ($6,635,800 payroll, ELR 4.8000, D-ratio 0.420); PA 5474 Painting Interior ($1,639,000 payroll, ELR 3.2000, D-ratio 0.360); PA 5606 Contractors Project Manager/Superintendent ($4,006,000 payroll, ELR 1.0000, D-ratio 0.300); PA 8810 Clerical Office Employees NOC ($5,010,000 payroll, ELR 0.1950, D-ratio 0.170). Total payroll: approximately $31,094,800.",
+    "safety_programs": null,
+    "claims_narrative": "Experience period loss data: 2023-2024 \u2014 total incurred $191,231, primary losses ~$124,400, excess losses ~$66,800. 2022-2023 \u2014 3 claims, total incurred $116,409, primary losses ~$68,000, excess losses ~$48,000. 2021-2022 \u2014 10 claims, total paid and incurred $240,694, primary losses $156,716, excess losses $83,978. Aggregate: ~20+ claims, actual primary losses (Ap) $335,671, actual excess losses (Ae) $212,733. Rating formula inputs: W=0.574, B=$13,748, Ee=$1,132,496, E=$1,095,520. Numerator=$953,971; Denominator (E+B)=$1,109,268; Computed mod=0.8600."
+  }
+}

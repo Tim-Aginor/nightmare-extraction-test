@@ -1,0 +1,76 @@
+{
+  "business_description": {
+    "annual_revenue": 67000000,
+    "employee_count": 173,
+    "naics_code": null,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "years_in_business": 24
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Policy number CP-LSPH-2025-7801. Prior insurance history lists CNA Financial for 2024 with premium 414601.77 and 1 claim; Zurich Insurance Group for 2023 with premium 423914.72 and 0 claims; American International Group for 2022 with premium 447842.42 and 1 claim. No cancellations reported for any listed year.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Sandra Villareal",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history: 2024 CNA Financial, premium 414601.77, 1 claim, no cancellations; 2023 Zurich Insurance Group, premium 423914.72, 0 claims, no cancellations; 2022 American International Group, premium 447842.42, 1 claim, no cancellations.",
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. Eight listed Texas premises include office and mercantile occupancies totaling 1056000 square feet, all sprinklered.",
+    "safety_programs": "Formal safety program: No. Written contracts with all subcontractors: Yes. Written contracts with indemnification required from all contractors: Yes. 24-hour doorperson or security on premises: Yes. Building fully sprinklered per NFPA 13 or 13R: Yes. Fire alarms hard-wired with central station monitoring: Yes. OSHA citations in past 3 years: No."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "name": "Lone Star Property Holdings, LP",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "No formal safety program.",
+      "EV charging stations are installed on the premises.",
+      "Amenities include swimming pools, exercise rooms, or other amenities.",
+      "Two claims reported across the 2022-2024 prior insurance history."
+    ],
+    "loss_history_summary": "Two claims reported over the listed three-year prior insurance history: 1 claim in 2024, 0 claims in 2023, and 1 claim in 2022. No cancellations reported in any listed year.",
+    "positives": [
+      "24 years in business and 18 years with current management.",
+      "Written contracts with all subcontractors and indemnification required from all contractors.",
+      "All eight listed premises are sprinklered, and the application indicates buildings are fully sprinklered per NFPA 13 or 13R.",
+      "Fire alarms are hard-wired with central station monitoring.",
+      "24-hour doorperson or security on premises.",
+      "Short-term rentals of less than one year are not permitted.",
+      "95% occupancy reported.",
+      "No OSHA citations in the past 3 years.",
+      "No cancellations reported in the prior insurance history."
+    ]
+  }
+}

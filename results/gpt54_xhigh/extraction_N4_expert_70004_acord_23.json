@@ -1,0 +1,194 @@
+{
+  "form_info": {
+    "form_number": "ACORD 23",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF AUTOMOBILE INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "301 Liberty Avenue, Suite 1259",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": "2024-03-05",
+    "expiration_date": "2025-03-05",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2019,
+      "make": "Ram",
+      "model": "1500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2021,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": null,
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Express 2500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2021,
+      "make": "Ram",
+      "model": "1500",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2009,
+      "make": "Fontaine",
+      "model": null,
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "14",
+      "year": 2012,
+      "make": "Wabash",
+      "model": null,
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Great Dane",
+      "model": null,
+      "vin": null,
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 1000000,
+    "uninsured_motorist": null,
+    "medical_payments": 10000
+  },
+  "auto_deductible": null,
+  "insurer_panel": [],
+  "checkboxes": [
+    {
+      "field": "any_auto",
+      "value": "Yes"
+    },
+    {
+      "field": "owned_autos_only",
+      "value": "No"
+    },
+    {
+      "field": "hired_autos_only",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

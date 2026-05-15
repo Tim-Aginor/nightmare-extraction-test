@@ -1,0 +1,87 @@
+{
+  "document_info": {
+    "document_type": "Spreadsheet submission data",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": "Austin",
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Hospitality group operating hotels, restaurants, and a corporate headquarters office",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 42000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Property schedule includes 8 locations with total insured value derived from listed TIVs."
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 28 WC claims, total paid 324545, total incurred 415934."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Loss summary shows 8 GL claims, total paid 8780, total incurred 82656."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Eight scheduled locations, all in Texas.",
+      "Major hotel and restaurant locations are largely sprinklered.",
+      "Predominantly fire resistive or masonry/non-combustible construction.",
+      "Profitable operations with net income of 3220600 and equity of 52535400."
+    ],
+    "concerns": [
+      "Hospitality and restaurant operations can present higher premises liability exposure.",
+      "All operations concentrated in Texas, creating geographic concentration risk.",
+      "Loss summary reflects 28 workers compensation claims, 8 general liability claims, and 2 property claims.",
+      "Insurance history shows varying annual claim counts, including 11 claims in 2024."
+    ],
+    "loss_history_summary": "Loss summary shows WC: 28 claims, 324545 paid, 415934 incurred; GL: 8 claims, 8780 paid, 82656 incurred; Property: 2 claims, 178566 paid, 215927 incurred. Insurance history shows annual claims of 2 to 11 from 2020 through 2024."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 0,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Property schedule reflects a hospitality portfolio consisting of four hotel locations, three restaurant locations, and one corporate headquarters office, all located in Texas.",
+    "safety_programs": null,
+    "claims_narrative": "Insurance history lists carriers and premium/claim counts by year: 2024 Travelers Companies premium 686236.25 with 11 claims; 2023 Markel Corporation premium 619820.26 with 3 claims; 2022 Zurich Insurance Group premium 607294.45 with 6 claims; 2021 Chubb Limited premium 630843.2 with 9 claims; 2020 EMPLOYERS Insurance Group premium 580805.53 with 2 claims."
+  }
+}

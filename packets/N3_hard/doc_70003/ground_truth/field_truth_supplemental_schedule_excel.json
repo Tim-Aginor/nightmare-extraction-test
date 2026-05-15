@@ -1,0 +1,97 @@
+{
+  "fields": {},
+  "doc_type": "supplemental_schedule_excel",
+  "excel_metadata": {
+    "tab_order": [
+      "Prior Insurance"
+    ],
+    "tabs": {
+      "prior_carriers": {
+        "tab_name": "Prior Insurance",
+        "header_row": 2,
+        "carrier_count": 5,
+        "carriers": [
+          {
+            "year": 2024,
+            "carrier": "Travelers Companies",
+            "premium": 686236.25,
+            "row": 3,
+            "loss_ratio_is_formula": false
+          },
+          {
+            "year": 2023,
+            "carrier": "Markel Corporation",
+            "premium": 619820.26,
+            "row": 4,
+            "loss_ratio_is_formula": false
+          },
+          {
+            "year": 2022,
+            "carrier": "Zurich Insurance Group",
+            "premium": 607294.45,
+            "row": 5,
+            "loss_ratio_is_formula": false
+          },
+          {
+            "year": 2021,
+            "carrier": "Chubb Limited",
+            "premium": 630843.2,
+            "row": 6,
+            "loss_ratio_is_formula": false
+          },
+          {
+            "year": 2020,
+            "carrier": "EMPLOYERS Insurance Group",
+            "premium": 580805.53,
+            "row": 7,
+            "loss_ratio_is_formula": false
+          }
+        ]
+      }
+    },
+    "schedule_types": [
+      "prior_carriers"
+    ],
+    "completeness": "partial",
+    "entity_deduplication": null,
+    "villification": {
+      "named_insured_tab": false,
+      "prior_carriers_tab": true,
+      "locations_tab": false,
+      "entity_variants": false,
+      "address_merged": false,
+      "premium_as_text": false,
+      "coverage_gaps": false,
+      "sqft_inconsistent": false,
+      "hidden_cols": false,
+      "comments": false,
+      "alternating_rows": true
+    },
+    "degradation": {
+      "copy_paste_misalign": {
+        "merges_added": 2
+      }
+    },
+    "merged_regions": [
+      {
+        "range": "A1:G1",
+        "value": "PRIOR INSURANCE HISTORY"
+      },
+      {
+        "range": "A3:B3",
+        "value": "copy_paste_artifact"
+      },
+      {
+        "range": "C3:D3",
+        "value": "copy_paste_artifact"
+      }
+    ],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {}
+  },
+  "format": "xlsx"
+}

@@ -1,0 +1,151 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "bs_cash": {
+      "value": 8884400.0,
+      "rendered_as": "$8,884,400.00"
+    },
+    "bs_accounts_receivable": {
+      "value": 4766200.0,
+      "rendered_as": "$4,766,200.00"
+    },
+    "bs_total_assets": {
+      "value": 77004300.0,
+      "rendered_as": "$77,004,300.00"
+    },
+    "bs_total_liabilities": {
+      "value": 24468900.0,
+      "rendered_as": "$24,468,900.00"
+    },
+    "bs_equity": {
+      "value": 52535400.0,
+      "rendered_as": "$52,535,400.00"
+    },
+    "is_revenue": {
+      "value": 42000000,
+      "rendered_as": "$42,000,000.00"
+    },
+    "is_net_income": {
+      "value": 3220600.0,
+      "rendered_as": "$3,220,600.00"
+    }
+  },
+  "doc_type": "financial_statement_excel",
+  "excel_metadata": {
+    "tab_name": "Financial Statements",
+    "statement_type": "balance_sheet_and_income_statement",
+    "balance_sheet": {
+      "total_assets": 77004300.0,
+      "total_liabilities": 24468900.0,
+      "equity": 52535400.0
+    },
+    "income_statement": {
+      "revenue": 42000000,
+      "net_income": 3220600.0,
+      "gross_profit": 19555800.0
+    },
+    "ratios": {
+      "current_ratio": 0.9442882282579425,
+      "debt_to_equity": 0.4657602302447493,
+      "profit_margin": 0.07668095238095238,
+      "return_on_assets": 0.04182363842019212
+    },
+    "audit_status": "compiled",
+    "fiscal_year_end": 3,
+    "account_hierarchy": {
+      "ASSETS": {
+        "Current Assets": [
+          "Cash & Equivalents",
+          "Accounts Receivable",
+          "Operating Supplies",
+          "Prepaid Expenses"
+        ],
+        "Non-Current Assets": [
+          "Property, Plant & Equipment (net)",
+          "Other Assets"
+        ]
+      },
+      "LIABILITIES": [
+        "Accounts Payable",
+        "Accrued Expenses",
+        "Current Portion of Long-Term Debt",
+        "Long-Term Debt",
+        "Other Liabilities"
+      ],
+      "EQUITY": [
+        "Equity"
+      ],
+      "INCOME_STATEMENT": [
+        "Revenue",
+        "Operating Expenses",
+        "Gross Profit",
+        "Operating Expenses",
+        "Depreciation & Amortization",
+        "EBIT",
+        "Interest Expense",
+        "Earnings Before Tax",
+        "Tax Provision",
+        "Net Income"
+      ]
+    },
+    "period_columns": {
+      "2": "FY2026 (ending 3/30)"
+    },
+    "villification": {
+      "multi_period": false,
+      "formula_cells": false,
+      "negative_parens": true,
+      "rounding_discrepancy": false,
+      "outline_grouping": false,
+      "draft_marker": false,
+      "hidden_cols": false,
+      "comments": false,
+      "sheet_protection": false,
+      "alternating_rows": true,
+      "spreading_tab": false
+    },
+    "merged_regions": [
+      {
+        "range": "A1:B1",
+        "value": "Hill Country Hospitality Partners, LLC"
+      },
+      {
+        "range": "A2:B2",
+        "value": "FINANCIAL STATEMENTS"
+      },
+      {
+        "range": "A8:B8",
+        "value": "BALANCE SHEET"
+      },
+      {
+        "range": "A31:B31",
+        "value": "INCOME STATEMENT"
+      },
+      {
+        "range": "A44:B44",
+        "value": "KEY FINANCIAL RATIOS"
+      }
+    ],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {}
+  },
+  "format": "xlsx"
+}

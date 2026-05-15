@@ -1,0 +1,101 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "sic_code": "4215",
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": "64110000",
+      "expiring_premium": 235710.77,
+      "notes": "Form CP 00 10 10 12; policy number cpGLFS20258823; deductible shown as 50000; coinsurance shown as 80.00.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Commercial Property - Contents",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": "30320000",
+      "expiring_premium": null,
+      "notes": "Included in Commercial Property schedule of limits.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Business Income and Extra Expense",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": "57954000",
+      "expiring_premium": null,
+      "notes": "Coverage form CP 15 06 (10 12) attached; applies to actual loss of business income during the period of restoration and continuing normal operating expenses, including payroll.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 (10 12) attached.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 (07 88) attached; coinsurance additional condition is suspended for property specified in the schedule during the declarations period.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Utility Services - Direct Damage",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 (10 12) attached; applies to direct physical loss or damage caused by interruption of water supply, communication supply, and power supply services to the described premises.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2025-06-18",
+    "document_type": "Commercial Property Policy Declarations and Building and Personal Property Coverage Form",
+    "prepared_by": "Transportation Insurance Specialists",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "SIC Code: 4215 Description: Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors",
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": "2026-06-01",
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 152384000
+  },
+  "risk_highlights": {
+    "concerns": [],
+    "loss_history_summary": null,
+    "positives": []
+  }
+}

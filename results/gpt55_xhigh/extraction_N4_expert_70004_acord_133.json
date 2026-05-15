@@ -1,0 +1,84 @@
+{
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "25-7194638",
+    "naics_code": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "years_in_business": null
+  },
+  "checkboxes": [],
+  "class_codes": [
+    {
+      "class_code": "5403",
+      "description": "Carpentry \u2014 NOC",
+      "payroll": 8651000,
+      "premium": 453308,
+      "rate": 5.24
+    },
+    {
+      "class_code": "5190",
+      "description": "Electrical Wiring",
+      "payroll": 3840000,
+      "premium": 186880,
+      "rate": 4.85
+    },
+    {
+      "class_code": "5183",
+      "description": "Plumbing \u2014 NOC",
+      "payroll": 3095000,
+      "premium": 139994,
+      "rate": 4.52
+    },
+    {
+      "class_code": "5022",
+      "description": "Masonry \u2014 NOC",
+      "payroll": 6056450,
+      "premium": 554168,
+      "rate": 9.15
+    },
+    {
+      "class_code": "5474",
+      "description": "Painting \u2014 Interior",
+      "payroll": 1936000,
+      "premium": 133419,
+      "rate": 6.9
+    },
+    {
+      "class_code": "5606",
+      "description": "Contractors \u2014 Project Manager, Superintendent",
+      "payroll": 4778000,
+      "premium": 117066,
+      "rate": 2.45
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2014 NOC",
+      "payroll": 5010000,
+      "premium": 9519,
+      "rate": 0.19
+    }
+  ],
+  "experience_mod": 0.91,
+  "form_info": {
+    "form_edition": "03/2009",
+    "form_number": "ACORD 133",
+    "form_title": "Workers Compensation Assigned Risk"
+  },
+  "header": {
+    "carrier_name": "Workers Compensation Insurance Plan",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "insured_address": "300 Liberty Avenue, Suite 4200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Steel City Insurance Group"
+  },
+  "remarks": "SIC - 1521 - General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+  "state": "PA",
+  "total_premium": 1594354
+}

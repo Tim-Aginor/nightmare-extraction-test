@@ -1,0 +1,109 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Blvd.",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Freight/Trucking - Warehousing and Distribution",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy BWC-7853-4607"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy GL-0007119"
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy CA-4481-4597"
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy CP-9793-9090"
+    },
+    {
+      "coverage_type": "Commercial Umbrella",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy CU00005026"
+    },
+    {
+      "coverage_type": "Motor Truck Cargo",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hanover Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy MT-0006135"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Stable insurance history with no cancellations over the past 5 years",
+      "Consistent premium levels across 5-year history",
+      "Multi-state warehousing operation with diverse location portfolio"
+    ],
+    "concerns": [
+      "Claims activity increased to 10 in 2024 and 13 in 2023, up from 4 in 2020",
+      "Frequent carrier changes over 5 years (5 different carriers)"
+    ],
+    "loss_history_summary": "5-year loss history shows claim counts of 4 (2020), 7 (2021), 12 (2022), 13 (2023), and 10 (2024). Total premiums ranged from approximately $2.01M to $2.09M annually with no cancellations."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Great Lakes Freight Systems, Inc. operates 9 locations across Ohio and Pennsylvania, including 7 warehouses (totaling 695,000 sq ft), 1 service/repair facility (28,000 sq ft), and 1 corporate office (12,000 sq ft). Headquarters located at 1200 Nationwide Blvd., Columbus, OH.",
+    "safety_programs": null,
+    "claims_narrative": "Prior insurance history shows 46 total claims over 5 years (2020-2024), with an upward trend in claim frequency peaking in 2023 at 13 claims, and 10 claims in the most recent year (2024). No policy cancellations reported."
+  }
+}

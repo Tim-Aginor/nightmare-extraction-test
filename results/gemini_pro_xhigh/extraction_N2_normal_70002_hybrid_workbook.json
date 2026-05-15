@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Excel Submission",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial Property Management and Warehousing",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Premium provided is for the 2024 policy period."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No claims reported from 2022 to 2024",
+      "8 out of 9 locations are sprinklered",
+      "Majority of the portfolio features Non-Combustible or Fire Resistive construction"
+    ],
+    "concerns": [
+      "Location 7 (Manufacturing) lacks sprinkler protection",
+      "Location 4 is of Joisted Masonry construction"
+    ],
+    "loss_history_summary": "Property coverage has experienced 2 claims with $202,875 total paid and $238,554 total incurred. Only 1 claim occurred in the past 4 years (2021)."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

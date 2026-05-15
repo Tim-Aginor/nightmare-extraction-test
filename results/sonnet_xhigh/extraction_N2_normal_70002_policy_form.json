@@ -1,0 +1,121 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-09-01",
+    "prepared_by": "Maine Employers Mutual",
+    "recipient": "Buckeye Industrial Properties, LLC"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property \u2013 Building",
+      "current_limit": 146260000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": 424883.27,
+      "notes": "Form CP 00 10 10 12; Policy Number CP-BIP-2025-4420; Deductible $75,000; Coinsurance 80%; Premium is total commercial property package premium"
+    },
+    {
+      "coverage_type": "Commercial Property \u2013 Contents",
+      "current_limit": 42495000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Included within overall commercial property premium of $424,883.27; Deductible $75,000"
+    },
+    {
+      "coverage_type": "Business Income",
+      "current_limit": 62590000,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Business Income and Extra Expense Coverage Form (CP 15 08 10 12); Endorsement effective 03/15/2026; Covers actual loss of business income during period of restoration due to suspension of operations"
+    },
+    {
+      "coverage_type": "Ordinance or Law Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 10 12; Effective 03/15/2026; Covers loss in value of undamaged portion of building when ordinance or law requires demolition following a Covered Cause of Loss"
+    },
+    {
+      "coverage_type": "Utility Services \u2013 Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 10 12; Effective 03/15/2026; Covers direct physical loss to Covered Property caused by interruption of water supply, communication supply, and power supply services"
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 07 88; Effective 03/15/2026; Suspends Coinsurance Additional Condition for the policy declarations period; property value agreed to be not less than amount shown in Schedule"
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 10 12; Effective 03/15/2026; Covers direct physical loss to Covered Property caused by equipment breakdown accident including mechanical, electrical, or pressure equipment"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Agreed Value endorsement suspends coinsurance penalty condition for the policy period, eliminating underinsurance penalty exposure",
+      "Comprehensive endorsement package added mid-term: Equipment Breakdown, Ordinance or Law, Utility Services \u2013 Direct Damage, and Business Income and Extra Expense",
+      "Business Income limit of $62,590,000 provides substantial revenue protection during restoration period",
+      "Industrial real estate investment and management is a stable, asset-backed commercial class",
+      "Coverage Extensions apply given coinsurance at 80%, including Newly Acquired or Constructed Property (up to $250,000/building), Personal Effects, Property Off-Premises, and Non-Owned Detached Trailers"
+    ],
+    "concerns": [
+      "No loss history provided within the document",
+      "All five endorsements share a common mid-term effective date of 03/15/2026, suggesting material coverage gaps existed from policy inception on 09/01/2025",
+      "Building limit ($146,260,000) and contents limit ($42,495,000) specific sub-limit details and per-location breakdown are not disclosed",
+      "Number of insured locations not specified; total portfolio concentration risk unknown",
+      "Coinsurance listed in schedule as '$80.00' \u2014 ambiguous formatting may indicate data entry or display issue"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 188755000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2013 warehouse, distribution, and light manufacturing facilities throughout Ohio (SIC Code: 6512). Insured is Buckeye Industrial Properties, LLC, a limited liability company headquartered at 250 Civic Center Drive, Suite 600, Columbus, OH 43215.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

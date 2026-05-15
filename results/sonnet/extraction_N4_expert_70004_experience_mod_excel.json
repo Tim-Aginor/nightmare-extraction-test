@@ -1,0 +1,71 @@
+{
+  "document_info": {
+    "document_type": "Experience Rating Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Joan Ortiz, Claims Processing Center",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial construction contractor \u2014 operations include carpentry, electrical wiring, plumbing, masonry, interior painting, project management/superintendent, and clerical office functions",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Policy Number WC-KCB-2025-5580; Policy Period 2025-08-01 to 2026-08-01; PCRB Experience Rating Worksheet; Large Risk Rating Plan; Interstate Rating: No; Final Experience Modification Factor: 0.86; Total Payroll: 31594850; Expected Losses: 951902"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Favorable experience modification factor of 0.86, indicating better-than-average loss experience relative to peers",
+      "Calculated mod below 1.0 suggests actual losses are below expected levels",
+      "Relatively low incurred loss development (total paid vs. total incurred figures are closely aligned across all policy years, indicating limited reserve development)",
+      "Large Risk rating plan eligibility indicates significant premium volume and risk sophistication"
+    ],
+    "concerns": [
+      "High-hazard classification mix including carpentry (5403), masonry (5022), plumbing (5183), and electrical wiring (5190) operations",
+      "2021-2022 policy year had 10 claims with $240,694 in total incurred losses, representing the highest claim frequency year",
+      "Three policy years of loss data show consistent claim activity with no loss-free years",
+      "Total actual losses across three years: $548,404 incurred across 20 claims"
+    ],
+    "loss_history_summary": "Three policy years of loss data: 2021-2022 (10 claims, $240,694 incurred, $156,716 primary / $83,978 excess); 2022-2023 (3 claims, $116,479 incurred, $58,500 primary / $57,979 excess); 2023-2024 (7 claims, $191,231 incurred, $120,455 primary / $70,776 excess). Total: 20 claims, $548,404 total incurred, $335,671 actual primary losses, $212,733 actual excess losses. Valuation date 2026-03-15."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "PCRB Experience Rating Worksheet for Keystone Commercial Builders, Inc. (Policy WC-KCB-2025-5580) prepared by Hallmark Insurance Group. Valuation Date 2026-03-15. Risk ID 491498-1604. Large Risk Rating Plan, Pennsylvania only, non-interstate. Final Experience Modification Factor: 0.86.",
+    "operations_description": "Commercial construction operations spanning seven workers compensation classifications: Carpentry NOC (5403, $5,915,000 payroll), Electrical Wiring (5190, $4,544,000 payroll), Plumbing NOC (5183, $3,075,000 payroll), Masonry NOC (5022, $6,635,850 payroll), Painting Interior (5474, $1,639,000 payroll), Contractors Project Manager/Superintendent (5606, $4,776,000 payroll), Clerical Office Employees NOC (8810, $5,010,000 payroll). Total payroll: $31,594,850.",
+    "safety_programs": null,
+    "claims_narrative": "2023-2024: 7 claims, $190,770 paid, $191,231 incurred, $120,455 primary losses, $70,776 excess losses. 2022-2023: 3 claims, $115,267 paid, $116,479 incurred, $58,500 primary losses, $57,979 excess losses. 2021-2022: 10 claims, $240,694 paid, $240,694 incurred, $156,716 primary losses, $83,978 excess losses. Rating calculation: Expected Losses (E) $1,095,520; Actual Primary Losses (Ap) $335,671; Actual Excess Losses (Ae) $212,733; Weighting Factor (W) 0.574; Expected Excess Losses (Ee) $1,132,496; Ballast Value (B) $13,748; Numerator $953,971; Denominator $1,109,268; Calculated Mod 0.8600."
+  }
+}

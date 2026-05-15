@@ -1,0 +1,58 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": null,
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "HB Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2200",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hudson Insurance Company",
+    "policy_number": null,
+    "effective_date": "2024-08-15",
+    "expiration_date": "2025-08-15",
+    "producer_name": "Capital Insurance Advisors",
+    "producer_code": null
+  },
+  "document_date": "2024-08-15",
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": null,
+      "city": "Austin",
+      "state": "TX",
+      "zip": null,
+      "construction": "Fire Resistive",
+      "occupancy": "Hotel",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    }
+  ],
+  "property_limits": {
+    "building": null,
+    "contents": null,
+    "business_income": null
+  },
+  "property_deductible": null,
+  "insurer_panel": [
+    {
+      "carrier": "Hudson Insurance Company",
+      "naic": null
+    }
+  ],
+  "checkboxes": [],
+  "remarks": null
+}

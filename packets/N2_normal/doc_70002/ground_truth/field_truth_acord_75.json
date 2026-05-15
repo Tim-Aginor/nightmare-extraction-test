@@ -1,0 +1,158 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "binder_number": {
+      "value": "BND-070002"
+    },
+    "binder_date": {
+      "value": "2026-03-11",
+      "rendered_as": "03/11/2026"
+    },
+    "producer_name": {
+      "value": "Midwest Property & Casualty Group"
+    },
+    "producer_contact": {
+      "value": "Karen Weissman"
+    },
+    "producer_phone": {
+      "value": "(614) 555-0742"
+    },
+    "producer_fax": {
+      "value": "(614) 837-8018"
+    },
+    "producer_email": {
+      "value": "kweissman@mwpcg.com"
+    },
+    "policy_number_property": {
+      "value": "CP-BIP-2025-4420"
+    },
+    "premium_property": {
+      "value": 424883.27,
+      "rendered_as": "$424,883.27"
+    },
+    "deductible_property": {
+      "value": 75000,
+      "rendered_as": "$75,000.00"
+    },
+    "form_type_property": {
+      "value": "special"
+    },
+    "limit_property_building": {
+      "value": 146260000,
+      "rendered_as": "$146,260,000.00"
+    },
+    "limit_property_contents": {
+      "value": 42495000,
+      "rendered_as": "$42,495,000.00"
+    },
+    "limit_property_business_income": {
+      "value": 62590000,
+      "rendered_as": "$62,590,000.00"
+    },
+    "limit_property_coinsurance": {
+      "value": 80.0,
+      "rendered_as": "80%"
+    },
+    "coinsurance_property": {
+      "value": 80.0,
+      "rendered_as": "80%"
+    }
+  },
+  "doc_type": "acord_75",
+  "expiring_carriers": [
+    {
+      "year": 2024,
+      "carrier": "Liberty Mutual Insurance",
+      "premium": 392002.31
+    },
+    {
+      "year": 2023,
+      "carrier": "Hartford Financial Services",
+      "premium": 419914.35
+    },
+    {
+      "year": 2022,
+      "carrier": "Chubb Limited",
+      "premium": 456514.1
+    }
+  ],
+  "endorsements": [
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 00 10 10 12",
+      "description": "Building and Personal Property Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 00 30 10 12",
+      "description": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 10 30 10 12",
+      "description": "Causes of Loss \u2014 Special Form"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 00 21 09 08",
+      "description": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 00 17 11 98",
+      "description": "Common Policy Conditions"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "CP 04 09",
+      "description": "Equipment Breakdown Coverage"
+    },
+    {
+      "coverage": "Commercial Property",
+      "form_code": "IL 09 85 01 15",
+      "description": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "Regions Bank",
+      "address": "P.O. Box 16098",
+      "city_state_zip": "El Paso, TX 79901"
+    },
+    {
+      "name": "ABC Equipment Leasing Corp.",
+      "address": "P.O. Box 29249",
+      "city_state_zip": "Clarksville, TN 37040"
+    },
+    {
+      "name": "Pinnacle Investors Group, Inc.",
+      "address": "P.O. Box 41583",
+      "city_state_zip": "Fargo, ND 58102"
+    }
+  ]
+}

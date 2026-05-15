@@ -1,0 +1,101 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2013 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "sic_code": "4215",
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Building and Personal Property Coverage Form",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": "Building 84110000; Contents 30320000; Business Income 57954000",
+      "expiring_premium": 235710.77,
+      "notes": "Form CP 00 10 10 12; policy number cpGLFS20258823. Schedule also shows 80% coinsurance and 50000 deductible.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Business Income and Extra Expense",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": "57954000",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 15 08 10 12 listed in endorsement schedule; Business Income limit shown in Schedule of Limits.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Equipment Breakdown Coverage",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 10 12 listed in endorsement schedule.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 07 88 listed; form states coinsurance additional condition is suspended for scheduled property during the declarations period.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Utility Services - Direct Damage",
+      "current_carrier": "Standard Insurance Company",
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 10 12 listed in endorsement schedule.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2025-06-18",
+    "document_type": "Commercial Property Policy - Building and Personal Property Coverage Form",
+    "prepared_by": "Transportation Insurance Specialists",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2013 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": "2026-06-01",
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": 172384000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Operations include trucking/freight logistics with warehousing and distribution across Midwest and Mid-Atlantic corridors.",
+      "Large scheduled limits total 172384000 across building, contents, and business income.",
+      "Deductible shown as 50000.",
+      "No loss history or claims narrative provided in the document.",
+      "Handwritten note on the Utility Services endorsement indicates \"Need docs\"."
+    ],
+    "loss_history_summary": null,
+    "positives": [
+      "Commercial property coverage includes building, contents, and business income limits.",
+      "Endorsement schedule includes equipment breakdown, business income and extra expense, agreed value, and utility services direct damage.",
+      "Agreed Value endorsement is included."
+    ]
+  }
+}

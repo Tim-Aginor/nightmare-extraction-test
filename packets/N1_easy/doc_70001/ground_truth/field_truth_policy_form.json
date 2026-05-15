@@ -1,0 +1,435 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP",
+      "locations": [
+        {
+          "page": 1,
+          "x": 260.2,
+          "y": 301.2,
+          "width": 158.3,
+          "height": 10.0
+        },
+        {
+          "page": 2,
+          "x": 52.8,
+          "y": 113.0,
+          "width": 142.5,
+          "height": 9.0
+        },
+        {
+          "page": 11,
+          "x": 260.2,
+          "y": 153.0,
+          "width": 142.5,
+          "height": 9.0
+        },
+        {
+          "page": 12,
+          "x": 260.2,
+          "y": 153.0,
+          "width": 142.5,
+          "height": 9.0
+        },
+        {
+          "page": 13,
+          "x": 260.2,
+          "y": 153.0,
+          "width": 142.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Apex Managing General Agency"
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500"
+    },
+    "insured_city": {
+      "value": "Dallas"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "75201"
+    },
+    "policy_period_start": {
+      "value": "2025-07-01",
+      "rendered_as": "07/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-07-01",
+      "rendered_as": "07/01/2026"
+    },
+    "policy_number_property": {
+      "value": "CP-LSPH-2025-7801",
+      "locations": [
+        {
+          "page": 1,
+          "x": 260.2,
+          "y": 341.2,
+          "width": 100.2,
+          "height": 10.0
+        },
+        {
+          "page": 11,
+          "x": 260.2,
+          "y": 169.0,
+          "width": 90.2,
+          "height": 9.0
+        },
+        {
+          "page": 12,
+          "x": 260.2,
+          "y": 169.0,
+          "width": 90.2,
+          "height": 9.0
+        },
+        {
+          "page": 13,
+          "x": 260.2,
+          "y": 169.0,
+          "width": 90.2,
+          "height": 9.0
+        }
+      ]
+    },
+    "form_number": {
+      "value": "CP 00 10 10 12",
+      "locations": [
+        {
+          "page": 1,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 1,
+          "x": 260.2,
+          "y": 381.2,
+          "width": 76.6,
+          "height": 10.0
+        },
+        {
+          "page": 1,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 2,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 2,
+          "x": 260.2,
+          "y": 280.5,
+          "width": 69.0,
+          "height": 9.0
+        },
+        {
+          "page": 2,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 3,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 3,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 4,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 4,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 5,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 5,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 6,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 6,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 7,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 7,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 8,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 8,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 9,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 9,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 10,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 10,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 11,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 11,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 12,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 12,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        },
+        {
+          "page": 13,
+          "x": 497.8,
+          "y": 22.0,
+          "width": 67.4,
+          "height": 8.0
+        },
+        {
+          "page": 13,
+          "x": 46.8,
+          "y": 768.0,
+          "width": 53.6,
+          "height": 7.0
+        }
+      ]
+    },
+    "edition": {
+      "value": "10 12",
+      "locations": [
+        {
+          "page": 10,
+          "x": 154.5,
+          "y": 134.5,
+          "width": 25.8,
+          "height": 9.0
+        },
+        {
+          "page": 10,
+          "x": 154.5,
+          "y": 152.5,
+          "width": 25.8,
+          "height": 9.0
+        },
+        {
+          "page": 10,
+          "x": 154.5,
+          "y": 170.5,
+          "width": 25.8,
+          "height": 9.0
+        }
+      ]
+    },
+    "lob": {
+      "value": "property"
+    }
+  },
+  "doc_type": "policy_form",
+  "section_titles": [
+    "A. COVERAGE",
+    "A.2. PROPERTY NOT COVERED",
+    "A.4. ADDITIONAL COVERAGES",
+    "A.5. COVERAGE EXTENSIONS",
+    "B. EXCLUSIONS AND LIMITATIONS",
+    "C. LIMITS OF INSURANCE",
+    "D. DEDUCTIBLE",
+    "E. LOSS CONDITIONS",
+    "F. ADDITIONAL CONDITIONS",
+    "G. OPTIONAL COVERAGES",
+    "H. DEFINITIONS"
+  ],
+  "definition_terms": [
+    "Electronic Data",
+    "Fungus",
+    "Pollutants",
+    "Specified Causes Of Loss",
+    "Stock"
+  ],
+  "endorsement_schedule": [
+    {
+      "form_number": "CP 04 05",
+      "edition": "10 12",
+      "title": "Ordinance Or Law Coverage"
+    },
+    {
+      "form_number": "CP 04 09",
+      "edition": "10 12",
+      "title": "Equipment Breakdown Coverage"
+    },
+    {
+      "form_number": "CP 04 17",
+      "edition": "10 12",
+      "title": "Utility Services \u2014 Direct Damage"
+    }
+  ],
+  "endorsement_details": [
+    {
+      "form_number": "CP 04 05",
+      "edition": "10 12",
+      "title": "Ordinance Or Law Coverage",
+      "named_insured": "Lone Star Property Holdings, LP",
+      "policy_number": "CP-LSPH-2025-7801"
+    },
+    {
+      "form_number": "CP 04 09",
+      "edition": "10 12",
+      "title": "Equipment Breakdown Coverage",
+      "named_insured": "Lone Star Property Holdings, LP",
+      "policy_number": "CP-LSPH-2025-7801"
+    },
+    {
+      "form_number": "CP 04 17",
+      "edition": "10 12",
+      "title": "Utility Services \u2014 Direct Damage",
+      "named_insured": "Lone Star Property Holdings, LP",
+      "policy_number": "CP-LSPH-2025-7801"
+    }
+  ],
+  "table_of_contents": [
+    {
+      "title": "COMMON POLICY DECLARATIONS"
+    },
+    {
+      "title": "COMMON POLICY CONDITIONS"
+    },
+    {
+      "title": "A. COVERAGE"
+    },
+    {
+      "title": "A.2. PROPERTY NOT COVERED"
+    },
+    {
+      "title": "A.4. ADDITIONAL COVERAGES"
+    },
+    {
+      "title": "A.5. COVERAGE EXTENSIONS"
+    },
+    {
+      "title": "B. EXCLUSIONS AND LIMITATIONS"
+    },
+    {
+      "title": "C. LIMITS OF INSURANCE"
+    },
+    {
+      "title": "D. DEDUCTIBLE"
+    },
+    {
+      "title": "E. LOSS CONDITIONS"
+    },
+    {
+      "title": "F. ADDITIONAL CONDITIONS"
+    },
+    {
+      "title": "G. OPTIONAL COVERAGES"
+    },
+    {
+      "title": "H. DEFINITIONS"
+    },
+    {
+      "title": "ENDORSEMENT SCHEDULE"
+    }
+  ]
+}

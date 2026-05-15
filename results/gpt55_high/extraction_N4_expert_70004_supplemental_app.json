@@ -1,0 +1,69 @@
+{
+  "business_description": {
+    "annual_revenue": 95000000,
+    "employee_count": 470,
+    "naics_code": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": null,
+    "years_in_business": 42
+  },
+  "coverages_discussed": [],
+  "document_info": {
+    "date": "2026-03-14",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Patricia Nowak",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history: 2024 Nationwide Insurance premium $1,634,721.63 with 13 claims and no cancellation; 2023 Berkshire Hathaway Guard premium $1,476,849.96 with 10 claims and no cancellation; 2022 Zurich Insurance Group premium $1,369,245.71 with 4 claims and cancellation noted as yes.",
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Years in business: 42; years with current management: 28. Employees: 425 full-time and 45 part-time. Annual revenue/gross receipts: $95,000,000. Hours of operation: Mon-Fri 7:00 AM - 3:30 PM.",
+    "safety_programs": "Formal safety program: Yes. Written safety program: Yes. Formal return-to-work or modified duty program: Yes. Maintains OSHA 300 logs and conducts regular job-site safety audits: Yes. Hazardous materials used or encountered in operations: Yes. Certificates of insurance required from all subcontractors before work begins: No. Written contracts with all subcontractors: No. Hold-harmless agreements obtained from all subcontractors: No. Demolition or blasting operations: Yes. Operations above 4 stories: Yes."
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "name": "Keystone Commercial Builders, Inc.",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Hazardous materials are used or encountered in operations.",
+      "Certificates of insurance are not required from all subcontractors before work begins.",
+      "Applicant does not have written contracts with all subcontractors.",
+      "Hold-harmless agreements are not obtained from all subcontractors.",
+      "Applicant performs demolition or blasting operations.",
+      "Applicant performs operations above 4 stories.",
+      "40% of work is performed by subcontractors.",
+      "One warehouse location is not sprinklered.",
+      "Prior insurance history shows 27 claims over 2022-2024 and a cancellation in 2022."
+    ],
+    "loss_history_summary": "Prior insurance history lists 27 total claims over 2022-2024: 13 in 2024, 10 in 2023, and 4 in 2022. A cancellation was noted for 2022 only. No claim amounts or loss details were provided.",
+    "positives": [
+      "42 years in business and 28 years with current management.",
+      "Formal safety program and formal written safety program are in place.",
+      "Formal return-to-work or modified duty program is in place.",
+      "Applicant maintains OSHA 300 logs and conducts regular job-site safety audits.",
+      "Four of five listed premises are sprinklered.",
+      "Operations focus on commercial and institutional construction in Western Pennsylvania."
+    ]
+  }
+}

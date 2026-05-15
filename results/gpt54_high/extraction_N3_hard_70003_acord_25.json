@@ -1,0 +1,148 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": "Capital Insurance Advisors",
+    "producer_code": null
+  },
+  "document_date": "2025-05-19",
+  "certificate_holders": [
+    {
+      "name": "Dusk Realty Management Inc.",
+      "address": "219 Lake Street, Springfield, MO 65801"
+    }
+  ],
+  "carrier_name_per_lob": [
+    {
+      "lob": "Commercial General Liability",
+      "carrier": "Hallmark Insurance Group",
+      "naic": "34487",
+      "policy_number": "GL-HCP-343-1781"
+    },
+    {
+      "lob": "Workers Compensation and Employers' Liability",
+      "carrier": "Hallmark Insurance Group",
+      "naic": "34037",
+      "policy_number": "WC-HCP-2025-339"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability - Each Occurrence",
+      "policy_number": "GL-HCP-343-1781",
+      "effective_date": "2025-04-01",
+      "expiration_date": "2026-04-01",
+      "limit": "1000000"
+    },
+    {
+      "coverage_type": "Commercial General Liability - Damage To Rented Premises (Ea occurrence)",
+      "policy_number": "GL-HCP-343-1781",
+      "effective_date": "2025-04-01",
+      "expiration_date": "2026-04-01",
+      "limit": "50000"
+    },
+    {
+      "coverage_type": "Commercial General Liability - Medical Expense (Any one person)",
+      "policy_number": "GL-HCP-343-1781",
+      "effective_date": "2025-04-01",
+      "expiration_date": "2026-04-01",
+      "limit": "10000"
+    },
+    {
+      "coverage_type": "Commercial General Liability - Personal & Advertising Injury",
+      "policy_number": "GL-HCP-343-1781",
+      "effective_date": "2025-04-01",
+      "expiration_date": "2026-04-01",
+      "limit": "500000"
+    },
+    {
+      "coverage_type": "Commercial General Liability - General Aggregate",
+      "policy_number": "GL-HCP-343-1781",
+      "effective_date": "2025-04-01",
+      "expiration_date": "2026-04-01",
+      "limit": "2000000"
+    },
+    {
+      "coverage_type": "Commercial General Liability - Products-Comp/Op Aggregate",
+      "policy_number": "GL-HCP-343-1781",
+      "effective_date": "2025-04-01",
+      "expiration_date": "2026-04-01",
+      "limit": "2000000"
+    },
+    {
+      "coverage_type": "Workers Compensation - Statutory Limits",
+      "policy_number": "WC-HCP-2025-339",
+      "effective_date": "2025-05-01",
+      "expiration_date": "2026-05-01",
+      "limit": "Statutory"
+    },
+    {
+      "coverage_type": "Employers Liability - Each Accident",
+      "policy_number": "WC-HCP-2025-339",
+      "effective_date": "2025-05-01",
+      "expiration_date": "2026-05-01",
+      "limit": "1000000"
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Each Employee",
+      "policy_number": "WC-HCP-2025-339",
+      "effective_date": "2025-05-01",
+      "expiration_date": "2026-05-01",
+      "limit": "1000000"
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Policy Limit",
+      "policy_number": "WC-HCP-2025-339",
+      "effective_date": "2025-05-01",
+      "expiration_date": "2026-05-01",
+      "limit": "1000000"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Commercial General Liability - Occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial General Liability - Claims Made",
+      "value": "No"
+    },
+    {
+      "field": "General Aggregate Applies Per Policy",
+      "value": "Yes"
+    },
+    {
+      "field": "General Aggregate Applies Per Project",
+      "value": "No"
+    },
+    {
+      "field": "General Aggregate Applies Per Location",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - Statutory Limits",
+      "value": "Yes"
+    },
+    {
+      "field": "Workers Compensation - Other",
+      "value": "No"
+    },
+    {
+      "field": "Additional Insured",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "RE: Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas locations: The Driskill Austin - 604 Brazos Street, Austin, TX 78701; Riverwalk Suites San Antonio - 112 College Street, San Antonio, TX 78205; Fredericksburg Inn & Spa - 245 East Main Street, Fredericksburg, TX 78624. Dusk Realty Management Inc. is included as additional insured as required by service contract. 30 days notice of cancellation will be provided."
+}

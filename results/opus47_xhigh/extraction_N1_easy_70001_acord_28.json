@@ -1,0 +1,193 @@
+{
+  "form_info": {
+    "form_number": "ACORD 28",
+    "form_edition": "2016/03",
+    "form_title": "Evidence of Commercial Property Insurance"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": null,
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01"
+  },
+  "applicant_info": {
+    "entity_type": "Partnership",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Property - Special Cause of Loss",
+      "limit": 314984000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "form_date": "2026-03-15",
+    "naic_code": "68074",
+    "loan_number": "LN-302919",
+    "policy_type": "Special",
+    "cause_of_loss": "Special",
+    "deductible": 50000,
+    "coinsurance_percent": 90.0,
+    "producer_contact": "Sandra Villareal",
+    "producer_address": "1700 Pacific Avenue, Suite 3200, Dallas, TX 75201",
+    "producer_phone": "(214) 555-0918",
+    "producer_fax": "(214) 273-7259",
+    "producer_email": "svillareal@txcip.com",
+    "authorized_representative": "Richard Thornton",
+    "signature_date": "2026-03-15",
+    "mortgagee": {
+      "name": "Bank of America, N.A.",
+      "rank": "First Mortgagee",
+      "address": "4158 Harrison Boulevard",
+      "city_state_zip": "Dallas, TX 87322"
+    },
+    "lenders_loss_payable": {
+      "name": "First National Bank",
+      "clause": "Lender's Loss Payable Endorsement"
+    },
+    "schedule_of_locations": [
+      {
+        "loc_number": "LOC-001",
+        "address": "8117 Preston Road, Dallas, TX 75225",
+        "building_value": 62700000,
+        "contents_value": 8550000,
+        "business_income": 15200000,
+        "total_insured_value": 86450000,
+        "construction": "Fire Resistive",
+        "occupancy": "Office",
+        "year_built": 2008,
+        "stories": 18,
+        "square_feet": 285000,
+        "protection_class": "4",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-002",
+        "address": "5050 Westheimer Road, Houston, TX 77056",
+        "building_value": 33600000,
+        "contents_value": 5040000,
+        "business_income": 8400000,
+        "total_insured_value": 47040000,
+        "construction": "Fire Resistive",
+        "occupancy": "Office",
+        "year_built": 2001,
+        "stories": 12,
+        "square_feet": 168000,
+        "protection_class": "2",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-003",
+        "address": "5060 Westheimer Road, Houston, TX 77056",
+        "building_value": 28400000,
+        "contents_value": 4260000,
+        "business_income": 7100000,
+        "total_insured_value": 39760000,
+        "construction": "Fire Resistive",
+        "occupancy": "Office",
+        "year_built": 2003,
+        "stories": 10,
+        "square_feet": 142000,
+        "protection_class": "1",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-004",
+        "address": "7301 Lone Star Drive, Plano, TX 75024",
+        "building_value": 19000000,
+        "contents_value": 2850000,
+        "business_income": 5700000,
+        "total_insured_value": 27550000,
+        "construction": "Masonry Non-Combustible",
+        "occupancy": "Mercantile",
+        "year_built": 2012,
+        "stories": 2,
+        "square_feet": 95000,
+        "protection_class": "2",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-005",
+        "address": "3200 McKinney Avenue, Dallas, TX 75204",
+        "building_value": 31000000,
+        "contents_value": 4650000,
+        "business_income": 9300000,
+        "total_insured_value": 44950000,
+        "construction": "Fire Resistive",
+        "occupancy": "Mercantile",
+        "year_built": 2018,
+        "stories": 6,
+        "square_feet": 124000,
+        "protection_class": "5",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-006",
+        "address": "1400 Enclave Parkway, Houston, TX 77077",
+        "building_value": 19040000,
+        "contents_value": 2856000,
+        "business_income": 5712000,
+        "total_insured_value": 27608000,
+        "construction": "Non-Combustible",
+        "occupancy": "Office",
+        "year_built": 1995,
+        "stories": 8,
+        "square_feet": 112000,
+        "protection_class": "4",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-007",
+        "address": "800 8th Avenue, Fort Worth, TX 76104",
+        "building_value": 17160000,
+        "contents_value": 3510000,
+        "business_income": 4680000,
+        "total_insured_value": 25350000,
+        "construction": "Fire Resistive",
+        "occupancy": "Office",
+        "year_built": 2015,
+        "stories": 5,
+        "square_feet": 78000,
+        "protection_class": "3",
+        "sprinklered": "Yes"
+      },
+      {
+        "loc_number": "LOC-008",
+        "address": "1256 Main Street, Southlake, TX 76092",
+        "building_value": 11440000,
+        "contents_value": 1716000,
+        "business_income": 3120000,
+        "total_insured_value": 16276000,
+        "construction": "Masonry Non-Combustible",
+        "occupancy": "Mercantile",
+        "year_built": 2006,
+        "stories": 3,
+        "square_feet": 52000,
+        "protection_class": "2",
+        "sprinklered": "Yes"
+      }
+    ],
+    "totals": {
+      "building_total": 222340000,
+      "contents_total": 33432000,
+      "business_income_total": 59212000,
+      "total_insured_value": 314984000
+    },
+    "cancellation_notice_days": 30
+  },
+  "remarks": "This evidence of property insurance is issued as a matter of information only and confers no rights upon the additional interest named above. This evidence does not amend, extend, or alter the coverage afforded by the policy referenced herein."
+}

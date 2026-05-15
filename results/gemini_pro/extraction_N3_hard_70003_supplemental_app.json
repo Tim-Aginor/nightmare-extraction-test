@@ -1,0 +1,75 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application",
+    "date": "2026-03-14",
+    "prepared_by": "Marcus Jennings",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 16,
+    "annual_revenue": 42000000,
+    "employee_count": 450
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Travelers Companies",
+      "expiring_premium": 686236.25,
+      "notes": "Prior policy for 2024 term had 11 claims."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "Written contracts with all subcontractors",
+      "24-hour doorperson or security on premises",
+      "Fire alarms hard-wired with central station monitoring",
+      "Material Safety Data Sheets (MSDS) maintained",
+      "Written contracts with indemnification required from all contractors"
+    ],
+    "concerns": [
+      "OSHA citations in the past 3 years",
+      "No quality control / quality assurance program",
+      "No cyber liability protections in place",
+      "Plumbing and electrical systems are original (2005)",
+      "Building not fully sprinklered per NFPA 13 or 13R",
+      "Prior policy cancellation in 2022 (Zurich Insurance Group)"
+    ],
+    "loss_history_summary": "11 claims in 2024 (Travelers), 3 claims in 2023 (Markel), and 6 claims in 2022 (Zurich)."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2025-05-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas.",
+    "operations_description": "Hours of Operation: Mon-Fri 8:00 AM - 5:00 PM. 8 locations across Austin, San Antonio, and Fredericksburg, TX consisting of Hotels, Restaurants, and an Office. Short term rentals permitted. 90% regular occupancy.",
+    "safety_programs": "Formal safety program: Yes. Written contracts with all subcontractors: Yes. Indemnification required from contractors: Yes. Quality control program: No.",
+    "claims_narrative": "Loss history shows 11 claims in 2024, 3 claims in 2023, and 6 claims in 2022 with a previous cancellation by Zurich Insurance Group in 2022."
+  }
+}

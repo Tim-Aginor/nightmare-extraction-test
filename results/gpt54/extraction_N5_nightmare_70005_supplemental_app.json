@@ -1,0 +1,73 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application - Commercial Lines",
+    "date": "2026-03-15",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": 78000000,
+    "employee_count": 485
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Policy number shown as WC GLFS 2025 8820."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "GPS tracking or ELD devices installed in all vehicles",
+      "MVR checks performed on all drivers at least annually",
+      "Applicant maintains a valid DOT number and MC authority",
+      "Sleeper-cab tractors used for long-haul operations",
+      "CDL licenses verified for all drivers",
+      "Most listed premises are sprinklered",
+      "Prior insurance history shows no cancellations"
+    ],
+    "concerns": [
+      "Most recent CSA BASIC score in Crash Indicator is above intervention threshold and is currently being addressed"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 28,
+    "driver_count": 56,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": null,
+    "requested_effective": "2025-06-01"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "safety_programs": "Formal safety program: Yes. GPS tracking or ELD devices installed in all vehicles: Yes. MVR checks performed on all drivers at least annually: Yes. Applicant maintains a valid DOT number and MC authority: Yes. In compliance with FMCSA Hours-of-Service (HOS) regulations: Yes. CDL licenses verified for all drivers at time of hire: Yes. Most recent CSA BASIC score in Crash Indicator is above intervention threshold and currently being addressed.",
+    "claims_narrative": null
+  }
+}

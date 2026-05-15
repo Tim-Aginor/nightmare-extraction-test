@@ -1,0 +1,211 @@
+{
+  "form_info": {
+    "form_number": "ACORD 23",
+    "form_edition": "2009/06",
+    "form_title": "CERTIFICATE OF AUTOMOBILE INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CA KCB 2025-5592",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": "1FT7W2B6XPEC14948",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": "1FD8W2B6XRPE01899",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": "1FD8X2B6XPEA83392",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": "1FT7W2B6XPEC80424",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2024,
+      "make": "Ram",
+      "model": "3500",
+      "vin": "3C6UR5NL0LG138778",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "vin": "1GC1CYEY2PZ188782",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2022,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": "1FD0E4FN0NDB12424",
+      "vehicle_class": "Medium Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": "1FTBR2XG0PKB74558",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": "1FTYR2XG9RKA06187",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Express 2500",
+      "vin": "1GAJG1EA0P1166418",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "vin": "3TMAZ5CN4PM105820",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": "1FTVW1EL8RFA66822",
+      "vehicle_class": "Light Truck",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2018,
+      "make": "Fontaine",
+      "model": "Magnitude 55H",
+      "vin": "1F9A5555XJA138722",
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "14",
+      "year": 2021,
+      "make": "Wabash",
+      "model": "Platform",
+      "vin": "1WWCPA2X3MA102241",
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Great Dane",
+      "model": "Freedom SE",
+      "vin": "1GY25PWF2NA787999",
+      "vehicle_class": "Trailer",
+      "garage_state": null,
+      "stated_value": null
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 5000000,
+    "uninsured_motorist": null,
+    "medical_payments": null
+  },
+  "auto_deductible": 2500,
+  "insurer_panel": [
+    {
+      "carrier": "Hallmark Insurance Company",
+      "naic": "41857"
+    },
+    {
+      "carrier": "Hallmark Indemnity Company",
+      "naic": "41883"
+    },
+    {
+      "carrier": "Hallmark Casualty Company",
+      "naic": "41845"
+    },
+    {
+      "carrier": "Hallmark Assurance Company",
+      "naic": "42134"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "ANY AUTO",
+      "value": "Yes"
+    },
+    {
+      "field": "OWNED AUTOS ONLY",
+      "value": "No"
+    },
+    {
+      "field": "HIRED AUTOS ONLY",
+      "value": "No"
+    }
+  ],
+  "remarks": null
+}

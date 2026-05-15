@@ -1,0 +1,214 @@
+{
+  "form_info": {
+    "form_number": "ACORD 137",
+    "form_edition": null,
+    "form_title": "COMMERCIAL AUTO SUPPLEMENT"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CA-KCB-2025-6402",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "vehicles": [
+    {
+      "vehicle_id": "1",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 82387
+    },
+    {
+      "vehicle_id": "2",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-350",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 53637
+    },
+    {
+      "vehicle_id": "3",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-550",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 62449
+    },
+    {
+      "vehicle_id": "4",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-250",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 42746
+    },
+    {
+      "vehicle_id": "5",
+      "year": 2024,
+      "make": "Ram",
+      "model": "3500",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 54782
+    },
+    {
+      "vehicle_id": "6",
+      "year": 2021,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 37897
+    },
+    {
+      "vehicle_id": "7",
+      "year": 2022,
+      "make": "Ford",
+      "model": "E-450",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 52395
+    },
+    {
+      "vehicle_id": "8",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Transit 350",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 48930
+    },
+    {
+      "vehicle_id": "9",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Transit 250",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 47530
+    },
+    {
+      "vehicle_id": "10",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Express 2500",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 40581
+    },
+    {
+      "vehicle_id": "11",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 33157
+    },
+    {
+      "vehicle_id": "12",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 41174
+    },
+    {
+      "vehicle_id": "13",
+      "year": 2018,
+      "make": "Fontaine",
+      "model": "Magnitude 55N",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 20000
+    },
+    {
+      "vehicle_id": "14",
+      "year": null,
+      "make": null,
+      "model": null,
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 25000
+    },
+    {
+      "vehicle_id": "15",
+      "year": 2022,
+      "make": "Great Dane",
+      "model": "Freedom SE",
+      "vin": null,
+      "vehicle_class": null,
+      "garage_state": null,
+      "stated_value": 29000
+    }
+  ],
+  "auto_limits": {
+    "combined_single_limit": 1000000,
+    "uninsured_motorist": 50000,
+    "medical_payments": 5000
+  },
+  "auto_premium": {
+    "base_premium": null,
+    "tria_surcharge": null,
+    "total_premium": 57586.77,
+    "deductible": null,
+    "form_type": "Occurrence"
+  },
+  "checkboxes": [
+    {
+      "field": "Are GPS tracking devices installed in all vehicles?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any drivers under age 21?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured provide delivery services?",
+      "value": "Yes"
+    },
+    {
+      "field": "Are any vehicles used to tow trailers or other vehicles?",
+      "value": "No"
+    },
+    {
+      "field": "Does the insured operate any vehicles across state lines?",
+      "value": "No"
+    }
+  ],
+  "remarks": "Carrier NAIC code 42389. PIP coverage is required with a 5000 limit. UIM coverage is required with a 500000 limit. Hired auto liability, non-owned auto liability, and hired auto physical damage are not covered; hired auto base state is PA. State endorsements listed: PA uninsured motorist coverage, PA underinsured motorist coverage, PA personal injury protection, and PA state-specific amendatory (optional)."
+}

@@ -1,0 +1,95 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-15",
+    "prepared_by": "Sandra Villareal",
+    "recipient": "Apex Managing General Agency"
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 24,
+    "annual_revenue": 67000000,
+    "employee_count": 173
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property (Expiring)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "CNA Financial",
+      "expiring_premium": 414601.77,
+      "notes": "2024 term; 1 claim; no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property (Prior)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 423914.72,
+      "notes": "2023 term; 0 claims; no cancellations"
+    },
+    {
+      "coverage_type": "Commercial Property (Prior)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "American International Group",
+      "expiring_premium": 447842.42,
+      "notes": "2022 term; 1 claim; no cancellations"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations fully sprinklered",
+      "24-hour doorperson/security on premises",
+      "Fire alarms hard-wired with central station monitoring",
+      "Written contracts with indemnification required from all contractors",
+      "Written contracts with all subcontractors",
+      "95% occupancy rate across portfolio",
+      "No short-term rentals permitted",
+      "No OSHA citations in past 3 years",
+      "Recent electrical system update (2023)",
+      "Long tenure \u2014 24 years in business, 18 years with current management"
+    ],
+    "concerns": [
+      "No formal safety program in place",
+      "Aging plumbing systems (last updated 2015)",
+      "Older building at LOC-006 (1400 Enclave Parkway, built 1995)",
+      "EV charging stations present (emerging exposure)",
+      "Swimming pools, exercise rooms, and other amenities present",
+      "Claims in 2 of past 3 policy years"
+    ],
+    "loss_history_summary": "2 claims in the past 3 years (1 in 2024, 0 in 2023, 1 in 2022). No cancellations or non-renewals."
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-07-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. 24 years in business, 18 years with current management. 145 full-time and 28 part-time employees. Hours of operation Mon-Sat 7:00 AM - 7:00 PM.",
+    "safety_programs": "No formal safety program. Written contracts with indemnification required from all contractors and subcontractors. 24-hour doorperson/security on premises. All buildings fully sprinklered per NFPA 13 or 13R. Fire alarms hard-wired with central station monitoring.",
+    "claims_narrative": "Prior Insurance History: 2024 \u2013 CNA Financial, premium $414,601.77, 1 claim, no cancellations. 2023 \u2013 Zurich Insurance Group, premium $423,914.72, 0 claims, no cancellations. 2022 \u2013 American International Group, premium $447,842.42, 1 claim, no cancellations."
+  }
+}

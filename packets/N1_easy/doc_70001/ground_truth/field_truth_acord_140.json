@@ -1,0 +1,844 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 232.7,
+          "width": 129.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Apex Managing General Agency",
+      "locations": [
+        {
+          "page": 1,
+          "x": 280.1,
+          "y": 87.7,
+          "width": 129.6,
+          "height": 9.0
+        },
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 178.7,
+          "width": 129.6,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500"
+    },
+    "insured_city": {
+      "value": "Dallas"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "75201"
+    },
+    "policy_period_start": {
+      "value": "2025-07-01",
+      "rendered_as": "07/01/2025",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 205.7,
+          "width": 45.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "policy_period_end": {
+      "value": "2026-07-01",
+      "rendered_as": "07/01/2026",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 205.7,
+          "width": 45.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "policy_number_property": {
+      "value": "CP-LSPH-2025-7801",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 151.7,
+          "width": 85.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "property_deductible": {
+      "value": 50000,
+      "rendered_as": "$50,000.00"
+    },
+    "valuation_method": {
+      "value": "Replacement Cost",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 286.7,
+          "width": 74.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "coinsurance_property": {
+      "value": 90.0
+    },
+    "location_count": {
+      "value": 8
+    },
+    "blanket_number": {
+      "value": "BLK-1878",
+      "locations": [
+        {
+          "page": 8,
+          "x": 48.8,
+          "y": 413.7,
+          "width": 40.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "blanket_type": {
+      "value": "Building & Contents",
+      "locations": [
+        {
+          "page": 8,
+          "x": 308.0,
+          "y": 413.7,
+          "width": 79.0,
+          "height": 9.0
+        }
+      ]
+    }
+  },
+  "doc_type": "acord_140",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75225",
+      "name": "Preston Center Tower",
+      "construction": "Fire Resistive",
+      "roof_type": "Shingle",
+      "year_built": 2008,
+      "stories": 18,
+      "square_feet": 285000,
+      "occupancy": "Office",
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 62700000,
+      "contents_value": 8550000,
+      "bi_value": 15200000,
+      "tiv": 86450000,
+      "rendered_values": {
+        "building_value": "$62,700,000.00",
+        "contents_value": "$8,550,000.00",
+        "bi_value": "$15,200,000.00",
+        "tiv": "$86,450,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Fire Resistive",
+      "fire_protection": {
+        "distance_to_fire_station": "4 miles",
+        "distance_to_hydrant": "1227 ft",
+        "fire_district": "District 6",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "85%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2018,
+        "plumbing_year": 2020,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      },
+      "locations": {
+        "schedule_id": [
+          {
+            "page": 1,
+            "x": 308.0,
+            "y": 339.7,
+            "width": 36.5,
+            "height": 9.0
+          }
+        ],
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 440.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 272.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 3,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 5,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 7,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "5050 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77056",
+      "name": "Galleria Office Park - Building A",
+      "construction": "Fire Resistive",
+      "roof_type": "TPO",
+      "year_built": 2001,
+      "stories": 12,
+      "square_feet": 168000,
+      "occupancy": "Office",
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 33600000,
+      "contents_value": 5040000,
+      "bi_value": 8400000,
+      "tiv": 47040000,
+      "rendered_values": {
+        "building_value": "$33,600,000.00",
+        "contents_value": "$5,040,000.00",
+        "bi_value": "$8,400,000.00",
+        "tiv": "$47,040,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Fire Resistive",
+      "fire_protection": {
+        "distance_to_fire_station": "1 miles",
+        "distance_to_hydrant": "2487 ft",
+        "fire_district": "District 1",
+        "sprinkler_type": "Deluge",
+        "sprinkler_coverage": "90%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2016,
+        "plumbing_year": 2021,
+        "roofing_year": 2016,
+        "wiring_year": 2012
+      },
+      "locations": {
+        "schedule_id": [
+          {
+            "page": 2,
+            "x": 308.0,
+            "y": 171.7,
+            "width": 36.5,
+            "height": 9.0
+          }
+        ],
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 440.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 272.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 3,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 5,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 7,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "5060 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77056",
+      "name": "Galleria Office Park - Building B",
+      "construction": "Fire Resistive",
+      "roof_type": "Single-Ply Membrane",
+      "year_built": 2003,
+      "stories": 10,
+      "square_feet": 142000,
+      "occupancy": "Office",
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 28400000,
+      "contents_value": 4260000,
+      "bi_value": 7100000,
+      "tiv": 39760000,
+      "rendered_values": {
+        "building_value": "$28,400,000.00",
+        "contents_value": "$4,260,000.00",
+        "bi_value": "$7,100,000.00",
+        "tiv": "$39,760,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Fire Resistive",
+      "fire_protection": {
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "716 ft",
+        "fire_district": "District 11",
+        "sprinkler_type": "Dry Pipe",
+        "sprinkler_coverage": "85%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2024,
+        "plumbing_year": 2011,
+        "roofing_year": 2026,
+        "wiring_year": 2024
+      },
+      "locations": {
+        "schedule_id": [
+          {
+            "page": 3,
+            "x": 308.0,
+            "y": 84.7,
+            "width": 36.5,
+            "height": 9.0
+          }
+        ],
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 440.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 272.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 3,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 5,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 7,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "7301 Lone Star Drive",
+      "city": "Plano",
+      "state": "TX",
+      "zip_code": "75024",
+      "name": "Legacy Town Center Retail",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "Concrete",
+      "year_built": 2012,
+      "stories": 2,
+      "square_feet": 95000,
+      "occupancy": "Mercantile",
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 19000000,
+      "contents_value": 2850000,
+      "bi_value": 5700000,
+      "tiv": 27550000,
+      "rendered_values": {
+        "building_value": "$19,000,000.00",
+        "contents_value": "$2,850,000.00",
+        "bi_value": "$5,700,000.00",
+        "tiv": "$27,550,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "8 miles",
+        "distance_to_hydrant": "1738 ft",
+        "fire_district": "District 18",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "90%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2026,
+        "roofing_year": 2025,
+        "wiring_year": 2026
+      },
+      "locations": {
+        "schedule_id": [
+          {
+            "page": 3,
+            "x": 308.0,
+            "y": 588.7,
+            "width": 36.5,
+            "height": 9.0
+          }
+        ],
+        "construction": [
+          {
+            "page": 3,
+            "x": 48.8,
+            "y": 689.7,
+            "width": 106.5,
+            "height": 9.0
+          },
+          {
+            "page": 7,
+            "x": 48.8,
+            "y": 689.7,
+            "width": 106.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "3200 McKinney Avenue",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75204",
+      "name": "Uptown Mixed-Use Development",
+      "construction": "Fire Resistive",
+      "roof_type": "TPO",
+      "year_built": 2018,
+      "stories": 6,
+      "square_feet": 124000,
+      "occupancy": "Mercantile",
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 31000000,
+      "contents_value": 4650000,
+      "bi_value": 9300000,
+      "tiv": 44950000,
+      "rendered_values": {
+        "building_value": "$31,000,000.00",
+        "contents_value": "$4,650,000.00",
+        "bi_value": "$9,300,000.00",
+        "tiv": "$44,950,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Fire Resistive",
+      "fire_protection": {
+        "distance_to_fire_station": "6 miles",
+        "distance_to_hydrant": "828 ft",
+        "fire_district": "District 13",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "90%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2026,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2025
+      },
+      "locations": {
+        "schedule_id": [
+          {
+            "page": 5,
+            "x": 308.0,
+            "y": 84.7,
+            "width": 36.5,
+            "height": 9.0
+          }
+        ],
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 440.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 272.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 3,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 5,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 7,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "1400 Enclave Parkway",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77077",
+      "name": "Energy Corridor Business Center",
+      "construction": "Non-Combustible",
+      "roof_type": "EPDM",
+      "year_built": 1995,
+      "stories": 8,
+      "square_feet": 112000,
+      "occupancy": "Office",
+      "protection_class": 4,
+      "sprinklered": true,
+      "building_value": 19040000,
+      "contents_value": 2856000,
+      "bi_value": 5712000,
+      "tiv": 27608000,
+      "rendered_values": {
+        "building_value": "$19,040,000.00",
+        "contents_value": "$2,856,000.00",
+        "bi_value": "$5,712,000.00",
+        "tiv": "$27,608,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "5 miles",
+        "distance_to_hydrant": "1680 ft",
+        "fire_district": "District 9",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "100%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "No",
+        "fire_alarm": "Yes",
+        "fire_alarm_type": "Central Station Monitored"
+      },
+      "improvements": {
+        "heating_year": 2014,
+        "plumbing_year": 2014,
+        "roofing_year": 2019,
+        "wiring_year": 2010
+      },
+      "locations": {
+        "schedule_id": [
+          {
+            "page": 5,
+            "x": 308.0,
+            "y": 588.7,
+            "width": 36.5,
+            "height": 9.0
+          }
+        ],
+        "construction": [
+          {
+            "page": 5,
+            "x": 48.8,
+            "y": 689.7,
+            "width": 69.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "800 8th Avenue",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip_code": "76104",
+      "name": "Fort Worth Medical Office Building",
+      "construction": "Fire Resistive",
+      "roof_type": "Shingle",
+      "year_built": 2015,
+      "stories": 5,
+      "square_feet": 78000,
+      "occupancy": "Office",
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 17160000,
+      "contents_value": 3510000,
+      "bi_value": 4680000,
+      "tiv": 25350000,
+      "rendered_values": {
+        "building_value": "$17,160,000.00",
+        "contents_value": "$3,510,000.00",
+        "bi_value": "$4,680,000.00",
+        "tiv": "$25,350,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Fire Resistive",
+      "fire_protection": {
+        "distance_to_fire_station": "1 miles",
+        "distance_to_hydrant": "2177 ft",
+        "fire_district": "District 6",
+        "sprinkler_type": "Pre-Action",
+        "sprinkler_coverage": "75%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2022,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      },
+      "locations": {
+        "schedule_id": [
+          {
+            "page": 7,
+            "x": 308.0,
+            "y": 84.7,
+            "width": 36.5,
+            "height": 9.0
+          }
+        ],
+        "construction": [
+          {
+            "page": 1,
+            "x": 48.8,
+            "y": 440.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 2,
+            "x": 48.8,
+            "y": 272.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 3,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 5,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          },
+          {
+            "page": 7,
+            "x": 48.8,
+            "y": 185.7,
+            "width": 54.5,
+            "height": 9.0
+          }
+        ]
+      }
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1256 Main Street",
+      "city": "Southlake",
+      "state": "TX",
+      "zip_code": "76092",
+      "name": "Southlake Town Square - East Wing",
+      "construction": "Masonry Non-Combustible",
+      "roof_type": "TPO",
+      "year_built": 2006,
+      "stories": 3,
+      "square_feet": 52000,
+      "occupancy": "Mercantile",
+      "protection_class": 2,
+      "sprinklered": true,
+      "building_value": 11440000,
+      "contents_value": 1716000,
+      "bi_value": 3120000,
+      "tiv": 16276000,
+      "rendered_values": {
+        "building_value": "$11,440,000.00",
+        "contents_value": "$1,716,000.00",
+        "bi_value": "$3,120,000.00",
+        "tiv": "$16,276,000.00"
+      },
+      "ownership": "Owned",
+      "construction_type_rendered": "Masonry Non-Combustible",
+      "fire_protection": {
+        "distance_to_fire_station": "1 miles",
+        "distance_to_hydrant": "559 ft",
+        "fire_district": "District 15",
+        "sprinkler_type": "Wet Pipe",
+        "sprinkler_coverage": "90%"
+      },
+      "alarm_systems": {
+        "burglar_alarm": "Yes",
+        "fire_alarm": "No",
+        "fire_alarm_type": "None"
+      },
+      "improvements": {
+        "heating_year": 2022,
+        "plumbing_year": 2026,
+        "roofing_year": 2026,
+        "wiring_year": 2026
+      },
+      "locations": {
+        "schedule_id": [
+          {
+            "page": 7,
+            "x": 308.0,
+            "y": 588.7,
+            "width": 36.5,
+            "height": 9.0
+          }
+        ],
+        "construction": [
+          {
+            "page": 3,
+            "x": 48.8,
+            "y": 689.7,
+            "width": 106.5,
+            "height": 9.0
+          },
+          {
+            "page": 7,
+            "x": 48.8,
+            "y": 689.7,
+            "width": 106.5,
+            "height": 9.0
+          }
+        ]
+      }
+    }
+  ],
+  "blanket_summary": {
+    "total_building": 222340000.0,
+    "total_contents": 33432000.0,
+    "total_bi": 59212000.0,
+    "total_tiv": 314984000.0,
+    "rendered_values": {
+      "total_building": "$222,340,000.00",
+      "total_contents": "$33,432,000.00",
+      "total_bi": "$59,212,000.00",
+      "total_tiv": "$314,984,000.00"
+    },
+    "blanket_number": "BLK-1878",
+    "blanket_type": "Building & Contents"
+  },
+  "interest_holders": [
+    {
+      "type": "ISAOA/ATIMA",
+      "name": "M&T Bank Corporation",
+      "address": "P.O. Box 40172, Philadelphia, PA 19101",
+      "loan_number": "L-878545464"
+    },
+    {
+      "type": "Loss Payee",
+      "name": "Stearns Bank, N.A.",
+      "address": "P.O. Box 92568, El Paso, TX 79901",
+      "loan_number": "L-547393167"
+    }
+  ]
+}

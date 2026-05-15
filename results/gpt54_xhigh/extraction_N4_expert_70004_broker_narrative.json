@@ -1,0 +1,99 @@
+{
+  "document_info": {
+    "document_type": "Transfer Submission",
+    "date": "2026-03-15",
+    "prepared_by": "Patricia Novak, Senior Broker, Steel City Insurance Group",
+    "recipient": "Underwriting Department, Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contractor for commercial and institutional construction, including healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 42,
+    "annual_revenue": null,
+    "employee_count": 425
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Coverage requested for approximately 425 employees across all operations."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": "2000000 per occurrence / 4000000 aggregate",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Requested on an occurrence form, including standard premises/operations and products/completed operations."
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Coverage for 15 vehicles, including hired and non-owned auto."
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Coverage for all scheduled locations on a special form with replacement cost valuation."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Management has implemented corrective measures to address identified exposures.",
+      "Formal return-to-work program has reduced lost-time claims by over 30%.",
+      "Dedicated safety committee meets monthly and conducts quarterly site audits.",
+      "Management has invested significantly in employee safety training, with all field personnel OSHA-certified.",
+      "Formal business continuity and disaster recovery plan is tested annually.",
+      "The organization has achieved ISO 9001 certification, reflecting commitment to quality and process control.",
+      "Contractual risk transfer provisions are included in all subcontractor and vendor agreements.",
+      "Background checks and MVR reviews are conducted annually for employees in safety-sensitive positions.",
+      "Structured HR program supports low turnover and consistent safety training.",
+      "42 years of continuous operations under consistent management demonstrates operational stability."
+    ],
+    "concerns": [
+      "Claims history warrants review: 52 total claims over 5 loss years with 1489697.06 total incurred; 12 claims remain open.",
+      "Account experienced a 2022-2023 cancellation/non-renewal with Zurich Insurance Group due to the carrier's book-of-business exit."
+    ],
+    "loss_history_summary": "Over the review period, the insured incurred 52 total claims with 1315756.27 in paid losses and 1489697.06 total incurred. Currently, 12 claims remain open and 40 have been closed. Annualized loss ratio is 18.7% based on average annual incurred of 297939.41 against current annual premium of 1589164.70 over 5 loss years."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 15,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "We are pleased to submit Keystone Commercial Builders, Inc. for your review and consideration. The insured is a general contractor for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania, headquartered in Pittsburgh, with approximately 42 years of operating history. Coverage is requested for Workers' Compensation, General Liability, Commercial Auto, and Commercial Property.",
+    "operations_description": "General contractor for commercial and institutional construction serving healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania; headquartered in Pittsburgh with approximately 42 years of operating history.",
+    "safety_programs": "The insured has implemented a formal return-to-work program that has reduced lost-time claims by over 30%. The insured maintains a dedicated safety committee that meets monthly and conducts quarterly site audits. Management has invested significantly in employee safety training, with all field personnel OSHA-certified. The insured maintains a formal business continuity and disaster recovery plan tested annually. The organization has achieved ISO 9001 certification, reflecting a commitment to quality and process control. The insured carries contractual risk transfer provisions in all subcontractor and vendor agreements. Background checks and MVR reviews are conducted annually for all employees in safety-sensitive positions. With 425 employees and a structured HR program, the insured maintains low turnover and consistent safety training.",
+    "claims_narrative": "The claims history warrants review; management has implemented corrective measures to address identified exposures. Over the review period, the insured has incurred 52 total claims with 1315756.27 in total paid losses and 1489697.06 total incurred. Currently, 12 claims remain open and 40 have been closed. Annualized loss ratio is 18.7% (avg annual incurred 297939.41 against current annual premium 1589164.70 over 5 loss years). Breakdown by coverage line: Workers' Compensation: 35 claims, 1126509.19 paid, 1176100.41 incurred; General Liability: 8 claims, 105420.70 paid, 176946.61 incurred; Commercial Auto: 8 claims, 47076.38 paid, 99900.04 incurred; Commercial Property: 1 claim, 36750.00 paid, 36750.00 incurred. Note: account experienced a cancellation in 2022-2023 with Zurich Insurance Group due to carrier non-renewal/book of business exit."
+  }
+}

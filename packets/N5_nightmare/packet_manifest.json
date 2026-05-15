@@ -1,0 +1,502 @@
+{
+  "seed": 70005,
+  "template_id": "standard_insurance_company_nat",
+  "presets": {
+    "default": "moderate"
+  },
+  "coverages": [
+    "wc",
+    "gl",
+    "auto",
+    "property",
+    "umbrella",
+    "mtc"
+  ],
+  "claims_per_coverage": 0,
+  "total_documents": 32,
+  "total_pages": 97,
+  "elapsed_seconds": 28.57,
+  "packet_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/packet_truth.json",
+  "documents": [
+    {
+      "doc_type": "acord_125",
+      "description": "ACORD 125 \u2014 Commercial Insurance Application",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_125_70005.pdf",
+      "pages": 3,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 22,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_125.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_125.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_125.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_126",
+      "description": "ACORD 126 \u2014 GL Supplement",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_126_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_126.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_126.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_126.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_127",
+      "description": "ACORD 127 \u2014 Auto Supplement",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_127_70005.pdf",
+      "pages": 3,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_127.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_127.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_127.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_131",
+      "description": "ACORD 131 \u2014 Umbrella Supplement",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_131_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_131.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_131.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_131.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_45",
+      "description": "ACORD 45 \u2014 Commercial Property Application",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_45_70005.pdf",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_45.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_45.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_45.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "supplemental_app",
+      "description": "Supplemental Application",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/supplemental_app_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 17,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_supplemental_app.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_supplemental_app.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_supplemental_app.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "supplemental_app_trucking",
+      "description": "Supplemental Application \u2014 Trucking",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/supplemental_app_trucking_70005.pdf",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 17,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_supplemental_app_trucking.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_supplemental_app_trucking.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_supplemental_app_trucking.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "broker_narrative",
+      "description": "Broker Submission Narrative",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/broker_narrative_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 19,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_broker_narrative.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_broker_narrative.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_broker_narrative.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "dec_page",
+      "description": "Declarations Page",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/dec_page_70005.pdf",
+      "pages": 3,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 20,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_dec_page.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_dec_page.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_dec_page.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "policy_form",
+      "description": "Policy Contract Document",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/policy_form_70005.pdf",
+      "pages": 13,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 19,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_policy_form.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_policy_form.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_policy_form.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "sov",
+      "description": "Schedule of Values",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/sov_70005.pdf",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 32,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_sov.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_sov.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_sov.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_140",
+      "description": "ACORD 140 \u2014 Property Section / Blanket",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_140_70005.pdf",
+      "pages": 11,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_140.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_140.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_140.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run",
+      "description": "Loss Run Report",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/loss_run_70005.pdf",
+      "pages": 6,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 52,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_loss_run.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_loss_run.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_loss_run.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "driver_schedule",
+      "description": "Driver Schedule",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/driver_schedule_70005.pdf",
+      "pages": 9,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 24,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_driver_schedule.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_driver_schedule.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_driver_schedule.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "financial_statement",
+      "description": "Financial Statement",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/financial_statement_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 30,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_financial_statement.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_financial_statement.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_financial_statement.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_25",
+      "description": "ACORD 25 \u2014 Certificate of Insurance",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_25_70005.pdf",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 19,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_25.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_25.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_25.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_23",
+      "description": "ACORD 23 \u2014 Auto Certificate",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_23_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_23.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_23.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_23.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_28",
+      "description": "ACORD 28 \u2014 Property Certificate",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_28_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_28.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_28.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_28.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_27",
+      "description": "ACORD 27 \u2014 Evidence of Property Insurance",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_27_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_27.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_27.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_27.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_24",
+      "description": "ACORD 24 \u2014 Certificate of Property Insurance",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_24_70005.pdf",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_24.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_24.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_24.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_75",
+      "description": "ACORD 75 \u2014 Insurance Binder",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_75_70005.pdf",
+      "pages": 4,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_75.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_75.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_75.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_101",
+      "description": "ACORD 101 \u2014 Additional Remarks",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_101_70005.pdf",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_101.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_101.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_101.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_35",
+      "description": "ACORD 35 \u2014 Cancellation / Policy Release",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_35_70005.pdf",
+      "pages": 2,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_35.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_35.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_35.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_137",
+      "description": "ACORD 137 \u2014 Auto Supplement",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_137_70005.pdf",
+      "pages": 3,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_137.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_137.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_137.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "acord_160",
+      "description": "ACORD 160 \u2014 BOP Application",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/acord_160_70005.pdf",
+      "pages": 11,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 21,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_acord_160.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_acord_160.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_acord_160.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run_excel",
+      "description": "Loss Run (Excel)",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/loss_run_excel_70005.xlsx",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 17,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_loss_run_excel.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_loss_run_excel.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_loss_run_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "loss_run_csv",
+      "description": "Loss Run (CSV)",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/loss_run_csv_70005.csv",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 13,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_loss_run_csv.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_loss_run_csv.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_loss_run_csv.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "sov_excel",
+      "description": "Schedule of Values (Excel)",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/sov_excel_70005.xlsx",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 11,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_sov_excel.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_sov_excel.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_sov_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "driver_schedule_excel",
+      "description": "Driver Schedule (Excel)",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/driver_schedule_excel_70005.xlsx",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 8,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_driver_schedule_excel.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_driver_schedule_excel.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_driver_schedule_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "financial_statement_excel",
+      "description": "Financial Statement (Excel)",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/financial_statement_excel_70005.xlsx",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 10,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_financial_statement_excel.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_financial_statement_excel.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_financial_statement_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "supplemental_schedule_excel",
+      "description": "Supplemental Schedules (Excel)",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/supplemental_schedule_excel_70005.xlsx",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 7,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_supplemental_schedule_excel.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_supplemental_schedule_excel.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_supplemental_schedule_excel.json"
+      },
+      "status": "ok"
+    },
+    {
+      "doc_type": "hybrid_workbook",
+      "description": "Hybrid Submission Workbook",
+      "preset": "nightmare",
+      "output_path": "output/nightmare/N5_nightmare/doc_70005/documents/hybrid_workbook_70005.xlsx",
+      "pages": 1,
+      "template": "standard_insurance_company_nat",
+      "patterns_applied": 12,
+      "ground_truth": {
+        "document_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/document_truth_hybrid_workbook.json",
+        "field_truth": "output/nightmare/N5_nightmare/doc_70005/ground_truth/field_truth_hybrid_workbook.json",
+        "manifest": "output/nightmare/N5_nightmare/doc_70005/ground_truth/manifest_hybrid_workbook.json"
+      },
+      "status": "ok"
+    }
+  ]
+}

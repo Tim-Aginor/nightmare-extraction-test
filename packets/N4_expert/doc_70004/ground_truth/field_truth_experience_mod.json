@@ -1,0 +1,324 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_state": {
+      "value": "PA",
+      "locations": [
+        {
+          "page": 2,
+          "x": 308.0,
+          "y": 369.7,
+          "width": 12.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "experience_mod": {
+      "value": 0.86
+    },
+    "rating_organization": {
+      "value": "Pennsylvania Compensation Rating Bureau"
+    },
+    "risk_id": {
+      "value": "609402-1243"
+    },
+    "rating_plan": {
+      "value": "Large Risk"
+    },
+    "interstate": {
+      "value": "No"
+    }
+  },
+  "doc_type": "experience_mod",
+  "wc_premium_waterfall": {
+    "manual_premium": 1694354.0,
+    "experience_mod": 0.86,
+    "modified_premium": 1457144.44,
+    "schedule_credit": -0.1585,
+    "schedule_credit_amount": -230957.39,
+    "standard_premium": 1226187.05,
+    "premium_discount": 123610.32,
+    "expense_constant": 157.0,
+    "tria_surcharge": 55439.7,
+    "final_premium": 1158173.43,
+    "minimum_premium_applied": false
+  },
+  "wc_class_codes": [
+    {
+      "class_code": "5403",
+      "description": "Carpentry \u2014 NOC",
+      "state": "PA",
+      "num_employees": 95,
+      "payroll": 5915000,
+      "rate": 8.24,
+      "premium": 487396.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$5,915,000.00",
+        "premium": "$487,396.00"
+      }
+    },
+    {
+      "class_code": "5190",
+      "description": "Electrical Wiring",
+      "state": "PA",
+      "num_employees": 60,
+      "payroll": 4544000,
+      "rate": 4.86,
+      "premium": 220838.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$4,544,000.00",
+        "premium": "$220,838.00"
+      }
+    },
+    {
+      "class_code": "5183",
+      "description": "Plumbing \u2014 NOC",
+      "state": "PA",
+      "num_employees": 43,
+      "payroll": 3075000,
+      "rate": 4.52,
+      "premium": 138990.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$3,075,000.00",
+        "premium": "$138,990.00"
+      }
+    },
+    {
+      "class_code": "5022",
+      "description": "Masonry \u2014 NOC",
+      "state": "PA",
+      "num_employees": 111,
+      "payroll": 6635850,
+      "rate": 9.15,
+      "premium": 607180.0,
+      "governing_class": true,
+      "rendered_values": {
+        "payroll": "$6,635,850.00",
+        "premium": "$607,180.00"
+      }
+    },
+    {
+      "class_code": "5474",
+      "description": "Painting \u2014 Interior",
+      "state": "PA",
+      "num_employees": 31,
+      "payroll": 1639000,
+      "rate": 6.92,
+      "premium": 113419.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$1,639,000.00",
+        "premium": "$113,419.00"
+      }
+    },
+    {
+      "class_code": "5606",
+      "description": "Contractors \u2014 Project Manager, Superintendent",
+      "state": "PA",
+      "num_employees": 43,
+      "payroll": 4776000,
+      "rate": 2.45,
+      "premium": 117012.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$4,776,000.00",
+        "premium": "$117,012.00"
+      }
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2014 NOC",
+      "state": "PA",
+      "num_employees": 87,
+      "payroll": 5010000,
+      "rate": 0.19,
+      "premium": 9519.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$5,010,000.00",
+        "premium": "$9,519.00"
+      }
+    }
+  ],
+  "classification_data": [
+    {
+      "class_code": "5403",
+      "expected_loss_rate": 5.2,
+      "expected_losses": 307580.0,
+      "d_ratio": 0.43
+    },
+    {
+      "class_code": "5190",
+      "expected_loss_rate": 2.6,
+      "expected_losses": 118144.0,
+      "d_ratio": 0.35
+    },
+    {
+      "class_code": "5183",
+      "expected_loss_rate": 2.4,
+      "expected_losses": 73800.0,
+      "d_ratio": 0.34
+    },
+    {
+      "class_code": "5022",
+      "expected_loss_rate": 4.8,
+      "expected_losses": 318520.8,
+      "d_ratio": 0.42
+    },
+    {
+      "class_code": "5474",
+      "expected_loss_rate": 3.2,
+      "expected_losses": 52448.0,
+      "d_ratio": 0.36
+    },
+    {
+      "class_code": "5606",
+      "expected_loss_rate": 1.5,
+      "expected_losses": 71640.0,
+      "d_ratio": 0.3
+    },
+    {
+      "class_code": "8810",
+      "expected_loss_rate": 0.195,
+      "expected_losses": 9769.5,
+      "d_ratio": 0.17
+    }
+  ],
+  "formula_components": {
+    "expected_losses": 1095520.4137976745,
+    "actual_primary": 335671.06,
+    "actual_excess": 211059.75,
+    "expected_excess": 1134749.95,
+    "ballast": 13748.0,
+    "weighting": 0.574,
+    "numerator": 953970.84,
+    "denominator": 1109268.4137976745,
+    "computed_mod": 0.86,
+    "final_mod": 0.86,
+    "rendered_values": {
+      "expected_losses": "$1,095,520.41",
+      "actual_primary": "$335,671.06",
+      "actual_excess": "$211,059.75",
+      "expected_excess": "$1,134,749.95",
+      "numerator": "$953,970.84",
+      "denominator": "$1,109,268.41"
+    }
+  },
+  "loss_years": [
+    {
+      "year": "2023-2024",
+      "claims": 7,
+      "total_paid": 190769.89,
+      "total_incurred": 190769.89,
+      "primary_losses": 120455.01,
+      "excess_losses": 70314.88,
+      "window_start": "2023-08-01",
+      "window_end": "2024-08-01",
+      "rendered_values": {
+        "total_paid": "$190,769.89",
+        "total_incurred": "$190,769.89",
+        "primary_losses": "$120,455.01",
+        "excess_losses": "$70,314.88"
+      }
+    },
+    {
+      "year": "2022-2023",
+      "claims": 3,
+      "total_paid": 115266.76,
+      "total_incurred": 115266.76,
+      "primary_losses": 58500.0,
+      "excess_losses": 56766.76,
+      "window_start": "2022-08-01",
+      "window_end": "2023-08-01",
+      "rendered_values": {
+        "total_paid": "$115,266.76",
+        "total_incurred": "$115,266.76",
+        "primary_losses": "$58,500.00",
+        "excess_losses": "$56,766.76"
+      }
+    },
+    {
+      "year": "2021-2022",
+      "claims": 10,
+      "total_paid": 240694.16,
+      "total_incurred": 240694.16,
+      "primary_losses": 156716.05,
+      "excess_losses": 83978.11,
+      "window_start": "2021-08-01",
+      "window_end": "2022-08-01",
+      "rendered_values": {
+        "total_paid": "$240,694.16",
+        "total_incurred": "$240,694.16",
+        "primary_losses": "$156,716.05",
+        "excess_losses": "$83,978.11"
+      }
+    }
+  ],
+  "ncci_formula_constants": {
+    "state": "PA",
+    "G_state_expected_loss": 285000,
+    "B_ballast": 9200,
+    "W_table_thresholds": [
+      [
+        5500,
+        0.0
+      ],
+      [
+        27500,
+        0.05
+      ],
+      [
+        55000,
+        0.1
+      ],
+      [
+        165000,
+        0.2
+      ],
+      [
+        550000,
+        0.4
+      ],
+      [
+        1650000,
+        0.55
+      ],
+      [
+        5500000,
+        0.7
+      ],
+      [
+        16500000,
+        0.82
+      ],
+      [
+        55000000,
+        0.92
+      ],
+      [
+        220000000,
+        1.0
+      ]
+    ],
+    "primary_loss_cap": 19500,
+    "max_credibility": 1.0,
+    "expense_constant": 240,
+    "source": "estimate_from_industry_textbook"
+  }
+}

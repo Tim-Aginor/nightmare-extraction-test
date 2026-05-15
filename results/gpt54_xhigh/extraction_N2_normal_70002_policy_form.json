@@ -1,0 +1,109 @@
+{
+  "document_info": {
+    "document_type": "Commercial Property Policy",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": "6512",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property - Building and Personal Property",
+      "current_limit": "Building 146260000; Contents 42495000",
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": 424883.27,
+      "notes": "Form CP 00 10 10 12. Declarations also show Business Income 62590000. Coinsurance 80%; Deductible 75000."
+    },
+    {
+      "coverage_type": "Business Income and Extra Expense",
+      "current_limit": "62590000",
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 15 08 10 12, effective 2026-03-15. Pays actual loss of business income sustained due to necessary suspension of operations during the period of restoration."
+    },
+    {
+      "coverage_type": "Ordinance or Law",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 05 10 12, effective 2026-03-15. Provides Coverage A for loss to the undamaged portion of the building when demolition is required by ordinance or law."
+    },
+    {
+      "coverage_type": "Utility Services - Direct Damage",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 17 10 12, effective 2026-03-15. Covers direct physical loss or damage caused by interruption of utility services, including water supply, communication supply, and power supply."
+    },
+    {
+      "coverage_type": "Agreed Value",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 99 30 07 88, effective 2026-03-15. Suspends the Coinsurance Additional Condition for scheduled property during the declarations period."
+    },
+    {
+      "coverage_type": "Equipment Breakdown",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Maine Employers Mutual",
+      "expiring_premium": null,
+      "notes": "Endorsement CP 04 09 10 12, effective 2026-03-15. Covers direct physical loss or damage caused by an equipment breakdown accident to covered mechanical, electrical, or pressure equipment."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Declarations include building 146260000, contents 42495000, and business income 62590000 limits.",
+      "Coverage is broadened by Business Income and Extra Expense, Ordinance or Law, Utility Services - Direct Damage, Agreed Value, and Equipment Breakdown endorsements.",
+      "Agreed Value endorsement suspends coinsurance for scheduled property."
+    ],
+    "concerns": [
+      "Operations include warehouse, distribution, and light manufacturing facilities throughout Ohio.",
+      "Policy deductible is 75000.",
+      "Vacancy provisions apply if a building is vacant for more than 60 consecutive days before loss."
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": "2026-09-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management - warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

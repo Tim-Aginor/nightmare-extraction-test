@@ -1,0 +1,254 @@
+{
+  "form_info": {
+    "form_number": "ACORD 137",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Auto Supplement"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CA-KCB-2025-5582",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "25-7184638",
+    "sic_code": "1521",
+    "naics_code": "28339",
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Combined Single Limit (Each Accident) - Liability",
+      "limit": 5000000,
+      "deductible": null,
+      "premium": 57889.77
+    },
+    {
+      "coverage_type": "PIP / Medical Payments",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Uninsured Motorist (UM)",
+      "limit": 60000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Underinsured Motorist (UIM)",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "symbol_1_any_auto_liability": "Yes",
+    "symbol_1_any_auto_pip": "Yes",
+    "symbol_1_any_auto_umuim": "Yes",
+    "symbol_1_any_auto_phys_dam": "Yes",
+    "symbol_12_non_owned_autos_employees_only_liability": "Yes",
+    "symbol_20_dealer_autos_phys_dam": "Yes",
+    "symbol_17_public_livery_passenger_autos_liability": "Yes",
+    "symbol_17_public_livery_passenger_autos_pip": "Yes",
+    "symbol_5_owned_autos_no_fault_pip": "Yes",
+    "symbol_19_garage_operations_non_owned_liability": "Yes",
+    "symbol_15_leased_financed_autos_liability": "Yes",
+    "symbol_15_leased_financed_autos_phys_dam": "Yes",
+    "symbol_4_owned_autos_other_than_private_passenger_liability": "Yes",
+    "pip_coverage_required": "Yes",
+    "um_coverage_required": "Yes",
+    "uim_coverage_required": "Yes",
+    "hired_auto_liability": "No",
+    "non_owned_auto_liability": "No",
+    "hired_auto_physical_damage": "No",
+    "endorsement_pa_01_01_uninsured_motorist": "Yes",
+    "endorsement_pa_02_01_underinsured_motorist": "Yes",
+    "endorsement_pa_03_01_personal_injury_protection": "Yes",
+    "endorsement_pa_99_01_state_specific_amendatory": "Optional",
+    "gps_tracking_devices_all_vehicles": "Yes",
+    "drivers_under_age_21": "No",
+    "provides_delivery_services": "Yes",
+    "vehicles_used_to_tow_trailers": "No",
+    "operates_vehicles_across_state_lines": "No"
+  },
+  "additional_fields": {
+    "date_prepared": "2026-03-14",
+    "contact_name": "Patricia Nowak",
+    "form_type": "occurrence",
+    "pip_coverage_status": "Required",
+    "um_coverage_status": "Required",
+    "uim_coverage_status": "Required",
+    "hired_auto_state": "PA",
+    "cost_of_hire": 100000,
+    "physical_damage_schedule": [
+      {
+        "veh_number": 1,
+        "year": 2023,
+        "make_model": "Ford F-550",
+        "vin": "1FT3SE7C8PH48LLAK8",
+        "comp_deductible": 1000,
+        "coll_deductible": 2500,
+        "stated_amount": 62387
+      },
+      {
+        "veh_number": 2,
+        "year": 2024,
+        "make_model": "Ford F-350",
+        "vin": "1FDKV2R86RSD1L10F5",
+        "comp_deductible": 500,
+        "coll_deductible": 1000,
+        "stated_amount": 53637
+      },
+      {
+        "veh_number": 3,
+        "year": 2022,
+        "make_model": "Ford F-350",
+        "vin": "1FD1G2J3XND5M034RC",
+        "comp_deductible": 1000,
+        "coll_deductible": 2500,
+        "stated_amount": 52449
+      },
+      {
+        "veh_number": 4,
+        "year": 2023,
+        "make_model": "Ford F-250",
+        "vin": "1FT8W6JN88P1P2FSEWSN",
+        "comp_deductible": 500,
+        "coll_deductible": 1000,
+        "stated_amount": 47746
+      },
+      {
+        "veh_number": 5,
+        "year": 2024,
+        "make_model": "Ram 3500",
+        "vin": "3C6CMP8V1RA3F3Y8",
+        "comp_deductible": 500,
+        "coll_deductible": 500,
+        "stated_amount": 58782
+      },
+      {
+        "veh_number": 6,
+        "year": 2023,
+        "make_model": "Chevrolet Silverado 2500",
+        "vin": "1GC3CZVM6PF880RW2",
+        "comp_deductible": 1300,
+        "coll_deductible": 1500,
+        "stated_amount": 47891
+      },
+      {
+        "veh_number": 7,
+        "year": 2022,
+        "make_model": "Ford E-450",
+        "vin": "3FADD3E10XY1YBRXCA",
+        "comp_deductible": 1300,
+        "coll_deductible": 2500,
+        "stated_amount": 63398
+      },
+      {
+        "veh_number": 8,
+        "year": 2023,
+        "make_model": "Ford Transit 350",
+        "vin": "1FT8E6E3XKPSE191",
+        "comp_deductible": 600,
+        "coll_deductible": 1000,
+        "stated_amount": 48930
+      },
+      {
+        "veh_number": 9,
+        "year": 2024,
+        "make_model": "Ford Transit 250",
+        "vin": "1FT4SNYD3RAS8BU1E",
+        "comp_deductible": 250,
+        "coll_deductible": 500,
+        "stated_amount": 45599
+      },
+      {
+        "veh_number": 10,
+        "year": 2022,
+        "make_model": "Chevrolet Express 2500",
+        "vin": "1GA97BLD8RN3H2LR4",
+        "comp_deductible": 1000,
+        "coll_deductible": 2500,
+        "stated_amount": 60561
+      },
+      {
+        "veh_number": 11,
+        "year": 2023,
+        "make_model": "Toyota Tacoma",
+        "vin": "4T1TM66F1FP2EY1CJN",
+        "comp_deductible": 250,
+        "coll_deductible": 500,
+        "stated_amount": 38157
+      },
+      {
+        "veh_number": 12,
+        "year": 2024,
+        "make_model": "Ford F-150",
+        "vin": "2FTBG2E08RNA48BLHU",
+        "comp_deductible": 100,
+        "coll_deductible": 250,
+        "stated_amount": 41174
+      },
+      {
+        "veh_number": 13,
+        "year": 2016,
+        "make_model": "Fontaine Magnitude 55H",
+        "vin": "13NA70SJ6G8H38BFZE",
+        "comp_deductible": 0,
+        "coll_deductible": 0,
+        "stated_amount": 20000
+      },
+      {
+        "veh_number": 14,
+        "year": 2023,
+        "make_model": "Wabash Platform",
+        "vin": "1JBC8H4T7N8RSUCD5",
+        "comp_deductible": 1000,
+        "coll_deductible": 1000,
+        "stated_amount": 20000
+      },
+      {
+        "veh_number": 15,
+        "year": 2022,
+        "make_model": "Great Dane Freedom 5E",
+        "vin": "5DYZ5JL4MX0VN2TP5N8P",
+        "comp_deductible": 2500,
+        "coll_deductible": 5000,
+        "stated_amount": 20000
+      }
+    ],
+    "state_endorsements": [
+      {
+        "endorsement_code": "PA 01 01",
+        "description": "PA Uninsured Motorist Coverage",
+        "included": "Yes"
+      },
+      {
+        "endorsement_code": "PA 02 01",
+        "description": "PA Underinsured Motorist Coverage",
+        "included": "Yes"
+      },
+      {
+        "endorsement_code": "PA 03 01",
+        "description": "PA Personal Injury Protection",
+        "included": "Yes"
+      },
+      {
+        "endorsement_code": "PA 99 01",
+        "description": "PA State-Specific Amendatory",
+        "included": "Optional"
+      }
+    ]
+  },
+  "remarks": null
+}

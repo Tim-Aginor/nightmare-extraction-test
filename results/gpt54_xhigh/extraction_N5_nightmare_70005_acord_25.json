@@ -1,0 +1,130 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1500 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": null,
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null
+  },
+  "document_date": null,
+  "certificate_holders": [
+    {
+      "name": "Quantum Realty Management Inc.",
+      "address": "555 Summit Avenue, Little Rock, AR 72201"
+    }
+  ],
+  "carrier_name_per_lob": [
+    {
+      "lob": "Commercial General Liability",
+      "carrier": "Standard Fire Insurance Company",
+      "naic": "19070",
+      "policy_number": "GL GLFS 2023 8821"
+    },
+    {
+      "lob": "Automobile Liability",
+      "carrier": "Standard Fire Insurance Company",
+      "naic": "19070",
+      "policy_number": "CA GLFS 2023 8822"
+    },
+    {
+      "lob": "Umbrella Liability",
+      "carrier": "Standard Fire Insurance Company",
+      "naic": "19070",
+      "policy_number": "CU GLFS 2023 8823"
+    },
+    {
+      "lob": "Workers Compensation and Employers' Liability",
+      "carrier": "Ohio Bureau of Workers' Compensation",
+      "naic": null,
+      "policy_number": "WC GLFS 2023 8820"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "policy_number": "GL GLFS 2023 8821",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "2000000 each occurrence; 500000 damage to rented premises; 5000 medical expense; 2000000 personal and advertising injury; 4000000 general aggregate; 4000000 products-completed operations aggregate"
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "policy_number": "CA GLFS 2023 8822",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "5000000 combined single limit"
+    },
+    {
+      "coverage_type": "Umbrella Liability",
+      "policy_number": "CU GLFS 2023 8823",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "10000000 each occurrence; 10000000 aggregate"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers' Liability",
+      "policy_number": "WC GLFS 2023 8820",
+      "effective_date": "2023-08-01",
+      "expiration_date": "2024-08-01",
+      "limit": "statutory limits; 1000000 each accident; 1000000 disease each employee; 1000000 disease policy limit"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "commercial_general_liability_claims_made",
+      "value": "No"
+    },
+    {
+      "field": "commercial_general_liability_occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "automobile_liability_any_auto",
+      "value": "Yes"
+    },
+    {
+      "field": "automobile_liability_owned_autos_only",
+      "value": "No"
+    },
+    {
+      "field": "automobile_liability_scheduled_autos",
+      "value": "No"
+    },
+    {
+      "field": "automobile_liability_hired_autos_only",
+      "value": "No"
+    },
+    {
+      "field": "automobile_liability_non_owned_autos_only",
+      "value": "No"
+    },
+    {
+      "field": "umbrella_liability_claims_made",
+      "value": "No"
+    },
+    {
+      "field": "umbrella_liability_occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "workers_compensation_statutory_limits",
+      "value": "Yes"
+    },
+    {
+      "field": "workers_compensation_other_limits",
+      "value": "No"
+    }
+  ],
+  "remarks": "RE: Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Locations include a Columbus headquarters/main terminal, a Columbus air hub, and a Cleveland distribution center. Quantum Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

@@ -1,0 +1,66 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": null,
+      "current_carrier": "CNA Financial",
+      "current_limit": null,
+      "expiring_premium": 414601.77,
+      "notes": "Prior insurance history provided for 2020-2024. 2024 policy number CP-5690-6189; 2023 Zurich Insurance Group policy 7CP0006249 premium 423914.72; 2022 American International Group policy CP006315-001 premium 447842.42; 2021 Auto-Owners Insurance policy 0000006024 premium 470199.5; 2020 Berkshire Hathaway Guard policy 7CP0004214 premium 467047.27. No cancellations reported in any listed year.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Prior Insurance History / Carrier History",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history shows claims in 2024, 2022, and 2020, and no claims in 2023 and 2021. Loss ratios were not provided.",
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": null,
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Claims reported in 3 of the 5 listed policy years.",
+      "Loss ratios were not provided."
+    ],
+    "loss_history_summary": "Five-year carrier history from 2020-2024 shows 3 total claim years: 1 claim in 2024, 0 in 2023, 1 in 2022, 0 in 2021, and 1 in 2020. No cancellations were reported.",
+    "positives": [
+      "No cancellations reported for any listed year from 2020-2024.",
+      "Two of the five listed years had zero claims.",
+      "Premium decreased from 470199.5 in 2021 to 414601.77 in 2024."
+    ]
+  }
+}

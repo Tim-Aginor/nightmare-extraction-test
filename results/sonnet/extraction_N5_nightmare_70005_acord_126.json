@@ -1,0 +1,142 @@
+{
+  "form_info": {
+    "form_number": "ACORD 126",
+    "form_edition": "2016/03",
+    "form_title": "Commercial General Liability Section"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": null,
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "gl-GLFS-2025-8821",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "31-6847291",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": 2000000,
+      "deductible": 5000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Rented Premises (Each Occurrence)",
+      "limit": 500000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Med Exp (Any One Person)",
+      "limit": 5000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Advertising Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products / Completed Operations Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Truckers \u2014 Long Haul (Class Code 67419)",
+      "limit": null,
+      "deductible": null,
+      "premium": 145775
+    },
+    {
+      "coverage_type": "Warehouse \u2014 Private (Class Code 52451)",
+      "limit": null,
+      "deductible": null,
+      "premium": 869
+    },
+    {
+      "coverage_type": "Hired & Non-Owned Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "occurrence": "checked",
+    "claims_made": "unchecked",
+    "demolition_work": "Yes",
+    "products_manufactured_sold_distributed": "No",
+    "operations_outside_united_states": "No",
+    "work_performed_by_subcontractors": "No",
+    "work_on_near_bodies_of_water": "No",
+    "written_contracts_required_from_subcontractors": "No",
+    "underground_storage_of_hazardous_substances": "No",
+    "completed_operations_exposures": "No",
+    "premises_operations_rented_leased_to_others": "No",
+    "professional_services_or_advice": "No",
+    "athletic_or_recreational_facilities_on_premises": "No",
+    "swimming_pools_hot_tubs_diving_boards_on_premises": "No",
+    "employee_benefits_liability": "unchecked",
+    "liquor_liability": "unchecked",
+    "pollution_liability": "unchecked",
+    "product_withdrawal_expense": "unchecked",
+    "electronic_data_liability": "unchecked",
+    "hired_and_non_owned_auto": "checked",
+    "employment_practices_liability": "unchecked",
+    "stop_gap_employers_liability": "unchecked",
+    "contractual_liability": "unchecked",
+    "broad_form_property_damage": "unchecked",
+    "fire_legal_liability": "unchecked",
+    "medical_payments": "unchecked"
+  },
+  "additional_fields": {
+    "schedule_of_hazards": [
+      {
+        "class_code": "67419",
+        "description": "Truckers \u2014 Long Haul",
+        "premium_basis": "Payroll",
+        "exposure": 16660000,
+        "rate": 8.75,
+        "premium": 145775
+      },
+      {
+        "class_code": "52451",
+        "description": "Warehouse \u2014 Private",
+        "premium_basis": "Area",
+        "exposure": 695000,
+        "rate": 1.25,
+        "premium": 869
+      }
+    ],
+    "total_premium": 146644,
+    "tria_surcharge": 6370,
+    "total_with_tria": 153014,
+    "deductible_amount": 5000,
+    "deductible_applies_to": "Per Occurrence",
+    "date_of_form": "2026-03-14",
+    "signature_date": "2025-06-18",
+    "signatory": "M. Johnson",
+    "annotation_hired_non_owned_auto": "Need docs"
+  },
+  "remarks": "Hired & Non-Owned Auto coverage selected; annotation on page 2 states 'Need docs'. Demolition work indicated as Yes. All other general information questions answered No."
+}

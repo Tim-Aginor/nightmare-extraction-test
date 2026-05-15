@@ -1,0 +1,414 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP",
+      "locations": [
+        {
+          "page": 1,
+          "x": 240.0,
+          "y": 83.0,
+          "width": 131.9,
+          "height": 10.0
+        },
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 160.8,
+          "width": 118.7,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500"
+    },
+    "insured_city": {
+      "value": "Dallas"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "75201"
+    },
+    "annual_revenue": {
+      "value": 67000000,
+      "rendered_as": "$67,000,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 511.2,
+          "y": 690.5,
+          "width": 50.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "entity_type": {
+      "value": "Limited Partnership",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 190.8,
+          "width": 71.7,
+          "height": 9.0
+        }
+      ]
+    },
+    "nature_of_business": {
+      "value": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 220.8,
+          "width": 495.6,
+          "height": 21.0
+        }
+      ]
+    },
+    "bs_cash": {
+      "value": 11751200.0,
+      "rendered_as": "$11,751,200.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 511.2,
+          "y": 357.5,
+          "width": 50.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_accounts_receivable": {
+      "value": 10449700.0,
+      "rendered_as": "$10,449,700.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 511.2,
+          "y": 373.5,
+          "width": 50.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_inventory": {
+      "value": 468900.0,
+      "rendered_as": "$468,900.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 521.2,
+          "y": 389.5,
+          "width": 40.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_prepaid_expenses": {
+      "value": 1675000.0,
+      "rendered_as": "$1,675,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 515.2,
+          "y": 405.5,
+          "width": 46.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_ppe_net": {
+      "value": 100500000.0,
+      "rendered_as": "$100,500,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 507.2,
+          "y": 421.5,
+          "width": 54.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_other_assets": {
+      "value": 17503200.0,
+      "rendered_as": "$17,503,200.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 511.2,
+          "y": 437.5,
+          "width": 50.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_total_assets": {
+      "value": 142348000.0,
+      "rendered_as": "$142,348,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 503.8,
+          "y": 453.6,
+          "width": 57.4,
+          "height": 8.5
+        },
+        {
+          "page": 1,
+          "x": 503.8,
+          "y": 617.6,
+          "width": 57.4,
+          "height": 8.5
+        }
+      ]
+    },
+    "bs_accounts_payable": {
+      "value": 7638000.0,
+      "rendered_as": "$7,638,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 515.2,
+          "y": 487.5,
+          "width": 46.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_accrued_expenses": {
+      "value": 4365200.0,
+      "rendered_as": "$4,365,200.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 515.2,
+          "y": 503.5,
+          "width": 46.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_current_lt_debt": {
+      "value": 3395000.0,
+      "rendered_as": "$3,395,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 515.2,
+          "y": 519.5,
+          "width": 46.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_long_term_debt": {
+      "value": 10838400.0,
+      "rendered_as": "$10,838,400.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 511.2,
+          "y": 535.5,
+          "width": 50.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_other_liabilities": {
+      "value": 1313800.0,
+      "rendered_as": "$1,313,800.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 515.2,
+          "y": 551.5,
+          "width": 46.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "bs_total_liabilities": {
+      "value": 27550400.0,
+      "rendered_as": "$27,550,400.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 508.1,
+          "y": 567.6,
+          "width": 53.1,
+          "height": 8.5
+        }
+      ]
+    },
+    "bs_equity": {
+      "value": 114797600.0,
+      "rendered_as": "$114,797,600.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 507.2,
+          "y": 601.5,
+          "width": 54.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "is_revenue": {
+      "value": 67000000,
+      "rendered_as": "$67,000,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 511.2,
+          "y": 690.5,
+          "width": 50.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "is_cogs": {
+      "value": 27495000.0,
+      "rendered_as": "$27,495,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 511.2,
+          "y": 706.5,
+          "width": 50.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "is_gross_profit": {
+      "value": 39505000.0,
+      "rendered_as": "$39,505,000.00",
+      "locations": [
+        {
+          "page": 1,
+          "x": 508.1,
+          "y": 722.6,
+          "width": 53.1,
+          "height": 8.5
+        }
+      ]
+    },
+    "is_operating_expenses": {
+      "value": 24514100.0,
+      "rendered_as": "$24,514,100.00",
+      "locations": [
+        {
+          "page": 2,
+          "x": 511.2,
+          "y": 57.5,
+          "width": 50.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "is_depreciation": {
+      "value": 1895700.0,
+      "rendered_as": "$1,895,700.00",
+      "locations": [
+        {
+          "page": 2,
+          "x": 515.2,
+          "y": 73.5,
+          "width": 46.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "is_ebit": {
+      "value": 13095200.0,
+      "rendered_as": "$13,095,200.00",
+      "locations": [
+        {
+          "page": 2,
+          "x": 508.1,
+          "y": 89.6,
+          "width": 53.1,
+          "height": 8.5
+        }
+      ]
+    },
+    "is_interest_expense": {
+      "value": 1878900.0,
+      "rendered_as": "$1,878,900.00",
+      "locations": [
+        {
+          "page": 2,
+          "x": 515.2,
+          "y": 106.5,
+          "width": 46.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "is_ebt": {
+      "value": 11216300.0,
+      "rendered_as": "$11,216,300.00",
+      "locations": [
+        {
+          "page": 2,
+          "x": 508.1,
+          "y": 122.6,
+          "width": 53.1,
+          "height": 8.5
+        }
+      ]
+    },
+    "is_tax_provision": {
+      "value": 2638200.0,
+      "rendered_as": "$2,638,200.00",
+      "locations": [
+        {
+          "page": 2,
+          "x": 515.2,
+          "y": 139.5,
+          "width": 46.0,
+          "height": 8.0
+        }
+      ]
+    },
+    "is_net_income": {
+      "value": 8578100.0,
+      "rendered_as": "$8,578,100.00",
+      "locations": [
+        {
+          "page": 2,
+          "x": 512.3,
+          "y": 155.6,
+          "width": 48.9,
+          "height": 8.5
+        }
+      ]
+    },
+    "is_tax_rate": {
+      "value": 0.2352,
+      "rendered_as": "23.5%"
+    }
+  },
+  "doc_type": "financial_statement",
+  "financial_ratios": {
+    "current_ratio": {
+      "value": 1.581,
+      "rendered_as": "1.58"
+    },
+    "debt_to_equity": {
+      "value": 0.24,
+      "rendered_as": "0.24"
+    },
+    "profit_margin": {
+      "value": 0.128,
+      "rendered_as": "12.80%"
+    },
+    "return_on_assets": {
+      "value": 0.0603,
+      "rendered_as": "6.03%"
+    }
+  }
+}

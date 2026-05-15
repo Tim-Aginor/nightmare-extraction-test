@@ -1,0 +1,56 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2008/01",
+    "form_title": "ADDITIONAL REMARKS SCHEDULE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-KCB-2025-5581",
+    "effective_date": "2025-08-11",
+    "expiration_date": null,
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction, including health care facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "entity_type": "Corporation"
+  },
+  "additional_remarks": [
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "1. CG 24 26 04 13 - Amendment of Aggregate Limits of Insurance - Per Project\n2. Nuclear Energy Liability Exclusion Endorsement\n3. CG 25 03 05 09 - Designated Construction Project(s) General Aggregate Limit\n4. Waiver of Our Right to Recover from Others Endorsement\n5. CG 24 04 05 09 - Waiver of Transfer of Rights of Recovery Against Others to Us\n6. Alternate Employer Endorsement"
+    },
+    {
+      "section_reference": "ADDITIONAL INSURED",
+      "remark": "Additional insured status is extended to Westbridge Realty Management Inc. as required by written contract. Coverage is primary and noncontributory."
+    },
+    {
+      "section_reference": "SPECIAL CONDITIONS",
+      "remark": "Primary and Non-Contributory wording applies per policy endorsements."
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC-001: Corporate Headquarters - 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222 (Occupancy: Office)\nLOC-002: Main Equipment Yard & Warehouse - 4500 Butler Street, Pittsburgh, PA 15201 (Occupancy: Warehouse)\nLOC-003: Fabrication Shop - 4120 Blake Street, Pittsburgh, PA 15201 (Occupancy: Manufacturing)\nLOC-004: Branch Office - 300 Village Run Road, Wexford, PA 15090 (Occupancy: Office)"
+    },
+    {
+      "section_reference": "SUBCONTRACTOR REQUIREMENTS",
+      "remark": "Evidence of Workers Compensation coverage is required from all subcontractors prior to commencing work on the project."
+    },
+    {
+      "section_reference": "NATURE OF OPERATIONS",
+      "remark": "The insured's principal operations consist of general contracting for commercial and institutional construction, including health care facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Entity type: Corporation."
+    }
+  ],
+  "checkboxes": [],
+  "remarks": "Attached to Form Number: ACORD 130 - Workers Compensation Application.\n\nENDORSEMENT SCHEDULE:\n1. CG 24 26 04 13 - Amendment of Aggregate Limits of Insurance - Per Project\n2. Nuclear Energy Liability Exclusion Endorsement\n3. CG 25 03 05 09 - Designated Construction Project(s) General Aggregate Limit\n4. Waiver of Our Right to Recover from Others Endorsement\n5. CG 24 04 05 09 - Waiver of Transfer of Rights of Recovery Against Others to Us\n6. Alternate Employer Endorsement\n\nADDITIONAL INSURED:\nAdditional insured status is extended to Westbridge Realty Management Inc. as required by written contract. Coverage is primary and noncontributory.\n\nSPECIAL CONDITIONS:\nPrimary and Non-Contributory wording applies per policy endorsements.\n\nLOCATION DESCRIPTIONS:\nLOC-001: Corporate Headquarters - 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222 (Occupancy: Office)\nLOC-002: Main Equipment Yard & Warehouse - 4500 Butler Street, Pittsburgh, PA 15201 (Occupancy: Warehouse)\nLOC-003: Fabrication Shop - 4120 Blake Street, Pittsburgh, PA 15201 (Occupancy: Manufacturing)\nLOC-004: Branch Office - 300 Village Run Road, Wexford, PA 15090 (Occupancy: Office)\n\nSUBCONTRACTOR REQUIREMENTS:\nEvidence of Workers Compensation coverage is required from all subcontractors prior to commencing work on the project.\n\nNATURE OF OPERATIONS:\nThe insured's principal operations consist of general contracting for commercial and institutional construction, including health care facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Entity type: Corporation."
+}

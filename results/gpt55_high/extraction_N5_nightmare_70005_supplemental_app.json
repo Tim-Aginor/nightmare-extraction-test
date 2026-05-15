@@ -1,0 +1,77 @@
+{
+  "business_description": {
+    "annual_revenue": 78000000,
+    "employee_count": 485,
+    "naics_code": null,
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors.",
+    "sic_code": null,
+    "years_in_business": 38
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines Supplemental Application",
+      "current_carrier": null,
+      "current_limit": null,
+      "expiring_premium": null,
+      "notes": "Policy number shown as WC GLFS 2025 8820. Prior insurance history lists Hanover Insurance Group for 2024, Hartford Financial Services for 2023, and Auto-Owners Insurance for 2022; no cancellations shown.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": "2026-03-15",
+    "document_type": "Supplemental Application \u2014 Commercial Lines",
+    "prepared_by": "Spence Reinhardt",
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history: 2024 \u2014 10 claims, no cancellations; 2023 \u2014 13 claims, no cancellations; 2022 \u2014 12 claims, no cancellations.",
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Hours of operation: Mon-Fri 6:00 AM - 4:30 PM. Primary commodities hauled: dry van general freight and packaged goods; flatbed steel, lumber, and machinery.",
+    "safety_programs": "Formal safety program: Yes. Drivers are in compliance with FMCSA Hours-of-Service regulations. GPS tracking or ELD devices installed in all vehicles: Yes. MVR checks performed on all drivers at least annually: Yes. Hired auto/non-owned auto exposure covered under separate policy: Yes. Applicant maintains valid DOT number and MC authority: Yes. CDL licenses verified for all drivers at time of hire: Yes."
+  },
+  "fleet_summary": {
+    "driver_count": 26,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors",
+    "vehicle_count": 80
+  },
+  "insured": {
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "name": "Great Lakes Freight Systems, Inc.",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH",
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "CSA BASIC Vehicle Maintenance score is shown as above intervention threshold.",
+      "CSA BASIC Crash Indicator is shown as above intervention threshold and currently being addressed.",
+      "Prior insurance history shows claim counts of 10 in 2024, 13 in 2023, and 12 in 2022.",
+      "One office location is indicated as not sprinklered.",
+      "Refrigerated trailer/perishable cargo exposure is indicated."
+    ],
+    "loss_history_summary": "Prior insurance history table lists 10 claims in 2024, 13 claims in 2023, and 12 claims in 2022, with no cancellations shown for those years.",
+    "positives": [
+      "38 years in business.",
+      "Annual revenue of 78000000 and 485 full-time employees.",
+      "Formal safety program in place.",
+      "GPS/ELD devices installed in all vehicles.",
+      "Annual MVR checks performed on all drivers.",
+      "Drivers are indicated as compliant with FMCSA Hours-of-Service regulations.",
+      "No DOT violations or out-of-service orders indicated in the past 3 years.",
+      "Most listed premises are sprinklered."
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc."
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Boulevard"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "document_date": {
+      "value": "2026-03-16",
+      "rendered_as": "03/16/2026"
+    },
+    "producer_name": {
+      "value": "Transportation Insurance Specialists"
+    },
+    "producer_contact": {
+      "value": "David Reinhardt"
+    },
+    "producer_phone": {
+      "value": "(614) 555-0493"
+    },
+    "producer_fax": {
+      "value": "(614) 267-6839"
+    },
+    "producer_license_number": {
+      "value": "AG-4419703"
+    },
+    "policy_number": {
+      "value": "WC GLFS 2025 8820"
+    },
+    "cancellation_date": {
+      "value": "2026-05-07",
+      "rendered_as": "05/07/2026"
+    },
+    "cancellation_reason": {
+      "value": "Non-Renewal"
+    }
+  },
+  "doc_type": "acord_35"
+}

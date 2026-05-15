@@ -1,0 +1,356 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "insured_address": {
+      "value": "250 Civic Center Drive, Suite 600"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-09-01",
+      "rendered_as": "09/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-09-01",
+      "rendered_as": "09/01/2026"
+    },
+    "report_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    }
+  },
+  "doc_type": "loss_run_excel",
+  "loss_run_label": "Consolidated Loss Summary (prepared by Midwest Property & Casualty Group)",
+  "loss_run_label_mode": "consolidated",
+  "claims": [
+    {
+      "claim_number": {
+        "value": "MEM-2025-013016"
+      },
+      "claimant": {
+        "value": "Buckeye Industrial Properties, LLC"
+      },
+      "date_of_loss": {
+        "value": "2025-10-17",
+        "rendered_as": "17-Oct-2025"
+      },
+      "status": {
+        "value": "Re-opened"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 202875.0,
+        "rendered_as": "$202,875.00"
+      },
+      "total_reserved": {
+        "value": 35679.44,
+        "rendered_as": "$35,679.44"
+      },
+      "total_incurred": {
+        "value": 238554.44,
+        "rendered_as": "$238,554.44"
+      },
+      "date_reported": {
+        "value": "2025-10-23",
+        "rendered_as": "23-Oct-2025"
+      },
+      "description": {
+        "value": "A leaking 80-gallon water heater in the\u00a0main office suite resulted in mold growth requiring professional remediation."
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "D. Fernandez"
+      },
+      "cause_code": {
+        "value": "31"
+      },
+      "cause_description": {
+        "value": "Water Damage"
+      },
+      "original_reserve": {
+        "value": 270059.6
+      },
+      "location_id": {
+        "value": "LOC-004"
+      },
+      "location_name": {
+        "value": "Dayton Manufacturing Facility"
+      },
+      "cause": {
+        "value": "Water Damage"
+      },
+      "paid_amount": {
+        "value": 190238.21,
+        "rendered_as": "$190,238.21"
+      },
+      "paid_expense": {
+        "value": 12636.79,
+        "rendered_as": "$12,636.79"
+      },
+      "reserve": {
+        "value": 35679.44,
+        "rendered_as": "$35,679.44"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HTF-2021-013149"
+      },
+      "claimant": {
+        "value": "Buckeye Industrial Properties, LLC"
+      },
+      "date_of_loss": {
+        "value": "2021-10-09",
+        "rendered_as": "09-Oct-2021"
+      },
+      "status": {
+        "value": "Denied"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "total_incurred": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "date_reported": {
+        "value": "2021-10-15",
+        "rendered_as": "15-Oct-2021"
+      },
+      "description": {
+        "value": "A boiler heat exchanger failed in the main office suite, resulting in damage to servers, networking gear, and stored data."
+      },
+      "close_date": {
+        "value": "2022-02-16",
+        "rendered_as": "16-Feb-2022"
+      },
+      "examiner": {
+        "value": "D. Fernandez"
+      },
+      "cause_code": {
+        "value": "35"
+      },
+      "cause_description": {
+        "value": "Equipment Breakdown"
+      },
+      "denial_reason": {
+        "value": "Material misrepresentation on application"
+      },
+      "location_id": {
+        "value": "LOC-005"
+      },
+      "location_name": {
+        "value": "Cincinnati Cross-Dock Terminal"
+      },
+      "cause": {
+        "value": "Equipment Breakdown"
+      },
+      "paid_amount": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "paid_expense": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      }
+    }
+  ],
+  "subtotals": [
+    {
+      "coverage": "property",
+      "total_paid": {
+        "value": 202875.0,
+        "rendered_as": "$202,875.00"
+      },
+      "total_reserved": {
+        "value": 35679.44,
+        "rendered_as": "$35,679.44"
+      },
+      "total_incurred": {
+        "value": 238554.44,
+        "rendered_as": "$238,554.44"
+      }
+    }
+  ],
+  "grand_totals": {
+    "total_paid": {
+      "value": 202875.0,
+      "rendered_as": "$202,875.00"
+    },
+    "total_reserved": {
+      "value": 35679.44,
+      "rendered_as": "$35,679.44"
+    },
+    "total_incurred": {
+      "value": 238554.44,
+      "rendered_as": "$238,554.44"
+    }
+  },
+  "excel_metadata": {
+    "merged_regions": [
+      {
+        "range": "A1:J1",
+        "value": "Maine Employers Mutual"
+      },
+      {
+        "range": "A2:J2",
+        "value": "Loss Run Report"
+      },
+      {
+        "range": "B3:D3",
+        "value": "Buckeye Industrial Properties, LLC"
+      },
+      {
+        "range": "B4:D4",
+        "value": "250 Civic Center Drive, Suite 600, Columbus, OH, 43215"
+      },
+      {
+        "range": "B5:D5",
+        "value": "CP-BIP-2025-4420"
+      },
+      {
+        "range": "B6:D6",
+        "value": "09/01/2025 to 09/01/2026"
+      },
+      {
+        "range": "B7:D7",
+        "value": "03/15/2026"
+      },
+      {
+        "range": "B8:D8",
+        "value": "Gloria Edwards, Commercial Lines Division"
+      },
+      {
+        "range": "A10:D10",
+        "value": "Claim Information"
+      },
+      {
+        "range": "H10:I10",
+        "value": "Loss Details"
+      },
+      {
+        "range": "E10:G10",
+        "value": "Financials"
+      },
+      {
+        "range": "A16:J16",
+        "value": "This report is confidential and intended solely for the named insured. Information contained herein is subject to the terms and conditions of the applicable insurance policies. Past loss experience is not necessarily indicative of future results."
+      }
+    ],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [
+      {
+        "name": "ClaimData",
+        "range": "A12:J14",
+        "sheet": "Property Loss Run"
+      }
+    ],
+    "formatting_semantics": {},
+    "tab_name": "Property Loss Run",
+    "header_rows": [
+      10,
+      11
+    ],
+    "header_mapping": {
+      "Claim ID": "claim_num",
+      "Worker Name": "claimant",
+      "Injury Date": "dol",
+      "File Status": "status",
+      "Expense Paid": "paid_expense",
+      "Outstanding Reserve": "reserve",
+      "TI": "total_incurred",
+      "Location": "location",
+      "Cause Code": "cause",
+      "Total Paid": "paid_amount"
+    },
+    "data_start_row": 12,
+    "data_end_row": 14,
+    "subtotal_rows": [
+      14
+    ],
+    "section_header_rows": [],
+    "footnotes": [],
+    "granularity": "claim",
+    "layout_type": "standard",
+    "valuation_date_location": "report_header_block",
+    "multi_coverage_mode": "single",
+    "primary_coverage": "property",
+    "coverages_present": [
+      "property"
+    ],
+    "column_set_type": "primary",
+    "tab_structure": "single",
+    "villification": {
+      "header_depth": 3,
+      "color_as_data": false,
+      "status_column_omitted": false,
+      "hidden_rows_enabled": false,
+      "hidden_cols_enabled": false,
+      "comments_enabled": false,
+      "leading_zeros_stripped": true,
+      "footnotes_enabled": false,
+      "mixed_date_formats": false,
+      "currency_as_text_pct": 0.0,
+      "alternating_rows": false,
+      "outline_grouping": false,
+      "sheet_protection": true,
+      "named_range": true,
+      "data_validation": false,
+      "apostrophe_prefix": false,
+      "date_serials": false,
+      "random_subtotals": false,
+      "conditional_formatting": false,
+      "logo": false,
+      "vertical_kv": false,
+      "vertical_kv_sub_mode": "key_value",
+      "column_chaos": false,
+      "combined_carrier": false,
+      "scientific_notation": false,
+      "corrupt_claim_numbers": false,
+      "mixed_type_columns": false,
+      "boolean_variation": true,
+      "zero_width_chars": false,
+      "mixed_dates_per_cell": false,
+      "layout_mode": "standard",
+      "deep_outline": false,
+      "autofilter_hiding": false,
+      "hidden_critical_columns": false,
+      "buried_header": false,
+      "buried_header_offset": 0,
+      "misleading_freeze": false,
+      "table_interruptions": false
+    }
+  },
+  "format": "xlsx"
+}

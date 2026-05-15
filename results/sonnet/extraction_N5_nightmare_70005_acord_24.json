@@ -1,0 +1,136 @@
+{
+  "form_info": {
+    "form_number": "ACORD 28",
+    "form_edition": null,
+    "form_title": "Certificate of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AG-4419703",
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "0DELF502000000",
+    "effective_date": "2024-01-05",
+    "expiration_date": "2025-01-05"
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 54110000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property",
+      "limit": 30320000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": 57954000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Extra Expense",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Rental Value",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Building",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Pers Prop",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Bldg & PP",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Inland Marine",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Crime",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Boiler & Machinery / Equipment Breakdown",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "property_basic": "checked",
+    "property_broad": "checked",
+    "property_special": "checked",
+    "property_earthquake": "unchecked",
+    "property_flood": "unchecked",
+    "property_wind": "unchecked"
+  },
+  "additional_fields": {
+    "contact_name": "David Reinhardt",
+    "phone": "(614) 555-0493",
+    "fax": "(614) 267-6839",
+    "email": "dreinhardt@isgroup.com",
+    "insurer_a": "Standard Insurance Company",
+    "insurer_a_naic": "21008",
+    "insurer_b": "Standard Indemnity Company",
+    "insurer_b_naic": "21093",
+    "insurer_c": "Standard Casualty Company",
+    "insurer_c_naic": "21088",
+    "insurer_d": "Standard Assurance Company",
+    "insurer_d_naic": "21206",
+    "insurer_e": "Standard Surety Company",
+    "insurer_e_naic": "21152",
+    "insurer_f": "Standard Insurance Company",
+    "insurer_f_naic": "21158",
+    "location_of_premises": "1200 Nationwide Boulevard, Columbus, OH 43210",
+    "description_of_property": "Non-Combustible, Warehouse",
+    "certificate_holder_name": "Quantum Realty Management Inc.",
+    "certificate_holder_address": "2108 Summit Avenue",
+    "certificate_holder_city": "Little Rock",
+    "certificate_holder_state": "AR",
+    "certificate_holder_zip": "72201",
+    "authorized_representative": "Margaret Sullivan",
+    "insured_letter": "A",
+    "basic_deductible": 80000,
+    "broad_deductible": 50000,
+    "annotation_date": "2025-06-18",
+    "annotation": "Need docs"
+  },
+  "remarks": null
+}

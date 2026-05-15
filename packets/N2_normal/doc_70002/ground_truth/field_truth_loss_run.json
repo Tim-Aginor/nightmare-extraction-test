@@ -1,0 +1,202 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Buckeye Industrial Properties, LLC"
+    },
+    "carrier_name": {
+      "value": "Maine Employers Mutual"
+    },
+    "report_id": {
+      "value": "LR-2026-64342"
+    },
+    "report_date": {
+      "value": "2026-03-15",
+      "rendered_as": "03/15/2026"
+    }
+  },
+  "doc_type": "loss_run",
+  "loss_run_label": "Consolidated Loss Summary (prepared by Midwest Property & Casualty Group)",
+  "loss_run_label_mode": "consolidated",
+  "claims": [
+    {
+      "claim_number": {
+        "value": "MEM-2025-013016"
+      },
+      "claimant": {
+        "value": "Buckeye Industrial Properties, LLC"
+      },
+      "date_of_loss": {
+        "value": "2025-10-17",
+        "rendered_as": "17-Oct-2025"
+      },
+      "status": {
+        "value": "Re-opened",
+        "rendered_as": "03"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 202875.0,
+        "rendered_as": "$202,875.00"
+      },
+      "total_reserved": {
+        "value": 35679.44,
+        "rendered_as": "$35,679.44"
+      },
+      "total_incurred": {
+        "value": 238554.44,
+        "rendered_as": "$238,554.44"
+      },
+      "date_reported": {
+        "value": "2025-10-23",
+        "rendered_as": "23-Oct-2025"
+      },
+      "description": {
+        "value": "A leaking 80-gallon water heater in the\u00a0main office suite resulted in mold growth requiring professional remediation."
+      },
+      "close_date": {
+        "value": null
+      },
+      "examiner": {
+        "value": "D. Fernandez"
+      },
+      "cause_code": {
+        "value": "31"
+      },
+      "cause_description": {
+        "value": "Water Damage"
+      },
+      "original_reserve": {
+        "value": 270059.6
+      },
+      "location_id": {
+        "value": "LOC-004"
+      },
+      "location_name": {
+        "value": "Dayton Manufacturing Facility"
+      },
+      "cause": {
+        "value": "Water Damage"
+      },
+      "paid_amount": {
+        "value": 190238.21,
+        "rendered_as": "$190,238.21"
+      },
+      "paid_expense": {
+        "value": 12636.79,
+        "rendered_as": "$12,636.79"
+      },
+      "reserve": {
+        "value": 35679.44,
+        "rendered_as": "$35,679.44"
+      }
+    },
+    {
+      "claim_number": {
+        "value": "HTF-2021-013149"
+      },
+      "claimant": {
+        "value": "Buckeye Industrial Properties, LLC"
+      },
+      "date_of_loss": {
+        "value": "2021-10-09",
+        "rendered_as": "09-Oct-2021"
+      },
+      "status": {
+        "value": "Denied",
+        "rendered_as": "05"
+      },
+      "coverage": {
+        "value": "property"
+      },
+      "total_paid": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "total_reserved": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "total_incurred": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "date_reported": {
+        "value": "2021-10-15",
+        "rendered_as": "15-Oct-2021"
+      },
+      "description": {
+        "value": "A boiler heat exchanger failed in the main office suite, resulting in damage to servers, networking gear, and stored data."
+      },
+      "close_date": {
+        "value": "2022-02-16",
+        "rendered_as": "16-Feb-2022"
+      },
+      "examiner": {
+        "value": "D. Fernandez"
+      },
+      "cause_code": {
+        "value": "35"
+      },
+      "cause_description": {
+        "value": "Equipment Breakdown"
+      },
+      "denial_reason": {
+        "value": "Material misrepresentation on application"
+      },
+      "location_id": {
+        "value": "LOC-005"
+      },
+      "location_name": {
+        "value": "Cincinnati Cross-Dock Terminal"
+      },
+      "cause": {
+        "value": "Equipment Breakdown"
+      },
+      "paid_amount": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "paid_expense": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      },
+      "reserve": {
+        "value": 0.0,
+        "rendered_as": "\u2014"
+      }
+    }
+  ],
+  "subtotals": [
+    {
+      "coverage": "property",
+      "total_paid": {
+        "value": 202875.0,
+        "rendered_as": "$202,875.00"
+      },
+      "total_reserved": {
+        "value": 35679.44,
+        "rendered_as": "$35,679.44"
+      },
+      "total_incurred": {
+        "value": 238554.44,
+        "rendered_as": "$238,554.44"
+      }
+    }
+  ],
+  "grand_totals": {
+    "total_paid": {
+      "value": 202875.0,
+      "rendered_as": "$202,875.00"
+    },
+    "total_reserved": {
+      "value": 35679.44,
+      "rendered_as": "$35,679.44"
+    },
+    "total_incurred": {
+      "value": 238554.44,
+      "rendered_as": "$238,554.44"
+    }
+  }
+}

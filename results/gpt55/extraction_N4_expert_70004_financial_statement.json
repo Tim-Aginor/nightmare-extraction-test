@@ -1,0 +1,77 @@
+{
+  "balance_sheet": {
+    "assets": {
+      "current_assets": {
+        "accounts_receivable": 28366800,
+        "cash": 16247700,
+        "inventory": 11837000,
+        "other_current": null,
+        "prepaid_expenses": 2375000,
+        "total_current_assets": 58826500
+      },
+      "fixed_assets": {
+        "accumulated_depreciation": null,
+        "net_fixed_assets": 13414100,
+        "property_plant_equipment": null
+      },
+      "other_assets": 31096100,
+      "total_assets": 103336700
+    },
+    "equity": {
+      "common_stock": null,
+      "retained_earnings": 34373200,
+      "total_equity": 34373200
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 16636800,
+        "accrued_expenses": 14166000,
+        "current_debt": null,
+        "other_current": null,
+        "total_current_liabilities": 30802800
+      },
+      "long_term_liabilities": {
+        "long_term_debt": 25795700,
+        "other_long_term": 12365000,
+        "total_long_term": 38160700
+      },
+      "total_liabilities": 68963500
+    }
+  },
+  "header": {
+    "audited": null,
+    "company_name": "Keystone Commercial Builders, Inc.",
+    "fiscal_year": 2026,
+    "period_end_date": "2026-01-31",
+    "period_type": "Fiscal Year",
+    "preparer": null,
+    "statement_type": "Financial Statement"
+  },
+  "income_statement": {
+    "cost_of_goods_sold": 69422700,
+    "gross_profit": 25574100,
+    "income_before_tax": 8032600,
+    "income_tax": 2033200,
+    "interest_expense": 3019600,
+    "net_income": 5999400,
+    "operating_expenses": {
+      "depreciation": 6127600,
+      "insurance": null,
+      "other_operating": 8394300,
+      "rent": null,
+      "salaries_wages": null,
+      "total_operating_expenses": 14521900,
+      "utilities": null
+    },
+    "operating_income": 11052200,
+    "revenue": {
+      "gross_revenue": null,
+      "net_revenue": 94996800
+    }
+  },
+  "ratios": {
+    "current_ratio": 1.91,
+    "debt_to_equity": 2.01,
+    "profit_margin": 6.3
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "form_info": {
+    "form_number": "ACORD 160",
+    "form_edition": "2016/03",
+    "form_title": "Businessowners Application"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Karen Weissman",
+    "producer_code": null,
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": "CP-BIP-2025-4420",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "31-5847293",
+    "sic_code": "6512",
+    "naics_code": "531130",
+    "years_in_business": 31,
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Building",
+      "limit": 146260000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Personal Property",
+      "limit": 42495000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income with Extra Expense",
+      "limit": 62590000,
+      "deductible": 75000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Each Occurrence",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Aggregate",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Products/Completed Operations",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal & Advertising Injury",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Premises Rented to You",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Medical Expense (Any One Person)",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Employee Dishonesty",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Blanket Additional Insured",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Data Compromise",
+      "limit": 50000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Damage to Premises Rented to You (Additional Coverage)",
+      "limit": 300000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Valuable Papers",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Earthquake",
+      "limit": 100000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Professional Liability",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Per Project General Aggregate",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Water Backup / Sump Overflow",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Debris Removal \u2014 Additional",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Computer Fraud",
+      "limit": 25000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Money & Securities \u2014 Inside",
+      "limit": 10000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income \u2014 Civil Authority",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "stores_flammable_liquids": "No",
+    "has_burglar_alarm_system": "No",
+    "sells_or_distributes_products_manufactured_by_others": "No",
+    "building_located_in_flood_zone": "No",
+    "alterations_or_construction_in_progress": "No",
+    "applicant_is_building_owner_or_tenant": "Yes",
+    "building_100_percent_sprinklered": "No",
+    "exterior_signs_or_awnings": "No",
+    "commercial_cooking_operations": "No",
+    "applicant_is_sole_occupant": "Yes",
+    "underground_storage_tanks": "No",
+    "swimming_pools_or_hot_tubs": "No"
+  },
+  "additional_fields": {
+    "date": "2026-03-15",
+    "agency": "Midwest Property & Casualty Group",
+    "contact": "Karen Weissman",
+    "business_type": "Office",
+    "annual_revenue": 48000000,
+    "full_time_employees": 95,
+    "part_time_employees": 18,
+    "website": "www.buckeyeindustrialpro.com",
+    "naic_code": "44251",
+    "billing_plan": "Direct Bill \u2014 Monthly",
+    "premium": 424883.27,
+    "deductible": 75000,
+    "valuation": "Replacement Cost",
+    "total_insured_value": 251345000,
+    "business_income_civil_authority_time_element": "30 days",
+    "applicant_signature_name": "Douglas Brennan",
+    "applicant_title": "Chief Operating Officer",
+    "applicant_signature_date": "2026-03-15",
+    "agent_broker_signature_name": "Karen Weissman",
+    "agent_broker_signature_date": "2026-03-15",
+    "agent_license_number": "AG-509227",
+    "premises": [
+      {
+        "premises_number": 1,
+        "location_id": "LOC-001",
+        "address": "6500 Alum Creek Drive, Columbus, OH, 43217",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Shingle",
+        "protection_class": 1,
+        "year_built": 2014,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 425000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 34000000,
+        "contents_bpp": 8500000,
+        "business_income": 12750000,
+        "total_insured_value": 55250000
+      },
+      {
+        "premises_number": 2,
+        "location_id": "LOC-002",
+        "address": "6600 Alum Creek Drive, Columbus, OH, 43217",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "TPO",
+        "protection_class": 5,
+        "year_built": 2016,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 380000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 30400000,
+        "contents_bpp": 7600000,
+        "business_income": 11400000,
+        "total_insured_value": 49400000
+      },
+      {
+        "premises_number": 3,
+        "location_id": "LOC-003",
+        "address": "4800 Tiedeman Road, Brooklyn, OH, 44144",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "EPDM",
+        "protection_class": 3,
+        "year_built": 2008,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 295000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 20650000,
+        "contents_bpp": 5900000,
+        "business_income": 8850000,
+        "total_insured_value": 35400000
+      },
+      {
+        "premises_number": 4,
+        "location_id": "LOC-004",
+        "address": "2100 Kuntz Road, Dayton, OH, 45404",
+        "description_occupancy": "Manufacturing",
+        "construction_type": "Joisted Masonry",
+        "roof_type": "Metal",
+        "protection_class": 4,
+        "year_built": 1992,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 185000,
+        "sprinklered": "Yes",
+        "occupancy": "Manufacturing",
+        "building_value": 11100000,
+        "contents_bpp": 5550000,
+        "business_income": 6660000,
+        "total_insured_value": 23310000
+      },
+      {
+        "premises_number": 5,
+        "location_id": "LOC-005",
+        "address": "11600 Mosteller Road, Cincinnati, OH, 45241",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Built-Up",
+        "protection_class": 4,
+        "year_built": 2019,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 220000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 19800000,
+        "contents_bpp": 4400000,
+        "business_income": 7920000,
+        "total_insured_value": 32120000
+      },
+      {
+        "premises_number": 6,
+        "location_id": "LOC-006",
+        "address": "3200 Hill Avenue, Toledo, OH, 43607",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "Metal",
+        "protection_class": 5,
+        "year_built": 2004,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 165000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 11550000,
+        "contents_bpp": 3300000,
+        "business_income": 4950000,
+        "total_insured_value": 19800000
+      },
+      {
+        "premises_number": 7,
+        "location_id": "LOC-007",
+        "address": "3250 Hill Avenue, Toledo, OH, 43607",
+        "description_occupancy": "Manufacturing",
+        "construction_type": "Masonry Non-Combustible",
+        "roof_type": "EPDM",
+        "protection_class": 3,
+        "year_built": 1998,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 142000,
+        "sprinklered": "No",
+        "occupancy": "Manufacturing",
+        "building_value": 8520000,
+        "contents_bpp": 4260000,
+        "business_income": 4260000,
+        "total_insured_value": 17040000
+      },
+      {
+        "premises_number": 8,
+        "location_id": "LOC-008",
+        "address": "1475 Corporate Woods Parkway, Uniontown, OH, 44685",
+        "description_occupancy": "Warehouse",
+        "construction_type": "Non-Combustible",
+        "roof_type": "Metal",
+        "protection_class": 4,
+        "year_built": 2011,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 128000,
+        "sprinklered": "Yes",
+        "occupancy": "Warehouse",
+        "building_value": 10240000,
+        "contents_bpp": 2560000,
+        "business_income": 5120000,
+        "total_insured_value": 17920000
+      },
+      {
+        "premises_number": 9,
+        "location_id": "LOC-009",
+        "address": "250 Civic Center Drive, Suite 600, Columbus, OH, 43215",
+        "description_occupancy": "Office",
+        "construction_type": "Fire Resistive",
+        "roof_type": "TPO",
+        "protection_class": 1,
+        "year_built": 2006,
+        "number_of_stories": 1,
+        "total_area_sq_ft": 8500,
+        "sprinklered": "Yes",
+        "occupancy": "Office",
+        "building_value": 0,
+        "contents_bpp": 425000,
+        "business_income": 680000,
+        "total_insured_value": 1105000
+      }
+    ],
+    "additional_interests": [
+      {
+        "type": "ISAOA/ATIMA",
+        "name": "Bank of America, N.A.",
+        "address": "P.O. Box 33104, Detroit, MI 48226",
+        "loan_reference_number": "L-669740676"
+      },
+      {
+        "type": "Loss Payee",
+        "name": "Huntington National Bank",
+        "address": "P.O. Box 61095, San Francisco, CA 94104",
+        "loan_reference_number": "L-618678792"
+      },
+      {
+        "type": "Loss Payee",
+        "name": "U.S. Bank National Association",
+        "address": "P.O. Box 90144, New York, NY 10001",
+        "loan_reference_number": "L-146216755"
+      }
+    ]
+  },
+  "remarks": null
+}

@@ -1,0 +1,135 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP",
+      "locations": [
+        {
+          "page": 1,
+          "x": 22.0,
+          "y": 168.3,
+          "width": 135.8,
+          "height": 7.5
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500",
+      "locations": [
+        {
+          "page": 1,
+          "x": 22.0,
+          "y": 178.3,
+          "width": 115.2,
+          "height": 7.5
+        }
+      ]
+    },
+    "insured_city": {
+      "value": "Dallas"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "75201"
+    },
+    "document_date": {
+      "value": "2026-03-16",
+      "rendered_as": "03/16/2026",
+      "locations": [
+        {
+          "page": 1,
+          "x": 496.0,
+          "y": 25.9,
+          "width": 46.1,
+          "height": 8.0
+        }
+      ]
+    },
+    "producer_name": {
+      "value": "Texas Commercial Insurance Partners",
+      "locations": [
+        {
+          "page": 1,
+          "x": 22.0,
+          "y": 98.7,
+          "width": 149.4,
+          "height": 7.0
+        }
+      ]
+    },
+    "producer_contact": {
+      "value": "Sandra Villareal",
+      "locations": [
+        {
+          "page": 1,
+          "x": 336.8,
+          "y": 96.7,
+          "width": 55.3,
+          "height": 7.0
+        },
+        {
+          "page": 1,
+          "x": 22.0,
+          "y": 108.2,
+          "width": 55.3,
+          "height": 7.0
+        }
+      ]
+    },
+    "producer_phone": {
+      "value": "(214) 555-0918",
+      "locations": [
+        {
+          "page": 1,
+          "x": 336.8,
+          "y": 112.7,
+          "width": 54.7,
+          "height": 7.0
+        }
+      ]
+    },
+    "producer_fax": {
+      "value": "(214) 273-7259",
+      "locations": [
+        {
+          "page": 1,
+          "x": 336.8,
+          "y": 128.7,
+          "width": 54.7,
+          "height": 7.0
+        }
+      ]
+    },
+    "producer_email": {
+      "value": "svillareal@txcip.com",
+      "locations": [
+        {
+          "page": 1,
+          "x": 336.8,
+          "y": 144.7,
+          "width": 72.6,
+          "height": 7.0
+        }
+      ]
+    }
+  },
+  "doc_type": "acord_25",
+  "certificate_holders": [
+    {
+      "name": "Summit Properties LLC",
+      "address": "1919 Adams Street",
+      "city": "Olathe",
+      "state": "KS",
+      "zip_code": "66061"
+    },
+    {
+      "name": "Summit Capital Group",
+      "address": "5290 Walnut Street, Ste. 159",
+      "city": "Santa Clarita",
+      "state": "CA",
+      "zip_code": "91350"
+    }
+  ],
+  "carrier_name_per_lob": {}
+}

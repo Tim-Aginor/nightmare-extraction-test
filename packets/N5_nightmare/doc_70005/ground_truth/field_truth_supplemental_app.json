@@ -1,0 +1,317 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc."
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Boulevard"
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_number_wc": {
+      "value": "WC GLFS 2025 8820"
+    },
+    "policy_number_gl": {
+      "value": "gl GLFS 2025 8821"
+    },
+    "policy_number_auto": {
+      "value": "CAGLFS20258822"
+    },
+    "policy_number_property": {
+      "value": "cpGLFS20258823"
+    },
+    "policy_number_umbrella": {
+      "value": "SIC CU025454"
+    },
+    "policy_number_mtc": {
+      "value": "SICMT032788"
+    },
+    "nature_of_business": {
+      "value": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors"
+    },
+    "years_in_business": {
+      "value": 38
+    },
+    "years_current_mgmt": {
+      "value": 25
+    },
+    "num_employees_ft": {
+      "value": 485
+    },
+    "num_employees_pt": {
+      "value": 52
+    },
+    "annual_revenue": {
+      "value": 78000000,
+      "rendered_as": "$78,000,000.00"
+    },
+    "hours_of_operation": {
+      "value": "Mon-Fri 6:00 AM - 4:30 PM"
+    },
+    "safety_program": {
+      "value": "Yes"
+    },
+    "written_contracts": {
+      "value": "No"
+    }
+  },
+  "doc_type": "supplemental_app",
+  "premises": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 125000,
+      "occupancy": "Warehouse",
+      "year_built": 2005,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 10000000,
+      "contents_value": 5000000,
+      "bi_value": 9750000,
+      "tiv": 24750000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "2500 Norton Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43217",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 185000,
+      "occupancy": "Warehouse",
+      "year_built": 2012,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 14800000,
+      "contents_value": 7400000,
+      "bi_value": 14430000,
+      "tiv": 36630000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "6000 Rockside Woods Boulevard",
+      "city": "Independence",
+      "state": "OH",
+      "zip_code": "44131",
+      "construction": "Masonry Non-Combustible",
+      "stories": 1,
+      "square_feet": 95000,
+      "occupancy": "Warehouse",
+      "year_built": 1998,
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 6650000,
+      "contents_value": 3800000,
+      "bi_value": 7410000,
+      "tiv": 17860000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "500 Technology Drive",
+      "city": "Canonsburg",
+      "state": "PA",
+      "zip_code": "15317",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 78000,
+      "occupancy": "Warehouse",
+      "year_built": 2008,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 5460000,
+      "contents_value": 3120000,
+      "bi_value": 6084000,
+      "tiv": 14664000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "7600 State Road",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "19136",
+      "construction": "Masonry Non-Combustible",
+      "stories": 1,
+      "square_feet": 68000,
+      "occupancy": "Warehouse",
+      "year_built": 2001,
+      "protection_class": 1,
+      "sprinklered": true,
+      "building_value": 4760000,
+      "contents_value": 2720000,
+      "bi_value": 5304000,
+      "tiv": 12784000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "4100 Industrial Road",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip_code": "17111",
+      "construction": "Non-Combustible",
+      "stories": 1,
+      "square_feet": 92000,
+      "occupancy": "Warehouse",
+      "year_built": 2015,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 7360000,
+      "contents_value": 3680000,
+      "bi_value": 7176000,
+      "tiv": 18216000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3500 Airborne Road",
+      "city": "Toledo",
+      "state": "OH",
+      "zip_code": "43609",
+      "construction": "Joisted Masonry",
+      "stories": 1,
+      "square_feet": 52000,
+      "occupancy": "Warehouse",
+      "year_built": 1995,
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 3120000,
+      "contents_value": 2080000,
+      "bi_value": 4056000,
+      "tiv": 9256000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1250 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Masonry Non-Combustible",
+      "stories": 1,
+      "square_feet": 28000,
+      "occupancy": "Service/Repair",
+      "year_built": 2005,
+      "protection_class": 5,
+      "sprinklered": true,
+      "building_value": 1960000,
+      "contents_value": 1680000,
+      "bi_value": 2184000,
+      "tiv": 5824000
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "41 South High Street, Suite 1500",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215",
+      "construction": "Fire Resistive",
+      "stories": 1,
+      "square_feet": 12000,
+      "occupancy": "Office",
+      "year_built": 2010,
+      "protection_class": 3,
+      "sprinklered": true,
+      "building_value": 0,
+      "contents_value": 840000,
+      "bi_value": 1560000,
+      "tiv": 2400000
+    }
+  ],
+  "risk_management": [
+    {
+      "question": "What is the most recent CSA BASIC score in Vehicle Maintenance?",
+      "answer": "Within 10% of intervention threshold"
+    },
+    {
+      "question": "Have there been any DOT violations or out-of-service orders in the past 3 years?",
+      "answer": "No"
+    },
+    {
+      "question": "Are drivers in compliance with FMCSA Hours-of-Service (HOS) regulations?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Describe the primary commodities hauled by vehicle type.",
+      "answer": "Dry van: general freight, packaged goods. Flatbed: steel, lumber, machinery."
+    },
+    {
+      "question": "Are GPS tracking or ELD devices installed in all vehicles?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the most recent CSA BASIC score in Crash Indicator?",
+      "answer": "Above intervention threshold (currently being addressed)"
+    },
+    {
+      "question": "Are MVR checks performed on all drivers at least annually?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Is hired auto / non-owned auto exposure covered (employees driving personal vehicles for company business)?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does the applicant maintain a valid DOT number and MC authority?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are sleeper-cab tractors used for long-haul operations?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What ICC operating authority does the applicant hold (intrastate, interstate, both)?",
+      "answer": "Interstate (FMCSA) only"
+    },
+    {
+      "question": "Are any vehicles refrigerated reefer units carrying perishable freight?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are CDL licenses verified for all drivers at time of hire?",
+      "answer": "Yes"
+    }
+  ],
+  "prior_insurance": [
+    {
+      "year": 2024,
+      "carrier": "Hanover Insurance Group",
+      "premium": 2088513.96,
+      "claims": 10,
+      "cancellation": "No",
+      "premium_rendered": "$2,088,513.96"
+    },
+    {
+      "year": 2023,
+      "carrier": "Hartford Financial Services",
+      "premium": 2074475.35,
+      "claims": 13,
+      "cancellation": "No",
+      "premium_rendered": "$2,074,475.35"
+    },
+    {
+      "year": 2022,
+      "carrier": "Auto-Owners Insurance",
+      "premium": 2014565.01,
+      "claims": 12,
+      "cancellation": "No",
+      "premium_rendered": "$2,014,565.01"
+    }
+  ]
+}

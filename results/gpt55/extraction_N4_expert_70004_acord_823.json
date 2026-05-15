@@ -1,0 +1,24 @@
+{
+  "checkboxes": [],
+  "form_info": {
+    "form_edition": "2011/10",
+    "form_number": "ACORD 823",
+    "form_title": "COMMERCIAL LINES SUPPLEMENT"
+  },
+  "header": {
+    "carrier_name": "Hartford Insurance Group",
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "WC-KCB-2023-5580",
+    "producer_code": null,
+    "producer_name": "Steel City Insurance Group"
+  },
+  "policy_number": "WC-KCB-2023-5580",
+  "remarks": null,
+  "start_date": "2025-09-01"
+}

@@ -1,0 +1,112 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": "2004/05",
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Commercial Building"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Special Causes of Loss",
+      "limit": null,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Business Income",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "causes_of_loss_special": "checked",
+    "causes_of_loss_broad": "unchecked",
+    "causes_of_loss_basic": "unchecked",
+    "valuation_acv": "checked",
+    "valuation_replacement_cost": "unchecked"
+  },
+  "additional_fields": {
+    "agency_customer_id": "AC-070004",
+    "naic_code": "28339",
+    "causes_of_loss": "Special",
+    "valuation": "Actual Cash Value",
+    "deductible": 25000,
+    "coinsurance": "80%",
+    "additional_interest": "Corporate Headquarters",
+    "location_schedule": [
+      {
+        "loc_number": 1,
+        "location": "Corporate Headquarters",
+        "building": 0,
+        "contents": 1240000,
+        "bus_income": 2340000,
+        "tiv": 3580000,
+        "strikethrough": false
+      },
+      {
+        "loc_number": 2,
+        "location": "Main Equipment Yard & Warehouse",
+        "building": 5280000,
+        "contents": 8450000,
+        "bus_income": 3800000,
+        "tiv": 17530000,
+        "strikethrough": true
+      },
+      {
+        "loc_number": 3,
+        "location": "Fabrication Shop",
+        "building": 2240000,
+        "contents": 3840000,
+        "bus_income": 1525000,
+        "tiv": 8000000,
+        "strikethrough": false
+      },
+      {
+        "loc_number": 4,
+        "location": "South Hills Branch Office",
+        "building": 1300000,
+        "contents": 425000,
+        "bus_income": 890000,
+        "tiv": 2975000,
+        "strikethrough": true
+      },
+      {
+        "loc_number": 5,
+        "location": "Equipment Storage - Cranberry",
+        "building": 1085000,
+        "contents": 4490000,
+        "bus_income": 1120000,
+        "tiv": 7280000,
+        "strikethrough": false
+      }
+    ],
+    "schedule_totals": {
+      "total_building": 10820000,
+      "total_contents": 19455000,
+      "total_bus_income": 10130000,
+      "total_tiv": 39405000
+    }
+  },
+  "remarks": "Locations 2 (Main Equipment Yard & Warehouse) and 4 (South Hills Branch Office) appear with strikethrough formatting on the schedule, indicating possible removal or exclusion. All five locations are reflected in the printed schedule totals."
+}

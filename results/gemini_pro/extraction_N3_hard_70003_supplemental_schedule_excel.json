@@ -1,0 +1,53 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [
+      "Cancellation recorded in 2022 with Zurich Insurance Group.",
+      "High claim count (11 claims) recorded in 2024."
+    ],
+    "loss_history_summary": "Prior insurance history spanning 2020 to 2024 indicates variable claims frequency, ranging from 2 claims in 2020 up to 11 claims in 2024. A policy cancellation was noted in 2022. Past carriers include Markel, Zurich, Chubb, and EMPLOYERS, with annual premiums ranging approximately between $580,000 and $630,000."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "PRIOR INSURANCE HISTORY\n2024: 11 claims, No cancellation\n2023: Markel Corporation, Premium $619,820.26, 3 claims, No cancellation\n2022: Zurich Insurance Group, Premium $607,294.45, 6 claims, Yes cancellation\n2021: Chubb Limited, Premium $630,843.20, 9 claims, No cancellation\n2020: EMPLOYERS Insurance Group, Premium $580,805.53, 2 claims, No cancellation"
+  }
+}

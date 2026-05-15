@@ -1,0 +1,183 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2014/01",
+    "form_title": "Insurance Binder"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Patricia Nowak",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "BND-73675-1243",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Building",
+      "limit": 10820000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial Property - Business Personal Property",
+      "limit": 18455000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial Property - Business Income",
+      "limit": 10130000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Each Occurrence",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - General Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Products/Completed Operations Aggregate",
+      "limit": 4000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Personal & Advertising Injury",
+      "limit": 2000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Damage to Rented Premises",
+      "limit": 300000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "General Liability - Medical Expense (Any One Person)",
+      "limit": 15000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Automobile Liability - Combined Single Limit",
+      "limit": 5000000,
+      "deductible": 2500,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation & Employers Liability - EL Each Accident",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation & Employers Liability - EL Disease Per Employee",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation & Employers Liability - EL Disease Policy Limit",
+      "limit": 1000000,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "gl_occurrence": "checked",
+    "gl_claims_made": "unchecked",
+    "wc_per_statute": "checked"
+  },
+  "additional_fields": {
+    "form_date": "2026-03-14",
+    "binder_number": "BND-73675-1243",
+    "binder_date": "2025-08-01",
+    "naic_code": "28339",
+    "agency_name": "Steel City Insurance Group",
+    "agency_address": "One PPG Place, Suite 3100",
+    "agency_city_state_zip": "Pittsburgh, PA 15222",
+    "agency_phone": "(412) 555-0287",
+    "agency_fax": "(412) 580-2110",
+    "agency_email": "pnowak@steelcityins.com",
+    "property_basis_of_loss": "Basic Broad X Special",
+    "property_coinsurance_pct": "80",
+    "gl_policy_number": "GL-KCB-2025-5581",
+    "auto_policy_number": "CA-KCB-2025-5582",
+    "wc_policy_number": "WC-KCB-2025-5580",
+    "expiring_policies": [
+      {
+        "coverage": "Workers Compensation",
+        "expiring_carrier": "Nationwide Insurance",
+        "expiring_policy_number": "0000004484"
+      },
+      {
+        "coverage": "General Liability",
+        "expiring_carrier": "Markel Corporation",
+        "expiring_policy_number": "7GL0009677"
+      },
+      {
+        "coverage": "Business Auto",
+        "expiring_carrier": "Travelers Companies",
+        "expiring_policy_number": "CA0002526-001"
+      },
+      {
+        "coverage": "Commercial Property",
+        "expiring_carrier": "Zurich Insurance Group",
+        "expiring_policy_number": "CP00001358"
+      }
+    ],
+    "mortgagees": [
+      {
+        "mortgagee_number": 1,
+        "name": "Fifth Third Bank",
+        "address": "P.O. Box 20208",
+        "city": "Fargo",
+        "state": "ND",
+        "zip": "58102"
+      },
+      {
+        "mortgagee_number": 2,
+        "name": "De Lage Landen Financial Services",
+        "address": "P.O. Box 67828",
+        "city": "Elk Grove",
+        "state": "CA",
+        "zip": "95624"
+      },
+      {
+        "mortgagee_number": 3,
+        "name": "Lakeside Property Management, LLC",
+        "address": "P.O. Box 79073",
+        "city": "Spokane",
+        "state": "WA",
+        "zip": "99201"
+      }
+    ],
+    "authorized_representative_name": "Joseph Kowalczyk",
+    "authorized_representative_title": "President & CEO",
+    "authorized_representative_date": "2026-03-14",
+    "authorized_representative_agency": "Patricia Nowak"
+  },
+  "remarks": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania"
+}

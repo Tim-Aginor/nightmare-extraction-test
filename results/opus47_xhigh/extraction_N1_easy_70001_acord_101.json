@@ -1,0 +1,106 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2016/03",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": "AC-818728",
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": "CP-LSPH-2025-7801",
+    "effective_date": "2025-07-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Limited Partnership",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas."
+  },
+  "coverages_requested": [],
+  "checkboxes": {},
+  "additional_fields": {
+    "naic_code": "68074",
+    "attached_to_form_number": "ACORD 140",
+    "attached_to_form_title": "Property Section",
+    "schedule_date": "2026-03-15",
+    "endorsement_schedule": [
+      {
+        "form_number": "CG 21 39 10 93",
+        "description": "Contractual Liability Limitation"
+      },
+      {
+        "form_number": "CG 20 37 04 13",
+        "description": "Additional Insured - Owners, Lessees or Contractors - Completed Operations"
+      },
+      {
+        "form_number": "WC 00 01 00",
+        "description": "Workers Compensation and Employers Liability Insurance Policy"
+      },
+      {
+        "form_number": "CP 12 18 06 07",
+        "description": "Loss Payable Provisions"
+      },
+      {
+        "form_number": "IM 99 01 09 09",
+        "description": "Inland Marine Equipment Floater"
+      },
+      {
+        "form_number": "IL 00 17 11 98",
+        "description": "Common Policy Conditions"
+      }
+    ],
+    "additional_insured": "Summit Properties LLC is included as Additional Insured per written contract, agreement, or permit as respects General Liability.",
+    "special_conditions": [
+      "30 days advance written notice of cancellation will be provided to the certificate holder.",
+      "Waiver of Subrogation applies in favor of the certificate holder as required by written contract."
+    ],
+    "locations": [
+      {
+        "location_id": "LOC-001",
+        "description": "Preston Center Tower",
+        "address": "8117 Preston Road",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75225",
+        "occupancy": "Office"
+      },
+      {
+        "location_id": "LOC-002",
+        "description": "Galleria Office Park - Building A",
+        "address": "5050 Westheimer Road",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77056",
+        "occupancy": "Office"
+      },
+      {
+        "location_id": "LOC-003",
+        "description": "Galleria Office Park - Building B",
+        "address": "5060 Westheimer Road",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77056",
+        "occupancy": "Office"
+      },
+      {
+        "location_id": "LOC-004",
+        "description": "Legacy Town Center Retail",
+        "address": "7301 Lone Star Drive",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "75024",
+        "occupancy": "Mercantile"
+      }
+    ]
+  },
+  "remarks": "ENDORSEMENT SCHEDULE: 1. CG 21 39 10 93 \u2014 Contractual Liability Limitation; 2. CG 20 37 04 13 \u2014 Additional Insured - Owners, Lessees or Contractors - Completed Operations; 3. WC 00 01 00 \u2014 Workers Compensation and Employers Liability Insurance Policy; 4. CP 12 18 06 07 \u2014 Loss Payable Provisions; 5. IM 99 01 09 09 \u2014 Inland Marine Equipment Floater; 6. IL 00 17 11 98 \u2014 Common Policy Conditions. ADDITIONAL INSURED: Summit Properties LLC is included as Additional Insured per written contract, agreement, or permit as respects General Liability. SPECIAL CONDITIONS: 30 days advance written notice of cancellation will be provided to the certificate holder. Waiver of Subrogation applies in favor of the certificate holder as required by written contract. NATURE OF OPERATIONS: Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas. Entity type: Limited Partnership."
+}

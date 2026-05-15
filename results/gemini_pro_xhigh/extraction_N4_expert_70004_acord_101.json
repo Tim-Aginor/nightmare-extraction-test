@@ -1,0 +1,56 @@
+{
+  "form_info": {
+    "form_number": "ACORD 101",
+    "form_edition": "2008/01",
+    "form_title": "ADDITIONAL REMARKS SCHEDULE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-KCB-2025-5581",
+    "effective_date": "2025-08-01",
+    "expiration_date": null,
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": null
+  },
+  "applicant_info": {
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania.",
+    "entity_type": "Corporation"
+  },
+  "additional_remarks": [
+    {
+      "section_reference": "ENDORSEMENT SCHEDULE",
+      "remark": "1. CG 24 26 04 13 - Amendment of Aggregate Limits of Insurance - Per Project\n2. IL 00 21 09 08 - Nuclear Energy Liability Exclusion Endorsement\n3. CG 25 03 05 09 - Designated Construction Project(s) General Aggregate Limit\n4. WC 00 01 00 - Workers Compensation and Employers Liability Insurance Policy\n5. CG 24 04 05 09 - Waiver of Transfer of Rights of Recovery Against Others to Us\n6. WC 00 03 01A - Alternate Employer Endorsement"
+    },
+    {
+      "section_reference": "ADDITIONAL INSURED",
+      "remark": "Additional Insured status is extended to Woodbridge Realty Management Inc. as required by written contract. Coverage is primary and non-contributory."
+    },
+    {
+      "section_reference": "SPECIAL CONDITIONS",
+      "remark": "- Primary and Non-Contributory wording applies per policy endorsement."
+    },
+    {
+      "section_reference": "LOCATION DESCRIPTIONS",
+      "remark": "LOC 001: Corporate Headquarters - 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222 (Occupancy: Office)\nLOC 002: Main Equipment Yard & Warehouse - 4500 Butler Street, Pittsburgh, PA 15201 (Occupancy: Warehouse)\nLOC 003: Fabrication Shop - 4520 Butler Street, Pittsburgh, PA 15201 (Occupancy: Manufacturing)\nLOC 004: South Hills Branch Office - 5000 Village Run Road, Wexford, PA 15090 (Occupancy: Office)"
+    },
+    {
+      "section_reference": "SUBCONTRACTOR REQUIREMENTS",
+      "remark": "Evidence of Workers' Compensation coverage is required from all subcontractors prior to commencing work on the project."
+    },
+    {
+      "section_reference": "NATURE OF OPERATIONS",
+      "remark": "The insured's principal operations consist of: General contracting for commercial and institutional construction - healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Entity type: Corporation."
+    }
+  ],
+  "checkboxes": [],
+  "remarks": null
+}

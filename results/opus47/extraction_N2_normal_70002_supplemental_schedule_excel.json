@@ -1,0 +1,70 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial property ownership and leasing, including warehouse and manufacturing facilities",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "2024 policy CP00007001, no claims, no cancellation"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "No claims reported in 2024, 2023, or 2022",
+      "No cancellations in prior 4 years",
+      "Premium trending downward from 2021 to 2024",
+      "Stable carrier history with major national insurers"
+    ],
+    "concerns": [
+      "One claim reported in 2021 under Hartford Financial Services policy",
+      "Location LOC-008 (Uniontown, OH) has no ownership/lease designation specified",
+      "Multiple carrier changes over the last 4 years"
+    ],
+    "loss_history_summary": "One claim in 2021; zero claims in 2022, 2023, and 2024. No cancellations across all prior years."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Buckeye Industrial Properties, LLC operates a portfolio of 9 industrial locations across Ohio, including warehouse, manufacturing, and office occupancies totaling approximately 1,948,500 square feet. The majority of locations are leased, with one owned property in Toledo.",
+    "operations_description": "Operations include warehouse facilities (LOC-001, LOC-002, LOC-003, LOC-005, LOC-006, LOC-008), manufacturing facilities (LOC-004, LOC-007), and corporate office (LOC-009). Locations are concentrated in Columbus, Brooklyn, Dayton, Cincinnati, Toledo, and Uniontown, Ohio.",
+    "safety_programs": null,
+    "claims_narrative": "Prior 4-year loss history shows a single claim in 2021 while insured with Hartford Financial Services. No claims reported in 2022 (Chubb), 2023 (Hartford), or 2024 (Liberty Mutual). No policy cancellations."
+  }
+}

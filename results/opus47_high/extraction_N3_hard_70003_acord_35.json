@@ -1,0 +1,70 @@
+{
+  "form_info": {
+    "form_number": "ACORD 35",
+    "form_edition": "2016/03",
+    "form_title": "Cancellation Request / Policy Release"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": "AG-5508369",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "WC-HCHP-2025-3350",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "CGL",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "WC",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Property",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "policy_type_CGL": "checked",
+    "policy_type_Auto": "unchecked",
+    "policy_type_WC": "checked",
+    "policy_type_Property": "checked",
+    "policy_type_Umbrella": "unchecked",
+    "reason_insureds_request": "checked",
+    "reason_non_payment_of_premium": "unchecked",
+    "reason_underwriting": "unchecked",
+    "reason_non_renewal": "unchecked",
+    "reason_other": "unchecked"
+  },
+  "additional_fields": {
+    "agency_phone": "(512) 555-0634",
+    "agency_fax": "(512) 695-7763",
+    "naic_code": "28339",
+    "cancellation_date": "2026-04-04",
+    "cancellation_time": "09:07 PM",
+    "signature": "Marcus Jennings",
+    "signature_date": "2026-03-15"
+  },
+  "remarks": "The above-named insured/agent requests cancellation of the policy described above. Any return premium due is to be calculated on a pro-rata basis unless otherwise indicated."
+}

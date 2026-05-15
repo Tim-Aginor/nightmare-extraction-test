@@ -1,0 +1,65 @@
+{
+  "form_info": {
+    "form_number": "ACORD Additional Remarks Schedule",
+    "form_edition": "2014/03",
+    "form_title": "Additional Remarks Schedule"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "AC-4073032",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "GL-RCB-2025-5581",
+    "effective_date": "2025-08-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "28339",
+    "years_in_business": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania."
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Workers Compensation and Employers Liability Insurance Policy",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Commercial General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "attached_to_form_number": "ACORD 130",
+    "attached_form_title": "Workers Compensation Application",
+    "endorsement_schedule": [
+      "CG 24 26 04 13 \u2014 Amendment of Aggregate Limits of Insurance - Per Project",
+      "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion Endorsement",
+      "CG 25 03 05 09 \u2014 Designated Construction Project(s) General Aggregate Limit",
+      "WC 00 01 00 \u2014 Workers Compensation and Employers Liability Insurance Policy",
+      "CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+      "WC 00 03 01A \u2014 Alternate Employer Endorsement"
+    ],
+    "additional_insured": "Additional Insured status is extended to Woodbridge Realty Management Inc. as required by written contract. Coverage is primary and non-contributory.",
+    "special_conditions": "Primary and Non-Contributory wording applies per policy endorsement.",
+    "location_descriptions": [
+      "LOC-001: Corporate Headquarters \u2014 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222 (Occupancy: Office)",
+      "LOC-002: Main Equipment Yard & Warehouse \u2014 4900 Butler Street, Pittsburgh, PA 15201 (Occupancy: Warehouse)",
+      "LOC-003: Fabrication Shop \u2014 4520 Butler Street, Pittsburgh, PA 15201 (Occupancy: Manufacturing)",
+      "LOC-004: South Hills Branch Office \u2014 3000 Village Run Road, Wexford, PA 15090 (Occupancy: Office)"
+    ],
+    "subcontractor_requirements": "Evidence of Workers Compensation coverage is required from all subcontractors prior to commencing work on the project."
+  },
+  "remarks": "ENDORSEMENT SCHEDULE: CG 24 26 04 13 \u2014 Amendment of Aggregate Limits of Insurance - Per Project; IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion Endorsement; CG 25 03 05 09 \u2014 Designated Construction Project(s) General Aggregate Limit; WC 00 01 00 \u2014 Workers Compensation and Employers Liability Insurance Policy; CG 24 04 05 09 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us; WC 00 03 01A \u2014 Alternate Employer Endorsement. ADDITIONAL INSURED: Additional Insured status is extended to Woodbridge Realty Management Inc. as required by written contract. Coverage is primary and non-contributory. SPECIAL CONDITIONS: Primary and Non-Contributory wording applies per policy endorsement. LOCATION DESCRIPTIONS: LOC-001: Corporate Headquarters \u2014 300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222 (Occupancy: Office); LOC-002: Main Equipment Yard & Warehouse \u2014 4900 Butler Street, Pittsburgh, PA 15201 (Occupancy: Warehouse); LOC-003: Fabrication Shop \u2014 4520 Butler Street, Pittsburgh, PA 15201 (Occupancy: Manufacturing); LOC-004: South Hills Branch Office \u2014 3000 Village Run Road, Wexford, PA 15090 (Occupancy: Office). SUBCONTRACTOR REQUIREMENTS: Evidence of Workers Compensation coverage is required from all subcontractors prior to commencing work on the project. NATURE OF OPERATIONS: General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Entity type: Corporation."
+}

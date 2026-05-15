@@ -1,0 +1,89 @@
+{
+  "document_info": {
+    "document_type": "Transfer Submission",
+    "date": "2026-03-15",
+    "prepared_by": "Marcus Jennings, Senior Vice President, Capitol Insurance Advisors",
+    "recipient": "Underwriting Department, Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "business_description": {
+    "nature_of_business": "Boutique hotel ownership and management venture with integrated restaurant and event operations across Central and South Texas",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 16,
+    "annual_revenue": null,
+    "employee_count": 285
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Workers' Compensation coverage is requested for approximately 285 employees across all operations."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": "1000000 per occurrence / 2000000 general aggregate",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Commercial General Liability requested."
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Commercial Property coverage for all scheduled locations on a special form with replacement cost valuation."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Contractual risk transfer provisions are included in all subcontractor and vendor agreements.",
+      "Employee assistance program and workplace wellness initiative have been in place for over five years.",
+      "Comprehensive fleet management program with GPS tracking and driver training has been in place since 2023.",
+      "Dedicated safety committee meets monthly and conducts quarterly site audits.",
+      "Formal return-to-work program has reduced lost-time claims by over 30%.",
+      "Favorable experience modification factor of 0.94.",
+      "Structured HR program supports low turnover and consistent safety training."
+    ],
+    "concerns": [
+      "Claims history warrants review.",
+      "38 total claims over the review period, with 11 claims still open.",
+      "Account experienced a cancellation in 2022-2023 with Zurich Insurance Group; reason noted as insured cancelled and moved to current carrier."
+    ],
+    "loss_history_summary": "Over the review period, the insured incurred 38 total claims with 511891.20 in total paid losses and 714517.96 total incurred. Currently, 11 claims remain open and 27 have been closed. Annualized loss ratio is 21.6% based on average annual incurred of 142903.59 against current annual premium of 660422.75 over 5 loss years. Breakdown by coverage line: Workers' Compensation - 28 claims, 324545.30 paid, 415934.50 incurred; General Liability - 8 claims, 8779.76 paid, 82656.15 incurred; Commercial Property - 2 claims, 178566.14 paid, 215927.31 incurred."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "We are pleased to submit Hill Country Hospitality Partners, LLC for your review and consideration. The insured is a boutique hotel ownership and management venture with integrated restaurant and event operations across Central and South Texas, headquartered in Austin, with approximately 16 years of operating history. Coverage is requested for Workers' Compensation, General Liability, Commercial Property.",
+    "operations_description": "The insured is a boutique hotel ownership and management venture with integrated restaurant and event operations across Central and South Texas, headquartered in Austin, with approximately 16 years of operating history.",
+    "safety_programs": "The insured carries contractual risk transfer provisions in all subcontractor and vendor agreements. An employee assistance program and workplace wellness initiative have been in place for over five years. A comprehensive fleet management program with GPS tracking and driver training has been in place since 2023. The insured maintains a dedicated safety committee that meets monthly and conducts quarterly site audits. The insured has implemented a formal return-to-work program that has reduced lost-time claims by over 30%. Favorable experience modification factor of 0.94, reflecting a strong loss control program relative to class peers. With 285 employees and a structured HR program, the insured maintains low turnover and consistent safety training.",
+    "claims_narrative": "The claims history warrants review; management has implemented corrective measures to address identified exposures. Over the review period, the insured has incurred 38 total claims with 511891.20 in total paid losses and 714517.96 total incurred. Currently, 11 claims remain open and 27 have been closed. Annualized loss ratio is 21.6% (avg annual incurred 142903.59 against current annual premium 660422.75 over 5 loss years). Breakdown by coverage line: Workers' Compensation: 28 claims, 324545.30 paid, 415934.50 incurred. General Liability: 8 claims, 8779.76 paid, 82656.15 incurred. Commercial Property: 2 claims, 178566.14 paid, 215927.31 incurred. Note: account experienced a cancellation in 2022-2023 with Zurich Insurance Group. Reason: Insured cancelled \u2014 moved to current carrier."
+  }
+}

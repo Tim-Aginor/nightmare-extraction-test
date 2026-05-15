@@ -1,0 +1,61 @@
+{
+  "document_info": {
+    "document_type": "Commercial Property Policy",
+    "date": "2025-06-18",
+    "prepared_by": "Transportation Insurance Specialists",
+    "recipient": "Great Lakes Freight Systems, Inc."
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": "4215",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": "Building: $54,110,000, Contents: $30,320,000, Business Income: $57,954,000",
+      "requested_limit": null,
+      "current_carrier": "Standard Insurance Company",
+      "expiring_premium": null,
+      "notes": "Policy Premium: $235,710.77. Coinsurance: 80%. Deductible: $50,000.00."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 142384000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-06-01",
+    "current_policy_expiration": "2026-06-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Regional trucking and freight logistics - LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

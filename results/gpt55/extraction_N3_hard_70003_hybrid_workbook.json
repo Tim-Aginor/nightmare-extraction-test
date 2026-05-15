@@ -1,0 +1,87 @@
+{
+  "business_description": {
+    "annual_revenue": 42000000,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Hospitality group operating hotels, restaurants, and a corporate office in Texas.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_carrier": "Travelers Companies",
+      "current_limit": null,
+      "expiring_premium": 686236.25,
+      "notes": "Property schedule includes 8 locations with total insured value of 168230000. Property loss summary shows 2 claims, 178566 paid, 215927 incurred.",
+      "requested_limit": "168230000 TIV"
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_carrier": "Travelers Companies",
+      "current_limit": null,
+      "expiring_premium": 686236.25,
+      "notes": "Loss summary shows 8 GL claims, 8780 paid, 82656 incurred.",
+      "requested_limit": null
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "current_carrier": "Travelers Companies",
+      "current_limit": null,
+      "expiring_premium": 686236.25,
+      "notes": "Loss summary shows 28 WC claims, 324545 paid, 415934 incurred.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel submission workbook / insurance schedules",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Loss Summary: WC - 28 claims, 324545 total paid, 415934 total incurred; GL - 8 claims, 8780 total paid, 82656 total incurred; Property - 2 claims, 178566 total paid, 215927 total incurred. Insurance History: 2024 Travelers Companies premium 686236.25 with 11 claims; 2023 Markel Corporation premium 619820.26 with 3 claims; 2022 Zurich Insurance Group premium 607294.45 with 6 claims; 2021 Chubb Limited premium 630843.2 with 9 claims; 2020 EMPLOYERS Insurance Group premium 580805.53 with 2 claims.",
+    "executive_summary": null,
+    "operations_description": "Insured operates a Texas hospitality portfolio consisting of hotels, restaurants, and a corporate headquarters. Scheduled locations include The Driskill Austin, Riverwalk Suites San Antonio, Fredericksburg Inn & Spa, South Congress Motor Hotel, Blanco River Steakhouse, The Oasis at Lake Travis, Mission Cantina - Pearl District, and Corporate Headquarters.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": 0,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "name": "Hill Country Hospitality Partners, LLC",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 168230000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Hospitality operations include hotel and restaurant exposures.",
+      "Workers compensation loss activity includes 28 claims with 415934 total incurred.",
+      "2024 insurance history shows 11 claims, higher than several prior years.",
+      "All scheduled operations are located in Texas, creating geographic concentration."
+    ],
+    "loss_history_summary": "Loss summary reports 38 total claims across WC, GL, and Property with 512891 total paid and 714517 total incurred. WC is the largest loss driver with 28 claims and 415934 incurred. Five-year insurance history reports annual claims counts of 11 in 2024, 3 in 2023, 6 in 2022, 9 in 2021, and 2 in 2020.",
+    "positives": [
+      "All scheduled properties are sprinklered.",
+      "Most locations are fire resistive, masonry non-combustible, or non-combustible construction.",
+      "Financial statements show 42000000 in revenue, 3220600 net income, and 52535400 equity.",
+      "Portfolio includes multiple locations and a mix of hotels, restaurants, and office occupancy."
+    ]
+  }
+}

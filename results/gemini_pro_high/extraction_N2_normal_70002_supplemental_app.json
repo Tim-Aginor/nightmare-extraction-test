@@ -1,0 +1,73 @@
+{
+  "document_info": {
+    "document_type": "Supplemental Application - Commercial Lines",
+    "date": "2026-03-15",
+    "prepared_by": "Karen Weissman",
+    "recipient": "Maine Employers Mutual"
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 31,
+    "annual_revenue": 48000000,
+    "employee_count": 113
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "2024 prior insurance policy data. No current/requested limits specified."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place",
+      "90% of units are regularly occupied",
+      "24-hour doorperson or security on premises",
+      "Fire alarms hard-wired with central station monitoring",
+      "Written contracts with indemnification required from all contractors"
+    ],
+    "concerns": [
+      "Building is not fully sprinklered per NFPA 13 or 13R",
+      "Short-term rentals (less than 1 year) are permitted",
+      "No written contracts with all subcontractors",
+      "Material Safety Data Sheets (MSDS) are not maintained",
+      "No lockout/tagout procedures in place"
+    ],
+    "loss_history_summary": "Clean loss history with 0 claims reported across prior insurance terms from 2022 to 2024 with Liberty Mutual, Hartford, and Chubb."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-09-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio",
+    "safety_programs": "Yes to formal safety program. Fire alarms hard-wired with central station monitoring. No Material Safety Data Sheets (MSDS) maintained. No lockout/tagout procedures in place.",
+    "claims_narrative": "Zero claims reported in prior history (2022, 2023, 2024)."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "form_info": {
+    "form_number": "ACORD 75",
+    "form_edition": "2016/03",
+    "form_title": "INSURANCE BINDER"
+  },
+  "header": {
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "carrier_name": "Apex Managing General Agency",
+    "policy_number": null,
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01",
+    "producer_name": "Texas Commercial Insurance Partners",
+    "producer_code": null
+  },
+  "binder_number": "BND-35364-6419",
+  "binder_date": "2025-07-01",
+  "expiring_carriers": [
+    {
+      "lob": "Commercial Property",
+      "carrier": "CNA Financial",
+      "policy_number": "CP-5690-6189"
+    }
+  ],
+  "endorsements": [
+    {
+      "form_number": "CP 00 10 10 12",
+      "title": "Building and Personal Property Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss \u2014 Special Form",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 01 40 07 06",
+      "title": "Ordinance or Law Coverage",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act",
+      "coverage": "Commercial Property"
+    },
+    {
+      "form_number": "CP 03 21 06 07",
+      "title": "Windstorm or Hail Percentage Deductible",
+      "coverage": "Commercial Property"
+    }
+  ],
+  "mortgagees": [
+    {
+      "name": "M&T Bank Corporation",
+      "address": "P.O. Box 40172, Philadelphia, PA 19101",
+      "loan_number": null
+    },
+    {
+      "name": "Stearns Bank, N.A.",
+      "address": "P.O. Box 92568, El Paso, TX 79901",
+      "loan_number": null
+    }
+  ],
+  "property_premium": null,
+  "property_deductible": 50000,
+  "form_type_property": "Special",
+  "limit_property_building": 222340000,
+  "limit_property_contents": 33432000,
+  "limit_property_business_income": 59212000,
+  "limit_property_coinsurance": null,
+  "coinsurance_property": 90,
+  "checkboxes": [],
+  "remarks": "Description of Operations: Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas"
+}

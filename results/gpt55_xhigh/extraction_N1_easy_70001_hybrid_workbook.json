@@ -1,0 +1,71 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Commercial real estate/property holdings with scheduled office and mercantile properties in Texas.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property / Business Income",
+      "current_carrier": null,
+      "current_limit": "229053199",
+      "expiring_premium": null,
+      "notes": "Requested TIV is from the current Locations schedule and includes Building Value 222340000, Contents Value 33432000, and BI Value 59212000. Current/prior-year TIV total is from the Prior Year SOV.",
+      "requested_limit": "314984000"
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Property Statement of Values / Schedule of Locations",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": "Property schedule for Lone Star Property Holdings, LP with 8 scheduled Texas locations and total current TIV of 314984000. Changes from prior year effective 2026-03-15 include an added warehouse facility, deletion of an old closed location, and updated TIV per appraisal.",
+    "operations_description": "Scheduled locations consist of office and mercantile properties in Dallas, Houston, Plano, Fort Worth, and Southlake, Texas.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": "Lone Star Property Holdings, LP",
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Geographic concentration in Texas, including Dallas and Houston exposures.",
+      "High aggregate property TIV of 314984000, with the largest single location at 86450000 TIV.",
+      "Current TIV is higher than the prior-year SOV total of 229053199.",
+      "Two scheduled locations list shingle roof type."
+    ],
+    "loss_history_summary": "No claims or loss history information provided in the supplied materials.",
+    "positives": [
+      "All 8 scheduled locations indicate sprinkler protection.",
+      "Portfolio is predominantly fire resistive, masonry non-combustible, or non-combustible construction.",
+      "TIV was updated per appraisal effective 2026-03-15.",
+      "Most scheduled buildings were built from 2001 through 2018."
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "28339",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": null,
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Special Form - Actual Cash Value",
+      "limit": null,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "agency_customer_id": "AC-070004",
+    "causes_of_loss": "Special",
+    "valuation": "Actual Cash Value",
+    "deductible": 25000,
+    "coinsurance": "80%",
+    "additional_interest": "Corporate Headquarters",
+    "building_location_schedule": [
+      {
+        "loc_number": 1,
+        "location": "Corporate Headquarters",
+        "building": 0,
+        "contents": 1240000,
+        "business_income": 2340000,
+        "ttv": 3400000
+      },
+      {
+        "loc_number": 2,
+        "location": "Main Equipment Yard & Warehouse",
+        "building": 5300000,
+        "contents": 8450000,
+        "business_income": 5900000,
+        "ttv": 17350000
+      },
+      {
+        "loc_number": 3,
+        "location": "Fabrication Shop",
+        "building": 2340000,
+        "contents": 7840000,
+        "business_income": 1925000,
+        "ttv": 8000000
+      },
+      {
+        "loc_number": 4,
+        "location": "South Hills Branch Office",
+        "building": 1300000,
+        "contents": 425000,
+        "business_income": 890000,
+        "ttv": 2975000
+      },
+      {
+        "loc_number": 5,
+        "location": "Equipment Storage - Cranberry",
+        "building": 1080000,
+        "contents": 4090000,
+        "business_income": 1120000,
+        "ttv": 7280000
+      },
+      {
+        "loc_number": "TOTAL",
+        "location": "TOTAL",
+        "building": 10820000,
+        "contents": 19455000,
+        "business_income": 10130000,
+        "ttv": 39405000
+      }
+    ]
+  },
+  "remarks": null
+}

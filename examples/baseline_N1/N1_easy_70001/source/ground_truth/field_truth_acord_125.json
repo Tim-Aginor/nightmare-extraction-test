@@ -1,0 +1,421 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Lone Star Property Holdings, LP",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 170.7,
+          "width": 129.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "carrier_name": {
+      "value": "Apex Managing General Agency",
+      "locations": [
+        {
+          "page": 1,
+          "x": 280.1,
+          "y": 106.7,
+          "width": 129.6,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_address": {
+      "value": "2200 Ross Avenue, Suite 4500",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 197.7,
+          "width": 124.1,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_city": {
+      "value": "Dallas",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 197.7,
+          "width": 25.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_state": {
+      "value": "TX",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 224.7,
+          "width": 11.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "insured_zip": {
+      "value": "75201",
+      "locations": [
+        {
+          "page": 1,
+          "x": 221.6,
+          "y": 224.7,
+          "width": 25.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "policy_period_start": {
+      "value": "2025-07-01",
+      "rendered_as": "07/01/2025",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 397.7,
+          "width": 45.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "policy_period_end": {
+      "value": "2026-07-01",
+      "rendered_as": "07/01/2026",
+      "locations": [
+        {
+          "page": 1,
+          "x": 308.0,
+          "y": 397.7,
+          "width": 45.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "entity_type": {
+      "value": "Limited Partnership",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 251.7,
+          "width": 77.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "fein": {
+      "value": "75-4829163",
+      "locations": [
+        {
+          "page": 1,
+          "x": 394.4,
+          "y": 224.7,
+          "width": 48.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "sic_code": {
+      "value": "6512",
+      "locations": [
+        {
+          "page": 1,
+          "x": 221.6,
+          "y": 251.7,
+          "width": 20.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "naics_code": {
+      "value": "531120",
+      "locations": [
+        {
+          "page": 1,
+          "x": 394.4,
+          "y": 251.7,
+          "width": 30.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "nature_of_business": {
+      "value": "Commercial real estate investment and property management \u2014 office, retail, and mixed-use properties across the Dallas-Fort Worth and Houston metropolitan areas",
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 278.7,
+          "width": 503.7,
+          "height": 21.0
+        }
+      ]
+    },
+    "years_in_business": {
+      "value": 24,
+      "locations": [
+        {
+          "page": 1,
+          "x": 48.8,
+          "y": 317.7,
+          "width": 10.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "annual_revenue": {
+      "value": 67000000,
+      "rendered_as": "$67,000,000.00"
+    },
+    "num_employees_ft": {
+      "value": 145,
+      "locations": [
+        {
+          "page": 1,
+          "x": 221.6,
+          "y": 344.7,
+          "width": 15.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "num_employees_pt": {
+      "value": 28,
+      "locations": [
+        {
+          "page": 1,
+          "x": 394.4,
+          "y": 344.7,
+          "width": 10.0,
+          "height": 9.0
+        }
+      ]
+    },
+    "website": {
+      "value": "www.lonestarpropertyhold.com",
+      "locations": [
+        {
+          "page": 1,
+          "x": 394.4,
+          "y": 317.7,
+          "width": 123.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "contact_name": {
+      "value": "Richard Thornton",
+      "locations": [
+        {
+          "page": 2,
+          "x": 48.8,
+          "y": 463.7,
+          "width": 69.5,
+          "height": 9.0
+        },
+        {
+          "page": 2,
+          "x": 48.8,
+          "y": 490.7,
+          "width": 69.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "contact_title": {
+      "value": "Managing Partner",
+      "locations": [
+        {
+          "page": 2,
+          "x": 308.0,
+          "y": 490.7,
+          "width": 71.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_name": {
+      "value": "Texas Commercial Insurance Partners",
+      "locations": [
+        {
+          "page": 1,
+          "x": 98.6,
+          "y": 125.7,
+          "width": 153.5,
+          "height": 9.0
+        }
+      ]
+    },
+    "producer_contact": {
+      "value": "Sandra Villareal",
+      "locations": [
+        {
+          "page": 1,
+          "x": 368.2,
+          "y": 125.7,
+          "width": 63.5,
+          "height": 9.0
+        },
+        {
+          "page": 2,
+          "x": 48.8,
+          "y": 517.7,
+          "width": 63.5,
+          "height": 9.0
+        }
+      ]
+    }
+  },
+  "doc_type": "acord_125",
+  "uw_questions": [
+    {
+      "question": "Any swimming pools, playgrounds, or athletic facilities?",
+      "answer": "No"
+    },
+    {
+      "question": "Any professional services provided?",
+      "answer": "No"
+    },
+    {
+      "question": "Any work involving asbestos, lead, or mold remediation?",
+      "answer": "No"
+    },
+    {
+      "question": "Any pending litigation or regulatory actions?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant lease employees to or from other firms?",
+      "answer": "No"
+    },
+    {
+      "question": "Any losses or claims in the past 5 years?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does applicant own or operate any aircraft or watercraft?",
+      "answer": "No"
+    },
+    {
+      "question": "Any foreign operations or exposures?",
+      "answer": "No"
+    },
+    {
+      "question": "Are metal fabrication or welding operations performed on premises?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant operate as a franchisor or sell franchise rights to franchisees?",
+      "answer": "No"
+    },
+    {
+      "question": "Does applicant own or operate any unmanned aircraft systems (UAS/drones)?",
+      "answer": "No"
+    }
+  ],
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "name": "Preston Center Tower",
+      "address": "8117 Preston Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75225",
+      "building_value": 62700000,
+      "contents_value": 8550000,
+      "bi_value": 15200000,
+      "tiv": 86450000
+    },
+    {
+      "schedule_id": "LOC-002",
+      "name": "Galleria Office Park - Building A",
+      "address": "5050 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77056",
+      "building_value": 33600000,
+      "contents_value": 5040000,
+      "bi_value": 8400000,
+      "tiv": 47040000
+    },
+    {
+      "schedule_id": "LOC-003",
+      "name": "Galleria Office Park - Building B",
+      "address": "5060 Westheimer Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77056",
+      "building_value": 28400000,
+      "contents_value": 4260000,
+      "bi_value": 7100000,
+      "tiv": 39760000
+    },
+    {
+      "schedule_id": "LOC-004",
+      "name": "Legacy Town Center Retail",
+      "address": "7301 Lone Star Drive",
+      "city": "Plano",
+      "state": "TX",
+      "zip_code": "75024",
+      "building_value": 19000000,
+      "contents_value": 2850000,
+      "bi_value": 5700000,
+      "tiv": 27550000
+    },
+    {
+      "schedule_id": "LOC-005",
+      "name": "Uptown Mixed-Use Development",
+      "address": "3200 McKinney Avenue",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75204",
+      "building_value": 31000000,
+      "contents_value": 4650000,
+      "bi_value": 9300000,
+      "tiv": 44950000
+    },
+    {
+      "schedule_id": "LOC-006",
+      "name": "Energy Corridor Business Center",
+      "address": "1400 Enclave Parkway",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77077",
+      "building_value": 19040000,
+      "contents_value": 2856000,
+      "bi_value": 5712000,
+      "tiv": 27608000
+    },
+    {
+      "schedule_id": "LOC-007",
+      "name": "Fort Worth Medical Office Building",
+      "address": "800 8th Avenue",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip_code": "76104",
+      "building_value": 17160000,
+      "contents_value": 3510000,
+      "bi_value": 4680000,
+      "tiv": 25350000
+    },
+    {
+      "schedule_id": "LOC-008",
+      "name": "Southlake Town Square - East Wing",
+      "address": "1256 Main Street",
+      "city": "Southlake",
+      "state": "TX",
+      "zip_code": "76092",
+      "building_value": 11440000,
+      "contents_value": 1716000,
+      "bi_value": 3120000,
+      "tiv": 16276000
+    }
+  ]
+}

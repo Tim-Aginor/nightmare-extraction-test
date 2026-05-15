@@ -1,0 +1,149 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Keystone Commercial Builders, Inc."
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "300 Liberty Avenue, Suite 1200"
+    },
+    "insured_city": {
+      "value": "Pittsburgh"
+    },
+    "insured_state": {
+      "value": "PA"
+    },
+    "insured_zip": {
+      "value": "15222"
+    },
+    "policy_period_start": {
+      "value": "2025-08-01",
+      "rendered_as": "08/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-08-01",
+      "rendered_as": "08/01/2026"
+    },
+    "policy_number_gl": {
+      "value": "GL-KCB-2025-5581"
+    },
+    "gl_limit_each_occurrence": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "gl_limit_general_aggregate": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "gl_limit_products_completed_ops": {
+      "value": 4000000,
+      "rendered_as": "4,000,000.00"
+    },
+    "gl_limit_personal_advertising": {
+      "value": 2000000,
+      "rendered_as": "2,000,000.00"
+    },
+    "gl_limit_damage_rented_premises": {
+      "value": 300000,
+      "rendered_as": "300,000.00"
+    },
+    "gl_limit_medical_expense": {
+      "value": 15000,
+      "rendered_as": "15,000.00"
+    },
+    "gl_deductible": {
+      "value": 10000,
+      "rendered_as": "10,000.00"
+    },
+    "gl_form_type": {
+      "value": "occurrence"
+    },
+    "gl_premium": {
+      "value": 297027.73,
+      "rendered_as": "297,027.73"
+    },
+    "gl_base_premium": {
+      "value": 285090.0,
+      "rendered_as": "285,090.00"
+    },
+    "gl_tria_surcharge": {
+      "value": 11937.73,
+      "rendered_as": "11,937.73"
+    }
+  },
+  "doc_type": "acord_126",
+  "gl_class_codes": [
+    {
+      "class_code": "91583",
+      "description": "Contractors \u2014 General NOC",
+      "premium_basis": "Payroll",
+      "exposure": 29510000,
+      "rate": 8.5,
+      "premium": 250835.0
+    },
+    {
+      "class_code": "16900",
+      "description": "Carpentry \u2014 Interior \u2014 NOC",
+      "premium_basis": "Payroll",
+      "exposure": 5525000,
+      "rate": 6.2,
+      "premium": 34255.0
+    }
+  ],
+  "uw_questions": [
+    {
+      "question": "Does the applicant provide professional services or advice?",
+      "answer": "No"
+    },
+    {
+      "question": "Are any premises/operations rented or leased to others?",
+      "answer": "No"
+    },
+    {
+      "question": "Does the applicant have any work performed by subcontractors?",
+      "answer": "No"
+    },
+    {
+      "question": "Are there any completed operations exposures?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does the applicant perform any demolition work?",
+      "answer": "No"
+    },
+    {
+      "question": "Are there any fireworks, explosives, or blasting operations?",
+      "answer": "No"
+    },
+    {
+      "question": "Are products manufactured, sold, or distributed?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Does the applicant have any daycare or childcare operations?",
+      "answer": "No"
+    },
+    {
+      "question": "Is there any work performed on or near bodies of water?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Are there swimming pools, hot tubs, or diving boards on premises?",
+      "answer": "No"
+    }
+  ],
+  "additional_coverages": [
+    "Contractual Liability",
+    "Employee Benefits Liability",
+    "Hired & Non-Owned Auto",
+    "Medical Payments",
+    "Product Withdrawal Expense"
+  ],
+  "uw_answers": {
+    "products_distributed": false,
+    "safety_program": true,
+    "subcontractors_used": false
+  }
+}

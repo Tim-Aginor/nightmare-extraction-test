@@ -1,0 +1,82 @@
+{
+  "document_info": {
+    "document_type": "Fleet Schedule / Driver Roster",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": "OH",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial Trucking / Transportation \u2014 Heavy and Extra-Heavy Fleet Operation",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": 40
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Auto \u2014 Fleet",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "37-unit mixed fleet: 12 Extra Heavy Trucks, 3 Heavy Trucks, 2 Medium Trucks, 5 Light Trucks, 2 Private Passenger vehicles, 13 Trailers; 40 listed drivers licensed across OH, PA, IL, TX"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "5 of 40 drivers (12.5%) carry clean MVR records: Kevin Anderson, Sean O'Brien, Katherine Taylor, Paul Nelson, Rebecca Kim",
+      "Fleet is predominantly late-model (2022\u20132024 model years) across all power unit classes, indicating modern safety systems and collision-mitigation equipment",
+      "Experienced driver pool overall \u2014 16 drivers carry 20 or more years of experience; median experience approximately 20 years",
+      "Recognized OEM power unit brands (Freightliner, Kenworth, Peterbilt, Volvo, Mack, International) with established maintenance and parts ecosystems",
+      "Extra Heavy Truck units span multiple OEMs, reducing single-vendor fleet concentration risk"
+    ],
+    "concerns": [
+      "Scott Murphy \u2014 Major Violations status: 3 violations, 2 accidents; highest individual driver risk profile in fleet",
+      "Jack Reed \u2014 Major Violations status: 3 violations, 2 accidents; second highest individual driver risk profile",
+      "Andre Mitchell \u2014 Accident-only classification: 0 violations, 2 recorded accidents; pattern consistent with at-fault losses without corresponding citation history",
+      "Four additional drivers each carrying 2 recorded accidents: Patrick Murphy (1 violation), Carlos Ramirez (1 violation), Helen Anderson (1 violation), Dennis Kelly (1 violation)",
+      "Daniel White: 2 violations and 1 accident \u2014 elevated exposure within Minor Violations tier",
+      "87.5% of drivers (35 of 40) carry at least one violation or accident on MVR; fleet-wide aggregate of 39 recorded violations and 40 recorded accidents",
+      "Janet Perez (DOB 1999-02-08): least tenured driver in fleet at 4 years experience with 1 violation; junior driver exposure on commercial fleet",
+      "Samuel Gutierrez (DOB 1961-11-13) and Raymond Ortiz (DOB 1962-02-24) are approximately age 63; senior driver risk considerations and medical certification requirements applicable",
+      "Two trailers are significantly aged: 2015 Hyundai Translead Dry Van (~10 years) and 2017 Fontaine Genesis (~8 years); physical damage valuation, ACV treatment, and structural maintenance history require review",
+      "License number formatting is inconsistent between drivers 1\u201325 (state-prefixed: 'OH-XXXXXXXX') and drivers 26\u201340 (raw number only); suggests possible split data sources or incomplete records for a subset of the driver roster",
+      "13-trailer fleet creates exposure for dropped/spotted trailer scenarios and potential physical damage or liability gaps when trailers are operated under multiple tractor assignments or by third-party carriers"
+    ],
+    "loss_history_summary": "MVR screening of 40 drivers: 5 Clear (12.5%), 32 Minor Violations (80.0%), 2 Major Violations (5.0%), 1 Accident-only (2.5%). Fleet aggregate: 39 recorded violations and 40 recorded accidents. Seven drivers carry 2 or more accidents: Andre Mitchell (2), Patrick Murphy (2), Carlos Ramirez (2), Scott Murphy (2), Helen Anderson (2), Jack Reed (2), Dennis Kelly (2)."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH",
+      "PA",
+      "IL",
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": 40,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Fleet consists of 37 vehicles and trailers operated by 40 licensed drivers based primarily in Ohio and Pennsylvania, with additional drivers licensed in Illinois and Texas. Power unit breakdown \u2014 Extra Heavy Trucks (12 units): Freightliner Cascadia (4 units incl. 1 Day Cab; MY 2021/2023/2024), Kenworth T680 (3 units incl. 1 Day Cab; MY 2023/2024), Peterbilt 579 (2 units; MY 2022/2023), Volvo VNL 860 (1 unit; MY 2024), International LT (1 unit; MY 2022), Mack Anthem (1 unit; MY 2023). Heavy Trucks (3 units): Freightliner M2 112 (MY 2024), International MV607 (MY 2023), Hino 338 (MY 2022). Medium Trucks (2 units): Isuzu NPR-HD (MY 2024), Ford E-450 (MY 2023). Light Trucks (5 units): Ford Transit 350 (MY 2024), Ram ProMaster 2500 (MY 2023), Ford F-250 (MY 2024), Chevrolet Silverado 2500 (MY 2023), Ford F-150 (MY 2024). Private Passenger (2 units): Toyota Camry (MY 2023), Chevrolet Suburban (MY 2024). Trailer inventory (13 units): Great Dane Champion SE x2 (MY 2023/2024), Great Dane Everest TL x1 (MY 2024), Wabash DuraPlate HD x2 (MY 2023/2024), Utility 4000D-X Composite x2 (MY 2022/2023), Utility 3000R x1 (MY 2023), Hyundai Translead Dry Van x2 (MY 2015/2022), Fontaine Revolution 51 x1 (MY 2024), Fontaine Infinity 48 x1 (MY 2023), Fontaine Genesis x1 (MY 2017).",
+    "safety_programs": null,
+    "claims_narrative": "MVR review of all 40 fleet drivers identifies: 2 Major Violation drivers \u2014 Scott Murphy (3 violations, 2 accidents) and Jack Reed (3 violations, 2 accidents); 1 Accident-only driver \u2014 Andre Mitchell (0 violations, 2 accidents); 32 Minor Violation drivers; and 5 Clear drivers. Fleet-wide totals: 39 recorded violations and 40 recorded accidents. Drivers with 2 or more recorded accidents: Andre Mitchell (2), Patrick Murphy (2), Carlos Ramirez (2), Scott Murphy (2), Helen Anderson (2), Jack Reed (2), Dennis Kelly (2). Combined, these 7 drivers account for 14 of the 40 total recorded fleet accidents (35%)."
+  }
+}

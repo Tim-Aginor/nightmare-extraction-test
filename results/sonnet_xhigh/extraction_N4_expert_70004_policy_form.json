@@ -1,0 +1,91 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-08-01",
+    "prepared_by": "Steel City Insurance Group",
+    "recipient": "Keystone Commercial Builders, Inc."
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": "Statutory",
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": 1158173.43,
+      "notes": "Policy Number WC-KCB-2025-5580; Form WC 00 00 04; Experience Modification Factor 0.86; Classification schedule includes Carpentry NOC (5403, rate 8.24, remuneration $5,915,000), Electrical Wiring (5190, rate 4.86, remuneration $4,544,000), Plumbing NOC (5183, rate 4.52, remuneration $3,075,000), Masonry NOC (5022, rate 9.15, remuneration $6,635,850), Painting Interior (5474, rate 6.92, remuneration $1,639,000), Contractors Project Manager/Superintendent (5606, rate 2.45, remuneration $4,776,000), Clerical Office Employees NOC (8810, rate 0.19, remuneration $5,010,000)"
+    },
+    {
+      "coverage_type": "Employers Liability - Each Accident",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Included within policy WC-KCB-2025-5580 under Part Two \u2014 Employers Liability Insurance"
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Policy Limit",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Included within policy WC-KCB-2025-5580 under Part Two \u2014 Employers Liability Insurance"
+    },
+    {
+      "coverage_type": "Employers Liability - Disease Each Employee",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Included within policy WC-KCB-2025-5580 under Part Two \u2014 Employers Liability Insurance"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience Modification Factor of 0.86 indicates favorable loss history relative to industry peers",
+      "Waiver of Subrogation endorsement in place (WC 00 03 13, effective 03/15/2026)",
+      "Alternate Employer Endorsement extends coverage to leased/assigned employees (WC 00 03 01 A)",
+      "All States Endorsement provides broad geographic coverage flexibility beyond Pennsylvania (WC 00 03 03)",
+      "Terrorism Risk Insurance Act Endorsement included (WC 00 04 06)"
+    ],
+    "concerns": [],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. SIC Code: 1521. Total estimated annual payroll across all classifications approximately $31,594,850.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

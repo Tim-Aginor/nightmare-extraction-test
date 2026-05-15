@@ -1,0 +1,602 @@
+{
+  "claims": [
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Donald Green",
+      "coverage": "wc",
+      "date_of_loss": "2022-06-20",
+      "description": "Burn injury; claim details partially illegible",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Carl Ruiz",
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Justin Morales",
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": "Strain/sprain; upper back; overexertion",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Edward Phillips",
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": "Cold injury; upper extremity; caught in/between",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": null,
+      "description": "Fracture; foot/ankle; fall/slip",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Eric Collins",
+      "coverage": "wc",
+      "date_of_loss": "2024-09-13",
+      "description": "Herniated disc; cervical spine; motor vehicle",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2024-05-06",
+      "description": "Strain; upper back; overexertion",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2024-05-25",
+      "description": "Strain/sprain; lower back; overexertion",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Gary Cox",
+      "coverage": "wc",
+      "date_of_loss": "2024-08-06",
+      "description": "Fracture; right wrist; fall from height",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2024-08-01",
+      "description": "Laceration; left forearm; struck by object",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "wc",
+      "date_of_loss": "2024-10-16",
+      "description": "Burn; left hand",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Jason Evans",
+      "coverage": "wc",
+      "date_of_loss": "2025-01-10",
+      "description": "Contusion; left hip; slip and fall",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Paul Neilson",
+      "coverage": "wc",
+      "date_of_loss": "2025-11-17",
+      "description": "Laceration; right hand; caught in/between",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "gl",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "gl",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "gl",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Paul Moore",
+      "coverage": "gl",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Johanna Kelly",
+      "coverage": "gl",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": "2022-03-23",
+      "description": "Collision",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2023-10-17",
+      "description": "Collision",
+      "incurred": null,
+      "paid": null,
+      "reserved": null,
+      "status": "Re-opened"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "auto",
+      "date_of_loss": "2025-05-24",
+      "description": "Collision",
+      "incurred": 65525.91,
+      "paid": null,
+      "reserved": null,
+      "status": "Open"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "auto",
+      "date_of_loss": "2025-07-28",
+      "description": "Comprehensive; closed without payment",
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0,
+      "status": "Closed Without Payment"
+    },
+    {
+      "claim_number": null,
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "property",
+      "date_of_loss": null,
+      "description": null,
+      "incurred": 54199.29,
+      "paid": 54199.29,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": null,
+      "claimant": null,
+      "coverage": "property",
+      "date_of_loss": "2022-07-10",
+      "description": null,
+      "incurred": 52500.07,
+      "paid": 52500.07,
+      "reserved": 0,
+      "status": "Closed"
+    },
+    {
+      "claim_number": "AIG-2022-044220",
+      "claimant": "Great Lakes Freight Systems, Inc.",
+      "coverage": "mtc",
+      "date_of_loss": "2022-10-18",
+      "description": "Vandalism",
+      "incurred": 3916.24,
+      "paid": 3916.24,
+      "reserved": 0,
+      "status": "Closed"
+    }
+  ],
+  "grand_totals": {
+    "claim_count": 49,
+    "incurred": 1529775.94,
+    "paid": 1395366.41,
+    "reserved": 134409.53
+  },
+  "header": {
+    "carrier_name": "Standard Insurance Company",
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "policy_numbers": {
+      "auto": null,
+      "gl": null,
+      "mtc": null,
+      "property": null,
+      "umbrella": null,
+      "wc": null
+    },
+    "policy_period_end": null,
+    "policy_period_start": null,
+    "report_date": "2026-03-06"
+  },
+  "subtotals_by_coverage": {
+    "auto": {
+      "claim_count": 16,
+      "incurred": 449550.02,
+      "paid": 387376.46,
+      "reserved": 62173.56
+    },
+    "gl": {
+      "claim_count": 5,
+      "incurred": 54126.51,
+      "paid": 54126.51,
+      "reserved": 0
+    },
+    "mtc": {
+      "claim_count": 1,
+      "incurred": 3916.24,
+      "paid": 3916.24,
+      "reserved": 0
+    },
+    "property": {
+      "claim_count": 2,
+      "incurred": 106699.36,
+      "paid": 106699.36,
+      "reserved": 0
+    },
+    "umbrella": {
+      "claim_count": 0,
+      "incurred": 0,
+      "paid": 0,
+      "reserved": 0
+    },
+    "wc": {
+      "claim_count": 25,
+      "incurred": 915491.81,
+      "paid": 843255.84,
+      "reserved": 72235.97
+    }
+  }
+}

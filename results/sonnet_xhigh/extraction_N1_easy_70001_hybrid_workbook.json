@@ -1,0 +1,94 @@
+{
+  "document_info": {
+    "document_type": "Statement of Values (SOV) / Schedule of Locations",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": null,
+    "city": null,
+    "state": "TX",
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial real estate ownership and management; portfolio includes office towers, retail/mercantile centers, and mixed-use developments across major Texas markets",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Building (Real Property)",
+      "current_limit": 222340000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Aggregate building value across 8 locations per current SOV. Prior year aggregate building value was 199124688, representing an 11.7% year-over-year increase. Includes pending TIV update per appraisal for Lone Star Property Holdings, LP effective 2026-03-15."
+    },
+    {
+      "coverage_type": "Contents",
+      "current_limit": 33432000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Aggregate contents value across 8 locations per current SOV. Prior year aggregate contents value was 29928511, representing an 11.7% year-over-year increase."
+    },
+    {
+      "coverage_type": "Business Interruption (BI)",
+      "current_limit": 59212000,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Aggregate BI value across 8 locations per current SOV. BI values were not present in the prior year SOV; this coverage line appears to be newly added or newly scheduled in the current submission."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "All 8 locations are fully sprinklered",
+      "5 of 8 locations are Fire Resistive construction; remaining 2 are Masonry Non-Combustible and 1 is Non-Combustible \u2014 no wood-frame or combustible construction in portfolio",
+      "Majority of portfolio is modern vintage: 6 of 8 buildings constructed between 2001 and 2018",
+      "Portfolio concentrated in established, high-quality Texas commercial submarkets: Dallas Uptown/Preston Center, Houston Galleria/Energy Corridor, Plano Legacy, Fort Worth Medical District, and Southlake Town Square",
+      "Mix of office and mercantile occupancies provides tenant diversification",
+      "Modern roofing systems present across most locations: TPO (LOC-002, LOC-005, LOC-008), Single-Ply Membrane (LOC-003), EPDM (LOC-006), and Concrete (LOC-004)",
+      "Total portfolio square footage of approximately 1056000 sq ft provides scale",
+      "All locations are multi-story, purpose-built commercial structures"
+    ],
+    "concerns": [
+      "LOC-006 (Energy Corridor Business Center, Houston) is the oldest building in the portfolio (built 1995) and is Non-Combustible construction \u2014 lowest construction class in the portfolio",
+      "Overall TIV increased approximately 37.5% year-over-year ($229053199 to $314984000); however, a material portion of this increase is attributable to the addition of BI values ($59212000) not present in the prior year SOV. Building and contents values alone increased approximately 11.7% ($229053199 to $255772000), which should be validated against appraisal support",
+      "Pending mid-term modifications effective 2026-03-15 include: (1) addition of a new warehouse facility, (2) deletion of a closed location (lease expired), and (3) a TIV update per appraisal \u2014 details on the new warehouse facility (construction, occupancy, values, location) are not provided in this submission",
+      "Two locations carry shingle roofing (LOC-001 Preston Center Tower 18-story, LOC-007 Fort Worth Medical Office Building) \u2014 shingle roofing on high-rise or multi-story commercial buildings may present wind/hail vulnerability",
+      "Houston geographic concentration across three locations (LOC-002, LOC-003, LOC-006) with aggregate TIV of $114408000 creates windstorm and inland flood aggregation exposure",
+      "No loss history provided in the submitted documents",
+      "Warehouse facility being added is a different occupancy class than the existing portfolio; construction, sprinkler, and valuation details are absent"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": 8,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": 314984000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": "2026-03-15"
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Portfolio consists of 8 commercial properties located entirely in Texas. Occupancy types include Office (5 locations: LOC-001, LOC-002, LOC-003, LOC-006, LOC-007) and Mercantile (3 locations: LOC-004, LOC-005, LOC-008). Total portfolio square footage is approximately 1056000 sq ft across buildings ranging from 3 to 18 stories. Construction is predominantly Fire Resistive (LOC-001, LOC-002, LOC-003, LOC-005, LOC-007), with 2 Masonry Non-Combustible locations (LOC-004, LOC-008) and 1 Non-Combustible location (LOC-006). Year built ranges from 1995 to 2018. All locations are sprinklered. A mid-term change effective 2026-03-15 adds a warehouse facility, removes one closed location, and reflects a TIV appraisal update.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

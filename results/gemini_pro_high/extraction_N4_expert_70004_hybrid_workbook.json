@@ -1,0 +1,66 @@
+{
+  "document_info": {
+    "document_type": "Excel Summary",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "Commercial Builders",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": 95000000,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "All Lines / Package",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "Premium and carrier reflect the 2024 insurance history. 13 claims recorded in 2024."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experienced driver fleet with years of experience ranging from 5 to 28 years."
+    ],
+    "concerns": [
+      "High frequency and severity in Workers Compensation with 35 claims and $1,176,100 incurred.",
+      "Consistent annual claim volume across recent history (13 claims in 2024, 10 in 2023, 15 in 2021)."
+    ],
+    "loss_history_summary": "Workers Compensation: 35 claims ($1,176,100 incurred). General Liability: 8 claims ($176,947 incurred). Auto: 8 claims ($99,900 incurred). Property: 1 claim ($36,750 incurred)."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": 39405000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": 15,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

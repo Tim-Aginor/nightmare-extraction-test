@@ -1,0 +1,21 @@
+{
+  "patterns_applied": [
+    {
+      "id": "p08_terminology",
+      "name": "Terminology Inconsistency",
+      "phase": "data_layer",
+      "description": "Different field labels per coverage section (e.g., Reserve vs Outstanding)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p17_date_formats",
+      "name": "Date Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different date formats per section (MM/DD/YYYY vs YYYY-MM-DD vs Mon DD, YYYY)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    }
+  ],
+  "total_patterns": 2
+}

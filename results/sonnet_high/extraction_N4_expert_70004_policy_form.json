@@ -1,0 +1,88 @@
+{
+  "document_info": {
+    "document_type": "Policy Form",
+    "date": "2025-08-01",
+    "prepared_by": "Steel City Insurance Group",
+    "recipient": "Keystone Commercial Builders, Inc."
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation \u2014 EL Each Accident",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": 1158173.43,
+      "notes": "Policy Number WC-KCB-2025-5580; Form WC 00 00 04; Experience Modification Factor 0.86; Premium is estimated and subject to final audit"
+    },
+    {
+      "coverage_type": "Workers' Compensation \u2014 EL Disease Policy",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Included under same policy WC-KCB-2025-5580"
+    },
+    {
+      "coverage_type": "Workers' Compensation \u2014 EL Disease Each Employee",
+      "current_limit": 1000000,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Included under same policy WC-KCB-2025-5580"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Experience Modification Factor of 0.86, indicating better-than-average historical loss experience relative to industry peers",
+      "Waiver of Subrogation endorsement in place (WC 00 03 13)",
+      "Alternate Employer Endorsement included for leased/assigned employees (WC 00 03 01 A)",
+      "All States Endorsement provides broad geographic coverage (WC 00 03 03)",
+      "Terrorism Risk Insurance Act coverage included (WC 00 04 06)"
+    ],
+    "concerns": [
+      "Multiple high-hazard construction classifications including Carpentry NOC (code 5403, rate 8.24), Masonry NOC (code 5022, rate 9.15), and Plumbing NOC (code 5183, rate 4.52)",
+      "Masonry classification (5022) carries a 'G' governmental designation",
+      "Large total estimated annual remuneration base across seven classifications indicating significant workforce exposure",
+      "Construction industry inherently carries elevated workers' compensation injury risk"
+    ],
+    "loss_history_summary": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Workers Compensation and Employers Liability Insurance Policy issued by Hallmark Insurance Group to Keystone Commercial Builders, Inc. Policy Number WC-KCB-2025-5580 covering the period 08/01/2025 to 08/01/2026. Total estimated premium of $1,158,173.43. Employers Liability limits of $1,000,000 each accident / $1,000,000 disease policy / $1,000,000 disease each employee. Experience Modification Factor: 0.86.",
+    "operations_description": "SIC Code 1521 \u2014 General contracting for commercial and institutional construction including healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Classification schedule includes: Carpentry NOC (5403) \u2014 Est. Remuneration $5,915,000, Rate 8.24; Electrical Wiring (5190) \u2014 Est. Remuneration $4,544,000, Rate 4.86; Plumbing NOC (5183) \u2014 Est. Remuneration $3,075,000, Rate 4.52; Masonry NOC (5022) \u2014 Est. Remuneration $6,635,850, Rate 9.15 (Gov: G); Painting Interior (5474) \u2014 Est. Remuneration $1,639,000, Rate 6.92; Contractors Project Manager/Superintendent (5606) \u2014 Est. Remuneration $4,776,000, Rate 2.45; Clerical Office Employees NOC (8810) \u2014 Est. Remuneration $5,010,000, Rate 0.19.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

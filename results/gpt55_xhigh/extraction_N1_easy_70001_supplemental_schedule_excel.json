@@ -1,0 +1,56 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": null,
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [],
+  "document_info": {
+    "date": null,
+    "document_type": "Carrier History / Prior Insurance History",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history for 2020-2024 lists 1 claim in 2024, 0 claims in 2023, 1 claim in 2022, 0 claims in 2021, and 1 claim in 2020. Loss ratios were not provided. No cancellations were reported for any listed year.",
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": null,
+    "city": null,
+    "name": null,
+    "state": null,
+    "zip": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Claims reported in 3 of 5 listed policy years.",
+      "Loss ratios were not provided."
+    ],
+    "loss_history_summary": "Carrier history from 2020 through 2024 shows premiums ranging from 414601.77 to 470199.5, with claims reported in 2024, 2022, and 2020, and no claims reported in 2023 or 2021. No cancellations were reported.",
+    "positives": [
+      "No cancellations reported for any listed year.",
+      "Zero claims reported in 2023 and 2021."
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "patterns_applied": [
+    {
+      "id": "p08_terminology",
+      "name": "Terminology Inconsistency",
+      "phase": "data_layer",
+      "description": "Different field labels per coverage section (e.g., Reserve vs Outstanding)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p15_currency_formats",
+      "name": "Currency Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different currency formats per section ($1,234 vs 1234.56 vs em-dash for zero)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p17_date_formats",
+      "name": "Date Format Inconsistency",
+      "phase": "data_layer",
+      "description": "Different date formats per section (MM/DD/YYYY vs YYYY-MM-DD vs Mon DD, YYYY)",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p65_column_synonyms",
+      "name": "Column Synonym Chaos",
+      "phase": "data_layer",
+      "description": "Replaced 8 column names with mild_jargon carrier jargon",
+      "pages_affected": [],
+      "ground_truth_delta": {
+        "column_mapping": {
+          "claim_num": "Claim Nbr",
+          "claimant": "Insured/Claimant",
+          "dol": "Loss Date",
+          "status": "File Status",
+          "paid": "Payments",
+          "reserved": "Case Reserve",
+          "incurred": "Total Incurred",
+          "body_part": "Body Part Injured"
+        },
+        "jargon_level": "mild_jargon"
+      }
+    },
+    {
+      "id": "p01_borderless",
+      "name": "Borderless Table",
+      "phase": "content_gen",
+      "description": "Removed all table gridlines, whitespace-only alignment",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p03_multipage",
+      "name": "Multi-Page Continuation",
+      "phase": "content_gen",
+      "description": "Table splits across pages with different headers on continuation page",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p07_multiline_wrap",
+      "name": "Multi-Line Wrap",
+      "phase": "content_gen",
+      "description": "Long narrative descriptions wrapping 3-5 lines without row separators",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p24_shading",
+      "name": "Alternating Shading",
+      "phase": "content_gen",
+      "description": "Alternating row background colors for readability",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    },
+    {
+      "id": "p35_untagged_hf",
+      "name": "Untagged Headers/Footers",
+      "phase": "overlay",
+      "description": "Header/footer text drawn directly on canvas without structure tags",
+      "pages_affected": [],
+      "ground_truth_delta": {}
+    }
+  ],
+  "total_patterns": 9
+}

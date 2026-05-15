@@ -1,0 +1,97 @@
+{
+  "form_info": {
+    "form_number": "ACORD 45",
+    "form_edition": null,
+    "form_title": "Commercial Property Application"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "AC-4700004",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "effective_date": "2025-08-01",
+    "expiration_date": null
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "28339",
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property - Special Causes of Loss",
+      "limit": 39405000,
+      "deductible": 25000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {},
+  "additional_fields": {
+    "date": "2025-06-16",
+    "agency_customer_id": "AC-4700004",
+    "naic_code": "28339",
+    "additional_interest": "Corporate Headquarters",
+    "causes_of_loss": "Special",
+    "valuation": "Actual Cash Value",
+    "deductible": "25000.00",
+    "coinsurance": "80%",
+    "building_location_schedule": [
+      {
+        "location_number": 1,
+        "location": "Corporate Headquarters",
+        "building": 0,
+        "contents": 1260000,
+        "business_income": 2340000,
+        "tiv": 3600000
+      },
+      {
+        "location_number": 2,
+        "location": "Main Equipment Yard & Warehouse",
+        "building": 5200000,
+        "contents": 8450000,
+        "business_income": 3900000,
+        "tiv": 17550000
+      },
+      {
+        "location_number": 3,
+        "location": "Fabrication Shop",
+        "building": 2240000,
+        "contents": 3840000,
+        "business_income": 1920000,
+        "tiv": 8000000
+      },
+      {
+        "location_number": 4,
+        "location": "South Hills Branch Office",
+        "building": 1700000,
+        "contents": 425000,
+        "business_income": 850000,
+        "tiv": 2975000
+      },
+      {
+        "location_number": 5,
+        "location": "Equipment Storage - Cranberry",
+        "building": 1080000,
+        "contents": 4280000,
+        "business_income": 1120000,
+        "tiv": 7280000
+      },
+      {
+        "location_number": "TOTAL",
+        "building": 10820000,
+        "contents": 18455000,
+        "business_income": 10130000,
+        "tiv": 39405000
+      }
+    ]
+  },
+  "remarks": null
+}

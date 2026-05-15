@@ -1,0 +1,68 @@
+{
+  "checkboxes": [
+    {
+      "field": "Perils Insured Against - Basic",
+      "value": "No"
+    },
+    {
+      "field": "Perils Insured Against - Broad",
+      "value": "No"
+    },
+    {
+      "field": "Perils Insured Against - Special",
+      "value": "Yes"
+    }
+  ],
+  "document_date": "2026-03-15",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 27",
+    "form_title": "EVIDENCE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "carrier_name": "Apex Managing General Agency",
+    "effective_date": "2025-07-01",
+    "expiration_date": "2026-07-01",
+    "insured_address": "2200 Ross Avenue, Suite 4500",
+    "insured_city": "Dallas",
+    "insured_name": "Lone Star Property Holdings, LP",
+    "insured_state": "TX",
+    "insured_zip": "75201",
+    "policy_number": "CP-LSPH-2025-7801",
+    "producer_code": null,
+    "producer_name": "Texas Commercial Insurance Partners"
+  },
+  "interests": [
+    {
+      "address": "5519 Cedar Lane, Dallas, TX 42469",
+      "interest_type": "Mortgagee - First Mortgagee",
+      "loan_number": null,
+      "name": "U.S. Bank National Association"
+    }
+  ],
+  "locations": [
+    {
+      "address": "8117 Preston Road",
+      "bi_value": 15200000,
+      "building_value": 62700000,
+      "city": "Dallas",
+      "construction": "Fire Resistive",
+      "contents_value": 8550000,
+      "fire_alarm_type": null,
+      "location_number": null,
+      "occupancy": "Office",
+      "roof_type": null,
+      "sprinkler_type": null,
+      "sprinklered": true,
+      "square_feet": null,
+      "state": "TX",
+      "stories": null,
+      "tiv": null,
+      "year_built": null,
+      "zip": "75225"
+    }
+  ],
+  "policy_form_type": "special",
+  "property_deductible": 50000,
+  "remarks": "Coverage provided on Special form. Property is fully sprinklered. Construction type: Fire Resistive."
+}

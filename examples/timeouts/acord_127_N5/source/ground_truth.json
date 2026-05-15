@@ -233,16 +233,16 @@
         },
         "auto_endorsements": {
           "value": [
-            "IL 00 21 09 08 — Nuclear Energy Liability Exclusion",
-            "IL 00 17 11 98 — Common Policy Conditions",
-            "CA 34 01 10 13 — Motor Carrier Coverage Form",
-            "MCS-90 (12 92) — Endorsement for Motor Carrier Policies of Insurance for Public Liability",
-            "CA 99 10 10 13 — Drive Other Car Coverage - Broadened Coverage for Named Individuals",
-            "CA 99 54 03 15 — Hired Auto Physical Damage Coverage",
-            "CA 04 44 10 13 — Waiver of Transfer of Rights of Recovery Against Others to Us",
-            "IL 09 85 01 15 — Disclosure Pursuant to Terrorism Risk Insurance Act",
-            "CA 99 48 03 06 — Pollution Liability — Broadened Coverage for Covered Autos",
-            "CA 20 48 02 99 — Designated Insured"
+            "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+            "IL 00 17 11 98 \u2014 Common Policy Conditions",
+            "CA 34 01 10 13 \u2014 Motor Carrier Coverage Form",
+            "MCS-90 (12 92) \u2014 Endorsement for Motor Carrier Policies of Insurance for Public Liability",
+            "CA 99 10 10 13 \u2014 Drive Other Car Coverage - Broadened Coverage for Named Individuals",
+            "CA 99 54 03 15 \u2014 Hired Auto Physical Damage Coverage",
+            "CA 04 44 10 13 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+            "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+            "CA 99 48 03 06 \u2014 Pollution Liability \u2014 Broadened Coverage for Covered Autos",
+            "CA 20 48 02 99 \u2014 Designated Insured"
           ]
         }
       },
@@ -6458,16 +6458,16 @@
       "driver_count": 40,
       "vehicle_count": 37,
       "auto_endorsements": [
-        "IL 00 21 09 08 — Nuclear Energy Liability Exclusion",
-        "IL 00 17 11 98 — Common Policy Conditions",
-        "CA 34 01 10 13 — Motor Carrier Coverage Form",
-        "MCS-90 (12 92) — Endorsement for Motor Carrier Policies of Insurance for Public Liability",
-        "CA 99 10 10 13 — Drive Other Car Coverage - Broadened Coverage for Named Individuals",
-        "CA 99 54 03 15 — Hired Auto Physical Damage Coverage",
-        "CA 04 44 10 13 — Waiver of Transfer of Rights of Recovery Against Others to Us",
-        "IL 09 85 01 15 — Disclosure Pursuant to Terrorism Risk Insurance Act",
-        "CA 99 48 03 06 — Pollution Liability — Broadened Coverage for Covered Autos",
-        "CA 20 48 02 99 — Designated Insured"
+        "IL 00 21 09 08 \u2014 Nuclear Energy Liability Exclusion",
+        "IL 00 17 11 98 \u2014 Common Policy Conditions",
+        "CA 34 01 10 13 \u2014 Motor Carrier Coverage Form",
+        "MCS-90 (12 92) \u2014 Endorsement for Motor Carrier Policies of Insurance for Public Liability",
+        "CA 99 10 10 13 \u2014 Drive Other Car Coverage - Broadened Coverage for Named Individuals",
+        "CA 99 54 03 15 \u2014 Hired Auto Physical Damage Coverage",
+        "CA 04 44 10 13 \u2014 Waiver of Transfer of Rights of Recovery Against Others to Us",
+        "IL 09 85 01 15 \u2014 Disclosure Pursuant to Terrorism Risk Insurance Act",
+        "CA 99 48 03 06 \u2014 Pollution Liability \u2014 Broadened Coverage for Covered Autos",
+        "CA 20 48 02 99 \u2014 Designated Insured"
       ]
     },
     "vehicles": [
@@ -12634,6 +12634,6 @@
         }
       }
     ],
-    "document_path": "/home/test/Desktop/villify/output/nightmare/N5_nightmare/doc_70005/documents/acord_127_70005.pdf"
+    "document_path": "packets/N5_nightmare/doc_70005/documents/acord_127_70005.pdf"
   }
 }

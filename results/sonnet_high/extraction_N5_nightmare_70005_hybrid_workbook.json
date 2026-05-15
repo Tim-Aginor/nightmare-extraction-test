@@ -1,0 +1,88 @@
+{
+  "document_info": {
+    "document_type": "Fleet Schedule / Driver Roster / MVR Data (Excel Workbook \u2014 3 Sheets)",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Commercial trucking and freight transportation; fleet includes extra-heavy Class 8 sleeper and day-cab tractors, heavy/medium/light trucks, private passenger vehicles, and dry-van and flatbed trailers",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Auto / Truckers Liability",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "37 scheduled vehicles: 12 Extra Heavy Trucks, 3 Heavy Trucks, 2 Medium Trucks, 5 Light Trucks, 2 Private Passenger, 13 Trailers. 40 scheduled drivers. VINs provided for all units."
+    },
+    {
+      "coverage_type": "Physical Damage (Auto)",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Fleet spans model years 2015\u20132024. Two older trailers (2015 Hyundai Translead #31, 2017 Fontaine Genesis #35) may have limited ACV. Majority of power units are 2021\u20132024 vintage."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "5 of 40 drivers (12.5%) carry fully clean MVRs: Kevin Anderson, Sean O'Brien, Katherine Taylor, Paul Nelson, Rebecca Kim",
+      "Driver tenure is strong overall; average experience across fleet is approximately 19 years; top drivers include George Adams (33 yrs), William Kowalski (31 yrs), James Patterson and Michael Turner (28 yrs each)",
+      "Power unit fleet is predominantly modern: 10 of 12 Extra Heavy Trucks are model year 2022\u20132024; all Heavy and Medium Trucks are 2022\u20132024",
+      "Well-recognized OEM mix for Extra Heavy units: Freightliner Cascadia, Kenworth T680, Peterbilt 579, Volvo VNL 860, International LT, Mack Anthem \u2014 all with established parts and service networks",
+      "Trailer fleet includes current-generation dry-van products from Great Dane, Wabash, Utility, and Fontaine, with most units 2022\u20132024"
+    ],
+    "concerns": [
+      "2 drivers carry Major Violation status \u2014 Scott Murphy (#27): 3 violations, 2 accidents; Jack Reed (#39): 3 violations, 2 accidents \u2014 both represent potential non-renewal or exclusion candidates",
+      "1 driver classified Accident status with no violations \u2014 Andre Mitchell (#19): 0 violations, 2 accidents \u2014 indicates fault or frequency pattern outside standard violation tracking",
+      "5 additional drivers carry 2 reported accidents each: Patrick Murphy (#20), Carlos Ramirez (#22), Helen Anderson (#28), Dennis Kelly (#40) \u2014 elevated accident frequency sub-group",
+      "Fleet-wide MVR totals: 39 violations and 40 accidents across 40 drivers; only 5 drivers are fully clean",
+      "Daniel White (#12) carries 2 violations under Minor Violations status",
+      "Several driver license numbers do not conform to standard OH format (OH-XX######): Justin Morales (#26) \u2014 HI493037; Scott Murphy (#27) \u2014 ZI495688; Raymond Ortiz (#31) \u2014 W02183487518; Rebecca Kim (#35) \u2014 O79303268120; and others \u2014 license validity and state matching should be verified",
+      "3 drivers hold out-of-state licenses while listed with OH association: Raymond Ortiz \u2014 IL (W02183487518), Rebecca Kim \u2014 IL (O79303268120), Debra Jackson \u2014 TX (35291097)",
+      "Janet Perez (#38) is a young driver (DOB 1999-02-08, age ~25) with only 4 years experience and 1 violation on record; warrants review against company minimum age/experience guidelines",
+      "Oldest fleet units include a 2015 Hyundai Translead Dry Van and a 2017 Fontaine Genesis trailer \u2014 potential maintenance and physical damage valuation concerns"
+    ],
+    "loss_history_summary": "MVR data for all 40 drivers: 5 clear (12.5%), 32 minor violations (80%), 2 major violations (5%) \u2014 Scott Murphy and Jack Reed each with 3 violations and 2 accidents, and 1 accident-only record (2.5%) \u2014 Andre Mitchell with 2 accidents. Fleet aggregate: 39 total violations and 40 total reported accidents. Drivers with 2+ accidents total 7 individuals (Andre Mitchell, Patrick Murphy, Carlos Ramirez, Helen Anderson, Scott Murphy, Jack Reed, Dennis Kelly)."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH",
+      "PA",
+      "IL",
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": 40,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "Fleet of 37 units: 12 Extra Heavy Trucks (Freightliner Cascadia [4 units incl. 1 Day Cab], Kenworth T680 [2 units incl. 1 Day Cab], Peterbilt 579 [2 units], Volvo VNL 860, International LT, Mack Anthem \u2014 MY 2021\u20132024); 3 Heavy Trucks (Freightliner M2 112 MY2024, International MV607 MY2023, Hino 338 MY2022); 2 Medium Trucks (Isuzu NPR-HD MY2024, Ford E-450 MY2023); 5 Light Trucks (Ford Transit 350 MY2024, Ram ProMaster 2500 MY2023, Ford F-250 MY2024, Chevrolet Silverado 2500 MY2023, Ford F-150 MY2024); 2 Private Passenger (Toyota Camry MY2023, Chevrolet Suburban MY2024); 13 Trailers (Great Dane Champion SE [2], Great Dane Everest TL [1], Wabash DuraPlate HD [2], Utility 4000D-X Composite [2], Utility 3000R [1], Hyundai Translead Dry Van [2], Fontaine Revolution 51 [1], Fontaine Infinity 48 [1], Fontaine Genesis [1] \u2014 MY 2015\u20132024). 40 drivers licensed across OH, PA, IL, and TX with experience ranging from 4 to 33 years.",
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

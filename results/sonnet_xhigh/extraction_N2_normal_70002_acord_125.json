@@ -1,0 +1,210 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": "2016/03",
+    "form_title": "COMMERCIAL INSURANCE APPLICATION"
+  },
+  "header": {
+    "insured_name": "Buckeye Industrial Properties, LLC",
+    "insured_address": "250 Civic Center Drive, Suite 600",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Karen Weissman",
+    "producer_code": null,
+    "carrier_name": "Maine Employers Mutual",
+    "policy_number": null,
+    "effective_date": "2025-09-01",
+    "expiration_date": "2026-09-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "31-5847293",
+    "sic_code": "6512",
+    "naics_code": "531130",
+    "years_in_business": 31,
+    "nature_of_business": "Industrial real estate investment and management \u2014 warehouse, distribution, and light manufacturing facilities throughout Ohio"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 392002
+    }
+  ],
+  "checkboxes": {
+    "general_liability": "unchecked",
+    "commercial_property": "checked",
+    "business_auto": "unchecked",
+    "workers_compensation": "unchecked",
+    "umbrella_excess": "unchecked",
+    "professional_liability_eao": "unchecked",
+    "uw_q1_work_underground_or_above_3_stories": "No",
+    "uw_q2_operations_involving_hazardous_materials": "No",
+    "uw_q3_prepare_handle_serve_food": "No",
+    "uw_q4_swimming_pools_playgrounds_athletic_facilities": "No",
+    "uw_q5_work_involving_asbestos_lead_mold": "No",
+    "uw_q6_losses_or_claims_past_5_years": "Yes",
+    "uw_q7_past_bankruptcies_receivership_reorganization": "No",
+    "uw_q8_professional_services_provided": "No",
+    "uw_q9_products_manufactured_sold_distributed": "No",
+    "uw_q10_foreign_operations_or_exposures": "No",
+    "uw_q11_owns_operates_uas_drones": "No"
+  },
+  "additional_fields": {
+    "application_date": "2026-03-14",
+    "agency": "Midwest Property & Casualty Group",
+    "contact": "Karen Weissman",
+    "website": "www.buckeyeindustrialpro.com",
+    "annual_revenue": 48000000,
+    "employees_full_time": 95,
+    "employees_part_time": 18,
+    "years_with_current_management": 22,
+    "billing_plan": "Direct Bill \u2014 Monthly",
+    "payment_plan": "As per billing plan",
+    "expiring_carrier_commercial_property": "Liberty Mutual Insurance",
+    "expiring_policy_number_commercial_property": "CP00007001",
+    "expiring_premium_commercial_property": 392002,
+    "loss_history": [
+      {
+        "coverage": "Commercial Property",
+        "year": 2025,
+        "num_claims": 1,
+        "total_paid": 202875,
+        "total_reserved": 35679,
+        "total_incurred": 238554
+      },
+      {
+        "coverage": "Commercial Property",
+        "year": 2021,
+        "num_claims": 1,
+        "total_paid": 0,
+        "total_reserved": 0,
+        "total_incurred": 0
+      }
+    ],
+    "loss_history_totals": {
+      "num_claims": 2,
+      "total_paid": 202875,
+      "total_reserved": 35679,
+      "total_incurred": 238554
+    },
+    "premises": [
+      {
+        "loc_number": "LOC-001",
+        "address": "6500 Alum Creek Drive",
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "43217",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2014,
+        "sq_ft": 425000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-002",
+        "address": "6600 Alum Creek Drive",
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "43217",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2016,
+        "sq_ft": 380000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-003",
+        "address": "4800 Tiedeman Road",
+        "city": "Brooklyn",
+        "state": "OH",
+        "zip": "44144",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2008,
+        "sq_ft": 295000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-004",
+        "address": "2100 Kuntz Road",
+        "city": "Dayton",
+        "state": "OH",
+        "zip": "45404",
+        "occupancy": "Manufacturing",
+        "construction": "Joisted Masonry",
+        "year_built": 1992,
+        "sq_ft": 185000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-005",
+        "address": "11600 Mosteller Road",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45241",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2019,
+        "sq_ft": 220000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-006",
+        "address": "3200 Hill Avenue",
+        "city": "Toledo",
+        "state": "OH",
+        "zip": "43607",
+        "occupancy": "Warehouse",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 2004,
+        "sq_ft": 165000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-007",
+        "address": "3250 Hill Avenue",
+        "city": "Toledo",
+        "state": "OH",
+        "zip": "43607",
+        "occupancy": "Manufacturing",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 1998,
+        "sq_ft": 142000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-008",
+        "address": "1475 Corporate Woods Parkway",
+        "city": "Uniontown",
+        "state": "OH",
+        "zip": "44685",
+        "occupancy": "Warehouse",
+        "construction": "Non-Combustible",
+        "year_built": 2011,
+        "sq_ft": 128000,
+        "num_stories": 1
+      },
+      {
+        "loc_number": "LOC-009",
+        "address": "250 Civic Center Drive, Suite 600",
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "43215",
+        "occupancy": "Office",
+        "construction": "Fire Resistive",
+        "year_built": 2006,
+        "sq_ft": 8500,
+        "num_stories": 1
+      }
+    ],
+    "applicant_signature_name": "Douglas Brennan",
+    "applicant_signature_date": "2026-03-14",
+    "applicant_title": "Chief Operating Officer",
+    "producer_signature_name": "Karen Weissman",
+    "producer_signature_date": "2026-03-14"
+  },
+  "remarks": null
+}

@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "Schedule",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": "Buckeye Industrial Properties, LLC",
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Industrial Properties and Logistics Warehousing",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Liberty Mutual Insurance",
+      "expiring_premium": 392002.31,
+      "notes": "Current carrier based on 2024 prior insurance record."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "8 of 9 scheduled locations are sprinklered",
+      "No claims reported for the years 2022, 2023, and 2024",
+      "Majority of properties are Non-Combustible or Fire Resistive construction"
+    ],
+    "concerns": [
+      "Location 7 (Toledo Industrial Park - Building 2) is not sprinklered",
+      "Location 4 (Dayton Manufacturing Facility) is Joisted Masonry construction"
+    ],
+    "loss_history_summary": "Property loss summary shows a total of 2 claims with $202,875 total paid and $238,554 total incurred."
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": 251345000
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

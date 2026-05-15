@@ -1,0 +1,65 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation / General Liability / Commercial Auto / Commercial Property",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "Policy numbering across the history indicates a multi-line program including WC, GL, CA, and CP. 2024 policy numbers listed as 0000004484, 7GL0009677, CA002528-001, and CP00001358. Prior carriers shown: Berkshire Hathaway Guard in 2023, Zurich Insurance Group in 2022, Nationwide Insurance in 2021, and CNA Financial in 2020."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Five years of prior insurance history are provided for 2020 through 2024.",
+      "No cancellation is indicated in 2020, 2021, 2023, or 2024."
+    ],
+    "concerns": [
+      "Cancellation is indicated in 2022.",
+      "Claims counts ranged from 4 to 15 annually, with 15 in 2021 and 13 in 2024."
+    ],
+    "loss_history_summary": "Claims by year were 6 in 2020, 15 in 2021, 4 in 2022, 10 in 2023, and 13 in 2024, totaling 48 claims. Annual premiums were 1581292.51 in 2020, 1487006.51 in 2021, 1369245.71 in 2022, 1476849.96 in 2023, and 1634721.63 in 2024. Loss ratio values were not provided. Cancellation was marked Yes in 2022 and No in the other listed years."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

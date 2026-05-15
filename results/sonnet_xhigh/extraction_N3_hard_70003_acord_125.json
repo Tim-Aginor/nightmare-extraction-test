@@ -1,0 +1,303 @@
+{
+  "form_info": {
+    "form_number": "ACORD 125",
+    "form_edition": "2016/03",
+    "form_title": "Commercial Insurance Application"
+  },
+  "header": {
+    "insured_name": "Hill Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null,
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01"
+  },
+  "applicant_info": {
+    "entity_type": "LLC",
+    "fein": "74-6195832",
+    "sic_code": "7011",
+    "naics_code": "721110",
+    "years_in_business": 16,
+    "nature_of_business": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas"
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "General Liability",
+      "limit": null,
+      "deductible": null,
+      "premium": 111274
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "limit": null,
+      "deductible": null,
+      "premium": 280824
+    },
+    {
+      "coverage_type": "Business Auto",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Workers Compensation",
+      "limit": null,
+      "deductible": null,
+      "premium": 294138
+    },
+    {
+      "coverage_type": "Umbrella / Excess",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "Professional Liability / E&O",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "general_liability_selected": "X",
+    "commercial_property_selected": "X",
+    "business_auto_selected": "unchecked",
+    "workers_compensation_selected": "X",
+    "umbrella_excess_selected": "unchecked",
+    "professional_liability_eao_selected": "unchecked",
+    "uw_q1_product_recall_past_5_years": "No",
+    "uw_q2_foreign_operations_or_exposures": "No",
+    "uw_q3_daycare_childcare_on_premises": "No",
+    "uw_q4_products_manufactured_sold_distributed": "No",
+    "uw_q5_losses_or_claims_past_5_years": "Yes",
+    "uw_q6_operates_as_franchisor": "No",
+    "uw_q7_pending_litigation_or_regulatory_actions": "No",
+    "uw_q8_involved_in_joint_ventures": "No",
+    "uw_q9_prepares_handles_serves_food": "No",
+    "uw_q10_owns_operates_uas_drones": "No"
+  },
+  "additional_fields": {
+    "application_date": "2026-03-14",
+    "contact_name": "Marcus Jennings",
+    "annual_revenue": 42000000,
+    "full_time_employees": 285,
+    "part_time_employees": 165,
+    "years_with_current_agent": 16,
+    "website": "www.hicountryhospitalityp.com",
+    "billing_plan": "Direct Bill \u2014 Quarterly",
+    "payment_plan": "As per billing plan",
+    "prior_carriers": {
+      "general_liability": {
+        "carrier": "Zurich Insurance Group",
+        "policy_number": "0000005824",
+        "expiring_premium": 111274
+      },
+      "commercial_property": {
+        "carrier": "Auto-Owners Insurance",
+        "policy_number": "CP003220-001",
+        "expiring_premium": 280824
+      },
+      "workers_compensation": {
+        "carrier": "Travelers Companies",
+        "policy_number": "WC-8099-9663",
+        "expiring_premium": 294138
+      }
+    },
+    "loss_history": {
+      "workers_compensation": [
+        {
+          "year": 2025,
+          "num_claims": 7,
+          "total_paid": 191379,
+          "total_reserved": 80209,
+          "total_incurred": 271587
+        },
+        {
+          "year": 2024,
+          "num_claims": 4,
+          "total_paid": 38192,
+          "total_reserved": 11081,
+          "total_incurred": 49273
+        },
+        {
+          "year": 2023,
+          "num_claims": 4,
+          "total_paid": 16569,
+          "total_reserved": 0,
+          "total_incurred": 16569
+        },
+        {
+          "year": 2022,
+          "num_claims": 6,
+          "total_paid": 41658,
+          "total_reserved": 0,
+          "total_incurred": 41658
+        },
+        {
+          "year": 2021,
+          "num_claims": 7,
+          "total_paid": 36748,
+          "total_reserved": 99,
+          "total_incurred": 36847
+        }
+      ],
+      "general_liability": [
+        {
+          "year": 2025,
+          "num_claims": 2,
+          "total_paid": 1210,
+          "total_reserved": 73876,
+          "total_incurred": 75086
+        },
+        {
+          "year": 2024,
+          "num_claims": 3,
+          "total_paid": 3357,
+          "total_reserved": 0,
+          "total_incurred": 3357
+        },
+        {
+          "year": 2023,
+          "num_claims": 1,
+          "total_paid": 2087,
+          "total_reserved": 0,
+          "total_incurred": 2087
+        },
+        {
+          "year": 2021,
+          "num_claims": 2,
+          "total_paid": 2126,
+          "total_reserved": 0,
+          "total_incurred": 2126
+        }
+      ],
+      "commercial_property": [
+        {
+          "year": 2025,
+          "num_claims": 2,
+          "total_paid": 178566,
+          "total_reserved": 37361,
+          "total_incurred": 215927
+        }
+      ],
+      "totals": {
+        "num_claims": 38,
+        "total_paid": 511891,
+        "total_reserved": 262627,
+        "total_incurred": 714518
+      }
+    },
+    "premises": [
+      {
+        "loc_number": "LOC-001",
+        "address": "604 Brazos Street",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "occupancy": "Hotel",
+        "construction": "Fire Resistive",
+        "year_built": 2010,
+        "sq_ft": 95000,
+        "stories": 6
+      },
+      {
+        "loc_number": "LOC-002",
+        "address": "112 College Street",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78205",
+        "occupancy": "Hotel",
+        "construction": "Fire Resistive",
+        "year_built": 2000,
+        "sq_ft": 142000,
+        "stories": 12
+      },
+      {
+        "loc_number": "LOC-003",
+        "address": "245 East Main Street",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "zip": "78624",
+        "occupancy": "Hotel",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 1996,
+        "sq_ft": 48000,
+        "stories": 3
+      },
+      {
+        "loc_number": "LOC-004",
+        "address": "1220 South Congress Avenue",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78704",
+        "occupancy": "Hotel",
+        "construction": "Masonry Non-Combustible",
+        "year_built": 2015,
+        "sq_ft": 62000,
+        "stories": 4
+      },
+      {
+        "loc_number": "LOC-005",
+        "address": "609 Brazos Street",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "occupancy": "Restaurant",
+        "construction": "Fire Resistive",
+        "year_built": 2010,
+        "sq_ft": 9500,
+        "stories": 1
+      },
+      {
+        "loc_number": "LOC-006",
+        "address": "6550 Comanche Trail",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78732",
+        "occupancy": "Restaurant",
+        "construction": "Non-Combustible",
+        "year_built": 2012,
+        "sq_ft": 12000,
+        "stories": 2
+      },
+      {
+        "loc_number": "LOC-007",
+        "address": "303 Pearl Parkway",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78215",
+        "occupancy": "Restaurant",
+        "construction": "Joisted Masonry",
+        "year_built": 2014,
+        "sq_ft": 6800,
+        "stories": 1
+      },
+      {
+        "loc_number": "LOC-008",
+        "address": "401 Congress Avenue, Suite 2800",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "occupancy": "Office",
+        "construction": "Fire Resistive",
+        "year_built": 2008,
+        "sq_ft": 6200,
+        "stories": 1
+      }
+    ],
+    "signatures": {
+      "applicant_signature": "Christina Montoya",
+      "applicant_signature_date": "2026-03-14",
+      "applicant_print_name": "Christina Montoya",
+      "applicant_title": "Chief Executive Officer",
+      "producer_signature": "Marcus Jennings",
+      "producer_signature_date": "2026-03-14"
+    }
+  },
+  "remarks": null
+}

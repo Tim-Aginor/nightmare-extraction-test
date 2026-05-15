@@ -1,0 +1,103 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Inc."
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-06-01",
+      "rendered_as": "06/01/2026"
+    },
+    "policy_number_umbrella": {
+      "value": "SIC CU025454"
+    },
+    "umbrella_premium": {
+      "value": 492350.69,
+      "rendered_as": "$492,350.69"
+    },
+    "umbrella_form_type": {
+      "value": "occurrence"
+    },
+    "umbrella_limit_per_occurrence": {
+      "value": 10000000.0,
+      "rendered_as": "$10,000,000.00"
+    },
+    "umbrella_limit_aggregate": {
+      "value": 10000000.0,
+      "rendered_as": "$10,000,000.00"
+    },
+    "umbrella_limit_retention": {
+      "value": 50000.0,
+      "rendered_as": "$50,000.00"
+    }
+  },
+  "doc_type": "acord_131",
+  "underlying_policies": [
+    {
+      "coverage": "gl",
+      "policy_number": "gl GLFS 2025 8821",
+      "limits": {
+        "each_occurrence": {
+          "value": 2000000.0,
+          "rendered_as": "2,000,000.00"
+        },
+        "general_aggregate": {
+          "value": 4000000,
+          "rendered_as": "4,000,000.00"
+        },
+        "products_completed_ops": {
+          "value": 4000000,
+          "rendered_as": "4,000,000.00"
+        },
+        "personal_advertising": {
+          "value": 2000000,
+          "rendered_as": "2,000,000.00"
+        },
+        "damage_rented_premises": {
+          "value": 500000,
+          "rendered_as": "500,000.00"
+        },
+        "medical_expense": {
+          "value": 5000,
+          "rendered_as": "5,000.00"
+        },
+        "stop_gap_el_each_accident": {
+          "value": 1000000,
+          "rendered_as": "1,000,000.00"
+        },
+        "stop_gap_el_disease_policy": {
+          "value": 1000000,
+          "rendered_as": "1,000,000.00"
+        },
+        "stop_gap_el_disease_each_employee": {
+          "value": 1000000,
+          "rendered_as": "1,000,000.00"
+        }
+      }
+    },
+    {
+      "coverage": "auto",
+      "policy_number": "CAGLFS20258822",
+      "limits": {
+        "combined_single_limit": {
+          "value": 5000000.0,
+          "rendered_as": "$5,000,000.00"
+        },
+        "uninsured_motorist": {
+          "value": 500000.0,
+          "rendered_as": "$500,000.00"
+        },
+        "medical_payments": {
+          "value": 10000.0,
+          "rendered_as": "$10,000.00"
+        }
+      }
+    }
+  ]
+}

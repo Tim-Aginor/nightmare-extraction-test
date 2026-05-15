@@ -1,0 +1,53 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [],
+    "concerns": [
+      "Policy cancellation occurred in 2022 with Zurich Insurance Group",
+      "High frequency of claims in 2024 (11 claims)"
+    ],
+    "loss_history_summary": "Prior insurance history spans 2020 to 2024 with historical premiums ranging from approximately $580,000 to $630,000. A total of 31 claims are recorded over the 5-year period (11 in 2024, 3 in 2023, 6 in 2022, 9 in 2021, 2 in 2020). The 2022 policy with Zurich Insurance Group was marked as cancelled."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": null
+  }
+}

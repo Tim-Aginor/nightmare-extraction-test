@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "document_type": "Supplemental App",
+    "date": "2026-03-14",
+    "prepared_by": "Patricia Nowak",
+    "recipient": "Hallmark Insurance Group"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "business_description": {
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 42,
+    "annual_revenue": 95000000,
+    "employee_count": 470
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation / Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Nationwide Insurance",
+      "expiring_premium": 1634721.63,
+      "notes": "Policy number WC-KCB-2025-5580; effective date 08/01/2025; prior carrier for 2024 policy year with 13 claims and no cancellations"
+    },
+    {
+      "coverage_type": "Workers Compensation / Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Berkshire Hathaway Guard",
+      "expiring_premium": 1476849.96,
+      "notes": "2023 policy year; 10 claims; no cancellations"
+    },
+    {
+      "coverage_type": "Workers Compensation / Commercial Lines",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Zurich Insurance Group",
+      "expiring_premium": 1369245.71,
+      "notes": "2022 policy year; 4 claims; policy was cancelled"
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal safety program in place (answered Yes to question 6)",
+      "OSHA 300 logs maintained and regular job-site safety audits conducted",
+      "Formal return-to-work / modified duty program in place",
+      "42 years in business with 28 years under current management",
+      "425 full-time employees reflecting stable, established workforce",
+      "Four of five locations are fully sprinklered",
+      "Annual revenue of $95M demonstrates financial scale and stability"
+    ],
+    "concerns": [
+      "Hazardous materials used or encountered in operations",
+      "Certificates of insurance NOT required from subcontractors before work begins",
+      "Hold-harmless agreements NOT obtained from subcontractors",
+      "No written contracts maintained with all subcontractors",
+      "40% of work performed by subcontractors, increasing third-party exposure",
+      "Demolition or blasting operations performed",
+      "Operations performed above 4 stories",
+      "Claim count trend increasing significantly: 4 (2022) \u2192 10 (2023) \u2192 13 (2024)",
+      "Policy cancelled by Zurich Insurance Group in 2022",
+      "LOC-005 (100 Dutilh Road, Cranberry Township) warehouse is not sprinklered",
+      "LOC-003 (4520 Butler Street) manufacturing facility built in 1988 \u2014 oldest location"
+    ],
+    "loss_history_summary": "Three-year loss history shows a significant upward trend in claim frequency: 4 claims in 2022 (Zurich, $1,369,245.71 premium \u2014 policy cancelled), 10 claims in 2023 (Berkshire Hathaway Guard, $1,476,849.96 premium \u2014 no cancellation), and 13 claims in 2024 (Nationwide Insurance, $1,634,721.63 premium \u2014 no cancellation). Total claims over three years: 27. Premiums have increased year-over-year commensurate with claim activity."
+  },
+  "locations_summary": {
+    "location_count": 5,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": null,
+    "operations_description": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania. Hours of operation: Mon-Fri 7:00 AM - 3:30 PM. 40% of work performed by subcontractors. Three largest projects in past 3 years: 1) $1.2M restaurant build-out, 2) $800K medical office renovation, 3) $650K church addition. Operations performed above 4 stories. Demolition or blasting operations are performed.",
+    "safety_programs": "Formal safety program in place. OSHA 300 logs maintained and regular job-site safety audits conducted. Formal return-to-work / modified duty program in place. Formal written safety program exists. Hazardous materials are used or encountered in operations. Certificates of insurance are NOT required from subcontractors before work begins. Hold-harmless agreements are NOT obtained from subcontractors.",
+    "claims_narrative": "2022 \u2014 Zurich Insurance Group: 4 claims, premium $1,369,245.71, policy cancelled. 2023 \u2014 Berkshire Hathaway Guard: 10 claims, premium $1,476,849.96, no cancellation. 2024 \u2014 Nationwide Insurance: 13 claims, premium $1,634,721.63, no cancellation."
+  }
+}

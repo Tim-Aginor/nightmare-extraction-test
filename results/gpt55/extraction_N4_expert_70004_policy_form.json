@@ -1,0 +1,69 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania",
+    "sic_code": "1521",
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation and Employers Liability Insurance",
+      "current_carrier": "Hallmark Insurance Group",
+      "current_limit": "Employers Liability: $1,000,000 each accident; $1,000,000 disease policy; $1,000,000 disease each employee",
+      "expiring_premium": 1158173.43,
+      "notes": "Policy number WC-KCB-2025-5580. Coverage part form number WC 00 00 04. Endorsements include Waiver of Our Right to Recover From Others, Alternate Employer Endorsement, All States Endorsement, and Terrorism Risk Insurance Act Endorsement.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Workers Compensation and Employers Liability Insurance Policy",
+    "prepared_by": "Hallmark Insurance Group",
+    "recipient": "Keystone Commercial Builders, Inc."
+  },
+  "extracted_text_sections": {
+    "claims_narrative": null,
+    "executive_summary": null,
+    "operations_description": "SIC Code: 1521. Description: General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "name": "Keystone Commercial Builders, Inc.",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-08-01",
+    "current_policy_expiration": "2026-08-01",
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "PA"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "Construction operations include higher-hazard trades and classifications such as carpentry, electrical wiring, plumbing, masonry, and painting.",
+      "Large estimated annual remuneration shown across classifications, including $5,915,000 for carpentry, $6,635,850 for masonry, and $5,010,000 for clerical office employees."
+    ],
+    "loss_history_summary": null,
+    "positives": [
+      "Experience Modification Factor is 0.86.",
+      "All States Endorsement is included.",
+      "Waiver of Our Right to Recover From Others Endorsement is included.",
+      "Alternate Employer Endorsement is included."
+    ]
+  }
+}

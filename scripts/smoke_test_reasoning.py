@@ -51,12 +51,18 @@ from run_extraction import (  # noqa: E402
 def load_smoke_config() -> tuple[Path, str, str]:
     """Pick a public sample PDF + prompt for the smoke test."""
     # Use a public N1 doc so this runs for anyone cloning the repo.
-    sample_doc = PUBLIC_DIR / "examples" / "baseline_N1" / "N1_easy_70001" / "source" / "documents" / "acord_125_70001.pdf"
-    if not sample_doc.exists():
-        # Fallback to packet tree
-        sample_doc = REPO_ROOT / "packets" / "public" / "N1_easy" / "doc_70001" / "documents" / "acord_125_70001.pdf"
-    if not sample_doc.exists():
-        raise FileNotFoundError(f"Could not find a sample PDF for smoke test. Looked in public/examples/baseline_N1/ and packets/public/.")
+    candidates = [
+        PUBLIC_DIR / "examples" / "baseline_N1" / "N1_easy_70001" / "source" / "documents" / "acord_125_70001.pdf",
+        PUBLIC_DIR / "packets" / "N1_easy" / "doc_70001" / "documents" / "acord_125_70001.pdf",
+        REPO_ROOT / "packets" / "public" / "N1_easy" / "doc_70001" / "documents" / "acord_125_70001.pdf",
+    ]
+    sample_doc = next((c for c in candidates if c.exists()), None)
+    if sample_doc is None:
+        raise FileNotFoundError(
+            "Could not find a sample PDF for smoke test. Looked in "
+            "public/examples/baseline_N1/, public/packets/N1_easy/, and "
+            "packets/public/N1_easy/."
+        )
 
     prompt_file = PUBLIC_DIR / "prompts" / "acord_form_extraction.md"
     prompt = prompt_file.read_text()

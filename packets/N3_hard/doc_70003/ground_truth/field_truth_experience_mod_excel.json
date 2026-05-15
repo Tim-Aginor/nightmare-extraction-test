@@ -1,0 +1,365 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Hill Country Hospitality Partners, LLC"
+    },
+    "carrier_name": {
+      "value": "Hallmark Insurance Group"
+    },
+    "insured_address": {
+      "value": "401 Congress Avenue, Suite 2800"
+    },
+    "insured_city": {
+      "value": "Austin"
+    },
+    "insured_state": {
+      "value": "TX"
+    },
+    "insured_zip": {
+      "value": "78701"
+    },
+    "policy_period_start": {
+      "value": "2025-05-01",
+      "rendered_as": "05/01/2025"
+    },
+    "policy_period_end": {
+      "value": "2026-05-01",
+      "rendered_as": "05/01/2026"
+    },
+    "experience_mod": {
+      "value": 0.94
+    }
+  },
+  "doc_type": "experience_mod_excel",
+  "wc_premium_waterfall": {
+    "manual_premium": 379487.0,
+    "experience_mod": 0.94,
+    "modified_premium": 356717.78,
+    "schedule_credit": -0.1584,
+    "schedule_credit_amount": -56504.1,
+    "standard_premium": 300213.68,
+    "premium_discount": 23044.02,
+    "expense_constant": 120.0,
+    "tria_surcharge": 9238.0,
+    "final_premium": 286527.66,
+    "minimum_premium_applied": false
+  },
+  "wc_class_codes": [
+    {
+      "class_code": "9052",
+      "description": "Hotel \u2014 All Other Employees",
+      "state": "TX",
+      "num_employees": 257,
+      "payroll": 9207271,
+      "rate": 2.85,
+      "premium": 262407.0,
+      "governing_class": true,
+      "rendered_values": {
+        "payroll": "$9,207,271.00",
+        "premium": "$262,407.00"
+      }
+    },
+    {
+      "class_code": "9060",
+      "description": "Hotel \u2014 Bellhops, Doorpersons",
+      "state": "TX",
+      "num_employees": 44,
+      "payroll": 1454400,
+      "rate": 2.45,
+      "premium": 35633.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$1,454,400.00",
+        "premium": "$35,633.00"
+      }
+    },
+    {
+      "class_code": "9082",
+      "description": "Restaurant \u2014 NOC",
+      "state": "TX",
+      "num_employees": 117,
+      "payroll": 3678800,
+      "rate": 2.12,
+      "premium": 77991.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$3,678,800.00",
+        "premium": "$77,991.00"
+      }
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2014 NOC",
+      "state": "TX",
+      "num_employees": 32,
+      "payroll": 1920000,
+      "rate": 0.18,
+      "premium": 3456.0,
+      "governing_class": false,
+      "rendered_values": {
+        "payroll": "$1,920,000.00",
+        "premium": "$3,456.00"
+      }
+    }
+  ],
+  "loss_years": [
+    {
+      "year": "2023-2024",
+      "claims": 2,
+      "total_paid": 9939.83,
+      "total_incurred": 9939.83,
+      "primary_losses": 9939.83,
+      "excess_losses": 0.0,
+      "window_start": "2023-05-01",
+      "window_end": "2024-05-01",
+      "rendered_values": {
+        "total_paid": "$9,939.83",
+        "total_incurred": "$9,939.83",
+        "primary_losses": "$9,939.83",
+        "excess_losses": "$0.00"
+      }
+    },
+    {
+      "year": "2022-2023",
+      "claims": 6,
+      "total_paid": 26661.96,
+      "total_incurred": 26661.96,
+      "primary_losses": 26661.96,
+      "excess_losses": 0.0,
+      "window_start": "2022-05-01",
+      "window_end": "2023-05-01",
+      "rendered_values": {
+        "total_paid": "$26,661.96",
+        "total_incurred": "$26,661.96",
+        "primary_losses": "$26,661.96",
+        "excess_losses": "$0.00"
+      }
+    },
+    {
+      "year": "2021-2022",
+      "claims": 8,
+      "total_paid": 56343.08,
+      "total_incurred": 56343.08,
+      "primary_losses": 56343.08,
+      "excess_losses": 0.0,
+      "window_start": "2021-05-01",
+      "window_end": "2022-05-01",
+      "rendered_values": {
+        "total_paid": "$56,343.08",
+        "total_incurred": "$56,343.08",
+        "primary_losses": "$56,343.08",
+        "excess_losses": "$0.00"
+      }
+    }
+  ],
+  "ncci_formula_constants": {
+    "state": "TX",
+    "G_state_expected_loss": 240000,
+    "B_ballast": 8400,
+    "W_table_thresholds": [
+      [
+        4800,
+        0.0
+      ],
+      [
+        24000,
+        0.05
+      ],
+      [
+        48000,
+        0.1
+      ],
+      [
+        144000,
+        0.2
+      ],
+      [
+        480000,
+        0.4
+      ],
+      [
+        1440000,
+        0.55
+      ],
+      [
+        4800000,
+        0.7
+      ],
+      [
+        14400000,
+        0.82
+      ],
+      [
+        48000000,
+        0.92
+      ],
+      [
+        192000000,
+        1.0
+      ]
+    ],
+    "primary_loss_cap": 17000,
+    "max_credibility": 1.0,
+    "expense_constant": 200,
+    "source": "estimate_from_industry_textbook"
+  },
+  "excel_metadata": {
+    "tab_name": "Exp Mod Worksheet",
+    "header_row": 19,
+    "data_start_row": 20,
+    "totals_row": 24,
+    "rating_organization": "Texas Department of Insurance",
+    "bureau_type": "Texas Department of Insurance",
+    "risk_id": "308382-9453",
+    "rating_plan": "Large Risk",
+    "experience_mod": 0.94,
+    "classification_data": [
+      {
+        "class_code": "9052",
+        "payroll": 9207271,
+        "expected_loss_rate": 1.63,
+        "expected_losses": 150079.0,
+        "d_ratio": 0.28
+      },
+      {
+        "class_code": "9060",
+        "payroll": 1454400,
+        "expected_loss_rate": 1.95,
+        "expected_losses": 28361.0,
+        "d_ratio": 0.29
+      },
+      {
+        "class_code": "9082",
+        "payroll": 3678800,
+        "expected_loss_rate": 1.55,
+        "expected_losses": 57021.0,
+        "d_ratio": 0.28
+      },
+      {
+        "class_code": "8810",
+        "payroll": 1920000,
+        "expected_loss_rate": 0.195,
+        "expected_losses": 3744.0,
+        "d_ratio": 0.17
+      }
+    ],
+    "loss_years": [
+      {
+        "year": "2023-2024",
+        "claim_count": 2,
+        "total_paid": 9940.0,
+        "total_incurred": 9940.0,
+        "primary_losses": 9940.0,
+        "excess_losses": 0.0
+      },
+      {
+        "year": "2022-2023",
+        "claim_count": 6,
+        "total_paid": 26662.0,
+        "total_incurred": 26662.0,
+        "primary_losses": 26662.0,
+        "excess_losses": 0.0
+      },
+      {
+        "year": "2021-2022",
+        "claim_count": 8,
+        "total_paid": 56343.0,
+        "total_incurred": 56343.0,
+        "primary_losses": 56343.0,
+        "excess_losses": 0.0
+      }
+    ],
+    "formula_components": {
+      "expected_losses": 361806.0,
+      "actual_primary": 92945.0,
+      "actual_excess": 0.0,
+      "weighting": 0.419,
+      "ballast": 29114.0,
+      "calculated_mod": 0.94
+    },
+    "villification": {
+      "side_by_side": false,
+      "class_code_as_number": false,
+      "what_if_tabs": false,
+      "conditional_formatting": true,
+      "formula_cells": true,
+      "hidden_cols": false,
+      "comments": false,
+      "sheet_protection": false,
+      "alternating_rows": false
+    },
+    "worksheet_sections": {
+      "payroll_section": {
+        "start_row": 18,
+        "end_row": 24
+      },
+      "loss_section": {
+        "start_row": 26,
+        "end_row": 30
+      },
+      "calculation_section": {
+        "start_row": 32,
+        "end_row": 43
+      }
+    },
+    "calculation_integrity": true,
+    "scenario_tabs": [],
+    "merged_regions": [
+      {
+        "range": "A1:G1",
+        "value": "Hallmark Insurance Group"
+      },
+      {
+        "range": "A2:G2",
+        "value": "Texas Department of Insurance Experience Rating Worksheet"
+      },
+      {
+        "range": "B3:D3",
+        "value": "Hill Country Hospitality Partners, LLC"
+      },
+      {
+        "range": "B4:D4",
+        "value": "401 Congress Avenue, Suite 2800, Austin, TX, 78701"
+      },
+      {
+        "range": "B5:D5",
+        "value": "WC-HCHP-2025-3350"
+      },
+      {
+        "range": "B6:D6",
+        "value": "2025-05-01 to 2026-05-01"
+      },
+      {
+        "range": "B7:D7",
+        "value": "2026-03-15"
+      },
+      {
+        "range": "B8:D8",
+        "value": "Marilyn Rocha, Claims Adjustment Bureau"
+      },
+      {
+        "range": "A10:G10",
+        "value": "RATING ORGANIZATION INFORMATION"
+      },
+      {
+        "range": "A18:G18",
+        "value": "PAYROLL / CLASSIFICATION DATA"
+      },
+      {
+        "range": "A26:G26",
+        "value": "ACTUAL LOSS DATA"
+      },
+      {
+        "range": "A32:G32",
+        "value": "RATING CALCULATION"
+      }
+    ],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {}
+  },
+  "format": "xlsx"
+}

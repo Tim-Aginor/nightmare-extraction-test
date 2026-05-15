@@ -1,0 +1,77 @@
+{
+  "report_info": {
+    "report_type": "sprinkler_inspection",
+    "report_date": "2026-03-15",
+    "inspector_name": "S. Martinez, PE",
+    "inspector_company": "Hallmark Insurance Group",
+    "risk_grade": "3 - Average",
+    "grading_scale": "Best's Hazard Index"
+  },
+  "insured": {
+    "name": "Keystone Commercial Builders, Inc.",
+    "address": "300 Liberty Avenue, Suite 1200",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "carrier_info": {
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": "CP-KCB-2025-5583",
+    "policy_period_start": null,
+    "policy_period_end": null
+  },
+  "locations_inspected": [
+    {
+      "name": "Keystone Commercial Builders, Inc.",
+      "address": "300 Liberty Avenue, Suite 1200",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "construction": null,
+      "occupancy": "General Building Contractors (SIC 1521)",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": true,
+      "protection_class": null,
+      "condition_rating": "Fair",
+      "findings": [
+        "Wet Pipe sprinkler system, Viking manufacturer, 28 years old",
+        "NFPA 13 Compliant: Yes",
+        "3 control valves inspected, all found in open position",
+        "Tamper switches connected to monitoring",
+        "Water flow alarm tested - operational",
+        "Supervisory signal: Deficiency noted",
+        "Sprinkler heads visual condition: Fair - minor corrosion observed",
+        "Spare heads in cabinet: Yes - adequate supply",
+        "Water supply - Static Pressure: 89 psi, Residual Pressure: 59 psi, Flow: 1923 GPM, Supply Adequate: Yes"
+      ],
+      "deficiencies": [
+        "Electrical panel clearance obstructed by stored materials",
+        "Exposed wiring and missing junction box covers in main electrical room",
+        "Supervisory signal deficiency noted",
+        "Minor corrosion observed on sprinkler heads"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "Low",
+      "category": "Electrical",
+      "description": "[Advisory] Electrical panel clearance obstructed by stored materials",
+      "estimated_cost": null,
+      "deadline": null
+    },
+    {
+      "priority": "High",
+      "category": "Electrical",
+      "description": "[Priority] Exposed wiring and missing junction box covers in main electrical room",
+      "estimated_cost": null,
+      "deadline": null
+    }
+  ],
+  "overall_assessment": {
+    "summary": "Overall System Status: PASS. Wet pipe sprinkler system is NFPA 13 compliant with adequate water supply. Minor deficiencies noted in supervisory signal and electrical conditions.",
+    "risk_level": "3 - Average",
+    "insurability": "Acceptable"
+  }
+}

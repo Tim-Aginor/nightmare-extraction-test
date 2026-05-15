@@ -1,0 +1,72 @@
+{
+  "form_info": {
+    "form_number": "ACORD 27",
+    "form_edition": "2016/03",
+    "form_title": "Evidence of Property Insurance"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Inc.",
+    "insured_address": "1200 Nationwide Boulevard",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": null,
+    "carrier_name": "Standard Insurance Company",
+    "policy_number": "cpGLFS20258823",
+    "effective_date": "2025-06-01",
+    "expiration_date": "2026-06-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "Dwelling / Building",
+      "limit": 10000000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Personal Property / Contents",
+      "limit": 5000000,
+      "deductible": 50000,
+      "premium": null
+    },
+    {
+      "coverage_type": "Loss of Use / Business Income",
+      "limit": 9750000,
+      "deductible": 50000,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "perils_basic": "unchecked",
+    "perils_broad": "unchecked",
+    "perils_special": "checked"
+  },
+  "additional_fields": {
+    "date_issued": "2026-03-15",
+    "naic_code": "24281",
+    "agency_contact": "David Reinhardt",
+    "agency_address": "41 South High Street, Suite 2800, Columbus, OH 43215",
+    "agency_phone": "(614) 555-0493",
+    "property_location_address": "1200 Nationwide Boulevard, Columbus, OH 43215",
+    "description_of_property": "Warehouse",
+    "mortgagee_name": "Bank of America, N.A.",
+    "mortgagee_rank": "First Mortgagee",
+    "mortgagee_city_state_zip": "Columbus, OH 50943",
+    "cancellation_notice_days": "30",
+    "authorized_representative": "Margaret Sullivan",
+    "authorized_representative_date": "2026-03-15",
+    "handwritten_signature": "M. Johnson",
+    "handwritten_signature_date": "2025-06-18",
+    "handwritten_note": "Need docs"
+  },
+  "remarks": "Coverage provided on Special form. Property is fully sprinklered. Construction type: Non-Combustible."
+}

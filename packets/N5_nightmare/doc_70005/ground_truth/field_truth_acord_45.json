@@ -1,0 +1,122 @@
+{
+  "fields": {
+    "insured_name": {
+      "value": "Great Lakes Freight Systems, Incorporated"
+    },
+    "carrier_name": {
+      "value": "Standard Insurance Company"
+    },
+    "insured_address": {
+      "value": "1200 Nationwide Blvd."
+    },
+    "insured_city": {
+      "value": "Columbus"
+    },
+    "insured_state": {
+      "value": "OH"
+    },
+    "insured_zip": {
+      "value": "43215"
+    },
+    "policy_period_start": {
+      "value": "2025-06-01",
+      "rendered_as": "06/01/2025"
+    },
+    "policy_number_property": {
+      "value": "cpGLFS20258823"
+    }
+  },
+  "doc_type": "acord_45",
+  "locations": [
+    {
+      "schedule_id": "LOC-001",
+      "address": "1200 Nationwide Boulevard",
+      "building_value": 10000000,
+      "contents_value": 5000000,
+      "bi_value": 9750000,
+      "tiv": 24750000,
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-002",
+      "address": "2500 Norton Road",
+      "building_value": 14800000,
+      "contents_value": 7400000,
+      "bi_value": 14430000,
+      "tiv": 36630000,
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-003",
+      "address": "6000 Rockside Woods Boulevard",
+      "building_value": 6650000,
+      "contents_value": 3800000,
+      "bi_value": 7410000,
+      "tiv": 17860000,
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-004",
+      "address": "500 Technology Drive",
+      "building_value": 5460000,
+      "contents_value": 3120000,
+      "bi_value": 6084000,
+      "tiv": 14664000,
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-005",
+      "address": "7600 State Road",
+      "building_value": 4760000,
+      "contents_value": 2720000,
+      "bi_value": 5304000,
+      "tiv": 12784000,
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-006",
+      "address": "4100 Industrial Road",
+      "building_value": 7360000,
+      "contents_value": 3680000,
+      "bi_value": 7176000,
+      "tiv": 18216000,
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-007",
+      "address": "3500 Airborne Road",
+      "building_value": 3120000,
+      "contents_value": 2080000,
+      "bi_value": 4056000,
+      "tiv": 9256000,
+      "construction": "Joisted Masonry",
+      "occupancy": "Warehouse"
+    },
+    {
+      "schedule_id": "LOC-008",
+      "address": "1250 Nationwide Boulevard",
+      "building_value": 1960000,
+      "contents_value": 1680000,
+      "bi_value": 2184000,
+      "tiv": 5824000,
+      "construction": "Masonry Non-Combustible",
+      "occupancy": "Service/Repair"
+    },
+    {
+      "schedule_id": "LOC-009",
+      "address": "41 South High Street, Suite 1500",
+      "building_value": 0,
+      "contents_value": 840000,
+      "bi_value": 1560000,
+      "tiv": 2400000,
+      "construction": "Fire Resistive",
+      "occupancy": "Office"
+    }
+  ]
+}

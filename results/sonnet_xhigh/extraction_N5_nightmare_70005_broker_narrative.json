@@ -1,0 +1,125 @@
+{
+  "document_info": {
+    "document_type": "Broker Narrative / Submission Memo",
+    "date": "2026-03-15",
+    "prepared_by": "David Reinhardt, Vice President, Transportation Insurance Specialists",
+    "recipient": "Underwriting Department, Standard Insurance Company"
+  },
+  "insured": {
+    "name": "Great Lakes Freight Systems, Inc.",
+    "address": "1200 Nationwide Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "business_description": {
+    "nature_of_business": "Regional trucking and freight logistics \u2014 LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": 38,
+    "annual_revenue": null,
+    "employee_count": 485
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers' Compensation",
+      "current_limit": null,
+      "requested_limit": "Statutory / Employer's Liability 1000000/1000000/1000000",
+      "current_carrier": "Ohio Bureau of Workers' Compensation",
+      "expiring_premium": null,
+      "notes": "Coverage provided through Ohio Bureau of Workers' Compensation per state statute \u2014 state fund, not a private market placement. Loss history over review period: 24 claims, 826622.56 paid, 896295.98 incurred."
+    },
+    {
+      "coverage_type": "General Liability",
+      "current_limit": null,
+      "requested_limit": "2000000 per occurrence / 4000000 aggregate",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Occurrence form; includes standard premises/operations and products/completed operations coverage. Loss history over review period: 5 claims, 54126.51 paid, 54126.51 incurred."
+    },
+    {
+      "coverage_type": "Commercial Auto",
+      "current_limit": null,
+      "requested_limit": 5000000,
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Business Auto combined single limit covering all owned, hired, and non-owned vehicles. Loss history over review period: 16 claims, 387376.46 paid, 449550.02 incurred."
+    },
+    {
+      "coverage_type": "Commercial Property",
+      "current_limit": null,
+      "requested_limit": "Replacement cost valuation, special form, all scheduled locations",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "All scheduled locations; specific TIV not provided. Loss history over review period: 2 claims, 106691.36 paid, 106691.36 incurred."
+    },
+    {
+      "coverage_type": "Umbrella / Excess",
+      "current_limit": null,
+      "requested_limit": "10000000 occurrence / 10000000 aggregate",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "Commercial Umbrella following form over primary GL, Auto, and Employer's Liability. Loss history over review period: 0 claims, 0.00 paid, 0.00 incurred."
+    },
+    {
+      "coverage_type": "Motor Truck Cargo",
+      "current_limit": null,
+      "requested_limit": "As per expiring program",
+      "current_carrier": null,
+      "expiring_premium": null,
+      "notes": "No limit specified \u2014 referencing expiring program terms. Loss history over review period: 1 claim, 3916.24 paid, 3916.24 incurred."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Formal business continuity and disaster recovery plan tested annually",
+      "Dedicated safety committee meets monthly and conducts quarterly site audits",
+      "Employee assistance program and workplace wellness initiative in place for over five years",
+      "Contractual risk transfer provisions maintained in all subcontractor and vendor agreements",
+      "Third-party risk control survey completed within past 12 months with favorable results",
+      "Formal return-to-work program has reduced lost-time claims by over 30%",
+      "All locations equipped with security camera systems and 24/7 monitoring services",
+      "Structured HR program with low employee turnover and consistent safety training",
+      "Fleet of 37 vehicles maintained under documented preventive maintenance schedule",
+      "Favorable annualized loss ratio of 12.9% over 5 loss years",
+      "38 years of operating history indicating business stability",
+      "No Umbrella/Excess claims over review period"
+    ],
+    "concerns": [
+      "Mixed loss trend with some large individual claims noted in the review period",
+      "13 of 48 total claims (27%) remain open \u2014 elevated open claim ratio",
+      "Workers' Compensation is the largest loss line by both claim count (24) and incurred dollars (896295.98)",
+      "Commercial Auto is second largest loss line (16 claims, 449550.02 incurred)",
+      "Workers' Compensation through Ohio state BWC \u2014 private carrier cannot underwrite; loss data sourced from state fund records",
+      "Transfer submission \u2014 current carrier(s) not identified; reason for transfer not stated",
+      "Date discrepancy: document header dated 2026-03-15 but reviewer signature (M. Johnson) is dated 6/18/2025, approximately 9 months prior",
+      "Handwritten notation 'Need docs' on page 2 indicates supporting documentation may be incomplete",
+      "Commercial Property scheduled locations and total insured values not disclosed",
+      "Motor Truck Cargo limit not specified \u2014 deferred to expiring program with no terms provided"
+    ],
+    "loss_history_summary": "Over 5 loss years: 48 total claims, 1378733.13 total paid, 1510580.11 total incurred; 13 open, 35 closed. Annualized loss ratio 12.9% (avg annual incurred 302116.02 vs. current annual premium 2333947.33). By coverage line \u2014 Workers' Compensation: 24 claims, 826622.56 paid, 896295.98 incurred; Commercial Auto: 16 claims, 387376.46 paid, 449550.02 incurred; Commercial Property: 2 claims, 106691.36 paid, 106691.36 incurred; General Liability: 5 claims, 54126.51 paid, 54126.51 incurred; Motor Truck Cargo: 1 claim, 3916.24 paid, 3916.24 incurred; Umbrella/Excess: 0 claims, 0.00 paid, 0.00 incurred. Cross-check: line-level totals sum to 1378733.13 paid and 1510580.11 incurred, consistent with stated totals."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": 37,
+    "driver_count": null,
+    "radius_of_operation": "Midwest and Mid-Atlantic corridors"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Great Lakes Freight Systems, Inc. is a regional trucking and freight logistics company providing LTL and FTL general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors, headquartered in Columbus, OH, with approximately 38 years of operating history. This is a transfer submission to Standard Insurance Company requesting six lines of coverage. Broker recommends competitive pricing based on favorable loss history and proactive risk management posture.",
+    "operations_description": "Regional trucking and freight logistics \u2014 LTL (Less-than-Truckload) and FTL (Full Truckload) general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Headquartered in Columbus, OH at 1200 Nationwide Boulevard. Operates a fleet of 37 vehicles with 485 employees.",
+    "safety_programs": "The insured maintains a formal business continuity and disaster recovery plan tested annually. The insured maintains a dedicated safety committee that meets monthly and conducts quarterly site audits. An employee assistance program and workplace wellness initiative have been in place for over five years. The insured carries contractual risk transfer provisions in all subcontractor and vendor agreements. A third-party risk control survey was completed within the past 12 months with favorable results. The insured has implemented a formal return-to-work program that has reduced lost-time claims by over 30%. All locations are equipped with security camera systems and 24/7 monitoring services. With 485 employees and a structured HR program, the insured maintains low turnover and consistent safety training. The insured's fleet of 37 vehicles is maintained under a documented preventive maintenance schedule.",
+    "claims_narrative": "The loss experience reflects a mixed trend with some large individual claims in the review period. Over the review period (5 loss years), the insured has incurred 48 total claims with 1378733.13 in total paid losses and 1510580.11 total incurred. Currently 13 claims remain open and 35 have been closed. Annualized loss ratio is 12.9% (avg annual incurred 302116.02 against current annual premium 2333947.33 over 5 loss years). Breakdown by coverage line: Workers' Compensation \u2014 24 claims, 826622.56 paid, 896295.98 incurred; General Liability \u2014 5 claims, 54126.51 paid, 54126.51 incurred; Commercial Auto \u2014 16 claims, 387376.46 paid, 449550.02 incurred; Commercial Property \u2014 2 claims, 106691.36 paid, 106691.36 incurred; Umbrella/Excess \u2014 0 claims, 0.00 paid, 0.00 incurred; Motor Truck Cargo \u2014 1 claim, 3916.24 paid, 3916.24 incurred."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "document_info": {
+    "document_type": "Carrier History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations were reported in any policy year from 2020 through 2024.",
+      "No claims were reported in 2021 and 2023."
+    ],
+    "concerns": [
+      "Claims were reported in 3 of the 5 years shown: 2020, 2022, and 2024.",
+      "Loss ratio values were not provided in the carrier history table."
+    ],
+    "loss_history_summary": "Five-year carrier history reflects 3 total claims: 1 in 2020, 0 in 2021, 1 in 2022, 0 in 2023, and 1 in 2024. No cancellations were reported in any year."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "PRIOR INSURANCE HISTORY",
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "2024 CNA Financial CP-5690-6189 414601.77 1 claim cancellation No; 2023 Zurich Insurance Group 7CP0006249 423914.72 0 claims cancellation No; 2022 American International Group CP006315-001 447842.42 1 claim cancellation No; 2021 Auto-Owners Insurance 0000006024 470199.5 0 claims cancellation No; 2020 Berkshire Hathaway Guard 7CP0004214 467047.27 1 claim cancellation No."
+  }
+}

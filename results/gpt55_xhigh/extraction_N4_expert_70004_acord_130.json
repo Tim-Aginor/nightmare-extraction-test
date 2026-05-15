@@ -1,0 +1,105 @@
+{
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": "26-7194638",
+    "naics_code": null,
+    "nature_of_business": "General contracting for commercial and institutional construction \u2014 healthcare facilities, educational buildings, and corporate offices throughout Western Pennsylvania.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "checkboxes": [],
+  "experience_mod": 0.86,
+  "form_info": {
+    "form_edition": "2013/09",
+    "form_number": "ACORD 130",
+    "form_title": "Workers Compensation Application"
+  },
+  "header": {
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-04-01",
+    "expiration_date": "2026-04-01",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "policy_number": "WC-KCB-2025-5590",
+    "producer_code": null,
+    "producer_name": "Patricia Nesseth"
+  },
+  "individuals": [
+    {
+      "name": "Joseph Kowalczyk",
+      "status": "Included",
+      "title": "President & CEO"
+    },
+    {
+      "name": "Jenny Pires",
+      "status": "Excluded",
+      "title": "CFO"
+    }
+  ],
+  "remarks": null,
+  "wc_class_codes": [
+    {
+      "class_code": "5403",
+      "description": "Carpentry \u2013 NOC",
+      "payroll": 5915000,
+      "premium": 487396,
+      "rate": 8.24,
+      "state": "PA"
+    },
+    {
+      "class_code": "5190",
+      "description": "Electrical Wiring",
+      "payroll": 4544000,
+      "premium": 220384,
+      "rate": 4.85,
+      "state": "PA"
+    },
+    {
+      "class_code": "5183",
+      "description": "Plumbing \u2013 NOC",
+      "payroll": 3075000,
+      "premium": 138990,
+      "rate": 4.52,
+      "state": "PA"
+    },
+    {
+      "class_code": "5022",
+      "description": "Masonry \u2013 NOC",
+      "payroll": 6658800,
+      "premium": 609280,
+      "rate": 9.15,
+      "state": "PA"
+    },
+    {
+      "class_code": "5474",
+      "description": "Painting \u2013 Interior",
+      "payroll": 1637800,
+      "premium": 111698,
+      "rate": 6.82,
+      "state": "PA"
+    },
+    {
+      "class_code": "5606",
+      "description": "Contractors \u2013 Project Manager, Superintendent",
+      "payroll": 4776000,
+      "premium": 117012,
+      "rate": 2.45,
+      "state": "PA"
+    },
+    {
+      "class_code": "8810",
+      "description": "Clerical Office Employees \u2013 NOC",
+      "payroll": 5050000,
+      "premium": 9595,
+      "rate": 0.19,
+      "state": "PA"
+    }
+  ],
+  "wc_premium": {
+    "base_premium": 1694354,
+    "total_premium": 1158173
+  }
+}

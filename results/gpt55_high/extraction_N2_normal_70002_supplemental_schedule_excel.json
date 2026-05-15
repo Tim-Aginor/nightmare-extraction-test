@@ -1,0 +1,68 @@
+{
+  "business_description": {
+    "annual_revenue": null,
+    "employee_count": null,
+    "naics_code": null,
+    "nature_of_business": "Industrial properties with warehouse, manufacturing, and office premises in Ohio.",
+    "sic_code": null,
+    "years_in_business": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Commercial Property",
+      "current_carrier": "Liberty Mutual Insurance",
+      "current_limit": null,
+      "expiring_premium": 392002.31,
+      "notes": "Prior insurance history shows 2024 carrier Liberty Mutual Insurance, policy CP00007001, premium 392002.31, 0 claims, no cancellation. Prior years listed: 2023 Hartford Financial Services premium 419914.35 with 0 claims; 2022 Chubb Limited premium 456514.1 with 0 claims; 2021 Hartford Financial Services premium 458666.38 with 1 claim. No cancellations shown for any listed year.",
+      "requested_limit": null
+    }
+  ],
+  "document_info": {
+    "date": null,
+    "document_type": "Excel submission schedules",
+    "prepared_by": null,
+    "recipient": null
+  },
+  "extracted_text_sections": {
+    "claims_narrative": "Prior insurance history lists 0 claims for 2024, 2023, and 2022, and 1 claim for 2021. No cancellations are shown for any listed year.",
+    "executive_summary": null,
+    "operations_description": "Premises schedule lists nine Ohio locations with occupancies including warehouse, manufacturing, and office.",
+    "safety_programs": null
+  },
+  "fleet_summary": {
+    "driver_count": null,
+    "radius_of_operation": null,
+    "vehicle_count": null
+  },
+  "insured": {
+    "address": "250 Civic Center Drive, Suite 600",
+    "city": "Columbus",
+    "name": "Buckeye Industrial Properties, LLC",
+    "state": "OH",
+    "zip": "43215"
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "locations_summary": {
+    "location_count": 9,
+    "states_of_operation": [
+      "OH"
+    ],
+    "total_insured_value": null
+  },
+  "risk_highlights": {
+    "concerns": [
+      "One claim reported in 2021.",
+      "Own/lease status is blank for LOC-008."
+    ],
+    "loss_history_summary": "Prior insurance history shows 0 claims for 2024, 2023, and 2022, and 1 claim for 2021. No cancellations are listed for any year shown.",
+    "positives": [
+      "No claims reported for the three most recent listed years: 2024, 2023, and 2022.",
+      "No cancellations reported in the four-year insurance history.",
+      "All listed premises are located in Ohio."
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "packet_id": "N3_hard_70003",
+  "difficulty": "N3_hard",
+  "seed": "70003",
+  "document": "financial_statement",
+  "ground_truth": {
+    "doc_type": "financial_statement",
+    "category": "financial_statement",
+    "prompt_file": "financial_statement_extraction.md",
+    "source_file": "field_truth_financial_statement.json",
+    "raw_ground_truth": {
+      "fields": {
+        "insured_name": {
+          "value": "Hill Country Hospitality Partners, LLC",
+          "locations": [
+            {
+              "page": 1,
+              "x": 227.5,
+              "y": 83.0,
+              "width": 157.0,
+              "height": 10.0
+            },
+            {
+              "page": 1,
+              "x": 48.8,
+              "y": 160.8,
+              "width": 141.3,
+              "height": 9.0
+            }
+          ]
+        },
+        "insured_address": {
+          "value": "401 Congress Avenue, Suite 2800"
+        },
+        "insured_city": {
+          "value": "Austin"
+        },
+        "insured_state": {
+          "value": "TX"
+        },
+        "insured_zip": {
+          "value": "78701"
+        },
+        "annual_revenue": {
+          "value": 42000000,
+          "rendered_as": "$42,000,000.00"
+        },
+        "entity_type": {
+          "value": "LLC",
+          "locations": [
+            {
+              "page": 1,
+              "x": 48.8,
+              "y": 190.8,
+              "width": 17.0,
+              "height": 9.0
+            }
+          ]
+        },
+        "nature_of_business": {
+          "value": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas",
+          "locations": [
+            {
+              "page": 1,
+              "x": 48.8,
+              "y": 220.8,
+              "width": 443.2,
+              "height": 9.0
+            }
+          ]
+        },
+        "bs_cash": {
+          "value": 8884400.0,
+          "rendered_as": "$8,884,400.00"
+        },
+        "bs_accounts_receivable": {
+          "value": 4766200.0,
+          "rendered_as": "$4,766,200.00"
+        },
+        "bs_inventory": {
+          "value": 377700.0,
+          "rendered_as": "$377,700.00"
+        },
+        "bs_prepaid_expenses": {
+          "value": 1050000.0,
+          "rendered_as": "$1,050,000.00"
+        },
+        "bs_ppe_net": {
+          "value": 42000000.0,
+          "rendered_as": "$42,000,000.00"
+        },
+        "bs_other_assets": {
+          "value": 19926000.0,
+          "rendered_as": "$19,926,000.00"
+        },
+        "bs_total_assets": {
+          "value": 77004300.0,
+          "rendered_as": "$77,004,300.00"
+        },
+        "bs_accounts_payable": {
+          "value": 7467100.0,
+          "rendered_as": "$7,467,100.00"
+        },
+        "bs_accrued_expenses": {
+          "value": 5014800.0,
+          "rendered_as": "$5,014,800.00"
+        },
+        "bs_current_lt_debt": {
+          "value": 3486000.0,
+          "rendered_as": "$3,486,000.00"
+        },
+        "bs_long_term_debt": {
+          "value": 6543500.0,
+          "rendered_as": "$6,543,500.00"
+        },
+        "bs_other_liabilities": {
+          "value": 1957500.0,
+          "rendered_as": "$1,957,500.00"
+        },
+        "bs_total_liabilities": {
+          "value": 24468900.0,
+          "rendered_as": "$24,468,900.00"
+        },
+        "bs_equity": {
+          "value": 52535400.0,
+          "rendered_as": "$52,535,400.00"
+        },
+        "is_revenue": {
+          "value": 42000000,
+          "rendered_as": "$42,000,000.00"
+        },
+        "is_cogs": {
+          "value": 22444200.0,
+          "rendered_as": "$22,444,200.00"
+        },
+        "is_gross_profit": {
+          "value": 19555800.0,
+          "rendered_as": "$19,555,800.00"
+        },
+        "is_operating_expenses": {
+          "value": 12809400.0,
+          "rendered_as": "$12,809,400.00"
+        },
+        "is_depreciation": {
+          "value": 1657000.0,
+          "rendered_as": "$1,657,000.00"
+        },
+        "is_ebit": {
+          "value": 5089400.0,
+          "rendered_as": "$5,089,400.00"
+        },
+        "is_interest_expense": {
+          "value": 951500.0,
+          "rendered_as": "$951,500.00"
+        },
+        "is_ebt": {
+          "value": 4137900.0,
+          "rendered_as": "$4,137,900.00"
+        },
+        "is_tax_provision": {
+          "value": 917300.0,
+          "rendered_as": "$917,300.00"
+        },
+        "is_net_income": {
+          "value": 3220600.0,
+          "rendered_as": "$3,220,600.00"
+        },
+        "is_tax_rate": {
+          "value": 0.2217,
+          "rendered_as": "22.2%"
+        }
+      },
+      "doc_type": "financial_statement",
+      "financial_ratios": {
+        "current_ratio": {
+          "value": 0.9443,
+          "rendered_as": "0.94"
+        },
+        "debt_to_equity": {
+          "value": 0.4658,
+          "rendered_as": "0.47"
+        },
+        "profit_margin": {
+          "value": 0.0767,
+          "rendered_as": "7.67%"
+        },
+        "return_on_assets": {
+          "value": 0.0418,
+          "rendered_as": "4.18%"
+        }
+      }
+    },
+    "header": {
+      "insured_name": "Hill Country Hospitality Partners, LLC",
+      "insured_address": "401 Congress Avenue, Suite 2800",
+      "insured_city": "Austin",
+      "insured_state": "TX",
+      "insured_zip": "78701",
+      "carrier_name": null,
+      "policy_period_start": null,
+      "policy_period_end": null
+    },
+    "balance_sheet": {},
+    "income_statement": {},
+    "ratios": {},
+    "document_path": "../packets/N3_hard/doc_70003/documents/financial_statement_70003.pdf"
+  }
+}

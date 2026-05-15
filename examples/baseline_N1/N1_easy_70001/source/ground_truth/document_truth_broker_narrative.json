@@ -1,0 +1,36 @@
+{
+  "document_type": "broker_narrative",
+  "template": "apex_managing_general_agency_mga",
+  "seed": 70001,
+  "insured": {
+    "name": "Lone Star Property Holdings, LP",
+    "address": "2200 Ross Avenue, Suite 4500, Dallas, TX, 75201",
+    "street": "2200 Ross Avenue, Suite 4500",
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201"
+  },
+  "carrier": "Apex Managing General Agency",
+  "policy_period": {
+    "start": "2025-07-01",
+    "end": "2026-07-01"
+  },
+  "policy_numbers": {
+    "property": "CP-LSPH-2025-7801"
+  },
+  "summary": {
+    "total_claims": 3,
+    "coverages": [
+      "property"
+    ],
+    "total_paid": 259081.54,
+    "total_reserved": 44151.06,
+    "total_incurred": 303232.6,
+    "open_claims": 1,
+    "closed_claims": 2
+  },
+  "page_count": 2,
+  "premiums": {
+    "property": 403697.14
+  }
+}

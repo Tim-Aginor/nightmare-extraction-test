@@ -1,0 +1,150 @@
+{
+  "coverages": [
+    {
+      "coverage_code": "WC 00 00 04",
+      "coverage_type": "Workers Compensation and Employers Liability",
+      "deductible": null,
+      "form_numbers": [
+        "WC 00 00 04",
+        "WC 00 04 22",
+        "WC 42 03 04",
+        "WC 42 06 01",
+        "WC 00 03 13"
+      ],
+      "limit": "Workers Compensation: Statutory; Employers Liability: Bodily Injury by Accident $1,000,000; Bodily Injury by Disease - Policy Limit $1,000,000; Bodily Injury by Disease - Each Employee $1,000,000",
+      "premium": 286528
+    },
+    {
+      "coverage_code": "CG 00 01",
+      "coverage_type": "Commercial General Liability",
+      "deductible": 5000,
+      "form_numbers": [
+        "CG 00 01 04 13",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "CG 20 37 04 13",
+        "CG 20 10 04 13",
+        "IL 09 85 01 15",
+        "CG 24 04 05 09"
+      ],
+      "limit": "Each Occurrence $1,000,000; General Aggregate $2,000,000; Products-Completed Operations Aggregate $2,000,000; Personal & Advertising Injury $500,000; Damage to Rented Premises $50,000; Medical Expense (Any One Person) $10,000",
+      "premium": 108425
+    },
+    {
+      "coverage_code": "CP 00 10",
+      "coverage_type": "Commercial Property",
+      "deductible": 25000,
+      "form_numbers": [
+        "CP 00 10 10 12",
+        "CP 00 30 10 12",
+        "CP 10 30 10 12",
+        "IL 00 21 09 08",
+        "IL 00 17 11 98",
+        "IL 09 85 01 15",
+        "CP 03 21 06 07"
+      ],
+      "limit": "Building $101,570,000; Business Personal Property $26,150,000; Business Income with Extra Expense $40,510,000; Coinsurance 90%",
+      "premium": 265470
+    }
+  ],
+  "endorsements": [
+    {
+      "form_number": "WC 00 04 22",
+      "title": "Experience Rating Modification Factor Endorsement"
+    },
+    {
+      "form_number": "WC 42 03 04",
+      "title": "Texas Notice of Material Change Endorsement"
+    },
+    {
+      "form_number": "WC 42 06 01",
+      "title": "Texas Cancellation by the Insured Endorsement"
+    },
+    {
+      "form_number": "WC 00 03 13",
+      "title": "Waiver of Our Right to Recover from Others Endorsement"
+    },
+    {
+      "form_number": "IL 00 21 09 08",
+      "title": "Nuclear Energy Liability Exclusion"
+    },
+    {
+      "form_number": "IL 00 17 11 98",
+      "title": "Common Policy Conditions"
+    },
+    {
+      "form_number": "CG 20 37 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors (Completed Ops)"
+    },
+    {
+      "form_number": "CG 20 10 04 13",
+      "title": "Additional Insured - Owners, Lessees or Contractors"
+    },
+    {
+      "form_number": "IL 09 85 01 15",
+      "title": "Disclosure Pursuant to Terrorism Risk Insurance Act"
+    },
+    {
+      "form_number": "CG 24 04 05 09",
+      "title": "Waiver of Transfer of Rights of Recovery Against Others To Us"
+    },
+    {
+      "form_number": "CP 00 30 10 12",
+      "title": "Business Income (and Extra Expense) Coverage Form"
+    },
+    {
+      "form_number": "CP 10 30 10 12",
+      "title": "Causes of Loss - Special Form"
+    },
+    {
+      "form_number": "CP 03 21 06 07",
+      "title": "Windstorm or Hail Percentage Deductible"
+    }
+  ],
+  "forms_attached": [
+    "WC 00 00 04 - Workers Compensation and Employers Liability Insurance Policy",
+    "WC 00 04 22 - Experience Rating Modification Factor Endorsement",
+    "WC 42 03 04 - Texas Notice of Material Change Endorsement",
+    "WC 42 06 01 - Texas Cancellation by the Insured Endorsement",
+    "WC 00 03 13 - Waiver of Our Right to Recover from Others Endorsement",
+    "CG 00 01 04 13 - Commercial General Liability Coverage Form",
+    "IL 00 21 09 08 - Nuclear Energy Liability Exclusion",
+    "IL 00 17 11 98 - Common Policy Conditions",
+    "CG 20 37 04 13 - Additional Insured - Owners, Lessees or Contractors (Completed Ops)",
+    "CG 20 10 04 13 - Additional Insured - Owners, Lessees or Contractors",
+    "IL 09 85 01 15 - Disclosure Pursuant to Terrorism Risk Insurance Act",
+    "CG 24 04 05 09 - Waiver of Transfer of Rights of Recovery Against Others To Us",
+    "CP 00 10 10 12 - Building and Personal Property Coverage Form",
+    "CP 00 30 10 12 - Business Income (and Extra Expense) Coverage Form",
+    "CP 10 30 10 12 - Causes of Loss - Special Form",
+    "CP 03 21 06 07 - Windstorm or Hail Percentage Deductible"
+  ],
+  "insured": {
+    "address": "401 Congress Avenue, Suite 2800",
+    "city": "Austin",
+    "dba": null,
+    "entity_type": "LLC",
+    "name": "Hill Country Hospitality Partners, LLC",
+    "state": "TX",
+    "zip": "78701"
+  },
+  "locations": [],
+  "policy_info": {
+    "carrier_naic": "28339",
+    "carrier_name": "Hallmark Insurance Group",
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "policy_number": "WC-HCHP-2025-3350; GL-HCHP-2025-3351; CP-HCHP-2025-3352",
+    "policy_type": "Workers Compensation and Employers Liability; Commercial General Liability; Commercial Property"
+  },
+  "premium_summary": {
+    "taxes_fees": null,
+    "total_due": null,
+    "total_premium": 660423
+  },
+  "producer": {
+    "address": null,
+    "code": null,
+    "name": null
+  }
+}

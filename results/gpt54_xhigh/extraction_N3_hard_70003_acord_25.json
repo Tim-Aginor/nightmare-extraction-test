@@ -1,0 +1,92 @@
+{
+  "form_info": {
+    "form_number": "ACORD 25",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF LIABILITY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Country Hospitality Partners, LLC",
+    "insured_address": "401 Congress Avenue, Suite 2800",
+    "insured_city": "Austin",
+    "insured_state": "TX",
+    "insured_zip": "78701",
+    "carrier_name": "Hallmark Insurance Group",
+    "policy_number": null,
+    "effective_date": "2025-05-01",
+    "expiration_date": "2026-05-01",
+    "producer_name": "Capitol Insurance Advisors",
+    "producer_code": null
+  },
+  "document_date": null,
+  "certificate_holders": [
+    {
+      "name": "Driskill Realty Management Inc.",
+      "address": "219 Lake Street, Springfield, MO 65801"
+    }
+  ],
+  "carrier_name_per_lob": [
+    {
+      "lob": "Commercial General Liability",
+      "carrier": "Hallmark Insurance Group",
+      "naic": null,
+      "policy_number": null
+    },
+    {
+      "lob": "Workers Compensation and Employers Liability",
+      "carrier": "Hallmark Insurance Group",
+      "naic": null,
+      "policy_number": null
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "policy_number": null,
+      "effective_date": "2025-05-01",
+      "expiration_date": "2026-05-01",
+      "limit": "Each Occurrence 1000000; Damage To Rented Premises 50000; Medical Expense 10000; Personal And Advertising Injury 500000; General Aggregate 2000000; Products-Completed Operations Aggregate 2000000"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers Liability",
+      "policy_number": null,
+      "effective_date": "2025-05-01",
+      "expiration_date": "2026-05-01",
+      "limit": "Statutory; Employers Liability Each Accident 1000000; Employers Liability Disease Each Employee 1000000; Employers Liability Disease Policy Limit 1000000"
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "commercial_general_liability_occurrence",
+      "value": "Yes"
+    },
+    {
+      "field": "commercial_general_liability_claims_made",
+      "value": "No"
+    },
+    {
+      "field": "commercial_general_liability_aggregate_per_policy",
+      "value": "Yes"
+    },
+    {
+      "field": "commercial_general_liability_aggregate_per_project",
+      "value": "No"
+    },
+    {
+      "field": "commercial_general_liability_aggregate_per_location",
+      "value": "No"
+    },
+    {
+      "field": "commercial_general_liability_additional_insured",
+      "value": "Yes"
+    },
+    {
+      "field": "commercial_general_liability_subrogation_waived",
+      "value": "No"
+    },
+    {
+      "field": "workers_compensation_statutory_limits",
+      "value": "Yes"
+    }
+  ],
+  "remarks": "Boutique hotel ownership and management with integrated restaurant and event operations across Central and South Texas locations: The Driskill Austin at 604 Brazos Street, Austin, TX 78701; a San Antonio location at 112 College Street, San Antonio, TX 78205; and Fredericksburg Inn & Spa at 245 East Main Street, Fredericksburg, TX 78624. Certificate holder is included as additional insured as required by service contract. 30 days notice of cancellation will be provided."
+}

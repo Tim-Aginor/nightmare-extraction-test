@@ -1,0 +1,78 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": null,
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_address": "1200 Nationwide Blvd",
+    "insured_city": "Columbus",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "carrier_name": "Sentry Insurance Company",
+    "policy_number": null,
+    "effective_date": null,
+    "expiration_date": null,
+    "producer_name": "Transportation Insurance Specialists",
+    "producer_code": "AG-4415919"
+  },
+  "document_date": null,
+  "policy_form_type": "special",
+  "locations": [
+    {
+      "location_number": null,
+      "address": "1200 Nationwide Boulevard",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215",
+      "construction": "Non-Combustible",
+      "occupancy": "Warehouse",
+      "year_built": null,
+      "stories": null,
+      "square_feet": null,
+      "sprinklered": null,
+      "roof_type": null,
+      "sprinkler_type": null,
+      "fire_alarm_type": null,
+      "building_value": null,
+      "contents_value": null,
+      "bi_value": null,
+      "tiv": null
+    }
+  ],
+  "property_limits": {
+    "building": 44110000,
+    "contents": null,
+    "business_income": 27954000
+  },
+  "property_deductible": 25000,
+  "insurer_panel": [
+    {
+      "carrier": "Sentry Insurance Company",
+      "naic": "24988"
+    },
+    {
+      "carrier": "Sentry Casualty Company",
+      "naic": "21083"
+    },
+    {
+      "carrier": "Sentry Casualty Company",
+      "naic": "25038"
+    },
+    {
+      "carrier": "Sentry Assurance Company",
+      "naic": "21180"
+    },
+    {
+      "carrier": "Sentry Surety Company",
+      "naic": "24990"
+    },
+    {
+      "carrier": "Sentry Select Insurance Company",
+      "naic": "15156"
+    }
+  ],
+  "checkboxes": [],
+  "remarks": "Special Conditions / Other Coverages: ACORD 101, Additional Remarks Schedule, may be attached if more space is required. Certificate holder: Momentum Realty Management Inc., 3333 Summit Avenue, Little Rock, AR 72201. Handwritten note appears to read 'Need dec' and date '6/18/2025'."
+}

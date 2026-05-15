@@ -1,0 +1,67 @@
+{
+  "document_info": {
+    "document_type": "Texas Department of Insurance Experience Rating Modification Worksheet",
+    "date": "2026-03-15",
+    "prepared_by": "Texas Department of Insurance",
+    "recipient": null
+  },
+  "insured": {
+    "name": "Hill Country Hospitality Partners, LLC",
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": "Hotel and hospitality operations with hotel employees, bellhops and doorpersons, restaurant operations, and clerical office employees.",
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [
+    {
+      "coverage_type": "Workers Compensation Experience Rating",
+      "current_limit": null,
+      "requested_limit": null,
+      "current_carrier": "Hallmark Insurance Group",
+      "expiring_premium": null,
+      "notes": "Risk ID 201435-1808; state TX; interstate rating No; rating plan Large Risk; final experience modification factor 0.94 effective 2025-05-01 through 2026-05-01."
+    }
+  ],
+  "risk_highlights": {
+    "positives": [
+      "Final experience modification factor is 0.94.",
+      "Actual excess losses are 0 for the reported experience period.",
+      "Actual incurred losses total 92945 compared with expected losses of 361806."
+    ],
+    "concerns": [
+      "Three-year loss history includes 16 claims totaling 92945 incurred losses."
+    ],
+    "loss_history_summary": "Actual loss data shows 16 total claims with 92945 total paid, 92945 total incurred, 92945 primary losses, and 0 excess losses. By policy year: 2023-2024 had 2 claims and 9940 incurred; 2022-2023 had 6 claims and 26662 incurred; 2021-2022 had 8 claims and 56343 incurred."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [
+      "TX"
+    ],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": "2025-05-01",
+    "current_policy_expiration": "2026-05-01",
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Final Experience Modification Factor: 0.94; Effective Date: 2025-05-01; Expiration Date: 2026-05-01; State: TX.",
+    "operations_description": "Payroll and classification data lists TX 9052 Hotel \u2014 All Other Employees with payroll 9207271; TX 9060 Hotel \u2014 Bellhops, Doorpersons with payroll 1454400; TX 9082 Restaurant \u2014 NOC with payroll 3678800; TX 8810 Clerical Office Employees \u2014 NOC with payroll 1920000. Total payroll is 16260471.",
+    "safety_programs": null,
+    "claims_narrative": "Actual loss data: 2023-2024: 2 claims, 9940 paid, 9940 incurred, 9940 primary losses, 0 excess losses; 2022-2023: 6 claims, 26662 paid, 26662 incurred, 26662 primary losses, 0 excess losses; 2021-2022: 8 claims, 56343 paid, 56343 incurred, 56343 primary losses, 0 excess losses."
+  }
+}

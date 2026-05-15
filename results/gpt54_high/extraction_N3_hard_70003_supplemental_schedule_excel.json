@@ -1,0 +1,58 @@
+{
+  "document_info": {
+    "document_type": "Prior Insurance History",
+    "date": null,
+    "prepared_by": null,
+    "recipient": null
+  },
+  "insured": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "business_description": {
+    "nature_of_business": null,
+    "sic_code": null,
+    "naics_code": null,
+    "years_in_business": null,
+    "annual_revenue": null,
+    "employee_count": null
+  },
+  "coverages_discussed": [],
+  "risk_highlights": {
+    "positives": [
+      "No cancellations reported in 2020, 2021, 2023, and 2024.",
+      "Prior carrier history is available for five years, with named carriers shown for 2020 through 2023."
+    ],
+    "concerns": [
+      "Cancellation was reported in 2022.",
+      "Claims increased to 11 in 2024.",
+      "2024 carrier and premium fields were blank.",
+      "Loss ratio fields were blank for all years shown."
+    ],
+    "loss_history_summary": "Claims by year: 2024 - 11 claims; 2023 - 3 claims; 2022 - 6 claims; 2021 - 9 claims; 2020 - 2 claims."
+  },
+  "locations_summary": {
+    "location_count": null,
+    "states_of_operation": [],
+    "total_insured_value": null
+  },
+  "fleet_summary": {
+    "vehicle_count": null,
+    "driver_count": null,
+    "radius_of_operation": null
+  },
+  "key_dates": {
+    "current_policy_effective": null,
+    "current_policy_expiration": null,
+    "requested_effective": null
+  },
+  "extracted_text_sections": {
+    "executive_summary": "Prior Insurance History",
+    "operations_description": null,
+    "safety_programs": null,
+    "claims_narrative": "2024: carrier not listed; policy numbers WC-8098-9663, 0000005824, CP003220-001; claims 11; cancellation No. 2023: Markel Corporation; policy numbers 7WC0009522, 0000002291, CP-1970-9645; premium 619820.26; claims 3; cancellation No. 2022: Zurich Insurance Group; policy numbers 0000004808, GL-0002700, 7CP0001066; premium 607294.45; claims 6; cancellation Yes. 2021: Chubb Limited; policy numbers 0000008163, GL-8167-3439, CP-0009781; premium 630843.2; claims 9; cancellation No. 2020: EMPLOYERS Insurance Group; policy numbers WC008082-001, GL-4906-7512, CP00007431; premium 580805.53; claims 2; cancellation No."
+  }
+}

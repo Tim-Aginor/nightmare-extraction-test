@@ -1,0 +1,113 @@
+{
+  "form_info": {
+    "form_number": "ACORD 24",
+    "form_edition": "2016/03",
+    "form_title": "CERTIFICATE OF PROPERTY INSURANCE"
+  },
+  "header": {
+    "insured_name": "Keystone Commercial Builders, Inc.",
+    "insured_address": "300 Liberty Avenue, Suite 1200",
+    "insured_city": "Pittsburgh",
+    "insured_state": "PA",
+    "insured_zip": "15222",
+    "producer_name": "Steel City Insurance Group",
+    "producer_code": "AG-7721034",
+    "carrier_name": "Hallmark Insurance Company",
+    "policy_number": "CP-KCB-2025-5581",
+    "effective_date": "2025-08-01",
+    "expiration_date": "2026-08-01"
+  },
+  "applicant_info": {
+    "entity_type": "Corporation",
+    "fein": null,
+    "sic_code": null,
+    "naics_code": "41937",
+    "years_in_business": null,
+    "nature_of_business": null
+  },
+  "coverages_requested": [
+    {
+      "coverage_type": "BUILDING",
+      "limit": 15020000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "PERSONAL PROPERTY",
+      "limit": 14454000,
+      "deductible": 25000,
+      "premium": null
+    },
+    {
+      "coverage_type": "BUSINESS INCOME",
+      "limit": 10130000,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "EXTRA EXPENSE",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "RENTAL VALUE",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "BLANKET BUILDING",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "BLANKET PERS PROP",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    },
+    {
+      "coverage_type": "BLANKET BLDG & PP",
+      "limit": null,
+      "deductible": null,
+      "premium": null
+    }
+  ],
+  "checkboxes": {
+    "basic": "unchecked",
+    "broad": "unchecked",
+    "special": "checked",
+    "earthquake": "unchecked",
+    "wind": "unchecked",
+    "flood": "unchecked",
+    "inland_marine": "unchecked",
+    "crime": "unchecked",
+    "boiler_machinery": "unchecked"
+  },
+  "additional_fields": {
+    "producer_contact_name": "Patricia Nowak",
+    "producer_phone": "(412) 555-0287",
+    "producer_fax": "(412) 580-2110",
+    "producer_email": "pnowak@steelcityins.com",
+    "insurer_a": "Hallmark Insurance Company",
+    "insurer_a_naic": "41937",
+    "insurer_b": "Hallmark Indemnity Company",
+    "insurer_b_naic": "41983",
+    "insurer_c": "Hallmark Casualty Company",
+    "insurer_c_naic": "41845",
+    "insurer_d": "Hallmark Assurance Company",
+    "insurer_d_naic": "42154",
+    "certificate_number": "CERT-637937",
+    "revision_number": "1",
+    "location_of_premises": "300 Liberty Avenue, Suite 1200, Pittsburgh, PA 15222",
+    "construction_type": "Fire Resistive",
+    "occupancy": "Office",
+    "certificate_holder": "Woodbridge Realty Management Inc.",
+    "certificate_holder_address": "4715 Maple Avenue, Unit 129, Birmingham, AL 35201",
+    "authorized_representative": "Joseph Kowalczyk",
+    "certificate_date": "2025-08-15"
+  },
+  "remarks": null
+}

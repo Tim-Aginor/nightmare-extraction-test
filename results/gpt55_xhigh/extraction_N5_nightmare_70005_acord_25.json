@@ -1,0 +1,142 @@
+{
+  "carrier_name_per_lob": [
+    {
+      "carrier": "Standard Insurance Company",
+      "lob": "Commercial General Liability",
+      "naic": null,
+      "policy_number": "GLFS 2015 0021"
+    },
+    {
+      "carrier": "Standard Insurance Company",
+      "lob": "Automobile Liability",
+      "naic": null,
+      "policy_number": "CA GLFS 2015 0022"
+    },
+    {
+      "carrier": "Standard Insurance Company",
+      "lob": "Umbrella Liability",
+      "naic": null,
+      "policy_number": "XC GLFS 2015 0023"
+    },
+    {
+      "carrier": "Ohio Bureau of Workers Compensation",
+      "lob": "Workers Compensation and Employers' Liability",
+      "naic": null,
+      "policy_number": "WC GLFS 2015 0020"
+    }
+  ],
+  "certificate_holders": [
+    {
+      "address": "5217 Summit Avenue, Little Rock, AR 72201",
+      "name": "Quantum Realty Management Inc."
+    }
+  ],
+  "checkboxes": [
+    {
+      "field": "Commercial General Liability - Claims Made",
+      "value": "No"
+    },
+    {
+      "field": "Commercial General Liability - Occur",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial General Liability - General Aggregate Applies Per Policy",
+      "value": "Yes"
+    },
+    {
+      "field": "Commercial General Liability - General Aggregate Applies Per Project",
+      "value": "No"
+    },
+    {
+      "field": "Commercial General Liability - General Aggregate Applies Per Location",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Any Auto",
+      "value": "Yes"
+    },
+    {
+      "field": "Automobile Liability - Owned Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Scheduled Autos",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Hired Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Automobile Liability - Non-Owned Autos Only",
+      "value": "No"
+    },
+    {
+      "field": "Umbrella Liability - Occur",
+      "value": "Yes"
+    },
+    {
+      "field": "Umbrella Liability - Claims Made",
+      "value": "No"
+    },
+    {
+      "field": "Workers Compensation - Per Statute",
+      "value": "Yes"
+    },
+    {
+      "field": "Workers Compensation - Other",
+      "value": "No"
+    }
+  ],
+  "coverages_certified": [
+    {
+      "coverage_type": "Commercial General Liability",
+      "effective_date": "2015-09-01",
+      "expiration_date": "2016-09-01",
+      "limit": "Each occurrence 2,000,000; damage to rented premises 500,000; med exp 5,000; personal & adv injury 2,000,000; general aggregate 4,000,000; products-comp/op aggregate 4,000,000",
+      "policy_number": "GLFS 2015 0021"
+    },
+    {
+      "coverage_type": "Automobile Liability",
+      "effective_date": "2015-09-01",
+      "expiration_date": "2016-09-01",
+      "limit": "Combined single limit 5,000,000",
+      "policy_number": "CA GLFS 2015 0022"
+    },
+    {
+      "coverage_type": "Umbrella Liability",
+      "effective_date": "2015-09-01",
+      "expiration_date": "2016-09-01",
+      "limit": "Each occurrence 10,000,000; aggregate 10,000,000",
+      "policy_number": "XC GLFS 2015 0023"
+    },
+    {
+      "coverage_type": "Workers Compensation and Employers' Liability",
+      "effective_date": "2015-09-01",
+      "expiration_date": "2016-09-01",
+      "limit": "Per statute",
+      "policy_number": "WC GLFS 2015 0020"
+    }
+  ],
+  "document_date": "2016-05-19",
+  "form_info": {
+    "form_edition": "2016/03",
+    "form_number": "ACORD 25",
+    "form_title": "Certificate of Liability Insurance"
+  },
+  "header": {
+    "carrier_name": null,
+    "effective_date": "2015-09-01",
+    "expiration_date": "2016-09-01",
+    "insured_address": "1300 Nationwide Blvd.",
+    "insured_city": "Columbus",
+    "insured_name": "Great Lakes Freight Systems, Incorporated",
+    "insured_state": "OH",
+    "insured_zip": "43215",
+    "policy_number": null,
+    "producer_code": null,
+    "producer_name": "Transportation Insurance Specialists"
+  },
+  "remarks": "RE: Regional trucking and freight logistics -- LTL and FTL, general freight, warehousing and distribution services across the Midwest and Mid-Atlantic corridors. Locations: Corporate Headquarters & Main Terminal - 1300 Nationwide Boulevard, Columbus, OH 43215; Rickenbacker Air Hub - 2500 Norton Road, Columbus, OH 43217; Cleveland Distribution Center - 6000 Rockside Woods Boulevard, Independence, OH 44131. Quantum Realty Management Inc. is included as Additional Insured as required by written contract. 30 days notice of cancellation will be provided."
+}

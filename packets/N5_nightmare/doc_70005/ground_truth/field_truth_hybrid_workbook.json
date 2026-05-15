@@ -1,0 +1,49 @@
+{
+  "fields": {},
+  "doc_type": "hybrid_workbook",
+  "excel_metadata": {
+    "combination": "auto_submission",
+    "tab_types": {
+      "Vehicles": "vehicles",
+      "Fleet Drivers": "drivers",
+      "Motor Vehicle Reports": "mvr"
+    },
+    "tab_order": [
+      "Vehicles",
+      "Fleet Drivers",
+      "Motor Vehicle Reports"
+    ],
+    "primary_tab": "Vehicles",
+    "tabs": {
+      "Vehicles": {
+        "type": "vehicles",
+        "vehicle_count": 37
+      },
+      "Fleet Drivers": {
+        "type": "drivers",
+        "driver_count": 40
+      },
+      "Motor Vehicle Reports": {
+        "type": "mvr",
+        "driver_count": 40
+      }
+    },
+    "cross_tab_references": [],
+    "tab_freshness": {
+      "Vehicles": "current",
+      "Fleet Drivers": "current",
+      "Motor Vehicle Reports": "current"
+    },
+    "degraded_tabs": [
+      "Fleet Drivers"
+    ],
+    "merged_regions": [],
+    "hidden_rows": [],
+    "hidden_columns": [],
+    "hidden_sheets": [],
+    "comments": [],
+    "named_ranges": [],
+    "formatting_semantics": {}
+  },
+  "format": "xlsx"
+}

@@ -163,7 +163,7 @@
             "value": "HMK-2025-039474"
           },
           "claimant": {
-            "value": "أحمد بن سعيد"
+            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
           },
           "date_of_loss": {
             "value": "2025-11-24",
@@ -257,7 +257,7 @@
             "rendered_as": "11/30/2025"
           },
           "description": {
-            "value": "Employee experienced a frozen shoulder to the left shoulder while—reaching overhead to install sprinkler heads. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
+            "value": "Employee experienced a frozen shoulder to the left shoulder while\u2014reaching overhead to install sprinkler heads. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
           },
           "close_date": {
             "value": null
@@ -668,7 +668,7 @@
             "rendered_as": "03/02/2023"
           },
           "description": {
-            "value": "Employee sustained a fracture of the greater trochanter to the right hip while landing on the hip after–––––––––––––––––––––––––– falling from scaffolding."
+            "value": "Employee sustained a fracture of the greater trochanter to the right hip while landing on the hip after\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 falling from scaffolding."
           },
           "close_date": {
             "value": "2025-09-27",
@@ -758,7 +758,7 @@
             "value": "NWI-2025-039582"
           },
           "claimant": {
-            "value": "محمد العربي"
+            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
           },
           "date_of_loss": {
             "value": "2025-02-10",
@@ -886,7 +886,7 @@
             "value": "NWI-2022-039790"
           },
           "claimant": {
-            "value": "محمد العربي"
+            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
           },
           "date_of_loss": {
             "value": "2022-07-01",
@@ -1148,7 +1148,7 @@
             "rendered_as": "07/12/2022"
           },
           "description": {
-            "value": "Employee suffered a labral tear to the right hip while landing on the hip after falling from scaffolding. Occupational therapy was recommended for a period of 12 weeks."
+            "value": "Employee suffered a labral tear to the\u00a0right hip while landing on the\u00a0hip after falling from scaffolding. Occupational therapy was recommended for a period of 12 weeks."
           },
           "close_date": {
             "value": "2023-09-22",
@@ -1287,7 +1287,7 @@
             "value": "NWI-2021-040109"
           },
           "claimant": {
-            "value": "أحمد بن سعيد"
+            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
           },
           "date_of_loss": {
             "value": "2021-08-11",
@@ -1549,7 +1549,7 @@
             "rendered_as": "08/25/2021"
           },
           "description": {
-            "value": "Employee sustained a contusion and deep bruising to the right hip while—landing on the hip after falling from scaffolding. The employee was prescribed rest, ice, and a follow-up with a specialist."
+            "value": "Employee sustained a contusion and deep bruising to the right hip while\u2014landing on the hip after falling from scaffolding. The employee was prescribed rest, ice, and a follow-up with a specialist."
           },
           "close_date": {
             "value": "2022-07-04",
@@ -1889,7 +1889,7 @@
             "rendered_as": "02/02/2023"
           },
           "description": {
-            "value": "Employee sustained a’hip flexor strain to the left hip while slipping on a’rain-soaked sidewalk outside the facility. MRI confirmed the injury and the employee underwent arthroscopic surgery."
+            "value": "Employee sustained a\u2019hip flexor strain to the left hip while slipping on a\u2019rain-soaked sidewalk outside the facility. MRI confirmed the injury and the employee underwent arthroscopic surgery."
           },
           "close_date": {
             "value": "2024-06-23",
@@ -2299,7 +2299,7 @@
             "rendered_as": "08/25/2021"
           },
           "description": {
-            "value": "Employee suffered a tibial plateau fracture to the​​​​​​​​​​​​​ left knee while stepping into a pothole in the parking lot. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
+            "value": "Employee suffered a tibial plateau fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left knee while stepping into a pothole in the parking lot. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
           },
           "close_date": {
             "value": "2022-06-09",
@@ -2447,7 +2447,7 @@
             "value": "NWI-2021-040971"
           },
           "claimant": {
-            "value": "أحمد بن سعيد"
+            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
           },
           "date_of_loss": {
             "value": "2021-12-16",
@@ -2709,7 +2709,7 @@
             "rendered_as": "12/23/2021"
           },
           "description": {
-            "value": "Employee suffered a sternum…"
+            "value": "Employee suffered a sternum\u2026"
           },
           "close_date": {
             "value": "2022-08-27",
@@ -3063,7 +3063,7 @@
             "rendered_as": "07/14/2024"
           },
           "description": {
-            "value": "Employee sustained a dislocated shoulder to the right shoulder while—reaching overhead to install ductwork. Emergency reduction and immobilization were performed, followed by physical therapy for range of motion recovery."
+            "value": "Employee sustained a dislocated shoulder to the right shoulder while\u2014reaching overhead to install ductwork. Emergency reduction and immobilization were performed, followed by physical therapy for range of motion recovery."
           },
           "close_date": {
             "value": "2025-03-12",
@@ -3466,7 +3466,7 @@
             "rendered_as": "07/16/2021"
           },
           "description": {
-            "value": "Employee suffered a crush injury to the right foot while—stepping on a protruding nail at the construction site. Emergency medical treatment was administered on-site before transport to the hospital."
+            "value": "Employee suffered a crush injury to the right foot while\u2014stepping on a protruding nail at the construction site. Emergency medical treatment was administered on-site before transport to the hospital."
           },
           "close_date": {
             "value": "2023-05-17",
@@ -4216,7 +4216,7 @@
             "rendered_as": "11/26/2023"
           },
           "description": {
-            "value": "Employee suffered a’meniscus tear to the right knee while climbing a’8-foot ladder while carrying tools. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
+            "value": "Employee suffered a\u2019meniscus tear to the right knee while climbing a\u20198-foot ladder while carrying tools. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
           },
           "close_date": {
             "value": "2024-12-06",
@@ -4595,7 +4595,7 @@
             "rendered_as": "06/20/2021"
           },
           "description": {
-            "value": "Employee suffered a fracture of…"
+            "value": "Employee suffered a fracture of\u2026"
           },
           "close_date": {
             "value": "2022-04-06",
@@ -5005,7 +5005,7 @@
             "rendered_as": "03/26/2021"
           },
           "description": {
-            "value": "Employee sustained a rib fracture to the​​​​​​​​​​​​​​​​​​​​​​​​​​ chest while falling against a steel railing during a slip. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
+            "value": "Employee sustained a rib fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
           },
           "close_date": {
             "value": "2025-06-13",
@@ -5247,7 +5247,7 @@
             "rendered_as": "08/23/2025"
           },
           "description": {
-            "value": "Employee’s suffered a compression fracture to the​​​​​​​​​​​​​ lower back while shoveling debris at the job site. Treatment included physical therapy and a course of anti-inflammatory medication."
+            "value": "Employee\u2019s suffered a compression fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while shoveling debris at the job site. Treatment included physical therapy and a course of anti-inflammatory medication."
           },
           "close_date": {
             "value": null
@@ -6001,7 +6001,7 @@
             "rendered_as": "01/16/2024"
           },
           "description": {
-            "value": "Employee sustained multiple rib contusions to the​​​​​​​​​​​​​ chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
+            "value": "Employee sustained multiple rib contusions to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
           },
           "close_date": {
             "value": "2024-10-08",
@@ -7049,7 +7049,7 @@
             "rendered_as": "10/02/2024"
           },
           "description": {
-            "value": "Employee’s experienced an..."
+            "value": "Employee\u2019s experienced an..."
           },
           "close_date": {
             "value": null
@@ -7458,7 +7458,7 @@
             "rendered_as": "04/30/2021"
           },
           "description": {
-            "value": "Employee’s suffered a…"
+            "value": "Employee\u2019s suffered a\u2026"
           },
           "close_date": {
             "value": "2022-01-08",
@@ -7870,7 +7870,7 @@
             "rendered_as": "08/28/2024"
           },
           "description": {
-            "value": "Employee’s suffered a’labral tear to the right hip while landing on the hip after falling from scaffolding."
+            "value": "Employee\u2019s suffered a\u2019labral tear to the right hip while landing on the hip after falling from scaffolding."
           },
           "close_date": {
             "value": "2025-08-23",
@@ -8009,7 +8009,7 @@
             "value": "NWI-2021-044922"
           },
           "claimant": {
-            "value": "أحمد بن سعيد"
+            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
           },
           "date_of_loss": {
             "value": "2021-11-01",
@@ -8271,7 +8271,7 @@
             "rendered_as": "11/11/2021"
           },
           "description": {
-            "value": "Employee sustained a fracture of the greater trochanter to the​​​​​​​​​​​​​ right hip while—landing on the hip after falling from scaffolding. The injury required a splint and modified work duties for 4 weeks."
+            "value": "Employee sustained a fracture of the greater trochanter to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b right hip while\u2014landing on the hip after falling from scaffolding. The injury required a splint and modified work duties for 4 weeks."
           },
           "close_date": {
             "value": "2022-08-24",
@@ -8361,7 +8361,7 @@
             "value": "NWI-2022-044980"
           },
           "claimant": {
-            "value": "فاطمة الزهراء"
+            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
           },
           "date_of_loss": {
             "value": "2022-06-24",
@@ -8623,7 +8623,7 @@
             "rendered_as": "06/29/2022"
           },
           "description": {
-            "value": "Employee experienced a patellar fracture to the right knee while—descending a staircase in the facility while—carrying equipment. The employee was prescribed rest, ice, and a follow-up with a specialist."
+            "value": "Employee experienced a patellar fracture to the right knee while\u2014descending a staircase in the facility while\u2014carrying equipment. The employee was prescribed rest, ice, and a follow-up with a specialist."
           },
           "close_date": {
             "value": "2023-03-14",
@@ -9042,7 +9042,7 @@
             "rendered_as": "11/14/2024"
           },
           "description": {
-            "value": "Employee sustained multiple rib contusions to the chest while—falling against a steel railing during a slip."
+            "value": "Employee sustained multiple rib contusions to the\u00a0chest while\u2014falling against a steel railing during a slip."
           },
           "close_date": {
             "value": "2025-02-19",
@@ -9181,7 +9181,7 @@
             "value": "NWI-2025-045458"
           },
           "claimant": {
-            "value": "محمد العربي"
+            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
           },
           "date_of_loss": {
             "value": "2025-07-15",
@@ -9275,7 +9275,7 @@
             "rendered_as": "07/24/2025"
           },
           "description": {
-            "value": "Employee’s sustained a..."
+            "value": "Employee\u2019s sustained a..."
           },
           "close_date": {
             "value": null
@@ -9677,7 +9677,7 @@
             "rendered_as": "07/17/2022"
           },
           "description": {
-            "value": "Employee suffered a’labral tear to the..."
+            "value": "Employee suffered a\u2019labral tear to the..."
           },
           "close_date": {
             "value": "2023-07-05",
@@ -9816,7 +9816,7 @@
             "value": "ZIG-2023-045941"
           },
           "claimant": {
-            "value": "محمد العربي"
+            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
           },
           "date_of_loss": {
             "value": "2023-06-15",
@@ -10457,7 +10457,7 @@
             "rendered_as": "03/14/2024"
           },
           "description": {
-            "value": "Employee’s experienced a..."
+            "value": "Employee\u2019s experienced a..."
           },
           "close_date": {
             "value": "2025-08-24",
@@ -10692,7 +10692,7 @@
             "rendered_as": "08/27/2024"
           },
           "description": {
-            "value": "Employee suffered a’partial…"
+            "value": "Employee suffered a\u2019partial\u2026"
           },
           "close_date": {
             "value": null
@@ -10767,7 +10767,7 @@
             "value": "NWI-2021-046889"
           },
           "claimant": {
-            "value": "فاطمة الزهراء"
+            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
           },
           "date_of_loss": {
             "value": "2021-10-10",
@@ -11215,7 +11215,7 @@
             "rendered_as": "07/10/2025"
           },
           "description": {
-            "value": "Employee suffered a’chemical…"
+            "value": "Employee suffered a\u2019chemical\u2026"
           },
           "close_date": {
             "value": null
@@ -11973,7 +11973,7 @@
             "rendered_as": "04/18/2025"
           },
           "description": {
-            "value": "Employee experienced a’stress.............."
+            "value": "Employee experienced a\u2019stress.............."
           },
           "close_date": {
             "value": "2026-02-02",
@@ -12112,7 +12112,7 @@
             "value": "HTF-2024-048031"
           },
           "claimant": {
-            "value": "فاطمة الزهراء"
+            "value": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
           },
           "date_of_loss": {
             "value": "2024-07-30",
@@ -12374,7 +12374,7 @@
             "rendered_as": "07/31/2024"
           },
           "description": {
-            "value": "Employee suffered a herniated disc at L4-L5 to the​​​​​​​​​​​​​ lower back while shoveling debris at the job site. Occupational therapy was recommended for a period of 12 weeks."
+            "value": "Employee suffered a herniated disc at L4-L5 to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while shoveling debris at the job site. Occupational therapy was recommended for a period of 12 weeks."
           },
           "close_date": {
             "value": "2025-06-09",
@@ -12506,7 +12506,7 @@
             "value": "ZIG-2023-039474"
           },
           "claimant": {
-            "value": "محمد العربي"
+            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
           },
           "date_of_loss": {
             "value": "2023-01-25",
@@ -12800,7 +12800,7 @@
             "rendered_as": "2023-02-06"
           },
           "description": {
-            "value": "Customer at the facility was…"
+            "value": "Customer at the\u00a0facility was\u2026"
           },
           "close_date": {
             "value": "2023-07-06",
@@ -13130,7 +13130,7 @@
             "rendered_as": "2022-08-16"
           },
           "description": {
-            "value": "Customer at the facility was cut by a jagged product packaging edge that gave way when the customer leaned on it, requiring 8 stitches."
+            "value": "Customer at the\u00a0facility was cut by a jagged product packaging edge that gave way when the\u00a0customer leaned on it, requiring 8 stitches."
           },
           "close_date": {
             "value": "2024-01-08",
@@ -13189,7 +13189,7 @@
             "value": "MRK-2025-040109"
           },
           "claimant": {
-            "value": "محمد العربي"
+            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
           },
           "date_of_loss": {
             "value": "2025-06-14",
@@ -13283,7 +13283,7 @@
             "rendered_as": "2025-07-01"
           },
           "description": {
-            "value": "A neighboring tenant alleged…"
+            "value": "A neighboring tenant alleged\u2026"
           },
           "close_date": {
             "value": null
@@ -13826,7 +13826,7 @@
             "value": "MRK-2024-042434"
           },
           "claimant": {
-            "value": "محمد العربي"
+            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
           },
           "date_of_loss": {
             "value": "2024-10-17",
@@ -15500,7 +15500,7 @@
             "value": "HMK-2025-040159"
           },
           "claimant": {
-            "value": "أحمد بن سعيد"
+            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
           },
           "date_of_loss": {
             "value": "2025-11-18",
@@ -15816,7 +15816,7 @@
             "value": "TRV-2024-046889"
           },
           "claimant": {
-            "value": "أحمد بن سعيد"
+            "value": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f"
           },
           "date_of_loss": {
             "value": "2024-09-28",
@@ -15967,7 +15967,7 @@
             "value": "BHG-2024-039790"
           },
           "claimant": {
-            "value": "محمد العربي"
+            "value": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a"
           },
           "date_of_loss": {
             "value": "2024-04-15",
@@ -16266,7 +16266,7 @@
             "rendered_as": "Apr 24, 2024"
           },
           "description": {
-            "value": "Fleet utility vehicle was…"
+            "value": "Fleet utility vehicle was\u2026"
           },
           "close_date": {
             "value": "2024-08-10",
@@ -17286,7 +17286,7 @@
             "rendered_as": "Aug 28, 2023"
           },
           "description": {
-            "value": "The company's pickup truck…"
+            "value": "The company's pickup truck\u2026"
           },
           "close_date": {
             "value": "2024-03-06",
@@ -18258,7 +18258,7 @@
           },
           "total_reserved": {
             "value": 0.0,
-            "rendered_as": "—",
+            "rendered_as": "\u2014",
             "locations": [
               {
                 "page": 2,
@@ -18366,7 +18366,7 @@
           },
           "reserve": {
             "value": 0.0,
-            "rendered_as": "—",
+            "rendered_as": "\u2014",
             "locations": [
               {
                 "page": 2,
@@ -18475,7 +18475,7 @@
           },
           "total_reserved": {
             "value": 0.0,
-            "rendered_as": "—"
+            "rendered_as": "\u2014"
           },
           "total_incurred": {
             "value": 36750.0,
@@ -18512,13 +18512,13 @@
       {
         "claim_number": "HMK-2025-039474",
         "date_of_loss": "2025-11-24",
-        "claimant": "أحمد بن سعيد",
+        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
         "status": "Open",
         "coverage": "wc",
         "paid": 6299.43,
         "reserved": 8945.11,
         "incurred": 15244.54,
-        "description": "Employee experienced a frozen shoulder to the left shoulder while—reaching overhead to install sprinkler heads. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
+        "description": "Employee experienced a frozen shoulder to the left shoulder while\u2014reaching overhead to install sprinkler heads. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
       },
       {
         "claim_number": "ZIG-2023-039485",
@@ -18529,12 +18529,12 @@
         "paid": 30839.01,
         "reserved": 0.0,
         "incurred": 30839.01,
-        "description": "Employee sustained a fracture of the greater trochanter to the right hip while landing on the hip after–––––––––––––––––––––––––– falling from scaffolding."
+        "description": "Employee sustained a fracture of the greater trochanter to the right hip while landing on the hip after\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 falling from scaffolding."
       },
       {
         "claim_number": "NWI-2025-039582",
         "date_of_loss": "2025-02-10",
-        "claimant": "محمد العربي",
+        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
         "status": "Denied",
         "coverage": "wc",
         "paid": 0.0,
@@ -18545,24 +18545,24 @@
       {
         "claim_number": "NWI-2022-039790",
         "date_of_loss": "2022-07-01",
-        "claimant": "محمد العربي",
+        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
         "status": "Closed",
         "coverage": "wc",
         "paid": 44026.57,
         "reserved": 0.0,
         "incurred": 44026.57,
-        "description": "Employee suffered a labral tear to the right hip while landing on the hip after falling from scaffolding. Occupational therapy was recommended for a period of 12 weeks."
+        "description": "Employee suffered a labral tear to the\u00a0right hip while landing on the\u00a0hip after falling from scaffolding. Occupational therapy was recommended for a period of 12 weeks."
       },
       {
         "claim_number": "NWI-2021-040109",
         "date_of_loss": "2021-08-11",
-        "claimant": "أحمد بن سعيد",
+        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
         "status": "Closed",
         "coverage": "wc",
         "paid": 11643.04,
         "reserved": 0.0,
         "incurred": 11643.04,
-        "description": "Employee sustained a contusion and deep bruising to the right hip while—landing on the hip after falling from scaffolding. The employee was prescribed rest, ice, and a follow-up with a specialist."
+        "description": "Employee sustained a contusion and deep bruising to the right hip while\u2014landing on the hip after falling from scaffolding. The employee was prescribed rest, ice, and a follow-up with a specialist."
       },
       {
         "claim_number": "ZIG-2023-040159",
@@ -18573,7 +18573,7 @@
         "paid": 58869.06,
         "reserved": 0.0,
         "incurred": 58869.06,
-        "description": "Employee sustained a’hip flexor strain to the left hip while slipping on a’rain-soaked sidewalk outside the facility. MRI confirmed the injury and the employee underwent arthroscopic surgery."
+        "description": "Employee sustained a\u2019hip flexor strain to the left hip while slipping on a\u2019rain-soaked sidewalk outside the facility. MRI confirmed the injury and the employee underwent arthroscopic surgery."
       },
       {
         "claim_number": "NWI-2021-040485",
@@ -18584,18 +18584,18 @@
         "paid": 24087.67,
         "reserved": 0.0,
         "incurred": 24087.67,
-        "description": "Employee suffered a tibial plateau fracture to the​​​​​​​​​​​​​ left knee while stepping into a pothole in the parking lot. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
+        "description": "Employee suffered a tibial plateau fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b left knee while stepping into a pothole in the parking lot. Orthopedic evaluation and casting were performed, followed by 8 weeks of physical therapy."
       },
       {
         "claim_number": "NWI-2021-040971",
         "date_of_loss": "2021-12-16",
-        "claimant": "أحمد بن سعيد",
+        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
         "status": "Closed",
         "coverage": "wc",
         "paid": 3675.78,
         "reserved": 0.0,
         "incurred": 3675.78,
-        "description": "Employee suffered a sternum…"
+        "description": "Employee suffered a sternum\u2026"
       },
       {
         "claim_number": "HTF-2024-041287",
@@ -18606,7 +18606,7 @@
         "paid": 25381.42,
         "reserved": 0.0,
         "incurred": 25381.42,
-        "description": "Employee sustained a dislocated shoulder to the right shoulder while—reaching overhead to install ductwork. Emergency reduction and immobilization were performed, followed by physical therapy for range of motion recovery."
+        "description": "Employee sustained a dislocated shoulder to the right shoulder while\u2014reaching overhead to install ductwork. Emergency reduction and immobilization were performed, followed by physical therapy for range of motion recovery."
       },
       {
         "claim_number": "MRK-2021-041602",
@@ -18617,7 +18617,7 @@
         "paid": 74593.95,
         "reserved": 0.0,
         "incurred": 74593.95,
-        "description": "Employee suffered a crush injury to the right foot while—stepping on a protruding nail at the construction site. Emergency medical treatment was administered on-site before transport to the hospital."
+        "description": "Employee suffered a crush injury to the right foot while\u2014stepping on a protruding nail at the construction site. Emergency medical treatment was administered on-site before transport to the hospital."
       },
       {
         "claim_number": "NWI-2021-041762",
@@ -18639,7 +18639,7 @@
         "paid": 40169.6,
         "reserved": 0.0,
         "incurred": 40169.6,
-        "description": "Employee suffered a’meniscus tear to the right knee while climbing a’8-foot ladder while carrying tools. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
+        "description": "Employee suffered a\u2019meniscus tear to the right knee while climbing a\u20198-foot ladder while carrying tools. The worker was placed on light duty for 6 weeks and referred to an orthopedic specialist."
       },
       {
         "claim_number": "MRK-2021-042434",
@@ -18650,7 +18650,7 @@
         "paid": 34593.93,
         "reserved": 0.0,
         "incurred": 34593.93,
-        "description": "Employee suffered a fracture of…"
+        "description": "Employee suffered a fracture of\u2026"
       },
       {
         "claim_number": "MRK-2021-042709",
@@ -18661,7 +18661,7 @@
         "paid": 60415.16,
         "reserved": 0.0,
         "incurred": 60415.16,
-        "description": "Employee sustained a rib fracture to the​​​​​​​​​​​​​​​​​​​​​​​​​​ chest while falling against a steel railing during a slip. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
+        "description": "Employee sustained a rib fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. Surgery was required to repair the damage, followed by 8 weeks of rehabilitation."
       },
       {
         "claim_number": "HMK-2025-042857",
@@ -18672,7 +18672,7 @@
         "paid": 23136.19,
         "reserved": 11568.09,
         "incurred": 34704.28,
-        "description": "Employee’s suffered a compression fracture to the​​​​​​​​​​​​​ lower back while shoveling debris at the job site. Treatment included physical therapy and a course of anti-inflammatory medication."
+        "description": "Employee\u2019s suffered a compression fracture to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while shoveling debris at the job site. Treatment included physical therapy and a course of anti-inflammatory medication."
       },
       {
         "claim_number": "MRK-2021-043002",
@@ -18694,7 +18694,7 @@
         "paid": 3455.01,
         "reserved": 0.0,
         "incurred": 3455.01,
-        "description": "Employee sustained multiple rib contusions to the​​​​​​​​​​​​​ chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
+        "description": "Employee sustained multiple rib contusions to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b chest while falling against a steel railing during a slip. The injury required a splint and modified work duties for 4 weeks."
       },
       {
         "claim_number": "HTF-2024-043705",
@@ -18727,7 +18727,7 @@
         "paid": 20001.45,
         "reserved": 10000.73,
         "incurred": 30002.18,
-        "description": "Employee’s experienced an..."
+        "description": "Employee\u2019s experienced an..."
       },
       {
         "claim_number": "MRK-2021-044382",
@@ -18738,7 +18738,7 @@
         "paid": 22804.31,
         "reserved": 0.0,
         "incurred": 22804.31,
-        "description": "Employee’s suffered a…"
+        "description": "Employee\u2019s suffered a\u2026"
       },
       {
         "claim_number": "NWI-2024-044745",
@@ -18749,29 +18749,29 @@
         "paid": 36235.37,
         "reserved": 0.0,
         "incurred": 36235.37,
-        "description": "Employee’s suffered a’labral tear to the right hip while landing on the hip after falling from scaffolding."
+        "description": "Employee\u2019s suffered a\u2019labral tear to the right hip while landing on the hip after falling from scaffolding."
       },
       {
         "claim_number": "NWI-2021-044922",
         "date_of_loss": "2021-11-01",
-        "claimant": "أحمد بن سعيد",
+        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
         "status": "Closed",
         "coverage": "wc",
         "paid": 27815.6,
         "reserved": 0.0,
         "incurred": 27815.6,
-        "description": "Employee sustained a fracture of the greater trochanter to the​​​​​​​​​​​​​ right hip while—landing on the hip after falling from scaffolding. The injury required a splint and modified work duties for 4 weeks."
+        "description": "Employee sustained a fracture of the greater trochanter to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b right hip while\u2014landing on the hip after falling from scaffolding. The injury required a splint and modified work duties for 4 weeks."
       },
       {
         "claim_number": "NWI-2022-044980",
         "date_of_loss": "2022-06-24",
-        "claimant": "فاطمة الزهراء",
+        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
         "status": "Closed",
         "coverage": "wc",
         "paid": 28478.9,
         "reserved": 0.0,
         "incurred": 28478.9,
-        "description": "Employee experienced a patellar fracture to the right knee while—descending a staircase in the facility while—carrying equipment. The employee was prescribed rest, ice, and a follow-up with a specialist."
+        "description": "Employee experienced a patellar fracture to the right knee while\u2014descending a staircase in the facility while\u2014carrying equipment. The employee was prescribed rest, ice, and a follow-up with a specialist."
       },
       {
         "claim_number": "NWI-2024-045138",
@@ -18782,18 +18782,18 @@
         "paid": 1000.75,
         "reserved": 0.0,
         "incurred": 1000.75,
-        "description": "Employee sustained multiple rib contusions to the chest while—falling against a steel railing during a slip."
+        "description": "Employee sustained multiple rib contusions to the\u00a0chest while\u2014falling against a steel railing during a slip."
       },
       {
         "claim_number": "NWI-2025-045458",
         "date_of_loss": "2025-07-15",
-        "claimant": "محمد العربي",
+        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
         "status": "Open",
         "coverage": "wc",
         "paid": 10174.81,
         "reserved": 7492.2,
         "incurred": 17667.01,
-        "description": "Employee’s sustained a..."
+        "description": "Employee\u2019s sustained a..."
       },
       {
         "claim_number": "NWI-2022-045916",
@@ -18804,12 +18804,12 @@
         "paid": 23630.91,
         "reserved": 0.0,
         "incurred": 23630.91,
-        "description": "Employee suffered a’labral tear to the..."
+        "description": "Employee suffered a\u2019labral tear to the..."
       },
       {
         "claim_number": "ZIG-2023-045941",
         "date_of_loss": "2023-06-15",
-        "claimant": "محمد العربي",
+        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
         "status": "Closed",
         "coverage": "wc",
         "paid": 25558.69,
@@ -18826,7 +18826,7 @@
         "paid": 36189.96,
         "reserved": 0.0,
         "incurred": 36189.96,
-        "description": "Employee’s experienced a..."
+        "description": "Employee\u2019s experienced a..."
       },
       {
         "claim_number": "NWI-2024-046450",
@@ -18837,12 +18837,12 @@
         "paid": 199806.09,
         "reserved": 9990.3,
         "incurred": 209796.39,
-        "description": "Employee suffered a’partial…"
+        "description": "Employee suffered a\u2019partial\u2026"
       },
       {
         "claim_number": "NWI-2021-046889",
         "date_of_loss": "2021-10-10",
-        "claimant": "فاطمة الزهراء",
+        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
         "status": "Closed",
         "coverage": "wc",
         "paid": 4897.23,
@@ -18859,7 +18859,7 @@
         "paid": 31895.87,
         "reserved": 1594.79,
         "incurred": 33490.66,
-        "description": "Employee suffered a’chemical…"
+        "description": "Employee suffered a\u2019chemical\u2026"
       },
       {
         "claim_number": "HTF-2024-047429",
@@ -18881,29 +18881,29 @@
         "paid": 28764.4,
         "reserved": 0.0,
         "incurred": 28764.4,
-        "description": "Employee experienced a’stress.............."
+        "description": "Employee experienced a\u2019stress.............."
       },
       {
         "claim_number": "HTF-2024-048031",
         "date_of_loss": "2024-07-30",
-        "claimant": "فاطمة الزهراء",
+        "claimant": "\u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621",
         "status": "Closed",
         "coverage": "wc",
         "paid": 29790.62,
         "reserved": 0.0,
         "incurred": 29790.62,
-        "description": "Employee suffered a herniated disc at L4-L5 to the​​​​​​​​​​​​​ lower back while shoveling debris at the job site. Occupational therapy was recommended for a period of 12 weeks."
+        "description": "Employee suffered a herniated disc at L4-L5 to the\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b lower back while shoveling debris at the job site. Occupational therapy was recommended for a period of 12 weeks."
       },
       {
         "claim_number": "ZIG-2023-039474",
         "date_of_loss": "2023-01-25",
-        "claimant": "محمد العربي",
+        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
         "status": "Closed",
         "coverage": "gl",
         "paid": 12196.48,
         "reserved": 0.0,
         "incurred": 12196.48,
-        "description": "Customer at the facility was…"
+        "description": "Customer at the\u00a0facility was\u2026"
       },
       {
         "claim_number": "NWI-2022-039582",
@@ -18914,18 +18914,18 @@
         "paid": 11608.95,
         "reserved": 0.0,
         "incurred": 11608.95,
-        "description": "Customer at the facility was cut by a jagged product packaging edge that gave way when the customer leaned on it, requiring 8 stitches."
+        "description": "Customer at the\u00a0facility was cut by a jagged product packaging edge that gave way when the\u00a0customer leaned on it, requiring 8 stitches."
       },
       {
         "claim_number": "MRK-2025-040109",
         "date_of_loss": "2025-06-14",
-        "claimant": "محمد العربي",
+        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
         "status": "Open",
         "coverage": "gl",
         "paid": 11669.57,
         "reserved": 29914.59,
         "incurred": 41584.16,
-        "description": "A neighboring tenant alleged…"
+        "description": "A neighboring tenant alleged\u2026"
       },
       {
         "claim_number": "CNA-2021-040159",
@@ -18952,7 +18952,7 @@
       {
         "claim_number": "MRK-2024-042434",
         "date_of_loss": "2024-10-17",
-        "claimant": "محمد العربي",
+        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
         "status": "Open",
         "coverage": "gl",
         "paid": 18394.16,
@@ -18996,7 +18996,7 @@
       {
         "claim_number": "HMK-2025-040159",
         "date_of_loss": "2025-11-18",
-        "claimant": "أحمد بن سعيد",
+        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
         "status": "Open",
         "coverage": "auto",
         "paid": 1103.36,
@@ -19018,7 +19018,7 @@
       {
         "claim_number": "TRV-2024-046889",
         "date_of_loss": "2024-09-28",
-        "claimant": "أحمد بن سعيد",
+        "claimant": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0633\u0639\u064a\u062f",
         "status": "Open",
         "coverage": "auto",
         "paid": 1034.52,
@@ -19029,13 +19029,13 @@
       {
         "claim_number": "BHG-2024-039790",
         "date_of_loss": "2024-04-15",
-        "claimant": "محمد العربي",
+        "claimant": "\u0645\u062d\u0645\u062f \u0627\u0644\u0639\u0631\u0628\u064a",
         "status": "Closed",
         "coverage": "auto",
         "paid": 2616.15,
         "reserved": 0.0,
         "incurred": 2616.15,
-        "description": "Fleet utility vehicle was…"
+        "description": "Fleet utility vehicle was\u2026"
       },
       {
         "claim_number": "AIG-2021-044980",
@@ -19057,7 +19057,7 @@
         "paid": 2616.15,
         "reserved": 0.0,
         "incurred": 2616.15,
-        "description": "The company's pickup truck…"
+        "description": "The company's pickup truck\u2026"
       },
       {
         "claim_number": "BHG-2024-043761",
@@ -19122,6 +19122,6 @@
         "property"
       ]
     },
-    "document_path": "/home/test/Desktop/villify/output/nightmare/N4_expert/doc_70004/documents/loss_run_70004.pdf"
+    "document_path": "packets/N4_expert/doc_70004/documents/loss_run_70004.pdf"
   }
 }
