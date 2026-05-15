@@ -7,31 +7,31 @@ pre-run extractions from five frontier models at three reasoning effort
 levels (15 cohorts total). Re-score everything locally with no API
 keys, or re-run extraction against the corpus from scratch.
 
-> **Note on real entity names.** Carrier names (AIG, Chubb, Hartford,
-> Liberty Mutual, Nationwide, Travelers, Zurich, and others), some
-> addresses, and form-template metadata reference real commercial
-> insurance entities for adversarial realism — extractors that special-
-> case real-world carriers would otherwise game the test. All policy
-> numbers, premiums, claim values, insured names, loss histories, and
-> every other data point attached to those carriers is **synthetic and
-> generated programmatically**; nothing in this corpus reflects any
-> real entity's actual products, customers, financials, or operations.
+> Carrier names (AIG, Chubb, Hartford, Liberty Mutual, Nationwide,
+> Travelers, Zurich, and others), some addresses, and form-template
+> metadata reference real commercial insurance entities. Extractors that
+> special-case real-world carriers would otherwise game the test. Every
+> policy number, premium, claim value, insured name, loss history, and
+> other data point attached to those carriers is synthetic and generated
+> programmatically. Nothing in this corpus reflects any real entity's
+> actual products, customers, financials, or operations.
 
 Across 148 documents at default reasoning effort, the two OpenAI models
-hallucinate numbers at **11.4%** (GPT-5.5) and **11.9%** (GPT-5.4); Opus 4.7
-at **3.4%**, Sonnet 4.6 at **5.2%**. Gemini 3.1 Pro lands at **3.2%**,
-but its API default is thinking-on/HIGH (Google's docs are explicit: it
-cannot be disabled), so Gemini is reported in the matched HIGH/XHIGH
-tables of [`report.md`](report.md) rather than the default-only column —
-the default table is GPT/Claude thinking-off vs each other.
+hallucinate numbers at **11.4%** (GPT-5.5) and **11.9%** (GPT-5.4). Opus 4.7
+lands at **3.4%**, Sonnet 4.6 at **5.2%**. Gemini 3.1 Pro is at **3.2%**,
+but its API default is thinking-on/HIGH (Google's docs are explicit that
+it cannot be disabled), so Gemini is reported in the matched HIGH/XHIGH
+tables of [`report.md`](report.md) rather than the default-only column.
+The default table is GPT/Claude thinking-off versus each other.
 
-Headline rates are **precision-side** (hallucinated / emitted). The
-**recall-side complement** — correct vs wrong-value vs omitted, against
-GT-populated fields — is in `report.md` under "Field-level error
+Headline rates are precision-side (hallucinated / emitted). The
+recall-side complement (correct, wrong-value, and omitted, against
+GT-populated fields) lives in `report.md` under "Field-level error
 breakdown (recall view)" and in
 [`results_aggregate/field_breakdown.json`](results_aggregate/field_breakdown.json).
-Omission rates cluster at 19-22% across all 15 model×effort cohorts; the
-cross-model spread lives in the wrong-value column, not the omitted
+Omission rates cluster at 19-22% across all 15 model×effort cohorts, so
+the cross-model spread on hallucination rate is not explained by some
+models being selectively silent. The spread lives in the wrong-value
 column.
 
 Full breakdown by reasoning effort, category, difficulty, and recall
@@ -85,10 +85,10 @@ requirements.txt
 run_benchmark.sh          # End-to-end driver
 ```
 
-All scripts read `ground_truth/`, `results/`, and `packets/` **from the
-invoking directory**, not from the script's own location. Run them
-from this directory (the repo root after clone) and the paths just
-work; nothing to wire up.
+All scripts read `ground_truth/`, `results/`, and `packets/` from the
+invoking directory, not from the script's own location. Run them from
+this directory (the repo root after clone) and the paths work without
+any setup.
 
 ## Reproducing the findings
 
@@ -96,12 +96,12 @@ Three levels of effort depending on how deep you want to go. All three
 assume you've cloned this repo to `~/nightmare-benchmark` (adjust paths
 below if you cloned elsewhere).
 
-The corpus itself (the 148 rendered documents + per-doc generator
-truth artifacts) is a fixed snapshot — `packets/` and `ground_truth/`
-both ship pre-populated, and the generator that produced them is not
-part of this release. Re-scoring (Level 2) and re-extraction against
-the published corpus (Level 3) are the supported reproducibility
-paths; regenerating the corpus from a seed is not.
+The corpus itself (the 148 rendered documents and per-doc generator
+truth artifacts) is a fixed snapshot. `packets/` and `ground_truth/`
+ship pre-populated, and the generator that produced them is not part
+of this release. Re-scoring (Level 2) and re-extraction against the
+published corpus (Level 3) are the supported reproducibility paths;
+regenerating the corpus from a seed is not.
 
 ### Level 1: inspect the aggregate numbers (no install)
 
@@ -136,11 +136,11 @@ pre-run extractions for all 15 cohorts (5 models × 3 efforts) across all
 148 documents. Produces the per-doc numbers that feed into the aggregate
 tables.
 
-**Prerequisites:** Python 3.10+. The v1 analyzer is JSON-only — no
+Requires Python 3.10+. The v1 analyzer is JSON-only, with no
 `pdftotext`, OCR, or `openpyxl` dependencies. The per-packet universe is
-built from the generator's own `document_truth_*.json` /
-`field_truth_*.json` / `packet_truth.json` artifacts, not from re-parsing
-the rendered PDFs.
+built from the generator's own `document_truth_*.json`,
+`field_truth_*.json`, and `packet_truth.json` artifacts, not from
+re-parsing the rendered PDFs.
 
 ```bash
 # From this directory (the clone of the public repo)
@@ -175,11 +175,11 @@ export GOOGLE_API_KEY=...
 ```
 
 The extraction runs hit network timeouts on a handful of long
-scan-heavy docs at HIGH/XHIGH effort — seven repeatable cases, all in
-`packets/N4_expert/` and `packets/N5_nightmare/`: loss_run + loss_run_excel
-on N4, loss_run + loss_run_excel + loss_run_csv + driver_schedule +
-acord_127 on N5. Those rows show up as missing entries in the per-cohort
-scores rather than failing the whole run.
+scan-heavy docs at HIGH/XHIGH effort. Seven repeatable cases, all in
+`packets/N4_expert/` and `packets/N5_nightmare/`: `loss_run` and
+`loss_run_excel` on N4; `loss_run`, `loss_run_excel`, `loss_run_csv`,
+`driver_schedule`, and `acord_127` on N5. Those rows show up as missing
+entries in the per-cohort scores rather than failing the whole run.
 
 ### Scoring your own extractor against the sample
 
@@ -200,27 +200,29 @@ the side-by-side comparables.
 
 ## What's measured
 
-**Headline metric: numeric hallucination rate** = hallucinated numbers /
-numbers emitted (precision-side, denominator = values the model emitted).
-"Hallucinated" means the value does not appear in the per-packet universe
-(packet GT + per-document generator artifacts: document_truth,
-field_truth, manifest, packet_truth JSON). A second pass
-(`alias_audit.py`) double-checks each flagged value by token-level
-coverage against that universe; only values that fail both passes are
-counted.
+The headline metric is the numeric hallucination rate: hallucinated
+numbers divided by numbers emitted (precision-side, so the denominator
+is values the model emitted). "Hallucinated" means the value does not
+appear in the per-packet universe (packet GT plus per-document
+generator artifacts: document_truth, field_truth, manifest, and
+packet_truth JSON). A second pass in `alias_audit.py` re-checks each
+flagged value by token-level coverage against that universe, so only
+values that fail both passes are counted.
 
-**Recall-side complement: field-level error breakdown**
-(`results_aggregate/field_breakdown.json`) splits every GT-populated
-field into correct / wrong-value / omitted. The denominator is
-GT-populated fields (not model-emitted values), so a `null` where GT has
-a value counts as a failure. Empirically, omission rates cluster at
-19-22% across all 15 cohorts, so the cross-model spread on hallucination
-rate is not explained by some models being selectively silent — the
-spread lives in the wrong-value column.
+The recall-side complement lives in
+[`results_aggregate/field_breakdown.json`](results_aggregate/field_breakdown.json)
+and splits every GT-populated field into correct, wrong-value, and
+omitted. The denominator is GT-populated fields rather than
+model-emitted values, so a `null` where GT has a value counts as a
+failure. Omission rates cluster at 19-22% across all 15 cohorts, which
+means the cross-model spread on hallucination rate is not explained by
+some models being selectively silent. The spread lives in the
+wrong-value column.
 
-**Supplementary:** string hallucination rate, per-category breakdowns,
-paired per-doc sign tests, bootstrap CIs, recall-vs-hallucination Pareto,
-and per-doc internal-consistency checks.
+Supplementary outputs include string hallucination rate, per-category
+breakdowns, paired per-doc sign tests, bootstrap CIs,
+recall-vs-hallucination Pareto, and per-doc internal-consistency
+checks.
 
 See [`report.md`](report.md) for the full results on the complete
 5-packet run, including exact API settings per model and per-model run
@@ -228,24 +230,27 @@ counts (including timeout exclusions).
 
 ## Methodology notes
 
-Full methodology notes — universe construction, scoring choices
-(exact-match numeric, exact-token strings, ACORD enum aliasing, the
-SKIP_LEAF_NAMES allowlist), provider asymmetries (Anthropic tool_use
-envelope unwrap, tool_choice under reasoning, retry/timeout budgets,
-default reasoning effort across providers), and statistical choices
-(single trial per cohort, micro-averaging, doc-level independence in
-the sign test, per-difficulty sample sizes) — live at the bottom of
-[`report.md` → Methodology notes](report.md#methodology-notes) so the
-notes sit alongside the tables they apply to.
+Full methodology notes live at the bottom of
+[`report.md`](report.md#methodology-notes), alongside the tables they
+apply to. They cover:
+
+- Universe construction
+- Scoring choices: exact-match numeric, exact-token strings, ACORD enum
+  aliasing, and the `SKIP_LEAF_NAMES` allowlist
+- Provider asymmetries: Anthropic tool_use envelope unwrap, tool_choice
+  under reasoning, retry and timeout budgets, default reasoning effort
+  across providers
+- Statistical choices: single trial per cohort, micro-averaging,
+  doc-level independence in the sign test, per-difficulty sample sizes
 
 ## Re-running on your own model
 
-All 5 packets and all 15 cohorts ship with this repo, so a new extractor
-can be measured against the same universe and the same per-doc inputs
-without back-and-forth. Drop its outputs into
+All 5 packets and all 15 cohorts ship with this repo, so a new
+extractor can be measured against the same universe and the same
+per-doc inputs with no further setup. Drop its outputs into
 `results/<yourmodel>/extraction_<packet_id>_<doc_key>.json` and re-run
 `./run_benchmark.sh --score-only`. The headline tables in `report.md`
-will pick up your model in the per-doc + aggregate sections.
+will pick up your model in the per-doc and aggregate sections.
 
 If you want help adapting prompts or have questions about the
 methodology, email tim@aginor.ai.
