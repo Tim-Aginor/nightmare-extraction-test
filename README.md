@@ -38,6 +38,7 @@ Full breakdown by reasoning effort, category, difficulty, and recall
 view in [`report.md`](report.md).
 
 **Jump to:** [Repo layout](#repo-layout) · [Reproduce](#reproducing-the-findings) · [What's measured](#whats-measured) · [Re-run on your model](#re-running-on-your-own-model)
+
 **See also:** [Full results tables](report.md) · [Methodology notes](report.md#methodology-notes) · [Two example cases](examples/)
 
 ## Repo layout
